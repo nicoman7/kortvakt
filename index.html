@@ -6,17 +6,19 @@
 <title>Kortvakt — billige kortsamlinger på Finn</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --paper: #EDEFE6;
-    --paper-raised: #F6F7F1;
-    --ink: #202E23;
-    --ink-soft: #5A6A5C;
-    --gold: #B0812C;
-    --teal: #2E7A6C;
-    --rust: #B14B3C;
-    --line: rgba(32, 46, 35, 0.14);
+    --bg: #0A0E14;
+    --bg-panel: #12181F;
+    --bg-panel-raised: #161D26;
+    --yellow: #F5D400;
+    --green: #39FF88;
+    --green-dim: #1E9E5A;
+    --text: #E7EDF3;
+    --text-dim: #7C8B99;
+    --line: rgba(245, 212, 0, 0.16);
+    --line-green: rgba(57, 255, 136, 0.25);
     --radius: 14px;
   }
 
@@ -24,63 +26,137 @@
 
   body {
     margin: 0;
-    background: var(--paper);
-    color: var(--ink);
+    background:
+      radial-gradient(circle at 15% 0%, rgba(57,255,136,0.07), transparent 40%),
+      radial-gradient(circle at 85% 10%, rgba(245,212,0,0.06), transparent 40%),
+      var(--bg);
+    color: var(--text);
     font-family: 'Space Grotesk', sans-serif;
-    background-image:
-      radial-gradient(circle at 1px 1px, rgba(32,46,35,0.06) 1px, transparent 0);
-    background-size: 22px 22px;
+    min-height: 100vh;
   }
 
   .wrap {
-    max-width: 980px;
+    max-width: 1040px;
     margin: 0 auto;
-    padding: 40px 20px 80px;
+    padding: 32px 20px 80px;
   }
 
+  /* ---------- Header ---------- */
   header {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-end;
     justify-content: space-between;
-    gap: 16px;
-    border-bottom: 2px solid var(--ink);
+    align-items: center;
+    gap: 14px;
     padding-bottom: 20px;
-    margin-bottom: 8px;
+    margin-bottom: 22px;
+    border-bottom: 1px solid var(--line);
   }
 
-  .brand {
-    display: flex;
-    align-items: baseline;
-    gap: 12px;
-  }
-
-  .brand-mark {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 13px;
-    letter-spacing: 0.14em;
-    color: var(--teal);
-    border: 1.5px solid var(--teal);
-    border-radius: 999px;
-    padding: 3px 10px;
-    text-transform: uppercase;
-  }
+  .brand-row { display: flex; align-items: center; gap: 16px; }
 
   h1 {
-    font-family: 'Fraunces', serif;
-    font-weight: 600;
-    font-size: clamp(2.2rem, 5vw, 3.2rem);
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.6rem, 4.4vw, 2.4rem);
     margin: 0;
-    letter-spacing: -0.01em;
+    letter-spacing: 0.02em;
+    color: var(--yellow);
+    text-shadow: 0 0 18px rgba(245,212,0,0.35);
   }
+  h1 span { color: var(--green); text-shadow: 0 0 18px rgba(57,255,136,0.45); }
+
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    color: var(--green);
+    border: 1px solid var(--line-green);
+    background: rgba(57,255,136,0.06);
+    border-radius: 999px;
+    padding: 6px 14px;
+  }
+  .status-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--green);
+    box-shadow: 0 0 6px var(--green), 0 0 14px var(--green);
+    animation: blink 1.6s ease-in-out infinite;
+  }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
 
   .tagline {
-    font-size: 15px;
-    color: var(--ink-soft);
-    max-width: 30ch;
-    text-align: right;
-    line-height: 1.4;
+    font-size: 13px;
+    color: var(--text-dim);
+    font-family: 'JetBrains Mono', monospace;
   }
+
+  /* ---------- Terminal / live log ---------- */
+  .terminal {
+    background: #05070A;
+    border: 1px solid var(--line-green);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 26px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    color: var(--green);
+    height: 132px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: inset 0 0 24px rgba(57,255,136,0.06);
+  }
+  .terminal-header {
+    display: flex;
+    justify-content: space-between;
+    color: var(--text-dim);
+    font-size: 11px;
+    margin-bottom: 8px;
+    letter-spacing: 0.08em;
+  }
+  .terminal-lines div {
+    opacity: 0;
+    animation: fadeIn 0.4s ease forwards;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  @keyframes fadeIn { to { opacity: 1; } }
+  .terminal-lines .siste::after {
+    content: "▌";
+    animation: blink 1s step-start infinite;
+    color: var(--green);
+  }
+
+  /* ---------- Tabs ---------- */
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 22px;
+  }
+  .tab-btn {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    color: var(--text-dim);
+    border-radius: 999px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .tab-btn:hover { color: var(--text); border-color: var(--line-green); }
+  .tab-btn.aktiv {
+    color: #05070A;
+    background: var(--green);
+    border-color: var(--green);
+    box-shadow: 0 0 14px rgba(57,255,136,0.4);
+    font-weight: 700;
+  }
+  .tab-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
 
   .status-bar {
     display: flex;
@@ -88,163 +164,195 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 13px;
-    color: var(--ink-soft);
-    padding: 14px 0 30px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
+    color: var(--text-dim);
+    padding-bottom: 18px;
   }
-
   #refresh-btn {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 13px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12.5px;
     background: none;
-    border: 1.5px solid var(--ink);
-    color: var(--ink);
+    border: 1px solid var(--line);
+    color: var(--text-dim);
     border-radius: 999px;
     padding: 6px 14px;
     cursor: pointer;
-    transition: background 0.15s ease, color 0.15s ease;
   }
-  #refresh-btn:hover { background: var(--ink); color: var(--paper-raised); }
-  #refresh-btn:focus-visible { outline: 3px solid var(--teal); outline-offset: 2px; }
+  #refresh-btn:hover { border-color: var(--yellow); color: var(--yellow); }
+  #refresh-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
 
+  /* ---------- Grid & cards ---------- */
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 22px;
+    gap: 20px;
   }
 
   .card {
     position: relative;
-    background: var(--paper-raised);
+    background: linear-gradient(165deg, var(--bg-panel-raised), var(--bg-panel));
     border: 1px solid var(--line);
     border-radius: var(--radius);
     padding: 20px 18px 18px;
-    box-shadow: 0 1px 0 rgba(32,46,35,0.04);
     overflow: hidden;
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    transition: transform 0.18s ease, border-color 0.18s ease;
   }
   .card::before {
     content: "";
     position: absolute;
     top: 0; left: 0; right: 0;
-    height: 5px;
-    background: linear-gradient(90deg, var(--gold), var(--teal) 60%, var(--gold));
+    height: 3px;
+    background: linear-gradient(90deg, var(--yellow), var(--green));
+  }
+  /* Holografisk sveip på hover */
+  .card::after {
+    content: "";
+    position: absolute;
+    inset: -60%;
+    background: linear-gradient(115deg,
+      transparent 25%,
+      rgba(245,212,0,0.16) 40%,
+      rgba(57,255,136,0.28) 50%,
+      rgba(245,212,0,0.16) 60%,
+      transparent 75%);
+    transform: translateX(-130%) rotate(8deg);
+    transition: transform 0.7s ease;
+    pointer-events: none;
   }
   .card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 10px 24px rgba(32,46,35,0.12);
+    border-color: var(--line-green);
   }
+  .card:hover::after { transform: translateX(15%) rotate(8deg); }
 
-  .card a.card-link:focus-visible {
-    outline: 3px solid var(--teal);
-    outline-offset: 3px;
-    border-radius: 8px;
-  }
-
-  .ribbon {
+  .heart-btn {
     position: absolute;
     top: 14px;
-    right: -32px;
-    transform: rotate(38deg);
-    background: var(--rust);
-    color: var(--paper-raised);
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    padding: 3px 38px;
+    right: 14px;
+    background: rgba(5,7,10,0.6);
+    border: 1px solid var(--line);
+    color: var(--text-dim);
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 15px;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s ease;
+    z-index: 2;
   }
+  .heart-btn:hover { border-color: var(--yellow); color: var(--yellow); }
+  .heart-btn.aktiv { color: #ff4d6d; border-color: #ff4d6d; }
+  .heart-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
 
   .price-tag {
     display: inline-block;
-    font-family: 'IBM Plex Mono', monospace;
-    font-weight: 600;
-    font-size: 14px;
-    color: var(--gold);
-    border: 1.5px dashed var(--gold);
-    border-radius: 8px;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 13.5px;
+    color: #05070A;
+    background: var(--yellow);
+    border-radius: 6px;
     padding: 3px 10px;
-    transform: rotate(-2deg);
     margin-bottom: 12px;
   }
 
   .card h2 {
-    font-family: 'Fraunces', serif;
-    font-weight: 600;
-    font-size: 19px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 17.5px;
     line-height: 1.3;
-    margin: 0 0 14px;
+    margin: 0 44px 14px 0;
+    color: var(--text);
   }
 
   .card-link {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    font-size: 14px;
+    font-size: 13.5px;
     font-weight: 500;
-    color: var(--ink);
+    color: var(--green);
     text-decoration: none;
-    border-bottom: 1.5px solid var(--ink);
-    padding-bottom: 1px;
+    border-bottom: 1px solid var(--green-dim);
   }
-  .card-link:hover { color: var(--teal); border-color: var(--teal); }
+  .card-link:hover { color: var(--yellow); border-color: var(--yellow); }
 
   .found-at {
     display: block;
     margin-top: 12px;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 12px;
-    color: var(--ink-soft);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11.5px;
+    color: var(--text-dim);
+  }
+
+  .kategori-merke {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    color: var(--text-dim);
+    margin-bottom: 10px;
+    letter-spacing: 0.04em;
   }
 
   .empty {
+    grid-column: 1 / -1;
     text-align: center;
-    padding: 70px 20px;
-    color: var(--ink-soft);
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 14px;
-    border: 1.5px dashed var(--line);
+    padding: 60px 20px;
+    color: var(--text-dim);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13.5px;
+    border: 1px dashed var(--line);
     border-radius: var(--radius);
   }
   .empty strong {
     display: block;
-    font-family: 'Fraunces', serif;
-    font-style: italic;
-    font-weight: 500;
-    color: var(--ink);
-    font-size: 20px;
+    font-family: 'Orbitron', sans-serif;
+    color: var(--yellow);
+    font-size: 17px;
     margin-bottom: 8px;
   }
 
   footer {
     text-align: center;
-    margin-top: 60px;
-    font-size: 12px;
-    color: var(--ink-soft);
-    font-family: 'IBM Plex Mono', monospace;
+    margin-top: 50px;
+    font-size: 11.5px;
+    color: var(--text-dim);
+    font-family: 'JetBrains Mono', monospace;
   }
 
   @media (prefers-reduced-motion: reduce) {
+    .status-dot, .card::after, .terminal-lines .siste::after { animation: none; }
     .card { transition: none; }
   }
 
   @media (max-width: 560px) {
     header { flex-direction: column; align-items: flex-start; }
-    .tagline { text-align: left; }
   }
 </style>
 </head>
 <body>
   <div class="wrap">
     <header>
-      <div class="brand">
-        <span class="brand-mark">Kortvakt</span>
+      <div class="brand-row">
+        <h1>KORT<span>VAKT</span></h1>
       </div>
-      <p class="tagline">Skanner Finn.no etter billige Pokémon- og fotballkort, døgnet rundt.</p>
+      <div class="status-pill"><span class="status-dot"></span> BOT STATUS: ONLINE</div>
     </header>
+    <p class="tagline">// Skanner Finn.no etter Pokémon- og fotballkort, døgnet rundt.</p>
 
-    <h1>Nyeste kortkupp</h1>
+    <div class="terminal" style="margin-top:16px;">
+      <div class="terminal-header"><span>LIVE BOT LOGG</span><span>kortvakt.exe</span></div>
+      <div id="terminal-lines" class="terminal-lines"></div>
+    </div>
+
+    <div class="tabs" id="tabs">
+      <button class="tab-btn aktiv" data-fane="alle">🗂️ Alle</button>
+      <button class="tab-btn" data-fane="store_samlinger">📦 Store samlinger</button>
+      <button class="tab-btn" data-fane="sjeldne_glins">✨ Sjeldne &amp; glins</button>
+      <button class="tab-btn" data-fane="andre">🃏 Andre treff</button>
+      <button class="tab-btn" data-fane="favoritter">⭐ Mine favoritter</button>
+    </div>
 
     <div class="status-bar">
       <span id="status-text">Laster...</span>
@@ -257,35 +365,62 @@
   <footer>Bygget for å fange kortkupp før noen andre gjør det.</footer>
 
   <script>
+    const FAVORITT_NOKKEL = 'kortvakt_favoritter';
+    let alleFunn = [];
+    let aktivFane = 'alle';
+
     const grid = document.getElementById('grid');
     const statusText = document.getElementById('status-text');
     const refreshBtn = document.getElementById('refresh-btn');
+    const tabsEl = document.getElementById('tabs');
 
+    // ---------- Favoritter (localStorage) ----------
+    function hentFavoritter() {
+      try { return JSON.parse(localStorage.getItem(FAVORITT_NOKKEL) || '[]'); }
+      catch (e) { return []; }
+    }
+    function lagreFavoritter(liste) {
+      localStorage.setItem(FAVORITT_NOKKEL, JSON.stringify(liste));
+    }
+    function erFavoritt(lenke) { return hentFavoritter().includes(lenke); }
+    function toggleFavoritt(lenke) {
+      let liste = hentFavoritter();
+      liste = liste.includes(lenke) ? liste.filter(l => l !== lenke) : [...liste, lenke];
+      lagreFavoritter(liste);
+      tegnKort();
+    }
+
+    // ---------- Tid ----------
     function relativTid(isoStreng) {
       if (!isoStreng) return '';
       const da = new Date(isoStreng);
-      const na = new Date();
-      const sekunder = Math.floor((na - da) / 1000);
-
+      const sekunder = Math.floor((new Date() - da) / 1000);
       if (sekunder < 60) return 'akkurat nå';
       const minutter = Math.floor(sekunder / 60);
       if (minutter < 60) return `for ${minutter} min siden`;
       const timer = Math.floor(minutter / 60);
       if (timer < 24) return `for ${timer} t siden`;
-      const dager = Math.floor(timer / 24);
-      return `for ${dager} d siden`;
+      return `for ${Math.floor(timer / 24)} d siden`;
     }
 
+    const KATEGORI_NAVN = {
+      store_samlinger: '📦 Stor samling',
+      sjeldne_glins: '✨ Sjelden / glins',
+      andre: '🃏 Kort',
+    };
+
+    // ---------- Rendring ----------
     function lagKort(funn) {
       const erNytt = funn.funnet && (new Date() - new Date(funn.funnet)) < 60 * 60 * 1000;
-      const pris = funn.pris !== null && funn.pris !== undefined
-        ? `${funn.pris} kr`
-        : 'Pris ikke oppgitt';
+      const pris = (funn.pris !== null && funn.pris !== undefined) ? `${funn.pris} kr` : 'Pris ikke oppgitt';
+      const kategori = funn.kategori || 'andre';
+      const favoritt = erFavoritt(funn.lenke);
 
       const kort = document.createElement('article');
       kort.className = 'card';
       kort.innerHTML = `
-        ${erNytt ? '<span class="ribbon">NYTT</span>' : ''}
+        <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
+        <span class="kategori-merke">${KATEGORI_NAVN[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
         <span class="price-tag">${pris}</span>
         <h2>${funn.tittel}</h2>
         <a class="card-link" href="${funn.lenke}" target="_blank" rel="noopener">Se annonsen &rarr;</a>
@@ -294,28 +429,62 @@
       return kort;
     }
 
+    function filtrerFunn() {
+      if (aktivFane === 'alle') return alleFunn;
+      if (aktivFane === 'favoritter') {
+        const fav = hentFavoritter();
+        return alleFunn.filter(f => fav.includes(f.lenke));
+      }
+      return alleFunn.filter(f => (f.kategori || 'andre') === aktivFane);
+    }
+
+    function tomMelding() {
+      if (aktivFane === 'favoritter') {
+        return { tittel: 'Ingen favoritter ennå', tekst: 'Trykk på hjertet på et kort for å lagre det her.' };
+      }
+      return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn hvert 5. minutt. Denne siden oppdaterer seg selv når den finner noe.' };
+    }
+
+    function tegnKort() {
+      const funnListe = filtrerFunn();
+      grid.innerHTML = '';
+
+      if (funnListe.length === 0) {
+        const m = tomMelding();
+        grid.innerHTML = `<div class="empty"><strong>${m.tittel}</strong>${m.tekst}</div>`;
+        return;
+      }
+      funnListe.forEach(f => grid.appendChild(lagKort(f)));
+    }
+
+    // ---------- Faner ----------
+    tabsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.tab-btn');
+      if (!btn) return;
+      tabsEl.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('aktiv'));
+      btn.classList.add('aktiv');
+      aktivFane = btn.dataset.fane;
+      tegnKort();
+    });
+
+    // Favoritt-knapp (event delegation, siden kortene tegnes på nytt)
+    grid.addEventListener('click', (e) => {
+      const btn = e.target.closest('.heart-btn');
+      if (!btn) return;
+      toggleFavoritt(btn.dataset.lenke);
+    });
+
+    // ---------- Henter data ----------
     async function lastFunn() {
       statusText.textContent = 'Laster...';
       try {
         const respons = await fetch(`funn.json?_=${Date.now()}`, { cache: 'no-store' });
         const data = await respons.json();
-        const funnListe = data.funn || [];
-
-        grid.innerHTML = '';
-
-        if (funnListe.length === 0) {
-          grid.innerHTML = `
-            <div class="empty" style="grid-column: 1 / -1;">
-              <strong>Ingen treff ennå</strong>
-              Roboten sjekker Finn hvert 5. minutt. Denne siden oppdaterer seg selv når den finner noe.
-            </div>`;
-        } else {
-          funnListe.forEach(funn => grid.appendChild(lagKort(funn)));
-        }
-
+        alleFunn = data.funn || [];
+        tegnKort();
         statusText.textContent = data.sist_sjekket
-          ? `Sist sjekket ${relativTid(data.sist_sjekket)} · ${funnListe.length} treff totalt`
-          : `${funnListe.length} treff totalt`;
+          ? `Sist sjekket ${relativTid(data.sist_sjekket)} · ${alleFunn.length} treff totalt`
+          : `${alleFunn.length} treff totalt`;
       } catch (e) {
         statusText.textContent = 'Klarte ikke å laste funn.json ennå.';
       }
@@ -323,7 +492,32 @@
 
     refreshBtn.addEventListener('click', lastFunn);
     lastFunn();
-    setInterval(lastFunn, 60 * 1000); // oppdaterer automatisk hvert minutt
+    setInterval(lastFunn, 60 * 1000);
+
+    // ---------- Simulert live-logg ----------
+    const logLinjer = document.getElementById('terminal-lines');
+    const logMaler = [
+      'Skanner Finn.no etter kortsamlinger...',
+      'Sjekker pris- og nøkkelordfilter...',
+      'Analyserer nye annonser...',
+      'Sammenligner mot tidligere sette annonser...',
+      'Ingen nye treff i denne runden.',
+      'Venter til neste sjekk...',
+    ];
+    function leggTilLoggLinje() {
+      const tid = new Date().toLocaleTimeString('no-NO', { hour: '2-digit', minute: '2-digit' });
+      const tekst = logMaler[Math.floor(Math.random() * logMaler.length)];
+
+      [...logLinjer.children].forEach(l => l.classList.remove('siste'));
+      const linje = document.createElement('div');
+      linje.className = 'siste';
+      linje.textContent = `[${tid}] ${tekst}`;
+      logLinjer.appendChild(linje);
+
+      while (logLinjer.children.length > 6) logLinjer.removeChild(logLinjer.firstChild);
+    }
+    leggTilLoggLinje();
+    setInterval(leggTilLoggLinje, 4000);
   </script>
 </body>
 </html>
