@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="no">
+<html lang="no" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,17 +9,34 @@
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0A0E14;
-    --bg-panel: #12181F;
-    --bg-panel-raised: #161D26;
+    --bg: #0A0D16;
+    --bg-panel: #121729;
+    --bg-panel-raised: #161B2E;
+    --text: #E8ECF5;
+    --text-dim: #8890A6;
     --yellow: #F5D400;
     --green: #39FF88;
-    --green-dim: #1E9E5A;
-    --text: #E7EDF3;
-    --text-dim: #7C8B99;
+    --orange: #FF8A3D;
+    --pink: #FF4D8D;
     --line: rgba(245, 212, 0, 0.16);
-    --line-green: rgba(57, 255, 136, 0.25);
-    --radius: 14px;
+    --line-soft: rgba(255,255,255,0.08);
+    --card-shadow: 0 1px 0 rgba(0,0,0,0.2);
+    --radius: 16px;
+  }
+
+  html[data-theme="light"] {
+    --bg: #F5F3FA;
+    --bg-panel: #FFFFFF;
+    --bg-panel-raised: #FFFFFF;
+    --text: #1C1B29;
+    --text-dim: #6B6980;
+    --yellow: #C98A00;
+    --green: #0E9E63;
+    --orange: #E05F17;
+    --pink: #E23570;
+    --line: rgba(28,27,41,0.12);
+    --line-soft: rgba(28,27,41,0.08);
+    --card-shadow: 0 2px 10px rgba(28,27,41,0.06);
   }
 
   * { box-sizing: border-box; }
@@ -27,19 +44,16 @@
   body {
     margin: 0;
     background:
-      radial-gradient(circle at 15% 0%, rgba(57,255,136,0.07), transparent 40%),
-      radial-gradient(circle at 85% 10%, rgba(245,212,0,0.06), transparent 40%),
+      radial-gradient(circle at 12% 0%, color-mix(in srgb, var(--green) 10%, transparent), transparent 40%),
+      radial-gradient(circle at 88% 8%, color-mix(in srgb, var(--yellow) 9%, transparent), transparent 40%),
       var(--bg);
     color: var(--text);
     font-family: 'Space Grotesk', sans-serif;
     min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
-  .wrap {
-    max-width: 1040px;
-    margin: 0 auto;
-    padding: 32px 20px 80px;
-  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 32px 20px 80px; }
 
   /* ---------- Header ---------- */
   header {
@@ -53,8 +67,6 @@
     border-bottom: 1px solid var(--line);
   }
 
-  .brand-row { display: flex; align-items: center; gap: 16px; }
-
   h1 {
     font-family: 'Orbitron', sans-serif;
     font-weight: 900;
@@ -62,51 +74,80 @@
     margin: 0;
     letter-spacing: 0.02em;
     color: var(--yellow);
-    text-shadow: 0 0 18px rgba(245,212,0,0.35);
+    text-shadow: 0 0 18px color-mix(in srgb, var(--yellow) 40%, transparent);
   }
-  h1 span { color: var(--green); text-shadow: 0 0 18px rgba(57,255,136,0.45); }
+  h1 span { color: var(--green); text-shadow: 0 0 18px color-mix(in srgb, var(--green) 45%, transparent); }
+
+  .header-right { display: flex; align-items: center; gap: 10px; }
 
   .status-pill {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 9px;
     font-family: 'JetBrains Mono', monospace;
     font-size: 12px;
     letter-spacing: 0.06em;
     color: var(--green);
-    border: 1px solid var(--line-green);
-    background: rgba(57,255,136,0.06);
+    border: 1px solid color-mix(in srgb, var(--green) 35%, transparent);
+    background: color-mix(in srgb, var(--green) 7%, transparent);
     border-radius: 999px;
-    padding: 6px 14px;
+    padding: 6px 14px 6px 10px;
   }
+  .status-dot-wrap { position: relative; width: 10px; height: 10px; }
   .status-dot {
-    width: 8px; height: 8px; border-radius: 50%;
+    position: absolute; inset: 0;
+    border-radius: 50%;
     background: var(--green);
-    box-shadow: 0 0 6px var(--green), 0 0 14px var(--green);
-    animation: blink 1.6s ease-in-out infinite;
+    box-shadow: 0 0 6px var(--green), 0 0 12px var(--green);
   }
-  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .status-dot-ring {
+    position: absolute; inset: -4px;
+    border-radius: 50%;
+    border: 1.5px solid var(--green);
+    animation: ping 1.8s cubic-bezier(0,0,0.2,1) infinite;
+  }
+  @keyframes ping {
+    0% { transform: scale(0.6); opacity: 0.9; }
+    100% { transform: scale(2.2); opacity: 0; }
+  }
+
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 7px 14px;
+    cursor: pointer;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .theme-toggle:hover { border-color: var(--yellow); transform: translateY(-1px); }
+  .theme-toggle:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
 
   .tagline {
     font-size: 13px;
     color: var(--text-dim);
     font-family: 'JetBrains Mono', monospace;
+    margin: 16px 0 0;
   }
 
   /* ---------- Terminal / live log ---------- */
   .terminal {
-    background: #05070A;
-    border: 1px solid var(--line-green);
+    background: color-mix(in srgb, var(--bg) 92%, black 8%);
+    border: 1px solid color-mix(in srgb, var(--green) 30%, transparent);
     border-radius: var(--radius);
     padding: 14px 16px;
-    margin-bottom: 26px;
+    margin: 16px 0 26px;
     font-family: 'JetBrains Mono', monospace;
     font-size: 12.5px;
     color: var(--green);
-    height: 132px;
+    height: 136px;
     overflow: hidden;
     position: relative;
-    box-shadow: inset 0 0 24px rgba(57,255,136,0.06);
   }
   .terminal-header {
     display: flex;
@@ -116,27 +157,26 @@
     margin-bottom: 8px;
     letter-spacing: 0.08em;
   }
+  .terminal-lines { display: flex; flex-direction: column; gap: 2px; }
   .terminal-lines div {
-    opacity: 0;
-    animation: fadeIn 0.4s ease forwards;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.45s ease, transform 0.45s ease;
   }
-  @keyframes fadeIn { to { opacity: 1; } }
+  .terminal-lines div.vis { opacity: 1; transform: translateY(0); }
+  .terminal-lines div.ut { opacity: 0; transform: translateY(-6px); }
   .terminal-lines .siste::after {
     content: "▌";
+    margin-left: 2px;
     animation: blink 1s step-start infinite;
-    color: var(--green);
   }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
   /* ---------- Tabs ---------- */
-  .tabs {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 22px;
-  }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
   .tab-btn {
     font-family: 'JetBrains Mono', monospace;
     font-size: 12.5px;
@@ -148,15 +188,21 @@
     cursor: pointer;
     transition: all 0.15s ease;
   }
-  .tab-btn:hover { color: var(--text); border-color: var(--line-green); }
+  .tab-btn:hover { color: var(--text); border-color: var(--green); }
   .tab-btn.aktiv {
     color: #05070A;
     background: var(--green);
     border-color: var(--green);
-    box-shadow: 0 0 14px rgba(57,255,136,0.4);
+    box-shadow: 0 0 14px color-mix(in srgb, var(--green) 45%, transparent);
     font-weight: 700;
   }
   .tab-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+
+  .sport-tabs { margin-bottom: 22px; }
+  .sport-btn.aktiv[data-sport="pokemon"] { background: var(--yellow); border-color: var(--yellow); box-shadow: 0 0 14px color-mix(in srgb, var(--yellow) 45%, transparent); }
+  .sport-btn.aktiv[data-sport="fotball"] { background: var(--green); border-color: var(--green); box-shadow: 0 0 14px color-mix(in srgb, var(--green) 45%, transparent); }
+  .sport-btn.aktiv[data-sport="basketball"] { background: var(--orange); border-color: var(--orange); box-shadow: 0 0 14px color-mix(in srgb, var(--orange) 45%, transparent); }
+  .sport-btn.aktiv[data-sport="alt"] { background: var(--text); border-color: var(--text); color: var(--bg); }
 
   .status-bar {
     display: flex;
@@ -185,53 +231,50 @@
   /* ---------- Grid & cards ---------- */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
+    gap: 22px;
   }
 
   .card {
     position: relative;
-    background: linear-gradient(165deg, var(--bg-panel-raised), var(--bg-panel));
-    border: 1px solid var(--line);
+    padding: 3px;
+    border-radius: calc(var(--radius) + 3px);
+    background: linear-gradient(150deg, var(--yellow), var(--green) 55%, var(--orange));
+    transition: transform 0.18s ease;
+  }
+  .card:hover { transform: translateY(-4px); }
+
+  .card-inner {
+    position: relative;
+    background: var(--bg-panel-raised);
     border-radius: var(--radius);
     padding: 20px 18px 18px;
     overflow: hidden;
-    transition: transform 0.18s ease, border-color 0.18s ease;
+    height: 100%;
+    box-shadow: var(--card-shadow);
   }
-  .card::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--yellow), var(--green));
-  }
-  /* Holografisk sveip på hover */
-  .card::after {
+  .card-inner::after {
     content: "";
     position: absolute;
     inset: -60%;
     background: linear-gradient(115deg,
       transparent 25%,
-      rgba(245,212,0,0.16) 40%,
-      rgba(57,255,136,0.28) 50%,
-      rgba(245,212,0,0.16) 60%,
+      color-mix(in srgb, var(--yellow) 22%, transparent) 40%,
+      color-mix(in srgb, var(--green) 30%, transparent) 50%,
+      color-mix(in srgb, var(--yellow) 22%, transparent) 60%,
       transparent 75%);
     transform: translateX(-130%) rotate(8deg);
     transition: transform 0.7s ease;
     pointer-events: none;
   }
-  .card:hover {
-    transform: translateY(-3px);
-    border-color: var(--line-green);
-  }
-  .card:hover::after { transform: translateX(15%) rotate(8deg); }
+  .card:hover .card-inner::after { transform: translateX(15%) rotate(8deg); }
 
   .heart-btn {
     position: absolute;
     top: 14px;
     right: 14px;
-    background: rgba(5,7,10,0.6);
-    border: 1px solid var(--line);
+    background: color-mix(in srgb, var(--bg) 70%, transparent);
+    border: 1px solid var(--line-soft);
     color: var(--text-dim);
     width: 32px; height: 32px;
     border-radius: 50%;
@@ -241,8 +284,8 @@
     transition: all 0.15s ease;
     z-index: 2;
   }
-  .heart-btn:hover { border-color: var(--yellow); color: var(--yellow); }
-  .heart-btn.aktiv { color: #ff4d6d; border-color: #ff4d6d; }
+  .heart-btn:hover { border-color: var(--pink); color: var(--pink); }
+  .heart-btn.aktiv { color: var(--pink); border-color: var(--pink); }
   .heart-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
 
   .price-tag {
@@ -257,13 +300,12 @@
     margin-bottom: 12px;
   }
   .price-tag.bud {
-    color: var(--text);
     background: transparent;
-    border: 1.5px dashed #ff9d4d;
-    color: #ff9d4d;
+    border: 1.5px dashed var(--orange);
+    color: var(--orange);
   }
 
-  .card h2 {
+  .card-inner h2 {
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
     font-size: 17.5px;
@@ -272,17 +314,23 @@
     color: var(--text);
   }
 
-  .card-link {
+  .cta-btn {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
-    font-size: 13.5px;
-    font-weight: 500;
-    color: var(--green);
+    gap: 7px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: #05070A;
+    background: linear-gradient(90deg, var(--green), var(--yellow));
     text-decoration: none;
-    border-bottom: 1px solid var(--green-dim);
+    padding: 9px 16px;
+    border-radius: 999px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    margin-top: 4px;
   }
-  .card-link:hover { color: var(--yellow); border-color: var(--yellow); }
+  .cta-btn:hover { transform: scale(1.04); box-shadow: 0 0 18px color-mix(in srgb, var(--green) 55%, transparent); }
+  .cta-btn:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
 
   .found-at {
     display: block;
@@ -328,8 +376,8 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .status-dot, .card::after, .terminal-lines .siste::after { animation: none; }
-    .card { transition: none; }
+    .status-dot-ring, .card-inner::after, .terminal-lines .siste::after { animation: none; }
+    .card, .terminal-lines div { transition: none; }
   }
 
   @media (max-width: 560px) {
@@ -340,14 +388,18 @@
 <body>
   <div class="wrap">
     <header>
-      <div class="brand-row">
-        <h1>KORT<span>VAKT</span></h1>
+      <h1>KORT<span>VAKT</span></h1>
+      <div class="header-right">
+        <div class="status-pill">
+          <span class="status-dot-wrap"><span class="status-dot"></span><span class="status-dot-ring"></span></span>
+          BOT STATUS: ONLINE
+        </div>
+        <button class="theme-toggle" id="theme-toggle" type="button">🌙 Mørk</button>
       </div>
-      <div class="status-pill"><span class="status-dot"></span> BOT STATUS: ONLINE</div>
     </header>
-    <p class="tagline">// Skanner Finn.no etter Pokémon- og fotballkort, døgnet rundt.</p>
+    <p class="tagline">// Skanner Finn.no etter Pokémon-, fotball- og basketballkort, døgnet rundt.</p>
 
-    <div class="terminal" style="margin-top:16px;">
+    <div class="terminal">
       <div class="terminal-header"><span>LIVE BOT LOGG</span><span>kortvakt.exe</span></div>
       <div id="terminal-lines" class="terminal-lines"></div>
     </div>
@@ -359,6 +411,13 @@
       <button class="tab-btn" data-fane="andre">🃏 Andre treff</button>
       <button class="tab-btn" data-fane="pris_pa_foresporsel">💬 Pris på forespørsel</button>
       <button class="tab-btn" data-fane="favoritter">⭐ Mine favoritter</button>
+    </div>
+
+    <div class="tabs sport-tabs" id="sport-tabs">
+      <button class="tab-btn sport-btn aktiv" data-sport="alt">Alt</button>
+      <button class="tab-btn sport-btn" data-sport="pokemon">🟡 Pokémon</button>
+      <button class="tab-btn sport-btn" data-sport="fotball">🟢 Fotballkort</button>
+      <button class="tab-btn sport-btn" data-sport="basketball">🟠 Basketballkort</button>
     </div>
 
     <div class="status-bar">
@@ -373,22 +432,39 @@
 
   <script>
     const FAVORITT_NOKKEL = 'kortvakt_favoritter';
+    const TEMA_NOKKEL = 'kortvakt_tema';
     let alleFunn = [];
     let aktivFane = 'alle';
+    let aktivSport = 'alt';
 
     const grid = document.getElementById('grid');
     const statusText = document.getElementById('status-text');
     const refreshBtn = document.getElementById('refresh-btn');
     const tabsEl = document.getElementById('tabs');
+    const sportTabsEl = document.getElementById('sport-tabs');
+    const themeToggle = document.getElementById('theme-toggle');
+
+    // ---------- Tema (lys/mørk) ----------
+    function settTema(tema) {
+      document.documentElement.setAttribute('data-theme', tema);
+      themeToggle.textContent = tema === 'dark' ? '🌙 Mørk' : '☀️ Lys';
+      localStorage.setItem(TEMA_NOKKEL, tema);
+    }
+    (function lastTema() {
+      const lagret = localStorage.getItem(TEMA_NOKKEL);
+      settTema(lagret === 'light' ? 'light' : 'dark');
+    })();
+    themeToggle.addEventListener('click', () => {
+      const naavaerende = document.documentElement.getAttribute('data-theme');
+      settTema(naavaerende === 'dark' ? 'light' : 'dark');
+    });
 
     // ---------- Favoritter (localStorage) ----------
     function hentFavoritter() {
       try { return JSON.parse(localStorage.getItem(FAVORITT_NOKKEL) || '[]'); }
       catch (e) { return []; }
     }
-    function lagreFavoritter(liste) {
-      localStorage.setItem(FAVORITT_NOKKEL, JSON.stringify(liste));
-    }
+    function lagreFavoritter(liste) { localStorage.setItem(FAVORITT_NOKKEL, JSON.stringify(liste)); }
     function erFavoritt(lenke) { return hentFavoritter().includes(lenke); }
     function toggleFavoritt(lenke) {
       let liste = hentFavoritter();
@@ -417,6 +493,14 @@
       pris_pa_foresporsel: '💬 Pris på forespørsel',
     };
 
+    function finnSport(tittel) {
+      const t = (tittel || '').toLowerCase();
+      if (t.includes('pokemon') || t.includes('pokémon')) return 'pokemon';
+      if (t.includes('fotball')) return 'fotball';
+      if (t.includes('basketball') || t.includes('nba')) return 'basketball';
+      return 'annet';
+    }
+
     // ---------- Rendring ----------
     function lagKort(funn) {
       const erNytt = funn.funnet && (new Date() - new Date(funn.funnet)) < 60 * 60 * 1000;
@@ -430,23 +514,33 @@
       const kort = document.createElement('article');
       kort.className = 'card';
       kort.innerHTML = `
-        <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
-        <span class="kategori-merke">${KATEGORI_NAVN[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
-        <span class="price-tag ${budAnnonse ? 'bud' : ''}">${pris}</span>
-        <h2>${funn.tittel}</h2>
-        <a class="card-link" href="${funn.lenke}" target="_blank" rel="noopener">Se annonsen &rarr;</a>
-        <span class="found-at">Funnet ${relativTid(funn.funnet)}</span>
+        <div class="card-inner">
+          <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
+          <span class="kategori-merke">${KATEGORI_NAVN[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
+          <span class="price-tag ${budAnnonse ? 'bud' : ''}">${pris}</span>
+          <h2>${funn.tittel}</h2>
+          <div><a class="cta-btn" href="${funn.lenke}" target="_blank" rel="noopener">🔗 Åpne på Finn.no</a></div>
+          <span class="found-at">Funnet ${relativTid(funn.funnet)}</span>
+        </div>
       `;
       return kort;
     }
 
     function filtrerFunn() {
-      if (aktivFane === 'alle') return alleFunn;
+      let liste = alleFunn;
+
       if (aktivFane === 'favoritter') {
         const fav = hentFavoritter();
-        return alleFunn.filter(f => fav.includes(f.lenke));
+        liste = liste.filter(f => fav.includes(f.lenke));
+      } else if (aktivFane !== 'alle') {
+        liste = liste.filter(f => (f.kategori || 'andre') === aktivFane);
       }
-      return alleFunn.filter(f => (f.kategori || 'andre') === aktivFane);
+
+      if (aktivSport !== 'alt') {
+        liste = liste.filter(f => finnSport(f.tittel) === aktivSport);
+      }
+
+      return liste;
     }
 
     function tomMelding() {
@@ -456,7 +550,7 @@
       if (aktivFane === 'pris_pa_foresporsel') {
         return { tittel: 'Ingen slike ennå', tekst: 'Her havner annonser der selgeren skriver "kom med bud" eller "spør om pris" i stedet for en fast pris.' };
       }
-      return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn hvert 1.-2. minutt. Denne siden oppdaterer seg selv når den finner noe.' };
+      return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn jevnlig. Denne siden oppdaterer seg selv når den finner noe.' };
     }
 
     function tegnKort() {
@@ -481,7 +575,15 @@
       tegnKort();
     });
 
-    // Favoritt-knapp (event delegation, siden kortene tegnes på nytt)
+    sportTabsEl.addEventListener('click', (e) => {
+      const btn = e.target.closest('.sport-btn');
+      if (!btn) return;
+      sportTabsEl.querySelectorAll('.sport-btn').forEach(b => b.classList.remove('aktiv'));
+      btn.classList.add('aktiv');
+      aktivSport = btn.dataset.sport;
+      tegnKort();
+    });
+
     grid.addEventListener('click', (e) => {
       const btn = e.target.closest('.heart-btn');
       if (!btn) return;
@@ -508,7 +610,7 @@
     lastFunn();
     setInterval(lastFunn, 60 * 1000);
 
-    // ---------- Simulert live-logg ----------
+    // ---------- Simulert live-logg (med smooth inn/ut-animasjon) ----------
     const logLinjer = document.getElementById('terminal-lines');
     const logMaler = [
       'Skanner Finn.no etter kortsamlinger...',
@@ -518,17 +620,29 @@
       'Ingen nye treff i denne runden.',
       'Venter til neste sjekk...',
     ];
+
     function leggTilLoggLinje() {
       const tid = new Date().toLocaleTimeString('no-NO', { hour: '2-digit', minute: '2-digit' });
       const tekst = logMaler[Math.floor(Math.random() * logMaler.length)];
 
       [...logLinjer.children].forEach(l => l.classList.remove('siste'));
+
       const linje = document.createElement('div');
       linje.className = 'siste';
       linje.textContent = `[${tid}] ${tekst}`;
       logLinjer.appendChild(linje);
 
-      while (logLinjer.children.length > 6) logLinjer.removeChild(logLinjer.firstChild);
+      // Trigger inn-animasjon på neste frame
+      requestAnimationFrame(() => requestAnimationFrame(() => linje.classList.add('vis')));
+
+      // Fjern eldste linjer med en myk fade-ut i stedet for brått kutt
+      while (logLinjer.children.length > 6) {
+        const eldste = logLinjer.firstChild;
+        eldste.classList.remove('vis');
+        eldste.classList.add('ut');
+        setTimeout(() => eldste.remove(), 450);
+        break;
+      }
     }
     leggTilLoggLinje();
     setInterval(leggTilLoggLinje, 4000);
