@@ -256,6 +256,12 @@
     padding: 3px 10px;
     margin-bottom: 12px;
   }
+  .price-tag.bud {
+    color: var(--text);
+    background: transparent;
+    border: 1.5px dashed #ff9d4d;
+    color: #ff9d4d;
+  }
 
   .card h2 {
     font-family: 'Space Grotesk', sans-serif;
@@ -351,6 +357,7 @@
       <button class="tab-btn" data-fane="store_samlinger">📦 Store samlinger</button>
       <button class="tab-btn" data-fane="sjeldne_glins">✨ Sjeldne &amp; glins</button>
       <button class="tab-btn" data-fane="andre">🃏 Andre treff</button>
+      <button class="tab-btn" data-fane="pris_pa_foresporsel">💬 Pris på forespørsel</button>
       <button class="tab-btn" data-fane="favoritter">⭐ Mine favoritter</button>
     </div>
 
@@ -407,12 +414,16 @@
       store_samlinger: '📦 Stor samling',
       sjeldne_glins: '✨ Sjelden / glins',
       andre: '🃏 Kort',
+      pris_pa_foresporsel: '💬 Pris på forespørsel',
     };
 
     // ---------- Rendring ----------
     function lagKort(funn) {
       const erNytt = funn.funnet && (new Date() - new Date(funn.funnet)) < 60 * 60 * 1000;
-      const pris = (funn.pris !== null && funn.pris !== undefined) ? `${funn.pris} kr` : 'Pris ikke oppgitt';
+      const budAnnonse = !!funn.pris_pa_foresporsel;
+      const pris = budAnnonse
+        ? '💬 Kom med bud / spør'
+        : ((funn.pris !== null && funn.pris !== undefined) ? `${funn.pris} kr` : 'Pris ikke oppgitt');
       const kategori = funn.kategori || 'andre';
       const favoritt = erFavoritt(funn.lenke);
 
@@ -421,7 +432,7 @@
       kort.innerHTML = `
         <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
         <span class="kategori-merke">${KATEGORI_NAVN[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
-        <span class="price-tag">${pris}</span>
+        <span class="price-tag ${budAnnonse ? 'bud' : ''}">${pris}</span>
         <h2>${funn.tittel}</h2>
         <a class="card-link" href="${funn.lenke}" target="_blank" rel="noopener">Se annonsen &rarr;</a>
         <span class="found-at">Funnet ${relativTid(funn.funnet)}</span>
@@ -442,7 +453,10 @@
       if (aktivFane === 'favoritter') {
         return { tittel: 'Ingen favoritter ennå', tekst: 'Trykk på hjertet på et kort for å lagre det her.' };
       }
-      return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn hvert 5. minutt. Denne siden oppdaterer seg selv når den finner noe.' };
+      if (aktivFane === 'pris_pa_foresporsel') {
+        return { tittel: 'Ingen slike ennå', tekst: 'Her havner annonser der selgeren skriver "kom med bud" eller "spør om pris" i stedet for en fast pris.' };
+      }
+      return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn hvert 1.-2. minutt. Denne siden oppdaterer seg selv når den finner noe.' };
     }
 
     function tegnKort() {
