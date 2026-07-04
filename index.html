@@ -6,386 +6,223 @@
 <title>Kortvakt — billige kortsamlinger på Finn</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0A0D16;
-    --bg-panel: #121729;
-    --bg-panel-raised: #161B2E;
-    --text: #E8ECF5;
-    --text-dim: #8890A6;
-    --yellow: #F5D400;
-    --green: #39FF88;
-    --orange: #FF8A3D;
-    --pink: #FF4D8D;
-    --line: rgba(245, 212, 0, 0.16);
-    --line-soft: rgba(255,255,255,0.08);
-    --card-shadow: 0 1px 0 rgba(0,0,0,0.2);
-    --radius: 16px;
+    --bg1: #0b1024; --bg2: #101a3d; --bg3: #0d2b3a;
+    --cyan: #3ee6ff; --green: #7effa1; --yellow: #ffd93e;
+    --text: #EAF6FB; --text-dim: #93A9BA;
+    --glass: rgba(255,255,255,0.06);
+    --glass-border: rgba(255,255,255,0.14);
+    --glass-strong: rgba(255,255,255,0.10);
+    --radius: 18px;
+    --blob-opacity: 0.55;
   }
-
   html[data-theme="light"] {
-    --bg: #F5F3FA;
-    --bg-panel: #FFFFFF;
-    --bg-panel-raised: #FFFFFF;
-    --text: #1C1B29;
-    --text-dim: #6B6980;
-    --yellow: #C98A00;
-    --green: #0E9E63;
-    --orange: #E05F17;
-    --pink: #E23570;
-    --line: rgba(28,27,41,0.12);
-    --line-soft: rgba(28,27,41,0.08);
-    --card-shadow: 0 2px 10px rgba(28,27,41,0.06);
+    --bg1: #EAF7FB; --bg2: #EAFBF1; --bg3: #FFFCEA;
+    --cyan: #0891B2; --green: #15803D; --yellow: #A8710A;
+    --text: #0B1220; --text-dim: #55677A;
+    --glass: rgba(255,255,255,0.55);
+    --glass-border: rgba(11,18,32,0.10);
+    --glass-strong: rgba(255,255,255,0.75);
+    --blob-opacity: 0.35;
   }
 
   * { box-sizing: border-box; }
 
   body {
-    margin: 0;
-    background:
-      radial-gradient(circle at 12% 0%, color-mix(in srgb, var(--green) 10%, transparent), transparent 40%),
-      radial-gradient(circle at 88% 8%, color-mix(in srgb, var(--yellow) 9%, transparent), transparent 40%),
-      var(--bg);
-    color: var(--text);
-    font-family: 'Space Grotesk', sans-serif;
-    min-height: 100vh;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 0; min-height: 100vh; color: var(--text); font-family: 'Space Grotesk', sans-serif;
+    background: linear-gradient(150deg, var(--bg1), var(--bg2) 55%, var(--bg3));
+    transition: background 0.4s ease, color 0.3s ease;
+    position: relative; overflow-x: hidden;
   }
 
-  .wrap { max-width: 1080px; margin: 0 auto; padding: 32px 20px 80px; }
+  .blob { position: fixed; border-radius: 50%; filter: blur(70px); opacity: var(--blob-opacity); z-index: 0; pointer-events: none; }
+  .blob1 { width: 340px; height: 340px; background: var(--cyan); top: -80px; left: 8%; animation: drift1 22s ease-in-out infinite alternate; }
+  .blob2 { width: 300px; height: 300px; background: var(--green); bottom: -60px; right: -40px; animation: drift2 26s ease-in-out infinite alternate; }
+  .blob3 { width: 260px; height: 260px; background: var(--yellow); top: 40%; left: -60px; opacity: calc(var(--blob-opacity) * 0.7); animation: drift3 30s ease-in-out infinite alternate; }
+  @keyframes drift1 { to { transform: translate(40px, 30px); } }
+  @keyframes drift2 { to { transform: translate(-30px, -40px); } }
+  @keyframes drift3 { to { transform: translate(30px, -20px); } }
 
-  /* ---------- Header ---------- */
+  .wrap { position: relative; z-index: 1; max-width: 1080px; margin: 0 auto; padding: 32px 20px 80px; }
+
   header {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: 14px;
-    padding-bottom: 20px;
-    margin-bottom: 22px;
-    border-bottom: 1px solid var(--line);
+    display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;
+    gap: 14px; padding-bottom: 20px; margin-bottom: 8px; border-bottom: 1px solid var(--glass-border);
   }
-
-  h1 {
-    font-family: 'Orbitron', sans-serif;
-    font-weight: 900;
-    font-size: clamp(1.6rem, 4.4vw, 2.4rem);
-    margin: 0;
-    letter-spacing: 0.02em;
-    color: var(--yellow);
-    text-shadow: 0 0 18px color-mix(in srgb, var(--yellow) 40%, transparent);
-  }
-  h1 span { color: var(--green); text-shadow: 0 0 18px color-mix(in srgb, var(--green) 45%, transparent); }
-
+  h1 { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: clamp(1.6rem, 4.4vw, 2.3rem); margin: 0; }
+  h1 span { background: linear-gradient(90deg, var(--cyan), var(--green)); -webkit-background-clip: text; background-clip: text; color: transparent; }
   .header-right { display: flex; align-items: center; gap: 10px; }
 
   .status-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 9px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12px;
-    letter-spacing: 0.06em;
-    color: var(--green);
-    border: 1px solid color-mix(in srgb, var(--green) 35%, transparent);
-    background: color-mix(in srgb, var(--green) 7%, transparent);
-    border-radius: 999px;
-    padding: 6px 14px 6px 10px;
+    display: inline-flex; align-items: center; gap: 9px; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.05em;
+    color: var(--green); background: var(--glass); backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border); border-radius: 999px; padding: 6px 14px 6px 10px;
   }
   .status-dot-wrap { position: relative; width: 10px; height: 10px; }
-  .status-dot {
-    position: absolute; inset: 0;
-    border-radius: 50%;
-    background: var(--green);
-    box-shadow: 0 0 6px var(--green), 0 0 12px var(--green);
+  .status-dot { position: absolute; inset: 0; border-radius: 50%; background: var(--green); box-shadow: 0 0 8px var(--green); }
+  .status-dot-ring { position: absolute; inset: -4px; border-radius: 50%; border: 1.5px solid var(--green); animation: ping 1.8s cubic-bezier(0,0,0.2,1) infinite; }
+  @keyframes ping { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(2.2); opacity: 0; } }
+
+  button { font-family: inherit; }
+  .theme-toggle, #refresh-btn, .accordion-toggle, .tab-btn, .cta-btn, .heart-btn {
+    transition: transform 0.12s ease, box-shadow 0.15s ease, border-color 0.15s ease, background 0.15s ease, color 0.15s ease;
   }
-  .status-dot-ring {
-    position: absolute; inset: -4px;
-    border-radius: 50%;
-    border: 1.5px solid var(--green);
-    animation: ping 1.8s cubic-bezier(0,0,0.2,1) infinite;
-  }
-  @keyframes ping {
-    0% { transform: scale(0.6); opacity: 0.9; }
-    100% { transform: scale(2.2); opacity: 0; }
-  }
+  .theme-toggle:active, #refresh-btn:active, .accordion-toggle:active, .tab-btn:active, .cta-btn:active, .heart-btn:active { transform: scale(0.94); }
 
   .theme-toggle {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12px;
-    background: var(--bg-panel);
-    border: 1px solid var(--line);
-    color: var(--text);
-    border-radius: 999px;
-    padding: 7px 14px;
-    cursor: pointer;
-    transition: transform 0.15s ease, border-color 0.15s ease;
+    display: inline-flex; align-items: center; gap: 6px; font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    background: var(--glass); backdrop-filter: blur(10px); border: 1px solid var(--glass-border); color: var(--text);
+    border-radius: 999px; padding: 7px 14px; cursor: pointer;
   }
-  .theme-toggle:hover { border-color: var(--yellow); transform: translateY(-1px); }
-  .theme-toggle:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+  .theme-toggle:hover { transform: translateY(-1px); }
+  .theme-toggle:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
 
-  .tagline {
-    font-size: 13px;
-    color: var(--text-dim);
-    font-family: 'JetBrains Mono', monospace;
-    margin: 16px 0 0;
-  }
+  .tagline { font-size: 13px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; margin: 14px 0 22px; }
 
-  /* ---------- Terminal / live log ---------- */
   .terminal {
-    background: color-mix(in srgb, var(--bg) 92%, black 8%);
-    border: 1px solid color-mix(in srgb, var(--green) 30%, transparent);
-    border-radius: var(--radius);
-    padding: 14px 16px;
-    margin: 16px 0 26px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12.5px;
-    color: var(--green);
-    height: 136px;
-    overflow: hidden;
-    position: relative;
+    background: var(--glass); backdrop-filter: blur(14px); border: 1px solid var(--glass-border); border-radius: var(--radius);
+    padding: 14px 16px; margin-bottom: 24px; font-family: 'JetBrains Mono', monospace; font-size: 12.5px;
+    color: var(--green); height: 132px; overflow: hidden; position: relative;
   }
-  .terminal-header {
-    display: flex;
-    justify-content: space-between;
-    color: var(--text-dim);
-    font-size: 11px;
-    margin-bottom: 8px;
-    letter-spacing: 0.08em;
-  }
+  .terminal-header { display: flex; justify-content: space-between; color: var(--text-dim); font-size: 11px; margin-bottom: 8px; letter-spacing: 0.08em; }
   .terminal-lines { display: flex; flex-direction: column; gap: 2px; }
   .terminal-lines div {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    opacity: 0;
-    transform: translateY(8px);
-    transition: opacity 0.45s ease, transform 0.45s ease;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    opacity: 0; transform: translateY(8px); transition: opacity 0.45s ease, transform 0.45s ease;
   }
   .terminal-lines div.vis { opacity: 1; transform: translateY(0); }
   .terminal-lines div.ut { opacity: 0; transform: translateY(-6px); }
-  .terminal-lines .siste::after {
-    content: "▌";
-    margin-left: 2px;
-    animation: blink 1s step-start infinite;
-  }
+  .terminal-lines .siste::after { content: "▌"; margin-left: 2px; animation: blink 1s step-start infinite; }
   @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
-  /* ---------- Tabs ---------- */
-  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
-  .tab-btn {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12.5px;
-    background: var(--bg-panel);
-    border: 1px solid var(--line);
-    color: var(--text-dim);
-    border-radius: 999px;
-    padding: 8px 16px;
-    cursor: pointer;
-    transition: all 0.15s ease;
+  /* ---------- Filter-panel med nedtrekkbare seksjoner ---------- */
+  .filter-panel {
+    background: var(--glass); backdrop-filter: blur(14px); border: 1px solid var(--glass-border);
+    border-radius: var(--radius); padding: 16px 18px; margin-bottom: 24px;
   }
-  .tab-btn:hover { color: var(--text); border-color: var(--green); }
-  .tab-btn.aktiv {
-    color: #05070A;
-    background: var(--green);
-    border-color: var(--green);
-    box-shadow: 0 0 14px color-mix(in srgb, var(--green) 45%, transparent);
-    font-weight: 700;
+  .accordion { margin-bottom: 10px; }
+  .accordion:last-child { margin-bottom: 0; }
+  .accordion-toggle {
+    width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 10px;
+    background: var(--glass-strong); border: 1px solid var(--glass-border); color: var(--text);
+    border-radius: 12px; padding: 12px 16px; font-size: 13.5px; font-weight: 600; cursor: pointer;
   }
-  .tab-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+  .accordion-toggle:hover { border-color: var(--cyan); }
+  .accordion-toggle:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .accordion-toggle .chev { transition: transform 0.3s ease; color: var(--text-dim); }
+  .accordion-toggle.open .chev { transform: rotate(180deg); }
+  .accordion-toggle .valgt { color: var(--cyan); font-weight: 700; }
 
-  .sport-tabs { margin-bottom: 22px; }
-  .sport-btn.aktiv[data-sport="pokemon"] { background: var(--yellow); border-color: var(--yellow); box-shadow: 0 0 14px color-mix(in srgb, var(--yellow) 45%, transparent); }
-  .sport-btn.aktiv[data-sport="fotball"] { background: var(--green); border-color: var(--green); box-shadow: 0 0 14px color-mix(in srgb, var(--green) 45%, transparent); }
-  .sport-btn.aktiv[data-sport="basketball"] { background: var(--orange); border-color: var(--orange); box-shadow: 0 0 14px color-mix(in srgb, var(--orange) 45%, transparent); }
-  .sport-btn.aktiv[data-sport="alt"] { background: var(--text); border-color: var(--text); color: var(--bg); }
+  .accordion-panel {
+    display: grid; grid-template-rows: 0fr; opacity: 0;
+    transition: grid-template-rows 0.32s ease, opacity 0.25s ease;
+  }
+  .accordion-panel.open { grid-template-rows: 1fr; opacity: 1; }
+  .accordion-inner { overflow: hidden; }
+  .pill-row { display: flex; flex-wrap: wrap; gap: 7px; padding-top: 12px; }
+
+  .tab-btn {
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    background: var(--glass-strong); border: 1px solid var(--glass-border); color: var(--text-dim);
+    border-radius: 999px; padding: 7px 14px; cursor: pointer; display: inline-flex; align-items: center; gap: 5px;
+  }
+  .tab-btn:hover { color: var(--text); border-color: var(--cyan); }
+  .tab-btn .count { font-size: 10.5px; opacity: 0.75; }
+  .tab-btn.aktiv {
+    color: #06131A; background: linear-gradient(90deg, var(--cyan), var(--green)); border-color: transparent; font-weight: 700;
+    box-shadow: 0 0 16px color-mix(in srgb, var(--cyan) 40%, transparent);
+  }
+  .tab-btn.aktiv[data-sport="pokemon"] { background: linear-gradient(90deg, var(--yellow), #ffb15c); }
+  .tab-btn.aktiv[data-sport="fotball"] { background: linear-gradient(90deg, var(--green), var(--cyan)); }
+  .tab-btn.aktiv[data-sport="basketball"] { background: linear-gradient(90deg, #ff9d5c, var(--yellow)); }
+  .tab-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+
+  .search-input {
+    width: 100%; font-family: 'Space Grotesk', sans-serif; font-size: 14px;
+    background: var(--glass-strong); border: 1px solid var(--glass-border); color: var(--text);
+    border-radius: 12px; padding: 10px 14px; margin-top: 4px;
+  }
+  .search-input::placeholder { color: var(--text-dim); }
+  .search-input:focus { outline: 2px solid var(--cyan); outline-offset: 1px; }
 
   .status-bar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12.5px;
-    color: var(--text-dim);
-    padding-bottom: 18px;
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
+    font-family: 'JetBrains Mono', monospace; font-size: 12.5px; color: var(--text-dim); padding-bottom: 18px;
   }
   #refresh-btn {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 12.5px;
-    background: none;
-    border: 1px solid var(--line);
-    color: var(--text-dim);
-    border-radius: 999px;
-    padding: 6px 14px;
-    cursor: pointer;
+    font-family: 'JetBrains Mono', monospace; font-size: 12.5px; background: var(--glass);
+    border: 1px solid var(--glass-border); color: var(--text-dim); border-radius: 999px; padding: 6px 14px; cursor: pointer;
   }
-  #refresh-btn:hover { border-color: var(--yellow); color: var(--yellow); }
-  #refresh-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+  #refresh-btn:hover { border-color: var(--cyan); color: var(--cyan); }
+  #refresh-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
 
   /* ---------- Grid & cards ---------- */
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
-    gap: 22px;
-  }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(266px, 1fr)); gap: 20px; }
+
+  @keyframes kortInn { from { opacity: 0; transform: translateY(16px) scale(0.98); } to { opacity: 1; transform: translateY(0) scale(1); } }
 
   .card {
-    position: relative;
-    padding: 3px;
-    border-radius: calc(var(--radius) + 3px);
-    background: linear-gradient(150deg, var(--yellow), var(--green) 55%, var(--orange));
-    transition: transform 0.18s ease;
+    position: relative; background: var(--glass); backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border); border-radius: var(--radius); padding: 20px 18px 18px;
+    overflow: hidden; transition: transform 0.18s ease, border-color 0.18s ease;
+    animation: kortInn 0.45s cubic-bezier(0.16,1,0.3,1) both;
   }
-  .card:hover { transform: translateY(-4px); }
+  .card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--cyan), var(--green), var(--yellow)); }
+  .card:hover { transform: translateY(-4px); border-color: var(--cyan); }
 
-  .card-inner {
-    position: relative;
-    background: var(--bg-panel-raised);
-    border-radius: var(--radius);
-    padding: 20px 18px 18px;
-    overflow: hidden;
-    height: 100%;
-    box-shadow: var(--card-shadow);
-  }
-  .card-inner::after {
-    content: "";
-    position: absolute;
-    inset: -60%;
-    background: linear-gradient(115deg,
-      transparent 25%,
-      color-mix(in srgb, var(--yellow) 22%, transparent) 40%,
-      color-mix(in srgb, var(--green) 30%, transparent) 50%,
-      color-mix(in srgb, var(--yellow) 22%, transparent) 60%,
-      transparent 75%);
-    transform: translateX(-130%) rotate(8deg);
-    transition: transform 0.7s ease;
-    pointer-events: none;
-  }
-  .card:hover .card-inner::after { transform: translateX(15%) rotate(8deg); }
-
+  @keyframes heartPop { 0% { transform: scale(1); } 40% { transform: scale(1.35); } 100% { transform: scale(1); } }
   .heart-btn {
-    position: absolute;
-    top: 14px;
-    right: 14px;
-    background: color-mix(in srgb, var(--bg) 70%, transparent);
-    border: 1px solid var(--line-soft);
-    color: var(--text-dim);
-    width: 32px; height: 32px;
-    border-radius: 50%;
-    cursor: pointer;
-    font-size: 15px;
-    display: flex; align-items: center; justify-content: center;
-    transition: all 0.15s ease;
-    z-index: 2;
+    position: absolute; top: 14px; right: 14px; background: var(--glass-strong); border: 1px solid var(--glass-border); color: var(--text-dim);
+    width: 32px; height: 32px; border-radius: 50%; cursor: pointer; font-size: 15px;
+    display: flex; align-items: center; justify-content: center; z-index: 2;
   }
-  .heart-btn:hover { border-color: var(--pink); color: var(--pink); }
-  .heart-btn.aktiv { color: var(--pink); border-color: var(--pink); }
-  .heart-btn:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+  .heart-btn:hover { border-color: #ff6f91; color: #ff6f91; }
+  .heart-btn.aktiv { color: #ff6f91; border-color: #ff6f91; }
+  .heart-btn.pop { animation: heartPop 0.4s cubic-bezier(0.34,1.56,0.64,1); }
+  .heart-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
 
   .price-tag {
-    display: inline-block;
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: 700;
-    font-size: 13.5px;
-    color: #05070A;
-    background: var(--yellow);
-    border-radius: 6px;
-    padding: 3px 10px;
-    margin-bottom: 12px;
+    display: inline-block; font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 13.5px;
+    color: #06131A; background: linear-gradient(90deg, var(--cyan), var(--green)); border-radius: 8px; padding: 4px 11px; margin-bottom: 12px;
   }
-  .price-tag.bud {
-    background: transparent;
-    border: 1.5px dashed var(--orange);
-    color: var(--orange);
-  }
+  .price-tag.bud { background: transparent; border: 1.5px dashed var(--yellow); color: var(--yellow); }
 
-  .card-inner h2 {
-    font-family: 'Space Grotesk', sans-serif;
-    font-weight: 700;
-    font-size: 17.5px;
-    line-height: 1.3;
-    margin: 0 44px 14px 0;
-    color: var(--text);
-  }
+  .card h2 { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 17px; line-height: 1.3; margin: 0 44px 14px 0; color: var(--text); }
 
   .cta-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 7px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 13px;
-    font-weight: 700;
-    color: #05070A;
-    background: linear-gradient(90deg, var(--green), var(--yellow));
-    text-decoration: none;
-    padding: 9px 16px;
-    border-radius: 999px;
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-    margin-top: 4px;
+    display: inline-flex; align-items: center; gap: 7px; font-family: 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700;
+    color: #06131A; background: linear-gradient(90deg, var(--green), var(--cyan)); text-decoration: none;
+    padding: 9px 16px; border-radius: 999px; margin-top: 4px;
   }
-  .cta-btn:hover { transform: scale(1.04); box-shadow: 0 0 18px color-mix(in srgb, var(--green) 55%, transparent); }
+  .cta-btn:hover { transform: scale(1.05); box-shadow: 0 0 18px color-mix(in srgb, var(--cyan) 50%, transparent); }
   .cta-btn:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
 
-  .found-at {
-    display: block;
-    margin-top: 12px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 11.5px;
-    color: var(--text-dim);
-  }
-
-  .kategori-merke {
-    display: inline-block;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 10.5px;
-    color: var(--text-dim);
-    margin-bottom: 10px;
-    letter-spacing: 0.04em;
-  }
+  .found-at { display: block; margin-top: 12px; font-family: 'JetBrains Mono', monospace; font-size: 11.5px; color: var(--text-dim); }
+  .kategori-merke { display: inline-block; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; color: var(--text-dim); margin-bottom: 10px; letter-spacing: 0.04em; }
 
   .empty {
-    grid-column: 1 / -1;
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--text-dim);
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 13.5px;
-    border: 1px dashed var(--line);
-    border-radius: var(--radius);
+    grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--text-dim);
+    font-family: 'JetBrains Mono', monospace; font-size: 13.5px; border: 1px dashed var(--glass-border); border-radius: var(--radius);
+    animation: kortInn 0.4s ease both;
   }
-  .empty strong {
-    display: block;
-    font-family: 'Orbitron', sans-serif;
-    color: var(--yellow);
-    font-size: 17px;
-    margin-bottom: 8px;
-  }
+  .empty strong { display: block; font-family: 'Poppins', sans-serif; color: var(--text); font-size: 17px; margin-bottom: 8px; }
 
-  footer {
-    text-align: center;
-    margin-top: 50px;
-    font-size: 11.5px;
-    color: var(--text-dim);
-    font-family: 'JetBrains Mono', monospace;
-  }
+  footer { text-align: center; margin-top: 50px; font-size: 11.5px; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; position: relative; z-index: 1; }
 
   @media (prefers-reduced-motion: reduce) {
-    .status-dot-ring, .card-inner::after, .terminal-lines .siste::after { animation: none; }
-    .card, .terminal-lines div { transition: none; }
+    .status-dot-ring, .terminal-lines .siste::after, .card, .heart-btn.pop, .blob { animation: none; }
+    .card, .terminal-lines div, .theme-toggle, #refresh-btn, .accordion-toggle, .tab-btn, .cta-btn, .heart-btn { transition: none; }
   }
-
-  @media (max-width: 560px) {
-    header { flex-direction: column; align-items: flex-start; }
-  }
+  @media (max-width: 560px) { header { flex-direction: column; align-items: flex-start; } }
 </style>
 </head>
 <body>
+  <div class="blob blob1"></div>
+  <div class="blob blob2"></div>
+  <div class="blob blob3"></div>
+
   <div class="wrap">
     <header>
       <h1>KORT<span>VAKT</span></h1>
@@ -404,20 +241,43 @@
       <div id="terminal-lines" class="terminal-lines"></div>
     </div>
 
-    <div class="tabs" id="tabs">
-      <button class="tab-btn aktiv" data-fane="alle">🗂️ Alle</button>
-      <button class="tab-btn" data-fane="store_samlinger">📦 Store samlinger</button>
-      <button class="tab-btn" data-fane="sjeldne_glins">✨ Sjeldne &amp; glins</button>
-      <button class="tab-btn" data-fane="andre">🃏 Andre treff</button>
-      <button class="tab-btn" data-fane="pris_pa_foresporsel">💬 Pris på forespørsel</button>
-      <button class="tab-btn" data-fane="favoritter">⭐ Mine favoritter</button>
-    </div>
+    <div class="filter-panel">
+      <div class="accordion">
+        <button class="accordion-toggle" id="kategori-toggle" type="button">
+          <span>🗂️ Kategori: <span class="valgt" id="kategori-valgt">Alle</span></span>
+          <span class="chev">▾</span>
+        </button>
+        <div class="accordion-panel" id="kategori-panel">
+          <div class="accordion-inner">
+            <div class="pill-row" id="tabs">
+              <button class="tab-btn aktiv" data-fane="alle">🗂️ Alle</button>
+              <button class="tab-btn" data-fane="store_samlinger">📦 Store samlinger</button>
+              <button class="tab-btn" data-fane="sjeldne_glins">✨ Sjeldne &amp; glins</button>
+              <button class="tab-btn" data-fane="pris_pa_foresporsel">💬 Pris på forespørsel</button>
+              <button class="tab-btn" data-fane="favoritter">⭐ Mine favoritter</button>
+            </div>
+          </div>
+        </div>
+      </div>
 
-    <div class="tabs sport-tabs" id="sport-tabs">
-      <button class="tab-btn sport-btn aktiv" data-sport="alt">Alt</button>
-      <button class="tab-btn sport-btn" data-sport="pokemon">🟡 Pokémon</button>
-      <button class="tab-btn sport-btn" data-sport="fotball">🟢 Fotballkort</button>
-      <button class="tab-btn sport-btn" data-sport="basketball">🟠 Basketballkort</button>
+      <div class="accordion">
+        <button class="accordion-toggle" id="sport-toggle" type="button">
+          <span>🃏 Korttype: <span class="valgt" id="sport-valgt">Alt</span></span>
+          <span class="chev">▾</span>
+        </button>
+        <div class="accordion-panel" id="sport-panel">
+          <div class="accordion-inner">
+            <div class="pill-row" id="sport-tabs">
+              <button class="tab-btn sport-btn aktiv" data-sport="alt">Alt</button>
+              <button class="tab-btn sport-btn" data-sport="pokemon">🟡 Pokémon</button>
+              <button class="tab-btn sport-btn" data-sport="fotball">🟢 Fotballkort</button>
+              <button class="tab-btn sport-btn" data-sport="basketball">🟠 Basketballkort</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <input type="text" id="search-input" class="search-input" placeholder="🔍 Søk i titler, f.eks. «Charizard»...">
     </div>
 
     <div class="status-bar">
@@ -436,6 +296,7 @@
     let alleFunn = [];
     let aktivFane = 'alle';
     let aktivSport = 'alt';
+    let sokeTekst = '';
 
     const grid = document.getElementById('grid');
     const statusText = document.getElementById('status-text');
@@ -443,34 +304,67 @@
     const tabsEl = document.getElementById('tabs');
     const sportTabsEl = document.getElementById('sport-tabs');
     const themeToggle = document.getElementById('theme-toggle');
+    const searchInput = document.getElementById('search-input');
 
-    // ---------- Tema (lys/mørk) ----------
+    const kategoriToggle = document.getElementById('kategori-toggle');
+    const kategoriPanel = document.getElementById('kategori-panel');
+    const kategoriValgt = document.getElementById('kategori-valgt');
+    const sportToggle = document.getElementById('sport-toggle');
+    const sportPanel = document.getElementById('sport-panel');
+    const sportValgt = document.getElementById('sport-valgt');
+
+    const KATEGORI_LABEL = {
+      alle: '🗂️ Alle', store_samlinger: '📦 Store samlinger', sjeldne_glins: '✨ Sjeldne & glins',
+      pris_pa_foresporsel: '💬 Pris på forespørsel', favoritter: '⭐ Mine favoritter',
+    };
+    const SPORT_LABEL = { alt: 'Alt', pokemon: '🟡 Pokémon', fotball: '🟢 Fotballkort', basketball: '🟠 Basketballkort' };
+
+    // ---------- Nedtrekkbare filter-seksjoner ----------
+    function toggleAccordion(toggleBtn, panel, lukkAndre) {
+      const erApen = panel.classList.contains('open');
+      lukkAndre();
+      if (!erApen) {
+        panel.classList.add('open');
+        toggleBtn.classList.add('open');
+      }
+    }
+    kategoriToggle.addEventListener('click', () => {
+      toggleAccordion(kategoriToggle, kategoriPanel, () => {
+        sportPanel.classList.remove('open'); sportToggle.classList.remove('open');
+      });
+    });
+    sportToggle.addEventListener('click', () => {
+      toggleAccordion(sportToggle, sportPanel, () => {
+        kategoriPanel.classList.remove('open'); kategoriToggle.classList.remove('open');
+      });
+    });
+
+    // ---------- Tema ----------
     function settTema(tema) {
       document.documentElement.setAttribute('data-theme', tema);
       themeToggle.textContent = tema === 'dark' ? '🌙 Mørk' : '☀️ Lys';
       localStorage.setItem(TEMA_NOKKEL, tema);
     }
-    (function lastTema() {
-      const lagret = localStorage.getItem(TEMA_NOKKEL);
-      settTema(lagret === 'light' ? 'light' : 'dark');
-    })();
+    (function lastTema() { settTema(localStorage.getItem(TEMA_NOKKEL) === 'light' ? 'light' : 'dark'); })();
     themeToggle.addEventListener('click', () => {
-      const naavaerende = document.documentElement.getAttribute('data-theme');
-      settTema(naavaerende === 'dark' ? 'light' : 'dark');
+      settTema(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
     });
 
-    // ---------- Favoritter (localStorage) ----------
+    // ---------- Favoritter ----------
     function hentFavoritter() {
-      try { return JSON.parse(localStorage.getItem(FAVORITT_NOKKEL) || '[]'); }
-      catch (e) { return []; }
+      try { return JSON.parse(localStorage.getItem(FAVORITT_NOKKEL) || '[]'); } catch (e) { return []; }
     }
     function lagreFavoritter(liste) { localStorage.setItem(FAVORITT_NOKKEL, JSON.stringify(liste)); }
     function erFavoritt(lenke) { return hentFavoritter().includes(lenke); }
-    function toggleFavoritt(lenke) {
+    function toggleFavoritt(lenke, knappEl) {
       let liste = hentFavoritter();
       liste = liste.includes(lenke) ? liste.filter(l => l !== lenke) : [...liste, lenke];
       lagreFavoritter(liste);
-      tegnKort();
+      if (knappEl) {
+        knappEl.classList.add('pop');
+        setTimeout(() => knappEl.classList.remove('pop'), 400);
+      }
+      tegnAlt();
     }
 
     // ---------- Tid ----------
@@ -486,11 +380,9 @@
       return `for ${Math.floor(timer / 24)} d siden`;
     }
 
-    const KATEGORI_NAVN = {
-      store_samlinger: '📦 Stor samling',
-      sjeldne_glins: '✨ Sjelden / glins',
-      andre: '🃏 Kort',
-      pris_pa_foresporsel: '💬 Pris på forespørsel',
+    const KATEGORI_MERKE = {
+      store_samlinger: '📦 Stor samling', sjeldne_glins: '✨ Sjelden / glins',
+      andre: '🃏 Kort', pris_pa_foresporsel: '💬 Pris på forespørsel',
     };
 
     function finnSport(tittel) {
@@ -501,8 +393,28 @@
       return 'annet';
     }
 
-    // ---------- Rendring ----------
-    function lagKort(funn) {
+    function oppdaterTellere() {
+      const fav = hentFavoritter();
+      const tellereKategori = { alle: alleFunn.length, favoritter: alleFunn.filter(f => fav.includes(f.lenke)).length };
+      ['store_samlinger', 'sjeldne_glins', 'pris_pa_foresporsel'].forEach(k => {
+        tellereKategori[k] = alleFunn.filter(f => (f.kategori || 'andre') === k).length;
+      });
+      tabsEl.querySelectorAll('.tab-btn').forEach(btn => {
+        const tekst = btn.textContent.replace(/\s*\(\d+\)$/, '');
+        btn.textContent = `${tekst} (${tellereKategori[btn.dataset.fane] ?? 0})`;
+      });
+
+      const tellereSport = { alt: alleFunn.length };
+      ['pokemon', 'fotball', 'basketball'].forEach(s => {
+        tellereSport[s] = alleFunn.filter(f => finnSport(f.tittel) === s).length;
+      });
+      sportTabsEl.querySelectorAll('.tab-btn').forEach(btn => {
+        const tekst = btn.textContent.replace(/\s*\(\d+\)$/, '');
+        btn.textContent = `${tekst} (${tellereSport[btn.dataset.sport] ?? 0})`;
+      });
+    }
+
+    function lagKort(funn, indeks) {
       const erNytt = funn.funnet && (new Date() - new Date(funn.funnet)) < 60 * 60 * 1000;
       const budAnnonse = !!funn.pris_pa_foresporsel;
       const pris = budAnnonse
@@ -513,47 +425,46 @@
 
       const kort = document.createElement('article');
       kort.className = 'card';
+      kort.style.animationDelay = `${Math.min(indeks, 12) * 45}ms`;
       kort.innerHTML = `
-        <div class="card-inner">
-          <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
-          <span class="kategori-merke">${KATEGORI_NAVN[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
-          <span class="price-tag ${budAnnonse ? 'bud' : ''}">${pris}</span>
-          <h2>${funn.tittel}</h2>
-          <div><a class="cta-btn" href="${funn.lenke}" target="_blank" rel="noopener">🔗 Åpne på Finn.no</a></div>
-          <span class="found-at">Funnet ${relativTid(funn.funnet)}</span>
-        </div>
+        <button class="heart-btn ${favoritt ? 'aktiv' : ''}" data-lenke="${funn.lenke}" aria-label="Legg til i favoritter">${favoritt ? '♥' : '♡'}</button>
+        <span class="kategori-merke">${KATEGORI_MERKE[kategori] || '🃏 Kort'}${erNytt ? ' · NYTT' : ''}</span>
+        <span class="price-tag ${budAnnonse ? 'bud' : ''}">${pris}</span>
+        <h2>${funn.tittel}</h2>
+        <div><a class="cta-btn" href="${funn.lenke}" target="_blank" rel="noopener">🔗 Åpne på Finn.no</a></div>
+        <span class="found-at">Funnet ${relativTid(funn.funnet)}</span>
       `;
       return kort;
     }
 
     function filtrerFunn() {
       let liste = alleFunn;
-
       if (aktivFane === 'favoritter') {
         const fav = hentFavoritter();
         liste = liste.filter(f => fav.includes(f.lenke));
       } else if (aktivFane !== 'alle') {
         liste = liste.filter(f => (f.kategori || 'andre') === aktivFane);
       }
-
-      if (aktivSport !== 'alt') {
-        liste = liste.filter(f => finnSport(f.tittel) === aktivSport);
+      if (aktivSport !== 'alt') liste = liste.filter(f => finnSport(f.tittel) === aktivSport);
+      if (sokeTekst.trim() !== '') {
+        const s = sokeTekst.toLowerCase();
+        liste = liste.filter(f => (f.tittel || '').toLowerCase().includes(s));
       }
-
       return liste;
     }
 
     function tomMelding() {
-      if (aktivFane === 'favoritter') {
-        return { tittel: 'Ingen favoritter ennå', tekst: 'Trykk på hjertet på et kort for å lagre det her.' };
-      }
-      if (aktivFane === 'pris_pa_foresporsel') {
-        return { tittel: 'Ingen slike ennå', tekst: 'Her havner annonser der selgeren skriver "kom med bud" eller "spør om pris" i stedet for en fast pris.' };
-      }
+      if (sokeTekst.trim() !== '') return { tittel: 'Ingen treff på søket', tekst: `Fant ingenting som matcher «${sokeTekst}».` };
+      if (aktivFane === 'favoritter') return { tittel: 'Ingen favoritter ennå', tekst: 'Trykk på hjertet på et kort for å lagre det her.' };
+      if (aktivFane === 'pris_pa_foresporsel') return { tittel: 'Ingen slike ennå', tekst: 'Her havner annonser der selgeren skriver "kom med bud" eller "spør om pris".' };
       return { tittel: 'Ingen treff ennå', tekst: 'Roboten sjekker Finn jevnlig. Denne siden oppdaterer seg selv når den finner noe.' };
     }
 
-    function tegnKort() {
+    function tegnAlt() {
+      kategoriValgt.textContent = KATEGORI_LABEL[aktivFane];
+      sportValgt.textContent = SPORT_LABEL[aktivSport];
+      oppdaterTellere();
+
       const funnListe = filtrerFunn();
       grid.innerHTML = '';
 
@@ -562,42 +473,43 @@
         grid.innerHTML = `<div class="empty"><strong>${m.tittel}</strong>${m.tekst}</div>`;
         return;
       }
-      funnListe.forEach(f => grid.appendChild(lagKort(f)));
+      funnListe.forEach((f, i) => grid.appendChild(lagKort(f, i)));
     }
 
-    // ---------- Faner ----------
     tabsEl.addEventListener('click', (e) => {
       const btn = e.target.closest('.tab-btn');
       if (!btn) return;
       tabsEl.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('aktiv'));
       btn.classList.add('aktiv');
       aktivFane = btn.dataset.fane;
-      tegnKort();
+      kategoriPanel.classList.remove('open');
+      kategoriToggle.classList.remove('open');
+      tegnAlt();
     });
-
     sportTabsEl.addEventListener('click', (e) => {
       const btn = e.target.closest('.sport-btn');
       if (!btn) return;
       sportTabsEl.querySelectorAll('.sport-btn').forEach(b => b.classList.remove('aktiv'));
       btn.classList.add('aktiv');
       aktivSport = btn.dataset.sport;
-      tegnKort();
+      sportPanel.classList.remove('open');
+      sportToggle.classList.remove('open');
+      tegnAlt();
     });
-
+    searchInput.addEventListener('input', (e) => { sokeTekst = e.target.value; tegnAlt(); });
     grid.addEventListener('click', (e) => {
       const btn = e.target.closest('.heart-btn');
       if (!btn) return;
-      toggleFavoritt(btn.dataset.lenke);
+      toggleFavoritt(btn.dataset.lenke, btn);
     });
 
-    // ---------- Henter data ----------
     async function lastFunn() {
       statusText.textContent = 'Laster...';
       try {
         const respons = await fetch(`funn.json?_=${Date.now()}`, { cache: 'no-store' });
         const data = await respons.json();
         alleFunn = data.funn || [];
-        tegnKort();
+        tegnAlt();
         statusText.textContent = data.sist_sjekket
           ? `Sist sjekket ${relativTid(data.sist_sjekket)} · ${alleFunn.length} treff totalt`
           : `${alleFunn.length} treff totalt`;
@@ -605,37 +517,25 @@
         statusText.textContent = 'Klarte ikke å laste funn.json ennå.';
       }
     }
-
     refreshBtn.addEventListener('click', lastFunn);
     lastFunn();
     setInterval(lastFunn, 60 * 1000);
 
-    // ---------- Simulert live-logg (med smooth inn/ut-animasjon) ----------
     const logLinjer = document.getElementById('terminal-lines');
     const logMaler = [
-      'Skanner Finn.no etter kortsamlinger...',
-      'Sjekker pris- og nøkkelordfilter...',
-      'Analyserer nye annonser...',
-      'Sammenligner mot tidligere sette annonser...',
-      'Ingen nye treff i denne runden.',
-      'Venter til neste sjekk...',
+      'Skanner Finn.no etter kortsamlinger...', 'Sjekker pris- og nøkkelordfilter...',
+      'Analyserer nye annonser...', 'Sammenligner mot tidligere sette annonser...',
+      'Ingen nye treff i denne runden.', 'Venter til neste sjekk...',
     ];
-
     function leggTilLoggLinje() {
       const tid = new Date().toLocaleTimeString('no-NO', { hour: '2-digit', minute: '2-digit' });
       const tekst = logMaler[Math.floor(Math.random() * logMaler.length)];
-
       [...logLinjer.children].forEach(l => l.classList.remove('siste'));
-
       const linje = document.createElement('div');
       linje.className = 'siste';
       linje.textContent = `[${tid}] ${tekst}`;
       logLinjer.appendChild(linje);
-
-      // Trigger inn-animasjon på neste frame
       requestAnimationFrame(() => requestAnimationFrame(() => linje.classList.add('vis')));
-
-      // Fjern eldste linjer med en myk fade-ut i stedet for brått kutt
       while (logLinjer.children.length > 6) {
         const eldste = logLinjer.firstChild;
         eldste.classList.remove('vis');
