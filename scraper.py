@@ -1,7 +1,6 @@
 """
 Sjekker Finn.no for kortsamlinger. Denne filen er laget for å kjøres ÉN
-gang per kjøring (av GitHub Actions), ikke som en evigvarende loop slik
-den opprinnelige finn_watcher.py gjorde på en lokal PC.
+gang per kjøring (av GitHub Actions), ikke som en evigvarende loop.
 
 Leser og skriver:
   - funn.json               -> det nettsiden viser
@@ -22,12 +21,28 @@ FINN_URLS = [
     "https://www.finn.no/recommerce/forsale/search?product_category=2.86.285.396&sort=PUBLISHED_DESC"
 ]
 MAKS_PRIS = 500
+
+# Alle disse ordene trigger et treff (sjekkes mot tittel + det som vises på annonsekortet)
 STIKKORD = [
+    # Fra før
     "samling", "bunke", "eske", "permer", "album",
-    "masse", "parti", "større", "flyttesalg", "kortsamling"
+    "masse", "parti", "større", "flyttesalg", "kortsamling",
+    # Rydde- og "bli kvitt"-ord
+    "ryddesalg", "loft", "kjeller", "rydding", "bort", "renske",
+    "bøtte", "pose", "sekk", "kasse", "flytting", "gis bort",
+    # Kort-spesifikke ord
+    "pokemon", "kort", "fotballkort", "charizard", "pikachu",
+    "topps", "panini", "skinnende", "glins", "holos", "rare",
 ]
-MAKS_FUNN_LAGRET = 100      # hvor mange funn som vises på siden
-MAKS_ID_LAGRET = 5000       # hvor mange annonse-ID-er vi husker (for å unngå at filen vokser evig)
+
+# Brukes til å SORTERE et treff i riktig fane på nettsiden.
+# Sjekkes i denne rekkefølgen - første gruppe som matcher, vinner.
+KATEGORI_STORE_SAMLINGER = ["samling", "bunke", "eske", "perm", "album", "kasse", "parti"]
+KATEGORI_SJELDNE_GLINS = ["glins", "holo", "rare", "charizard", "skinnende", "chrome", "gull"]
+# Alt annet som bare matcher STIKKORD (f.eks. bare "kort") havner i "andre"
+
+MAKS_FUNN_LAGRET = 150      # hvor mange funn som vises på siden
+MAKS_ID_LAGRET = 5000       # hvor mange annonse-ID-er vi husker
 
 FUNN_FIL = "funn.json"
 SETT_FIL = "data/sett_annonser.json"
@@ -115,6 +130,14 @@ def inneholder_stikkord(tekst):
     return any(s in tekst for s in STIKKORD)
 
 
+def finn_kategori(tekst):
+    if any(s in tekst for s in KATEGORI_STORE_SAMLINGER):
+        return "store_samlinger"
+    if any(s in tekst for s in KATEGORI_SJELDNE_GLINS):
+        return "sjeldne_glins"
+    return "andre"
+
+
 def main():
     sett_annonser = set(les_json(SETT_FIL, []))
     forste_kjoring = len(sett_annonser) == 0
@@ -143,17 +166,18 @@ def main():
                 innenfor_budsjett = pris is None or pris <= MAKS_PRIS
 
                 if har_stikkord and innenfor_budsjett:
-                    print(f"MATCH: {annonse['tittel']} ({pris} kr)")
+                    kategori = finn_kategori(annonse["tekst"])
+                    print(f"MATCH ({kategori}): {annonse['tittel']} ({pris} kr)")
                     funn_data["funn"].insert(0, {
                         "tittel": annonse["tittel"],
                         "pris": pris,
                         "lenke": annonse["lenke"],
                         "funnet": datetime.now(timezone.utc).isoformat(),
+                        "kategori": kategori,
                     })
 
             sett_annonser.add(annonse["id"])
 
-    # Behold bare de nyeste funnene og ID-ene, så filene ikke vokser i det uendelige
     funn_data["funn"] = funn_data["funn"][:MAKS_FUNN_LAGRET]
     if len(sett_annonser) > MAKS_ID_LAGRET:
         sett_annonser = set(sorted(sett_annonser, key=int)[-MAKS_ID_LAGRET:])
