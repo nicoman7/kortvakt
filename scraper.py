@@ -35,7 +35,8 @@ KATEGORI_STORE_SAMLINGER = ["samling", "bunke", "eske", "perm", "album", "kasse"
 KATEGORI_SJELDNE_GLINS = ["glins", "holo", "rare", "charizard", "skinnende", "chrome", "gull"]
 
 # Fraser som avslører at prisen på kortet/annonsekortet IKKE er en ekte fastpris,
-# men egentlig "kom med bud" / "spør om pris" - da blir f.eks. "1 kr" misvisende.
+# men egentlig "kom med bud" / "spør om pris" / "selges enkeltvis" - da blir f.eks.
+# en lav pris på hele annonsen misvisende.
 BUD_FRASER = [
     "kom med bud", "åpen for bud", "gi et bud", "gi bud", "send bud",
     "by på", "bud mottas", "høyeste bud", "beste bud", "budrunde",
@@ -43,6 +44,11 @@ BUD_FRASER = [
     "kontakt meg for pris", "dm for pris", "meld din interesse",
     "pris etter avtale", "kom med tilbud", "åpen for tilbud",
     "finner pris", "avtales", "ingen peiling", "vet ikke prisen",
+    # Selges per enkelt-kort/stk, ikke som hel samling til fastpris
+    "merkesverdi", "kontakt for kjøp", "ta kontakt for kjøp",
+    "selges enkeltvis", "selger enkelt kort", "selges hver for seg",
+    "pris per kort", "stykkpris", "per stk", "selges separat",
+    "selges individuelt", "enkeltvis salg",
 ]
 
 MAKS_FUNN_LAGRET = 150
@@ -195,8 +201,6 @@ def main():
                     kombinert_tekst = annonse["tekst"]
                     pris_pa_foresporsel = False
 
-                    # Sjekk selve annonseteksten for "kom med bud"-fraser,
-                    # men bare for et begrenset antall annonser per kjøring
                     if beskrivelser_hentet < MAKS_BESKRIVELSER_PER_KJORING:
                         beskrivelse = hent_beskrivelse(annonse["lenke"])
                         beskrivelser_hentet += 1
