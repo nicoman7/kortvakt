@@ -1,6 +1,6 @@
 """
 Sjekker Finn.no for kortsamlinger. Denne filen er laget for å kjøres ÉN
-gang per kjøring (av GitHub Actions), ikke som en evigvarende loop.
+gang per kjøring (trigges eksternt hvert 1.-2. minutt via cron-job.org).
 
 Leser og skriver:
   - funn.json               -> det nettsiden viser
@@ -22,27 +22,32 @@ FINN_URLS = [
 ]
 MAKS_PRIS = 500
 
-# Alle disse ordene trigger et treff (sjekkes mot tittel + det som vises på annonsekortet)
 STIKKORD = [
-    # Fra før
     "samling", "bunke", "eske", "permer", "album",
     "masse", "parti", "større", "flyttesalg", "kortsamling",
-    # Rydde- og "bli kvitt"-ord
     "ryddesalg", "loft", "kjeller", "rydding", "bort", "renske",
     "bøtte", "pose", "sekk", "kasse", "flytting", "gis bort",
-    # Kort-spesifikke ord
     "pokemon", "kort", "fotballkort", "charizard", "pikachu",
     "topps", "panini", "skinnende", "glins", "holos", "rare",
 ]
 
-# Brukes til å SORTERE et treff i riktig fane på nettsiden.
-# Sjekkes i denne rekkefølgen - første gruppe som matcher, vinner.
 KATEGORI_STORE_SAMLINGER = ["samling", "bunke", "eske", "perm", "album", "kasse", "parti"]
 KATEGORI_SJELDNE_GLINS = ["glins", "holo", "rare", "charizard", "skinnende", "chrome", "gull"]
-# Alt annet som bare matcher STIKKORD (f.eks. bare "kort") havner i "andre"
 
-MAKS_FUNN_LAGRET = 150      # hvor mange funn som vises på siden
-MAKS_ID_LAGRET = 5000       # hvor mange annonse-ID-er vi husker
+# Fraser som avslører at prisen på kortet/annonsekortet IKKE er en ekte fastpris,
+# men egentlig "kom med bud" / "spør om pris" - da blir f.eks. "1 kr" misvisende.
+BUD_FRASER = [
+    "kom med bud", "åpen for bud", "gi et bud", "gi bud", "send bud",
+    "by på", "bud mottas", "høyeste bud", "beste bud", "budrunde",
+    "pris ved henvendelse", "ta kontakt for pris", "spør om pris",
+    "kontakt meg for pris", "dm for pris", "meld din interesse",
+    "pris etter avtale", "kom med tilbud", "åpen for tilbud",
+    "finner pris", "avtales", "ingen peiling", "vet ikke prisen",
+]
+
+MAKS_FUNN_LAGRET = 150
+MAKS_ID_LAGRET = 5000
+MAKS_BESKRIVELSER_PER_KJORING = 25  # sikkerhetsgrense per kjøring
 
 FUNN_FIL = "funn.json"
 SETT_FIL = "data/sett_annonser.json"
@@ -79,12 +84,27 @@ def hent_side_med_retry(url, forsok=3):
             r = requests.get(url, headers=HEADERS, timeout=15)
             if r.status_code == 200:
                 return r
-            print(f"Fikk statuskode {r.status_code} (forsøk {i}/{forsok})")
+            print(f"Fikk statuskode {r.status_code} (forsøk {i}/{forsok}) for {url}")
         except requests.RequestException as e:
-            print(f"Nettverksfeil: {e} (forsøk {i}/{forsok})")
+            print(f"Nettverksfeil: {e} (forsøk {i}/{forsok}) for {url}")
         if i < forsok:
-            time.sleep(5 * i)
+            time.sleep(3 * i)
     return None
+
+
+def hent_beskrivelse(url):
+    """Henter selve annonseteksten fra annonsens EGEN side (via og:description)."""
+    respons = hent_side_med_retry(url, forsok=2)
+    if respons is None:
+        return ""
+    soup = BeautifulSoup(respons.text, "html.parser")
+    tag = soup.find("meta", attrs={"property": "og:description"})
+    if tag and tag.get("content"):
+        return tag["content"]
+    tag2 = soup.find("meta", attrs={"name": "description"})
+    if tag2 and tag2.get("content"):
+        return tag2["content"]
+    return ""
 
 
 def finn_annonse_kort(soup):
@@ -130,6 +150,10 @@ def inneholder_stikkord(tekst):
     return any(s in tekst for s in STIKKORD)
 
 
+def inneholder_bud_frase(tekst):
+    return any(f in tekst for f in BUD_FRASER)
+
+
 def finn_kategori(tekst):
     if any(s in tekst for s in KATEGORI_STORE_SAMLINGER):
         return "store_samlinger"
@@ -145,6 +169,8 @@ def main():
 
     if forste_kjoring:
         print("Første kjøring: lagrer eksisterende annonser uten å varsle om dem.")
+
+    beskrivelser_hentet = 0
 
     for url in FINN_URLS:
         respons = hent_side_med_retry(url)
@@ -166,7 +192,22 @@ def main():
                 innenfor_budsjett = pris is None or pris <= MAKS_PRIS
 
                 if har_stikkord and innenfor_budsjett:
-                    kategori = finn_kategori(annonse["tekst"])
+                    kombinert_tekst = annonse["tekst"]
+                    pris_pa_foresporsel = False
+
+                    # Sjekk selve annonseteksten for "kom med bud"-fraser,
+                    # men bare for et begrenset antall annonser per kjøring
+                    if beskrivelser_hentet < MAKS_BESKRIVELSER_PER_KJORING:
+                        beskrivelse = hent_beskrivelse(annonse["lenke"])
+                        beskrivelser_hentet += 1
+                        kombinert_tekst += " " + beskrivelse.lower()
+                        pris_pa_foresporsel = inneholder_bud_frase(kombinert_tekst)
+
+                    if pris_pa_foresporsel:
+                        kategori = "pris_pa_foresporsel"
+                    else:
+                        kategori = finn_kategori(annonse["tekst"])
+
                     print(f"MATCH ({kategori}): {annonse['tittel']} ({pris} kr)")
                     funn_data["funn"].insert(0, {
                         "tittel": annonse["tittel"],
@@ -174,6 +215,7 @@ def main():
                         "lenke": annonse["lenke"],
                         "funnet": datetime.now(timezone.utc).isoformat(),
                         "kategori": kategori,
+                        "pris_pa_foresporsel": pris_pa_foresporsel,
                     })
 
             sett_annonser.add(annonse["id"])
