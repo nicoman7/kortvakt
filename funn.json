@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T07:56:15.059248+00:00",
+  "sist_sjekket": "2026-07-05T07:58:16.284177+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468951308",
+      "funnet": "2026-07-05T07:58:16.284135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Centiskorch VMAX TG15/TG30 Pokemon Lost Origin",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468951529",
+      "funnet": "2026-07-05T07:58:16.008442+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball kort Stadium Star",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/412040986",
       "funnet": "2026-07-05T06:02:13.917810+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samuel Eto’o Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412334279",
-      "funnet": "2026-07-05T06:02:13.584987+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tiger Woods Samlekort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412575752",
-      "funnet": "2026-07-05T06:02:13.253027+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
