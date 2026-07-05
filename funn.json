@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T14:44:14.545668+00:00",
+  "sist_sjekket": "2026-07-05T14:46:14.977349+00:00",
   "funn": [
+    {
+      "tittel": "Plastlommer for samlekort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/293498490",
+      "funnet": "2026-07-05T14:46:14.977316+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Kalidou Koulibaly Limited Edition",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468956328",
       "funnet": "2026-07-05T09:48:13.961978+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort fra Skyridge",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468960153",
-      "funnet": "2026-07-05T09:46:17.035390+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
