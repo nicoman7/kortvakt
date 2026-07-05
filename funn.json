@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T13:52:15.349249+00:00",
+  "sist_sjekket": "2026-07-05T13:54:12.736583+00:00",
   "funn": [
+    {
+      "tittel": "Vintage fotballkort av Jim Thomson",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468993177",
+      "funnet": "2026-07-05T13:54:12.736540+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort fra 1975-1976",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454100711",
       "funnet": "2026-07-05T08:42:16.291151+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "EURO 2024 KORT, spillere fotballag",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/352217007",
-      "funnet": "2026-07-05T08:30:50.458307+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
