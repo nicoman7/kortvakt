@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T19:56:15.072532+00:00",
+  "sist_sjekket": "2026-07-05T19:58:12.461447+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449574362",
+      "funnet": "2026-07-05T19:58:12.461265+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Chespin Illustration Rare - 087/086",
       "pris": 120,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-05T16:01:03.645501+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Energi kort (141)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469006529",
-      "funnet": "2026-07-05T15:58:16.762443+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
