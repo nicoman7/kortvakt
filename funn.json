@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T12:28:15.127253+00:00",
+  "sist_sjekket": "2026-07-05T12:30:51.492028+00:00",
   "funn": [
+    {
+      "tittel": "AZ's Tranquility Special Illustration Rare - Chaos Rising",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468982652",
+      "funnet": "2026-07-05T12:30:51.491980+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "John Terry Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/379341927",
+      "funnet": "2026-07-05T12:30:50.617063+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lost Origin samling",
       "pris": 245,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/424647845",
       "funnet": "2026-07-05T07:14:14.635745+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax samling fotballkort med permer",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468748790",
-      "funnet": "2026-07-05T07:04:13.632537+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mtgperm#3 Magic the Gathering kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435877693",
-      "funnet": "2026-07-05T07:01:00.601982+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
