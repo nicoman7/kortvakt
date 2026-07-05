@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T12:48:12.868350+00:00",
+  "sist_sjekket": "2026-07-05T12:50:37.944566+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387699112",
+      "funnet": "2026-07-05T12:50:37.944346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arda Guler Fotballkort",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 140,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468950238",
       "funnet": "2026-07-05T07:44:44.667006+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Floragato 076/073 AR - Pokemon Triplet Beat",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468950081",
-      "funnet": "2026-07-05T07:44:44.020431+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
