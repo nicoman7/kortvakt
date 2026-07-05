@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T18:16:16.320987+00:00",
+  "sist_sjekket": "2026-07-05T18:18:16.779948+00:00",
   "funn": [
+    {
+      "tittel": "Perfect order EX-kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469019487",
+      "funnet": "2026-07-05T18:18:16.779899+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Suspicious Food Tin - 080/073 - Pokemon kort",
       "pris": 190,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468996019",
       "funnet": "2026-07-05T14:18:13.868842+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Metagross GX Secret Rare 157/145 Guardians Rising kort",
-      "pris": 230,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468996105",
-      "funnet": "2026-07-05T14:18:13.246519+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
