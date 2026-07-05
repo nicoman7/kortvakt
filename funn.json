@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T15:14:16.138724+00:00",
+  "sist_sjekket": "2026-07-05T15:16:16.142239+00:00",
   "funn": [
+    {
+      "tittel": "Div Pokemon",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/369870356",
+      "funnet": "2026-07-05T15:16:16.142202+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini fotballkort Son Heung-min Golden Baller",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469002228",
+      "funnet": "2026-07-05T15:16:15.256087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 klistremerker – landslag og spillere",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462466125",
       "funnet": "2026-07-05T09:58:16.478487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scorbunny Shining Fates Shiny Vault (SV015) Shiny Holo Rare",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468960689",
-      "funnet": "2026-07-05T09:58:16.073407+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Falkner #150 Pokemon Chinese CSV3C",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462466694",
-      "funnet": "2026-07-05T09:58:15.212960+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
