@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T15:58:16.762479+00:00",
+  "sist_sjekket": "2026-07-05T16:01:03.645711+00:00",
   "funn": [
+    {
+      "tittel": "Diverse ugraderte pokemonkort, kom med bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468995452",
+      "funnet": "2026-07-05T16:01:03.645501+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Energi kort (141)",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468974924",
       "funnet": "2026-07-05T11:24:13.323748+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort japanske full art / holo – lot på 15 kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468973759",
-      "funnet": "2026-07-05T11:16:16.403708+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
