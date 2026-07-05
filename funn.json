@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T13:28:17.570605+00:00",
+  "sist_sjekket": "2026-07-05T13:30:54.451710+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup Qatar 2022",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468989151",
+      "funnet": "2026-07-05T13:30:54.451491+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚡️Pokemonkort pakker⚡️",
       "pris": 120,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-05T08:22:19.100055+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Crystal Guardians",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452591494",
-      "funnet": "2026-07-05T08:18:19.703003+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
