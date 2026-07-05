@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T20:06:15.806893+00:00",
+  "sist_sjekket": "2026-07-05T20:08:14.182974+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Tarot og orakelkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469030009",
+      "funnet": "2026-07-05T20:08:14.182784+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Mega Gardevoir EX Promo",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469008456",
       "funnet": "2026-07-05T16:16:18.807230+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort pakke (100 kort) – Inkl. Volcanion Holo, Dragonite og Vaporeon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469007193",
-      "funnet": "2026-07-05T16:10:40.067618+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
