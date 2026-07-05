@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T01:06:15.726950+00:00",
+  "sist_sjekket": "2026-07-05T01:08:17.115771+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk 60 stk kort for 200kr +porto",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462565896",
+      "funnet": "2026-07-05T01:08:17.115590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Magcargo Holo Rare Undaunted 6/90",
       "pris": 220,
@@ -1180,13 +1188,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-07-04T19:44:13.484577+00:00",
       "kategori": "store_samlinger"
-    },
-    {
-      "tittel": "Trader fotokort for Minji!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468928032",
-      "funnet": "2026-07-04T19:42:14.515456+00:00",
-      "kategori": "andre"
     }
   ]
 }
