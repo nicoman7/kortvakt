@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-05T18:58:14.470418+00:00",
+  "sist_sjekket": "2026-07-05T19:00:58.298042+00:00",
   "funn": [
+    {
+      "tittel": "Runar Berg Bodø/Glimt fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469025034",
+      "funnet": "2026-07-05T19:00:58.297999+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ørjan Berg Bodø/Glimt fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469025313",
+      "funnet": "2026-07-05T19:00:57.530286+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Runar Berg Bodø/Glimt fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469025168",
+      "funnet": "2026-07-05T19:00:56.585381+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre Pokemon Kort 2004-2010",
       "pris": null,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-05T15:01:02.174680+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407137702",
-      "funnet": "2026-07-05T15:01:01.277348+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA World Cup Power-Up samlekort – flere spillere",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468998993",
-      "funnet": "2026-07-05T14:56:13.500948+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Snorlax GX Sun & Moon SM05 Jumbo",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468999759",
-      "funnet": "2026-07-05T14:54:14.769961+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
