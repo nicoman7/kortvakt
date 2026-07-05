@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T18:54:16.596451+00:00",
+  "sist_sjekket": "2026-07-05T18:56:15.451922+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon JUMBO – Mega Latias, Cyclizar, Houndstone, Bloodmoon Ursaluna",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469024338",
+      "funnet": "2026-07-05T18:56:15.451732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jostein Flo fotballkort USA-VM 94",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469024662",
+      "funnet": "2026-07-05T18:56:14.655228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Game Fotballkort - Kjetil Rekdal, VM 94",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-05T14:50:39.422725+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Illustrator contest 2024 #214 PSA10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468999100",
-      "funnet": "2026-07-05T14:48:15.694242+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tyranitar full art ///pikachu vmax///dragonite v",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468998998",
-      "funnet": "2026-07-05T14:48:14.981790+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
