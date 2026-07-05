@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T17:54:14.277948+00:00",
+  "sist_sjekket": "2026-07-05T17:56:14.417016+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Charizard ønskes kjøp",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469018170",
+      "funnet": "2026-07-05T17:56:14.416984+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gyarados samlekort",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469018381",
+      "funnet": "2026-07-05T17:56:14.146884+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Onix",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-05T13:54:12.736540+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort fra 1975-1976",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468992066",
-      "funnet": "2026-07-05T13:50:40.824712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotball vm-kort 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468991928",
-      "funnet": "2026-07-05T13:40:38.237684+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
