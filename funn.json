@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T12:24:12.672991+00:00",
+  "sist_sjekket": "2026-07-05T12:26:15.662989+00:00",
   "funn": [
+    {
+      "tittel": "Lost Origin samling",
+      "pris": 245,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458804240",
+      "funnet": "2026-07-05T12:26:15.662807+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ståle Solbakken fotballkort - TippeligaStjerner",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468982601",
+      "funnet": "2026-07-05T12:26:14.896712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Latios 203/191 Illustration rare",
       "pris": 405,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/435877693",
       "funnet": "2026-07-05T07:01:00.601982+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Virgil Van Dijk Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412043881",
-      "funnet": "2026-07-05T06:58:16.639493+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mohamed Salah Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450579491",
-      "funnet": "2026-07-05T06:58:16.390598+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
