@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T11:40:35.389117+00:00",
+  "sist_sjekket": "2026-07-05T11:42:14.365619+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – holo og V/Vmax kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468976081",
+      "funnet": "2026-07-05T11:42:14.365582+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "OPPDATERT Panini World cup 2026 kort",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/398439815",
       "funnet": "2026-07-05T06:53:21.170757+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luis Suarez Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450411370",
-      "funnet": "2026-07-05T06:53:20.868631+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
