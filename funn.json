@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T11:54:16.482653+00:00",
+  "sist_sjekket": "2026-07-05T11:56:16.572161+00:00",
   "funn": [
+    {
+      "tittel": "Radiant Charizard",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461685842",
+      "funnet": "2026-07-05T11:56:16.571920+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon hits selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468978278",
+      "funnet": "2026-07-05T11:56:15.836780+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort pakke (100 kort) – Inkl. Lycanroc GX, Brock's Grit og tilbehør",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/410933076",
       "funnet": "2026-07-05T06:53:23.612519+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luis Suarez Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398617030",
-      "funnet": "2026-07-05T06:53:23.282991+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Owen Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397630042",
-      "funnet": "2026-07-05T06:53:22.923524+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
