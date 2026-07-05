@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T21:34:15.516012+00:00",
+  "sist_sjekket": "2026-07-05T21:36:16.089330+00:00",
   "funn": [
+    {
+      "tittel": "Samling basketkort – ulike spillere og serier",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469034586",
+      "funnet": "2026-07-05T21:36:16.089294+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage Pokemon Topps Kort - Pidgey, Pidgeotto, Pidgeot",
       "pris": 45,
@@ -1190,14 +1198,6 @@
       "pris": 210,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469010457",
       "funnet": "2026-07-05T16:44:16.163199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Xl Momentum 2025 fotballkort Kylian Mbappé",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469010076",
-      "funnet": "2026-07-05T16:44:15.406590+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
