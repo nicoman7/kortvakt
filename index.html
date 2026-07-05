@@ -376,8 +376,16 @@
     let lydCtx = null;
     function hentLydKontekst() {
       if (!lydCtx) lydCtx = new (window.AudioContext || window.webkitAudioContext)();
+      // Noen nettlesere setter lyd-motoren "på pause" i inaktive/bakgrunns-faner.
+      // Vekker den opp igjen her, slik at lyd fortsatt spilles selv om du f.eks. ser på YouTube i en annen fane.
+      if (lydCtx.state === 'suspended') lydCtx.resume();
       return lydCtx;
     }
+
+    // Ekstra sikkerhet: prøv å vekke lyd-motoren når fanen blir synlig/skjult
+    document.addEventListener('visibilitychange', () => {
+      if (lydCtx && lydCtx.state === 'suspended') lydCtx.resume();
+    });
     function spillTone(ctx, frekvens, start, varighet, type, volum) {
       const osc = ctx.createOscillator();
       const gain = ctx.createGain();
