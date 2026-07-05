@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T10:02:19.041894+00:00",
+  "sist_sjekket": "2026-07-05T10:04:14.888592+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 147,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/237246871",
+      "funnet": "2026-07-05T10:04:14.888547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 klistremerke Cristiano Ronaldo POR 15",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/392500731",
       "funnet": "2026-07-05T06:31:46.871945+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Javier Zanetti Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/410782611",
-      "funnet": "2026-07-05T06:20:39.124972+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
