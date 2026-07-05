@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T13:00:58.098734+00:00",
+  "sist_sjekket": "2026-07-05T13:02:14.344983+00:00",
   "funn": [
+    {
+      "tittel": "Selger Pokémon kort!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468797360",
+      "funnet": "2026-07-05T13:02:14.344946+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Wailord 162/159",
       "pris": 225,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468951529",
       "funnet": "2026-07-05T07:58:16.008442+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort Stadium Star",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468951041",
-      "funnet": "2026-07-05T07:54:17.668388+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
