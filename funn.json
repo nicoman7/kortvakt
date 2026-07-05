@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T10:04:14.888592+00:00",
+  "sist_sjekket": "2026-07-05T10:06:13.663955+00:00",
   "funn": [
+    {
+      "tittel": "Mummi samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468963414",
+      "funnet": "2026-07-05T10:06:13.663913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort",
       "pris": 147,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/392500489",
       "funnet": "2026-07-05T06:31:47.497987+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool RC Lot Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392500731",
-      "funnet": "2026-07-05T06:31:46.871945+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
