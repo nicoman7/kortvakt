@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T17:44:12.135139+00:00",
+  "sist_sjekket": "2026-07-05T17:46:17.165478+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON - FIRE RED",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469017386",
+      "funnet": "2026-07-05T17:46:17.165446+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon gullkort Medichan 210",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469017257",
+      "funnet": "2026-07-05T17:46:16.512298+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2 stk vintage Pokemon Skyridge kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468984871",
       "funnet": "2026-07-05T13:04:15.315196+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Pokémon kort!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468797360",
-      "funnet": "2026-07-05T13:02:14.344946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Wailord 162/159",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468986731",
-      "funnet": "2026-07-05T13:00:58.098706+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
