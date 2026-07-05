@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T08:08:17.510768+00:00",
+  "sist_sjekket": "2026-07-05T08:10:43.240604+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468952275",
+      "funnet": "2026-07-05T08:10:43.240428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One piece kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/407817159",
       "funnet": "2026-07-05T06:02:14.790167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samuel Eto’o Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412040986",
-      "funnet": "2026-07-05T06:02:13.917810+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
