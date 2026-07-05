@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T18:46:12.576013+00:00",
+  "sist_sjekket": "2026-07-05T18:47:24.072374+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436051408",
+      "funnet": "2026-07-05T18:47:24.072338+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Primal Kyogre EX",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468998535",
       "funnet": "2026-07-05T14:40:40.708956+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Deserted Beach landkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468998225",
-      "funnet": "2026-07-05T14:40:40.310531+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
