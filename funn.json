@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T12:32:15.142816+00:00",
+  "sist_sjekket": "2026-07-05T12:34:13.642418+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon kort fra GEM 5 (Spør om pris)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468983396",
+      "funnet": "2026-07-05T12:34:13.642384+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "JOLTIK WHITE FLARE POKEMONKORT",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468983246",
+      "funnet": "2026-07-05T12:34:13.288949+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "AZ's Tranquility Special Illustration Rare - Chaos Rising",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468948446",
       "funnet": "2026-07-05T07:22:17.090224+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Cyndaquil #047",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468931797",
-      "funnet": "2026-07-05T07:20:36.856693+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alien Legacy samlekort komplett sett av 9 kort (H)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/424647845",
-      "funnet": "2026-07-05T07:14:14.635745+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
