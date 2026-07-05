@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T07:34:17.260295+00:00",
+  "sist_sjekket": "2026-07-05T07:36:13.377940+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - eldre kort - samling - auksjon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468948425",
+      "funnet": "2026-07-05T07:36:13.377897+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Vinicius Junior #UE16 Rookie FIFA 365",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/303492796",
+      "funnet": "2026-07-05T07:36:13.134600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Petter Rudi fotballkort - Merlins Premier Gold 99",
       "pris": 65,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/451590696",
       "funnet": "2026-07-05T06:02:05.890618+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hulk Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/410436692",
-      "funnet": "2026-07-05T06:02:05.551180+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rivaldo Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/410931178",
-      "funnet": "2026-07-05T06:02:04.674677+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
