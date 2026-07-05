@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T17:36:13.818061+00:00",
+  "sist_sjekket": "2026-07-05T17:38:14.046444+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Perfect Order hits!",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469016138",
+      "funnet": "2026-07-05T17:38:14.046391+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469016416",
+      "funnet": "2026-07-05T17:38:13.770638+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering samlekort / MTG kort",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468983217",
       "funnet": "2026-07-05T13:00:57.508954+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gareth Southgate fotballkort - Merlins Premier Gold 98",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468986782",
-      "funnet": "2026-07-05T13:00:56.860275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Faustino Asprilla fotballkort - Merlins Premier Gold 98",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468986268",
-      "funnet": "2026-07-05T12:56:18.209328+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
