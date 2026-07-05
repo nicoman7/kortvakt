@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-05T19:02:12.548668+00:00",
+  "sist_sjekket": "2026-07-05T19:04:14.650013+00:00",
   "funn": [
+    {
+      "tittel": "Gamle Pokémon kort ferdig gradert til FASTPRISER - stor pokemonsamling",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739129",
+      "funnet": "2026-07-05T19:04:14.649924+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Premier League 2025/26 – Erling Haaland Goal Machine (Limited Edition)",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468795035",
+      "funnet": "2026-07-05T19:04:14.320813+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "World Cup USA 94 Colin Miller Canada samlekort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469025554",
+      "funnet": "2026-07-05T19:04:13.975718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Runar Berg Bodø/Glimt fotballkort",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-05T15:04:17.948762+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407238775",
-      "funnet": "2026-07-05T15:01:03.844606+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407136466",
-      "funnet": "2026-07-05T15:01:02.990335+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407239050",
-      "funnet": "2026-07-05T15:01:02.174680+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
