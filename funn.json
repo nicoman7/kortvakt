@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T18:26:13.053270+00:00",
+  "sist_sjekket": "2026-07-05T18:28:16.967115+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON KORT",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396025584",
+      "funnet": "2026-07-05T18:28:16.967087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ME04: Chaos Rising Pokemon kortsalg",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468979182",
+      "funnet": "2026-07-05T18:28:16.078533+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort Nidoking 11/102 base set",
       "pris": 170,
@@ -1182,22 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468995080",
       "funnet": "2026-07-05T14:24:14.151502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468994024",
-      "funnet": "2026-07-05T14:24:13.582415+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United – Topps x Steve Aoki Football Festival 2022 – Ronaldo +++",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468996254",
-      "funnet": "2026-07-05T14:20:39.699406+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
