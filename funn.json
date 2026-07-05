@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T08:14:19.235695+00:00",
+  "sist_sjekket": "2026-07-05T08:16:17.765362+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra Power Keepers",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452599165",
+      "funnet": "2026-07-05T08:16:17.765322+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort fra Unseen Forces",
       "pris": 170,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/391106729",
       "funnet": "2026-07-05T06:04:16.059474+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pavel Nedved Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/391106980",
-      "funnet": "2026-07-05T06:04:15.642207+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
