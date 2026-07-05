@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T15:42:14.771230+00:00",
+  "sist_sjekket": "2026-07-05T15:44:16.552510+00:00",
   "funn": [
+    {
+      "tittel": "Uåpnet panini fotballkort - 2021",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469005506",
+      "funnet": "2026-07-05T15:44:16.552310+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering kort – The Mind Stone",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469005223",
+      "funnet": "2026-07-05T15:44:16.126653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Masse kort fra Pokemon Celebrations 25th Anniversary set",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-05T10:28:20.105657+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Umbreon VMAX Single Strike kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468939468",
-      "funnet": "2026-07-05T10:28:19.334617+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Cesc Fàbregas Memorable fotballkort 16/20",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468965961",
-      "funnet": "2026-07-05T10:20:38.431760+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
