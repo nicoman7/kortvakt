@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T08:16:17.765362+00:00",
+  "sist_sjekket": "2026-07-05T08:18:19.703039+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra Crystal Guardians",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452591494",
+      "funnet": "2026-07-05T08:18:19.703003+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Umbreon vmax",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/444392456",
+      "funnet": "2026-07-05T08:18:18.809935+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra Power Keepers",
       "pris": 190,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/388206513",
       "funnet": "2026-07-05T06:04:16.787360+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wayne Rooney Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/382171284",
-      "funnet": "2026-07-05T06:04:16.427473+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Didier Drogba Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/391106729",
-      "funnet": "2026-07-05T06:04:16.059474+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
