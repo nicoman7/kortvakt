@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T19:24:17.543271+00:00",
+  "sist_sjekket": "2026-07-05T19:26:15.304837+00:00",
   "funn": [
+    {
+      "tittel": "Cole Palmer Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395475496",
+      "funnet": "2026-07-05T19:26:15.304765+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bruno Fernandes Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395377429",
+      "funnet": "2026-07-05T19:26:14.900595+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "USA VM 94 Henning Berg fotballkort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462651445",
       "funnet": "2026-07-05T15:24:19.592196+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras Ex 022/088 - Double Rare - Mega Evolution: Perfect Order - Pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462651322",
-      "funnet": "2026-07-05T15:24:18.727296+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XXL Christian Pulisic Limited Edition kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469003294",
-      "funnet": "2026-07-05T15:24:17.894733+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
