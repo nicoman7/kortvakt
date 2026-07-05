@@ -147,6 +147,28 @@
   .search-input::placeholder { color: var(--text-dim); }
   .search-input:focus { outline: 2px solid var(--cyan); outline-offset: 1px; }
 
+  /* ---------- Lydpanel ---------- */
+  .lyd-rad { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 9px 6px; }
+  .lyd-info { display: flex; align-items: center; gap: 9px; }
+  .lyd-navn { font-size: 13px; font-weight: 600; }
+  .test-btn {
+    background: none; border: 1px solid var(--glass-border); color: var(--text-dim);
+    border-radius: 50%; width: 22px; height: 22px; font-size: 10px; cursor: pointer;
+    display: inline-flex; align-items: center; justify-content: center;
+  }
+  .test-btn:hover { border-color: var(--cyan); color: var(--cyan); }
+  .lyd-toggle {
+    position: relative; width: 38px; height: 21px; border-radius: 999px;
+    background: var(--glass-border); cursor: pointer; flex-shrink: 0; border: none;
+  }
+  .lyd-toggle::after {
+    content: ""; position: absolute; width: 16px; height: 16px; border-radius: 50%;
+    background: var(--text-dim); top: 2.5px; left: 3px; transition: all 0.2s ease;
+  }
+  .lyd-toggle.on { background: linear-gradient(90deg, var(--cyan), var(--green)); }
+  .lyd-toggle.on::after { left: 19px; background: #06131A; }
+  .lyd-toggle:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+
   .status-bar {
     display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
     font-family: 'JetBrains Mono', monospace; font-size: 12.5px; color: var(--text-dim); padding-bottom: 18px;
@@ -278,6 +300,47 @@
       </div>
 
       <input type="text" id="search-input" class="search-input" placeholder="🔍 Søk i titler, f.eks. «Charizard»...">
+
+      <div class="accordion" style="margin-top: 10px;">
+        <button class="accordion-toggle" id="lyd-toggle" type="button">
+          <span>🔊 Lydvarsler: <span class="valgt" id="lyd-valgt">Av</span></span>
+          <span class="chev">▾</span>
+        </button>
+        <div class="accordion-panel" id="lyd-panel">
+          <div class="accordion-inner">
+            <div style="padding-top: 10px; display: flex; flex-direction: column; gap: 2px;">
+              <div class="lyd-rad">
+                <div class="lyd-info">
+                  <button class="test-btn" data-test-lyd="andre" title="Test lyd">▶</button>
+                  <span class="lyd-navn">🗂️ Alle / vanlige kort</span>
+                </div>
+                <button class="lyd-toggle" data-lyd-kategori="andre" aria-label="Skru på/av lyd for vanlige kort"></button>
+              </div>
+              <div class="lyd-rad">
+                <div class="lyd-info">
+                  <button class="test-btn" data-test-lyd="store_samlinger" title="Test lyd">▶</button>
+                  <span class="lyd-navn">📦 Store samlinger</span>
+                </div>
+                <button class="lyd-toggle" data-lyd-kategori="store_samlinger" aria-label="Skru på/av lyd for store samlinger"></button>
+              </div>
+              <div class="lyd-rad">
+                <div class="lyd-info">
+                  <button class="test-btn" data-test-lyd="sjeldne_glins" title="Test lyd">▶</button>
+                  <span class="lyd-navn">✨ Sjeldne &amp; glins</span>
+                </div>
+                <button class="lyd-toggle" data-lyd-kategori="sjeldne_glins" aria-label="Skru på/av lyd for sjeldne kort"></button>
+              </div>
+              <div class="lyd-rad">
+                <div class="lyd-info">
+                  <button class="test-btn" data-test-lyd="pris_pa_foresporsel" title="Test lyd">▶</button>
+                  <span class="lyd-navn">💬 Pris på forespørsel</span>
+                </div>
+                <button class="lyd-toggle" data-lyd-kategori="pris_pa_foresporsel" aria-label="Skru på/av lyd for pris på forespørsel"></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div class="status-bar">
@@ -293,10 +356,110 @@
   <script>
     const FAVORITT_NOKKEL = 'kortvakt_favoritter';
     const TEMA_NOKKEL = 'kortvakt_tema';
+    const LYD_NOKKEL = 'kortvakt_lyd';
     let alleFunn = [];
     let aktivFane = 'alle';
     let aktivSport = 'alt';
     let sokeTekst = '';
+    let kjenteLenker = null; // brukes til å oppdage NYE funn mellom hver oppdatering
+
+    // ---------- Lydsystem (syntetiserte lyder, ingen lydfiler nødvendig) ----------
+    const LYD_STANDARD = { andre: false, store_samlinger: false, sjeldne_glins: false, pris_pa_foresporsel: false };
+    const LYD_VISNINGSNAVN = { andre: '🗂️ Alle', store_samlinger: '📦 Store samlinger', sjeldne_glins: '✨ Sjeldne & glins', pris_pa_foresporsel: '💬 Pris på forespørsel' };
+
+    function hentLydInnstillinger() {
+      try { return { ...LYD_STANDARD, ...JSON.parse(localStorage.getItem(LYD_NOKKEL) || '{}') }; }
+      catch (e) { return { ...LYD_STANDARD }; }
+    }
+    function lagreLydInnstillinger(obj) { localStorage.setItem(LYD_NOKKEL, JSON.stringify(obj)); }
+
+    let lydCtx = null;
+    function hentLydKontekst() {
+      if (!lydCtx) lydCtx = new (window.AudioContext || window.webkitAudioContext)();
+      return lydCtx;
+    }
+    function spillTone(ctx, frekvens, start, varighet, type, volum) {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = type;
+      osc.frequency.setValueAtTime(frekvens, start);
+      gain.gain.setValueAtTime(0, start);
+      gain.gain.linearRampToValueAtTime(volum, start + 0.01);
+      gain.gain.exponentialRampToValueAtTime(0.0001, start + varighet);
+      osc.connect(gain).connect(ctx.destination);
+      osc.start(start);
+      osc.stop(start + varighet + 0.02);
+    }
+
+    const LYD_FUNKSJONER = {
+      andre: () => {
+        const ctx = hentLydKontekst(); const t = ctx.currentTime;
+        spillTone(ctx, 900, t, 0.07, 'square', 0.10);
+      },
+      store_samlinger: () => {
+        const ctx = hentLydKontekst(); const t = ctx.currentTime;
+        spillTone(ctx, 1046.5, t, 0.12, 'triangle', 0.20);
+        spillTone(ctx, 1568, t + 0.08, 0.28, 'triangle', 0.20);
+      },
+      sjeldne_glins: () => {
+        const ctx = hentLydKontekst(); const t = ctx.currentTime;
+        [1046.5, 1318.5, 1568, 2093].forEach((f, i) => spillTone(ctx, f, t + i * 0.06, 0.2, 'sine', 0.13));
+      },
+      pris_pa_foresporsel: () => {
+        const ctx = hentLydKontekst(); const t = ctx.currentTime;
+        const osc = ctx.createOscillator(); const gain = ctx.createGain();
+        osc.type = 'sine';
+        osc.frequency.setValueAtTime(600, t);
+        osc.frequency.exponentialRampToValueAtTime(150, t + 0.12);
+        gain.gain.setValueAtTime(0.18, t);
+        gain.gain.exponentialRampToValueAtTime(0.0001, t + 0.13);
+        osc.connect(gain).connect(ctx.destination);
+        osc.start(t); osc.stop(t + 0.15);
+      },
+    };
+
+    function spillLyd(kategori) {
+      try { (LYD_FUNKSJONER[kategori] || LYD_FUNKSJONER.andre)(); }
+      catch (e) { console.warn('Kunne ikke spille lyd:', e); }
+    }
+
+    function oppdaterLydUI() {
+      const innstillinger = hentLydInnstillinger();
+      const antallPa = Object.values(innstillinger).filter(Boolean).length;
+      document.getElementById('lyd-valgt').textContent = antallPa === 0 ? 'Av' : `${antallPa} på`;
+      document.querySelectorAll('.lyd-toggle').forEach(btn => {
+        btn.classList.toggle('on', !!innstillinger[btn.dataset.lydKategori]);
+      });
+    }
+
+    document.querySelectorAll('.lyd-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const innstillinger = hentLydInnstillinger();
+        const kat = btn.dataset.lydKategori;
+        innstillinger[kat] = !innstillinger[kat];
+        lagreLydInnstillinger(innstillinger);
+        oppdaterLydUI();
+        if (innstillinger[kat]) spillLyd(kat); // liten bekreftelse når man skrur PÅ
+      });
+    });
+    document.querySelectorAll('[data-test-lyd]').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        spillLyd(btn.dataset.testLyd);
+      });
+    });
+
+    function spillLydForNyeFunn(nyeFunn) {
+      const innstillinger = hentLydInnstillinger();
+      const kategorierMedNytt = new Set(nyeFunn.map(f => f.kategori || 'andre'));
+      let forsinkelse = 0;
+      kategorierMedNytt.forEach(kat => {
+        if (innstillinger[kat]) {
+          setTimeout(() => spillLyd(kat), forsinkelse);
+          forsinkelse += 300;
+        }
+      });
+    }
 
     const grid = document.getElementById('grid');
     const statusText = document.getElementById('status-text');
@@ -312,6 +475,8 @@
     const sportToggle = document.getElementById('sport-toggle');
     const sportPanel = document.getElementById('sport-panel');
     const sportValgt = document.getElementById('sport-valgt');
+    const lydToggleKnapp = document.getElementById('lyd-toggle');
+    const lydPanel = document.getElementById('lyd-panel');
 
     const KATEGORI_LABEL = {
       alle: '🗂️ Alle', store_samlinger: '📦 Store samlinger', sjeldne_glins: '✨ Sjeldne & glins',
@@ -331,11 +496,19 @@
     kategoriToggle.addEventListener('click', () => {
       toggleAccordion(kategoriToggle, kategoriPanel, () => {
         sportPanel.classList.remove('open'); sportToggle.classList.remove('open');
+        lydPanel.classList.remove('open'); lydToggleKnapp.classList.remove('open');
       });
     });
     sportToggle.addEventListener('click', () => {
       toggleAccordion(sportToggle, sportPanel, () => {
         kategoriPanel.classList.remove('open'); kategoriToggle.classList.remove('open');
+        lydPanel.classList.remove('open'); lydToggleKnapp.classList.remove('open');
+      });
+    });
+    lydToggleKnapp.addEventListener('click', () => {
+      toggleAccordion(lydToggleKnapp, lydPanel, () => {
+        kategoriPanel.classList.remove('open'); kategoriToggle.classList.remove('open');
+        sportPanel.classList.remove('open'); sportToggle.classList.remove('open');
       });
     });
 
@@ -509,6 +682,16 @@
         const respons = await fetch(`funn.json?_=${Date.now()}`, { cache: 'no-store' });
         const data = await respons.json();
         alleFunn = data.funn || [];
+
+        if (kjenteLenker === null) {
+          // Første lasting i denne økten - ikke spill lyd for alt som allerede ligger der
+          kjenteLenker = new Set(alleFunn.map(f => f.lenke));
+        } else {
+          const nyeFunn = alleFunn.filter(f => !kjenteLenker.has(f.lenke));
+          kjenteLenker = new Set(alleFunn.map(f => f.lenke));
+          if (nyeFunn.length > 0) spillLydForNyeFunn(nyeFunn);
+        }
+
         tegnAlt();
         statusText.textContent = data.sist_sjekket
           ? `Sist sjekket ${relativTid(data.sist_sjekket)} · ${alleFunn.length} treff totalt`
@@ -518,6 +701,7 @@
       }
     }
     refreshBtn.addEventListener('click', lastFunn);
+    oppdaterLydUI();
     lastFunn();
     setInterval(lastFunn, 60 * 1000);
 
