@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T07:20:36.856733+00:00",
+  "sist_sjekket": "2026-07-05T07:22:17.090442+00:00",
   "funn": [
+    {
+      "tittel": "100 Club  Topps",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468948446",
+      "funnet": "2026-07-05T07:22:17.090224+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Cyndaquil #047",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468943898",
       "funnet": "2026-07-05T05:34:16.401376+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 1.Ed - Pokemon - Blå Logo - 12 Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468943789",
-      "funnet": "2026-07-05T05:30:47.871100+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
