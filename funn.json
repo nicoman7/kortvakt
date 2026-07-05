@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T15:54:15.790604+00:00",
+  "sist_sjekket": "2026-07-05T15:56:14.429558+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468971592",
+      "funnet": "2026-07-05T15:56:14.429517+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Trainer Pokemonkort 8 stk (Skyridge ++)",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468971381",
       "funnet": "2026-07-05T11:08:15.751466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Åpnet Pokemon Chaos Rising Elite trainer box",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468780712",
-      "funnet": "2026-07-05T11:04:13.942367+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
