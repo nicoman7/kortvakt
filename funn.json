@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-05T15:46:16.224183+00:00",
+  "sist_sjekket": "2026-07-05T15:48:13.989712+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Eevee promo kort fra sword & shield",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469005155",
+      "funnet": "2026-07-05T15:48:13.989491+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon World Championship 2019 kortstokker",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462043658",
+      "funnet": "2026-07-05T15:48:13.698306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Corviknight V Battle Deck kortstokk",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462044541",
+      "funnet": "2026-07-05T15:48:13.370458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Uåpnet panini fotballkort - 2021",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-05T10:46:13.565811+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise base set 2/102 Pokemon Kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468969536",
-      "funnet": "2026-07-05T10:46:13.302296+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Diverse Hits, Ex, og Bulk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468962876",
-      "funnet": "2026-07-05T10:40:36.800995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vaporeon VMAX Character Rare kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468939517",
-      "funnet": "2026-07-05T10:28:20.105657+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
