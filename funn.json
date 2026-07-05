@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-05T18:50:36.346187+00:00",
+  "sist_sjekket": "2026-07-05T18:52:14.215699+00:00",
   "funn": [
+    {
+      "tittel": "Bytte Panini VM klistremerker",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469023842",
+      "funnet": "2026-07-05T18:52:14.215639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL Fifa World Cup 2026",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468999419",
       "funnet": "2026-07-05T14:48:13.699440+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Plastlommer for samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/293498490",
-      "funnet": "2026-07-05T14:46:14.977316+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
