@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T17:20:40.469223+00:00",
+  "sist_sjekket": "2026-07-05T17:22:13.984490+00:00",
   "funn": [
+    {
+      "tittel": "Flere pakker med poker kort...samlerobjekter",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397554851",
+      "funnet": "2026-07-05T17:22:13.984296+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Random kort ryddes",
+      "pris": 195,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469014328",
+      "funnet": "2026-07-05T17:22:13.652373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Garchomp holo pokemon kort",
       "pris": 249,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/406373497",
       "funnet": "2026-07-05T12:46:12.804957+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alan Shearer fotballkort - Merlins Premier Gold 98",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468985332",
-      "funnet": "2026-07-05T12:46:12.563698+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PURRLOIN WHITE FLARE POKEMONKORT",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468984332",
-      "funnet": "2026-07-05T12:44:12.981164+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
