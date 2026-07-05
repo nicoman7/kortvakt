@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-05T18:52:14.215699+00:00",
+  "sist_sjekket": "2026-07-05T18:54:16.596451+00:00",
   "funn": [
+    {
+      "tittel": "Game Fotballkort - Kjetil Rekdal, VM 94",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469022783",
+      "funnet": "2026-07-05T18:54:16.596403+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469023922",
+      "funnet": "2026-07-05T18:54:16.217983+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bytte Panini VM klistremerker",
       "pris": 3,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-05T14:48:14.981790+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ateez fotokort💛 (FLERE SIDER!)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468999308",
-      "funnet": "2026-07-05T14:48:14.300799+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sprigatito - Black Star Promo - Pokemon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468999419",
-      "funnet": "2026-07-05T14:48:13.699440+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
