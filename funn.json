@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T14:06:22.021444+00:00",
+  "sist_sjekket": "2026-07-06T14:08:17.253192+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dusknoir 070/064",
+      "pris": 360,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469086510",
+      "funnet": "2026-07-06T14:08:17.252973+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome Champions League fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469086460",
+      "funnet": "2026-07-06T14:08:16.629126+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Zorua 075/064",
       "pris": 280,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/425266810",
       "funnet": "2026-07-06T09:04:20.621154+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Harry Kane Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452068165",
-      "funnet": "2026-07-06T09:04:20.377120+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Frank Lampard Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/425268705",
-      "funnet": "2026-07-06T09:04:19.630531+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
