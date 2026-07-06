@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T11:40:37.828279+00:00",
+  "sist_sjekket": "2026-07-06T11:42:16.383560+00:00",
   "funn": [
+    {
+      "tittel": "Messi Jewel / Ronaldo Jewel - Panini Adrenalyn Qatar 2022",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436139438",
+      "funnet": "2026-07-06T11:42:16.383379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samleperm med kort",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T07:04:14.605495+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469050020",
-      "funnet": "2026-07-06T07:04:13.974231+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
