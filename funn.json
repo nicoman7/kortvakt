@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T16:32:19.174506+00:00",
+  "sist_sjekket": "2026-07-06T16:34:14.492331+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon  japanske kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462466915",
+      "funnet": "2026-07-06T16:34:14.492293+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469099140",
+      "funnet": "2026-07-06T16:34:13.758563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "💎⚽️ 🇵🇹 Sjelden Cristiano Ronaldo - Panini Portugal fotballkort",
       "pris": 349,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-06T12:15:33.336584+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort japanske V / VMAX / GX holo lot",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469076131",
-      "funnet": "2026-07-06T12:15:32.678490+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3x Topps Garbage Pail Kids \"Go On Vacation\" – Uåpnede pakker (Sealed)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468881394",
-      "funnet": "2026-07-06T12:02:27.892059+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
