@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T15:50:39.582536+00:00",
+  "sist_sjekket": "2026-07-06T15:52:15.235598+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Greninja EX kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469095676",
+      "funnet": "2026-07-06T15:52:15.235558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort pakke – gull- og svarte kort",
       "pris": 280,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T10:01:05.963388+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort/ samleobjekt",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407420785",
-      "funnet": "2026-07-06T09:48:14.839941+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
