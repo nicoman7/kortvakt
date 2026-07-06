@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T17:54:15.053152+00:00",
+  "sist_sjekket": "2026-07-06T17:56:15.856688+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling av gamle og nye firkort selges",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446506920",
+      "funnet": "2026-07-06T17:56:15.856658+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Nidoking 174/165 S&V 151",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469107448",
+      "funnet": "2026-07-06T17:56:15.080476+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tangela 178/165 S&V 151",
       "pris": 230,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454166540",
       "funnet": "2026-07-06T12:56:18.072045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Ousmane Dumbele - Holo Giants - France",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454320392",
-      "funnet": "2026-07-06T12:56:17.392520+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Manuel Akanji - Max Power",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454335189",
-      "funnet": "2026-07-06T12:54:18.332330+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
