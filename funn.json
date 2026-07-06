@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T16:44:14.924604+00:00",
+  "sist_sjekket": "2026-07-06T16:46:16.066184+00:00",
   "funn": [
+    {
+      "tittel": "Tomme magic the gathering esker",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426247699",
+      "funnet": "2026-07-06T16:46:16.066147+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "WTT / WTS - PSA - Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469099904",
+      "funnet": "2026-07-06T16:46:15.701191+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Norge fotballkort pakke – 7stk Panini FIFA 365 (Haaland, Ødegaard, Bobb)",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-06T12:18:19.167109+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort – Zapdos, Machop og Mewtwo holo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469076072",
-      "funnet": "2026-07-06T12:18:18.291382+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Cinccino VMAX holografisk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469075800",
-      "funnet": "2026-07-06T12:15:34.585677+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
