@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T17:36:13.753091+00:00",
+  "sist_sjekket": "2026-07-06T17:38:19.608815+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon: Stor Samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469105333",
+      "funnet": "2026-07-06T17:38:19.608647+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Ampharos 1/101",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469105693",
+      "funnet": "2026-07-06T17:38:18.786527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Raichu 14/62",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/454133723",
       "funnet": "2026-07-06T12:52:28.600410+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025/26 Topps Chrome EPL - Justin Devenny - Rookie - Nr: 71",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454132374",
-      "funnet": "2026-07-06T12:52:27.839675+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Ederson - Master Class",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454329242",
-      "funnet": "2026-07-06T12:52:26.945998+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
