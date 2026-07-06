@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T16:12:16.445819+00:00",
+  "sist_sjekket": "2026-07-06T16:14:18.064828+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469097230",
+      "funnet": "2026-07-06T16:14:18.064648+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Magmortar kort – Mega Punch / Boltsplosion",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469097157",
+      "funnet": "2026-07-06T16:14:17.245723+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mabosstiff 137/198",
       "pris": 210,
@@ -1182,22 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469069340",
       "funnet": "2026-07-06T11:06:15.957424+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Zekrom EX promo kort 3stk!",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469067981",
-      "funnet": "2026-07-06T10:50:42.167784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Prismatic Evolutions – 3x Full Art Trainer-kort (Mela, Amarys, Tyme)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469067857",
-      "funnet": "2026-07-06T10:46:15.510405+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
