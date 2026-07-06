@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T23:26:12.200578+00:00",
+  "sist_sjekket": "2026-07-06T23:28:13.101187+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 94/123",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469132875",
+      "funnet": "2026-07-06T23:28:13.101164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort vintage - Fire red&Leaf Green",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/365929533",
       "funnet": "2026-07-06T19:08:15.754445+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Braut Haaland Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/365756701",
-      "funnet": "2026-07-06T19:08:15.152650+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
