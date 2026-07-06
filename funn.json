@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T20:20:41.820093+00:00",
+  "sist_sjekket": "2026-07-06T20:22:16.479148+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes • Prismatic Evolutions • Destined Rivals • Booster Packs",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462760502",
+      "funnet": "2026-07-06T20:22:16.478952+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Sticker",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469111239",
       "funnet": "2026-07-06T18:36:15.832590+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Digimon kort",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462734954",
-      "funnet": "2026-07-06T18:34:29.486615+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
