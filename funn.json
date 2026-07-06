@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T20:24:14.760146+00:00",
+  "sist_sjekket": "2026-07-06T20:26:14.264032+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn FIFA World Cup 2026 Nordic Edition",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469122374",
+      "funnet": "2026-07-06T20:26:14.263842+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Anthony Clark og Richard Gill The I Ching Pack Eskesett",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T18:38:16.542492+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "One piece OP-15 samlekort boosterpakker",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459049324",
-      "funnet": "2026-07-06T18:38:15.670766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
