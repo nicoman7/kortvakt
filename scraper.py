@@ -29,17 +29,24 @@ STIKKORD = [
     "bøtte", "pose", "sekk", "kasse", "flytting", "gis bort",
     "pokemon", "kort", "fotballkort", "charizard", "pikachu",
     "topps", "panini", "skinnende", "glins", "holos", "rare",
+    # Nye - fanger opp selgere som ikke kjenner fagspråket
+    # (f.eks. en bestemor som bare skriver "julegave-tips")
+    "fotball", "adrenalyn",
+    "julegave", "julegaver", "jule gave", "gavetips", "gave tips",
+    "nips", "nipps", "ymse", "dekorasjon", "pynt",
+    "gift", "gifts", "hobby",
+    "samler", "samle", "samleobjekter", "samleobjekt",
 ]
 
 KATEGORI_STORE_SAMLINGER = ["samling", "bunke", "eske", "perm", "album", "kasse", "parti"]
 KATEGORI_SJELDNE_GLINS = ["glins", "holo", "rare", "charizard", "skinnende", "chrome", "gull"]
 
 # Fraser som avslører at prisen på kortet/annonsekortet IKKE er en ekte fastpris,
-# men egentlig "kom med bud" / "spør om pris" / "selges enkeltvis" - da blir f.eks.
-# en lav pris på hele annonsen misvisende.
+# men egentlig "kom med bud" / "spør om pris" - da blir f.eks. "1 kr" misvisende.
 BUD_FRASER = [
     "kom med bud", "åpen for bud", "gi et bud", "gi bud", "send bud",
     "by på", "bud mottas", "høyeste bud", "beste bud", "budrunde",
+    "tar imot bud", "tar imot tilbud", "mottar bud", "vurderer bud",
     "pris ved henvendelse", "ta kontakt for pris", "spør om pris",
     "kontakt meg for pris", "dm for pris", "meld din interesse",
     "pris etter avtale", "kom med tilbud", "åpen for tilbud",
@@ -201,6 +208,8 @@ def main():
                     kombinert_tekst = annonse["tekst"]
                     pris_pa_foresporsel = False
 
+                    # Sjekk selve annonseteksten for "kom med bud"-fraser,
+                    # men bare for et begrenset antall annonser per kjøring
                     if beskrivelser_hentet < MAKS_BESKRIVELSER_PER_KJORING:
                         beskrivelse = hent_beskrivelse(annonse["lenke"])
                         beskrivelser_hentet += 1
