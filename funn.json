@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T11:28:13.852805+00:00",
+  "sist_sjekket": "2026-07-06T11:30:51.149010+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleperm med kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469071656",
+      "funnet": "2026-07-06T11:30:51.148955+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland Top Scorer Champions league 2020/2021 BVB Topps Now",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T07:04:13.974231+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Magby [Reverse Holo] #52 Pokemon Expedition PSA 8",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453933535",
-      "funnet": "2026-07-06T07:04:13.687854+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
