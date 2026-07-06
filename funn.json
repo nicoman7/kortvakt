@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T15:54:17.596511+00:00",
+  "sist_sjekket": "2026-07-06T15:56:18.865527+00:00",
   "funn": [
+    {
+      "tittel": "Salah Fotballkort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469028354",
+      "funnet": "2026-07-06T15:56:18.865485+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Match Attax / Premier League / Panini 2026 Base kort ø. kj.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454438877",
+      "funnet": "2026-07-06T15:56:18.516534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Greninja EX kort",
       "pris": 450,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462705509",
       "funnet": "2026-07-06T10:10:35.610828+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462503646",
-      "funnet": "2026-07-06T10:02:17.390990+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Matheus Cunha fotballkort selges! Fusion -  Nummerert 15/75",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469062648",
-      "funnet": "2026-07-06T10:01:05.963388+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
