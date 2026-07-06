@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T20:10:39.836632+00:00",
+  "sist_sjekket": "2026-07-06T20:12:17.782480+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort - diverse - kr 100 samlet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/444811536",
+      "funnet": "2026-07-06T20:12:17.782280+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemomkort selges",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469109845",
       "funnet": "2026-07-06T18:18:14.183378+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mew V #113",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469109364",
-      "funnet": "2026-07-06T18:16:18.427237+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
