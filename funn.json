@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T12:20:45.554363+00:00",
+  "sist_sjekket": "2026-07-06T12:22:17.537889+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu kort",
+      "pris": 370,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469076716",
+      "funnet": "2026-07-06T12:22:17.537859+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Vintage Lileep #43 Holo Glins Pokemon EX Sandstorm Kort 2003",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452812168",
+      "funnet": "2026-07-06T12:22:16.776333+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokemon Topps Nidoqueen Kort Samlet",
       "pris": 45,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462653579",
       "funnet": "2026-07-06T07:32:17.214328+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mela #254 Pokemon Paradox Rift",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462657623",
-      "funnet": "2026-07-06T07:32:16.814504+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⭐ Panini Adrenalyn XL World Cup 2026 #336 Erling Haaland – Sleeve & Toploader",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469051828",
-      "funnet": "2026-07-06T07:30:49.817046+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
