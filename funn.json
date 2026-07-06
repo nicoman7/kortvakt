@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T15:14:19.671372+00:00",
+  "sist_sjekket": "2026-07-06T15:16:18.287226+00:00",
   "funn": [
+    {
+      "tittel": "Selger FIFA Panini fotballkort og klistremerker",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469091643",
+      "funnet": "2026-07-06T15:16:18.287179+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Topps samling - Gi Bud",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/407351845",
       "funnet": "2026-07-06T09:44:21.220928+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort/ samleobjekt",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407421576",
-      "funnet": "2026-07-06T09:44:20.356734+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
