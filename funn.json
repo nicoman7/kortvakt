@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T18:08:14.646041+00:00",
+  "sist_sjekket": "2026-07-06T18:10:37.733080+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469108462",
+      "funnet": "2026-07-06T18:10:37.733051+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kortperm Squirtle med samling kort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469084592",
       "funnet": "2026-07-06T13:58:21.292604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Sudowoodo 219/193",
-      "pris": 320,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469085615",
-      "funnet": "2026-07-06T13:58:20.401578+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
