@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T15:02:25.358252+00:00",
+  "sist_sjekket": "2026-07-06T15:04:16.609689+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Topps samling - Gi Bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469091019",
+      "funnet": "2026-07-06T15:04:16.609644+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon TCG - Spillbare Trainer-kort i 10-pakker",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T09:44:20.356734+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon First Partner & Div Hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469061313",
-      "funnet": "2026-07-06T09:44:19.504677+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
