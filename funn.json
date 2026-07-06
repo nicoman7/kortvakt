@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T20:28:17.059158+00:00",
+  "sist_sjekket": "2026-07-06T20:30:53.206087+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Celebrations spillmatte",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469123227",
+      "funnet": "2026-07-06T20:30:53.206049+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon first partner serie 2 Johto trio",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469123629",
+      "funnet": "2026-07-06T20:30:52.618793+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn FIFA World Cup 2026 Nordic Edition",
       "pris": 4,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-06T18:42:18.986987+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Jolteon 8/115",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469111922",
-      "funnet": "2026-07-06T18:38:17.434251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger noen NBA og VM fotballkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469111850",
-      "funnet": "2026-07-06T18:38:16.542492+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
