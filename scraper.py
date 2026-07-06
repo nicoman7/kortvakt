@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 FINN_URLS = [
     "https://www.finn.no/recommerce/forsale/search?product_category=2.86.285.396&sort=PUBLISHED_DESC"
 ]
-MAKS_PRIS = 500
+MAKS_PRIS = 2000
 
 STIKKORD = [
     "samling", "bunke", "eske", "permer", "album",
