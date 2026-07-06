@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T20:06:13.772882+00:00",
+  "sist_sjekket": "2026-07-06T20:08:16.103760+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med kort i perm",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469123122",
+      "funnet": "2026-07-06T20:08:16.103710+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon illustration kort salg ENG (annonse 3)",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469108840",
       "funnet": "2026-07-06T18:08:14.645777+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland fotballkort samling Panini / Topps",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469098891",
-      "funnet": "2026-07-06T18:06:15.814683+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
