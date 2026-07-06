@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T15:36:19.040339+00:00",
+  "sist_sjekket": "2026-07-06T15:38:13.273561+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon-kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469093884",
+      "funnet": "2026-07-06T15:38:13.273380+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger FIFA Panini fotballkort og klistremerker",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/407351140",
       "funnet": "2026-07-06T09:48:14.237306+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort/ samleobjekt",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407351845",
-      "funnet": "2026-07-06T09:44:21.220928+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
