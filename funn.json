@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T16:01:05.268194+00:00",
+  "sist_sjekket": "2026-07-06T16:02:15.961131+00:00",
   "funn": [
+    {
+      "tittel": "Dybala Fotballkort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469096016",
+      "funnet": "2026-07-06T16:02:15.961084+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magnezone V #56 Pokemon Lost Origin",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469067925",
       "funnet": "2026-07-06T10:46:15.151707+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort: 3x Mega ex + 2x trenere (Japansk Mega Symphonia)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469067485",
-      "funnet": "2026-07-06T10:42:17.748649+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
