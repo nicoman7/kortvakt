@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T22:40:42.383196+00:00",
+  "sist_sjekket": "2026-07-06T22:42:17.911974+00:00",
   "funn": [
+    {
+      "tittel": "RARE CANDY GUARD - #14 - LIME JUICE",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469131260",
+      "funnet": "2026-07-06T22:42:17.911921+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "RARE CANDY GUARD - #13 - BLUEBERRY LEMON",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/398441156",
       "funnet": "2026-07-06T19:02:27.183672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andres Iniesta Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450638007",
-      "funnet": "2026-07-06T19:02:26.360907+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
