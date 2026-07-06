@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T17:01:04.670480+00:00",
+  "sist_sjekket": "2026-07-06T17:02:16.966029+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468910180",
+      "funnet": "2026-07-06T17:02:16.965991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mightyena #243",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T12:26:18.256027+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu kort",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469076716",
-      "funnet": "2026-07-06T12:22:17.537859+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
