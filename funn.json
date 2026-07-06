@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T09:20:38.846905+00:00",
+  "sist_sjekket": "2026-07-06T09:22:15.088118+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469059820",
+      "funnet": "2026-07-06T09:22:15.087930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Magikarp kinesisk #129",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/453388913",
       "funnet": "2026-07-06T01:34:16.118298+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Garchomp Ex #39 Pokemon Japanese Terastal Festival",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453388924",
-      "funnet": "2026-07-06T01:34:15.013855+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
