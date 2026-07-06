@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T12:16:18.347604+00:00",
+  "sist_sjekket": "2026-07-06T12:18:19.167290+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu mint 9",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469075892",
+      "funnet": "2026-07-06T12:18:19.167109+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort – Zapdos, Machop og Mewtwo holo",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469076072",
+      "funnet": "2026-07-06T12:18:18.291382+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Cinccino VMAX holografisk",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462651610",
       "funnet": "2026-07-06T07:30:48.090026+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🇳🇴 Panini Adrenalyn XL World Cup 2026 #338 Julian Ryerson – Sleeve & Toploader",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469051622",
-      "funnet": "2026-07-06T07:28:19.929338+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Disney 2027",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469050584",
-      "funnet": "2026-07-06T07:26:16.873814+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
