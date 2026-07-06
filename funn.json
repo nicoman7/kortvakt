@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-06T09:42:17.334926+00:00",
+  "sist_sjekket": "2026-07-06T09:44:21.220975+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407351845",
+      "funnet": "2026-07-06T09:44:21.220928+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407421576",
+      "funnet": "2026-07-06T09:44:20.356734+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon First Partner & Div Hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469061313",
+      "funnet": "2026-07-06T09:44:19.504677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort/ Rugged helmet/ samleobjekt",
       "pris": 80,
@@ -1174,30 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/453389392",
       "funnet": "2026-07-06T01:40:37.213996+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Iron Treads ex #143 Pokemon Scarlet & Violet",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453389620",
-      "funnet": "2026-07-06T01:40:36.378659+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Iono's Bellibolt ex #30 Pokemon Japanese Battle Partners",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453389238",
-      "funnet": "2026-07-06T01:38:24.256615+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blissey ex #85 Pokemon Japanese Mask of Change",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453389235",
-      "funnet": "2026-07-06T01:38:23.951321+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
