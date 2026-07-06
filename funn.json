@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T11:16:15.049841+00:00",
+  "sist_sjekket": "2026-07-06T11:18:13.987376+00:00",
   "funn": [
+    {
+      "tittel": "Messi - fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469070463",
+      "funnet": "2026-07-06T11:18:13.987161+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lionel Messi fotballkort selges! Nummerert - 120 Goals For One UCL Club",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/385096264",
       "funnet": "2026-07-06T06:58:17.818677+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Flying Pikachu VMAX 007/025 – Holo – Celebrations 2021",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469049069",
-      "funnet": "2026-07-06T06:46:13.344241+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
