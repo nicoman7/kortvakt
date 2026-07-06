@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T21:20:39.756951+00:00",
+  "sist_sjekket": "2026-07-06T21:22:15.213777+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469127352",
+      "funnet": "2026-07-06T21:22:15.213575+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball kort som kan bli verdifulle",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/412334883",
       "funnet": "2026-07-06T18:58:16.917644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sergio Ramos Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451482435",
-      "funnet": "2026-07-06T18:58:16.534643+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
