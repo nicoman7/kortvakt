@@ -60,7 +60,7 @@ BUD_FRASER = [
 
 MAKS_FUNN_LAGRET = 150
 MAKS_ID_LAGRET = 5000
-MAKS_BESKRIVELSER_PER_KJORING = 25  # sikkerhetsgrense per kjøring
+MAKS_BESKRIVELSER_PER_KJORING = 60  # sikkerhetsgrense per kjøring (økt siden søket nå er bredere)
 
 FUNN_FIL = "funn.json"
 SETT_FIL = "data/sett_annonser.json"
