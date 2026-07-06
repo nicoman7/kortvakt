@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-06T09:46:16.379280+00:00",
+  "sist_sjekket": "2026-07-06T09:48:14.840122+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407420785",
+      "funnet": "2026-07-06T09:48:14.839941+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407351140",
+      "funnet": "2026-07-06T09:48:14.237306+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort/ samleobjekt",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/453389633",
       "funnet": "2026-07-06T01:40:38.344172+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shadow Rider Calyrex V #36 Pokemon Japanese Jet-Black Spirit",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453389631",
-      "funnet": "2026-07-06T01:40:37.582045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kyurem ex #31 Pokemon Japanese Black Bolt",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453389392",
-      "funnet": "2026-07-06T01:40:37.213996+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
