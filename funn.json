@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-06T07:16:15.020578+00:00",
+  "sist_sjekket": "2026-07-06T07:18:15.255363+00:00",
   "funn": [
+    {
+      "tittel": "Topps Basketball Signature class",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469051187",
+      "funnet": "2026-07-06T07:18:15.255111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps chrome Julian Alvarez /25",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-05T18:28:16.967087+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "ME04: Chaos Rising Pokemon kortsalg",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468979182",
-      "funnet": "2026-07-05T18:28:16.078533+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
