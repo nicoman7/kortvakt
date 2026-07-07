@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:16:13.781051+00:00",
+  "sist_sjekket": "2026-07-07T11:18:15.184705+00:00",
   "funn": [
+    {
+      "tittel": "2026 Match Attax spesialkort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454513085",
+      "funnet": "2026-07-07T11:18:15.184506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jørgen Strand Larsen fotballkort selges - Nummerert 02/49",
       "pris": 275,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469146799",
       "funnet": "2026-07-07T08:24:20.326228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469146970",
-      "funnet": "2026-07-07T08:24:19.445443+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
