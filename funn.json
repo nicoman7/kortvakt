@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T05:26:13.212215+00:00",
+  "sist_sjekket": "2026-07-07T05:28:13.395683+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkorr",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469136177",
+      "funnet": "2026-07-07T05:28:13.395468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball vm 2026",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469116179",
       "funnet": "2026-07-06T20:01:03.509343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool Fotballkort - Project 22",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/324222015",
-      "funnet": "2026-07-06T20:01:02.637401+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
