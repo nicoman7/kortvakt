@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-07T16:56:20.602366+00:00",
+  "sist_sjekket": "2026-07-07T16:58:15.497202+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Ampharos ex samlekort holo",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469131017",
+      "funnet": "2026-07-07T16:58:15.497181+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Archaludon #113 Pokemon Japanese Stellar Miracle",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469193778",
+      "funnet": "2026-07-07T16:58:15.008779+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra Tomokazu Komiya",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469197528",
+      "funnet": "2026-07-07T16:58:14.675005+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ninjask #65 Pokemon Japanese Mega Symphonia m1S",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469193818",
+      "funnet": "2026-07-07T16:58:14.335146+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div Pokemon kort Charmander, Frogadier og Mega Greninja EX m.m",
       "pris": 500,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-07T14:22:18.863149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam #71 Pokemon Japanese Mega Symphonia",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469182215",
-      "funnet": "2026-07-07T14:20:49.326437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marshadow #69 Pokemon Japanese Mega Brave",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469182328",
-      "funnet": "2026-07-07T14:20:48.526401+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zebstrika #115 Pokemon White Flare",
-      "pris": 290,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469182390",
-      "funnet": "2026-07-07T14:20:48.151550+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Center Ancient Mew design Sleeves forseglet - pris per pakke",
-      "pris": 990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/209778430",
-      "funnet": "2026-07-07T14:18:22.375526+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
