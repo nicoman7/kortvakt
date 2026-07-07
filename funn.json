@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-07T08:08:16.710880+00:00",
+  "sist_sjekket": "2026-07-07T08:10:50.941200+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469145777",
+      "funnet": "2026-07-07T08:10:50.941025+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469145842",
+      "funnet": "2026-07-07T08:10:50.052197+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469145950",
+      "funnet": "2026-07-07T08:10:49.640748+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japansk Pokemon kort",
       "pris": 5,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469125621",
       "funnet": "2026-07-06T20:52:17.141265+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort pene",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469122992",
-      "funnet": "2026-07-06T20:52:16.345551+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469124374",
-      "funnet": "2026-07-06T20:50:43.233016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Treecko selges",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469125330",
-      "funnet": "2026-07-06T20:50:42.940146+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
