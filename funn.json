@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T20:36:14.000704+00:00",
+  "sist_sjekket": "2026-07-07T20:38:18.162046+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort stor samling!",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469221178",
+      "funnet": "2026-07-07T20:38:18.161981+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tomme pokemon tins",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469221108",
+      "funnet": "2026-07-07T20:38:17.753609+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps - Pokemon - Flame Foil - 4 kort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462896721",
       "funnet": "2026-07-07T17:24:16.508715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Frogadier #089/086",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469200932",
-      "funnet": "2026-07-07T17:24:15.904748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lucario og Riolu",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469199854",
-      "funnet": "2026-07-07T17:20:44.600089+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
