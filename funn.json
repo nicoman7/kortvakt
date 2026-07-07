@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T08:46:14.530316+00:00",
+  "sist_sjekket": "2026-07-07T08:48:15.261442+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469149156",
+      "funnet": "2026-07-07T08:48:15.261227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/359189360",
       "funnet": "2026-07-06T22:04:15.906466+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "RARE CANDY GUARDS - 07 COTTON CANDY",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129863",
-      "funnet": "2026-07-06T22:04:15.055235+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
