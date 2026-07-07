@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:52:16.510767+00:00",
+  "sist_sjekket": "2026-07-07T11:54:14.868124+00:00",
   "funn": [
+    {
+      "tittel": "Astral Radiance samling",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459457657",
+      "funnet": "2026-07-07T11:54:14.868091+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Battle Styles samling",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469151128",
       "funnet": "2026-07-07T09:28:18.393817+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469152758",
-      "funnet": "2026-07-07T09:26:19.621565+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
