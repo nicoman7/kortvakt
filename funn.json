@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T05:18:14.722110+00:00",
+  "sist_sjekket": "2026-07-07T05:20:40.486370+00:00",
   "funn": [
+    {
+      "tittel": "Fotball vm 2026",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469135962",
+      "funnet": "2026-07-07T05:20:40.486184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tom Evolving Skies mini album fra 2021 som inkluderer sjekkliste / kortliste",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/324222015",
       "funnet": "2026-07-06T20:01:02.637401+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon illustration kort salg (annonse 2)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469120773",
-      "funnet": "2026-07-06T20:01:02.294616+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
