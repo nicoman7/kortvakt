@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-07T21:48:13.326684+00:00",
+  "sist_sjekket": "2026-07-07T21:50:47.365020+00:00",
   "funn": [
+    {
+      "tittel": "66 stk. Panini Baby Zoo Klistremerker",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/385276503",
+      "funnet": "2026-07-07T21:50:47.364826+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Donruss Road to FIFA World Cup blasterbokser",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469226146",
+      "funnet": "2026-07-07T21:50:46.761208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Iono's Bellibolt ex #53 Pokemon Journey Together",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469226239",
+      "funnet": "2026-07-07T21:50:46.475840+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Lugia holo Celebrations",
       "pris": 20,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-07T18:02:13.992135+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort japansk hydreigon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469204836",
-      "funnet": "2026-07-07T18:02:13.684606+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Ash’s Pikachu promo",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469204796",
-      "funnet": "2026-07-07T18:02:13.058847+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon GX kort – Eeveelutions og andre holo kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469204177",
-      "funnet": "2026-07-07T18:01:04.241828+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
