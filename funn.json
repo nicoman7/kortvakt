@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T09:54:20.040501+00:00",
+  "sist_sjekket": "2026-07-07T09:56:16.772429+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469155995",
+      "funnet": "2026-07-07T09:56:16.772244+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469156109",
+      "funnet": "2026-07-07T09:56:15.912375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469136177",
       "funnet": "2026-07-07T05:28:13.395468+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball vm 2026",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469135962",
-      "funnet": "2026-07-07T05:20:40.486184+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tom Evolving Skies mini album fra 2021 som inkluderer sjekkliste / kortliste",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/433146561",
-      "funnet": "2026-07-07T05:18:14.721921+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
