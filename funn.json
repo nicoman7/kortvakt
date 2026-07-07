@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T19:28:20.478850+00:00",
+  "sist_sjekket": "2026-07-07T19:30:54.174485+00:00",
   "funn": [
+    {
+      "tittel": "Selger fotball permer med fotballkort i",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469213402",
+      "funnet": "2026-07-07T19:30:54.174411+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax Road to Final Budapest 26 Final kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469213737",
+      "funnet": "2026-07-07T19:30:53.400363+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske/Kinesisk pokemon kort til salg",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469197189",
       "funnet": "2026-07-07T16:46:15.221912+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Eccellenza Carlos Sainz Scuderia Ferrari samlekort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455271107",
-      "funnet": "2026-07-07T16:44:14.469375+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome F1 samlekort Alex Albon Williams Racing",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455271537",
-      "funnet": "2026-07-07T16:42:18.705161+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
