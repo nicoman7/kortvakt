@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T23:26:19.280562+00:00",
+  "sist_sjekket": "2026-07-07T23:28:14.037439+00:00",
   "funn": [
+    {
+      "tittel": "Lt. surge’s Pikachu",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469229545",
+      "funnet": "2026-07-07T23:28:14.037253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Staryu Neo revelation",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-07T19:04:17.627389+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Roaring Moon Secret Illustartion Rare",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469208489",
-      "funnet": "2026-07-07T19:04:17.026966+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
