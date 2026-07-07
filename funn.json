@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T10:38:17.177544+00:00",
+  "sist_sjekket": "2026-07-07T10:40:41.539193+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469160235",
+      "funnet": "2026-07-07T10:40:41.538998+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469143736",
       "funnet": "2026-07-07T07:44:17.361629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469143812",
-      "funnet": "2026-07-07T07:44:17.008507+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
