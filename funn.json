@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:38:14.042750+00:00",
+  "sist_sjekket": "2026-07-07T11:40:40.323376+00:00",
   "funn": [
+    {
+      "tittel": "Pakke med glinsende pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469166608",
+      "funnet": "2026-07-07T11:40:40.323104+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling mye i god stand",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469149156",
       "funnet": "2026-07-07T08:48:15.261227+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469149000",
-      "funnet": "2026-07-07T08:46:14.530104+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
