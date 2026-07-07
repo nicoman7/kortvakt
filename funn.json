@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T07:26:13.679020+00:00",
+  "sist_sjekket": "2026-07-07T07:28:15.442712+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/271191998",
+      "funnet": "2026-07-07T07:28:15.442669+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/404932333",
       "funnet": "2026-07-06T20:32:19.814865+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Next Destinies",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405044951",
-      "funnet": "2026-07-06T20:32:19.017075+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
