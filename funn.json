@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T15:22:31.284558+00:00",
+  "sist_sjekket": "2026-07-07T15:24:16.539365+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon boosterpakke Phantasmal Flames",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469189166",
+      "funnet": "2026-07-07T15:24:16.539298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Reshiram holo black and white tegnet på bakside",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469189530",
+      "funnet": "2026-07-07T15:24:16.270279+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Hydreigon BREAK kort steam siege",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/461238508",
       "funnet": "2026-07-07T11:30:58.817334+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Go samling",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461239581",
-      "funnet": "2026-07-07T11:30:57.975826+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hidden Fates samling",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461241580",
-      "funnet": "2026-07-07T11:28:17.704954+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
