@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T11:36:18.506243+00:00",
+  "sist_sjekket": "2026-07-07T11:38:14.042750+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling mye i god stand",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469166147",
+      "funnet": "2026-07-07T11:38:14.042696+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Glinsene pokemonkort bunke",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469166150",
+      "funnet": "2026-07-07T11:38:13.426914+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Trick or Trade og Pokemon Card Gym boosterpakker",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469149000",
       "funnet": "2026-07-07T08:46:14.530104+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469148881",
-      "funnet": "2026-07-07T08:46:14.247730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469148699",
-      "funnet": "2026-07-07T08:44:14.381543+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
