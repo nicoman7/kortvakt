@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-07T11:48:15.948587+00:00",
+  "sist_sjekket": "2026-07-07T11:50:43.946947+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469167480",
+      "funnet": "2026-07-07T11:50:43.946887+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini sticker Kylian Mbappé",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469167499",
+      "funnet": "2026-07-07T11:50:43.007712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Champion's Path samling",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459459600",
+      "funnet": "2026-07-07T11:50:42.667534+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon tin mysterybox",
       "pris": 110,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469152144",
       "funnet": "2026-07-07T09:22:20.229019+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 49kr Pr kort!",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469152030",
-      "funnet": "2026-07-07T09:20:39.464932+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort. 100vis av kort i oppbevaringskoffert.",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467096783",
-      "funnet": "2026-07-07T09:16:19.800814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oscar Bobb – 2025/26 Topps Chrome UEFA Club Competitions Auto Lava Blue 49/150",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469151735",
-      "funnet": "2026-07-07T09:16:19.050694+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
