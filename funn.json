@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T10:16:13.443978+00:00",
+  "sist_sjekket": "2026-07-07T10:18:14.481198+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet lot",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469158297",
+      "funnet": "2026-07-07T10:18:14.481128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469158154",
+      "funnet": "2026-07-07T10:18:14.092273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469142643",
       "funnet": "2026-07-07T07:30:49.397604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/271191998",
-      "funnet": "2026-07-07T07:28:15.442669+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/406538067",
-      "funnet": "2026-07-07T07:24:19.474144+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
