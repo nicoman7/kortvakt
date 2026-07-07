@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:42:18.336910+00:00",
+  "sist_sjekket": "2026-07-07T07:44:17.361814+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143736",
+      "funnet": "2026-07-07T07:44:17.361629+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143812",
+      "funnet": "2026-07-07T07:44:17.008507+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 8,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405027231",
       "funnet": "2026-07-06T20:34:18.976794+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Heartgold & SoulSilver",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405038062",
-      "funnet": "2026-07-06T20:34:18.621735+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Great Encounters",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404931649",
-      "funnet": "2026-07-06T20:34:17.842270+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
