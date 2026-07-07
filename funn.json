@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:36:15.546532+00:00",
+  "sist_sjekket": "2026-07-07T07:38:14.535319+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143098",
+      "funnet": "2026-07-07T07:38:14.535125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143252",
+      "funnet": "2026-07-07T07:38:13.888486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-06T20:32:24.120331+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon - Boundaries Crossed",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405044424",
-      "funnet": "2026-07-06T20:32:23.772101+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Furious Fist",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405611264",
-      "funnet": "2026-07-06T20:32:23.467146+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
