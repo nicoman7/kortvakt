@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-07T08:58:15.755212+00:00",
+  "sist_sjekket": "2026-07-07T09:01:03.504495+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469150404",
+      "funnet": "2026-07-07T09:01:03.504305+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Trading Cards Game",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469150200",
+      "funnet": "2026-07-07T09:01:02.914239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469150552",
+      "funnet": "2026-07-07T09:01:02.622390+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469150464",
+      "funnet": "2026-07-07T09:01:02.017638+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 35,
@@ -1166,38 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/294593234",
       "funnet": "2026-07-06T22:16:15.436664+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469037007",
-      "funnet": "2026-07-06T22:12:14.475657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 Extra Sticker Moses Caicedo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129922",
-      "funnet": "2026-07-06T22:08:17.510306+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "RARE CANDY GUARD - 08 MANDARIN",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129929",
-      "funnet": "2026-07-06T22:06:16.967443+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Now Erling Braut Haaland",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359189360",
-      "funnet": "2026-07-06T22:04:15.906466+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
