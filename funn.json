@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T08:40:43.007025+00:00",
+  "sist_sjekket": "2026-07-07T08:42:15.846006+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469148475",
+      "funnet": "2026-07-07T08:42:15.845789+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469129275",
       "funnet": "2026-07-06T21:56:13.541221+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps: Match Attack 25/26",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445508618",
-      "funnet": "2026-07-06T21:54:14.677789+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
