@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T23:34:26.937061+00:00",
+  "sist_sjekket": "2026-07-07T23:36:18.184451+00:00",
   "funn": [
+    {
+      "tittel": "Rookie-fotballkort, Hugo Ekitike.",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452905069",
+      "funnet": "2026-07-07T23:36:18.184265+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lt. surge’s Pikachu",
       "pris": 160,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-07T19:04:18.247610+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Old Maid",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469210723",
-      "funnet": "2026-07-07T19:04:17.627389+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
