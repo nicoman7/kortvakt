@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T07:08:14.365816+00:00",
+  "sist_sjekket": "2026-07-07T07:10:39.575862+00:00",
   "funn": [
+    {
+      "tittel": "Hei, er på leit etter bulk for og bygge opp samling☺️",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469141130",
+      "funnet": "2026-07-07T07:10:39.575827+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon EX-kort",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-06T20:20:41.247253+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Booster Packs",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462762132",
-      "funnet": "2026-07-06T20:20:40.627919+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
