@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T08:12:16.782455+00:00",
+  "sist_sjekket": "2026-07-07T08:14:14.317444+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146116",
+      "funnet": "2026-07-07T08:14:14.317226+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469125507",
       "funnet": "2026-07-06T20:52:17.471565+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Charizard X EX 023 promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469125621",
-      "funnet": "2026-07-06T20:52:17.141265+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
