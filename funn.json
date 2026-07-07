@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T11:28:17.704987+00:00",
+  "sist_sjekket": "2026-07-07T11:30:58.817367+00:00",
   "funn": [
+    {
+      "tittel": "Sword and Shield samling",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461238508",
+      "funnet": "2026-07-07T11:30:58.817334+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Go samling",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461239581",
+      "funnet": "2026-07-07T11:30:57.975826+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hidden Fates samling",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469147962",
       "funnet": "2026-07-07T08:36:16.227056+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469147626",
-      "funnet": "2026-07-07T08:34:17.258884+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan 90s kortlot – Bulls inserts, Electrified, Fabulous Fifties, H2H",
-      "pris": 1690,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454582933",
-      "funnet": "2026-07-07T08:32:17.586498+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
