@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T08:16:20.809131+00:00",
+  "sist_sjekket": "2026-07-07T08:18:16.631628+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146328",
+      "funnet": "2026-07-07T08:18:16.631474+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146425",
+      "funnet": "2026-07-07T08:18:15.802121+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 35,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462658127",
       "funnet": "2026-07-06T20:58:14.806342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gumshoos #75 Pokemon Japanese Mega Brave",
-      "pris": 33,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462658476",
-      "funnet": "2026-07-06T20:58:14.467547+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Espeon selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469125774",
-      "funnet": "2026-07-06T20:56:14.672088+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
