@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:40:38.072346+00:00",
+  "sist_sjekket": "2026-07-07T07:42:18.336910+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143560",
+      "funnet": "2026-07-07T07:42:18.336677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143690",
+      "funnet": "2026-07-07T07:42:17.990131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/404931649",
       "funnet": "2026-07-06T20:34:17.842270+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Rising Rivals",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405025798",
-      "funnet": "2026-07-06T20:34:17.537036+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Dragons Exalted",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405043935",
-      "funnet": "2026-07-06T20:34:17.078809+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
