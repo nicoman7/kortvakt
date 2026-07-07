@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T08:26:14.536157+00:00",
+  "sist_sjekket": "2026-07-07T08:28:15.323433+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469147235",
+      "funnet": "2026-07-07T08:28:15.323210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469147302",
+      "funnet": "2026-07-07T08:28:14.995414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469128729",
       "funnet": "2026-07-06T21:40:40.313097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469127352",
-      "funnet": "2026-07-06T21:22:15.213575+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort som kan bli verdifulle",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437525872",
-      "funnet": "2026-07-06T21:20:39.756785+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
