@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T10:04:37.180548+00:00",
+  "sist_sjekket": "2026-07-07T10:06:20.857181+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469157257",
+      "funnet": "2026-07-07T10:06:20.857028+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469157095",
+      "funnet": "2026-07-07T10:06:20.034165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 140,
       "lenke": "https://www.finn.no/recommerce/forsale/item/461518180",
       "funnet": "2026-07-07T06:46:18.509936+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prize Packs",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/336918960",
-      "funnet": "2026-07-07T06:46:18.157301+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Hidden Fates Booster pakker",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/209747348",
-      "funnet": "2026-07-07T06:34:15.161708+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
