@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T18:58:13.737431+00:00",
+  "sist_sjekket": "2026-07-07T19:01:12.700169+00:00",
   "funn": [
+    {
+      "tittel": "Match Attax Extra fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462883037",
+      "funnet": "2026-07-07T19:01:12.700004+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mewtwo GX spansk kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469209810",
+      "funnet": "2026-07-07T19:01:11.823174+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Psyduck holo kort Ascended Heroes",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469192518",
       "funnet": "2026-07-07T15:54:16.473780+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Murkrow japansk holo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469192539",
-      "funnet": "2026-07-07T15:54:16.210092+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Topps Johto Serie 3 UÅPNET",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469192495",
-      "funnet": "2026-07-07T15:54:15.566762+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
