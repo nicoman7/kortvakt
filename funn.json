@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T08:14:14.317444+00:00",
+  "sist_sjekket": "2026-07-07T08:16:20.809131+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146223",
+      "funnet": "2026-07-07T08:16:20.808933+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 55,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469125774",
       "funnet": "2026-07-06T20:56:14.672088+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(annonse 7) Pokémon illustration kort salg JP",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469125507",
-      "funnet": "2026-07-06T20:52:17.471565+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
