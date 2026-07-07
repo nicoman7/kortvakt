@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T08:20:43.082038+00:00",
+  "sist_sjekket": "2026-07-07T08:22:16.280111+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146754",
+      "funnet": "2026-07-07T08:22:16.280066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146698",
+      "funnet": "2026-07-07T08:22:15.866211+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469126960",
       "funnet": "2026-07-06T21:10:40.567613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Energy selges",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469126239",
-      "funnet": "2026-07-06T21:02:15.804378+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort VMAX/Full Art",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469126183",
-      "funnet": "2026-07-06T21:01:03.775249+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
