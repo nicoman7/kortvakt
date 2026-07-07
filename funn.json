@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T07:54:18.296380+00:00",
+  "sist_sjekket": "2026-07-07T07:56:16.770815+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144684",
+      "funnet": "2026-07-07T07:56:16.770633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466932976",
       "funnet": "2026-07-06T20:50:42.313543+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nihil Zero Pokemon Hits",
-      "pris": 34,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454130372",
-      "funnet": "2026-07-06T20:50:42.063268+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
