@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T19:18:18.087193+00:00",
+  "sist_sjekket": "2026-07-07T19:20:40.841268+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469212408",
+      "funnet": "2026-07-07T19:20:40.841223+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Frogadier Chaos Rising",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469212911",
+      "funnet": "2026-07-07T19:20:40.227327+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2x2 sider’s Pokemonbok med 60 Pokemonkort. (Plass til 80 kort)",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454153825",
       "funnet": "2026-07-07T16:38:18.960936+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Doublade AR 091/080 Nihil Zero M3 Pokemon Card Japanese MEGA NM",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469193326",
-      "funnet": "2026-07-07T16:38:18.142935+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Now 2023 Formula 1 Gabriel Bortoleto  PSA 9",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454154292",
-      "funnet": "2026-07-07T16:38:17.278279+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
