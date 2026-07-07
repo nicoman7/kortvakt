@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:32:13.290402+00:00",
+  "sist_sjekket": "2026-07-07T11:34:13.841159+00:00",
   "funn": [
+    {
+      "tittel": "Vivid voltage samling",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461237908",
+      "funnet": "2026-07-07T11:34:13.841091+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sword and Shield samling",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469147489",
       "funnet": "2026-07-07T08:36:16.851978+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469147962",
-      "funnet": "2026-07-07T08:36:16.227056+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
