@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T11:46:18.051160+00:00",
+  "sist_sjekket": "2026-07-07T11:48:15.948587+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tin mysterybox",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469166813",
+      "funnet": "2026-07-07T11:48:15.948522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort. Argentina- landslagskort.",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469167288",
+      "funnet": "2026-07-07T11:48:15.154908+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Marvel kort sett 32stk eller kjøp enkelt kort",
       "pris": 400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469151735",
       "funnet": "2026-07-07T09:16:19.050694+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon postkort x20",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467478456",
-      "funnet": "2026-07-07T09:16:18.221330+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort japan Pikachu ETB",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467731833",
-      "funnet": "2026-07-07T09:16:17.418960+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
