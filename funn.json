@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T07:46:17.678775+00:00",
+  "sist_sjekket": "2026-07-07T07:48:13.891501+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144041",
+      "funnet": "2026-07-07T07:48:13.891314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405038676",
       "funnet": "2026-07-06T20:34:20.391563+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemon - Dark Explorers",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405045397",
-      "funnet": "2026-07-06T20:34:20.046254+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
