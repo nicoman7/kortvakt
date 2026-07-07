@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-07T07:48:13.891501+00:00",
+  "sist_sjekket": "2026-07-07T07:50:44.792904+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144207",
+      "funnet": "2026-07-07T07:50:44.792718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144269",
+      "funnet": "2026-07-07T07:50:44.032570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144455",
+      "funnet": "2026-07-07T07:50:43.339949+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469144333",
+      "funnet": "2026-07-07T07:50:42.740081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-06T20:46:15.320019+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM fotballkort selges eller byttes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469124443",
-      "funnet": "2026-07-06T20:44:17.045621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first partner sinnoh trio",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469124428",
-      "funnet": "2026-07-06T20:40:39.909748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Omanyte.",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469124576",
-      "funnet": "2026-07-06T20:40:39.533001+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Unleashed",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405038676",
-      "funnet": "2026-07-06T20:34:20.391563+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
