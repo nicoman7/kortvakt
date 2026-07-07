@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:10:42.946388+00:00",
+  "sist_sjekket": "2026-07-07T11:12:16.990479+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet pakke",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469163772",
+      "funnet": "2026-07-07T11:12:16.990315+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse fotballkort med ekte auto selges",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469146754",
       "funnet": "2026-07-07T08:22:16.280066+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469146698",
-      "funnet": "2026-07-07T08:22:15.866211+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
