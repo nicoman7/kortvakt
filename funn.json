@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:44:17.361814+00:00",
+  "sist_sjekket": "2026-07-07T07:46:17.678775+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143867",
+      "funnet": "2026-07-07T07:46:17.678607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143960",
+      "funnet": "2026-07-07T07:46:16.750346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405045397",
       "funnet": "2026-07-06T20:34:20.046254+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Arceus",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405026342",
-      "funnet": "2026-07-06T20:34:19.301639+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Supreme victors",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405027231",
-      "funnet": "2026-07-06T20:34:18.976794+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
