@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T16:16:15.480962+00:00",
+  "sist_sjekket": "2026-07-07T16:18:15.308441+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotballkort samling",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469194414",
+      "funnet": "2026-07-07T16:18:15.308409+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dragapult #SWSH132 Pokemon Celebrations",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/398374126",
       "funnet": "2026-07-07T12:46:14.082457+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crustle - 067/063 - Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408805779",
-      "funnet": "2026-07-07T12:44:17.376677+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
