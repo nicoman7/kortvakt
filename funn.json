@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T08:44:14.381746+00:00",
+  "sist_sjekket": "2026-07-07T08:46:14.530316+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469149000",
+      "funnet": "2026-07-07T08:46:14.530104+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469148881",
+      "funnet": "2026-07-07T08:46:14.247730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 35,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469129863",
       "funnet": "2026-07-06T22:04:15.055235+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rare Candy Guard #05 Grape Soda",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129672",
-      "funnet": "2026-07-06T22:01:03.976811+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA World Cup 2006 samleklistremerker",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129270",
-      "funnet": "2026-07-06T22:01:03.724589+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
