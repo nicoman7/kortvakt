@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:50:43.946947+00:00",
+  "sist_sjekket": "2026-07-07T11:52:16.510767+00:00",
   "funn": [
+    {
+      "tittel": "Battle Styles samling",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459458662",
+      "funnet": "2026-07-07T11:52:16.510731+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Vintage",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469152758",
       "funnet": "2026-07-07T09:26:19.621565+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling. 300.-",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469152144",
-      "funnet": "2026-07-07T09:22:20.229019+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
