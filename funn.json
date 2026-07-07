@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T08:18:16.631628+00:00",
+  "sist_sjekket": "2026-07-07T08:20:43.082038+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146537",
+      "funnet": "2026-07-07T08:20:43.081849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469146640",
+      "funnet": "2026-07-07T08:20:42.796801+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 40,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469126183",
       "funnet": "2026-07-06T21:01:03.775249+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(annonse 8) Pokémon illustration kort salg JP",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466926420",
-      "funnet": "2026-07-06T20:58:15.150640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snover #67 Pokemon Japanese Mega Symphonia",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462658127",
-      "funnet": "2026-07-06T20:58:14.806342+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
