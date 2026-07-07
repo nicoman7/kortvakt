@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T08:38:14.901411+00:00",
+  "sist_sjekket": "2026-07-07T08:40:43.007025+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469148291",
+      "funnet": "2026-07-07T08:40:43.006844+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445508618",
       "funnet": "2026-07-06T21:54:14.677789+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM-klistremerker fotballkort Bytte/Salg",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469129054",
-      "funnet": "2026-07-06T21:50:39.099893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
