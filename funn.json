@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T10:06:20.857181+00:00",
+  "sist_sjekket": "2026-07-07T10:08:15.581010+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469157338",
+      "funnet": "2026-07-07T10:08:15.580820+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469140063",
       "funnet": "2026-07-07T06:52:15.932045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gardevoir EX Promo kort",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461518180",
-      "funnet": "2026-07-07T06:46:18.509936+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
