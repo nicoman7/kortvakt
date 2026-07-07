@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:38:14.535319+00:00",
+  "sist_sjekket": "2026-07-07T07:40:38.072346+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143394",
+      "funnet": "2026-07-07T07:40:38.072148+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469143496",
+      "funnet": "2026-07-07T07:40:37.459696+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-06T20:34:17.078809+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Plasma Storm",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405043597",
-      "funnet": "2026-07-06T20:34:16.352615+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémons kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469123422",
-      "funnet": "2026-07-06T20:32:24.120331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
