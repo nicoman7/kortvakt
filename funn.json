@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:42:18.085844+00:00",
+  "sist_sjekket": "2026-07-07T11:44:13.459986+00:00",
   "funn": [
+    {
+      "tittel": "To store bunker med pokemon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469166982",
+      "funnet": "2026-07-07T11:44:13.459964+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Evolution Ascended Heroes booster bundle 2 stk",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469150404",
       "funnet": "2026-07-07T09:01:03.504305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trading Cards Game",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469150200",
-      "funnet": "2026-07-07T09:01:02.914239+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
