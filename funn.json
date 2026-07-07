@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-07T10:46:18.327581+00:00",
+  "sist_sjekket": "2026-07-07T10:48:17.874722+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469161185",
+      "funnet": "2026-07-07T10:48:17.874557+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TGC (trainerkort/spillbare kort)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424333342",
+      "funnet": "2026-07-07T10:48:17.501958+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469161127",
+      "funnet": "2026-07-07T10:48:16.727028+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469161083",
+      "funnet": "2026-07-07T10:48:16.013830+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 Lionel Messi Extra Sticker",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469160976",
+      "funnet": "2026-07-07T10:48:15.268520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1158,46 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469144576",
       "funnet": "2026-07-07T07:54:18.296177+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469144660",
-      "funnet": "2026-07-07T07:54:17.404243+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469144522",
-      "funnet": "2026-07-07T07:54:16.562442+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 8,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469144207",
-      "funnet": "2026-07-07T07:50:44.792718+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 8,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469144269",
-      "funnet": "2026-07-07T07:50:44.032570+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469144455",
-      "funnet": "2026-07-07T07:50:43.339949+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
