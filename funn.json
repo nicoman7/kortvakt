@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T07:32:16.855908+00:00",
+  "sist_sjekket": "2026-07-07T07:34:15.939541+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142872",
+      "funnet": "2026-07-07T07:34:15.939350+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142799",
+      "funnet": "2026-07-07T07:34:15.175691+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405042080",
       "funnet": "2026-07-06T20:32:23.147375+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Mysterious Treasures",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404929867",
-      "funnet": "2026-07-06T20:32:22.731730+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Stormfront",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404931967",
-      "funnet": "2026-07-06T20:32:22.413840+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
