@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-07T12:02:13.303274+00:00",
+  "sist_sjekket": "2026-07-07T12:04:13.661449+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First partner 2 - Johto & Galar",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469168747",
+      "funnet": "2026-07-07T12:04:13.661387+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort - First partner series 2",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469168836",
+      "funnet": "2026-07-07T12:04:13.406317+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/392501057",
       "funnet": "2026-07-07T09:40:45.436037+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Julian Alvarez Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453657627",
-      "funnet": "2026-07-07T09:40:44.942996+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wayne Rooney Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/357769317",
-      "funnet": "2026-07-07T09:38:16.825523+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
