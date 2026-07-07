@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T15:36:15.880829+00:00",
+  "sist_sjekket": "2026-07-07T15:38:14.943450+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Reshiram Amazing rare",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469190794",
+      "funnet": "2026-07-07T15:38:14.943366+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu PSA 10 , Riolu PSA 10 pokemonkort selges samlet",
       "pris": 1600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-07T11:50:43.946887+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini sticker Kylian Mbappé",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469167499",
-      "funnet": "2026-07-07T11:50:43.007712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
