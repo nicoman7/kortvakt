@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T07:34:15.939541+00:00",
+  "sist_sjekket": "2026-07-07T07:36:15.546532+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142968",
+      "funnet": "2026-07-07T07:36:15.546347+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405611264",
       "funnet": "2026-07-06T20:32:23.467146+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Undaunted",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405042080",
-      "funnet": "2026-07-06T20:32:23.147375+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
