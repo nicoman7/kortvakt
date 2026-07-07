@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-07T07:28:15.442712+00:00",
+  "sist_sjekket": "2026-07-07T07:30:50.855850+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142538",
+      "funnet": "2026-07-07T07:30:50.855636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "- UTEN PROMOKORT - Pokemon Official World Championships 2023 Yokohama Deck",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/380290432",
+      "funnet": "2026-07-07T07:30:50.041694+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142711",
+      "funnet": "2026-07-07T07:30:49.727738+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469142643",
+      "funnet": "2026-07-07T07:30:49.397604+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": null,
@@ -1166,38 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/404931967",
       "funnet": "2026-07-06T20:32:22.413840+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Fuecoco 192 sealed",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462805857",
-      "funnet": "2026-07-06T20:32:22.014427+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Legends awakened",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404931369",
-      "funnet": "2026-07-06T20:32:20.954562+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mega Feraligatr 274/217",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469123855",
-      "funnet": "2026-07-06T20:32:20.189763+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Majestic Dawn",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404932333",
-      "funnet": "2026-07-06T20:32:19.814865+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
