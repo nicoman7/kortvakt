@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-07T11:24:14.802374+00:00",
+  "sist_sjekket": "2026-07-07T11:26:15.648783+00:00",
   "funn": [
+    {
+      "tittel": "Chilling Reign samling",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461242257",
+      "funnet": "2026-07-07T11:26:15.648739+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ronaldo (original) fotballkort selges - Nummerert 9/79",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469147302",
       "funnet": "2026-07-07T08:28:14.995414+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469147058",
-      "funnet": "2026-07-07T08:26:14.535974+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
