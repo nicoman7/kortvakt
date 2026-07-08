@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-08T21:04:19.271418+00:00",
+  "sist_sjekket": "2026-07-08T21:06:19.032145+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469313658",
+      "funnet": "2026-07-08T21:06:19.030022+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Antonio Nusa XL Adrenalyn",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469313470",
+      "funnet": "2026-07-08T21:06:18.159245+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Dragapult celebrations MP/HP",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463008777",
+      "funnet": "2026-07-08T21:06:17.342113+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - destined rivals bundles",
       "pris": 950,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/461589891",
       "funnet": "2026-07-08T17:02:19.838341+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon bunke",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461757043",
-      "funnet": "2026-07-08T17:02:19.269750+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chaos Rising base-sett 001-086/086",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469291323",
-      "funnet": "2026-07-08T17:02:18.996304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 9 Pokemon Dreepy japansk promo kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469291767",
-      "funnet": "2026-07-08T17:02:18.299375+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
