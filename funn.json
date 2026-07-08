@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T08:58:17.523181+00:00",
+  "sist_sjekket": "2026-07-08T09:01:10.231995+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Lugia - Celebrations",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456360749",
+      "funnet": "2026-07-08T09:01:10.231940+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Jumbo",
       "pris": 850,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469219652",
       "funnet": "2026-07-07T20:20:38.165628+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ultra Beast Necrozma GX",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469219444",
-      "funnet": "2026-07-07T20:20:37.786267+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
