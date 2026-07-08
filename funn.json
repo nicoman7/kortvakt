@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T16:36:13.929837+00:00",
+  "sist_sjekket": "2026-07-08T16:38:13.998449+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469288860",
+      "funnet": "2026-07-08T16:38:13.998413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jordan kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469289585",
+      "funnet": "2026-07-08T16:38:13.374135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oppdatert! Pokemon kort 151 ønskes kjøpt",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469266441",
       "funnet": "2026-07-08T12:26:16.941875+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mye fotball kort.",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469266024",
-      "funnet": "2026-07-08T12:20:47.518754+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Victreebel Nectar Pod",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469264635",
-      "funnet": "2026-07-08T12:20:46.674109+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
