@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T12:06:14.304881+00:00",
+  "sist_sjekket": "2026-07-08T12:08:14.374034+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469263960",
+      "funnet": "2026-07-08T12:08:14.373986+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Swampert EX #98 Pokemon Crystal Guardians",
       "pris": 399,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/457682441",
       "funnet": "2026-07-08T08:01:09.679227+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boing fotballkort 2011-12",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/340039877",
-      "funnet": "2026-07-08T08:01:09.066096+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
