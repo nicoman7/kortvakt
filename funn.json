@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T08:32:17.644832+00:00",
+  "sist_sjekket": "2026-07-08T08:34:20.889248+00:00",
   "funn": [
+    {
+      "tittel": "2 stk Henning Berg fotballkort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454351684",
+      "funnet": "2026-07-08T08:34:20.889050+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Spidops ex og Flamigo samlekort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469218107",
       "funnet": "2026-07-07T20:06:17.200088+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Blastoise kort holo 2/102",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469217524",
-      "funnet": "2026-07-07T20:02:16.762272+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
