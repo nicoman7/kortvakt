@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-08T10:44:15.171538+00:00",
+  "sist_sjekket": "2026-07-08T10:46:15.393011+00:00",
   "funn": [
+    {
+      "tittel": "Selger pokemon kort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/438839039",
+      "funnet": "2026-07-08T10:46:15.392780+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Luxray",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457796198",
+      "funnet": "2026-07-08T10:46:15.141934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kortsamling i album",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469256970",
+      "funnet": "2026-07-08T10:46:14.880400+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kortalbum med samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469257170",
+      "funnet": "2026-07-08T10:46:14.592221+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Milcery Illustration Rare",
       "pris": 215,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469226087",
       "funnet": "2026-07-07T21:46:16.462727+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "16 ELDRE FOTBALLKORT 1977-78.",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/353352136",
-      "funnet": "2026-07-07T21:44:20.948321+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "10 ELDRE MONTY GUM WORLD GUM FOTBALLKORT 1978.",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/353351031",
-      "funnet": "2026-07-07T21:44:20.141951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Jynx reverse holo Komiya",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469225747",
-      "funnet": "2026-07-07T21:44:19.746505+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Articuno ex samlekort Team Rocket Returns",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469225754",
-      "funnet": "2026-07-07T21:44:18.910845+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
