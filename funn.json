@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T22:14:22.629515+00:00",
+  "sist_sjekket": "2026-07-08T22:15:32.378757+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469317419",
+      "funnet": "2026-07-08T22:15:32.377050+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Samling med Squirtle kort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/336065866",
       "funnet": "2026-07-08T17:52:21.979145+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemonkort Natu 80/144",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/336066203",
-      "funnet": "2026-07-08T17:52:21.241357+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
