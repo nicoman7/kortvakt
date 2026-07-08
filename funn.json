@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T17:46:18.730995+00:00",
+  "sist_sjekket": "2026-07-08T17:48:16.553102+00:00",
   "funn": [
+    {
+      "tittel": "Forskjellige kort fra Neo og Aquapolis",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469295956",
+      "funnet": "2026-07-08T17:48:16.552924+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard VMAX metallkort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-08T13:38:18.766769+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "VM 1986 Panini album fullt",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469273890",
-      "funnet": "2026-07-08T13:38:17.888864+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
