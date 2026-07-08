@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T12:08:14.374034+00:00",
+  "sist_sjekket": "2026-07-08T12:10:43.988992+00:00",
   "funn": [
+    {
+      "tittel": "diverse pokemonkort selges.",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469258728",
+      "funnet": "2026-07-08T12:10:43.988947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Vm kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469264854",
+      "funnet": "2026-07-08T12:10:43.246419+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/340040190",
       "funnet": "2026-07-08T08:04:15.703289+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boing fotballkort Avkrysningskort / sjekklister",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/406223956",
-      "funnet": "2026-07-08T08:01:10.329420+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mewtwo Vstar",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457682441",
-      "funnet": "2026-07-08T08:01:09.679227+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
