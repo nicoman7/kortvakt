@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T17:34:14.597448+00:00",
+  "sist_sjekket": "2026-07-08T17:36:20.377703+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Hero’s Cape Trainer",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462992635",
+      "funnet": "2026-07-08T17:36:20.377527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort PSA 10 ! Umbreon EX & Espeon EX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469294429",
+      "funnet": "2026-07-08T17:36:19.578707+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon sealed Mimikyu promokort SVP075",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469272011",
       "funnet": "2026-07-08T13:20:45.231451+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lanturn Legend Maker holografisk",
-      "pris": 230,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469272207",
-      "funnet": "2026-07-08T13:20:44.886276+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Houndoom 70 HP – Roasting Heat / Magma Spurt",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469272101",
-      "funnet": "2026-07-08T13:20:44.483989+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
