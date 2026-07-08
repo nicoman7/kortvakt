@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T21:28:14.824585+00:00",
+  "sist_sjekket": "2026-07-08T21:30:54.625696+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kort. Collective Brutality FOIL",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/277886871",
+      "funnet": "2026-07-08T21:30:54.623831+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering kort. Collective Brutality FOIL",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-08T17:36:19.578707+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon sealed Mimikyu promokort SVP075",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469294774",
-      "funnet": "2026-07-08T17:34:14.597372+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
