@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T22:08:19.836848+00:00",
+  "sist_sjekket": "2026-07-08T22:10:52.585686+00:00",
   "funn": [
+    {
+      "tittel": "Samling med Squirtle kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469317070",
+      "funnet": "2026-07-08T22:10:52.583661+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Ascended heroes",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/336066203",
       "funnet": "2026-07-08T17:52:21.241357+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA-slabbet japansk Pokémonkort Wartortle holo",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469296241",
-      "funnet": "2026-07-08T17:52:20.424307+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
