@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T16:40:47.961483+00:00",
+  "sist_sjekket": "2026-07-08T16:42:15.593104+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469289697",
+      "funnet": "2026-07-08T16:42:15.593061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One piece kort",
       "pris": 1400,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469266528",
       "funnet": "2026-07-08T12:26:17.686642+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA Extra sticker Raúl Jiménez Mexico",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469266441",
-      "funnet": "2026-07-08T12:26:16.941875+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
