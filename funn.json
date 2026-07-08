@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T12:18:14.657448+00:00",
+  "sist_sjekket": "2026-07-08T12:20:47.518893+00:00",
   "funn": [
+    {
+      "tittel": "Mye fotball kort.",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469266024",
+      "funnet": "2026-07-08T12:20:47.518754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Victreebel Nectar Pod",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469264635",
+      "funnet": "2026-07-08T12:20:46.674109+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon gen 5 first partner - tepig, snicy og oshawott",
       "pris": 550,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/359741235",
       "funnet": "2026-07-08T08:16:17.646593+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort reverse holo Kinesisk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469242742",
-      "funnet": "2026-07-08T08:14:19.825403+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Non Holo Pokémon Kort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469243046",
-      "funnet": "2026-07-08T08:14:19.535472+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
