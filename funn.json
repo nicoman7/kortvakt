@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T06:46:15.304196+00:00",
+  "sist_sjekket": "2026-07-08T06:48:18.923161+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Perm",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469236132",
+      "funnet": "2026-07-08T06:48:18.922959+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax fotballkort Cristiano Ronaldo Golden Moment 2007/08",
       "pris": 1150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-07T19:14:16.994258+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon Skyridge 33/144 Rare Non-Holo pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462686949",
-      "funnet": "2026-07-07T19:10:48.601769+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
