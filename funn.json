@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T06:14:17.649588+00:00",
+  "sist_sjekket": "2026-07-08T06:16:19.135479+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling med sjeldne Panini fotballkort! Messi, Salah, Lamine Yamal +++",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469222804",
+      "funnet": "2026-07-08T06:16:19.135286+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Elite Trainer Box og boosterbundle",
       "pris": 900,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462687167",
       "funnet": "2026-07-07T19:10:47.115634+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Umbreon pokemon card from Aquapolis Rare 41/147",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462686458",
-      "funnet": "2026-07-07T19:10:46.745398+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
