@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T16:58:14.983258+00:00",
+  "sist_sjekket": "2026-07-08T17:01:18.083760+00:00",
   "funn": [
+    {
+      "tittel": "Tom Lund fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387330677",
+      "funnet": "2026-07-08T17:01:18.083730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort blandet lot japanske kort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469291774",
+      "funnet": "2026-07-08T17:01:17.448479+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Gem Pack Vol.4 Booster Box kinesisk.",
       "pris": 550,
@@ -1182,22 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/194887409",
       "funnet": "2026-07-08T12:40:42.018854+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Limited Edition Cristiano Ronaldo kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462307007",
-      "funnet": "2026-07-08T12:40:41.677868+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Football 1982 album med 481 merker.",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/194889571",
-      "funnet": "2026-07-08T12:38:16.450842+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
