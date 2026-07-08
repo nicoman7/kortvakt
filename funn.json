@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T08:02:18.582838+00:00",
+  "sist_sjekket": "2026-07-08T08:04:15.703338+00:00",
   "funn": [
+    {
+      "tittel": "Boing fotballkort 2012-13",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/340040190",
+      "funnet": "2026-07-08T08:04:15.703289+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boing fotballkort Avkrysningskort / sjekklister",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469214662",
       "funnet": "2026-07-07T19:42:14.070849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage pokemon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469214269",
-      "funnet": "2026-07-07T19:40:42.478123+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
