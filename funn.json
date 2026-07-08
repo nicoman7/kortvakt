@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T10:01:05.918684+00:00",
+  "sist_sjekket": "2026-07-08T10:02:16.695460+00:00",
   "funn": [
+    {
+      "tittel": "Fine pokemon kort til salgs",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454529919",
+      "funnet": "2026-07-08T10:02:16.695412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Dembele TC",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469221696",
       "funnet": "2026-07-07T20:44:14.972995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort LIONEL MESSI  LIMITED EDITION GOLD LESG",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361362787",
-      "funnet": "2026-07-07T20:42:17.824121+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
