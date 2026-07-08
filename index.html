@@ -303,20 +303,33 @@
   /* ============ MUSIKKSPILLER ============ */
   .music-player {
     position: fixed; bottom: 20px; right: 20px; z-index: 100;
-    display: flex; align-items: center; gap: 10px;
     background: var(--bg-panel); border: 1px solid var(--line);
-    border-radius: 999px; padding: 8px 14px 8px 8px;
+    border-radius: 14px; padding: 10px 14px;
     box-shadow: var(--glow-soft);
   }
+  .now-playing {
+    font-family: 'JetBrains Mono', monospace; font-size: 10.5px;
+    color: var(--text-dim); margin-bottom: 7px;
+    max-width: 240px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .now-playing.spiller { color: var(--orange); }
+  .now-playing.spiller::before { content: "♪ "; }
+  .music-controls { display: flex; align-items: center; gap: 8px; }
   .music-btn {
-    width: 40px; height: 40px; border-radius: 50%;
+    width: 38px; height: 38px; border-radius: 50%;
     background: var(--orange); border: none; color: #0D0600;
-    font-size: 15px; cursor: none; display: flex; align-items: center; justify-content: center;
+    font-size: 14px; cursor: none; display: flex; align-items: center; justify-content: center;
     box-shadow: var(--glow);
   }
+  .music-btn-liten {
+    width: 30px; height: 30px; font-size: 11px;
+    background: var(--bg-raised); color: var(--orange);
+    border: 1px solid var(--line); box-shadow: none;
+  }
   .music-btn:hover { transform: scale(1.08); }
+  .music-btn-liten:hover { border-color: var(--orange); box-shadow: var(--glow-soft); }
   .music-btn:focus-visible { outline: 2px solid var(--orange); outline-offset: 3px; }
-  .visualizer { display: flex; align-items: flex-end; gap: 2.5px; height: 26px; width: 64px; }
+  .visualizer { display: flex; align-items: flex-end; gap: 2.5px; height: 26px; width: 58px; }
   .visualizer span {
     flex: 1; background: var(--orange); border-radius: 2px 2px 0 0;
     height: 15%; box-shadow: var(--glow-soft);
@@ -325,7 +338,7 @@
   .vol-wrap { display: flex; align-items: center; gap: 5px; }
   .vol-slider {
     -webkit-appearance: none; appearance: none;
-    width: 64px; height: 4px; border-radius: 999px;
+    width: 58px; height: 4px; border-radius: 999px;
     background: var(--line); outline: none; cursor: none;
   }
   .vol-slider::-webkit-slider-thumb {
@@ -338,6 +351,41 @@
     background: var(--orange); box-shadow: var(--glow-soft); cursor: none;
   }
   .vol-ikon { font-size: 13px; color: var(--text-dim); }
+
+  /* ============ KRETSKORT-LINJER ============ */
+  /* Tynne, glødende linjer som visuelt kobler sammen seksjonene,
+     som baner på et kretskort. Tegnes med små hjelpe-elementer. */
+  .circuit {
+    position: relative;
+    height: 26px;
+    margin: -6px 0 -4px;
+    pointer-events: none;
+  }
+  .circuit::before, .circuit::after {
+    content: ""; position: absolute;
+    background: var(--orange);
+    box-shadow: var(--glow-soft);
+    opacity: 0.65;
+  }
+  /* Vertikal hovedbane fra forrige boks */
+  .circuit::before { left: 38px; top: 0; width: 1.5px; height: 100%; }
+  /* Horisontal gren */
+  .circuit::after { left: 38px; top: 55%; width: 90px; height: 1.5px; }
+  .circuit .node {
+    position: absolute; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--orange); box-shadow: var(--glow);
+    left: 125px; top: calc(55% - 2.5px);
+  }
+  .circuit .node::after {
+    content: ""; position: absolute; inset: -4px; border-radius: 50%;
+    border: 1px solid var(--orange); opacity: 0.4;
+    animation: ping 2.4s cubic-bezier(0,0,0.2,1) infinite;
+  }
+  .circuit-2::before { left: auto; right: 60px; }
+  .circuit-2::after { left: auto; right: 60px; width: 110px; }
+  .circuit-2 .node { left: auto; right: 166px; }
+  html[data-theme="light"] .circuit::before,
+  html[data-theme="light"] .circuit::after { opacity: 0.4; }
 
   @media (max-width: 560px) {
     header { flex-direction: column; align-items: flex-start; }
@@ -372,6 +420,8 @@
       <div class="terminal-header"><span>LIVE BOT LOGG</span><span>kortvakt.exe</span></div>
       <div id="terminal-lines" class="terminal-lines"></div>
     </div>
+
+    <div class="circuit"><span class="node"></span></div>
 
     <div class="filter-panel">
       <div class="accordion">
@@ -453,6 +503,8 @@
       <input type="text" id="search-input" class="search-input" placeholder="> søk i titler, f.eks. «charizard»...">
     </div>
 
+    <div class="circuit circuit-2"><span class="node"></span></div>
+
     <div class="status-bar">
       <span id="status-text">Laster...</span>
       <button id="refresh-btn" type="button">Oppdater</button>
@@ -462,14 +514,21 @@
   </div>
 
   <div class="music-player">
-    <button class="music-btn" id="music-btn" type="button" aria-label="Spill av / pause musikk">▶</button>
-    <div class="visualizer" id="visualizer">
-      <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
-    </div>
-    <div class="vol-wrap">
-      <span class="vol-ikon">🔉</span>
-      <input type="range" class="vol-slider" id="vol-slider" min="0" max="100" value="50" aria-label="Volum">
-      <span class="vol-ikon">🔊</span>
+    <div class="music-inner">
+      <div class="now-playing" id="now-playing">Ingen sang valgt</div>
+      <div class="music-controls">
+        <button class="music-btn music-btn-liten" id="prev-btn" type="button" aria-label="Forrige sang">⏮</button>
+        <button class="music-btn" id="music-btn" type="button" aria-label="Spill av / pause musikk">▶</button>
+        <button class="music-btn music-btn-liten" id="next-btn" type="button" aria-label="Neste sang">⏭</button>
+        <div class="visualizer" id="visualizer">
+          <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+        </div>
+        <div class="vol-wrap">
+          <span class="vol-ikon">🔉</span>
+          <input type="range" class="vol-slider" id="vol-slider" min="0" max="100" value="50" aria-label="Volum">
+          <span class="vol-ikon">🔊</span>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -477,11 +536,27 @@
 
   <script>
     /* ================================================================
-       MUSIKK: Lim inn lenken til din egen MP3 her (f.eks. fra
+       🎵 SPILLELISTE: Legg inn sangene dine her!
+       
+       Hver sang trenger en tittel og en MP3-lenke (f.eks. fra
        pixabay.com/music - gratis musikk uten opphavsrettsproblemer).
-       La den stå tom ("") for å bruke en innebygd, syntetisert loop.
+       
+       Bare kopier linje-malen under og lim inn så mange du vil:
+       
+       SPILLELISTE.push({ tittel: "Sangnavn her", url: "https://lenke-til-mp3-her.mp3" });
+       
+       Eksempel:
+       SPILLELISTE.push({ tittel: "Cyber Dreams", url: "https://cdn.pixabay.com/audio/2024/abc123.mp3" });
+       
+       Hvis listen står tom, spiller den en innebygd synth-loop i stedet.
     ================================================================ */
-    const MUSIKK_URL = "";
+    const SPILLELISTE = [];
+
+    // SPILLELISTE.push({ tittel: "", url: "" });
+    // SPILLELISTE.push({ tittel: "", url: "" });
+    // SPILLELISTE.push({ tittel: "", url: "" });
+    // SPILLELISTE.push({ tittel: "", url: "" });
+    // SPILLELISTE.push({ tittel: "", url: "" });
 
     const FAVORITT_NOKKEL = 'kortvakt_favoritter';
     const TEMA_NOKKEL = 'kortvakt_tema';
@@ -633,11 +708,15 @@
     /* ============ MUSIKKSPILLER ============ */
     (function musikkSpiller() {
       const knapp = document.getElementById('music-btn');
+      const prevKnapp = document.getElementById('prev-btn');
+      const nextKnapp = document.getElementById('next-btn');
+      const nowPlaying = document.getElementById('now-playing');
       const visualizer = document.getElementById('visualizer');
       const stolper = visualizer.querySelectorAll('span');
       const volSlider = document.getElementById('vol-slider');
 
       let spiller = false;
+      let sangIndeks = 0;
       let audioEl = null;
       let analyser = null;
       let dataArray = null;
@@ -645,15 +724,48 @@
       let gainNode = null;
       let rafId = null;
 
-      function startEksternMusikk() {
+      const harSanger = () => SPILLELISTE.length > 0;
+
+      function visTittel() {
+        if (!spiller) {
+          nowPlaying.classList.remove('spiller');
+          nowPlaying.textContent = harSanger()
+            ? `${SPILLELISTE[sangIndeks].tittel} (pauset)`
+            : 'Ingen sanger lagt til ennå';
+          return;
+        }
+        nowPlaying.classList.add('spiller');
+        nowPlaying.textContent = harSanger()
+          ? SPILLELISTE[sangIndeks].tittel
+          : 'Innebygd synth-loop';
+      }
+
+      function stoppLydkilder() {
+        if (audioEl) {
+          audioEl.pause();
+          audioEl.onended = null;
+          audioEl = null;
+          analyser = null;
+        }
+        if (syntLoop) { clearInterval(syntLoop); syntLoop = null; }
+      }
+
+      function startSang(indeks) {
+        stoppLydkilder();
+        sangIndeks = ((indeks % SPILLELISTE.length) + SPILLELISTE.length) % SPILLELISTE.length;
+        const sang = SPILLELISTE[sangIndeks];
         const ctx = hentLydKontekst();
-        audioEl = new Audio(MUSIKK_URL);
-        audioEl.loop = true;
+
+        audioEl = new Audio(sang.url);
         audioEl.crossOrigin = 'anonymous';
         audioEl.volume = volSlider.value / 100;
-        audioEl.play().catch(e => console.warn('Kunne ikke starte musikk:', e));
+        // Auto-hopp til neste sang når denne er ferdig
+        audioEl.onended = () => startSang(sangIndeks + 1);
+        audioEl.play().catch(e => {
+          console.warn('Kunne ikke spille sangen:', sang.tittel, e);
+          nowPlaying.textContent = `⚠ Feil ved avspilling: ${sang.tittel}`;
+        });
 
-        // Prøver å koble til ekte lyd-analyse for visualizeren
         try {
           const kilde = ctx.createMediaElementSource(audioEl);
           analyser = ctx.createAnalyser();
@@ -661,18 +773,19 @@
           dataArray = new Uint8Array(analyser.frequencyBinCount);
           kilde.connect(analyser).connect(ctx.destination);
         } catch (e) {
-          analyser = null; // fallback: animert visualizer uten ekte data
+          analyser = null;
         }
+        visTittel();
       }
 
       function startSyntLoop() {
-        // Innebygd, enkel synth-loop (brukes hvis ingen MP3-lenke er satt)
+        stoppLydkilder();
         const ctx = hentLydKontekst();
         gainNode = ctx.createGain();
         gainNode.gain.value = (volSlider.value / 100) * 0.14;
         gainNode.connect(ctx.destination);
 
-        const toner = [110, 130.8, 164.8, 196, 164.8, 130.8]; // A2-C3-E3-G3 arpeggio
+        const toner = [110, 130.8, 164.8, 196, 164.8, 130.8];
         let steg = 0;
         syntLoop = setInterval(() => {
           const t = ctx.currentTime;
@@ -687,6 +800,7 @@
           osc.start(t); osc.stop(t + 0.45);
           steg++;
         }, 450);
+        visTittel();
       }
 
       function animerVisualizer() {
@@ -698,37 +812,48 @@
             s.style.height = Math.max(12, verdi * 100) + '%';
           });
         } else {
-          // Fallback: pseudo-tilfeldig "dans" uten ekte lyddata
-          stolper.forEach((s) => {
-            s.style.height = (15 + Math.random() * 80) + '%';
-          });
+          stolper.forEach((s) => { s.style.height = (15 + Math.random() * 80) + '%'; });
         }
         rafId = requestAnimationFrame(() => setTimeout(animerVisualizer, analyser ? 0 : 90));
       }
 
       function start() {
-        if (MUSIKK_URL) startEksternMusikk(); else startSyntLoop();
+        if (harSanger()) startSang(sangIndeks); else startSyntLoop();
         spiller = true;
         knapp.textContent = '⏸';
+        visTittel();
         animerVisualizer();
       }
 
       function stopp() {
-        if (audioEl) { audioEl.pause(); audioEl = null; analyser = null; }
-        if (syntLoop) { clearInterval(syntLoop); syntLoop = null; }
+        stoppLydkilder();
         spiller = false;
         knapp.textContent = '▶';
+        visTittel();
         cancelAnimationFrame(rafId);
         stolper.forEach(s => s.style.height = '15%');
       }
 
       knapp.addEventListener('click', () => spiller ? stopp() : start());
 
+      prevKnapp.addEventListener('click', () => {
+        if (!harSanger()) return;
+        sangIndeks = sangIndeks - 1;
+        if (spiller) startSang(sangIndeks); else visTittel();
+      });
+      nextKnapp.addEventListener('click', () => {
+        if (!harSanger()) return;
+        sangIndeks = sangIndeks + 1;
+        if (spiller) startSang(sangIndeks); else visTittel();
+      });
+
       volSlider.addEventListener('input', () => {
         const v = volSlider.value / 100;
         if (audioEl) audioEl.volume = v;
         if (gainNode) gainNode.gain.value = v * 0.14;
       });
+
+      visTittel();
     })();
 
     /* ============ ACCORDIONS ============ */
