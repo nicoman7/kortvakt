@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T17:02:20.433607+00:00",
+  "sist_sjekket": "2026-07-08T17:04:17.079324+00:00",
   "funn": [
+    {
+      "tittel": "Telekort - foreslå pris!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/326528395",
+      "funnet": "2026-07-08T17:04:17.079282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469268529",
       "funnet": "2026-07-08T12:46:19.172531+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Machamp holografisk 1st Edition",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469268518",
-      "funnet": "2026-07-08T12:46:18.745280+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
