@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T07:16:17.499232+00:00",
+  "sist_sjekket": "2026-07-08T07:18:17.248159+00:00",
   "funn": [
+    {
+      "tittel": "F1 kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443732690",
+      "funnet": "2026-07-08T07:18:17.247973+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Chaos Rising 3 pakk blister",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/422159955",
       "funnet": "2026-07-07T19:16:14.481784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – 4 stk Gym Heroes",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462905921",
-      "funnet": "2026-07-07T19:14:18.816742+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
