@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T19:58:13.146588+00:00",
+  "sist_sjekket": "2026-07-08T20:01:11.229132+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort reverse holo selges enkeltvis",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469308325",
+      "funnet": "2026-07-08T20:01:11.226745+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Tomokazu Komiya kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 1550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469285599",
       "funnet": "2026-07-08T16:01:11.495924+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverese Sealed Pokemon Promos Selges",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469286188",
-      "funnet": "2026-07-08T16:01:10.638378+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
