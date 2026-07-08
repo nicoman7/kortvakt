@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T19:50:49.746900+00:00",
+  "sist_sjekket": "2026-07-08T19:52:20.150831+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort holo og reverse selges enkeltvis",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469306188",
+      "funnet": "2026-07-08T19:52:20.148916+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2x2 rosa top loader binder / samleperm til tcg kort",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462604211",
       "funnet": "2026-07-08T15:58:17.518011+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gammel pokemon kort binder selges",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469284003",
-      "funnet": "2026-07-08T15:46:14.762878+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
