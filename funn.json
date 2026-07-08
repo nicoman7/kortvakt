@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T16:46:17.394682+00:00",
+  "sist_sjekket": "2026-07-08T16:48:21.597812+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469290484",
+      "funnet": "2026-07-08T16:48:21.597764+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 stickers - Bytte?",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469289792",
+      "funnet": "2026-07-08T16:48:20.804847+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – blandet pakke",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469266845",
       "funnet": "2026-07-08T12:30:55.701330+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Evolutions 11/108 Holo Rare",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469266554",
-      "funnet": "2026-07-08T12:28:20.339063+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOBAKKSKORT /  SIGARETTKORT TRAV OG DIV HESt",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469264794",
-      "funnet": "2026-07-08T12:28:19.964724+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
