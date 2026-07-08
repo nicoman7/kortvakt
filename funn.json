@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-08T17:01:18.083760+00:00",
+  "sist_sjekket": "2026-07-08T17:02:20.433607+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442519853",
+      "funnet": "2026-07-08T17:02:20.433558+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort gammel samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461589891",
+      "funnet": "2026-07-08T17:02:19.838341+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon bunke",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461757043",
+      "funnet": "2026-07-08T17:02:19.269750+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Chaos Rising base-sett 001-086/086",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469291323",
+      "funnet": "2026-07-08T17:02:18.996304+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA 9 Pokemon Dreepy japansk promo kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469291767",
+      "funnet": "2026-07-08T17:02:18.299375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tom Lund fotballkort",
       "pris": 500,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469268518",
       "funnet": "2026-07-08T12:46:18.745280+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gulpin Platinum Arceus",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469268794",
-      "funnet": "2026-07-08T12:46:18.412084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Tyranitar Team Rocket Returns 20/109",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469267173",
-      "funnet": "2026-07-08T12:44:15.108731+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og diverse",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457563528",
-      "funnet": "2026-07-08T12:44:14.419692+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Merlin Premier League 1997 album",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/355762740",
-      "funnet": "2026-07-08T12:42:18.488886+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini 1983 fullt album.  Nå kr 150,- i rabatt",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/194887409",
-      "funnet": "2026-07-08T12:40:42.018854+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
