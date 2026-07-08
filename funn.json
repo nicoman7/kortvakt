@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-08T10:54:14.139418+00:00",
+  "sist_sjekket": "2026-07-08T10:56:15.993137+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469257336",
+      "funnet": "2026-07-08T10:56:15.993089+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Ninetales Art Rare",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469257762",
+      "funnet": "2026-07-08T10:56:15.197661+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu McDonalds Booster Pakke 2025 (Happy Meal) - FRAKT INKLUDERT!",
       "pris": 499,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469226470",
       "funnet": "2026-07-07T21:54:14.183380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Altaria GX kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469226423",
-      "funnet": "2026-07-07T21:52:15.594279+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Snorlax og gengar kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469224415",
-      "funnet": "2026-07-07T21:52:15.257981+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
