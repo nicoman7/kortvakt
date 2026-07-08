@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T23:42:21.737323+00:00",
+  "sist_sjekket": "2026-07-08T23:44:15.226876+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon energy kort - 59 stk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/288880027",
+      "funnet": "2026-07-08T23:44:15.224855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon energy kort - 59 stk",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-08T19:16:17.794999+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ønskes Kjøpt: Burning Mane Duel Masters kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469304088",
-      "funnet": "2026-07-08T19:16:17.392878+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
