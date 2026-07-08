@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-08T16:52:13.533802+00:00",
+  "sist_sjekket": "2026-07-08T16:54:19.828378+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469291095",
+      "funnet": "2026-07-08T16:54:19.828328+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Adrenalyn Upgrade samlekortboks",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469267369",
       "funnet": "2026-07-08T12:38:14.842545+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Pedri Limited Edition FIFA World Cup Qatar 2022 kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462306686",
-      "funnet": "2026-07-08T12:38:14.241380+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
