@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T07:36:16.396870+00:00",
+  "sist_sjekket": "2026-07-09T07:38:20.225624+00:00",
   "funn": [
+    {
+      "tittel": "Cristiano Ronaldo Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/374379918",
+      "funnet": "2026-07-09T07:38:20.223730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo Fotballkort",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-08T22:20:52.260480+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469317419",
-      "funnet": "2026-07-08T22:15:32.377050+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
