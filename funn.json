@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-09T20:58:23.940708+00:00",
+  "sist_sjekket": "2026-07-09T21:00:56.618103+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL FIFA World Cup 2026",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469399379",
+      "funnet": "2026-07-09T21:00:56.616246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Aggron holo",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469266139",
+      "funnet": "2026-07-09T21:00:56.044163+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ancient Mew - Pokemon WOTC Original Black Star Promo - PSA 7",
       "pris": 1999,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-09T16:54:20.064035+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Surfing Pikachu V #8 Pokemon Celebrations",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469379635",
-      "funnet": "2026-07-09T16:54:19.802564+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon V #SWSH203 Pokemon Promo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469379401",
-      "funnet": "2026-07-09T16:54:19.192940+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
