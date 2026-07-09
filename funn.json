@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T07:34:25.292814+00:00",
+  "sist_sjekket": "2026-07-09T07:36:16.396870+00:00",
   "funn": [
+    {
+      "tittel": "Cristiano Ronaldo Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/374379918",
+      "funnet": "2026-07-09T07:36:16.394717+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo Fotballkort",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469317419",
       "funnet": "2026-07-08T22:15:32.377050+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samling med Squirtle kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469317070",
-      "funnet": "2026-07-08T22:10:52.583661+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
