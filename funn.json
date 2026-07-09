@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T11:45:46.907414+00:00",
+  "sist_sjekket": "2026-07-09T11:46:20.160582+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG First Partner Illustration Collection Series 1 Gen 4 Sinnoh Starters",
+      "pris": 298,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469298616",
+      "funnet": "2026-07-09T11:46:20.158865+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Monty Gum VM 1974 fotballkort Johan Neeskens SJELDENT",
       "pris": 499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-09T11:11:03.731572+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu V - Shining Fates Promo- Standard + Jumbo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/209414094",
-      "funnet": "2026-07-09T11:11:03.346398+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
