@@ -1,9 +1,11 @@
 name: Sjekk Finn for kortkupp
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'   # kjører hvert 5. minutt, døgnet rundt
-  workflow_dispatch:         # lar deg også trykke "Run workflow" manuelt på GitHub
+  workflow_dispatch:   # trigges eksternt av cron-job.org
+
+concurrency:
+  group: sjekk-finn
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,6 +13,7 @@ permissions:
 jobs:
   sjekk:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - name: Hent koden
         uses: actions/checkout@v4
@@ -31,5 +34,20 @@ jobs:
           git config user.name "Kortvakt-boten"
           git config user.email "actions@github.com"
           git add funn.json data/sett_annonser.json
-          git diff --cached --quiet || git commit -m "Automatisk oppdatering"
-          git push
+          if git diff --cached --quiet; then
+            echo "Ingen endringer å publisere."
+            exit 0
+          fi
+          git commit -m "Automatisk oppdatering"
+          # Prøver push med retry: hvis en annen kjøring rakk å pushe først,
+          # henter vi deres endringer og prøver på nytt (opptil 3 ganger)
+          for i in 1 2 3; do
+            if git push; then
+              echo "Publisert."
+              exit 0
+            fi
+            echo "Push feilet (forsøk $i) - henter siste endringer og prøver igjen..."
+            git pull --rebase -X ours || (git rebase --abort && exit 1)
+          done
+          echo "Klarte ikke å publisere etter 3 forsøk."
+          exit 1
