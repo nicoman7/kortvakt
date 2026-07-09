@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T21:02:14.875265+00:00",
+  "sist_sjekket": "2026-07-09T21:04:17.226977+00:00",
   "funn": [
+    {
+      "tittel": "Duel Masters Alcss, the Oracle samlekort",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469399776",
+      "funnet": "2026-07-09T21:04:17.224859+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA World Cup 2026",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-09T16:56:15.857328+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samleperm med Pokemon-kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469318733",
-      "funnet": "2026-07-09T16:54:20.064035+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
