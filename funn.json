@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T12:22:19.328130+00:00",
+  "sist_sjekket": "2026-07-09T12:26:15.490785+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469355482",
+      "funnet": "2026-07-09T12:26:15.489052+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Martin Ødegaard – FIFA 365 Scandinavian Stars #387 Fotballkort",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/218085218",
       "funnet": "2026-07-09T11:12:20.771390+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "19 forskjellige gull fotball kort!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/388282554",
-      "funnet": "2026-07-09T11:12:20.137966+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
