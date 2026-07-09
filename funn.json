@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T07:10:46.717062+00:00",
+  "sist_sjekket": "2026-07-09T07:14:14.742016+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469328342",
+      "funnet": "2026-07-09T07:14:14.739749+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland fotballkort selges!  The Zen -  Nummerert 54/99",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469314669",
       "funnet": "2026-07-08T21:24:17.739015+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort samling i perm topps chrome ucc",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469314837",
-      "funnet": "2026-07-08T21:24:16.872464+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
