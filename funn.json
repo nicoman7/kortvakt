@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T20:30:58.489644+00:00",
+  "sist_sjekket": "2026-07-09T20:32:15.163956+00:00",
   "funn": [
+    {
+      "tittel": "25stk - Pokeball rev holo Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469397611",
+      "funnet": "2026-07-09T20:32:15.161995+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "6.3kg Pokémon kort",
       "pris": 840,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-09T16:42:20.618706+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Venusaur ex #198 Pokemon Scarlet & Violet 151",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469368606",
-      "funnet": "2026-07-09T16:40:53.230454+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
