@@ -60,7 +60,7 @@ BUD_FRASER = [
 
 MAKS_FUNN_LAGRET = 150
 MAKS_ID_LAGRET = 5000
-MAKS_BESKRIVELSER_PER_KJORING = 60  # sikkerhetsgrense per kjøring (økt siden søket nå er bredere)
+MAKS_BESKRIVELSER_PER_KJORING = 30  # holder kjøringene korte nok til at de ikke kolliderer
 
 FUNN_FIL = "funn.json"
 SETT_FIL = "data/sett_annonser.json"
@@ -205,6 +205,13 @@ def main():
                 innenfor_budsjett = pris is None or pris <= MAKS_PRIS
 
                 if har_stikkord and innenfor_budsjett:
+                    # Duplikat-vakt: aldri legg inn en annonse som allerede
+                    # ligger i funn-listen (uansett hva som har gått galt
+                    # med hukommelsen i sett_annonser.json)
+                    if any(f.get("lenke") == annonse["lenke"] for f in funn_data["funn"]):
+                        sett_annonser.add(annonse["id"])
+                        continue
+
                     kombinert_tekst = annonse["tekst"]
                     pris_pa_foresporsel = False
 
@@ -232,6 +239,18 @@ def main():
                     })
 
             sett_annonser.add(annonse["id"])
+
+    # Selvhelbredende opprydding: fjerner eventuelle duplikater som allerede
+    # har sneket seg inn i funn-listen (beholder den nyeste av hver annonse)
+    sette_lenker = set()
+    unike_funn = []
+    for f in funn_data["funn"]:
+        if f.get("lenke") not in sette_lenker:
+            sette_lenker.add(f.get("lenke"))
+            unike_funn.append(f)
+    if len(unike_funn) < len(funn_data["funn"]):
+        print(f"Ryddet bort {len(funn_data['funn']) - len(unike_funn)} duplikater fra funn-listen.")
+    funn_data["funn"] = unike_funn
 
     funn_data["funn"] = funn_data["funn"][:MAKS_FUNN_LAGRET]
     if len(sett_annonser) > MAKS_ID_LAGRET:
