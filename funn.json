@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-09T07:38:20.225624+00:00",
+  "sist_sjekket": "2026-07-09T07:40:46.967569+00:00",
   "funn": [
+    {
+      "tittel": "Cristiano Ronaldo Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/374379918",
+      "funnet": "2026-07-09T07:40:46.965932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Store pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457970352",
+      "funnet": "2026-07-09T07:40:46.374412+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Cristiano Ronaldo Fotballkort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469317358",
       "funnet": "2026-07-08T22:31:01.843166+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The Rider Tarot Deck tarotkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463039058",
-      "funnet": "2026-07-08T22:20:52.613677+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 2002 Water Energy - Holo McDonald’s (PSA9)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426628782",
-      "funnet": "2026-07-08T22:20:52.260480+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
