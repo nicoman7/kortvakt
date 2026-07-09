@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-09T11:48:15.570810+00:00",
+  "sist_sjekket": "2026-07-09T11:50:44.063266+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard V Promo SWSH260",
+      "pris": 460,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469352872",
+      "funnet": "2026-07-09T11:50:44.061503+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG First Partner Illustration Collection Series 1 Gen 4 Sinnoh Starters",
       "pris": 298,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-09T11:11:04.595696+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Celebrations kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/243284901",
-      "funnet": "2026-07-09T11:11:03.731572+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
