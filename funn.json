@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-09T21:32:28.260632+00:00",
+  "sist_sjekket": "2026-07-09T21:34:19.210305+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling EX!",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469402305",
+      "funnet": "2026-07-09T21:34:19.208524+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort- Gilberto Mora- Mexico",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469402064",
+      "funnet": "2026-07-09T21:34:18.404602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gardevoir Mega Evolution Pokemoncentre etb",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/413246384",
       "funnet": "2026-07-09T17:08:28.610420+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zinedine Zidane Fotballkort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389682177",
-      "funnet": "2026-07-09T17:08:28.254562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alisson Becker Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/411081729",
-      "funnet": "2026-07-09T17:08:27.472724+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
