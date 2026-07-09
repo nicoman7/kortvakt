@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-09T07:32:19.220762+00:00",
+  "sist_sjekket": "2026-07-09T07:34:25.292814+00:00",
   "funn": [
+    {
+      "tittel": "Cristiano Ronaldo Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/374379918",
+      "funnet": "2026-07-09T07:34:25.291050+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manchester city - fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463041790",
+      "funnet": "2026-07-09T07:34:24.656800+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/400533668",
+      "funnet": "2026-07-09T07:34:24.013187+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps 2025/2026",
       "pris": 400,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-08T22:10:52.583661+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended heroes",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469317076",
-      "funnet": "2026-07-08T22:08:19.834942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 japansk Charmander 168/165",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469316885",
-      "funnet": "2026-07-08T22:06:16.116113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Donruss FIFA World Cup fotballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469314475",
-      "funnet": "2026-07-08T22:06:15.342765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
