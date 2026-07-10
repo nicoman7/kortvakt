@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T21:10:45.642962+00:00",
+  "sist_sjekket": "2026-07-10T21:12:18.719927+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Alf Haaland, Solbakken mm",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387618972",
+      "funnet": "2026-07-10T21:12:18.717707+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini World Cup - Eternos selges",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/443483218",
       "funnet": "2026-07-10T16:30:50.392526+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort panini champions league 09/10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469451396",
-      "funnet": "2026-07-10T16:30:50.028263+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
