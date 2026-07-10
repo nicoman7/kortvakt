@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:46:18.777467+00:00",
+  "sist_sjekket": "2026-07-10T16:48:17.853419+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 271,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469459641",
+      "funnet": "2026-07-10T16:48:17.851457+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Pokemon",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454994171",
       "funnet": "2026-07-10T11:40:43.294489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Jamal Musiala - Unbeatable",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454997006",
-      "funnet": "2026-07-10T11:40:42.982636+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
