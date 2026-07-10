@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T14:40:47.349848+00:00",
+  "sist_sjekket": "2026-07-10T14:42:19.187165+00:00",
   "funn": [
+    {
+      "tittel": "Forretress #56 Pokemon Skyridge",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469450236",
+      "funnet": "2026-07-10T14:42:19.185178+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Abra #46 Pokemon Skyridge",
+      "pris": 239,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469450342",
+      "funnet": "2026-07-10T14:42:18.303227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Growlithe [Reverse Holo] #51 Pokemon Aquapolis",
       "pris": 219,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-10T10:10:45.178625+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini klistremerker VM 2026 fotballkort merker samling",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469429557",
-      "funnet": "2026-07-10T10:08:16.581122+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo EX kort – holo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469429086",
-      "funnet": "2026-07-10T10:04:20.188253+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
