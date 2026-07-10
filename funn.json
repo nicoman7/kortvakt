@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T08:40:47.135899+00:00",
+  "sist_sjekket": "2026-07-10T08:42:15.616892+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422621",
+      "funnet": "2026-07-10T08:42:15.615080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bundle: Pokemon First Partner Illustration Collection Series 1 og 2",
+      "pris": 1590,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422440",
+      "funnet": "2026-07-10T08:42:15.010407+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469402894",
       "funnet": "2026-07-09T21:48:20.398142+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon GX/EX kort – samling med Mega Gardevoir, Mega Lucario, Garchomp m.m.",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402924",
-      "funnet": "2026-07-09T21:48:19.515923+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Persian lv.32 80HP",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469400228",
-      "funnet": "2026-07-09T21:44:29.336667+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
