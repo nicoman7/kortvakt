@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T13:04:17.186328+00:00",
+  "sist_sjekket": "2026-07-10T13:06:18.478179+00:00",
   "funn": [
+    {
+      "tittel": "4 pakker kort med reklame",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455077648",
+      "funnet": "2026-07-10T13:06:18.476373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ishockey kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469408455",
       "funnet": "2026-07-10T06:34:16.324586+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2X fifa fotball kort (2024)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469408513",
-      "funnet": "2026-07-10T06:34:15.980358+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
