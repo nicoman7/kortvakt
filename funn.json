@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T11:48:16.490444+00:00",
+  "sist_sjekket": "2026-07-10T11:50:48.283796+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469437821",
+      "funnet": "2026-07-10T11:50:48.281614+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort pokeball, full art, trainer",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469410210",
       "funnet": "2026-07-10T05:06:25.724936+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Team Magma’s Mightyena holo",
-      "pris": 1370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469410224",
-      "funnet": "2026-07-10T05:06:24.870844+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
