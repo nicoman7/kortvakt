@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T13:28:19.322213+00:00",
+  "sist_sjekket": "2026-07-10T13:30:54.584105+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469445515",
+      "funnet": "2026-07-10T13:30:54.582442+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469445733",
+      "funnet": "2026-07-10T13:30:54.195937+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Leeds United fotballkort 5 stk 70-tallet",
       "pris": 65,
@@ -1182,22 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469419679",
       "funnet": "2026-07-10T08:08:19.696186+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🤍3 KORT LESNING TAROT🤍",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469418975",
-      "funnet": "2026-07-10T08:00:57.497804+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moonology manifestation orakel kort av Yasmin Boland",
-      "pris": 115,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469418417",
-      "funnet": "2026-07-10T07:50:44.911527+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
