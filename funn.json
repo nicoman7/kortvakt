@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T21:58:15.723183+00:00",
+  "sist_sjekket": "2026-07-10T22:00:59.593154+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426906670",
+      "funnet": "2026-07-10T22:00:59.591011+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Strøken Pokémon kort Mega Diancie EX japansk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469481025",
+      "funnet": "2026-07-10T22:00:59.230206+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469472626",
       "funnet": "2026-07-10T19:46:18.988955+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Samlekort 2026. Oppdatert 03.04",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426830357",
-      "funnet": "2026-07-10T19:44:14.615181+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cinccino ex 119/086 SIR - Chaos Rising - Near Mint - Pokemon   2",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469472113",
-      "funnet": "2026-07-10T19:40:44.039073+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
