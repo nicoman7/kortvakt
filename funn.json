@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T09:52:18.241715+00:00",
+  "sist_sjekket": "2026-07-10T09:54:19.168721+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax Extra samle perm med fotball kort.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462848552",
+      "funnet": "2026-07-10T09:54:19.167029+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon hits - samling selges",
       "pris": 225,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-09T22:48:17.952704+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ekslusive Pikachu McDonald’s promo",
-      "pris": 420,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469404879",
-      "funnet": "2026-07-09T22:46:19.545191+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
