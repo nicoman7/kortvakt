@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:08:18.842768+00:00",
+  "sist_sjekket": "2026-07-10T16:10:44.462238+00:00",
   "funn": [
+    {
+      "tittel": "Graderte Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469456689",
+      "funnet": "2026-07-10T16:10:44.460270+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort selges enkeltvis",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469435420",
       "funnet": "2026-07-10T11:20:44.653538+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon ultimate Poké Pad samling",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469435062",
-      "funnet": "2026-07-10T11:18:21.517722+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
