@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-10T14:28:19.501536+00:00",
+  "sist_sjekket": "2026-07-10T14:30:55.312279+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort/samleobjekt",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469450293",
+      "funnet": "2026-07-10T14:30:55.310381+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon: Chespin Illustration rare",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467748282",
+      "funnet": "2026-07-10T14:30:54.599077+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "BGS 9.5 Pikachu VMAX #SWSH062 Black Star Promo Celebrations (2021)",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467924216",
+      "funnet": "2026-07-10T14:30:53.862432+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA XXL fotballkort Erling Haaland limited edition",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 1400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469423932",
       "funnet": "2026-07-10T09:01:03.856413+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Steelix 1st edition Holo #15 Pokemon Neo Genesis",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469423868",
-      "funnet": "2026-07-10T09:01:02.963447+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️ Panini VM 2026 stickers selges",
-      "pris": 270,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469423872",
-      "funnet": "2026-07-10T08:58:19.809351+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Topps  Samlekort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469423143",
-      "funnet": "2026-07-10T08:56:20.125630+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
