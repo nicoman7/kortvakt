@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T11:32:16.590481+00:00",
+  "sist_sjekket": "2026-07-10T11:34:19.838718+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469436509",
+      "funnet": "2026-07-10T11:34:19.836836+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Semic Fotball EM 92 samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469436464",
+      "funnet": "2026-07-10T11:34:19.052132+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo fotballkort i Portugal drakt selges! Fra 25kr stk",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469409909",
       "funnet": "2026-07-10T04:42:19.384424+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters kort Lok, Vizier of Hunting",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469409918",
-      "funnet": "2026-07-10T04:42:18.325677+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters kort Charmilia, the Enticer Snow Faerie",
-      "pris": 640,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469409835",
-      "funnet": "2026-07-10T04:40:45.754223+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
