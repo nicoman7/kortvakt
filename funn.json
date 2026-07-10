@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T18:14:18.105612+00:00",
+  "sist_sjekket": "2026-07-10T18:16:17.956952+00:00",
   "funn": [
+    {
+      "tittel": "Bulk pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469465329",
+      "funnet": "2026-07-10T18:16:17.955079+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort selges👈👇👉Gi bud☺️😎",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469443474",
       "funnet": "2026-07-10T13:01:01.040971+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: Meowth Ex 121",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469443508",
-      "funnet": "2026-07-10T13:01:00.670687+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
