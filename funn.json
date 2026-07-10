@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:40:45.411257+00:00",
+  "sist_sjekket": "2026-07-10T16:42:18.963718+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome Jude Bellingham nr. 245/250",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469410791",
+      "funnet": "2026-07-10T16:42:18.961607+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu [Holo] #12 Pokemon Promo",
       "pris": 179,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-10T11:40:42.745689+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Griezmann & Tchouameni - Magic Mix",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454989104",
-      "funnet": "2026-07-10T11:40:42.480045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
