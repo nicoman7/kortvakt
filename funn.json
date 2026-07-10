@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T08:56:20.127631+00:00",
+  "sist_sjekket": "2026-07-10T08:58:19.811498+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Panini VM 2026 stickers selges",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469423872",
+      "funnet": "2026-07-10T08:58:19.809351+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Topps  Samlekort",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469404289",
       "funnet": "2026-07-09T22:26:01.525278+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shoot Goal All Stars Kevin Beattie fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454901443",
-      "funnet": "2026-07-09T22:20:45.896331+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
