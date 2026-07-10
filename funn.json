@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T15:48:17.726934+00:00",
+  "sist_sjekket": "2026-07-10T15:50:47.570561+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokémon kort selges!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469455141",
+      "funnet": "2026-07-10T15:50:47.568666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "TCG Deck box (Pokemon Magic the Gathering Lorcana)",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-10T11:16:23.412141+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Silver Lance booster box selges kr 1000",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469434989",
-      "funnet": "2026-07-10T11:16:22.608955+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
