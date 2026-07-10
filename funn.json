@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-10T08:42:15.616892+00:00",
+  "sist_sjekket": "2026-07-10T08:44:17.568818+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort bulk",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422722",
+      "funnet": "2026-07-10T08:44:17.567331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Misty’s Gyarados Holo #13 Pokemon Gym Challenge",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422577",
+      "funnet": "2026-07-10T08:44:16.804610+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422878",
+      "funnet": "2026-07-10T08:44:16.033670+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon bulk",
       "pris": 160,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469402943",
       "funnet": "2026-07-09T21:50:43.866353+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Exeggutor holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402980",
-      "funnet": "2026-07-09T21:50:43.046697+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Blister Detective Pikachu Case File",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469403069",
-      "funnet": "2026-07-09T21:50:42.693811+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clamperl holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402894",
-      "funnet": "2026-07-09T21:48:20.398142+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
