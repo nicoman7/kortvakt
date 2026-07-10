@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:52:24.443466+00:00",
+  "sist_sjekket": "2026-07-10T16:54:17.146313+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis",
+      "pris": 7,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469460178",
+      "funnet": "2026-07-10T16:54:17.144224+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samling selges",
       "pris": 271,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445542946",
       "funnet": "2026-07-10T11:48:16.488397+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2024 - Antoine Griezmann - Master Class",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454994171",
-      "funnet": "2026-07-10T11:40:43.294489+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
