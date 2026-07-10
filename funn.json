@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-10T12:58:14.688437+00:00",
+  "sist_sjekket": "2026-07-10T13:01:01.851301+00:00",
   "funn": [
+    {
+      "tittel": "Ishockey kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/427607611",
+      "funnet": "2026-07-10T13:01:01.849468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon boosterpakker",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469443474",
+      "funnet": "2026-07-10T13:01:01.040971+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon: Meowth Ex 121",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469443508",
+      "funnet": "2026-07-10T13:01:00.670687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚡ Jolteon #135 - Pokemon Japanese Jungle",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469408513",
       "funnet": "2026-07-10T06:34:15.980358+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland - Manchester City - Panini Adrenalyn 2023",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455025289",
-      "funnet": "2026-07-10T06:30:55.171860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland 2024 Manchester City Panini Adrenalyn XL",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455024687",
-      "funnet": "2026-07-10T06:30:54.557812+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo Top Finisher Holo Foil Manchester United 2023 Panini",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455018837",
-      "funnet": "2026-07-10T06:30:53.923358+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
