@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T12:26:15.194797+00:00",
+  "sist_sjekket": "2026-07-10T12:28:20.265419+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Center Mega Symphonia",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469440434",
+      "funnet": "2026-07-10T12:28:20.263577+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Krabby [Reverse Holo] #115 Pokemon Expedition",
       "pris": 39,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469406875",
       "funnet": "2026-07-10T06:24:16.825142+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shoot Goal All Stars samlekort fotball Kevin Keegan",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454859430",
-      "funnet": "2026-07-10T06:22:16.899993+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
