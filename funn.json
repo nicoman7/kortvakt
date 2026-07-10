@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T06:48:17.789472+00:00",
+  "sist_sjekket": "2026-07-10T06:50:47.671753+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469414334",
+      "funnet": "2026-07-10T06:50:47.669607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Digimon samlekort (sjeldne)",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469400955",
       "funnet": "2026-07-09T21:16:21.502027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hoopa #155/XY-P Pokemon Japanese Promo PSA 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468001609",
-      "funnet": "2026-07-09T21:16:21.123225+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
