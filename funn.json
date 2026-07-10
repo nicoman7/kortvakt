@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T07:16:18.375889+00:00",
+  "sist_sjekket": "2026-07-10T07:18:19.483330+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469416089",
+      "funnet": "2026-07-10T07:18:19.481432+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "TOBAKKSKORT /  SIGARETTKORT SKØYTER KUNSTLØP",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469414836",
+      "funnet": "2026-07-10T07:18:18.621400+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Charizard Braixen Tagteam SM230",
       "pris": 799,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469401190",
       "funnet": "2026-07-09T21:18:22.028658+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gardevoir EX #116 Pokemon Steam Siege PSA 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469401168",
-      "funnet": "2026-07-09T21:18:21.263751+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: Charizard SM226 Promo",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469401189",
-      "funnet": "2026-07-09T21:18:20.406537+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
