@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T13:06:18.478179+00:00",
+  "sist_sjekket": "2026-07-10T13:08:16.698016+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469443920",
+      "funnet": "2026-07-10T13:08:16.696088+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "4 pakker kort med reklame",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469401382",
       "funnet": "2026-07-10T06:36:18.655743+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 fotball kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469408455",
-      "funnet": "2026-07-10T06:34:16.324586+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
