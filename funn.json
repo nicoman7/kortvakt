@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:16:14.913083+00:00",
+  "sist_sjekket": "2026-07-10T16:18:15.179631+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis",
+      "pris": 9,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469457383",
+      "funnet": "2026-07-10T16:18:15.177594+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Silver Tempest 3-pack blister med promo-kort",
       "pris": 499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-10T11:20:45.766709+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Terastal Festival ex boosterboks, japansk",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469435406",
-      "funnet": "2026-07-10T11:20:45.159681+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
