@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T08:38:14.735823+00:00",
+  "sist_sjekket": "2026-07-10T08:40:47.135899+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/174274674",
+      "funnet": "2026-07-10T08:40:47.134062+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dark Tyranitar Holo #11 Pokemon Neo Destiny",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422288",
+      "funnet": "2026-07-10T08:40:46.790657+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div pokémonkort",
       "pris": 999,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-09T21:44:29.336667+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og sleeves blandet pakke",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402773",
-      "funnet": "2026-07-09T21:44:28.650756+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Typhlosion ex samlekort 99/100",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402699",
-      "funnet": "2026-07-09T21:44:28.231767+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
