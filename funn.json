@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T16:44:16.673299+00:00",
+  "sist_sjekket": "2026-07-10T16:46:18.777467+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469459742",
+      "funnet": "2026-07-10T16:46:18.775991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Jude Bellingham nr. 245/250",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-10T11:40:42.982636+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort selges enkeltvis billig",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469436944",
-      "funnet": "2026-07-10T11:40:42.745689+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
