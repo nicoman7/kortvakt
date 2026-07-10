@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T16:06:15.155805+00:00",
+  "sist_sjekket": "2026-07-10T16:08:18.842768+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges enkeltvis",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469456734",
+      "funnet": "2026-07-10T16:08:18.840902+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon First Partner Illustration Collection Series 2 samleboks",
+      "pris": 849,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469456874",
+      "funnet": "2026-07-10T16:08:18.004133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-10T11:18:21.517722+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "DRAGONBALL KORT",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469435110",
-      "funnet": "2026-07-10T11:16:24.903566+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reverse holo pokemonkort selges enkeltvis",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469404501",
-      "funnet": "2026-07-10T11:16:24.150886+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
