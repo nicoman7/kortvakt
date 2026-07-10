@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T15:18:17.845579+00:00",
+  "sist_sjekket": "2026-07-10T15:20:45.552834+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon EX samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469453618",
+      "funnet": "2026-07-10T15:20:45.550927+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering – Stort utvalg av kort til salgs",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469432091",
       "funnet": "2026-07-10T10:38:15.348113+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Misty & Starmie V engelsk",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469430681",
-      "funnet": "2026-07-10T10:24:16.250285+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
