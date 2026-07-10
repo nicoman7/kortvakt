@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-10T18:46:19.502504+00:00",
+  "sist_sjekket": "2026-07-10T18:48:21.589156+00:00",
   "funn": [
+    {
+      "tittel": "Erling braut Haaland fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463078241",
+      "funnet": "2026-07-10T18:48:21.587174+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ATEEZ Aniteez Illusion plush og fotokort – San",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445641783",
+      "funnet": "2026-07-10T18:48:21.235346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra 1999!!!",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-10T13:16:24.675109+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chikorita #69 Pokemon Promo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462995290",
-      "funnet": "2026-07-10T13:16:23.849022+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort selges enkeltvis billig",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469444555",
-      "funnet": "2026-07-10T13:16:23.038085+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
