@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-10T08:48:30.139294+00:00",
+  "sist_sjekket": "2026-07-10T08:50:49.112464+00:00",
   "funn": [
+    {
+      "tittel": "Samling med pokemon bulk",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422924",
+      "funnet": "2026-07-10T08:50:49.110713+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon hit - Charizard Promo",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422291",
+      "funnet": "2026-07-10T08:50:48.781584+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Giovanni’s Gyarados Holo #5 Pokemon Gym Challenge",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422884",
+      "funnet": "2026-07-10T08:50:47.885182+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort bulk",
       "pris": 160,
@@ -1174,30 +1198,6 @@
       "pris": 520,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469403931",
       "funnet": "2026-07-09T22:16:24.966715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oricorio EX #24 Pokemon Promo ACE 10",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469404057",
-      "funnet": "2026-07-09T22:16:24.592512+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Gengar EX holo",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469401578",
-      "funnet": "2026-07-09T21:52:16.510609+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Paldea Evolved Booster Pack",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469402943",
-      "funnet": "2026-07-09T21:50:43.866353+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
