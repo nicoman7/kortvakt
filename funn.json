@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-10T10:50:44.355875+00:00",
+  "sist_sjekket": "2026-07-10T10:52:15.933830+00:00",
   "funn": [
+    {
+      "tittel": "Tiedemann Tobak samlekort trav",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/350481041",
+      "funnet": "2026-07-10T10:52:15.931927+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps - Pokemon - Foil - 8 Kort",
       "pris": 390,
@@ -1190,14 +1198,6 @@
       "pris": 130,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469407172",
       "funnet": "2026-07-10T00:01:03.693073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
-      "funnet": "2026-07-09T23:52:18.668894+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
