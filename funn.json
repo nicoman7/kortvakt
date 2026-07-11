@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T07:24:13.317953+00:00",
+  "sist_sjekket": "2026-07-11T07:26:20.602624+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426903697",
+      "funnet": "2026-07-11T07:26:20.600537+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - JAPANSKE KORT",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/455165392",
       "funnet": "2026-07-10T21:36:15.762395+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024 Topps Chrome UFC Charles Oliveira Main Event autograf",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454696891",
-      "funnet": "2026-07-10T21:36:15.176760+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
