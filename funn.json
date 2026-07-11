@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T15:20:58.774099+00:00",
+  "sist_sjekket": "2026-07-11T15:22:13.860557+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lumineon Psa 10",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469529648",
+      "funnet": "2026-07-11T15:22:13.858616+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon vintage topps-kort.",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-11T07:26:20.600537+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "POKEMON - JAPANSKE KORT",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469491165",
-      "funnet": "2026-07-11T07:12:14.919559+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
