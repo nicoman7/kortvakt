@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T12:01:01.761382+00:00",
+  "sist_sjekket": "2026-07-11T12:02:18.162786+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Magikarp #80 japansk",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469514720",
+      "funnet": "2026-07-11T12:02:18.161165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes 3pk blister med promo-kort og mynt",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/426906670",
       "funnet": "2026-07-10T22:00:59.591011+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Strøken Pokémon kort Mega Diancie EX japansk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469481025",
-      "funnet": "2026-07-10T22:00:59.230206+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
