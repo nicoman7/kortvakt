@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T15:32:12.561389+00:00",
+  "sist_sjekket": "2026-07-11T15:34:16.495967+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk - SWSH og nyere sett ( gratis feakt)",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469530395",
+      "funnet": "2026-07-11T15:34:16.494184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini VM 26 Erling Haaland GIANT",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469530484",
+      "funnet": "2026-07-11T15:34:15.677625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini VM 2026 - Emblem 624",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-11T07:32:16.855243+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426907203",
-      "funnet": "2026-07-11T07:28:18.306920+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426906397",
-      "funnet": "2026-07-11T07:28:17.940003+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
