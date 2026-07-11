@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T14:42:18.380339+00:00",
+  "sist_sjekket": "2026-07-11T14:44:17.540433+00:00",
   "funn": [
+    {
+      "tittel": "Div fotballkort 98",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469527250",
+      "funnet": "2026-07-11T14:44:17.538100+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – 3 samlekort i plastlommer",
       "pris": 280,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469482481",
       "funnet": "2026-07-11T07:10:46.976340+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling fotballkort med autografer og patchkort",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469481910",
-      "funnet": "2026-07-11T07:08:18.001763+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
