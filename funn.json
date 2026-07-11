@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T22:18:15.287243+00:00",
+  "sist_sjekket": "2026-07-11T22:20:48.339788+00:00",
   "funn": [
+    {
+      "tittel": "Adrenalyn xl 2018",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/332685347",
+      "funnet": "2026-07-11T22:20:48.338112+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort custom pakke (50 kort)",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/388180232",
+      "funnet": "2026-07-11T22:20:47.474298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Adrenalyn xl 2014-2015",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469534955",
       "funnet": "2026-07-11T16:40:46.942621+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Claydol 2/101 HOLO pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/417057341",
-      "funnet": "2026-07-11T16:36:17.218972+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heracross 7/101 HOLO pokemon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/417049356",
-      "funnet": "2026-07-11T16:26:20.382111+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
