@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T11:46:16.098004+00:00",
+  "sist_sjekket": "2026-07-11T11:48:16.886775+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort mappe med Pikachu og andre holo-kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469513446",
+      "funnet": "2026-07-11T11:48:16.884817+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-07-11T11:48:16.106272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mew japansk",
       "pris": 549,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/454852583",
       "funnet": "2026-07-10T21:56:17.039733+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 2024 UFC Knockout Octagon Warriors Stipe Miocic autograf 20/50",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454853347",
-      "funnet": "2026-07-10T21:56:16.679607+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2022 Panini Select UFC Alexa Grasso Red Autograf 59/99",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454852079",
-      "funnet": "2026-07-10T21:56:16.339637+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
