@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T15:22:13.860557+00:00",
+  "sist_sjekket": "2026-07-11T15:24:18.560635+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort japanske 500kr for alt.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469529847",
+      "funnet": "2026-07-11T15:24:18.558905+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Prismatic Evolution boosterpakker kortspill",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461994440",
+      "funnet": "2026-07-11T15:24:17.739753+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Lumineon Psa 10",
       "pris": 1600,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/426903936",
       "funnet": "2026-07-11T07:28:17.644488+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426900440",
-      "funnet": "2026-07-11T07:28:17.333600+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426903697",
-      "funnet": "2026-07-11T07:26:20.600537+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
