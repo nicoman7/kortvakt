@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T06:48:27.231948+00:00",
+  "sist_sjekket": "2026-07-11T06:50:44.996968+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469489531",
+      "funnet": "2026-07-11T06:50:44.994731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 10 Pikachu Pokémon-kort 2023 McDonald’s promo japansk",
       "pris": 900,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469479300",
       "funnet": "2026-07-10T21:28:15.951710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort PSA gradert samlekort Eevee Prismativ",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463087305",
-      "funnet": "2026-07-10T21:26:17.831152+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
