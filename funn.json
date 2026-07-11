@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T05:08:22.501926+00:00",
+  "sist_sjekket": "2026-07-11T05:10:42.286402+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469486800",
+      "funnet": "2026-07-11T05:10:42.284172+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445348116",
       "funnet": "2026-07-10T21:02:17.892768+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Fusion Strike 3 Pack Blister Eevee",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469477646",
-      "funnet": "2026-07-10T21:02:17.085326+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
