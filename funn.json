@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T12:52:13.788900+00:00",
+  "sist_sjekket": "2026-07-11T12:54:14.109355+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469106846",
+      "funnet": "2026-07-11T12:54:14.107346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Erling Haaland limited edition",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/444574119",
       "funnet": "2026-07-10T23:12:14.649902+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charmander, Charmeleon og Charizard 🌟",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469483295",
-      "funnet": "2026-07-10T23:12:13.994182+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
