@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T20:06:14.133460+00:00",
+  "sist_sjekket": "2026-07-11T20:08:17.717453+00:00",
   "funn": [
+    {
+      "tittel": "Official Manchester United photo album",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395434715",
+      "funnet": "2026-07-11T20:08:17.715563+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort - raichu",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459608682",
+      "funnet": "2026-07-11T20:08:17.293827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Mickey Mouse Story Part 3 telefonkort New Zealand, sett med 4 kort",
       "pris": 120,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/400493827",
       "funnet": "2026-07-11T14:08:16.886344+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling V og VMAX / full art",
-      "pris": 111,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469524644",
-      "funnet": "2026-07-11T14:08:16.027416+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 mappe og boks med kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469523837",
-      "funnet": "2026-07-11T14:04:14.405389+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
