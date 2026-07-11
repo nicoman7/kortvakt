@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T04:48:15.849184+00:00",
+  "sist_sjekket": "2026-07-11T04:50:44.831236+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469486563",
+      "funnet": "2026-07-11T04:50:44.829517+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - 60 stk m/boks",
       "pris": 270,
@@ -1190,14 +1198,6 @@
       "pris": 790,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469477646",
       "funnet": "2026-07-10T21:02:17.085326+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Journey Together 3 Pack Blister",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469477105",
-      "funnet": "2026-07-10T20:58:19.654190+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
