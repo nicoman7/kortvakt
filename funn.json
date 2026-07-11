@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T23:20:45.261504+00:00",
+  "sist_sjekket": "2026-07-11T23:23:00.330952+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort -Ninetales",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463421464",
+      "funnet": "2026-07-11T23:23:00.328807+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Yveltal EX kort x2",
       "pris": 549,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-11T16:46:14.630319+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Collect 151 Surprise Volume 3 Kinesisk Booster Box",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469535256",
-      "funnet": "2026-07-11T16:46:14.089647+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
