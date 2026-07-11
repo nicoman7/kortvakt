@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T13:38:17.485132+00:00",
+  "sist_sjekket": "2026-07-11T13:40:47.054016+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup Samlekortpakke",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469522494",
+      "funnet": "2026-07-11T13:40:47.052204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469522472",
+      "funnet": "2026-07-11T13:40:46.225619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "yu gi oh kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462967532",
       "funnet": "2026-07-11T04:46:13.532680+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gradert pokemon kort psa 10",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469486141",
-      "funnet": "2026-07-11T03:34:15.719672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling i metallboks",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469485540",
-      "funnet": "2026-07-11T01:52:20.176680+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
