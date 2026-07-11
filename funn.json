@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-11T07:26:20.602624+00:00",
+  "sist_sjekket": "2026-07-11T07:28:18.308892+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426907203",
+      "funnet": "2026-07-11T07:28:18.306920+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426906397",
+      "funnet": "2026-07-11T07:28:17.940003+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426903936",
+      "funnet": "2026-07-11T07:28:17.644488+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426900440",
+      "funnet": "2026-07-11T07:28:17.333600+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/454694533",
       "funnet": "2026-07-10T21:36:18.312988+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UEFA Club Competitions 2023/24 autograf Leny Yoro Rookie 115/299",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454697331",
-      "funnet": "2026-07-10T21:36:17.666161+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2023 Panini Select UFC Ilia Topuria Blue Octagonside 19/49",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454696071",
-      "funnet": "2026-07-10T21:36:17.034103+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2023 Panini Contenders Rookie Ticket UFC Raul Rosas Jr autograf",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454697840",
-      "funnet": "2026-07-10T21:36:16.334794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VINTAGE OG MODERN POKEMON KORT SAMLING SELGES",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455165392",
-      "funnet": "2026-07-10T21:36:15.762395+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
