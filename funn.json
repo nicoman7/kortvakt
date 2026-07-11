@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-11T18:50:43.907660+00:00",
+  "sist_sjekket": "2026-07-11T18:52:14.432785+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon lilligant 092/086",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463083999",
+      "funnet": "2026-07-11T18:52:14.430526+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Houndoom EX holo CHC grade 9",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469543452",
+      "funnet": "2026-07-11T18:52:14.135070+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Raichu & Alolan Raichu GX TAG TEAM kort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469515572",
       "funnet": "2026-07-11T12:14:15.577440+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Litten ir | Temporal forces pokemon",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469515668",
-      "funnet": "2026-07-11T12:14:15.335646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nærmere 2000 Pokémon-kort – holo/reverse, japansk og vintage",
-      "pris": 1650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469514984",
-      "funnet": "2026-07-11T12:12:17.307563+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
