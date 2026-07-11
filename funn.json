@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T17:52:17.300275+00:00",
+  "sist_sjekket": "2026-07-11T17:54:16.142168+00:00",
   "funn": [
+    {
+      "tittel": "Full art pikachu XY pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/287407209",
+      "funnet": "2026-07-11T17:54:16.139930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Darkness Energy Ex Delta Species (\nReverse Holo ) pokemon kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-11T11:14:16.691725+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469510577",
-      "funnet": "2026-07-11T11:14:16.133786+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
