@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T14:08:16.888345+00:00",
+  "sist_sjekket": "2026-07-11T14:10:45.692581+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Acended heroes Holo kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469524577",
+      "funnet": "2026-07-11T14:10:45.690646+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mange fotballkort se bilder",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469488020",
       "funnet": "2026-07-11T06:14:19.153243+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup 2026 – XXL Limited Edition",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469366070",
-      "funnet": "2026-07-11T06:14:18.156748+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
