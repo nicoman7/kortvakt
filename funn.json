@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T18:48:15.176060+00:00",
+  "sist_sjekket": "2026-07-11T18:50:43.907660+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Raichu & Alolan Raichu GX TAG TEAM kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469543267",
+      "funnet": "2026-07-11T18:50:43.905580+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon gradert - Zapdos Generations⚡️",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469514984",
       "funnet": "2026-07-11T12:12:17.307563+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gwynn SAR #117 - Pokemon Abyss Eye set",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469515149",
-      "funnet": "2026-07-11T12:12:17.000540+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
