@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T16:52:16.390500+00:00",
+  "sist_sjekket": "2026-07-11T16:54:14.687790+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469535780",
+      "funnet": "2026-07-11T16:54:14.685650+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Engelsk fotballkort George Best Manchester United A&BC 1968 - SJELDENT",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469506097",
       "funnet": "2026-07-11T10:20:45.298901+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcos Senesi - Fotballkort - Bournemouth - Select Prizm SP",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/444967026",
-      "funnet": "2026-07-11T10:20:44.568488+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
