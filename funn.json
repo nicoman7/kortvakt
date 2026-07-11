@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-11T10:30:59.343282+00:00",
+  "sist_sjekket": "2026-07-11T10:32:15.680773+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort (ishockey kort)",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463150391",
+      "funnet": "2026-07-11T10:32:15.678952+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort Delibird Articuno Munkidori Dialga Miraidon",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454836883",
       "funnet": "2026-07-10T21:50:47.977984+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2023 Panini Immaculate UFC Joanna Jedrzejczyk Autograf og Memorabilia 31/99",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454841058",
-      "funnet": "2026-07-10T21:50:47.304744+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
