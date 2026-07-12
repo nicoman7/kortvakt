@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T08:08:19.152408+00:00",
+  "sist_sjekket": "2026-07-12T08:10:49.208120+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469562071",
+      "funnet": "2026-07-12T08:10:49.205762+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tin - Mega Charizard",
       "pris": 550,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/455179864",
       "funnet": "2026-07-11T19:08:20.462902+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu at the Museum eksklusivt jumbo promo London Nat. History Museum",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451990987",
-      "funnet": "2026-07-11T19:08:19.571527+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
