@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-12T15:52:14.826377+00:00",
+  "sist_sjekket": "2026-07-12T15:54:16.033960+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601517",
+      "funnet": "2026-07-12T15:54:16.031959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kinesisk Stellar Crystal Coin Set",
+      "pris": 179,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601026",
+      "funnet": "2026-07-12T15:54:15.321431+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601413",
+      "funnet": "2026-07-12T15:54:14.547717+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort Energy kort blandet type",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/335136361",
       "funnet": "2026-07-12T10:57:38.037714+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort common Gastly #82/130 fra Diamond & Pearl base set",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/307707848",
-      "funnet": "2026-07-12T10:57:37.697527+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Combee common #79/130 fra serien Diamond & Pearl",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/307374952",
-      "funnet": "2026-07-12T10:57:36.888165+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort rare Lunatone #20/92 fra Ex Legend Maker",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/305408127",
-      "funnet": "2026-07-12T10:57:36.556786+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
