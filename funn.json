@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-07-12T06:10:09.781868+00:00",
+  "sist_sjekket": "2026-07-12T06:17:18.474408+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426901053",
+      "funnet": "2026-07-12T06:17:18.472471+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426905001",
+      "funnet": "2026-07-12T06:17:17.897488+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Champions Path Pokémon Kort Bulk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469557660",
+      "funnet": "2026-07-12T06:17:17.337821+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax Pro Elite FC Barcelona samle kort",
+      "pris": 222,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459232694",
+      "funnet": "2026-07-12T06:17:16.753439+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ultra Prism Pokémon Kort Bulk",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469557739",
+      "funnet": "2026-07-12T06:17:12.681742+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Alexander Sørloth 179/199",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454640879",
+      "funnet": "2026-07-12T06:17:12.039627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fates Collide Pokémon Kort Bulk",
       "pris": 500,
@@ -1152,54 +1200,6 @@
       "funnet": "2026-07-11T18:50:43.905580+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon gradert - Zapdos Generations⚡️",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469542984",
-      "funnet": "2026-07-11T18:48:15.173763+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3x Plastbeskyttelse Pokemon Booster Box",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469542458",
-      "funnet": "2026-07-11T18:38:14.261093+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals boosterpakker",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469542443",
-      "funnet": "2026-07-11T18:36:17.676215+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Olsen Trening med Karl-Heinz Rummenigge Kortspill Fotball",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435781415",
-      "funnet": "2026-07-11T18:30:55.904899+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals booster bundle",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469533786",
-      "funnet": "2026-07-11T18:30:55.243425+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup Brasil Hulk Brasil samlekort",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469542137",
-      "funnet": "2026-07-11T18:30:54.926893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
