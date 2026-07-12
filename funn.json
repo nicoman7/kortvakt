@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T23:10:49.762576+00:00",
+  "sist_sjekket": "2026-07-12T23:12:18.812832+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World cup fotballkort limited edition",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469632992",
+      "funnet": "2026-07-12T23:12:18.810794+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "George A. Romero - Dawn of the Dead Spillekort Ubrukt",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469606882",
       "funnet": "2026-07-12T17:20:46.376415+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Charizard Promo 023",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469608466",
-      "funnet": "2026-07-12T17:18:14.600368+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
