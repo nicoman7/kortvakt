@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T13:44:34.568106+00:00",
+  "sist_sjekket": "2026-07-12T13:46:37.107332+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort i perm",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469589018",
+      "funnet": "2026-07-12T13:46:37.105059+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Duel Masters Super Necrodragon Abzo Dolba m.m. – 3 kort",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469567994",
       "funnet": "2026-07-12T09:38:41.633914+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Froakie #88 Pokemon Chaos Rising",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469562599",
-      "funnet": "2026-07-12T09:38:41.268961+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
