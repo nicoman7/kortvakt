@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T21:06:19.323398+00:00",
+  "sist_sjekket": "2026-07-12T21:08:14.341322+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Starmie EX kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469628314",
+      "funnet": "2026-07-12T21:08:14.339036+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel master samling",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-12T16:28:16.370070+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469604139",
-      "funnet": "2026-07-12T16:28:15.748723+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
