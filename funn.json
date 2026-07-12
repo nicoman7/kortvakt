@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T19:10:45.502291+00:00",
+  "sist_sjekket": "2026-07-12T19:12:15.396642+00:00",
   "funn": [
+    {
+      "tittel": "Diverse fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469619167",
+      "funnet": "2026-07-12T19:12:15.394467+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon WWE  F1 med Lewis Hamilton gold Limited og Charles Leclerc gold Limited",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469616094",
+      "funnet": "2026-07-12T19:12:14.987507+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Illustration Collection Series 2 samleboks errorboks",
       "pris": 1990,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-12T15:50:47.804509+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort samling med autograf- og spesialkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469601128",
-      "funnet": "2026-07-12T15:50:47.429328+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Luis Suarez autografkort FC Barcelona 01/03 (on card)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469600881",
-      "funnet": "2026-07-12T15:48:16.821985+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
