@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T16:06:15.009754+00:00",
+  "sist_sjekket": "2026-07-12T16:08:14.548545+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469602784",
+      "funnet": "2026-07-12T16:08:14.546443+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "3D-printede displaystativ til samlekort",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469602360",
+      "funnet": "2026-07-12T16:08:14.210246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG kinesisk Happy Combo boosterboks",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/305407005",
       "funnet": "2026-07-12T10:57:41.609928+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Bill’s Maintenance #87/112 fra 2004 fra Ex FireRed & LeafGreen",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393846708",
-      "funnet": "2026-07-12T10:57:40.781196+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Poliwhirl uncommon #46/112 fra 2004 fra Ex FireRed & LeafGreen",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393846881",
-      "funnet": "2026-07-12T10:57:39.895819+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
