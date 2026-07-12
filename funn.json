@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T00:12:29.867395+00:00",
+  "sist_sjekket": "2026-07-12T00:14:45.326920+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon evolutions selges",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394312447",
+      "funnet": "2026-07-12T00:14:45.324620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Football 88 samleralbum med klistremerker",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/278154724",
       "funnet": "2026-07-11T17:10:44.412464+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delta species å ulike Pokémon kort!",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462178220",
-      "funnet": "2026-07-11T17:00:58.236807+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
