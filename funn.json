@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T17:06:16.170535+00:00",
+  "sist_sjekket": "2026-07-12T17:08:14.246165+00:00",
   "funn": [
+    {
+      "tittel": "Perfect Order samlekort selges enkeltvis eller samlet",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463494109",
+      "funnet": "2026-07-12T17:08:14.244166+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-07-12T17:08:13.598019+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Charizard EX UPC Promo",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454915396",
       "funnet": "2026-07-12T12:36:16.561352+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort SERGIO RAMOS LEMTB- REAL MADRID - LIMITED EDITION BRONZE",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361367461",
-      "funnet": "2026-07-12T12:32:40.030132+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal Emily Fox samlekort Defender 07/12",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449690176",
-      "funnet": "2026-07-12T12:32:39.194069+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
