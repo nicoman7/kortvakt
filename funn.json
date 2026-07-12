@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T15:54:16.033960+00:00",
+  "sist_sjekket": "2026-07-12T15:56:16.186869+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601660",
+      "funnet": "2026-07-12T15:56:16.184533+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601602",
+      "funnet": "2026-07-12T15:56:15.837896+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/305408130",
       "funnet": "2026-07-12T10:57:39.194840+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps UEFA Women’s Euro 2025 - Masse kort.",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469574321",
-      "funnet": "2026-07-12T10:57:38.384554+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort common Onix #92/130 fra Diamond & Pearl base set",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335136361",
-      "funnet": "2026-07-12T10:57:38.037714+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
