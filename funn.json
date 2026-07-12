@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-12T20:53:47.636059+00:00",
+  "sist_sjekket": "2026-07-12T21:03:26.780456+00:00",
   "funn": [
+    {
+      "tittel": "Duel master samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469627394",
+      "funnet": "2026-07-12T21:03:26.778468+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon - Iono Full Art + 3x Trenerkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469627029",
+      "funnet": "2026-07-12T21:03:26.163960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort blandet 70 stk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469627593",
+      "funnet": "2026-07-12T21:03:25.565551+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu VMAX holo",
       "pris": 1,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469604139",
       "funnet": "2026-07-12T16:28:15.748723+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469603935",
-      "funnet": "2026-07-12T16:26:19.209033+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-07-12T16:24:14.788548+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling fotballkort diverse spillere og lag",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463495073",
-      "funnet": "2026-07-12T16:22:24.410186+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
