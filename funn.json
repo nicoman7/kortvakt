@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T13:26:19.932938+00:00",
+  "sist_sjekket": "2026-07-12T13:28:14.652096+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortperm med kort – Mewtwo forside",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469589260",
+      "funnet": "2026-07-12T13:28:14.650325+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "10stk fot til å holde kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445709397",
+      "funnet": "2026-07-12T13:28:14.367959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Album med Pokemon kort",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-12T09:24:20.245439+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samleperm med kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469565668",
-      "funnet": "2026-07-12T09:16:54.226527+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boing Superstars samleperm med kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463451407",
-      "funnet": "2026-07-12T09:16:53.404992+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
