@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T10:00:05.652600+00:00",
+  "sist_sjekket": "2026-07-12T10:03:19.123978+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469570288",
+      "funnet": "2026-07-12T10:03:19.121943+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Skyridge 2003 m/ prisliste",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469476377",
       "funnet": "2026-07-11T21:14:16.624304+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luxio 52/130 ( reverse holo ) pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/417110108",
-      "funnet": "2026-07-11T21:10:52.190263+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
