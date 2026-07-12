@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T00:34:15.919747+00:00",
+  "sist_sjekket": "2026-07-12T00:36:16.992987+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemonkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469554672",
+      "funnet": "2026-07-12T00:36:16.991002+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling fotballkort Match Attax / lignende serier",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462178105",
       "funnet": "2026-07-11T17:10:45.280577+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon V Full Art Samling Kort Lost Origin",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440242427",
-      "funnet": "2026-07-11T17:10:44.664977+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
