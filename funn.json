@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-12T15:48:16.823886+00:00",
+  "sist_sjekket": "2026-07-12T15:50:48.182412+00:00",
   "funn": [
+    {
+      "tittel": "Oppbevaring boks til 100 kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601089",
+      "funnet": "2026-07-12T15:50:48.180466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samleboks med Pokemonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601023",
+      "funnet": "2026-07-12T15:50:47.804509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort samling med autograf- og spesialkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469601128",
+      "funnet": "2026-07-12T15:50:47.429328+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Luis Suarez autografkort FC Barcelona 01/03 (on card)",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/393843185",
       "funnet": "2026-07-12T10:57:35.747388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Energy Ark #75/75 common fra serien Neo Discovery",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/331030911",
-      "funnet": "2026-07-12T10:57:35.355936+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort common reverse holo stamped Ralts #61/106 fra Ex Emerald",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/305106437",
-      "funnet": "2026-07-12T10:57:34.520226+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Energy Restore uncommon #81/109 fra år 2003 fra Ex Ruby & Sapphire",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393841475",
-      "funnet": "2026-07-12T10:57:33.707208+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
