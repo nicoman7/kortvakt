@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T14:32:16.809588+00:00",
+  "sist_sjekket": "2026-07-12T14:34:16.525267+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469594744",
+      "funnet": "2026-07-12T14:34:16.522951+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Trainer 58 stk",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469571585",
       "funnet": "2026-07-12T10:16:55.883708+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Monty Gum fotballkort Ajax 1971 Cruyff, Neeskens - SJELDENT!",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/415848463",
-      "funnet": "2026-07-12T10:16:55.552508+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
