@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T07:02:15.774445+00:00",
+  "sist_sjekket": "2026-07-12T07:04:16.768386+00:00",
   "funn": [
+    {
+      "tittel": "Topps kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469559152",
+      "funnet": "2026-07-12T07:04:16.766260+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Single Pokemon kort fra Scarlet & Violet: Obsidian Flames Oppdatert 1.7..26",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-11T19:04:14.105137+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort fra EX-seriene (2004–2005) – Selges enkeltvis",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468910439",
-      "funnet": "2026-07-11T19:04:13.736210+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
