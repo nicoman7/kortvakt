@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-12T22:12:15.883284+00:00",
+  "sist_sjekket": "2026-07-12T22:14:18.634802+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mysterygifts",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436206312",
+      "funnet": "2026-07-12T22:14:18.632762+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Signerte Brann fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469631531",
+      "funnet": "2026-07-12T22:14:17.846104+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kjøper dine pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469555720",
+      "funnet": "2026-07-12T22:14:17.525718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "N's Zekrom 210/193 Art Rare - Japanese Mega Dream Ex",
       "pris": 80,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-12T17:08:13.598019+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard EX UPC Promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469607099",
-      "funnet": "2026-07-12T17:04:16.985313+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "flere pokemon kort fra Kina",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469607096",
-      "funnet": "2026-07-12T17:04:16.186098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort EX, V, VMAX og Full Art – blandet lot",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469607057",
-      "funnet": "2026-07-12T17:00:57.723696+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
