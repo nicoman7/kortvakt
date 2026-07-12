@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T16:08:14.548545+00:00",
+  "sist_sjekket": "2026-07-12T16:10:46.690203+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469602907",
+      "funnet": "2026-07-12T16:10:46.688150+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/305107398",
       "funnet": "2026-07-12T10:57:41.965931+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort uncommon Vibrava #54/110 fra Ex Holon Phantoms",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/305407005",
-      "funnet": "2026-07-12T10:57:41.609928+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
