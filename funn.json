@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T00:18:27.503577+00:00",
+  "sist_sjekket": "2026-07-12T00:22:02.566054+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort Match Attax / lignende serier",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469554395",
+      "funnet": "2026-07-12T00:22:02.563785+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon evolutions selges",
       "pris": 1100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/440242427",
       "funnet": "2026-07-11T17:10:44.664977+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ønsker å kjøpe Charizard expedition",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/278154724",
-      "funnet": "2026-07-11T17:10:44.412464+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
