@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T23:14:24.798434+00:00",
+  "sist_sjekket": "2026-07-12T23:16:15.323761+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA world cup 2026 fotballkort selges / byttes",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469633066",
+      "funnet": "2026-07-12T23:16:15.321703+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World cup fotballkort limited edition",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469609536",
       "funnet": "2026-07-12T17:26:15.689330+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon minialbum med 30 forskjellige Pokémon-kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469606882",
-      "funnet": "2026-07-12T17:20:46.376415+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
