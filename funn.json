@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T02:20:42.226480+00:00",
+  "sist_sjekket": "2026-07-12T02:22:15.921553+00:00",
   "funn": [
+    {
+      "tittel": "Kjøper dine pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469555725",
+      "funnet": "2026-07-12T02:22:15.919348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini stickers av utvalgte spillere selges",
       "pris": 180,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/417048451",
       "funnet": "2026-07-11T17:44:15.260239+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: Charizard 199",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469538761",
-      "funnet": "2026-07-11T17:44:14.575048+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
