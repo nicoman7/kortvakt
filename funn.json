@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-12T07:04:16.768386+00:00",
+  "sist_sjekket": "2026-07-12T07:08:27.487789+00:00",
   "funn": [
+    {
+      "tittel": "Eldre postkort fra Røros",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398266479",
+      "funnet": "2026-07-12T07:08:27.486080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469559226",
+      "funnet": "2026-07-12T07:08:27.107141+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/438246016",
       "funnet": "2026-07-11T19:04:15.266428+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort pakke – 3stk Full Art / Illustration Rare (Nye fra booster)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468469721",
-      "funnet": "2026-07-11T19:04:14.860094+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Skylanders NFC-kort – Alle figurer!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459982850",
-      "funnet": "2026-07-11T19:04:14.105137+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
