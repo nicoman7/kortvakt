@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T08:24:24.415091+00:00",
+  "sist_sjekket": "2026-07-12T08:26:17.615911+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398526453",
+      "funnet": "2026-07-12T08:26:17.613648+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 2",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469545355",
       "funnet": "2026-07-11T19:20:45.151432+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Snøhvit telefonkort sett med 3 New Zealand",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469544933",
-      "funnet": "2026-07-11T19:12:19.048741+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
