@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T19:36:21.900883+00:00",
+  "sist_sjekket": "2026-07-12T19:38:15.181356+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469619769",
+      "funnet": "2026-07-12T19:38:15.179186+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zapdos ex 049 Promo Holo - Pokemon 151",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469602784",
       "funnet": "2026-07-12T16:08:14.546443+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3D-printede displaystativ til samlekort",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469602360",
-      "funnet": "2026-07-12T16:08:14.210246+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
