@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T19:22:16.869843+00:00",
+  "sist_sjekket": "2026-07-12T19:24:16.602176+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Tops samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457374021",
+      "funnet": "2026-07-12T19:24:16.600083+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 klistremerker byttes eller selges",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469601787",
       "funnet": "2026-07-12T16:02:18.275034+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469601660",
-      "funnet": "2026-07-12T15:56:16.184533+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
