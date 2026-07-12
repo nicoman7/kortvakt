@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T14:44:13.874374+00:00",
+  "sist_sjekket": "2026-07-12T14:46:13.738912+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon ting",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462288001",
+      "funnet": "2026-07-12T14:46:13.736893+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Sjeldene Fotballkort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469573007",
       "funnet": "2026-07-12T10:28:04.937416+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort / kortspill A&BC England 1972",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333566334",
-      "funnet": "2026-07-12T10:23:21.156906+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
