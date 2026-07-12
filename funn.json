@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-12T22:48:12.654576+00:00",
+  "sist_sjekket": "2026-07-12T22:50:45.556045+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ETB og Booster box",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469632542",
+      "funnet": "2026-07-12T22:50:45.553852+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Basketball Samlekort-Mitch Richmond 1997 SPX DIE-CUT HOLOGRAM  Nr.40",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-12T17:10:51.312520+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perfect Order samlekort selges enkeltvis eller samlet",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463494109",
-      "funnet": "2026-07-12T17:08:14.244166+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
