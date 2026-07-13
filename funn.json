@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T14:17:07.495190+00:00",
+  "sist_sjekket": "2026-07-13T14:18:16.817275+00:00",
   "funn": [
+    {
+      "tittel": "Panini Mexico 86 World Cup",
+      "pris": 1049,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469680734",
+      "funnet": "2026-07-13T14:18:16.814941+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Espana 82 World Cup",
       "pris": 1049,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-13T09:40:49.357072+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654611",
-      "funnet": "2026-07-13T09:38:16.791408+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
