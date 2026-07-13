@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T09:14:19.071390+00:00",
+  "sist_sjekket": "2026-07-13T09:16:15.662190+00:00",
   "funn": [
+    {
+      "tittel": "Ståle Solbakken fotballkort",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469652410",
+      "funnet": "2026-07-13T09:16:15.660063+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Blaine's Moltres holo 1/132",
       "pris": 490,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462416906",
       "funnet": "2026-07-12T20:20:48.245002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463505912",
-      "funnet": "2026-07-12T20:08:21.542224+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
