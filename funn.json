@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T14:02:19.498152+00:00",
+  "sist_sjekket": "2026-07-13T14:04:28.559674+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes reverse holo rare",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469679558",
+      "funnet": "2026-07-13T14:04:28.558055+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Super Mario Samlekort Booster - Ny og Uåpnet",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-13T09:30:57.319682+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Alf Inge Haaland fotballkort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654018",
-      "funnet": "2026-07-13T09:30:56.711791+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
