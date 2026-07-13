@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T13:48:19.198619+00:00",
+  "sist_sjekket": "2026-07-13T13:50:52.685607+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG - Pitch Black Illustration",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469678166",
+      "funnet": "2026-07-13T13:50:52.683667+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Ascended heroes promo",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-13T09:28:18.430062+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece kort",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469653914",
-      "funnet": "2026-07-13T09:28:18.051589+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
