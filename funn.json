@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T14:12:30.026432+00:00",
+  "sist_sjekket": "2026-07-13T14:14:17.830423+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2010 FORSEGLET",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469680277",
+      "funnet": "2026-07-13T14:14:17.828621+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini France 98 World Cup",
+      "pris": 549,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469680425",
+      "funnet": "2026-07-13T14:14:17.558297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort til salgs!!!",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469654557",
       "funnet": "2026-07-13T09:38:16.091363+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654303",
-      "funnet": "2026-07-13T09:36:17.917400+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "One Piece kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654473",
-      "funnet": "2026-07-13T09:36:17.136124+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
