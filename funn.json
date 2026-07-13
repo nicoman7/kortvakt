@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T09:12:18.153300+00:00",
+  "sist_sjekket": "2026-07-13T09:14:19.071390+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Blaine's Moltres holo 1/132",
+      "pris": 490,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463559725",
+      "funnet": "2026-07-13T09:14:19.069536+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort – flere kort i perm",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469652256",
+      "funnet": "2026-07-13T09:14:18.678659+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "28 Pokemon tin bokser selges samlet",
       "pris": 800,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463505912",
       "funnet": "2026-07-12T20:08:21.542224+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vivid Voltage [common/uncommon/rare/reverse]",
-      "pris": 369,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/363533776",
-      "funnet": "2026-07-12T20:08:21.206047+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Champion's Path [common/uncommon/rare/reverse]",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/363541018",
-      "funnet": "2026-07-12T20:08:20.324754+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
