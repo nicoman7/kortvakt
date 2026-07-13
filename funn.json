@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T09:32:14.618377+00:00",
+  "sist_sjekket": "2026-07-13T09:34:19.577911+00:00",
   "funn": [
+    {
+      "tittel": "Steffen Iversen fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387695457",
+      "funnet": "2026-07-13T09:34:19.576121+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654177",
+      "funnet": "2026-07-13T09:34:18.761784+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "One Piece kort",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469628765",
       "funnet": "2026-07-12T21:18:15.920235+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Topps Match Attax fotballkort, tilbud ved kjøp av 2 eller mer",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403590758",
-      "funnet": "2026-07-12T21:16:29.592785+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leafeon SWSH191 Promo LP Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463528178",
-      "funnet": "2026-07-12T21:16:29.226801+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
