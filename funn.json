@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T12:34:18.763989+00:00",
+  "sist_sjekket": "2026-07-13T12:36:18.733508+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/302240224",
+      "funnet": "2026-07-13T12:36:18.731419+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mega Emboar EX Box samleboks",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469670728",
+      "funnet": "2026-07-13T12:36:18.300352+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Liverpool FC samlekort sett røde",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469640154",
       "funnet": "2026-07-13T06:50:54.265234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 173/165 Illustration Rare fra Pokémon 151",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469639911",
-      "funnet": "2026-07-13T06:50:53.454135+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Premier League Bryan Mbeumo Impact Hero",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469640298",
-      "funnet": "2026-07-13T06:50:52.616684+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
