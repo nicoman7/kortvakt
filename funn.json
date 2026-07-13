@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T09:34:19.577911+00:00",
+  "sist_sjekket": "2026-07-13T09:36:17.919334+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654303",
+      "funnet": "2026-07-13T09:36:17.917400+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654473",
+      "funnet": "2026-07-13T09:36:17.136124+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Steffen Iversen fotballkort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-07-12T21:23:15.658890+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tapu Koko GX SM33 Promo Pokemon kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463528332",
-      "funnet": "2026-07-12T21:18:16.545489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zapdos ex SAR kinesisk 151 - 190/151 pokemon",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469628765",
-      "funnet": "2026-07-12T21:18:15.920235+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
