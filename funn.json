@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T10:02:20.920898+00:00",
+  "sist_sjekket": "2026-07-13T10:04:17.428961+00:00",
   "funn": [
+    {
+      "tittel": "Ateez fotokort",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469656961",
+      "funnet": "2026-07-13T10:04:17.426986+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Riolu – holo",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/445963092",
       "funnet": "2026-07-12T22:34:14.102441+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mysterygifts",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436206312",
-      "funnet": "2026-07-12T22:14:18.632762+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
