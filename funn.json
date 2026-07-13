@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T11:48:18.100406+00:00",
+  "sist_sjekket": "2026-07-13T11:50:51.429624+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort - stor samling av diverse",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469666132",
+      "funnet": "2026-07-13T11:50:51.427694+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort fra EX seriene",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463512863",
       "funnet": "2026-07-13T06:08:17.508054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Landskamp fra 1934 - tobakkskort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463518512",
-      "funnet": "2026-07-13T06:06:17.510690+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
