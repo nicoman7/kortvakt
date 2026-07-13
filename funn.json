@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T14:14:17.830423+00:00",
+  "sist_sjekket": "2026-07-13T14:17:07.495190+00:00",
   "funn": [
+    {
+      "tittel": "Panini Espana 82 World Cup",
+      "pris": 1049,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469680533",
+      "funnet": "2026-07-13T14:17:07.493126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2010 FORSEGLET",
       "pris": 1999,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469654611",
       "funnet": "2026-07-13T09:38:16.791408+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "One Piece kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654557",
-      "funnet": "2026-07-13T09:38:16.091363+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
