@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T19:12:16.281212+00:00",
+  "sist_sjekket": "2026-07-13T19:14:13.833201+00:00",
   "funn": [
+    {
+      "tittel": "Tomme Pokemon ETBer",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463614145",
+      "funnet": "2026-07-13T19:14:13.831001+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ada Hegerberg Fotballkort",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469703238",
       "funnet": "2026-07-13T18:44:20.229396+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384469374",
-      "funnet": "2026-07-13T18:44:19.299166+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
