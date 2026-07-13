@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T12:16:15.775775+00:00",
+  "sist_sjekket": "2026-07-13T12:18:19.477793+00:00",
   "funn": [
+    {
+      "tittel": "Tar imot bud på disse pokemon kortene",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469669513",
+      "funnet": "2026-07-13T12:18:19.476022+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Manchester United Unbeaten Runs All-Time FA Premier League A17 Topps Gold 2003",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469640038",
       "funnet": "2026-07-13T06:46:17.502412+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Wm 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455476753",
-      "funnet": "2026-07-13T06:40:50.165827+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
