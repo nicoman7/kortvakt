@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T14:08:19.009373+00:00",
+  "sist_sjekket": "2026-07-13T14:10:58.250484+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort til salgs!!!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/435098805",
+      "funnet": "2026-07-13T14:10:58.248635+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini nr 00",
+      "pris": 549,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469680151",
+      "funnet": "2026-07-13T14:10:57.356775+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 10th Anniversary Promo 12 - Journey Across America",
       "pris": 1300,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469654473",
       "funnet": "2026-07-13T09:36:17.136124+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Steffen Iversen fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/387695457",
-      "funnet": "2026-07-13T09:34:19.576121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece kort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469654177",
-      "funnet": "2026-07-13T09:34:18.761784+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
