@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T20:50:55.589597+00:00",
+  "sist_sjekket": "2026-07-13T20:52:17.844221+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443768890",
+      "funnet": "2026-07-13T20:52:17.842078+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Chrome UEFA fotballkort – Estevão Willian Chelsea",
       "pris": 599,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/396107903",
       "funnet": "2026-07-13T19:04:21.646177+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin De Bruyne 06/25 Nummerert Panini",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383320106",
-      "funnet": "2026-07-13T19:04:20.827574+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
