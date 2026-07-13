@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T07:30:56.529211+00:00",
+  "sist_sjekket": "2026-07-13T07:32:17.519389+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner Illustration Collection Series 2",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469634643",
+      "funnet": "2026-07-13T07:32:17.517535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokèmon kort - Espeon EX 175 Promo",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469644148",
+      "funnet": "2026-07-13T07:32:16.715535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort -  Umbreon EX Promo 176",
       "pris": 375,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-12T19:20:47.688633+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon First partner Series 2 - 2x pack fresh Galar trio",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469618878",
-      "funnet": "2026-07-12T19:20:46.891507+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Chaos Rising kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469618993",
-      "funnet": "2026-07-12T19:16:15.157399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
