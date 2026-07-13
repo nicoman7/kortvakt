@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T06:28:16.549169+00:00",
+  "sist_sjekket": "2026-07-13T06:30:55.030789+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469638867",
+      "funnet": "2026-07-13T06:30:55.028745+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Trond Henriksen RBK 1983 sjeldent fotballkort klistremerke",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469615344",
       "funnet": "2026-07-12T18:36:13.865737+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Basketball Samlekort 1994-95 NBA Hoops Gold Mine",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445917400",
-      "funnet": "2026-07-12T18:32:22.677514+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
