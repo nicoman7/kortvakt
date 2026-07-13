@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T22:08:18.028467+00:00",
+  "sist_sjekket": "2026-07-13T22:10:53.988755+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon trainer, hvis noe er av interesse, kom med bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/334065202",
+      "funnet": "2026-07-13T22:10:53.987026+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ederson 051/199 Nummerert Topps Manchester City Box",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463639083",
       "funnet": "2026-07-13T19:10:57.199868+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Elite Trainer Box Chaos Rising ETB",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469704058",
-      "funnet": "2026-07-13T19:10:56.576360+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
