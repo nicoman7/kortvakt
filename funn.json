@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T11:24:23.322191+00:00",
+  "sist_sjekket": "2026-07-13T11:26:15.207667+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469664468",
+      "funnet": "2026-07-13T11:26:15.205757+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort XY generations",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462847197",
       "funnet": "2026-07-13T05:22:16.167365+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon EX-kort fra XY – Hawlucha EX / Machamp EX / Camerupt EX",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463457090",
-      "funnet": "2026-07-13T05:22:15.362831+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
