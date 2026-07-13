@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T19:56:25.774441+00:00",
+  "sist_sjekket": "2026-07-13T19:58:15.895703+00:00",
   "funn": [
+    {
+      "tittel": "Yu-Gi-Oh kortsamling med Dark Magician og flere kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469709411",
+      "funnet": "2026-07-13T19:58:15.893770+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Team Rocket's Raticate #202 Pokemon Destined Rivals",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/398620185",
       "funnet": "2026-07-13T19:01:08.160538+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo Fotballkort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/406871840",
-      "funnet": "2026-07-13T19:01:07.428263+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
