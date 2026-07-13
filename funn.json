@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T07:36:27.771398+00:00",
+  "sist_sjekket": "2026-07-13T07:38:16.119418+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon klistremerker samling",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446833667",
+      "funnet": "2026-07-13T07:38:16.117181+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Pokémon Celebrations",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469644449",
+      "funnet": "2026-07-13T07:38:15.330464+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 2",
       "pris": 650,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-12T19:20:48.528251+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Samling selges",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469619290",
-      "funnet": "2026-07-12T19:20:48.043386+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469619620",
-      "funnet": "2026-07-12T19:20:47.688633+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
