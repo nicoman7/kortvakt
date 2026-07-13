@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T09:28:21.274175+00:00",
+  "sist_sjekket": "2026-07-13T09:30:57.321490+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654069",
+      "funnet": "2026-07-13T09:30:57.319682+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Alf Inge Haaland fotballkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654018",
+      "funnet": "2026-07-13T09:30:56.711791+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Electrode #22 Pokemon Legendary Collection PSA 10",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463528178",
       "funnet": "2026-07-12T21:16:29.226801+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam LV.56 38/111 Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463528955",
-      "funnet": "2026-07-12T21:12:47.288250+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Giratina V SWSH259 Promo Pokemon kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463528510",
-      "funnet": "2026-07-12T21:12:46.357664+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
