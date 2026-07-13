@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T13:20:55.027483+00:00",
+  "sist_sjekket": "2026-07-13T13:26:40.022745+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 84/144 - Skyridge",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463191538",
+      "funnet": "2026-07-13T13:26:40.020621+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu VMAX Vivid Voltage PSA 10",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-07-13T09:04:16.667475+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece OP11 Lucky Roux Treasure Rare samlekort PSA 10",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469651209",
-      "funnet": "2026-07-13T09:01:05.583319+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
