@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T05:40:46.313038+00:00",
+  "sist_sjekket": "2026-07-13T05:42:15.095117+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469636889",
+      "funnet": "2026-07-13T05:42:15.093065+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Evolving Skies Pokemon Kort Bulk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469636927",
+      "funnet": "2026-07-13T05:42:14.736504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boundaries Crossed Pokemon Kort Bulk",
       "pris": 225,
@@ -1182,22 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469614381",
       "funnet": "2026-07-12T18:22:13.264686+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "bytte/selge VM official panini stickers 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469610405",
-      "funnet": "2026-07-12T18:22:12.650222+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hockeykort (ishockey kort)",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463386492",
-      "funnet": "2026-07-12T18:20:51.019024+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
