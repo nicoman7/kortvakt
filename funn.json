@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T07:56:15.191862+00:00",
+  "sist_sjekket": "2026-07-13T07:58:18.341618+00:00",
   "funn": [
+    {
+      "tittel": "Bakugan kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469645942",
+      "funnet": "2026-07-13T07:58:18.339351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nacho Ambriz Hot Shots holo fotballkort - Upper Deck 94",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455513216",
+      "funnet": "2026-07-13T07:58:17.546279+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Patrick Vieira 2 Arsenal 2001 Topps Premier Gold",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-12T19:32:14.271468+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Tops samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457374021",
-      "funnet": "2026-07-12T19:24:16.600083+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 klistremerker byttes eller selges",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469619852",
-      "funnet": "2026-07-12T19:22:16.867778+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
