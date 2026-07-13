@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T09:36:17.919334+00:00",
+  "sist_sjekket": "2026-07-13T09:38:16.793293+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654611",
+      "funnet": "2026-07-13T09:38:16.791408+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469654557",
+      "funnet": "2026-07-13T09:38:16.091363+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 55,
       "lenke": "https://www.finn.no/recommerce/forsale/item/453808852",
       "funnet": "2026-07-12T21:27:10.343025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – (2016-2022)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469629025",
-      "funnet": "2026-07-12T21:27:09.866730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-07-12T21:23:15.658890+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
