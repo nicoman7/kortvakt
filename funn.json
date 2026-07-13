@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-13T23:18:29.036114+00:00",
+  "sist_sjekket": "2026-07-13T23:20:49.293764+00:00",
   "funn": [
+    {
+      "tittel": "Magic the gathering kort. Hexdrinker",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455376887",
+      "funnet": "2026-07-13T23:20:49.291556+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the gathering kort. Chronozoa",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455375616",
+      "funnet": "2026-07-13T23:20:48.472281+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the gathering kort. Prismatic Vista",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469258095",
       "funnet": "2026-07-13T19:50:50.726393+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Magneton holografisk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469709023",
-      "funnet": "2026-07-13T19:50:50.283858+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer kort samling selges samlet",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469708435",
-      "funnet": "2026-07-13T19:48:16.112460+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
