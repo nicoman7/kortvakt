@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T17:08:22.427260+00:00",
+  "sist_sjekket": "2026-07-13T17:10:52.576959+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges.",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/408211553",
+      "funnet": "2026-07-13T17:10:52.574714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rampardos 13/127 HOLO pokemon kort",
       "pris": 120,
@@ -1190,14 +1198,6 @@
       "pris": 329,
       "lenke": "https://www.finn.no/recommerce/forsale/item/444476019",
       "funnet": "2026-07-13T13:12:15.702142+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard GX Hidden Fates PSA 10 kort",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469674997",
-      "funnet": "2026-07-13T13:09:49.005194+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
