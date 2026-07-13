@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-13T15:12:19.775334+00:00",
+  "sist_sjekket": "2026-07-13T15:14:23.647010+00:00",
   "funn": [
+    {
+      "tittel": "kjøper dine pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469685481",
+      "funnet": "2026-07-13T15:14:23.645186+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Cristiano Ronaldo fotballkort Golden Baller",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469684628",
+      "funnet": "2026-07-13T15:14:23.332211+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marill - Illustration Rare - Paldea Evolved - Pokemon TCG",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469685588",
+      "funnet": "2026-07-13T15:14:23.013383+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Serperior ex 156/086 – Ultra Rare / Full Art fra Black Bolt",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469654346",
       "funnet": "2026-07-13T10:40:49.238853+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Carmine PSA 10 med Extended guard - Twilight Masquersde",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469660277",
-      "funnet": "2026-07-13T10:40:48.986654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup Master Lot Zidane Pele Maldini Modric + Trippel 100/100/100",
-      "pris": 990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469660360",
-      "funnet": "2026-07-13T10:40:48.306890+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon! Charizard Spillmatte Ultra Premium Collection",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/281378127",
-      "funnet": "2026-07-13T10:36:13.871665+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
