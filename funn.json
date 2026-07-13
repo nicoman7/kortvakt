@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-13T15:46:18.800176+00:00",
+  "sist_sjekket": "2026-07-13T15:48:17.246411+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup / Limited edition og ICON kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469688438",
+      "funnet": "2026-07-13T15:48:17.244442+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Christiano Ronaldo Samlekort Holo Glins Fotball FIFA",
       "pris": 125,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-13T11:26:15.205757+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort XY generations",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454143840",
-      "funnet": "2026-07-13T11:13:16.273347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
