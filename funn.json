@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T10:56:23.394239+00:00",
+  "sist_sjekket": "2026-07-14T10:58:17.308321+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM-klistremerke Luis Díaz Colombia",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469754695",
+      "funnet": "2026-07-14T10:58:17.306589+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA samlekort Brasil limited edition Vinícius Júnior",
       "pris": 98,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/352661443",
       "funnet": "2026-07-13T23:18:24.418704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Arcbound Ravager",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/352660848",
-      "funnet": "2026-07-13T23:18:23.580476+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
