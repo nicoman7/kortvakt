@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T07:18:25.468356+00:00",
+  "sist_sjekket": "2026-07-14T07:20:48.608630+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Shining Celebi",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463234479",
+      "funnet": "2026-07-14T07:20:48.606465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Medicham Crystal Guardians holo kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463538197",
+      "funnet": "2026-07-14T07:20:47.822841+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Cacturne Samlekort 70HP",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447346391",
+      "funnet": "2026-07-14T07:20:47.442393+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Ninetales δ Delta Species holografisk",
       "pris": 2000,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463625031",
       "funnet": "2026-07-13T21:26:13.205943+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "600 stk Topps 1980-81 fotballkort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469715396",
-      "funnet": "2026-07-13T21:24:15.694255+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Star Wars Samlekort Topps Chrome Kort 13 Stk Snoke General Hux Ohnaka",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469715069",
-      "funnet": "2026-07-13T21:22:16.308233+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Lumiose City tins til salgs!",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469714881",
-      "funnet": "2026-07-13T21:20:53.398698+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
