@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T18:02:16.055730+00:00",
+  "sist_sjekket": "2026-07-14T18:04:15.103471+00:00",
   "funn": [
+    {
+      "tittel": "Steam Siege - Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416414297",
+      "funnet": "2026-07-14T18:04:15.101106+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Breakpoint - Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416414090",
+      "funnet": "2026-07-14T18:04:14.746218+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POP series 4 - Pokemon",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469776444",
       "funnet": "2026-07-14T15:02:17.258123+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA-gradert Pokémon kort lot – japanske holo kort",
-      "pris": 185,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469776247",
-      "funnet": "2026-07-14T15:01:04.753510+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samler perm / binder Vaporeon til Pokémon kort (Helt ny)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469776213",
-      "funnet": "2026-07-14T14:58:23.399792+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
