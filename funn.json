@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T17:36:20.169495+00:00",
+  "sist_sjekket": "2026-07-14T17:38:16.486231+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort bunke / samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469789399",
+      "funnet": "2026-07-14T17:38:16.484503+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 1999 Pokemon Action Flipz Series One 3-D Chase",
+      "pris": 695,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463784272",
+      "funnet": "2026-07-14T17:38:16.213940+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Sticker Album – Serie 2 (Merlin / Topps, ca. 1999)",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-14T14:52:20.096309+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini VM 2026 fotballkort Erling Haaland Icon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469775709",
-      "funnet": "2026-07-14T14:50:55.708099+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Gold Metal-kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469775509",
-      "funnet": "2026-07-14T14:50:54.920596+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
