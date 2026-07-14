@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T13:34:17.866740+00:00",
+  "sist_sjekket": "2026-07-14T13:36:19.171749+00:00",
   "funn": [
+    {
+      "tittel": "Lionel Messi limited edition kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469769259",
+      "funnet": "2026-07-14T13:36:19.169998+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA klistremerke Alphonso Davies Extra Sticker",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469769396",
+      "funnet": "2026-07-14T13:36:18.777190+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Achraf Hakimi Extra Sticker",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/321987079",
       "funnet": "2026-07-14T08:04:18.325509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Cards / Samlekort Bulk + Foils - LOTR / FF7 / Spider Man",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469738279",
-      "funnet": "2026-07-14T08:01:03.320211+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA samlekort med Haaland m.m.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469737967",
-      "funnet": "2026-07-14T07:52:14.982680+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
