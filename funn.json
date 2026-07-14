@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T16:56:23.754159+00:00",
+  "sist_sjekket": "2026-07-14T16:58:17.122482+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon selges!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469785706",
+      "funnet": "2026-07-14T16:58:17.120147+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Caterpie holografisk kort",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-14T14:22:18.906410+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu EX promo kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469773146",
-      "funnet": "2026-07-14T14:18:18.569408+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
