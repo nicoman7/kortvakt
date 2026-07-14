@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T16:22:18.451436+00:00",
+  "sist_sjekket": "2026-07-14T16:24:19.809634+00:00",
   "funn": [
+    {
+      "tittel": "Skyridge Pokemonkort til salgs!",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463771313",
+      "funnet": "2026-07-14T16:24:19.807711+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort Expeditions selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463773001",
+      "funnet": "2026-07-14T16:24:19.454527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Aquapolis selges",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463773860",
+      "funnet": "2026-07-14T16:24:19.046343+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort mappe med kort",
       "pris": 2000,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469769712",
       "funnet": "2026-07-14T13:41:48.164694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi limited edition kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769259",
-      "funnet": "2026-07-14T13:36:19.169998+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA klistremerke Alphonso Davies Extra Sticker",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769396",
-      "funnet": "2026-07-14T13:36:18.777190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Achraf Hakimi Extra Sticker",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769207",
-      "funnet": "2026-07-14T13:34:17.864990+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
