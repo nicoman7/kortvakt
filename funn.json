@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T19:06:16.319195+00:00",
+  "sist_sjekket": "2026-07-14T19:08:17.497125+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard og Charmander samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469796734",
+      "funnet": "2026-07-14T19:08:17.495087+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚡Zapdos Mystery Tin – 100 Pokémonkort + freebie⚡",
       "pris": 199,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446126982",
       "funnet": "2026-07-14T15:48:19.066967+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kayla Harrison / Ailin Perez - UFC - samlerkort - Finest",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455702431",
-      "funnet": "2026-07-14T15:48:18.716961+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
