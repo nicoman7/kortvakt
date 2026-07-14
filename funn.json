@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T08:02:19.921774+00:00",
+  "sist_sjekket": "2026-07-14T08:04:18.327769+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort - Chelsea",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/321987079",
+      "funnet": "2026-07-14T08:04:18.325509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering Cards / Samlekort Bulk + Foils - LOTR / FF7 / Spider Man",
       "pris": 199,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463605232",
       "funnet": "2026-07-13T23:06:20.026206+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Cleansing Meditation",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463605933",
-      "funnet": "2026-07-13T23:06:19.162489+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
