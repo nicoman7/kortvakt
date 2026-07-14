@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T23:10:50.125982+00:00",
+  "sist_sjekket": "2026-07-14T23:12:18.180276+00:00",
   "funn": [
+    {
+      "tittel": "Erling Braut Haaland fotballkort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469812087",
+      "funnet": "2026-07-14T23:12:18.178365+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "The Astrological Tarot bok og kortstokk 78 kort",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/455757220",
       "funnet": "2026-07-14T19:18:16.398701+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Beautifly japansk holo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469798032",
-      "funnet": "2026-07-14T19:18:15.770784+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
