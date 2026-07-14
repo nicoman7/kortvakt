@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T11:40:45.962840+00:00",
+  "sist_sjekket": "2026-07-14T11:42:19.379366+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleperm med kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469759258",
+      "funnet": "2026-07-14T11:42:19.377749+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon tins åpnet",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/296191800",
       "funnet": "2026-07-14T05:26:21.971460+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Paolo Maldini Pitch Kings Italia Panini",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397931517",
-      "funnet": "2026-07-14T05:26:21.623941+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
