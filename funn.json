@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T11:46:13.941336+00:00",
+  "sist_sjekket": "2026-07-14T11:48:17.090554+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon åpnet boosterbundle",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469759467",
+      "funnet": "2026-07-14T11:48:17.088793+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samleperm med kort",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469555531",
       "funnet": "2026-07-14T05:58:15.839866+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eric Cantona Panini Euro 96 sticker",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/296191800",
-      "funnet": "2026-07-14T05:26:21.971460+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
