@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T18:50:48.906227+00:00",
+  "sist_sjekket": "2026-07-14T18:52:18.314949+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Illustration series 1",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466108945",
+      "funnet": "2026-07-14T18:52:18.312849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Cinccino",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469778815",
       "funnet": "2026-07-14T15:30:57.493904+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Euro 2024 metallboks",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469778610",
-      "funnet": "2026-07-14T15:30:56.609281+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
