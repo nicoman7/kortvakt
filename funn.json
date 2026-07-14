@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T07:04:14.413967+00:00",
+  "sist_sjekket": "2026-07-14T07:06:21.264428+00:00",
   "funn": [
+    {
+      "tittel": "Samling Pokémon GX/EX/V kort og brikker - kom med bud!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463678176",
+      "funnet": "2026-07-14T07:06:21.262435+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pitch Black Etb",
       "pris": 1999,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469714571",
       "funnet": "2026-07-13T21:08:17.803756+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Max Verstappen F1 samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469714523",
-      "funnet": "2026-07-13T21:08:16.955113+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
