@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T17:54:17.631866+00:00",
+  "sist_sjekket": "2026-07-14T17:56:17.521766+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon GO",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416869957",
+      "funnet": "2026-07-14T17:56:17.520048+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Diverse japanske full art pokémon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469790519",
+      "funnet": "2026-07-14T17:56:16.925489+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fates Collide - Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416413929",
+      "funnet": "2026-07-14T17:56:16.333874+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Pitch Black etb",
       "pris": 1500,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469776019",
       "funnet": "2026-07-14T14:54:19.710926+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon PokéTrivia Samlekort (promo materiale?)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435253127",
-      "funnet": "2026-07-14T14:54:18.883860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "9 stk nye Pokemon McDonald's Promo Packs 2023 – uåpnede",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379136694",
-      "funnet": "2026-07-14T14:54:18.221466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Luvdisc EX Crystal Guardians",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469775787",
-      "funnet": "2026-07-14T14:54:17.550634+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
