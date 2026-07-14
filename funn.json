@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T09:32:16.311393+00:00",
+  "sist_sjekket": "2026-07-14T09:34:19.838158+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Rare Candy  samlekort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458861582",
+      "funnet": "2026-07-14T09:34:19.835990+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini VM 2026 kort selges",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469719424",
       "funnet": "2026-07-13T23:14:18.969985+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Graven Cairns",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/353303105",
-      "funnet": "2026-07-13T23:14:18.318249+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
