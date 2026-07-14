@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T22:06:18.523367+00:00",
+  "sist_sjekket": "2026-07-14T22:08:17.639428+00:00",
   "funn": [
+    {
+      "tittel": "STOR POKEMON KORT SALG",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469809636",
+      "funnet": "2026-07-14T22:08:17.637724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo lv. 51 9/100",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469810269",
+      "funnet": "2026-07-14T22:08:16.753507+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Drgonite EX holografisk",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463753697",
       "funnet": "2026-07-14T18:48:18.910928+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon series 1 set",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469795320",
-      "funnet": "2026-07-14T18:48:18.013944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av baseballkort i album",
-      "pris": 330,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440925482",
-      "funnet": "2026-07-14T18:44:15.681299+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
