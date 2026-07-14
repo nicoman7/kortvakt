@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T21:20:55.283064+00:00",
+  "sist_sjekket": "2026-07-14T21:22:16.096984+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Arceus kortlot – 3 stk AR 6 AR7 AR8",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469807589",
+      "funnet": "2026-07-14T21:22:16.095165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Dialga Vstar 114 CGC9",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463737223",
+      "funnet": "2026-07-14T21:22:15.355729+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Dialga LV.X Level-Up",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-14T17:58:21.147047+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holokort - Prismatic evolutions",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389633647",
-      "funnet": "2026-07-14T17:58:20.284967+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Evolutions - Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416414794",
-      "funnet": "2026-07-14T17:58:19.413834+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
