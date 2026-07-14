@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T21:40:57.483968+00:00",
+  "sist_sjekket": "2026-07-14T21:42:19.769504+00:00",
   "funn": [
+    {
+      "tittel": "Lamine Yamal – 4 spesialkort! Limited Edition & Gold",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469808688",
+      "funnet": "2026-07-14T21:42:19.767676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Ultra Necrozma GX",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469808943",
+      "funnet": "2026-07-14T21:42:19.022983+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Muk & alolan Muk GX Tag Team kort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469808951",
+      "funnet": "2026-07-14T21:42:18.240887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Espeon & deoxys GX TAG TEAM kort",
       "pris": 300,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-14T18:16:18.595393+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling braut Haaland HOLO fotballkort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469698802",
-      "funnet": "2026-07-14T18:08:20.995507+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Steam Siege - Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416414297",
-      "funnet": "2026-07-14T18:04:15.101106+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Breakpoint - Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416414090",
-      "funnet": "2026-07-14T18:04:14.746218+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
