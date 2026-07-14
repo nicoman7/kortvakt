@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T16:32:14.625232+00:00",
+  "sist_sjekket": "2026-07-14T16:34:16.899201+00:00",
   "funn": [
+    {
+      "tittel": "Poliwrath [1st Edition] #9 Pokemon Neo Discovery",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452984934",
+      "funnet": "2026-07-14T16:34:16.897408+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #27 Pokemon Promo",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452988517",
+      "funnet": "2026-07-14T16:34:16.067172+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #1/SV-P Pokemon Chinese Promo",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452989303",
+      "funnet": "2026-07-14T16:34:15.743701+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Slowbro (090/084) Illustration Rare",
       "pris": 450,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-14T13:44:21.566655+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini VM 2022 ekstra klistremerke Lionel Messi Argentina",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769913",
-      "funnet": "2026-07-14T13:44:21.164322+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 samlebok",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769797",
-      "funnet": "2026-07-14T13:44:20.849530+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469769033",
-      "funnet": "2026-07-14T13:44:19.851125+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
