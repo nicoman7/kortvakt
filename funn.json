@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-14T20:41:01.415635+00:00",
+  "sist_sjekket": "2026-07-14T20:42:20.836707+00:00",
   "funn": [
+    {
+      "tittel": "VM 2026 fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469804568",
+      "funnet": "2026-07-14T20:42:20.834834+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Darkrai",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469804932",
+      "funnet": "2026-07-14T20:42:20.028800+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vaporeon #022 • Rare • Pokemon Prismatic Evolutions",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463815000",
+      "funnet": "2026-07-14T20:42:19.152924+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Forretress samlekort",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469787398",
       "funnet": "2026-07-14T17:18:20.578385+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Koffing lv.18",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469787294",
-      "funnet": "2026-07-14T17:12:16.059887+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lucario LV.X holografisk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469787055",
-      "funnet": "2026-07-14T17:10:56.160421+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salg av diverse hits - Salg av pokemonsamling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469786797",
-      "funnet": "2026-07-14T17:10:55.324167+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
