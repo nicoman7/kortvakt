@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T21:32:15.204693+00:00",
+  "sist_sjekket": "2026-07-14T21:34:15.359855+00:00",
   "funn": [
+    {
+      "tittel": "Nummerert 31/99 Topps Merlin Chosen Ones fotballkort Charalampos Kostoulas",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460950059",
+      "funnet": "2026-07-14T21:34:15.358509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – greninja GX",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469808491",
+      "funnet": "2026-07-14T21:34:14.993246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor Pokemon bulk",
       "pris": 1999,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-14T18:01:32.474877+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon undaunted - bulk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416775468",
-      "funnet": "2026-07-14T18:01:31.612929+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samleperm med 252 bulkkort (holo inkludert)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469791063",
-      "funnet": "2026-07-14T18:01:30.729850+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
