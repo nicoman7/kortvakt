@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T07:46:18.434653+00:00",
+  "sist_sjekket": "2026-07-14T07:48:14.885718+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406579810",
+      "funnet": "2026-07-14T07:48:14.883298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 650,
@@ -1190,14 +1198,6 @@
       "pris": 280,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469717785",
       "funnet": "2026-07-13T22:14:16.600798+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Applin kort ønskes",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469717623",
-      "funnet": "2026-07-13T22:12:16.983542+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
