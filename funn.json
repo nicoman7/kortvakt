@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T21:31:05.571428+00:00",
+  "sist_sjekket": "2026-07-14T21:32:15.204693+00:00",
   "funn": [
+    {
+      "tittel": "Stor Pokemon bulk",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469808391",
+      "funnet": "2026-07-14T21:32:15.202629+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Extra Sticker Cristiano Ronaldo",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-14T18:01:30.729850+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemon fra 2018",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416811814",
-      "funnet": "2026-07-14T18:01:29.893512+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
