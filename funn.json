@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T13:22:16.767246+00:00",
+  "sist_sjekket": "2026-07-14T13:29:29.942602+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax samling fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469767606",
+      "funnet": "2026-07-14T13:29:29.940650+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Baseball samlekort – Jackie Robinson og Mike Trout",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/286867090",
       "funnet": "2026-07-14T07:51:00.322081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/341141432",
-      "funnet": "2026-07-14T07:50:59.422764+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
