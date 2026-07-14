@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-14T15:18:20.065489+00:00",
+  "sist_sjekket": "2026-07-14T15:20:51.910716+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Bulbasaur",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469778201",
+      "funnet": "2026-07-14T15:20:51.908777+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Hitmonchan",
       "pris": 130,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469758758",
       "funnet": "2026-07-14T11:38:19.883446+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlekortperm m. 423 Energikort",
-      "pris": 423,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435021431",
-      "funnet": "2026-07-14T11:34:23.590898+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
