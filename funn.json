@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T20:44:14.669658+00:00",
+  "sist_sjekket": "2026-07-15T20:46:22.292252+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - 35kr per stk",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469891432",
+      "funnet": "2026-07-15T20:46:22.290369+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps F1 Turbo Attax 2026 Hamilton & Antonelli",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469891019",
+      "funnet": "2026-07-15T20:46:21.908555+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - 30kr per stk",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463611944",
       "funnet": "2026-07-15T17:01:04.455640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Prismatic Evolutions pokemonkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397596205",
-      "funnet": "2026-07-15T17:01:03.874027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Stellar Crown",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/380234361",
-      "funnet": "2026-07-15T17:01:03.601377+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
