@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-15T07:16:14.567541+00:00",
+  "sist_sjekket": "2026-07-15T07:18:28.609934+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469821490",
+      "funnet": "2026-07-15T07:18:28.607626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Neymar Jr PSG Panini Adrenalyn XL",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/361878237",
+      "funnet": "2026-07-15T07:18:27.999751+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 56/236 Common Sun & Moon Unified Minds",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469821384",
+      "funnet": "2026-07-15T07:18:27.380043+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Goldeen",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469805759",
       "funnet": "2026-07-14T20:56:14.867636+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Charmander 50 HP holo 113\\112",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469805654",
-      "funnet": "2026-07-14T20:54:15.564097+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Limited Edition 350 Coins Kode",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469805278",
-      "funnet": "2026-07-14T20:50:50.144822+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Monferno reverse Holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469805266",
-      "funnet": "2026-07-14T20:48:17.678533+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
