@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T05:48:19.492360+00:00",
+  "sist_sjekket": "2026-07-15T05:50:44.743579+00:00",
   "funn": [
+    {
+      "tittel": "Boing VM 1994 spesial fotballbok",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469816672",
+      "funnet": "2026-07-15T05:50:44.741500+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Karim Adeyemi Epicenter EC-12 SSP / Case Hit - Topps Flagship UCC 2025/26",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469801995",
       "funnet": "2026-07-14T20:08:19.246580+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Deoxys -  Sjeldne pokemon kort, holo, shiny, japansk, WOTC, 1st Edition vintage",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469801716",
-      "funnet": "2026-07-14T20:06:19.125461+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
