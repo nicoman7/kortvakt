@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T06:46:16.222170+00:00",
+  "sist_sjekket": "2026-07-15T06:48:14.371638+00:00",
   "funn": [
+    {
+      "tittel": "Magic The Gathering MTG kortsamling",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469818905",
+      "funnet": "2026-07-15T06:48:14.369418+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pitch Black ETB HELT NY",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/377518168",
       "funnet": "2026-07-14T20:36:16.700757+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Slugma",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469804551",
-      "funnet": "2026-07-14T20:36:16.273218+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
