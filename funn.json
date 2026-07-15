@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T07:26:17.749705+00:00",
+  "sist_sjekket": "2026-07-15T07:28:15.988757+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469822306",
+      "funnet": "2026-07-15T07:28:15.986251+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort - Poplio, Brionne & Primarina",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469822355",
+      "funnet": "2026-07-15T07:28:15.378440+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Mega Darkrai EX",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-14T21:12:17.077832+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Moltres Holo Kort Brilliant Stars Samlekort",
-      "pris": 22,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469806957",
-      "funnet": "2026-07-14T21:12:16.728328+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Euro 2016 klistremerker - ca. 160 stk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/243378516",
-      "funnet": "2026-07-14T21:12:16.258749+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
