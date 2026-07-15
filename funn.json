@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T15:56:21.221378+00:00",
+  "sist_sjekket": "2026-07-15T15:58:20.733378+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Qatar 2022 fotballkort – Limited Edition samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469868222",
+      "funnet": "2026-07-15T15:58:20.731346+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended heroes - Mega Hawlucha ex 268/217 - Mega Attack Rare",
       "pris": 80,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T11:14:16.816357+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon ting selges samlet",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469845394",
-      "funnet": "2026-07-15T11:14:16.055925+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
