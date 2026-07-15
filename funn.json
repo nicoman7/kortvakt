@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T14:54:19.790990+00:00",
+  "sist_sjekket": "2026-07-15T14:56:18.500243+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Gem Vol 1 - Quaxwell(CN) 0608/08",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469863656",
+      "funnet": "2026-07-15T14:56:18.498135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469863497",
+      "funnet": "2026-07-15T14:56:18.172088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon WotC promo kort selges!",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-15T09:52:17.686673+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort lot – holo og full art kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469834730",
-      "funnet": "2026-07-15T09:50:51.229862+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gengar",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469834829",
-      "funnet": "2026-07-15T09:46:17.955179+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
