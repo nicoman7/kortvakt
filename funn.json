@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T19:52:13.887517+00:00",
+  "sist_sjekket": "2026-07-15T19:54:19.657092+00:00",
   "funn": [
+    {
+      "tittel": "Match attax fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397190814",
+      "funnet": "2026-07-15T19:54:19.654999+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Gyarados GX Rainbow Rare",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 130,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469870351",
       "funnet": "2026-07-15T16:20:55.212444+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldne Pokemon kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469870298",
-      "funnet": "2026-07-15T16:20:54.440147+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
