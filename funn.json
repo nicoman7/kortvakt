@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T11:12:14.101528+00:00",
+  "sist_sjekket": "2026-07-15T11:14:16.818423+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon McDonald’s Pikachu promo",
+      "pris": 420,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469843852",
+      "funnet": "2026-07-15T11:14:16.816357+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon ting selges samlet",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469845394",
+      "funnet": "2026-07-15T11:14:16.055925+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Simipour 042/189 bleknet error kort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469814543",
       "funnet": "2026-07-15T06:06:19.765778+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort lot – Gengar, Victini VMAX, Kingdra, Pikachu ++ – holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469816334",
-      "funnet": "2026-07-15T06:06:19.357028+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Phantasmal Flame sleeve",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469814427",
-      "funnet": "2026-07-15T06:06:18.960700+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
