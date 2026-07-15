@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T19:40:51.336853+00:00",
+  "sist_sjekket": "2026-07-15T19:42:15.482927+00:00",
   "funn": [
+    {
+      "tittel": "Anime Tarot kortstokk",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469886700",
+      "funnet": "2026-07-15T19:42:15.480856+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling fotballkort boing klubben",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T16:14:19.432607+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Sprigatito 251/217",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469869737",
-      "funnet": "2026-07-15T16:12:18.171288+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
