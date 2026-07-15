@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-14T23:58:18.306228+00:00",
+  "sist_sjekket": "2026-07-15T00:01:03.956328+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/329326483",
+      "funnet": "2026-07-15T00:01:03.954209+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/329327899",
+      "funnet": "2026-07-15T00:01:03.663396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Snorlax promo 122 (gratis frakt)",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469798889",
       "funnet": "2026-07-14T19:28:15.594252+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Gengar EX",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469798724",
-      "funnet": "2026-07-14T19:26:19.464781+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Mega Charizard EX",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469798526",
-      "funnet": "2026-07-14T19:26:18.631559+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
