@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-15T16:58:18.303379+00:00",
+  "sist_sjekket": "2026-07-15T17:01:05.656715+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Destined Rivals",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416804506",
+      "funnet": "2026-07-15T17:01:05.655078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rayquazal og Heracross Pokémon kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469873266",
+      "funnet": "2026-07-15T17:01:05.071099+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort kodekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463611944",
+      "funnet": "2026-07-15T17:01:04.455640+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Prismatic Evolutions pokemonkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397596205",
+      "funnet": "2026-07-15T17:01:03.874027+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Stellar Crown",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/380234361",
+      "funnet": "2026-07-15T17:01:03.601377+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ultra Prism Looker 152/156",
       "pris": 210,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469849042",
       "funnet": "2026-07-15T12:12:16.593610+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aerodactyl Skyridge 1/144 Rare Non-Holo (LP)",
-      "pris": 395,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429716233",
-      "funnet": "2026-07-15T12:10:55.651630+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ledian #15 Pokemon Skyridge",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463819926",
-      "funnet": "2026-07-15T12:10:54.798920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kingdra [Reverse Holo] #19 Pokemon Aquapolis",
-      "pris": 395,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429716682",
-      "funnet": "2026-07-15T12:10:54.383930+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Camerupt #4 Pokemon Ruby & Sapphire",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463819566",
-      "funnet": "2026-07-15T12:10:53.602532+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Donphan #3 Pokemon Neo Destiny",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463819758",
-      "funnet": "2026-07-15T12:10:52.814628+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
