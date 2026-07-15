@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T18:18:15.477058+00:00",
+  "sist_sjekket": "2026-07-15T18:20:48.858426+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469879987",
+      "funnet": "2026-07-15T18:20:48.856590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Yveltal 25",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469879886",
+      "funnet": "2026-07-15T18:20:48.216109+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Luka Modric - En ekte fotballegende!",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469855463",
       "funnet": "2026-07-15T13:36:19.210008+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort - Golden baller - XXL Limited Edition",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469853127",
-      "funnet": "2026-07-15T13:31:00.426656+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Claydol LV.45 holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469855918",
-      "funnet": "2026-07-15T13:22:20.715466+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
