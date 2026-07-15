@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T04:04:17.547304+00:00",
+  "sist_sjekket": "2026-07-15T04:06:14.046636+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Rayquaza ex samlekort – CCG 3.5",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462916804",
+      "funnet": "2026-07-15T04:06:14.044648+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 2",
       "pris": 650,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-14T20:02:19.204045+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/372211530",
-      "funnet": "2026-07-14T20:02:18.366653+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
