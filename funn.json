@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-15T19:36:28.620323+00:00",
+  "sist_sjekket": "2026-07-15T19:38:16.761966+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort boing klubben",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469886129",
+      "funnet": "2026-07-15T19:38:16.759929+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard EX holografisk samlekort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469886359",
+      "funnet": "2026-07-15T19:38:16.416792+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469885870",
+      "funnet": "2026-07-15T19:38:16.055193+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA fotballkort samling med metallboks",
       "pris": 500,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469869737",
       "funnet": "2026-07-15T16:12:18.171288+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes  Counter Gain 259/217",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469869480",
-      "funnet": "2026-07-15T16:10:55.936019+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldne Pokemon kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469869132",
-      "funnet": "2026-07-15T16:10:55.154779+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "4x Pokémon Snubbull SM200 Holo Promo – Detective Pikachu",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463669296",
-      "funnet": "2026-07-15T16:06:19.853360+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
