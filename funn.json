@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T02:06:16.696926+00:00",
+  "sist_sjekket": "2026-07-15T02:08:19.080334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemom kort - Eiscue (Promo)",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/321258114",
+      "funnet": "2026-07-15T02:08:19.076447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra Prismatic Evolutions - non holo / rev.holo / holo",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/389461356",
+      "funnet": "2026-07-15T02:08:18.267819+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra Unbroken Bonds - Pokegear 3.0 (Secret)",
       "pris": 550,
@@ -1182,22 +1198,6 @@
       "pris": 1950,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469799834",
       "funnet": "2026-07-14T19:44:20.156250+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort Selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469799986",
-      "funnet": "2026-07-14T19:44:19.268926+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Selger hele Pokémon samlingen, førstemann til mølla",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469799669",
-      "funnet": "2026-07-14T19:40:50.994160+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
