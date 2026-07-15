@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T19:46:17.434342+00:00",
+  "sist_sjekket": "2026-07-15T19:48:15.570597+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Dream - japansk",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469885514",
+      "funnet": "2026-07-15T19:48:15.568436+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Anime Tarot kortstokk",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T16:16:17.444893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pitch black etb bulk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469869866",
-      "funnet": "2026-07-15T16:14:19.432607+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
