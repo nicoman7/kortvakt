@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T12:22:16.464309+00:00",
+  "sist_sjekket": "2026-07-15T12:24:15.762680+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort stands 12.stk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469850661",
+      "funnet": "2026-07-15T12:24:15.760557+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Extra Sticker FIFA World Cup 2026 Cristiano Ronaldo",
       "pris": 650,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T07:50:57.036059+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Night Stretcher #137 - Super Electric Breaker | Pokemon",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407266148",
-      "funnet": "2026-07-15T07:50:56.136467+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
