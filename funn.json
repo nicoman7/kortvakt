@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T18:32:22.764266+00:00",
+  "sist_sjekket": "2026-07-15T18:34:22.856373+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469881148",
+      "funnet": "2026-07-15T18:34:22.854536+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini XL FIFA World Cup 2026 (365 stk)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469881108",
+      "funnet": "2026-07-15T18:34:22.546241+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Figurine Panini Football 84 - Oppdatert 16.05.2026",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-15T13:51:00.436577+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mix fotball kort - ink WC26 kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469857999",
-      "funnet": "2026-07-15T13:50:59.632733+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Heartgold soulsilver",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469858037",
-      "funnet": "2026-07-15T13:50:58.851260+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
