@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T05:20:50.962184+00:00",
+  "sist_sjekket": "2026-07-15T05:22:17.253978+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462983009",
+      "funnet": "2026-07-15T05:22:17.251857+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Rayquaza ex samlekort – CCG 3.5",
       "pris": 2000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469801004",
       "funnet": "2026-07-14T20:06:18.219171+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort bunt med holo og full art",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469801703",
-      "funnet": "2026-07-14T20:02:19.204045+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
