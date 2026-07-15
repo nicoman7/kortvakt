@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T20:58:20.065090+00:00",
+  "sist_sjekket": "2026-07-15T21:00:57.367013+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - 60kr per stk",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469892322",
+      "funnet": "2026-07-15T21:00:57.364999+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Gem vol 3. Kinesisk booster box",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469873803",
       "funnet": "2026-07-15T17:04:18.329912+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flying Pikachu V - Celebrations Pokemon 25th Anniversary",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469873915",
-      "funnet": "2026-07-15T17:04:18.020401+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
