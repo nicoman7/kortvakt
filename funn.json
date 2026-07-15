@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T14:58:18.440022+00:00",
+  "sist_sjekket": "2026-07-15T15:01:10.744014+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Wigglytuff inferno X 091/080",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469864106",
+      "funnet": "2026-07-15T15:01:10.741956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gem Vol 1 - Quaxwell(CN) 0608/08",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T09:52:18.539485+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med ekslusive fotballkort",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469835688",
-      "funnet": "2026-07-15T09:52:17.686673+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
