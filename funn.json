@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T11:14:16.818423+00:00",
+  "sist_sjekket": "2026-07-15T11:16:17.416953+00:00",
   "funn": [
+    {
+      "tittel": "K-pop photocard samling",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469843631",
+      "funnet": "2026-07-15T11:16:17.414710+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon McDonald’s Pikachu promo",
       "pris": 420,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469814418",
       "funnet": "2026-07-15T06:06:20.544750+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ignition Energy Special Energy 124",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469814543",
-      "funnet": "2026-07-15T06:06:19.765778+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
