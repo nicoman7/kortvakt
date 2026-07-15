@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T12:24:15.762680+00:00",
+  "sist_sjekket": "2026-07-15T12:26:15.726592+00:00",
   "funn": [
+    {
+      "tittel": "LOL SURPRISE Glitter Glow -Panini-LIMITED EDITION - DRIP DROP",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469850694",
+      "funnet": "2026-07-15T12:26:15.724534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort stands 12.stk",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T07:50:57.779480+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort/ 1995 - 2026",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469823502",
-      "funnet": "2026-07-15T07:50:57.036059+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
