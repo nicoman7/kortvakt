@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T20:40:46.343692+00:00",
+  "sist_sjekket": "2026-07-15T20:42:17.786525+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - 30kr per stk",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469891285",
+      "funnet": "2026-07-15T20:42:17.784462+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "pokermon kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/380234361",
       "funnet": "2026-07-15T17:01:03.601377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ultra Prism Looker 152/156",
-      "pris": 210,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469873134",
-      "funnet": "2026-07-15T16:56:19.539116+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
