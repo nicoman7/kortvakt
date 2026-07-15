@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T18:22:20.520431+00:00",
+  "sist_sjekket": "2026-07-15T18:24:20.684488+00:00",
   "funn": [
+    {
+      "tittel": "E.T. Samlekort fra Stjerneposen byttes",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/178258284",
+      "funnet": "2026-07-15T18:24:20.682863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Figurine Panini Football 87 - Oppdatert 16.05.2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/179284391",
+      "funnet": "2026-07-15T18:24:20.305046+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Star Wars 1997 - Bytte merker ?",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-15T13:40:49.853300+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon majestic dawn",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469857240",
-      "funnet": "2026-07-15T13:40:49.238827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON KORT",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469856863",
-      "funnet": "2026-07-15T13:40:48.559206+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
