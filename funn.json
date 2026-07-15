@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T08:44:23.746260+00:00",
+  "sist_sjekket": "2026-07-15T08:46:15.514913+00:00",
   "funn": [
+    {
+      "tittel": "Crystal Holos - Skyridge 2003",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/435845803",
+      "funnet": "2026-07-15T08:46:15.513026+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469828947",
+      "funnet": "2026-07-15T08:46:15.077993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "bulbasaur ivysaur venusaur Pokemon Kort samling",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469345012",
       "funnet": "2026-07-14T21:58:18.371874+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Blastoise",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469809869",
-      "funnet": "2026-07-14T21:58:17.602635+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Celebi V Fusion Strike kort CGC 10",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469809426",
-      "funnet": "2026-07-14T21:58:16.895127+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
