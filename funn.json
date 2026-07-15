@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T20:56:17.339452+00:00",
+  "sist_sjekket": "2026-07-15T20:58:20.065090+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Gem vol 3. Kinesisk booster box",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469892284",
+      "funnet": "2026-07-15T20:58:20.063332+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Anfernee Hardaway basketballkort - Nuts & Bolts Fleer Metal",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 89,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469873915",
       "funnet": "2026-07-15T17:04:18.020401+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Destined Rivals",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416804506",
-      "funnet": "2026-07-15T17:01:05.655078+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
