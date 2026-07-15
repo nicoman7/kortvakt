@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T19:32:14.323347+00:00",
+  "sist_sjekket": "2026-07-15T19:34:14.818224+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA fotballkort samling med metallboks",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469873466",
+      "funnet": "2026-07-15T19:34:14.816186+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ørn Horten Norgesmester 1930 Michael Paulsen lagbilde x 2 Tiedemanns fotballkort",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463669296",
       "funnet": "2026-07-15T16:06:19.853360+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Canari 257/217",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469869337",
-      "funnet": "2026-07-15T16:06:18.984004+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
