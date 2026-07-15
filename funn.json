@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T18:01:00.047457+00:00",
+  "sist_sjekket": "2026-07-15T18:02:19.123916+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469878443",
+      "funnet": "2026-07-15T18:02:19.121912+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ultra PRO samleperm – Mimikyu/Gengar – 14 ark",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469856029",
       "funnet": "2026-07-15T13:22:19.914922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Forskjellige fotballkort",
-      "pris": 1850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469855135",
-      "funnet": "2026-07-15T13:18:16.618301+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
