@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T07:24:22.345347+00:00",
+  "sist_sjekket": "2026-07-15T07:26:17.749705+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Mega Darkrai EX",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469822052",
+      "funnet": "2026-07-15T07:26:17.747318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon pawmot ex 073/197 sealed promo",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-14T21:12:16.258749+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Pitch Black - Elite Trainer Box & booster bundle",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469806896",
-      "funnet": "2026-07-14T21:12:15.535547+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
