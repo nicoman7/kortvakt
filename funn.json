@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T15:08:15.912971+00:00",
+  "sist_sjekket": "2026-07-15T15:11:15.359273+00:00",
   "funn": [
+    {
+      "tittel": "Morpeko ex #117 Pokemon Pitch Black",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469864836",
+      "funnet": "2026-07-15T15:11:15.357290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece Kort Nami OP10/033 Promo Japansk",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469864971",
+      "funnet": "2026-07-15T15:11:14.726761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ninjaspinner Fennekin(JP) 085/083",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-15T10:01:06.157056+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu #22/M-P Pokemon Japanese Promo PSA 10",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453933387",
-      "funnet": "2026-07-15T10:01:05.090876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med ekslusive fotballkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469836081",
-      "funnet": "2026-07-15T09:56:19.390804+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
