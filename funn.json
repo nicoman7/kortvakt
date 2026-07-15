@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T19:22:19.748586+00:00",
+  "sist_sjekket": "2026-07-15T19:24:17.395476+00:00",
   "funn": [
+    {
+      "tittel": "Weiss Schwarz Japanese Disney 100 kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469885297",
+      "funnet": "2026-07-15T19:24:17.393227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon: McDonalds Match Battle 2023",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469867329",
       "funnet": "2026-07-15T15:46:24.548985+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moomin/Mummi TCG (Panini)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469867296",
-      "funnet": "2026-07-15T15:46:23.723010+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
