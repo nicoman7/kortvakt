@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T13:16:16.833047+00:00",
+  "sist_sjekket": "2026-07-15T13:18:16.620228+00:00",
   "funn": [
+    {
+      "tittel": "Forskjellige fotballkort",
+      "pris": 1850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469855135",
+      "funnet": "2026-07-15T13:18:16.618301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Snorlax VMAX Ultra Rare",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469830406",
       "funnet": "2026-07-15T08:58:17.331280+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Zacian VMAX kort selges",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469830099",
-      "funnet": "2026-07-15T08:56:18.581644+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
