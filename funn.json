@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-15T18:34:22.856373+00:00",
+  "sist_sjekket": "2026-07-15T18:36:16.280472+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469881462",
+      "funnet": "2026-07-15T18:36:16.278527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse Pokémon kort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469881220",
+      "funnet": "2026-07-15T18:36:16.027037+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469881268",
+      "funnet": "2026-07-15T18:36:15.438183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball kort",
       "pris": 40,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-15T13:54:20.510013+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Machamp samlekort holografisk",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452305792",
-      "funnet": "2026-07-15T13:51:01.345616+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Trainer kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469858111",
-      "funnet": "2026-07-15T13:51:00.842380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kom med bud",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469858014",
-      "funnet": "2026-07-15T13:51:00.436577+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
