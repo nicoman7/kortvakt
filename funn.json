@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T20:36:20.490245+00:00",
+  "sist_sjekket": "2026-07-15T20:38:20.552049+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - 25kr per stk",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469890942",
+      "funnet": "2026-07-15T20:38:20.550065+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Surfing Pikachu #111/108",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469890960",
+      "funnet": "2026-07-15T20:38:20.288715+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - 10kr per stk",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469873525",
       "funnet": "2026-07-15T16:56:18.911146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Jungle Set Samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469873208",
-      "funnet": "2026-07-15T16:56:18.266700+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perfect order Yvetal EX 105/088",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469872883",
-      "funnet": "2026-07-15T16:54:15.951257+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
