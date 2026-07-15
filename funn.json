@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-15T21:02:26.884430+00:00",
+  "sist_sjekket": "2026-07-15T21:04:16.809275+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - 75kr per stk",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469892440",
+      "funnet": "2026-07-15T21:04:16.807534+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ditto, pokemonkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469892271",
+      "funnet": "2026-07-15T21:04:16.451045+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - 60kr per stk",
       "pris": 60,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469874051",
       "funnet": "2026-07-15T17:08:21.759538+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Surfing Pikachu 111/108 - XY Evolutions",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469874213",
-      "funnet": "2026-07-15T17:08:20.891329+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Fossil Set Samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469873803",
-      "funnet": "2026-07-15T17:04:18.329912+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
