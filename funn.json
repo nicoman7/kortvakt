@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-15T07:08:16.019968+00:00",
+  "sist_sjekket": "2026-07-15T07:10:51.880058+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Goldeen",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469821133",
+      "funnet": "2026-07-15T07:10:51.878059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 78/110 Common Holon Phantoms",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469820778",
+      "funnet": "2026-07-15T07:10:51.217412+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469821201",
+      "funnet": "2026-07-15T07:10:50.601597+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 600,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469805266",
       "funnet": "2026-07-14T20:48:17.678533+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering – Steelshaper’s Gift Foil",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469805001",
-      "funnet": "2026-07-14T20:46:15.443777+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Sableye reverse Holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469805093",
-      "funnet": "2026-07-14T20:46:15.100930+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM 2026 fotballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469804568",
-      "funnet": "2026-07-14T20:42:20.834834+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
