@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-15T07:04:20.145217+00:00",
+  "sist_sjekket": "2026-07-15T07:06:16.846805+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469820601",
+      "funnet": "2026-07-15T07:06:16.844445+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Neymar Jr Barcelona Panini Adrenalyn XL FIFA 365",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469804568",
       "funnet": "2026-07-14T20:42:20.834834+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Darkrai",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469804932",
-      "funnet": "2026-07-14T20:42:20.028800+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
