@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T08:08:17.228011+00:00",
+  "sist_sjekket": "2026-07-16T08:10:49.911322+00:00",
   "funn": [
+    {
+      "tittel": "Ronaldinho fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469910983",
+      "funnet": "2026-07-16T08:10:49.909171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort M Heracross EX",
       "pris": 140,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466761178",
       "funnet": "2026-07-15T19:10:52.234810+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Tromsø",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469884320",
-      "funnet": "2026-07-15T19:10:51.391335+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
