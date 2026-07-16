@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T13:44:20.603945+00:00",
+  "sist_sjekket": "2026-07-16T13:46:20.183562+00:00",
   "funn": [
+    {
+      "tittel": "Selger diverse Pokemonkort fra Gen 1",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469938993",
+      "funnet": "2026-07-16T13:46:20.181621+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL Kalidou Koulibaly kort FIFA World Cup 2022",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T09:06:23.720178+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Destiny Udogie auto 21/25- Tottenham - Topps Gold 24/25",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447295437",
-      "funnet": "2026-07-16T09:06:23.278090+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
