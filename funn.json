@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T15:24:17.166640+00:00",
+  "sist_sjekket": "2026-07-16T15:26:22.314857+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Charizard, Salamence EX og Mewtwo PSA 10",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946077",
+      "funnet": "2026-07-16T15:26:22.312943+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Articuno",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T11:46:18.331279+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Sondre Langås signert Panini sticker",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929433",
-      "funnet": "2026-07-16T11:46:17.646171+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
