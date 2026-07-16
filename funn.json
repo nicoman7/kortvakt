@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T11:28:16.478971+00:00",
+  "sist_sjekket": "2026-07-16T11:31:02.348328+00:00",
   "funn": [
+    {
+      "tittel": "Aespa Ningning Samling (Albumkort + POBs + mer)",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/415099205",
+      "funnet": "2026-07-16T11:31:02.346681+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Pitch Black ETB",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469928202",
+      "funnet": "2026-07-16T11:31:01.565836+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini VM 2026 stickers selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469927616",
+      "funnet": "2026-07-16T11:31:01.219696+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Agust D D-Day pre order benefit fotokort",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/449974796",
       "funnet": "2026-07-16T02:42:16.066396+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "25/26 Topps Finest Myles Lewis-Skelly Rookie /99 Green Lava",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/444955170",
-      "funnet": "2026-07-16T02:40:49.200400+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort selges - Fine investeringskort og samlerkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469900277",
-      "funnet": "2026-07-16T01:54:20.784819+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon perm med Engelske og Japanske kort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469900115",
-      "funnet": "2026-07-16T01:20:49.683661+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
