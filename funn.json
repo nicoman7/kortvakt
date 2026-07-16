@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T13:06:16.429011+00:00",
+  "sist_sjekket": "2026-07-16T13:08:21.896052+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Charmander Charmeleon Charizard sett",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469935887",
+      "funnet": "2026-07-16T13:08:21.894322+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA world cup 2026, fotballkort samling",
       "pris": 1300,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/288530364",
       "funnet": "2026-07-16T08:46:17.462202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Marcus Rashford Limited Edition Gold kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469913904",
-      "funnet": "2026-07-16T08:46:16.632761+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
