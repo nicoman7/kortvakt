@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T19:22:16.521754+00:00",
+  "sist_sjekket": "2026-07-16T19:24:20.337229+00:00",
   "funn": [
+    {
+      "tittel": "Charizard Ex xy121 Promo LP",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469265059",
+      "funnet": "2026-07-16T19:24:20.335068+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rød samleperm for kort med zip og 360 plastlommer",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T16:34:17.948709+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort (diverse)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437003962",
-      "funnet": "2026-07-16T16:34:17.690278+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
