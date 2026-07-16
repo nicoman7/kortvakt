@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T16:44:16.765340+00:00",
+  "sist_sjekket": "2026-07-16T16:46:17.967325+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469951787",
+      "funnet": "2026-07-16T16:46:17.965153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort til salgs – selges enkeltvis",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/445470544",
       "funnet": "2026-07-16T12:52:21.729721+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gardevoir EX holografisk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469934854",
-      "funnet": "2026-07-16T12:52:21.304296+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
