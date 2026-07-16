@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T22:56:26.575415+00:00",
+  "sist_sjekket": "2026-07-16T22:58:18.449363+00:00",
   "funn": [
+    {
+      "tittel": "Celtic tarotkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445686435",
+      "funnet": "2026-07-16T22:58:18.447278+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup Limited Edition kort byttes/selges/kjøpes",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469975910",
+      "funnet": "2026-07-16T22:58:18.078629+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469965369",
       "funnet": "2026-07-16T19:32:22.914231+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Claydol kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469965215",
-      "funnet": "2026-07-16T19:32:22.033946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited Edition-kort samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469965051",
-      "funnet": "2026-07-16T19:32:21.145069+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
