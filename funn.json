@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-16T15:22:15.732557+00:00",
+  "sist_sjekket": "2026-07-16T15:24:17.166640+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Articuno",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946413",
+      "funnet": "2026-07-16T15:24:17.164636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Great Tusk ex 246",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946506",
+      "funnet": "2026-07-16T15:24:16.534110+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort selges samlet",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946501",
+      "funnet": "2026-07-16T15:24:16.258157+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Select FIFA 2022/23 Erling Haaland kort PSA 9",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946459",
+      "funnet": "2026-07-16T15:24:15.998239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard GX, Detective Picachu",
       "pris": 300,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-16T11:46:17.646171+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG First Partner Illustration Collection Series 1",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929343",
-      "funnet": "2026-07-16T11:44:19.680534+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon TCG Chaos Rising Elite Trainer Box",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929204",
-      "funnet": "2026-07-16T11:42:18.562696+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "BTS Yoongi DVD kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437393805",
-      "funnet": "2026-07-16T11:40:47.785702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Pitch Black 3-pack blister",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929022",
-      "funnet": "2026-07-16T11:40:47.484419+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
