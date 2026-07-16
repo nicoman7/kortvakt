@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T08:58:18.072856+00:00",
+  "sist_sjekket": "2026-07-16T09:01:03.338040+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort og tilbehør",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469915097",
+      "funnet": "2026-07-16T09:01:03.336157+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Kalidou Koulibaly fotballkort Limited edition",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469886129",
       "funnet": "2026-07-15T19:38:16.759929+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard EX holografisk samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469886359",
-      "funnet": "2026-07-15T19:38:16.416792+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
