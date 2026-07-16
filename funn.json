@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T11:42:18.564649+00:00",
+  "sist_sjekket": "2026-07-16T11:44:19.682488+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG First Partner Illustration Collection Series 1",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929343",
+      "funnet": "2026-07-16T11:44:19.680534+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon TCG Chaos Rising Elite Trainer Box",
       "pris": 1150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469901071",
       "funnet": "2026-07-16T04:46:20.452145+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Premier League Tony Yeboah The Streets Won’t Forget 21/25",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452457974",
-      "funnet": "2026-07-16T02:46:17.525362+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
