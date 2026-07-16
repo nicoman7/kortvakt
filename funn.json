@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T18:32:18.954921+00:00",
+  "sist_sjekket": "2026-07-16T18:34:22.305754+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469959525",
+      "funnet": "2026-07-16T18:34:22.303866+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Thibaut Courtois – 5 forskjellige kort – El Guardian!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469948794",
+      "funnet": "2026-07-16T18:34:21.432167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Fifa World Cup 2026",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469927019",
+      "funnet": "2026-07-16T18:34:20.586172+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling i perm",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469943060",
       "funnet": "2026-07-16T14:44:18.822728+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Braut Haaland fotballkort-pakke (Topps Finest / Chrome / Heritage",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469943264",
-      "funnet": "2026-07-16T14:42:22.591513+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Limited Edition fotballkort Limited Edition – samling",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469943159",
-      "funnet": "2026-07-16T14:42:22.323464+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bytte av Paniniklistremerker VM2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469934467",
-      "funnet": "2026-07-16T14:40:54.260870+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
