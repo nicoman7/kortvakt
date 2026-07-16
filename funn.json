@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T09:52:15.879737+00:00",
+  "sist_sjekket": "2026-07-16T09:54:15.950871+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pitch black 3-pack blister",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469920049",
+      "funnet": "2026-07-16T09:54:15.948579+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
       "pris": 1799,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T20:56:17.009443+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - 35kr per stk",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469891432",
-      "funnet": "2026-07-15T20:46:22.290369+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
