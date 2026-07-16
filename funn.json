@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T16:02:28.080433+00:00",
+  "sist_sjekket": "2026-07-16T16:04:19.104908+00:00",
   "funn": [
+    {
+      "tittel": "WTT Enhypen fotokort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462583061",
+      "funnet": "2026-07-16T16:04:19.103143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Combee [Reverse Holo] #11 011/189 Pokemon Astral Radiance",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469931602",
       "funnet": "2026-07-16T12:14:16.410884+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ludicolo holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469931933",
-      "funnet": "2026-07-16T12:14:15.832555+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
