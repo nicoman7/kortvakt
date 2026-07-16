@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T16:30:42.735443+00:00",
+  "sist_sjekket": "2026-07-16T16:32:19.960950+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort (Unown)",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462505480",
+      "funnet": "2026-07-16T16:32:19.959081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort (Eevee og Eeveelutions)",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/434268647",
+      "funnet": "2026-07-16T16:32:19.098205+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Gengar figur og samlekort lilla - exclusive Chinese pokemon",
       "pris": 1150,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469902586",
       "funnet": "2026-07-16T12:46:15.905464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Flareon Ex #202 pack fresh",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469901976",
-      "funnet": "2026-07-16T12:46:15.302190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Surfing Pikachu",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469934243",
-      "funnet": "2026-07-16T12:44:17.217774+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
