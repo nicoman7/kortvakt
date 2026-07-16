@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T07:14:18.310877+00:00",
+  "sist_sjekket": "2026-07-16T07:16:16.889727+00:00",
   "funn": [
+    {
+      "tittel": "AW signert samlekort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461546391",
+      "funnet": "2026-07-16T07:16:16.887898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort 112/086",
       "pris": 220,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467938601",
       "funnet": "2026-07-15T19:04:24.416282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Fifa World Cup fotballkort - Golden Baller",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467323306",
-      "funnet": "2026-07-15T19:04:24.012577+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
