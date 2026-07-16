@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T15:20:28.904485+00:00",
+  "sist_sjekket": "2026-07-16T15:22:15.732557+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard GX, Detective Picachu",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463901530",
+      "funnet": "2026-07-16T15:22:15.730828+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fifa Panini World Cup",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946161",
+      "funnet": "2026-07-16T15:22:15.467501+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Andreas Schjelderup /25",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946280",
+      "funnet": "2026-07-16T15:22:15.200086+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Lapras",
       "pris": 600,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-16T11:40:47.484419+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "BTS Pre order benefit kort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437393031",
-      "funnet": "2026-07-16T11:38:15.816628+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black Elite Trainer Box (ETB)",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469928670",
-      "funnet": "2026-07-16T11:38:15.006321+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469928438",
-      "funnet": "2026-07-16T11:38:14.626848+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
