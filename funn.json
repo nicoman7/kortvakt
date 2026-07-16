@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T14:38:20.762880+00:00",
+  "sist_sjekket": "2026-07-16T14:40:54.262605+00:00",
   "funn": [
+    {
+      "tittel": "Bytte av Paniniklistremerker VM2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469934467",
+      "funnet": "2026-07-16T14:40:54.260870+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Takashi Murakami The 500 Arhats kortstokk med illustrasjoner",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469922252",
       "funnet": "2026-07-16T10:26:16.085112+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rayquaza holografisk i hardplast etui",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469922897",
-      "funnet": "2026-07-16T10:26:15.631737+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
