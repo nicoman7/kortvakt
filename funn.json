@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T21:24:17.890010+00:00",
+  "sist_sjekket": "2026-07-16T21:26:21.834569+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon stor kortsamling i perm selges",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469972994",
+      "funnet": "2026-07-16T21:26:21.832805+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Morpeko 117 SIR",
       "pris": 1250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T19:16:14.698488+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "ACE 10 GEM MINT Roserade TG02/TG30 - Pokemon Lost Origin",
-      "pris": 679,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466732508",
-      "funnet": "2026-07-16T19:14:23.123007+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
