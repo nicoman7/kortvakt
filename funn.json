@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T11:44:19.682488+00:00",
+  "sist_sjekket": "2026-07-16T11:46:18.333136+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Chaos Rising enkeltpakker",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929530",
+      "funnet": "2026-07-16T11:46:18.331279+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sondre Langås signert Panini sticker",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929433",
+      "funnet": "2026-07-16T11:46:17.646171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG First Partner Illustration Collection Series 1",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469901196",
       "funnet": "2026-07-16T04:54:16.141966+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Siste Pokémon GO kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469901132",
-      "funnet": "2026-07-16T04:52:16.255967+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 70/100 & Raichu 45/100 Common - Majestic Dawn",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469901071",
-      "funnet": "2026-07-16T04:46:20.452145+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
