@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T06:40:49.823489+00:00",
+  "sist_sjekket": "2026-07-16T06:42:18.906963+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469905246",
+      "funnet": "2026-07-16T06:42:18.904786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse MewTwo Pokemon kort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468250756",
       "funnet": "2026-07-15T19:02:18.732214+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage pokemonkort, blandet samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468932314",
-      "funnet": "2026-07-15T19:02:17.840949+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
