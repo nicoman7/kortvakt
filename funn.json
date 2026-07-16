@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T11:36:27.478035+00:00",
+  "sist_sjekket": "2026-07-16T11:38:15.818408+00:00",
   "funn": [
+    {
+      "tittel": "BTS Pre order benefit kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437393031",
+      "funnet": "2026-07-16T11:38:15.816628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pitch Black Elite Trainer Box (ETB)",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469928670",
+      "funnet": "2026-07-16T11:38:15.006321+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon First Partner Series 2",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469928438",
+      "funnet": "2026-07-16T11:38:14.626848+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aespa Ningning Samling (Albumkort + POBs + mer)",
       "pris": 60,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/450826803",
       "funnet": "2026-07-16T02:44:14.812112+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Lucas Pires Burnley FC 22/75",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450823581",
-      "funnet": "2026-07-16T02:44:14.200097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Jack Hinshelwood 152/199 Brighton & Hove Albion",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450820290",
-      "funnet": "2026-07-16T02:42:16.899784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449974796",
-      "funnet": "2026-07-16T02:42:16.066396+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
