@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T23:18:14.276008+00:00",
+  "sist_sjekket": "2026-07-16T23:20:24.491459+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455369326",
+      "funnet": "2026-07-16T23:20:24.489422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Chaos Rising Mini Tins",
+      "pris": 219,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469976732",
+      "funnet": "2026-07-16T23:20:24.010787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger pokemon kort",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469965577",
       "funnet": "2026-07-16T19:36:16.357039+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 2026 fotball kort, vurderes solgt",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469954889",
-      "funnet": "2026-07-16T19:32:24.614569+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Tauros holo",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469965470",
-      "funnet": "2026-07-16T19:32:23.745718+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
