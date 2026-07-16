@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T19:20:35.944500+00:00",
+  "sist_sjekket": "2026-07-16T19:22:16.521754+00:00",
   "funn": [
+    {
+      "tittel": "Rød samleperm for kort med zip og 360 plastlommer",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466244483",
+      "funnet": "2026-07-16T19:22:16.519577+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gigantisk Topps lot - Kanto, Episode, Character, Movie, Johto, Sticker, Chrome",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T16:34:17.690278+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort (Unown)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462505480",
-      "funnet": "2026-07-16T16:32:19.959081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
