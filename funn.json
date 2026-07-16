@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T14:16:21.653871+00:00",
+  "sist_sjekket": "2026-07-16T14:18:19.736443+00:00",
   "funn": [
+    {
+      "tittel": "Panini Scandinavian Star kort Sander Berge",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469941590",
+      "funnet": "2026-07-16T14:18:19.734641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T10:12:18.963691+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
-      "funnet": "2026-07-16T10:12:18.130725+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
