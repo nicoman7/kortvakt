@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T15:28:19.954481+00:00",
+  "sist_sjekket": "2026-07-16T15:30:42.326611+00:00",
   "funn": [
+    {
+      "tittel": "GENGAR pokemon heades",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946681",
+      "funnet": "2026-07-16T15:30:42.324849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps 2020 Erling Haaland Borussia Dortmund PSA 10",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946796",
+      "funnet": "2026-07-16T15:30:41.913129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kortbeskyttere / sleeves – stort blandet parti ( gratis frakt )",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946939",
+      "funnet": "2026-07-16T15:30:41.032797+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Charizard, Salamence EX og Mewtwo PSA 10",
       "pris": 1,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-16T11:50:54.877253+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929885",
-      "funnet": "2026-07-16T11:50:54.070563+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Venusaur Holo PSA 10 (2021)",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929786",
-      "funnet": "2026-07-16T11:50:53.141896+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Chaos Rising enkeltpakker",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929530",
-      "funnet": "2026-07-16T11:46:18.331279+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
