@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T20:24:17.693761+00:00",
+  "sist_sjekket": "2026-07-16T20:26:15.939079+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Flutter Mane Ancient holo( master ball",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469969162",
+      "funnet": "2026-07-16T20:26:15.937044+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Jorginho Arsenal Black Edge Edition fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469969417",
+      "funnet": "2026-07-16T20:26:15.323718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Prismatic Evolutions Booster Bundle",
       "pris": 1249,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-16T18:44:18.794232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 2026 Stickers Erling Haaland",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469961755",
-      "funnet": "2026-07-16T18:44:17.875064+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469959525",
-      "funnet": "2026-07-16T18:34:22.303866+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
