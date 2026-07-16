@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-16T19:02:15.566937+00:00",
+  "sist_sjekket": "2026-07-16T19:04:22.087338+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tcg",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469963079",
+      "funnet": "2026-07-16T19:04:22.085521+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Illustration series 1",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466108945",
+      "funnet": "2026-07-16T19:04:21.167844+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra Team Up - Nanu",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/388519625",
+      "funnet": "2026-07-16T19:04:20.719943+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini World Cup 2026",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467280901",
+      "funnet": "2026-07-16T19:04:19.783443+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ulike Water Pokémon-kort",
       "pris": 4,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-16T15:12:19.070302+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Majestic Dawn Darkrai 3/100 Holo Rare - NM",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469945046",
-      "funnet": "2026-07-16T15:08:18.279456+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini UK Fotball 84 - badge",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/399134338",
-      "funnet": "2026-07-16T15:06:20.901377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 klistremerker",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469945128",
-      "funnet": "2026-07-16T15:06:20.279690+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Oricorio promo 24",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469945308",
-      "funnet": "2026-07-16T15:06:19.661788+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
