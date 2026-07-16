@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T23:36:23.368714+00:00",
+  "sist_sjekket": "2026-07-16T23:38:15.115078+00:00",
   "funn": [
+    {
+      "tittel": "Moderne Pokemon kort / Gi bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/431038293",
+      "funnet": "2026-07-16T23:38:15.113065+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Ascended Heroes Mega Meganium ex Box",
       "pris": 899,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463794309",
       "funnet": "2026-07-16T19:36:17.476222+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Avery 086/066 HR Chinese Simplify CHS CS3.5C Pokemon Rainbowrare",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463406266",
-      "funnet": "2026-07-16T19:36:16.722317+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
