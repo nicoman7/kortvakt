@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T10:12:19.765435+00:00",
+  "sist_sjekket": "2026-07-16T10:14:19.650305+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerker WC 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469921313",
+      "funnet": "2026-07-16T10:14:19.648337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ivan Provedel dobbel patch fotballkort /299",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-15T21:04:16.807534+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ditto, pokemonkort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469892271",
-      "funnet": "2026-07-15T21:04:16.451045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
