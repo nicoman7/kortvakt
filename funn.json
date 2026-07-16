@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T22:36:16.591213+00:00",
+  "sist_sjekket": "2026-07-16T22:38:14.937633+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469976016",
+      "funnet": "2026-07-16T22:38:14.935406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FIFA World Cup samlekort",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469965051",
       "funnet": "2026-07-16T19:32:21.145069+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥 1999 Topps Charizard #6 Holo/foil",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468250756",
-      "funnet": "2026-07-16T19:28:21.851468+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
