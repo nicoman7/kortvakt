@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T11:48:25.898276+00:00",
+  "sist_sjekket": "2026-07-16T11:50:54.879065+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Scyther Jungle holo 1999 PSA 9",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929410",
+      "funnet": "2026-07-16T11:50:54.877253+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929885",
+      "funnet": "2026-07-16T11:50:54.070563+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Celebrations Venusaur Holo PSA 10 (2021)",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929786",
+      "funnet": "2026-07-16T11:50:53.141896+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Chaos Rising enkeltpakker",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-16T05:10:49.948999+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samlekort NBA basketball",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462863929",
-      "funnet": "2026-07-16T05:08:18.925545+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Chaos Rising Bulk",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469901256",
-      "funnet": "2026-07-16T04:56:18.469313+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon KUN EX kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469901196",
-      "funnet": "2026-07-16T04:54:16.141966+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
