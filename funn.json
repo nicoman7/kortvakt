@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T15:34:25.152965+00:00",
+  "sist_sjekket": "2026-07-16T15:36:20.202707+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Espeon 1995-2001",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469946758",
+      "funnet": "2026-07-16T15:36:20.200696+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2022 Antonio Rüdiger Gold Refractor 31/50 – Topps Finest (#117) - Sjelden!",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469929717",
       "funnet": "2026-07-16T11:56:14.892978+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon TCG First Partner Alola art set",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469929988",
-      "funnet": "2026-07-16T11:56:14.579643+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
