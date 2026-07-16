@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T14:14:16.758521+00:00",
+  "sist_sjekket": "2026-07-16T14:16:21.653871+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469938583",
+      "funnet": "2026-07-16T14:16:21.652054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nuno Mendes Panini Adrenalyn XL FIFA World Cup 2026 Defensive Rock kort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469941461",
+      "funnet": "2026-07-16T14:16:20.845785+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL Goal Machine samlekort – 2 stk",
       "pris": 49,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-16T10:12:18.130725+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Milotic EX Emerald holo 96/106",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469920067",
-      "funnet": "2026-07-16T09:56:16.744591+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pitch black 3-pack blister",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469920049",
-      "funnet": "2026-07-16T09:54:15.948579+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
