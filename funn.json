@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T23:12:15.279697+00:00",
+  "sist_sjekket": "2026-07-16T23:14:14.533026+00:00",
   "funn": [
+    {
+      "tittel": "Selger pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469976562",
+      "funnet": "2026-07-16T23:14:14.531104+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Celtic tarotkort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469965470",
       "funnet": "2026-07-16T19:32:23.745718+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Sliggoo kort – holografisk",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469965369",
-      "funnet": "2026-07-16T19:32:22.914231+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
