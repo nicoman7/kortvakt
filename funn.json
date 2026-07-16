@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T01:52:15.175108+00:00",
+  "sist_sjekket": "2026-07-16T01:54:20.786790+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges - Fine investeringskort og samlerkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469900277",
+      "funnet": "2026-07-16T01:54:20.784819+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon perm med Engelske og Japanske kort",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/179047928",
       "funnet": "2026-07-15T18:26:16.156355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax Premium fotballkort boosterpakker",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469880219",
-      "funnet": "2026-07-15T18:26:15.518947+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
