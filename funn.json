@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-16T07:36:17.050253+00:00",
+  "sist_sjekket": "2026-07-16T07:38:17.188756+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469908722",
+      "funnet": "2026-07-16T07:38:17.186868+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ethan's og Larry's Pokémonkort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469908362",
+      "funnet": "2026-07-16T07:38:16.309205+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manger du pokemonkort til din samling? 🎁",
       "pris": 2,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469883780",
       "funnet": "2026-07-15T19:06:20.778343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 2026 duplikater",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469883876",
-      "funnet": "2026-07-15T19:06:20.326341+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eeveelutions ex kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468606101",
-      "funnet": "2026-07-15T19:04:26.244594+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
