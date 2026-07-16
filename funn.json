@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-16T20:38:17.837230+00:00",
+  "sist_sjekket": "2026-07-16T20:40:24.908733+00:00",
   "funn": [
+    {
+      "tittel": "Cacturne samlekort holografisk #1/95",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459141539",
+      "funnet": "2026-07-16T20:40:24.906877+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kabutops ex #97 pokemonkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458218245",
+      "funnet": "2026-07-16T20:40:24.310686+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort til salgs",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469969725",
+      "funnet": "2026-07-16T20:40:24.039635+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Team Magma’s Houndoom samlekort #10/95",
       "pris": 800,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-16T19:04:22.085521+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Illustration series 1",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466108945",
-      "funnet": "2026-07-16T19:04:21.167844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Team Up - Nanu",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/388519625",
-      "funnet": "2026-07-16T19:04:20.719943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 2026",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467280901",
-      "funnet": "2026-07-16T19:04:19.783443+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
