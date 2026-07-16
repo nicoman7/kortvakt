@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T11:40:47.787494+00:00",
+  "sist_sjekket": "2026-07-16T11:42:18.564649+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Chaos Rising Elite Trainer Box",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469929204",
+      "funnet": "2026-07-16T11:42:18.562696+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "BTS Yoongi DVD kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/452457974",
       "funnet": "2026-07-16T02:46:17.525362+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Premier League Steven Gerrard Stoppage Time Hearbreaker Liverpool",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452461364",
-      "funnet": "2026-07-16T02:46:16.966322+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
