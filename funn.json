@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T05:06:23.734017+00:00",
+  "sist_sjekket": "2026-07-16T05:08:18.927282+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort NBA basketball",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462863929",
+      "funnet": "2026-07-16T05:08:18.925545+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Chaos Rising Bulk",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446417715",
       "funnet": "2026-07-15T18:44:16.300290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini vm 2026 klistremerker",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469880430",
-      "funnet": "2026-07-15T18:44:15.738893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
