@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-16T13:46:20.183562+00:00",
+  "sist_sjekket": "2026-07-16T13:48:17.094077+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Arceus VSTAR",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469939195",
+      "funnet": "2026-07-16T13:48:17.092033+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger diverse Pokemonkort fra Gen 1",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T09:10:48.084530+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Destiny Udogie fotballkort - Tottenham",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438528018",
-      "funnet": "2026-07-16T09:06:23.720178+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
