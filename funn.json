@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T17:12:19.150684+00:00",
+  "sist_sjekket": "2026-07-17T17:14:19.633051+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort energy selges enkeltvis",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470038178",
+      "funnet": "2026-07-17T17:14:19.630941+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Chrome Premier League 2025/26 – Stor kortlo",
       "pris": 1990,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470025307",
       "funnet": "2026-07-17T14:30:41.837664+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Flying Pikachu 6 ultra rare",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470025179",
-      "funnet": "2026-07-17T14:28:15.159872+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
