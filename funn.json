@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-17T18:42:15.396746+00:00",
+  "sist_sjekket": "2026-07-17T18:44:32.971728+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pitch Black",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470045626",
+      "funnet": "2026-07-17T18:44:32.970042+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Perm med søte pokemon kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470044076",
+      "funnet": "2026-07-17T18:44:32.597367+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470045826",
+      "funnet": "2026-07-17T18:44:31.724048+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Ditto V fra shining fates",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470045714",
+      "funnet": "2026-07-17T18:44:31.377258+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Dhelmise V fra sword and shield base set",
       "pris": 10,
@@ -1166,38 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470033345",
       "funnet": "2026-07-17T16:10:24.759919+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gumshoos ex Illustration Rare PSA 10 kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470032872",
-      "funnet": "2026-07-17T16:08:17.977376+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Shedinja 2025 NEO EN Illustration Rare PSA 10",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470032980",
-      "funnet": "2026-07-17T16:08:17.194523+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Paldean Fates bulk",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470032923",
-      "funnet": "2026-07-17T16:08:16.413371+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Victini V PSA 10 samlekort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470032766",
-      "funnet": "2026-07-17T16:04:17.789495+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
