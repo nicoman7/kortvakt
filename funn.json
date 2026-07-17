@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T11:32:18.579371+00:00",
+  "sist_sjekket": "2026-07-17T11:34:15.775771+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Neo Discovery",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463908857",
+      "funnet": "2026-07-17T11:34:15.773602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/442200823",
       "funnet": "2026-07-17T09:30:40.574694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort - first partner series 1 og 2 fullt set",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469997173",
-      "funnet": "2026-07-17T09:28:23.118562+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
