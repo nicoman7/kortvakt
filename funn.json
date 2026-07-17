@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T06:54:15.089267+00:00",
+  "sist_sjekket": "2026-07-17T06:56:18.276990+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Kingdra",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469985661",
+      "funnet": "2026-07-17T06:56:18.274954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "signert Erling Haaland kort",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/348222928",
+      "funnet": "2026-07-17T06:56:17.501915+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ønsker Miriam kortet!",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463171093",
       "funnet": "2026-07-16T20:36:16.243375+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Lamine Yamal FC Barcelona trading card",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463821645",
-      "funnet": "2026-07-16T20:34:16.734638+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM Stickers - FIFA World Cup 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469969859",
-      "funnet": "2026-07-16T20:34:16.138916+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
