@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T10:10:26.345671+00:00",
+  "sist_sjekket": "2026-07-17T10:12:17.711716+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort lot",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470002184",
+      "funnet": "2026-07-17T10:12:17.709799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – Mega Zygarde EX og flere full art kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470002260",
+      "funnet": "2026-07-17T10:12:17.435473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Eternatus 121 SHR",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-17T07:48:21.548508+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
-      "funnet": "2026-07-17T07:48:20.785077+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Pokemon japanske kort",
-      "pris": 1111,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469988772",
-      "funnet": "2026-07-17T07:44:22.450797+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
