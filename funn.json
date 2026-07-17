@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T05:52:17.059188+00:00",
+  "sist_sjekket": "2026-07-17T05:54:14.444602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469981553",
+      "funnet": "2026-07-17T05:54:14.442379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469967479",
       "funnet": "2026-07-16T19:58:16.952371+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sergio Agüero samlekort pakke Panini / Match Attax / Adrenalyn",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469967358",
-      "funnet": "2026-07-16T19:56:15.032117+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
