@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T06:24:16.117004+00:00",
+  "sist_sjekket": "2026-07-17T06:26:17.477622+00:00",
   "funn": [
+    {
+      "tittel": "Paola Maldini fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455862284",
+      "funnet": "2026-07-17T06:26:17.475585+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ascended Heroes boosterpakker samlekort",
       "pris": 195,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/444476019",
       "funnet": "2026-07-16T20:24:15.918873+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "56 pokemon chipz samlet",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469968682",
-      "funnet": "2026-07-16T20:20:28.599052+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
