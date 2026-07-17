@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T05:28:16.456748+00:00",
+  "sist_sjekket": "2026-07-17T05:30:45.687396+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469980861",
+      "funnet": "2026-07-17T05:30:45.685214+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charmeleon [ Reverse Holo]  46/132 Pokemon Secret Wonders pokemon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/324271582",
+      "funnet": "2026-07-17T05:30:45.302509+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469967358",
       "funnet": "2026-07-16T19:56:15.032117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu PSA 10",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469965381",
-      "funnet": "2026-07-16T19:54:20.543562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Lionel Messi Limited Edition kort Road to 2014",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469967211",
-      "funnet": "2026-07-16T19:54:19.742666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
