@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T11:28:14.206251+00:00",
+  "sist_sjekket": "2026-07-17T11:30:37.896383+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470009671",
+      "funnet": "2026-07-17T11:30:37.894351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon journey together ETB",
       "pris": 1400,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469997173",
       "funnet": "2026-07-17T09:28:23.118562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(#266) Robert Lewandowski Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442199948",
-      "funnet": "2026-07-17T09:28:22.315357+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
