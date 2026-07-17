@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T14:38:19.395204+00:00",
+  "sist_sjekket": "2026-07-17T14:40:26.079574+00:00",
   "funn": [
+    {
+      "tittel": "Div kort selges samlet",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470025671",
+      "funnet": "2026-07-17T14:40:26.077429+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 018/091",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470011792",
       "funnet": "2026-07-17T11:54:14.258788+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Meowth promo kort japansk",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470011481",
-      "funnet": "2026-07-17T11:52:21.278898+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
