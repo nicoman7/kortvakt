@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-17T09:24:15.106028+00:00",
+  "sist_sjekket": "2026-07-17T09:26:18.165914+00:00",
   "funn": [
+    {
+      "tittel": "(#261) Bruno Fernandes og Rasmus Højlund fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442195756",
+      "funnet": "2026-07-17T09:26:18.163960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "(#291) Cody Gakpo - Headlines fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446002189",
+      "funnet": "2026-07-17T09:26:17.832678+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "10 stk samlekort The Monkees",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442298415",
+      "funnet": "2026-07-17T09:26:17.050989+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Frogadier #89 fra Pokemon Chaos Rising",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-16T23:38:15.113065+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Mega Meganium ex Box",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469976858",
-      "funnet": "2026-07-16T23:26:14.220841+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455369326",
-      "funnet": "2026-07-16T23:20:24.489422+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chaos Rising Mini Tins",
-      "pris": 219,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469976732",
-      "funnet": "2026-07-16T23:20:24.010787+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
