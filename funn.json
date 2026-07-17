@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T08:14:13.931497+00:00",
+  "sist_sjekket": "2026-07-17T08:16:16.363847+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bunke",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469991401",
+      "funnet": "2026-07-17T08:16:16.361419+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hariyama 8 ex Ruby & Sapphire, pokemon",
       "pris": 120,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-16T21:34:19.789325+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "3 stk Luka Modric.  Real Madrid kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437713196",
-      "funnet": "2026-07-16T21:34:18.914050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
