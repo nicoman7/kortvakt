@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T10:30:35.071114+00:00",
+  "sist_sjekket": "2026-07-17T10:32:16.454259+00:00",
   "funn": [
+    {
+      "tittel": "Ulike pokemonkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470003927",
+      "funnet": "2026-07-17T10:32:16.452586+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "8 stk Panini FIFA World Cup 2026 klistremerke-pakker",
+      "pris": 232,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470004291",
+      "funnet": "2026-07-17T10:32:15.885455+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – selges samlet",
       "pris": 99,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-17T08:28:15.825896+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Ascended Heroes booster bundle",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469992094",
-      "funnet": "2026-07-17T08:26:16.177472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort med japansk tekst",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361578141",
-      "funnet": "2026-07-17T08:20:24.869554+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
