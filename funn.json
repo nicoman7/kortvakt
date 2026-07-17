@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T19:32:26.807922+00:00",
+  "sist_sjekket": "2026-07-17T19:34:14.152491+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470050137",
+      "funnet": "2026-07-17T19:34:14.150294+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Ninetales EX kort damaged fra generations",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/177907003",
       "funnet": "2026-07-17T16:56:17.228392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 klistremerker",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470036065",
-      "funnet": "2026-07-17T16:52:18.126804+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
