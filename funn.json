@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-17T17:06:32.254312+00:00",
+  "sist_sjekket": "2026-07-17T17:08:20.917382+00:00",
   "funn": [
+    {
+      "tittel": "Erling Haaland Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/370946090",
+      "funnet": "2026-07-17T17:08:20.915512+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kylian Mbappe Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406705783",
+      "funnet": "2026-07-17T17:08:20.527428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "James Rodriguez Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396491072",
+      "funnet": "2026-07-17T17:08:19.630851+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Heung-Min Son Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398750312",
+      "funnet": "2026-07-17T17:08:18.672881+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Enzo Fernandez Fotballkort",
       "pris": 125,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-17T14:26:16.897363+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Vivillon 1807 art rare",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470024670",
-      "funnet": "2026-07-17T14:24:20.754828+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dhelmise 091/084 Illustration Rare",
-      "pris": 185,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470024547",
-      "funnet": "2026-07-17T14:24:19.845497+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Medicham 241 IR",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470024530",
-      "funnet": "2026-07-17T14:22:16.330875+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gabriel Martinelli Rookie ticket fotballkort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/343563805",
-      "funnet": "2026-07-17T14:22:15.662863+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
