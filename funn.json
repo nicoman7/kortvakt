@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T17:08:20.917382+00:00",
+  "sist_sjekket": "2026-07-17T17:10:24.904662+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA 365 fotballkort – Messi m.fl.",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470037940",
+      "funnet": "2026-07-17T17:10:24.902282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland Fotballkort",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-17T14:26:17.762021+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
-      "funnet": "2026-07-17T14:26:16.897363+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
