@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T20:28:16.507871+00:00",
+  "sist_sjekket": "2026-07-17T20:31:45.141480+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon blistere Pitch Black og små tins",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470054234",
+      "funnet": "2026-07-17T20:31:45.139599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Blissey GX holografisk",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470054291",
+      "funnet": "2026-07-17T20:31:44.729610+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Big Bong Stars fotballkort samling",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463648742",
       "funnet": "2026-07-17T18:14:15.631732+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Salazzle GX kort",
-      "pris": 360,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470043192",
-      "funnet": "2026-07-17T18:14:15.040608+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Frida Maanum fotballkort topps chrome",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454635641",
-      "funnet": "2026-07-17T18:10:29.571702+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
