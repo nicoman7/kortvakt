@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T07:42:19.011361+00:00",
+  "sist_sjekket": "2026-07-17T07:44:22.452336+00:00",
   "funn": [
+    {
+      "tittel": "Selger Pokemon japanske kort",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469988772",
+      "funnet": "2026-07-17T07:44:22.450797+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA 365 2021 - Brasil - FIFA World Cup History",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455942201",
+      "funnet": "2026-07-17T07:44:21.564081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stora pokemon kort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469972063",
       "funnet": "2026-07-16T21:08:17.806518+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Star Wars samlekort: Poe Dameron (2017 Topps - Holografisk / Cracked Ice)",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469972135",
-      "funnet": "2026-07-16T21:06:15.615811+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Greninja EX holografisk",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469972138",
-      "funnet": "2026-07-16T21:06:15.344520+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
