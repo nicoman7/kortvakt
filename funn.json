@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-17T16:32:16.185551+00:00",
+  "sist_sjekket": "2026-07-17T16:34:15.574110+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pitch Black Booster Bundle",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470034823",
+      "funnet": "2026-07-17T16:34:15.572489+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rampardos ex #45 Pokemon Pitch Black",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470034993",
+      "funnet": "2026-07-17T16:34:14.984600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling Match Attax fotballkort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470034851",
+      "funnet": "2026-07-17T16:34:14.744646+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Firkort - Motorsykler (som ny)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455290322",
+      "funnet": "2026-07-17T16:34:14.131196+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon SIR Mega Diancie EX fra Pokémon Ascended Heroes",
       "pris": 579,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470021581",
       "funnet": "2026-07-17T13:50:27.345630+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort selges enkeltvis",
-      "pris": 9,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021706",
-      "funnet": "2026-07-17T13:50:26.564060+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Togepi & Cleffa & Igglybuff GX #71 Pokemon Tag Team",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021513",
-      "funnet": "2026-07-17T13:48:18.518573+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gwynn #119 Pokemon Pitch Black",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470019845",
-      "funnet": "2026-07-17T13:48:17.639127+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Goldeen #87 Pokemon Pitch Black",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470020237",
-      "funnet": "2026-07-17T13:48:16.754313+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
