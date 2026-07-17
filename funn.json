@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T00:12:19.896134+00:00",
+  "sist_sjekket": "2026-07-17T00:14:18.589868+00:00",
   "funn": [
+    {
+      "tittel": "Warcraft kort holofoils selges enkeltvis",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446399580",
+      "funnet": "2026-07-17T00:14:18.588041+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Omnimon bgs 9.5 Digimon kort",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437818028",
+      "funnet": "2026-07-17T00:14:17.727946+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hitmonchan vintage 3d action flipz lenticular kort",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463236400",
       "funnet": "2026-07-16T19:40:24.487803+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Lionel Messi Limited Edition kort Champions League 2013-2014",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469966078",
-      "funnet": "2026-07-16T19:40:23.878145+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vessel #93 Pokemon Chinese Night Wanderer",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463242636",
-      "funnet": "2026-07-16T19:40:23.271870+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
