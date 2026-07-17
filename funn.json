@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T16:18:19.034388+00:00",
+  "sist_sjekket": "2026-07-17T16:20:25.000451+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Perfect Order Elite Trainer Box Sealed 8 stk",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470033232",
+      "funnet": "2026-07-17T16:20:24.998600+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Charizard Mystery Giftbox Kinesisk Sealed 4 stk",
       "pris": 299,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470019401",
       "funnet": "2026-07-17T13:22:19.219465+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort samling Topps/Panini",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470016680",
-      "funnet": "2026-07-17T13:22:18.578678+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
