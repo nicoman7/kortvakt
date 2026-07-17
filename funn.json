@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T19:12:15.555223+00:00",
+  "sist_sjekket": "2026-07-17T19:14:15.991936+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470048395",
+      "funnet": "2026-07-17T19:14:15.989679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ekstra fra fotballkort samlepakke",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470034851",
       "funnet": "2026-07-17T16:34:14.744646+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Firkort - Motorsykler (som ny)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455290322",
-      "funnet": "2026-07-17T16:34:14.131196+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
