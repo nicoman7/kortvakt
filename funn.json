@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T14:56:15.554872+00:00",
+  "sist_sjekket": "2026-07-17T14:58:20.054783+00:00",
   "funn": [
+    {
+      "tittel": "Stor Pokemon Topps samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470027226",
+      "funnet": "2026-07-17T14:58:20.052744+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Eevee GX Sun & Moon Promo SM233 samlekort",
       "pris": 1100,
@@ -1190,14 +1198,6 @@
       "pris": 900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470012872",
       "funnet": "2026-07-17T12:06:21.828506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Wobbuffet 103 AR",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470012703",
-      "funnet": "2026-07-17T12:06:21.515473+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
