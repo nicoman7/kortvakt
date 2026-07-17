@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-17T10:42:26.348138+00:00",
+  "sist_sjekket": "2026-07-17T10:44:18.070031+00:00",
   "funn": [
+    {
+      "tittel": "Selger hele barndoms samlingen min",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470004045",
+      "funnet": "2026-07-17T10:44:18.068231+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA 10 Pokémon Dewgong Illustration Rare",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470005103",
+      "funnet": "2026-07-17T10:44:17.445216+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini VM stickers 2026 ØNSKES KJØPT",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468294497",
+      "funnet": "2026-07-17T10:44:16.890428+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Wigglytuff Illustration Rare PSA 10 samlekort",
       "pris": 1250,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469994051",
       "funnet": "2026-07-17T08:48:16.345673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort Fotball VM 1998 Frankrike",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/234332949",
-      "funnet": "2026-07-17T08:48:15.573541+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United fotballkort uåpnet",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469993942",
-      "funnet": "2026-07-17T08:44:16.910826+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zidane signatur kort.",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398902287",
-      "funnet": "2026-07-17T08:40:24.822685+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
