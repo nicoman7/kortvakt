@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T16:44:15.575013+00:00",
+  "sist_sjekket": "2026-07-17T16:46:16.974729+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon holo kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470029272",
+      "funnet": "2026-07-17T16:46:16.973034+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pitch Black 3pk Blister",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470035244",
+      "funnet": "2026-07-17T16:46:16.714535+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Glass Trumpet #260 Pokemon Ascended Heroes",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470022644",
       "funnet": "2026-07-17T14:00:52.265844+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lurantis GX holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021520",
-      "funnet": "2026-07-17T13:56:23.255538+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Alakazam - Skyridge",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470022053",
-      "funnet": "2026-07-17T13:56:22.362787+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
