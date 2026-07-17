@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T04:46:14.036318+00:00",
+  "sist_sjekket": "2026-07-17T04:48:13.380642+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469980247",
+      "funnet": "2026-07-17T04:48:13.378180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "digimon kort sølv stempel",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469967053",
       "funnet": "2026-07-16T19:52:23.215533+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort 2025/26 Topps Premier League",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446537460",
-      "funnet": "2026-07-16T19:50:35.014804+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
