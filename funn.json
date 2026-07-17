@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T15:26:20.486032+00:00",
+  "sist_sjekket": "2026-07-17T15:28:20.049796+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort/stickers",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470029780",
+      "funnet": "2026-07-17T15:28:20.047960+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Misty’s Vitality trenerkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470029973",
+      "funnet": "2026-07-17T15:28:19.116335+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Elite Trainer Box Pitch Black og Booster bundle",
       "pris": 1250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-17T12:20:25.224758+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon-kort Mega Latias EX 2025 PSA 10 GEM MT",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470014105",
-      "funnet": "2026-07-17T12:18:18.402759+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455890133",
-      "funnet": "2026-07-17T12:18:17.534558+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
