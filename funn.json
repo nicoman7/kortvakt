@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T22:08:18.252671+00:00",
+  "sist_sjekket": "2026-07-17T22:10:24.907183+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/427886819",
+      "funnet": "2026-07-17T22:10:24.905131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kevin Garnett 🏀 Minnesota Timberwolves 🏀 NBA Basketball kort",
       "pris": 59,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-17T19:44:16.958316+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box kortboks",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470051065",
-      "funnet": "2026-07-17T19:44:16.129417+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
