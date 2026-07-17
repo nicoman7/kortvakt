@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T17:52:15.607293+00:00",
+  "sist_sjekket": "2026-07-17T17:54:15.985004+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Evolution Pitch Black",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470041603",
+      "funnet": "2026-07-17T17:54:15.983116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vince Carter 🏀 Toronto Raptors 🏀 NBA Basketball kort",
       "pris": 29,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-17T15:24:25.139416+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470029579",
-      "funnet": "2026-07-17T15:24:24.295109+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
