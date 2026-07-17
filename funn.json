@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-17T13:32:15.718562+00:00",
+  "sist_sjekket": "2026-07-17T13:34:17.594272+00:00",
   "funn": [
+    {
+      "tittel": "Stort album med over 200 kort",
+      "pris": 185,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470019059",
+      "funnet": "2026-07-17T13:34:17.592365+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard - expedition",
+      "pris": 990,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464032406",
+      "funnet": "2026-07-17T13:34:16.795768+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece kort selges samlet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437830683",
+      "funnet": "2026-07-17T13:34:15.962754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2 Pitch black booster bundle kortpakker",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470020333",
+      "funnet": "2026-07-17T13:34:15.581024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Masse hits fra Pitch Black! Forskjellige Pokemon kort, SAR, IR",
       "pris": 100,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470005103",
       "funnet": "2026-07-17T10:44:17.445216+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM stickers 2026 ØNSKES KJØPT",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468294497",
-      "funnet": "2026-07-17T10:44:16.890428+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Wigglytuff Illustration Rare PSA 10 samlekort",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470005000",
-      "funnet": "2026-07-17T10:40:25.011905+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Flygon Full Art PSA 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470004751",
-      "funnet": "2026-07-17T10:40:24.467007+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Zeraora EX kort",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470004691",
-      "funnet": "2026-07-17T10:40:23.858279+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
