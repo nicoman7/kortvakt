@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T16:24:22.929583+00:00",
+  "sist_sjekket": "2026-07-17T16:26:19.545316+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mega Hits",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365064201",
+      "funnet": "2026-07-17T16:26:19.543462+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Morpeko VMAX Rainbow Rare kort",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470034460",
+      "funnet": "2026-07-17T16:26:18.843678+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon ulike Stamped kort",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470019677",
       "funnet": "2026-07-17T13:32:14.975999+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
-      "pris": 329,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/444476019",
-      "funnet": "2026-07-17T13:28:18.253867+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black 3-Pack Blister",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470019803",
-      "funnet": "2026-07-17T13:26:15.976143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
