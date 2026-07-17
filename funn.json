@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T14:50:25.114326+00:00",
+  "sist_sjekket": "2026-07-17T14:52:16.643539+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Tapu Koko holo kort 65/191 - 3 igjen",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470026852",
+      "funnet": "2026-07-17T14:52:16.641459+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Oscar Bobb - Stoppage Time Heartbreaker - Topps Chrome Premier League 2026",
       "pris": 29,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470012812",
       "funnet": "2026-07-17T12:06:20.618571+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 10 Pokémon kort Zoroark GX SV69 JP Special Art Rare",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470012960",
-      "funnet": "2026-07-17T12:06:20.264132+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
