@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T14:06:18.953434+00:00",
+  "sist_sjekket": "2026-07-17T14:08:17.065690+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Sidney 121 secret rare",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470023125",
+      "funnet": "2026-07-17T14:08:17.063815+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Peony 197 ultra rare",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-17T11:10:26.488197+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 38,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446637260",
-      "funnet": "2026-07-17T11:08:15.607176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
