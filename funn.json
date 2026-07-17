@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-17T12:56:16.611026+00:00",
+  "sist_sjekket": "2026-07-17T12:58:15.969642+00:00",
   "funn": [
+    {
+      "tittel": "Stort album med fotballkort",
+      "pris": 185,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470017326",
+      "funnet": "2026-07-17T12:58:15.967484+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon neo genesis 10 kort",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 1050,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470001663",
       "funnet": "2026-07-17T10:08:18.445778+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fine kunstkort selges i pakke med 10 doble kort og konvolutter",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/362038978",
-      "funnet": "2026-07-17T10:08:18.023265+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
