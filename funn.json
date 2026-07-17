@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T17:32:18.210476+00:00",
+  "sist_sjekket": "2026-07-17T17:34:16.872430+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2026 - maskot",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470039866",
+      "funnet": "2026-07-17T17:34:16.870411+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling Pokémon kort ( bulk fra sett ( 2018-2022)",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470039831",
+      "funnet": "2026-07-17T17:34:16.182662+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pitch Black Bulk Holos og Ultra Rare",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-17T14:58:20.052744+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Eevee GX Sun & Moon Promo SM233 samlekort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470027078",
-      "funnet": "2026-07-17T14:54:18.249491+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Tapu Koko holo kort 65/191 - 3 igjen",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470026852",
-      "funnet": "2026-07-17T14:52:16.641459+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
