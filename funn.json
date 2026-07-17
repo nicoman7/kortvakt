@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T18:50:25.218343+00:00",
+  "sist_sjekket": "2026-07-17T18:52:18.396279+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470046502",
+      "funnet": "2026-07-17T18:52:18.394215+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Dratini EX Team Rocket Returns",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470046410",
+      "funnet": "2026-07-17T18:52:17.538511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – japansk ace spec Deluxe Bomb fra stellar miracle",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470033195",
       "funnet": "2026-07-17T16:10:26.348442+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits og graderte kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470032015",
-      "funnet": "2026-07-17T16:10:25.692844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Wild Force Booster Box Japansk Sealed",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470033051",
-      "funnet": "2026-07-17T16:10:25.396144+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
