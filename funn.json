@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-17T11:06:17.708938+00:00",
+  "sist_sjekket": "2026-07-17T11:08:15.609050+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 38,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446637260",
+      "funnet": "2026-07-17T11:08:15.607176+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA 10 Pokémon Mega Charizard X EX 2025 kort",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470007770",
+      "funnet": "2026-07-17T11:08:15.017299+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lee Dixon auto fotballkort /99",
       "pris": 700,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469995871",
       "funnet": "2026-07-17T09:08:16.716332+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon ex-kort (2003–2007)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469994866",
-      "funnet": "2026-07-17T09:08:16.238874+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "masse ringenes hærre kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469995811",
-      "funnet": "2026-07-17T09:08:15.456114+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
