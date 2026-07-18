@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T16:48:19.133392+00:00",
+  "sist_sjekket": "2026-07-18T16:50:23.502786+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana Gift Box",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470126311",
+      "funnet": "2026-07-18T16:50:23.501021+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Disney Lorcana Lilo & Stitch Gift Box",
       "pris": 449,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470105410",
       "funnet": "2026-07-18T13:14:17.175898+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ulike trener-Pokémon-kort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470105080",
-      "funnet": "2026-07-18T13:14:16.797893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
