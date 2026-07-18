@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T06:18:26.015701+00:00",
+  "sist_sjekket": "2026-07-18T06:21:36.459711+00:00",
   "funn": [
+    {
+      "tittel": "Francesco Totti Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445590450",
+      "funnet": "2026-07-18T06:21:36.457751+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eric Cantona Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407984532",
+      "funnet": "2026-07-18T06:21:35.626519+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Roy Keane Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394507149",
+      "funnet": "2026-07-18T06:21:35.318684+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zinedine Zidane Fotballkort",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-17T21:14:15.860517+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-07-17T21:14:15.244313+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Swampert EX Samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442180360",
-      "funnet": "2026-07-17T21:06:19.798200+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Single Pokemonkort fra Temporal Forces kun Holo/ reverse Holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456235180",
-      "funnet": "2026-07-17T21:06:19.144595+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
