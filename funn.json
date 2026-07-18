@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T17:06:19.960455+00:00",
+  "sist_sjekket": "2026-07-18T17:08:17.597223+00:00",
   "funn": [
+    {
+      "tittel": "Panini 26VM",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470127717",
+      "funnet": "2026-07-18T17:08:17.594750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "VM Official Panini stickers 2026 selges/byttes",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T13:30:34.839092+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini fotballkort Ousmane Dembélé 178 Favourite Fan",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470106498",
-      "funnet": "2026-07-18T13:26:16.017517+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
