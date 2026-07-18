@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T17:18:18.039315+00:00",
+  "sist_sjekket": "2026-07-18T17:20:26.863688+00:00",
   "funn": [
+    {
+      "tittel": "Panini komplett album Euro 2020 Preview.",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446946810",
+      "funnet": "2026-07-18T17:20:26.861723+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "vm26 panini",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470128978",
+      "funnet": "2026-07-18T17:20:25.932866+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Venusaur #15 Pokemon Base Set",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470128652",
+      "funnet": "2026-07-18T17:20:24.975750+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon TCG Elite Trainer Box Pitch black",
       "pris": 1500,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-18T14:06:17.105659+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlekort Erling Haaland og norsk landslag – lot med 6 kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470109962",
-      "funnet": "2026-07-18T14:02:18.595495+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rampardos EX #100 Pitch Black Pokémon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470110207",
-      "funnet": "2026-07-18T14:02:18.223199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470110009",
-      "funnet": "2026-07-18T13:58:14.641572+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
