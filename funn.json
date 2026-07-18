@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T19:12:17.417600+00:00",
+  "sist_sjekket": "2026-07-18T19:14:19.653408+00:00",
   "funn": [
+    {
+      "tittel": "Premium Fotball samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460065480",
+      "funnet": "2026-07-18T19:14:19.651344+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "5 stk vintage Pokémon kort selges",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470138979",
+      "funnet": "2026-07-18T19:14:18.794493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Master Rookie fotballkort Nico Paz",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470139583",
+      "funnet": "2026-07-18T19:14:17.876264+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini stickers VM 2026",
       "pris": 4,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470122849",
       "funnet": "2026-07-18T16:22:14.262914+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Disney La Sirenetta samleklistremerke",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463959839",
-      "funnet": "2026-07-18T16:20:23.895201+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470122061",
-      "funnet": "2026-07-18T16:16:14.020310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar ex, Charizard ex og Mega Charizard ex.",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470122420",
-      "funnet": "2026-07-18T16:10:25.214831+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
