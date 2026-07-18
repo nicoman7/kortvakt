@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T21:20:27.791390+00:00",
+  "sist_sjekket": "2026-07-18T21:23:28.049521+00:00",
   "funn": [
+    {
+      "tittel": "Declan Rice Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406354656",
+      "funnet": "2026-07-18T21:23:28.047446+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Pokémon kort",
       "pris": 815,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470135281",
       "funnet": "2026-07-18T18:27:33.644229+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sagadex Pokémon Umbreon samleperm",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470134264",
-      "funnet": "2026-07-18T18:27:33.268046+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
