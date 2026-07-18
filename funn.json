@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T20:36:19.877858+00:00",
+  "sist_sjekket": "2026-07-18T20:38:14.105717+00:00",
   "funn": [
+    {
+      "tittel": "Scarlet & Violet 151 perm med kort.",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470146655",
+      "funnet": "2026-07-18T20:38:14.103820+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu V-UNION",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470131808",
       "funnet": "2026-07-18T17:54:16.771743+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort – Rayquaza, Pikachu, Gengar m.m.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470131608",
-      "funnet": "2026-07-18T17:54:15.910443+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
