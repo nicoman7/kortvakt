@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T13:56:45.311358+00:00",
+  "sist_sjekket": "2026-07-18T13:58:14.643688+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470110009",
+      "funnet": "2026-07-18T13:58:14.641572+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon trainer kort.",
       "pris": 270,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470095658",
       "funnet": "2026-07-18T11:45:30.957062+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ashley Cole Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396349625",
-      "funnet": "2026-07-18T11:42:21.813170+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
