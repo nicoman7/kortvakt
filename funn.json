@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T20:38:14.105717+00:00",
+  "sist_sjekket": "2026-07-18T20:40:26.518774+00:00",
   "funn": [
+    {
+      "tittel": "Ex pokemon kort hits fra Paradox Rift.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469710546",
+      "funnet": "2026-07-18T20:40:26.516736+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker (540 ulike merker)",
+      "pris": 7,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469497686",
+      "funnet": "2026-07-18T20:40:25.645980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Scarlet & Violet 151 perm med kort.",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-18T17:58:19.321637+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pitch Black promo kort og bulk",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470132550",
-      "funnet": "2026-07-18T17:58:18.420741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Mewtwo GX holografisk. (Selges til høystbydene)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470131808",
-      "funnet": "2026-07-18T17:54:16.771743+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
