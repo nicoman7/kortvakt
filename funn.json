@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T17:38:18.620405+00:00",
+  "sist_sjekket": "2026-07-18T17:40:25.160548+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mystery pack",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462090221",
+      "funnet": "2026-07-18T17:40:25.158481+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Morpeko ex kort",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470130893",
+      "funnet": "2026-07-18T17:40:24.797993+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fomantis kort (pitch black)",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470130724",
+      "funnet": "2026-07-18T17:40:24.452962+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA 365 2024 Adrenalyn XL Invincible og Top Master kort",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/438189961",
       "funnet": "2026-07-18T14:24:18.083561+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM Thomas Partey Fan Favourite kort 202",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470112674",
-      "funnet": "2026-07-18T14:24:17.698749+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Premier League og spesialkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463564347",
-      "funnet": "2026-07-18T14:24:17.316219+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Tinkaton ex 262/193 full art",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470112337",
-      "funnet": "2026-07-18T14:22:15.272948+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
