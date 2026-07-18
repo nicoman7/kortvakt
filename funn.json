@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-18T11:02:14.267224+00:00",
+  "sist_sjekket": "2026-07-18T11:04:19.637805+00:00",
   "funn": [
+    {
+      "tittel": "Deco Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445376808",
+      "funnet": "2026-07-18T11:04:19.635781+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eder Militao Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445379452",
+      "funnet": "2026-07-18T11:04:18.824218+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Pachirisu 37/116",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470090733",
+      "funnet": "2026-07-18T11:04:18.485604+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lucas Digne Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445542554",
+      "funnet": "2026-07-18T11:04:17.676836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Neymar Fotballkort",
       "pris": 75,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470075264",
       "funnet": "2026-07-18T08:40:23.729527+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aitana Bonmati - FC Barcelona - Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470075520",
-      "funnet": "2026-07-18T08:40:23.112130+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥 Forskjellige Pokemon Mega Evolution Pitch Black Produkter🔥",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470075126",
-      "funnet": "2026-07-18T08:36:21.452002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Centiskorch Sword & Shield Base Set (39)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470075347",
-      "funnet": "2026-07-18T08:36:20.612712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mawile Sword & Shield Base Set (129)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470075591",
-      "funnet": "2026-07-18T08:36:20.251476+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
