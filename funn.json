@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-18T20:06:16.797932+00:00",
+  "sist_sjekket": "2026-07-18T20:08:17.820745+00:00",
   "funn": [
+    {
+      "tittel": "Magic: The Gathering Artifact kort Urza's Incubator",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447743662",
+      "funnet": "2026-07-18T20:08:17.818860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering Artifact Kort Winter Orb",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447744513",
+      "funnet": "2026-07-18T20:08:17.397566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering Diabolic Intent kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447744151",
+      "funnet": "2026-07-18T20:08:17.018810+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
+      "funnet": "2026-07-18T20:08:16.628058+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Summon Legend Samlekort Ramirez Depietro",
       "pris": 249,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/446946810",
       "funnet": "2026-07-18T17:20:26.861723+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "vm26 panini",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470128978",
-      "funnet": "2026-07-18T17:20:25.932866+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venusaur #15 Pokemon Base Set",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470128652",
-      "funnet": "2026-07-18T17:20:24.975750+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon TCG Elite Trainer Box Pitch black",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470128422",
-      "funnet": "2026-07-18T17:18:18.037097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidoking #11 Pokemon Base Set",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470128436",
-      "funnet": "2026-07-18T17:16:14.834333+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
