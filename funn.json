@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T17:16:14.836167+00:00",
+  "sist_sjekket": "2026-07-18T17:18:18.039315+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Elite Trainer Box Pitch black",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470128422",
+      "funnet": "2026-07-18T17:18:18.037097+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nidoking #11 Pokemon Base Set",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T13:58:14.641572+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon trainer kort.",
-      "pris": 270,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437826994",
-      "funnet": "2026-07-18T13:56:45.309651+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
