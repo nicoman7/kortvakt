@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T05:44:15.717178+00:00",
+  "sist_sjekket": "2026-07-18T05:46:16.845214+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470065821",
+      "funnet": "2026-07-18T05:46:16.843401+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️Diverse fotballkort – Pakker - tinboks",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437896504",
+      "funnet": "2026-07-18T05:46:16.510812+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Futera - Heroes - samlerkort - 2024 - nummerert /250",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/427187281",
+      "funnet": "2026-07-18T05:46:16.171792+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Disney Chrome 2025",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-17T20:12:16.283598+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Julian Alvarez Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445629878",
-      "funnet": "2026-07-17T20:12:15.979710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mason Mount Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445630174",
-      "funnet": "2026-07-17T20:12:15.678385+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling med holo- og full art kort kom med bud",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470053110",
-      "funnet": "2026-07-17T20:12:15.083902+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
