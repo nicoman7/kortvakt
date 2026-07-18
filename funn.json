@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T15:12:14.952058+00:00",
+  "sist_sjekket": "2026-07-18T15:14:16.376873+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard 100/97",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470116660",
+      "funnet": "2026-07-18T15:14:16.375026+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "50 Pokémon kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445590134",
       "funnet": "2026-07-18T12:18:22.460506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Richarlison Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445569062",
-      "funnet": "2026-07-18T12:18:21.803290+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
