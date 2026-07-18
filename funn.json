@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T15:36:15.031249+00:00",
+  "sist_sjekket": "2026-07-18T15:38:20.125831+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470119710",
+      "funnet": "2026-07-18T15:38:20.124033+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon - Kabutops EX #97 Pokemon Sandstorm",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463487635",
+      "funnet": "2026-07-18T15:38:19.249564+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Zekrom EX 158/086 Ultra Rare",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470119968",
+      "funnet": "2026-07-18T15:38:18.788624+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort EX lot",
       "pris": 600,
@@ -1174,30 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/383229980",
       "funnet": "2026-07-18T12:18:26.175437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Patrice Evra Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/391527090",
-      "funnet": "2026-07-18T12:18:25.908180+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rafael Leao Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384466745",
-      "funnet": "2026-07-18T12:18:25.281924+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antoine Griezmann Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/413865764",
-      "funnet": "2026-07-18T12:18:24.681539+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
