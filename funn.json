@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T21:23:28.049521+00:00",
+  "sist_sjekket": "2026-07-18T21:24:36.920323+00:00",
   "funn": [
+    {
+      "tittel": "Declan Rice Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446001660",
+      "funnet": "2026-07-18T21:24:36.918277+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Declan Rice Fotballkort",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T18:28:16.553741+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bra pokemon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470135281",
-      "funnet": "2026-07-18T18:27:33.644229+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
