@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T16:46:25.253044+00:00",
+  "sist_sjekket": "2026-07-18T16:48:19.133392+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana Lilo & Stitch Gift Box",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470126001",
+      "funnet": "2026-07-18T16:48:19.131438+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Misty’s Vitality Trainer-kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T13:14:16.797893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling med Charizard VMAX/VSTAR/V",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470104315",
-      "funnet": "2026-07-18T13:10:26.011745+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
