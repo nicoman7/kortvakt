@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T00:54:41.068600+00:00",
+  "sist_sjekket": "2026-07-18T00:56:17.351432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470063539",
+      "funnet": "2026-07-18T00:56:17.349521+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort Tcg Bulk - Ascended Heroes / Destined Rivals",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445652479",
       "funnet": "2026-07-17T20:10:27.644039+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Martin Ødegaard Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396491734",
-      "funnet": "2026-07-17T20:10:27.366232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
