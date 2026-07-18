@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T18:52:19.418681+00:00",
+  "sist_sjekket": "2026-07-18T18:54:19.903545+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort Erling Haaland ICON",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470137711",
+      "funnet": "2026-07-18T18:54:19.901530+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini fotballkort Nico Williams Spain",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470137851",
+      "funnet": "2026-07-18T18:54:19.015294+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon – Destined Rivals - Reverse Holo",
       "pris": 7,
@@ -1182,22 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470118666",
       "funnet": "2026-07-18T15:43:20.167173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam #2 Pokemon Skyridge",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464113910",
-      "funnet": "2026-07-18T15:43:19.766581+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon matboks med tre kort og en coin",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470120280",
-      "funnet": "2026-07-18T15:43:19.465094+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
