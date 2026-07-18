@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T17:34:26.619934+00:00",
+  "sist_sjekket": "2026-07-18T17:36:17.355562+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470130158",
+      "funnet": "2026-07-18T17:36:17.353367+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leny Yoro fotballkort selges!  Manchester United",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470112493",
       "funnet": "2026-07-18T14:22:14.819179+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hele Pokémon kort samlingen min",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470111627",
-      "funnet": "2026-07-18T14:20:24.204258+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
