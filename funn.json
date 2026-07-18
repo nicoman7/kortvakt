@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T19:44:15.918793+00:00",
+  "sist_sjekket": "2026-07-18T19:46:16.840077+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra forskjellige eldre sett",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470141609",
+      "funnet": "2026-07-18T19:46:16.837959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hockeykort (ishockey kort)",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T17:04:14.433677+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotball kort, fra 70-tallet og frem til i dag.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470045094",
-      "funnet": "2026-07-18T17:02:10.723818+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
