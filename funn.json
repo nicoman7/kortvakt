@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T12:42:17.509547+00:00",
+  "sist_sjekket": "2026-07-18T12:44:14.410826+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Mega Charizard EX 230/___",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470101814",
+      "funnet": "2026-07-18T12:44:14.408873+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort/album",
       "pris": 550,
@@ -1190,14 +1198,6 @@
       "pris": 55,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470094241",
       "funnet": "2026-07-18T11:34:21.446656+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gary Neville Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379336739",
-      "funnet": "2026-07-18T11:34:20.693091+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
