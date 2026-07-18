@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-18T18:56:17.926336+00:00",
+  "sist_sjekket": "2026-07-18T18:58:20.782777+00:00",
   "funn": [
+    {
+      "tittel": "Panini kort selges/byttes",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470137415",
+      "funnet": "2026-07-18T18:58:20.780627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini fotballkort Marcus Rashford Gold Limited Edition",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470138051",
+      "funnet": "2026-07-18T18:58:20.357823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini VM-kort Nico Paz Argentina",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470138146",
+      "funnet": "2026-07-18T18:58:19.928755+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini fotballkort Erling Haaland ICON",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 38,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446574966",
       "funnet": "2026-07-18T15:46:26.890910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Deoxys [Normal] [Reverse Holo] #5 Pokemon Holon Phantoms",
-      "pris": 740,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464113928",
-      "funnet": "2026-07-18T15:46:26.091965+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon - Vaporeon #18 Pokemon Delta Species",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463487750",
-      "funnet": "2026-07-18T15:43:20.957615+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon Hits Engelsk, Japansk og Kinesisk",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470118666",
-      "funnet": "2026-07-18T15:43:20.167173+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
