@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T16:40:24.957836+00:00",
+  "sist_sjekket": "2026-07-18T16:42:18.096547+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Morpeko SIR",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470125405",
+      "funnet": "2026-07-18T16:42:18.094580+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clefable jungle 1st edition cgc 8 pokemon kort",
       "pris": 1499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-18T13:10:24.846530+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
-      "funnet": "2026-07-18T13:10:24.038298+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
