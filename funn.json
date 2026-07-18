@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T20:02:17.392912+00:00",
+  "sist_sjekket": "2026-07-18T20:04:18.842979+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort/sticker vm '26",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470144072",
+      "funnet": "2026-07-18T20:04:18.841171+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini VM26 klistremerker",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470142799",
+      "funnet": "2026-07-18T20:04:17.967568+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Gengar LV.X og Rhyperior LV.X samlekort",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463100043",
       "funnet": "2026-07-18T17:16:14.222861+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cresselia Illustration rare fra Shrouded Fable PSA 10",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470128317",
-      "funnet": "2026-07-18T17:14:19.234204+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X 109/94 NM - GRATIS LEVERING",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461856645",
-      "funnet": "2026-07-18T17:14:18.455285+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
