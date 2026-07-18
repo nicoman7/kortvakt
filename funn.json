@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T17:02:10.725848+00:00",
+  "sist_sjekket": "2026-07-18T17:04:14.709631+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match attax kort. 72 Stk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470127361",
+      "funnet": "2026-07-18T17:04:14.707574+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball kort 2015-2020+ 250+ kort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452381438",
+      "funnet": "2026-07-18T17:04:14.433677+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotball kort, fra 70-tallet og frem til i dag.",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464062154",
       "funnet": "2026-07-18T13:20:24.732240+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Purrloin holo GRATIS",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470106056",
-      "funnet": "2026-07-18T13:20:24.378889+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "trenger hjelp med å fullføre commons/reverse holoes av pokemon 151",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453960519",
-      "funnet": "2026-07-18T13:20:23.595506+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
