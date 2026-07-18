@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-18T08:08:13.856244+00:00",
+  "sist_sjekket": "2026-07-18T08:10:22.251627+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pinsir twilight masquerade",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470073305",
+      "funnet": "2026-07-18T08:10:22.249893+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pikachu Sword & Shield Base Set (65)",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470073314",
+      "funnet": "2026-07-18T08:10:21.975466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Søte Pokemon kort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470073120",
+      "funnet": "2026-07-18T08:10:21.377750+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Galarian Meowth Sword & Shield Base Set (127)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470073451",
+      "funnet": "2026-07-18T08:10:21.003895+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-18T08:10:20.654728+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard V Swsh #260",
       "pris": 690,
@@ -1158,46 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/384479586",
       "funnet": "2026-07-18T05:58:23.376948+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Paul Pogba Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/372265867",
-      "funnet": "2026-07-18T05:58:22.956721+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Juan Mata Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394700883",
-      "funnet": "2026-07-18T05:58:22.564997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Henrikh Mkhitaryan Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/395387832",
-      "funnet": "2026-07-18T05:58:21.627739+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andy Cole Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/365756541",
-      "funnet": "2026-07-18T05:58:20.725319+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Martin Ødegaard Nummerert Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/387564013",
-      "funnet": "2026-07-18T05:58:19.876801+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
