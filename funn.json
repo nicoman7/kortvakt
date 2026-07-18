@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T20:40:26.518774+00:00",
+  "sist_sjekket": "2026-07-18T20:43:22.893084+00:00",
   "funn": [
+    {
+      "tittel": "Basketkort",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/302774038",
+      "funnet": "2026-07-18T20:43:22.890822+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ex pokemon kort hits fra Paradox Rift.",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/415235826",
       "funnet": "2026-07-18T18:01:37.339085+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dracaufeu VMAX / GX samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470132457",
-      "funnet": "2026-07-18T17:58:19.321637+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
