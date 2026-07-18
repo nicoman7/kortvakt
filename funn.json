@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-18T06:04:19.381279+00:00",
+  "sist_sjekket": "2026-07-18T06:06:18.238081+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470066422",
+      "funnet": "2026-07-18T06:06:18.235642+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lionel Messi Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406539543",
+      "funnet": "2026-07-18T06:06:17.587081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zlatan Ibrahimovic Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455395995",
+      "funnet": "2026-07-18T06:06:16.883799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zlatan Ibrahimovic Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404306381",
+      "funnet": "2026-07-18T06:06:16.595993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Carlos Tevez Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396767544",
+      "funnet": "2026-07-18T06:06:15.910666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Andres Iniesta Fotballkort",
       "pris": 50,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464003469",
       "funnet": "2026-07-17T20:34:19.261047+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vullaby #138 • Energy Symbol Pattern • Pokemon Ascended Heroes",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464004188",
-      "funnet": "2026-07-17T20:34:18.798407+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av Pokémon kort",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470054546",
-      "funnet": "2026-07-17T20:34:18.004096+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Froslass Freezing Shroud",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470054687",
-      "funnet": "2026-07-17T20:34:17.214973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lunatone #105 • Dusk Ball • Rare • Pokemon Ascended Heroes",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464005311",
-      "funnet": "2026-07-17T20:34:16.897508+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
-      "funnet": "2026-07-17T20:32:18.356450+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
