@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T15:04:29.091333+00:00",
+  "sist_sjekket": "2026-07-18T15:06:17.156219+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Prismatic evolutions super premium collection italiensk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470116719",
+      "funnet": "2026-07-18T15:06:17.154758+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Match Attax fotballkort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470116469",
+      "funnet": "2026-07-18T15:06:16.812577+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Shiftry ex EX Power Keepers CGC 8.5 samlekort",
       "pris": 1100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470098803",
       "funnet": "2026-07-18T12:18:21.196586+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rabsca ex 025/182 Destined Rivals pokemon tcg kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461884219",
-      "funnet": "2026-07-18T12:18:20.440657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vicky Lopez Superstars FC Barcelona samlekort 02/08",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470099252",
-      "funnet": "2026-07-18T12:18:20.136080+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
