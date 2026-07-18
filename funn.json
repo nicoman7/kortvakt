@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-18T18:32:07.317990+00:00",
+  "sist_sjekket": "2026-07-18T18:34:16.449909+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort Haaland GIANT",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470135982",
+      "funnet": "2026-07-18T18:34:16.448165+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Shaymin VSTAR kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470135975",
+      "funnet": "2026-07-18T18:34:16.166424+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini fotballkort Erling Haaland Norge",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470136073",
+      "funnet": "2026-07-18T18:34:15.703532+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Galarian Moltres V kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470136146",
+      "funnet": "2026-07-18T18:34:15.074609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Aerodactyl VSTAR kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470136072",
+      "funnet": "2026-07-18T18:34:14.433637+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Ousmane Dembélé Frankrike",
       "pris": 1,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470116660",
       "funnet": "2026-07-18T15:14:16.375026+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 Pokémon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464139785",
-      "funnet": "2026-07-18T15:10:24.794790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "300 Pokémon Kort",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470117251",
-      "funnet": "2026-07-18T15:10:24.443082+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic evolutions super premium collection italiensk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470116719",
-      "funnet": "2026-07-18T15:06:17.154758+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Match Attax fotballkort samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470116469",
-      "funnet": "2026-07-18T15:06:16.812577+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shiftry ex EX Power Keepers CGC 8.5 samlekort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470116211",
-      "funnet": "2026-07-18T15:02:11.102248+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
