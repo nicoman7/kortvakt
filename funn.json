@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-18T15:58:20.896696+00:00",
+  "sist_sjekket": "2026-07-18T16:02:03.377322+00:00",
   "funn": [
+    {
+      "tittel": "Mew #15 Pokemon Secret Wonders",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464032045",
+      "funnet": "2026-07-18T16:02:03.375149+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gull trofé 624 Panini FIFA World Cup 2026 Adrenalyn XL kort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470103187",
       "funnet": "2026-07-18T12:54:17.390510+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Latios #12 Pokemon Holon Phantoms",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469425522",
-      "funnet": "2026-07-18T12:54:16.573161+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
