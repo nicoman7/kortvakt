@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T18:28:18.218192+00:00",
+  "sist_sjekket": "2026-07-18T18:32:07.317990+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort Ousmane Dembélé Frankrike",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470135851",
+      "funnet": "2026-07-18T18:32:07.316018+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Single Strike Urshifu V kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470135735",
+      "funnet": "2026-07-18T18:32:06.487244+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Greninja Ex Chaos Rising",
       "pris": 2000,
@@ -1182,22 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470116211",
       "funnet": "2026-07-18T15:02:11.102248+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Exploud ex EX Crystal Guardians CGC 8 samlekort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470116110",
-      "funnet": "2026-07-18T14:58:15.467733+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Electrode ex EX Fire Red & Leaf Green CGC 8 samlekort",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470115878",
-      "funnet": "2026-07-18T14:58:14.896353+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
