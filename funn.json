@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-18T17:08:17.597223+00:00",
+  "sist_sjekket": "2026-07-18T17:10:22.464006+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon XY Evolutions Boosterpakker",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445786818",
+      "funnet": "2026-07-18T17:10:22.462109+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Adrenalyn XL world cup fotballkort - 1 Panini oppbevaring med 50 kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470126726",
+      "funnet": "2026-07-18T17:10:22.165323+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini 26VM",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-18T13:30:36.029643+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort byttes | selges",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455399917",
-      "funnet": "2026-07-18T13:30:35.204195+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort byttes / selges",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455486660",
-      "funnet": "2026-07-18T13:30:34.839092+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
