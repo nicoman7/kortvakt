@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T12:34:16.903955+00:00",
+  "sist_sjekket": "2026-07-19T12:36:19.456266+00:00",
   "funn": [
+    {
+      "tittel": "Eldre pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470197380",
+      "funnet": "2026-07-19T12:36:19.454510+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Bundle med Kort",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470197478",
+      "funnet": "2026-07-19T12:36:18.653518+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Blaine's Charmeleon [1st Edition] #31 PSA 9",
       "pris": 1400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468275294",
       "funnet": "2026-07-19T09:48:17.465390+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "World of warcraft spillekort (2006)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389716866",
-      "funnet": "2026-07-19T09:45:53.288427+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Pokemon Toploader samleperm (4 kort)",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470176359",
-      "funnet": "2026-07-19T09:42:11.688467+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
