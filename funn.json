@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T05:50:33.417504+00:00",
+  "sist_sjekket": "2026-07-19T05:52:17.097645+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470158662",
+      "funnet": "2026-07-19T05:52:17.095697+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Gengar EX kort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/386888875",
       "funnet": "2026-07-18T21:31:54.130846+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eduardo Camavinga Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416081451",
-      "funnet": "2026-07-18T21:31:53.749586+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
