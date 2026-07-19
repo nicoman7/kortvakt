@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-19T13:12:17.406658+00:00",
+  "sist_sjekket": "2026-07-19T13:14:18.134730+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bulk",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470203249",
+      "funnet": "2026-07-19T13:14:18.133049+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med holo og trenerkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470203213",
+      "funnet": "2026-07-19T13:14:17.752715+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Radiant Charjabug",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470203259",
+      "funnet": "2026-07-19T13:14:16.977632+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort lot med EX/Full Art og treningskort",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-19T10:30:37.609584+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth 0207/07 Pokemon Gem Pack 3",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470181876",
-      "funnet": "2026-07-19T10:30:36.984280+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lamine Yamal Premium Gold Limited Edition – Panini FIFA VM 2026",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464193316",
-      "funnet": "2026-07-19T10:30:36.397769+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
-      "funnet": "2026-07-19T10:30:35.784270+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
