@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T08:52:23.149653+00:00",
+  "sist_sjekket": "2026-07-19T08:54:17.299716+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ralts Paldean Fates (27)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470171228",
+      "funnet": "2026-07-19T08:54:17.297512+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Gastly Paldean Fates (55)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470171108",
+      "funnet": "2026-07-19T08:54:16.692204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the gathering kort. Faerie Seer FOIL",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-18T21:58:19.657737+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Steven Gerrard Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/374757225",
-      "funnet": "2026-07-18T21:54:17.465211+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcus Rashford Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/381703387",
-      "funnet": "2026-07-18T21:54:17.195423+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
