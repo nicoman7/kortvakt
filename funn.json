@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T09:18:23.383230+00:00",
+  "sist_sjekket": "2026-07-19T09:20:24.159804+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Swoobat Paldean Fates (33)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174086",
+      "funnet": "2026-07-19T09:20:24.157960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mankey Paldean Fates (45)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174168",
+      "funnet": "2026-07-19T09:20:23.898447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leeds fotballkort - Merlin Ultimate 95-96 - Kvantumsrabatt",
       "pris": 55,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-19T00:51:40.029820+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Wattrel #2607 Pokemon Chinese Gem Pack 5",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470156408",
-      "funnet": "2026-07-19T00:43:04.075714+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Joltik #132 Pokemon Chinese Dark Crystal Blaze",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470156415",
-      "funnet": "2026-07-19T00:43:03.269860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
