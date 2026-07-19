@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T13:38:17.875070+00:00",
+  "sist_sjekket": "2026-07-19T13:40:21.101700+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - starter pack",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470206585",
+      "funnet": "2026-07-19T13:40:21.099976+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Pawniard GYM promo",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470206586",
+      "funnet": "2026-07-19T13:40:20.831963+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Hatenna GYM promo",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470185153",
       "funnet": "2026-07-19T10:58:25.931150+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lugia neo genesis  - pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/309648749",
-      "funnet": "2026-07-19T10:58:25.092077+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Har du denne ? Charizard v alt art Psa 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463395269",
-      "funnet": "2026-07-19T10:58:24.309215+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
