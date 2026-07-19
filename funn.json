@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T13:34:13.403890+00:00",
+  "sist_sjekket": "2026-07-19T13:36:47.631160+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Eeletrik GYM promo",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470205533",
+      "funnet": "2026-07-19T13:36:47.629255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med EX/foil kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470206269",
+      "funnet": "2026-07-19T13:36:47.018019+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling - starter pack",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470185026",
       "funnet": "2026-07-19T10:58:18.676463+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Har du noen av disse  ? - Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/326258601",
-      "funnet": "2026-07-19T10:56:14.861733+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grotle 072/071 AR - Pokemon Wild Force",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470185461",
-      "funnet": "2026-07-19T10:56:14.111203+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
