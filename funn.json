@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T16:52:17.237509+00:00",
+  "sist_sjekket": "2026-07-19T16:54:18.761166+00:00",
   "funn": [
+    {
+      "tittel": "Panini Animals of the world",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/214479340",
+      "funnet": "2026-07-19T16:54:18.758936+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini fotballkort Mohamed Salah Golden Baller",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470228534",
+      "funnet": "2026-07-19T16:54:18.470522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Olga Carmona Auto 10/10 Real Madrid - Topps Inception Bookend",
       "pris": 1190,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470209971",
       "funnet": "2026-07-19T14:11:34.412956+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League fotballkort 2025/2026",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/428036072",
-      "funnet": "2026-07-19T14:08:14.938439+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort holografiske / EX / GX / V kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470210010",
-      "funnet": "2026-07-19T14:08:14.529177+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
