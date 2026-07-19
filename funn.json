@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T09:52:36.001203+00:00",
+  "sist_sjekket": "2026-07-19T09:54:23.512424+00:00",
   "funn": [
+    {
+      "tittel": "Billig Pokemon kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470177763",
+      "funnet": "2026-07-19T09:54:23.510204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bakugan spillekort",
       "pris": 45,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/399349433",
       "funnet": "2026-07-19T06:14:17.068717+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Zeraora EX",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470158889",
-      "funnet": "2026-07-19T06:06:06.163155+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
