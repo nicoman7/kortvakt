@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T00:48:29.517438+00:00",
+  "sist_sjekket": "2026-07-19T00:51:40.031783+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/331487484",
+      "funnet": "2026-07-19T00:51:40.029820+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Wattrel #2607 Pokemon Chinese Gem Pack 5",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/407820442",
       "funnet": "2026-07-18T21:28:23.947321+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ian Rush Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/365949142",
-      "funnet": "2026-07-18T21:28:23.098305+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
