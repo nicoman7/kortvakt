@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T01:54:17.332582+00:00",
+  "sist_sjekket": "2026-07-19T01:56:16.220477+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ex hits",
+      "pris": 18,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470156829",
+      "funnet": "2026-07-19T01:56:16.218451+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samlekort – blandet lot med holo og vanlige kort",
       "pris": 550,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/376692376",
       "funnet": "2026-07-18T21:28:25.185944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool Fotballkort Pakke",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405729142",
-      "funnet": "2026-07-18T21:28:24.847403+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
