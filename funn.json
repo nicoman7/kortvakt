@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T14:08:14.940532+00:00",
+  "sist_sjekket": "2026-07-19T14:11:34.414905+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering samling selges",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470209971",
+      "funnet": "2026-07-19T14:11:34.412956+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League fotballkort 2025/2026",
       "pris": 3,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470189883",
       "funnet": "2026-07-19T11:32:14.390073+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS Chrome Disney 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470189364",
-      "funnet": "2026-07-19T11:28:15.126158+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
