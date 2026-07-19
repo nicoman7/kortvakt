@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T06:12:47.420608+00:00",
+  "sist_sjekket": "2026-07-19T06:14:17.071025+00:00",
   "funn": [
+    {
+      "tittel": "Telekort.Mange forskjellige. Fra 10 kroner pr stk på",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399349433",
+      "funnet": "2026-07-19T06:14:17.068717+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Zeraora EX",
       "pris": 850,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/392409293",
       "funnet": "2026-07-18T21:31:55.254440+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mohamed Salah Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392407212",
-      "funnet": "2026-07-18T21:31:54.504894+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
