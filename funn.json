@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T19:52:16.438781+00:00",
+  "sist_sjekket": "2026-07-19T19:54:17.662349+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-19T19:54:17.660182+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "3 Charizard Pokemon kort",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470238808",
       "funnet": "2026-07-19T18:28:15.862322+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort slabs",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470238039",
-      "funnet": "2026-07-19T18:28:15.487111+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
