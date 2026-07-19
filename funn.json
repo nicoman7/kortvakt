@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T23:56:22.515426+00:00",
+  "sist_sjekket": "2026-07-19T23:58:19.433746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk (+- 650) med metallboks og tilbehør",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469693654",
+      "funnet": "2026-07-19T23:58:19.431729+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Shiny Pokémon",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-19T19:58:18.664252+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Phantasmal Flames ETB",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464278748",
-      "funnet": "2026-07-19T19:56:17.674817+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
