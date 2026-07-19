@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T19:54:17.662349+00:00",
+  "sist_sjekket": "2026-07-19T19:56:17.676725+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Phantasmal Flames ETB",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464278748",
+      "funnet": "2026-07-19T19:56:17.674817+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "rockets moltres #12 Pokemon gym heroes",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470247538",
+      "funnet": "2026-07-19T19:56:17.231392+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon hits",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/438193398",
       "funnet": "2026-07-19T18:28:16.564613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Snorlax samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470238596",
-      "funnet": "2026-07-19T18:28:16.229849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Eevee samlekort – lot med flere kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470238808",
-      "funnet": "2026-07-19T18:28:15.862322+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
