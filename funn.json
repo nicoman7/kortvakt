@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T09:20:24.159804+00:00",
+  "sist_sjekket": "2026-07-19T09:22:17.168066+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu Paldean Fates (18)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174314",
+      "funnet": "2026-07-19T09:22:17.166185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Flittle Paldean Fates (41)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174224",
+      "funnet": "2026-07-19T09:22:16.608954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Swoobat Paldean Fates (33)",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 18,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470156829",
       "funnet": "2026-07-19T01:56:16.218451+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet lot med holo og vanlige kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470156666",
-      "funnet": "2026-07-19T01:18:16.579047+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/331487484",
-      "funnet": "2026-07-19T00:51:40.029820+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
