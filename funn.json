@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T13:40:21.101700+00:00",
+  "sist_sjekket": "2026-07-19T13:42:18.315409+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort KOM MED BUD🤠",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470206578",
+      "funnet": "2026-07-19T13:42:18.313344+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - starter pack",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-07-19T11:02:10.265446+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Bidoof 91/147",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470185153",
-      "funnet": "2026-07-19T10:58:25.931150+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
