@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T21:16:16.102738+00:00",
+  "sist_sjekket": "2026-07-19T21:18:15.003232+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort 3 stk for 300kr",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470254144",
+      "funnet": "2026-07-19T21:18:15.001212+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Charizard RC5",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/410955071",
       "funnet": "2026-07-19T18:42:34.765827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sergio Aguero Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464251909",
-      "funnet": "2026-07-19T18:42:34.419361+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
