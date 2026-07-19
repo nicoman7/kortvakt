@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T17:06:18.255575+00:00",
+  "sist_sjekket": "2026-07-19T17:08:13.550939+00:00",
   "funn": [
+    {
+      "tittel": "Ben 10 kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456616953",
+      "funnet": "2026-07-19T17:08:13.549101+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 1 og 2",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/285110920",
       "funnet": "2026-07-19T14:22:16.117141+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Eevee - 130/185 - Reverse Holo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470211711",
-      "funnet": "2026-07-19T14:22:15.793788+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
