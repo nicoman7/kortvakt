@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T14:02:23.205549+00:00",
+  "sist_sjekket": "2026-07-19T14:04:17.566019+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - starter pack",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470208000",
+      "funnet": "2026-07-19T14:04:17.564059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard VMAX (Shiny Vault) – Shining Fates SV107/SV122",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470207901",
+      "funnet": "2026-07-19T14:04:17.182707+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemon shinys",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470189137",
       "funnet": "2026-07-19T11:26:17.098609+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon perm – flere sider med holo og reverse-holo kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188393",
-      "funnet": "2026-07-19T11:24:18.449449+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra 90-tallet - Venomoth",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470186980",
-      "funnet": "2026-07-19T11:24:17.636209+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
