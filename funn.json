@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T14:36:20.649730+00:00",
+  "sist_sjekket": "2026-07-19T14:38:30.357605+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
+      "funnet": "2026-07-19T14:38:30.355687+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon TCG Online kodekort bunke",
       "pris": 229,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470193846",
       "funnet": "2026-07-19T12:02:19.752254+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mew VMAX kortsett kinesisk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470192079",
-      "funnet": "2026-07-19T12:02:19.383109+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
