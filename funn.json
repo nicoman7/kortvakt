@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T23:48:14.846697+00:00",
+  "sist_sjekket": "2026-07-19T23:50:26.988449+00:00",
   "funn": [
+    {
+      "tittel": "Samling Duel Masters kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470259229",
+      "funnet": "2026-07-19T23:50:26.986625+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pokeball og Masterball kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470259409",
+      "funnet": "2026-07-19T23:50:26.064427+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra sett opp til dragon frontiers",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470247182",
       "funnet": "2026-07-19T19:52:16.436790+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Lamine Yamal Limited Edition Premium Gold!",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470247088",
-      "funnet": "2026-07-19T19:50:25.181886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, bundle #1 gul",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361582579",
-      "funnet": "2026-07-19T19:46:16.190480+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
