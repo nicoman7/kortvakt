@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T23:28:14.330792+00:00",
+  "sist_sjekket": "2026-07-19T23:32:12.684237+00:00",
   "funn": [
+    {
+      "tittel": "Lavt nummerert fotballkort. Pau Cubarsi- FC Barcelona",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470258925",
+      "funnet": "2026-07-19T23:32:12.682360+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon McDonalds jubileumspakker 2021",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-19T19:36:19.856535+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cosmoem #14 Pokemon Celebrations - 2 igjen",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/331244267",
-      "funnet": "2026-07-19T19:34:18.832415+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
