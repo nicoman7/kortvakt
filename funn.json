@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T19:32:16.527177+00:00",
+  "sist_sjekket": "2026-07-19T19:34:18.834209+00:00",
   "funn": [
+    {
+      "tittel": "Cosmoem #14 Pokemon Celebrations - 2 igjen",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/331244267",
+      "funnet": "2026-07-19T19:34:18.832415+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Xerneas #12 Pokemon Celebrations - 3 igjen",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470236460",
       "funnet": "2026-07-19T18:12:15.353338+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort 2 stk George Best, TOPPS 1977",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389608083",
-      "funnet": "2026-07-19T18:12:15.033681+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
