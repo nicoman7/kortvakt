@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T21:10:21.790128+00:00",
+  "sist_sjekket": "2026-07-19T21:12:18.468916+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerker",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470253775",
+      "funnet": "2026-07-19T21:12:18.467061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gold Mew EX #205/165 samlekort holo",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470253338",
+      "funnet": "2026-07-19T21:12:17.541676+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Tyrantrum reverse holo",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464168027",
       "funnet": "2026-07-19T18:42:34.072540+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Angel Di Maria Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398441345",
-      "funnet": "2026-07-19T18:42:33.231481+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carlos Tevez Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452098233",
-      "funnet": "2026-07-19T18:42:32.829126+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
