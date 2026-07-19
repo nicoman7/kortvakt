@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T22:26:17.049513+00:00",
+  "sist_sjekket": "2026-07-19T22:28:24.414984+00:00",
   "funn": [
+    {
+      "tittel": "Solgaleo #21 Pokemon Celebrations - 2 igjen",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/331249705",
+      "funnet": "2026-07-19T22:28:24.413201+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Professor's Research #23 Pokemon Celebrations  - 1 igjen",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/331249798",
+      "funnet": "2026-07-19T22:28:23.962355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Gengar EX jumbo og vanlig",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-19T19:04:15.412717+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Excadrill",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467225636",
-      "funnet": "2026-07-19T19:04:14.858477+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Team Magma's Groudon #9 Holo Rare",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461920953",
-      "funnet": "2026-07-19T19:02:21.932503+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
