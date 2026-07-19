@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T12:40:24.955245+00:00",
+  "sist_sjekket": "2026-07-19T12:42:17.683584+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-19T12:42:17.681634+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "NYE KORT OPPDATERT 16 /07 Panini FIFA World Cup 2026 – Stort utvalg stickers",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470178157",
       "funnet": "2026-07-19T09:57:31.524126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Billig Pokemon kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470177763",
-      "funnet": "2026-07-19T09:54:23.510204+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
