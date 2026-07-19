@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T15:02:04.879159+00:00",
+  "sist_sjekket": "2026-07-19T15:04:19.355027+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470216527",
+      "funnet": "2026-07-19T15:04:19.353005+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Solgte mewtwo kort + wugtrio",
       "pris": 190,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470197698",
       "funnet": "2026-07-19T12:31:55.574959+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort plukk og mix fra Kr. 10 pr kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470195270",
-      "funnet": "2026-07-19T12:31:54.739315+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
