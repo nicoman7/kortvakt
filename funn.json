@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T09:22:17.168066+00:00",
+  "sist_sjekket": "2026-07-19T09:24:15.673261+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Grapploct Paldean Fates (52)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174413",
+      "funnet": "2026-07-19T09:24:15.671267+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Iono Paldean Fates (80)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470174580",
+      "funnet": "2026-07-19T09:24:15.284978+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu Paldean Fates (18)",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-19T02:28:19.474229+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier League topps 2026",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446861763",
-      "funnet": "2026-07-19T02:08:17.915045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ex hits",
-      "pris": 18,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470156829",
-      "funnet": "2026-07-19T01:56:16.218451+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
