@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T13:32:15.037799+00:00",
+  "sist_sjekket": "2026-07-19T13:34:13.403890+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling - starter pack",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470205729",
+      "funnet": "2026-07-19T13:34:13.402006+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Enamorus Promo GYM pack",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470185461",
       "funnet": "2026-07-19T10:56:14.111203+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arbok 079/071 AR - Pokemon Wild Force",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470185150",
-      "funnet": "2026-07-19T10:54:17.781236+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
