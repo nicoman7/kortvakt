@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-19T22:24:16.991510+00:00",
+  "sist_sjekket": "2026-07-19T22:26:17.049513+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Gengar EX jumbo og vanlig",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470256953",
+      "funnet": "2026-07-19T22:26:17.047496+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Professor's Research #24 Pokemon Celebrations",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/331249832",
+      "funnet": "2026-07-19T22:26:16.283676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "4x eldre Pokemon Magikarp kort",
       "pris": 149,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-19T19:02:21.932503+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Milotic [Reverse Holo] #5 Delta Species",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461920970",
-      "funnet": "2026-07-19T19:02:21.562959+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Bulbasaur #143 NM",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467001420",
-      "funnet": "2026-07-19T19:02:21.155137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
