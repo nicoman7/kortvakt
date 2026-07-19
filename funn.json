@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-19T19:34:18.834209+00:00",
+  "sist_sjekket": "2026-07-19T19:36:19.858503+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selgest",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470239456",
+      "funnet": "2026-07-19T19:36:19.856535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cosmoem #14 Pokemon Celebrations - 2 igjen",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470237047",
       "funnet": "2026-07-19T18:14:19.442014+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pokemon Charizard #06 Flames",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470236460",
-      "funnet": "2026-07-19T18:12:15.353338+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
