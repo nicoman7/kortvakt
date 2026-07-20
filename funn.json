@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-20T07:14:18.880150+00:00",
+  "sist_sjekket": "2026-07-20T07:16:17.441600+00:00",
   "funn": [
+    {
+      "tittel": "John Arne Riise Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/392408449",
+      "funnet": "2026-07-20T07:16:17.439484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Virgil Van Dijk Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/375960702",
+      "funnet": "2026-07-20T07:16:17.180210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Diverse holo - Cosmo holo - Radiant Collection",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468366145",
+      "funnet": "2026-07-20T07:16:16.602719+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thiago Alcantara Fotballkort",
       "pris": 35,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470258221",
       "funnet": "2026-07-19T23:06:23.577279+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort. Komplett team set Manchester United 2025/26",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470258126",
-      "funnet": "2026-07-19T23:06:23.164487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Vintage Vibes Legend Cristiano Ronaldo fotballkort",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470258208",
-      "funnet": "2026-07-19T23:06:22.312085+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Moderne SIR/IR Kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470258046",
-      "funnet": "2026-07-19T23:06:21.876673+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
