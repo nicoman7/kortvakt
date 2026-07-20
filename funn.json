@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T18:16:17.238230+00:00",
+  "sist_sjekket": "2026-07-20T18:18:18.407324+00:00",
   "funn": [
+    {
+      "tittel": "Merlin´s Premier Gold 96/97 - Album / Perm",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470329229",
+      "funnet": "2026-07-20T18:18:18.405619+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hot Wheels samlekort 2024",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-20T15:52:27.792875+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotball kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470315149",
-      "funnet": "2026-07-20T15:48:18.694703+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
