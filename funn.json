@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T23:22:19.150201+00:00",
+  "sist_sjekket": "2026-07-20T23:24:31.067666+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464281721",
+      "funnet": "2026-07-20T23:24:31.065823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 3,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470343997",
       "funnet": "2026-07-20T20:56:18.125420+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MCND fotokort selges kpop",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/362794211",
-      "funnet": "2026-07-20T20:54:15.961489+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
