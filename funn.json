@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T00:02:21.693844+00:00",
+  "sist_sjekket": "2026-07-20T00:04:20.666181+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo Kort pluss noen Holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470259561",
+      "funnet": "2026-07-20T00:04:20.664783+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Oscar Bobb- Manchester city",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-19T20:00:49.222995+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masse fotballkort selges samlet!  Match attax, topps 2026 premier league",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464309417",
-      "funnet": "2026-07-19T19:58:19.474312+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
