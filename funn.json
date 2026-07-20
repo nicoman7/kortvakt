@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T02:16:21.964950+00:00",
+  "sist_sjekket": "2026-07-20T02:18:19.477678+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-20T02:18:19.475711+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NYE KORT OPPDATERT 20/07 Panini FIFA World Cup 2026 – Stort utvalg stickers",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470249665",
       "funnet": "2026-07-19T20:18:19.712414+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage WOTC Bunke! - Pokemon Kort",
-      "pris": 590,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470248797",
-      "funnet": "2026-07-19T20:18:19.329923+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
