@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T17:34:19.388001+00:00",
+  "sist_sjekket": "2026-07-20T17:36:20.202665+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon playmat",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470324721",
+      "funnet": "2026-07-20T17:36:20.200714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lapras Holo #10 Pokemon Fossil",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470325333",
+      "funnet": "2026-07-20T17:36:19.328475+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graderte Pokemonkort Selges",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470307495",
       "funnet": "2026-07-20T14:24:23.112198+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard 11 Flashfire kort",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470306650",
-      "funnet": "2026-07-20T14:24:22.216924+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Eevee",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470307372",
-      "funnet": "2026-07-20T14:22:19.852679+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
