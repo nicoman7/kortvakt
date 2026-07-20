@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T01:24:33.484958+00:00",
+  "sist_sjekket": "2026-07-20T01:26:24.581922+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ønskes Trade/Kjøp",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470260255",
+      "funnet": "2026-07-20T01:26:24.579763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graderingsverdige kort fra Pokemon TOPPS",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470249457",
       "funnet": "2026-07-19T20:16:16.137495+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470249008",
-      "funnet": "2026-07-19T20:14:19.764765+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
