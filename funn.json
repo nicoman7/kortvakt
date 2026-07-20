@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T19:26:16.449552+00:00",
+  "sist_sjekket": "2026-07-20T19:28:20.294105+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – eldre kort (pris avtales)",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470335853",
+      "funnet": "2026-07-20T19:28:20.292046+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "VM 2026 Limited Edition Gold fotballkort – 5 stk",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470336693",
+      "funnet": "2026-07-20T19:28:19.366274+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Signature Kris dunn Auto /25",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462573443",
       "funnet": "2026-07-20T17:40:26.122100+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 19/7",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-07-20T17:38:17.614185+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon playmat",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470324721",
-      "funnet": "2026-07-20T17:36:20.200714+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
