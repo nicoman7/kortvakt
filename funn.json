@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T16:14:19.370822+00:00",
+  "sist_sjekket": "2026-07-20T16:16:18.184413+00:00",
   "funn": [
+    {
+      "tittel": "ANDY CAP - KORT",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/289982991",
+      "funnet": "2026-07-20T16:16:18.182248+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu ex - Ascended Heroes - 057/217",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470317689",
+      "funnet": "2026-07-20T16:16:17.400609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon slabs PSA OG CGC",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-20T12:54:18.918866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG kort Innkeeper’s Talent foil 180",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470298803",
-      "funnet": "2026-07-20T12:54:17.926167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black Elite Trainer Box",
-      "pris": 1050,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470298492",
-      "funnet": "2026-07-20T12:50:27.338188+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
