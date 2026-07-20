@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T16:06:16.739639+00:00",
+  "sist_sjekket": "2026-07-20T16:08:19.027584+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458309561",
+      "funnet": "2026-07-20T16:08:19.025971+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436902180",
+      "funnet": "2026-07-20T16:08:18.345355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Pidgey",
       "pris": 110,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/438347502",
       "funnet": "2026-07-20T12:46:21.330867+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin De Bruyne Limited Edition Manchester City Panini",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438353153",
-      "funnet": "2026-07-20T12:46:20.725046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vini Jr Limited Edition Real Madrid Panini",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438351582",
-      "funnet": "2026-07-20T12:46:20.185501+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
