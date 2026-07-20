@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T20:54:15.963715+00:00",
+  "sist_sjekket": "2026-07-20T20:56:18.439432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470343950",
+      "funnet": "2026-07-20T20:56:18.437136+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Misty’s Vitality Trainer holo",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470343997",
+      "funnet": "2026-07-20T20:56:18.125420+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MCND fotokort selges kpop",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-20T18:38:17.505647+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2025-26 Topps Basketball Chrome Inserts div",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447165077",
-      "funnet": "2026-07-20T18:38:17.238812+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Basketball Chrome Serenity",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447161465",
-      "funnet": "2026-07-20T18:38:16.978841+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
