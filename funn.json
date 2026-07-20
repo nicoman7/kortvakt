@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T22:00:56.209583+00:00",
+  "sist_sjekket": "2026-07-20T22:02:17.334219+00:00",
   "funn": [
+    {
+      "tittel": "Stadium Club Chrome Jude Bellingham Real Madrid kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470348470",
+      "funnet": "2026-07-20T22:02:17.332092+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Prizm Prizmatic Bernardo Silva Manchester City fotballkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470348397",
+      "funnet": "2026-07-20T22:02:16.976095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gabriel Martinelli Arsenal samlekort",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-20T19:30:38.854711+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
-      "funnet": "2026-07-20T19:30:38.173945+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – eldre kort (pris avtales)",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470335853",
-      "funnet": "2026-07-20T19:28:20.292046+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
