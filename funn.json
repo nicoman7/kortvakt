@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T19:52:17.069719+00:00",
+  "sist_sjekket": "2026-07-20T19:54:24.353240+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464382254",
+      "funnet": "2026-07-20T19:54:24.351000+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Moltres Zapdos Articuno GX Tag Team Sky Legends",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470339082",
+      "funnet": "2026-07-20T19:54:23.563183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nydalen Skiklubb lagbilde Tiedemanns fotballkort 1928 Walter Svendsen",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/398442431",
       "funnet": "2026-07-20T17:58:25.671256+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marco Verratti Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/375987447",
-      "funnet": "2026-07-20T17:58:25.079442+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Julian Alvarez Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/378280261",
-      "funnet": "2026-07-20T17:58:24.225808+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
