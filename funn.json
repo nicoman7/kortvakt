@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T20:30:40.487350+00:00",
+  "sist_sjekket": "2026-07-20T20:32:16.679189+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Steelix",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470342236",
+      "funnet": "2026-07-20T20:32:16.677072+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Scizor ex holo 108/115",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464299270",
       "funnet": "2026-07-20T18:08:20.725111+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fine Pokemonkort fra år 2000",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393389698",
-      "funnet": "2026-07-20T18:08:19.792406+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
