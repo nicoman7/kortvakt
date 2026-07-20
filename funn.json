@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T15:04:17.845638+00:00",
+  "sist_sjekket": "2026-07-20T15:06:18.050173+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Ivysaur",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470311428",
+      "funnet": "2026-07-20T15:06:18.048016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Squirtle kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470311358",
+      "funnet": "2026-07-20T15:06:17.343734+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Wartortle",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/428328801",
       "funnet": "2026-07-20T12:02:14.900619+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 ALBUM MED 380 FOTBALLKORT 2011/2012",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470293002",
-      "funnet": "2026-07-20T11:58:14.949852+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon boks med to uåpnede pakker med Trick and trade card selges.",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470293049",
-      "funnet": "2026-07-20T11:58:14.627925+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
