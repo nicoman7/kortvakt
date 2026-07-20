@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-20T17:46:23.386191+00:00",
+  "sist_sjekket": "2026-07-20T17:50:17.316975+00:00",
   "funn": [
+    {
+      "tittel": "All Time Low kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470326445",
+      "funnet": "2026-07-20T17:50:17.315466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL fotballkort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470325881",
+      "funnet": "2026-07-20T17:50:16.957833+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Kevin Keegan Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/391240580",
+      "funnet": "2026-07-20T17:50:16.598252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1 kg kinesiske Pokémon kort",
       "pris": 500,
@@ -1174,30 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470308451",
       "funnet": "2026-07-20T14:34:17.923059+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eternos 22 nr 628 - Panini Fifa World Cup 2026",
-      "pris": 590,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470308099",
-      "funnet": "2026-07-20T14:34:17.572886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470305764",
-      "funnet": "2026-07-20T14:34:16.734097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alola First Partner Set Pokemon Kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470307253",
-      "funnet": "2026-07-20T14:32:22.310805+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
