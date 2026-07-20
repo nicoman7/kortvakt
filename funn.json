@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T21:02:16.646355+00:00",
+  "sist_sjekket": "2026-07-20T21:04:19.111300+00:00",
   "funn": [
+    {
+      "tittel": "100 Panini World Cup 26 byttemerker",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470344848",
+      "funnet": "2026-07-20T21:04:19.109728+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokemon kort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470344624",
+      "funnet": "2026-07-20T21:04:18.722859+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon graderte kort",
       "pris": 1500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-20T18:44:18.931179+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Basketball Chrome Activators",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447163492",
-      "funnet": "2026-07-20T18:38:18.971273+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2025-26 Topps Basketball Chrome Destiny",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447125878",
-      "funnet": "2026-07-20T18:38:18.692004+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
