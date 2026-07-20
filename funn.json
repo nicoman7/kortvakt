@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T04:10:22.978761+00:00",
+  "sist_sjekket": "2026-07-20T04:12:16.519437+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo kort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464288927",
+      "funnet": "2026-07-20T04:12:16.517278+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra Sun & Moon Base Set - holo og rev.holo",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-19T20:24:19.598189+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Fifa 365 fra 2020 Gold",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456633474",
-      "funnet": "2026-07-19T20:22:21.560970+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
