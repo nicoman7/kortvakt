@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-20T15:50:28.005542+00:00",
+  "sist_sjekket": "2026-07-20T15:52:27.794566+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
+      "funnet": "2026-07-20T15:52:27.792875+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotball kort",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470297732",
       "funnet": "2026-07-20T12:40:28.393407+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Evolution Samling! - Pokemon Kort",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470297228",
-      "funnet": "2026-07-20T12:38:19.345308+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
