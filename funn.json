@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-20T14:14:14.999504+00:00",
+  "sist_sjekket": "2026-07-20T14:16:20.961767+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470306534",
+      "funnet": "2026-07-20T14:16:20.960609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Machamp holo",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470306702",
+      "funnet": "2026-07-20T14:16:20.033460+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 5/025 celebrations samlekort",
       "pris": 99,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/410405865",
       "funnet": "2026-07-20T10:30:38.236459+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Greedent V - 053/072 - Pokemon kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412684073",
-      "funnet": "2026-07-20T10:30:37.981956+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Granbull V - 057/172 - Pokemon kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412685948",
-      "funnet": "2026-07-20T10:30:37.414653+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
