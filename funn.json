@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T08:56:16.807364+00:00",
+  "sist_sjekket": "2026-07-21T08:58:19.943532+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/401756675",
+      "funnet": "2026-07-21T08:58:19.941364+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Eiscue ex sealed promo 042/197",
       "pris": 130,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470352561",
       "funnet": "2026-07-21T01:16:16.676643+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Ascended Heroes Premium Poster Collection",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470352491",
-      "funnet": "2026-07-21T01:04:18.330613+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
