@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T20:44:25.056390+00:00",
+  "sist_sjekket": "2026-07-21T20:46:15.203230+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-21T20:46:15.201065+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Scyther crimped",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-21T18:40:24.446037+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "*Gi bud* Pokemon - Phantasmal Flames ex, holo/rev holo",
-      "pris": 12,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470430179",
-      "funnet": "2026-07-21T18:40:23.861479+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
