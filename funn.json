@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T10:08:18.934416+00:00",
+  "sist_sjekket": "2026-07-21T10:10:27.110125+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ Energy/ 2004, 2005",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/409683780",
+      "funnet": "2026-07-21T10:10:27.108038+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-21T06:22:20.350848+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Temporal Forces blisterpakker med promo-kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470346984",
-      "funnet": "2026-07-21T06:22:19.649999+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
