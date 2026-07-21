@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T06:10:22.579049+00:00",
+  "sist_sjekket": "2026-07-21T06:12:16.722131+00:00",
   "funn": [
+    {
+      "tittel": "Samle Kort Mappe",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456600476",
+      "funnet": "2026-07-21T06:12:16.720368+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Scarlet & Violet: Destined Rivals Booster Bundle kortpakker",
       "pris": 875,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-20T21:26:15.658578+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Squirtle, Gyarados og 2x Psyduck",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470346462",
-      "funnet": "2026-07-20T21:26:15.026794+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
