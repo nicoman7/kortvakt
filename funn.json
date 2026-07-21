@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T12:28:25.766021+00:00",
+  "sist_sjekket": "2026-07-21T12:30:45.739417+00:00",
   "funn": [
+    {
+      "tittel": "Et album med fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464459139",
+      "funnet": "2026-07-21T12:30:45.737489+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini James Rodriguez Limited Edition Gold kort",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470392205",
+      "funnet": "2026-07-21T12:30:45.163080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Peter Schmeichel Project 22 fotballkort 18/22",
       "pris": 1250,
@@ -1182,22 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470364299",
       "funnet": "2026-07-21T08:10:26.467389+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS - Umbreon #197",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464061095",
-      "funnet": "2026-07-21T08:10:26.127768+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS - Houndour & Houndoom #228 og #229",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464062782",
-      "funnet": "2026-07-21T08:10:25.880149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
