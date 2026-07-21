@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T13:50:27.691554+00:00",
+  "sist_sjekket": "2026-07-21T13:52:19.952509+00:00",
   "funn": [
+    {
+      "tittel": "Kort",
+      "pris": 365,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470400996",
+      "funnet": "2026-07-21T13:52:19.950529+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gammelt album med eldre fotballkort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470382635",
       "funnet": "2026-07-21T11:16:17.500277+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort/ Bill/ 1995( i veldig god stand)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409686024",
-      "funnet": "2026-07-21T11:16:16.684229+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
