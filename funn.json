@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T15:00:54.463140+00:00",
+  "sist_sjekket": "2026-07-21T15:02:21.095703+00:00",
   "funn": [
+    {
+      "tittel": "Sawk #130 Pokemon White Flare",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470391806",
+      "funnet": "2026-07-21T15:02:21.093823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hop's Trevenant #237 Pokemon Ascended Heroes",
       "pris": 90,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-21T12:54:26.342693+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masse fotballkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470394557",
-      "funnet": "2026-07-21T12:52:19.439923+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
