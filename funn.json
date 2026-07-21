@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T14:36:19.861419+00:00",
+  "sist_sjekket": "2026-07-21T14:38:22.298704+00:00",
   "funn": [
+    {
+      "tittel": "Snover #140 Pokemon Mega Evolution",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470393198",
+      "funnet": "2026-07-21T14:38:22.296832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Togedemaru #104 Pokemon Phantasmal Flames",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470393144",
+      "funnet": "2026-07-21T14:38:21.398879+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tauros #96 Pokemon Chaos Rising",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-21T12:22:22.714228+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Limited Edition Federico Valverde kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470390557",
-      "funnet": "2026-07-21T12:22:22.376141+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini klistremerker byttes/selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470385315",
-      "funnet": "2026-07-21T12:22:21.939330+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
