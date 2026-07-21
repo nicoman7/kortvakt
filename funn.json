@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-21T14:22:20.722401+00:00",
+  "sist_sjekket": "2026-07-21T14:24:17.650846+00:00",
   "funn": [
+    {
+      "tittel": "Dewgong #97 Pokemon Phantasmal Flames",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470403120",
+      "funnet": "2026-07-21T14:24:17.648978+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo LV.X - MP",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470404271",
+      "funnet": "2026-07-21T14:24:17.335025+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard VMAX - CS2aC",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470404443",
+      "funnet": "2026-07-21T14:24:16.688618+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Kylian Mbappé Icon",
       "pris": 40,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-21T11:52:27.620508+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Adrenalyn fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397190546",
-      "funnet": "2026-07-21T11:50:41.008047+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Noah Mbamba topps finest Rookie fotballkort  /250",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/296698002",
-      "funnet": "2026-07-21T11:50:40.194809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Iddrisu baba /99 fotballkort Rookie kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/289422567",
-      "funnet": "2026-07-21T11:50:39.312643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
