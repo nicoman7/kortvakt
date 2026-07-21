@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T10:06:17.703127+00:00",
+  "sist_sjekket": "2026-07-21T10:08:18.934416+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470375523",
+      "funnet": "2026-07-21T10:08:18.932357+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 055/217",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470376125",
+      "funnet": "2026-07-21T10:08:18.188520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Patrick Vieira Blue foil premier gold 2004 fotballkort",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-21T06:22:19.649999+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort EX, GX, Vmax, Vstar og vintage (med prisliste)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455992244",
-      "funnet": "2026-07-21T06:20:30.006600+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon- Ascended heroes EX bokser",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470351049",
-      "funnet": "2026-07-21T06:18:14.328525+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
