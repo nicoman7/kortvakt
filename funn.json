@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T12:12:25.611687+00:00",
+  "sist_sjekket": "2026-07-21T12:14:17.799961+00:00",
   "funn": [
+    {
+      "tittel": "Felix fotokort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470390211",
+      "funnet": "2026-07-21T12:14:17.798124+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini World cup 2026 Midfield Masters",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470390105",
+      "funnet": "2026-07-21T12:14:17.482331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dylan Harper  - NBA Basketball kort LOT 2 kort",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/328525275",
       "funnet": "2026-07-21T07:50:25.718233+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Napoli fotballkort Chronicles",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/287986429",
-      "funnet": "2026-07-21T07:48:23.886198+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Inter Refractor fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/328688123",
-      "funnet": "2026-07-21T07:48:23.033211+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
