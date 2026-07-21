@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T00:34:17.733505+00:00",
+  "sist_sjekket": "2026-07-21T00:36:17.941102+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Paldean Fates Tins",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470352339",
+      "funnet": "2026-07-21T00:36:17.939031+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Illustration Rare Pokemon kort",
       "pris": 299,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470345416",
       "funnet": "2026-07-20T21:14:26.253098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select Premier League fotballkort Gabriel Arsenal",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470345518",
-      "funnet": "2026-07-20T21:14:25.391758+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
