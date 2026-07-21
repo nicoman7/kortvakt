@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T21:20:24.447452+00:00",
+  "sist_sjekket": "2026-07-21T21:22:19.861013+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mewtwo GX og Pikachu & Zekrom GX Tag Team (ser etter bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470446639",
+      "funnet": "2026-07-21T21:22:19.859390+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Dragonite ex #271/217 Pokemon kort",
       "pris": 449,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-21T19:08:19.469225+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort Premier League 2020/21 forward",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456779233",
-      "funnet": "2026-07-21T19:08:19.051143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
