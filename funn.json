@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T20:42:23.832759+00:00",
+  "sist_sjekket": "2026-07-21T20:44:25.056390+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Scyther crimped",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470443874",
+      "funnet": "2026-07-21T20:44:25.054898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Chesnaught EX promo",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470444327",
+      "funnet": "2026-07-21T20:44:24.153682+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Primarina IR fra Pitch Black",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-21T18:40:23.861479+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort – Haunter og Hitmonchan",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470431785",
-      "funnet": "2026-07-21T18:40:23.281189+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bukayo Saka Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407551997",
-      "funnet": "2026-07-21T18:38:21.729816+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
