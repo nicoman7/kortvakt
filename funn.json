@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T08:54:22.009477+00:00",
+  "sist_sjekket": "2026-07-21T08:56:16.807364+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Eiscue ex sealed promo 042/197",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470368409",
+      "funnet": "2026-07-21T08:56:16.805003+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax UCL 25/26 Extra - Official Matchball",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-21T01:04:18.330613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Mega Charizard Tins",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470352366",
-      "funnet": "2026-07-21T00:46:19.132043+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
