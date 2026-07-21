@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T05:52:19.070165+00:00",
+  "sist_sjekket": "2026-07-21T05:54:16.693553+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470354475",
+      "funnet": "2026-07-21T05:54:16.691587+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Iron Treads ex 248/198 Holo Illustration rare",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470346338",
       "funnet": "2026-07-20T21:24:21.028694+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Luka Modrić Real Madrid CF",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470346405",
-      "funnet": "2026-07-20T21:24:20.166403+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
