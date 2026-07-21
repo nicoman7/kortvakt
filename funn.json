@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T21:04:14.800706+00:00",
+  "sist_sjekket": "2026-07-21T21:06:16.450071+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Energy Switch fra Pitch Black",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470445919",
+      "funnet": "2026-07-21T21:06:16.448082+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Latios #203/191 Pokemon kort",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470445851",
+      "funnet": "2026-07-21T21:06:16.042164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Dark Bell fra Pitch Black",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-21T19:06:22.800644+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort Misty psyduck",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469801049",
-      "funnet": "2026-07-21T19:06:22.543022+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Screen Snaps! «Old Friends and New» - Topps/Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469347337",
-      "funnet": "2026-07-21T19:06:21.927716+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
