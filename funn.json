@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T04:34:19.681323+00:00",
+  "sist_sjekket": "2026-07-21T04:36:15.759016+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL FIFA",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470353447",
+      "funnet": "2026-07-21T04:36:15.756930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu # 58/102 (Celebrations Metal kort)",
       "pris": 1700,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470346134",
       "funnet": "2026-07-20T21:22:20.254361+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select FIFA fotballkort Jude Bellingham",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470346021",
-      "funnet": "2026-07-20T21:20:24.332744+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
