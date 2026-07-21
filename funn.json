@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T12:50:24.187024+00:00",
+  "sist_sjekket": "2026-07-21T12:52:19.441939+00:00",
   "funn": [
+    {
+      "tittel": "Masse fotballkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470394557",
+      "funnet": "2026-07-21T12:52:19.439923+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Spania komplett lagsett: 15 kort inkl. Lamine Yamal og Rodri",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
       "funnet": "2026-07-21T08:52:18.808996+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PokemonTeam Rocket's Wobbuffet 203 sealed promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470367688",
-      "funnet": "2026-07-21T08:48:16.340771+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
