@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T23:08:24.284202+00:00",
+  "sist_sjekket": "2026-07-21T23:10:23.905869+00:00",
   "funn": [
+    {
+      "tittel": "Gammel ringperm til kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470452027",
+      "funnet": "2026-07-21T23:10:23.903915+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hugo Mathiesen Flyvefenrik f 1906 flyver M Glott Akaba sigarettkort 1928",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470441326",
       "funnet": "2026-07-21T20:22:17.082452+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering samling i kortperm",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470441885",
-      "funnet": "2026-07-21T20:20:29.073348+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
