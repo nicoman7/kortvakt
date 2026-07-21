@@ -1,6 +1,78 @@
 {
-  "sist_sjekket": "2026-07-21T15:48:15.499469+00:00",
+  "sist_sjekket": "2026-07-21T15:50:27.095027+00:00",
   "funn": [
+    {
+      "tittel": "Zinedine Zidane Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406993023",
+      "funnet": "2026-07-21T15:50:27.093091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lamine Yamal Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/382494406",
+      "funnet": "2026-07-21T15:50:26.748742+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort – samling med holografiske og vanlige kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470412505",
+      "funnet": "2026-07-21T15:50:26.405241+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Andriy Shevchenko Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446214077",
+      "funnet": "2026-07-21T15:50:26.008809+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thierry Henry Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446214776",
+      "funnet": "2026-07-21T15:50:25.659688+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Didier Drogba Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446214328",
+      "funnet": "2026-07-21T15:50:25.295437+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gianluigi Buffon Fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446213675",
+      "funnet": "2026-07-21T15:50:24.366143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kylian Mbappe Fotballkort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387089186",
+      "funnet": "2026-07-21T15:50:23.996606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Lycanroc holo",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470412657",
+      "funnet": "2026-07-21T15:50:23.098492+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lionel Messi Fotballkort",
       "pris": 100,
@@ -1126,78 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-07-21T14:42:22.359626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delibird #152 Pokemon Mega Evolution",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470392700",
-      "funnet": "2026-07-21T14:40:29.718308+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pachirisu - Reverse holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470406163",
-      "funnet": "2026-07-21T14:40:28.830812+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Paldean Wooper #102 Pokemon Phantasmal Flames",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470393101",
-      "funnet": "2026-07-21T14:40:27.895323+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snover #140 Pokemon Mega Evolution",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470393198",
-      "funnet": "2026-07-21T14:38:22.296832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Togedemaru #104 Pokemon Phantasmal Flames",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470393144",
-      "funnet": "2026-07-21T14:38:21.398879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tauros #96 Pokemon Chaos Rising",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470393254",
-      "funnet": "2026-07-21T14:36:19.859539+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Magma,s Aron 59/95 Reverse",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464434925",
-      "funnet": "2026-07-21T14:34:17.958002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Amoonguss #96 Pokemon Black Bolt",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470393323",
-      "funnet": "2026-07-21T14:34:17.582356+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vikavolt #230 Pokemon Ascended Heroes",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470402614",
-      "funnet": "2026-07-21T14:32:17.008232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
