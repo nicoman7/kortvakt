@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T19:28:19.004688+00:00",
+  "sist_sjekket": "2026-07-21T19:30:39.836230+00:00",
   "funn": [
+    {
+      "tittel": "Div. Topps fotballkort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456486052",
+      "funnet": "2026-07-21T19:30:39.834150+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort hit bundle",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470433894",
+      "funnet": "2026-07-21T19:30:39.514218+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mystery Pack samlekort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/414192817",
       "funnet": "2026-07-21T18:06:19.739005+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Alolan Marowak kort – rev holo",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470427949",
-      "funnet": "2026-07-21T18:06:19.158340+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Joshua Zirkzee Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446024666",
-      "funnet": "2026-07-21T18:06:18.595418+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
