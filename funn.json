@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-21T19:00:47.880297+00:00",
+  "sist_sjekket": "2026-07-21T19:02:17.560535+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467280901",
+      "funnet": "2026-07-21T19:02:17.558403+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Diverse Fotballkort selges",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467749399",
+      "funnet": "2026-07-21T19:02:16.915518+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manchester United nummererte kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466140225",
+      "funnet": "2026-07-21T19:02:16.302524+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Tinbokser med 400 kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470433967",
+      "funnet": "2026-07-21T19:02:15.923319+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Promo Pokemon kort Umbreon EX og Espeon EX",
       "pris": 549,
@@ -1166,38 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469809527",
       "funnet": "2026-07-21T17:58:16.425748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Peter Schmeichel Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397795747",
-      "funnet": "2026-07-21T17:56:29.475588+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rio Ferdinand Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455922374",
-      "funnet": "2026-07-21T17:56:29.006820+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Phil Foden Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416082117",
-      "funnet": "2026-07-21T17:56:28.630651+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rafael Van Der Vaart Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426087918",
-      "funnet": "2026-07-21T17:56:27.758957+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
