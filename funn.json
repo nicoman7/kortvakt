@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-21T11:42:15.824629+00:00",
+  "sist_sjekket": "2026-07-21T11:44:25.177967+00:00",
   "funn": [
+    {
+      "tittel": "Perm for graderte kort - 4 pocket",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470386403",
+      "funnet": "2026-07-21T11:44:25.176091+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard UPC til salgs!",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470108202",
+      "funnet": "2026-07-21T11:44:24.609667+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG: Chaos Rising ETB",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470386670",
+      "funnet": "2026-07-21T11:44:23.971322+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thierry Henry FC Barcelona Champions League samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470386971",
+      "funnet": "2026-07-21T11:44:23.302726+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470385845",
+      "funnet": "2026-07-21T11:44:22.638821+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard VMax #SWSH261",
       "pris": 600,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-07-21T07:22:22.074883+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Liverpool Best of Best fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/282000783",
-      "funnet": "2026-07-21T07:22:21.646461+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fabio Carvalho /225 Rookie fotballkort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/319095416",
-      "funnet": "2026-07-21T07:22:20.849133+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Donruss Road to Qatar Morten Thorsby Retroseries fotballkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/273197224",
-      "funnet": "2026-07-21T07:22:19.983713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 25stk pluss EX",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470360377",
-      "funnet": "2026-07-21T07:22:19.666339+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Psyduck",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470359924",
-      "funnet": "2026-07-21T07:16:20.967345+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
