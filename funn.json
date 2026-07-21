@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-21T00:44:15.354960+00:00",
+  "sist_sjekket": "2026-07-21T00:46:19.134098+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Mega Charizard Tins",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470352366",
+      "funnet": "2026-07-21T00:46:19.132043+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Kort First Partner Collection 1",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470352389",
+      "funnet": "2026-07-21T00:46:18.263032+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Paldean Fates Tins",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470345193",
       "funnet": "2026-07-20T21:16:21.218845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Premier League Gold Matheus Cunha Manchester United kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470345780",
-      "funnet": "2026-07-20T21:16:20.215320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort William Saliba Arsenal",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470345416",
-      "funnet": "2026-07-20T21:14:26.253098+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
