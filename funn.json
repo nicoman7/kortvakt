@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-21T06:36:20.333317+00:00",
+  "sist_sjekket": "2026-07-21T06:38:18.922454+00:00",
   "funn": [
+    {
+      "tittel": "Mange byttekort - Panini-klistremerker selges for 4 kr stk",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470051707",
+      "funnet": "2026-07-21T06:38:18.920448+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Messi golden baller kort!",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470346756",
       "funnet": "2026-07-20T21:30:39.446380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Paldea Adventure Chest samleboks",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457951515",
-      "funnet": "2026-07-20T21:30:39.085287+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
