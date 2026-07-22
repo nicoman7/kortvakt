@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T07:18:26.163141+00:00",
+  "sist_sjekket": "2026-07-22T07:20:21.428367+00:00",
   "funn": [
+    {
+      "tittel": "Selger Pokémonkort til 63% av marked",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470463531",
+      "funnet": "2026-07-22T07:20:21.426154+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Bulbasaur, Ivysaur og Venusaur holo sett",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470450187",
       "funnet": "2026-07-21T22:23:23.949014+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alolan Exeggutor ex #242 Pokemon Surging Sparks",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470450248",
-      "funnet": "2026-07-21T22:20:23.597511+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
