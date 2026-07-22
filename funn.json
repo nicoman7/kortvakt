@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T10:22:18.363263+00:00",
+  "sist_sjekket": "2026-07-22T10:24:14.462331+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Topps TV",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463694846",
+      "funnet": "2026-07-22T10:24:14.460280+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo Panini FIFA World Cup 2026 klistremerke POR 15",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/326190186",
       "funnet": "2026-07-22T05:58:24.173274+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini klistremerkealbum og 500 klistremerker",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470456680",
-      "funnet": "2026-07-22T05:50:22.870946+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
