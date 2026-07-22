@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T17:00:55.778773+00:00",
+  "sist_sjekket": "2026-07-22T17:02:22.097297+00:00",
   "funn": [
+    {
+      "tittel": "Golden Baller #1 Lionel Messi (Fotballkort)",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470526357",
+      "funnet": "2026-07-22T17:02:22.095339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Online-kodekort - Evolving Skies",
       "pris": 2,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-22T14:01:00.961561+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort Xerneas reverse steam siege",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470508428",
-      "funnet": "2026-07-22T14:01:00.091072+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
