@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T10:40:28.005816+00:00",
+  "sist_sjekket": "2026-07-22T10:42:16.340412+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
+      "funnet": "2026-07-22T10:42:16.338390+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Samling NBA basketballkort – ulike spillere og lag",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-22T06:14:15.994896+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger NYTT Bulbasaur Pokemon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470445969",
-      "funnet": "2026-07-22T06:14:15.387365+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
