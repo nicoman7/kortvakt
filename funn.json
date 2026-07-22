@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T05:14:15.200882+00:00",
+  "sist_sjekket": "2026-07-22T05:16:14.632056+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470455706",
+      "funnet": "2026-07-22T05:16:14.629832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Final Fantasy Art Cards x Magic: The Gathering Full Art Series samle kort x 3",
       "pris": 175,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470448327",
       "funnet": "2026-07-21T21:48:15.025287+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "I have to go cracked ice Naruto samlekort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470448397",
-      "funnet": "2026-07-21T21:48:14.770125+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
