@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T15:08:17.071394+00:00",
+  "sist_sjekket": "2026-07-22T15:10:28.842040+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Series 2 trade",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470515483",
+      "funnet": "2026-07-22T15:10:28.840119+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort boosterpakker Pitch Black og Chaos Rising",
       "pris": 1800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470493260",
       "funnet": "2026-07-22T11:40:24.741788+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pitch Black Booster Bundle",
-      "pris": 625,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470493581",
-      "funnet": "2026-07-22T11:40:24.436771+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
