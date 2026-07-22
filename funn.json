@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T06:38:19.115010+00:00",
+  "sist_sjekket": "2026-07-22T06:40:26.277148+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling – ulike spillere",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470460447",
+      "funnet": "2026-07-22T06:40:26.275018+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "9 stk Pokémon Trainer/Supporter-kort - pack fresh!",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470449467",
       "funnet": "2026-07-21T22:08:16.980563+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-samling selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470448094",
-      "funnet": "2026-07-21T22:04:18.469958+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
