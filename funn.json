@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T11:52:20.671179+00:00",
+  "sist_sjekket": "2026-07-22T11:54:16.357597+00:00",
   "funn": [
+    {
+      "tittel": "Norge 1998 VM Fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470494433",
+      "funnet": "2026-07-22T11:54:16.355569+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Lilligant reverse emerging powers",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470495268",
+      "funnet": "2026-07-22T11:54:15.684367+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Yveltal reverse XY base set",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-22T08:32:15.833181+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black Elite Trainer Box",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470470985",
-      "funnet": "2026-07-22T08:32:15.184929+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Pitch Black Booster Bundles",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470471091",
-      "funnet": "2026-07-22T08:30:42.597836+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
