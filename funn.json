@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T01:30:37.708196+00:00",
+  "sist_sjekket": "2026-07-22T01:32:16.097052+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-22T01:32:16.094939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: 192 basiskort + 24 TCG Live koder fra Pitch Black-serien",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470445362",
       "funnet": "2026-07-21T20:58:23.676260+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clawitzer EX holografisk",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470445219",
-      "funnet": "2026-07-21T20:58:23.345768+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
