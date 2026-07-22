@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T09:24:14.749853+00:00",
+  "sist_sjekket": "2026-07-22T09:26:30.350768+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470477418",
+      "funnet": "2026-07-22T09:26:30.348850+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kevin de Bruyne fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470477541",
+      "funnet": "2026-07-22T09:26:29.492189+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Phil Foden silver Prizm fotballkort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462908784",
       "funnet": "2026-07-22T03:28:17.858182+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Brilliant Stars - Moltres (deck exclusives)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462908983",
-      "funnet": "2026-07-22T03:28:17.458735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chinese Gem Pack vol. 1 - Pawmo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405386975",
-      "funnet": "2026-07-22T03:28:17.034731+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
