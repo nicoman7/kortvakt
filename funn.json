@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T14:08:22.850469+00:00",
+  "sist_sjekket": "2026-07-22T14:10:25.461831+00:00",
   "funn": [
+    {
+      "tittel": "100 Pokemon EX og V kort selges samlet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470508769",
+      "funnet": "2026-07-22T14:10:25.459885+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort Palpitoad reverse noble victories",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470509410",
+      "funnet": "2026-07-22T14:10:25.123011+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Manectric reverse dragons exalted",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470488783",
       "funnet": "2026-07-22T11:00:57.844888+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - RESHIRAM GX (PSA 10)",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470488788",
-      "funnet": "2026-07-22T11:00:57.516533+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Machamp holo plasma blast",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470488909",
-      "funnet": "2026-07-22T11:00:57.148574+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
