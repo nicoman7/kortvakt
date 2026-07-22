@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T08:42:18.914817+00:00",
+  "sist_sjekket": "2026-07-22T08:44:17.240721+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort - Diverse fotballkort selges",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470472718",
+      "funnet": "2026-07-22T08:44:17.238467+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Chikorita Cyndaquil Totodile holo kort samling",
       "pris": 699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470452027",
       "funnet": "2026-07-21T23:10:23.903915+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hugo Mathiesen Flyvefenrik f 1906 flyver M Glott Akaba sigarettkort 1928",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/251509049",
-      "funnet": "2026-07-21T23:08:24.282247+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
