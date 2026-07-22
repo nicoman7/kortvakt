@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T14:32:19.073522+00:00",
+  "sist_sjekket": "2026-07-22T14:34:17.423859+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-22T14:34:17.421678+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464050776",
       "funnet": "2026-07-22T11:18:17.324321+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zacian LV #SWSH135 Pokemon Celebrations",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464275345",
-      "funnet": "2026-07-22T11:18:16.497448+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
