@@ -1,6 +1,86 @@
 {
-  "sist_sjekket": "2026-07-22T09:30:41.485456+00:00",
+  "sist_sjekket": "2026-07-22T09:32:20.373321+00:00",
   "funn": [
+    {
+      "tittel": "Dejan Kulusevski Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397023845",
+      "funnet": "2026-07-22T09:32:20.371284+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dejan Kulusevski Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397025605",
+      "funnet": "2026-07-22T09:32:20.052841+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Declan Rice Prizm fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470478396",
+      "funnet": "2026-07-22T09:32:19.724702+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lena Oberdorf Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398741350",
+      "funnet": "2026-07-22T09:32:19.434900+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Frank Lampard Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397676553",
+      "funnet": "2026-07-22T09:32:19.149427+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Phil Foden fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470478278",
+      "funnet": "2026-07-22T09:32:18.470266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Arjen Robben Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397626135",
+      "funnet": "2026-07-22T09:32:17.871973+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Antony Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/408729064",
+      "funnet": "2026-07-22T09:32:17.237355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Enzo Fernandez Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406365416",
+      "funnet": "2026-07-22T09:32:16.922596+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Romelu Lukaku Fotballkort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/357064628",
+      "funnet": "2026-07-22T09:32:16.292403+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Phil Foden limited edition fotballkort",
       "pris": 50,
@@ -1118,86 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/405381494",
       "funnet": "2026-07-22T03:34:16.839025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Chinese Gem Pack vol. 1 - Quaxwell",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405385073",
-      "funnet": "2026-07-22T03:32:17.607963+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chinese Gem Pack Vol. 1 - Crocalor",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405383226",
-      "funnet": "2026-07-22T03:32:16.859361+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chinese Gem Pack vol. 1 - Paldean Wooper",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405388774",
-      "funnet": "2026-07-22T03:32:16.206993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Battle Styles - Non-Holo",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462924114",
-      "funnet": "2026-07-22T03:30:39.093683+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Brilliant Stars - Infernape (deck exclusives)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462909152",
-      "funnet": "2026-07-22T03:30:38.327345+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chinese Gem Pack vol. 1 - Lechonk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405389821",
-      "funnet": "2026-07-22T03:30:37.525293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chinese Gem Pack vol. 1 - Chansey",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405389571",
-      "funnet": "2026-07-22T03:30:37.202876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Black Bolt ETB (Sealed)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463809337",
-      "funnet": "2026-07-22T03:30:36.498826+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Kinesisk Gem 3 - selges samlet",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436790658",
-      "funnet": "2026-07-22T03:30:35.834550+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Goodra Chaos Rising Stamped Prerelease",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464415719",
-      "funnet": "2026-07-22T03:28:19.843088+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
