@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T11:20:36.127332+00:00",
+  "sist_sjekket": "2026-07-22T11:22:17.880119+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling kontant kort og teleskritt kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/413736511",
+      "funnet": "2026-07-22T11:22:17.878197+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Clefairy [Reverse Holo] #97 Pokemon Plasma Storm",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470466098",
       "funnet": "2026-07-22T07:48:16.098070+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Journey Together Pokemon kort – blandet samling med holo og treningskort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470465934",
-      "funnet": "2026-07-22T07:48:15.804602+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
