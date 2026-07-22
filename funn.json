@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-22T19:10:34.528718+00:00",
+  "sist_sjekket": "2026-07-22T19:12:18.015010+00:00",
   "funn": [
+    {
+      "tittel": "Bts Rm fotokort flere sider",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470539049",
+      "funnet": "2026-07-22T19:12:18.012870+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Harry Kane.  Black edge edition. Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/438590362",
+      "funnet": "2026-07-22T19:12:17.046315+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon og One piece kortsamling i samleperm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470539563",
+      "funnet": "2026-07-22T19:12:16.591750+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Joe Gomez - Topps Chrome - Purple 199/250",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/388983435",
+      "funnet": "2026-07-22T19:12:16.138214+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort VM 2026 HERO kort (Mange nye lagt til 21/7)",
       "pris": 2,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-22T17:14:24.085025+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "joao Felix topps finest /125 fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/289344829",
-      "funnet": "2026-07-22T17:14:23.720845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Online-kodekort - Evolving Skies(3pk Eiscue)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392718192",
-      "funnet": "2026-07-22T17:14:23.340103+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "International Masters Asprilla fotballkort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/289055929",
-      "funnet": "2026-07-22T17:14:22.968393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling 47 kort fra 2016-2017",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470527478",
-      "funnet": "2026-07-22T17:14:22.074855+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
