@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T14:30:39.888390+00:00",
+  "sist_sjekket": "2026-07-22T14:32:19.073522+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470511418",
+      "funnet": "2026-07-22T14:32:19.071712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon McDonald’s japanske kort PSA-gradert samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468542744",
+      "funnet": "2026-07-22T14:32:18.516127+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA World Cup 2026 Limited Edition kort – Argentina #263",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464275345",
       "funnet": "2026-07-22T11:18:16.497448+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcus Camby basketballkort - SPX Silver Die-Cut - Upper Deck 98",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/382685960",
-      "funnet": "2026-07-22T11:16:20.093762+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rocket's Zapdos #15 Pokemon Celebrations",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464395076",
-      "funnet": "2026-07-22T11:16:19.191391+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
