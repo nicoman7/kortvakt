@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T18:58:15.042076+00:00",
+  "sist_sjekket": "2026-07-22T19:00:52.575402+00:00",
   "funn": [
+    {
+      "tittel": "Bts V fotokort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470538432",
+      "funnet": "2026-07-22T19:00:52.573365+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gamle pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470535436",
+      "funnet": "2026-07-22T19:00:51.907076+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bts Jungkook Fotokort",
       "pris": 40,
@@ -1182,22 +1198,6 @@
       "pris": 799,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470526944",
       "funnet": "2026-07-22T17:08:16.417807+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nordic Edition samlealbum (Fotballkort)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470526841",
-      "funnet": "2026-07-22T17:08:15.782108+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jadon Sancho Nummerert /25 Fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392618404",
-      "funnet": "2026-07-22T17:08:15.500334+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
