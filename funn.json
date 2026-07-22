@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T10:52:18.495612+00:00",
+  "sist_sjekket": "2026-07-22T10:54:15.433325+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – blanding av holo og vanlige kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464573995",
+      "funnet": "2026-07-22T10:54:15.431409+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Machoke evolutions reverse",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470487860",
+      "funnet": "2026-07-22T10:54:15.099217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling NBA basketballkort – 25 kort med spillere fra flere lag",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 1150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/435112050",
       "funnet": "2026-07-22T06:24:17.006890+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort GX/EX samling – Charizard, Psyduck, Gengar etc",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470454538",
-      "funnet": "2026-07-22T06:24:16.539651+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aquapolis Vileplume og Exeggutor pokemon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/431417038",
-      "funnet": "2026-07-22T06:18:20.103352+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
