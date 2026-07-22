@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-22T09:26:30.350768+00:00",
+  "sist_sjekket": "2026-07-22T09:28:20.261011+00:00",
   "funn": [
+    {
+      "tittel": "Kylian Mbappe 100 Club fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470477928",
+      "funnet": "2026-07-22T09:28:20.258913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bruno Fernandes Top master fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470477751",
+      "funnet": "2026-07-22T09:28:19.380145+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462923379",
       "funnet": "2026-07-22T03:28:19.012607+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Silver Tempest - Non-holo",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462959253",
-      "funnet": "2026-07-22T03:28:18.636799+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Brilliant Stars - Torterra (deck exclusives)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462908784",
-      "funnet": "2026-07-22T03:28:17.858182+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
