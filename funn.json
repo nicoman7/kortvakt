@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-22T15:44:25.352863+00:00",
+  "sist_sjekket": "2026-07-22T15:46:18.566542+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort, i sleeves med top-loadere selges.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470519223",
+      "funnet": "2026-07-22T15:46:18.564665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Groudon ex holo",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470497436",
       "funnet": "2026-07-22T12:14:31.728465+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Abyssal Eye boosterboks",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470496410",
-      "funnet": "2026-07-22T12:04:17.989903+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
