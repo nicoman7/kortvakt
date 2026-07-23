@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T23:10:22.987498+00:00",
+  "sist_sjekket": "2026-07-23T23:12:22.231238+00:00",
   "funn": [
+    {
+      "tittel": "Marco van Basten samlekort AC Milan",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470655071",
+      "funnet": "2026-07-23T23:12:22.229441+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Select Callum Hudson-Odoi Nottingham Forest fotballkort /150",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-23T20:24:16.696786+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor kort, crowbat vmax, Mega mewtwo ex, rayquaza, blastoise ex",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470645284",
-      "funnet": "2026-07-23T20:24:16.045942+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
