@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T19:50:26.627622+00:00",
+  "sist_sjekket": "2026-07-23T19:52:16.008713+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457182064",
+      "funnet": "2026-07-23T19:52:16.006405+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling med Pokémon kort",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470622130",
       "funnet": "2026-07-23T16:52:17.606395+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "AZ's Tranquility 106/086 Ultra Rare (UR) Chaos Rising NM",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470624189",
-      "funnet": "2026-07-23T16:52:16.996890+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
