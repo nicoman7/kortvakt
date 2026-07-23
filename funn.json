@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T11:26:15.058499+00:00",
+  "sist_sjekket": "2026-07-23T11:28:16.527648+00:00",
   "funn": [
+    {
+      "tittel": "Garbage pail kids samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470591550",
+      "funnet": "2026-07-23T11:28:16.525676+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort av Arsenal legender selges! Henry, Bergkamp,  Ian Wright, Vieira..",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470573895",
       "funnet": "2026-07-23T08:44:19.209779+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Lickitung & Slowpoke CCG 10 gradert",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470573866",
-      "funnet": "2026-07-23T08:44:18.309175+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
