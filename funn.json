@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T21:20:26.094080+00:00",
+  "sist_sjekket": "2026-07-23T21:22:16.934040+00:00",
   "funn": [
+    {
+      "tittel": "Bratz-kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464752812",
+      "funnet": "2026-07-23T21:22:16.932411+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard ex Pokemon Kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470649692",
+      "funnet": "2026-07-23T21:22:15.981122+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse ex pokemon - NM/M - Ascended Heroes (Prisliste i annonse)",
       "pris": 999,
@@ -1182,22 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470635215",
       "funnet": "2026-07-23T18:42:18.134273+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 7,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/428411829",
-      "funnet": "2026-07-23T18:40:33.212363+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
-      "funnet": "2026-07-23T18:40:32.456355+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
