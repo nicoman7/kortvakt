@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T17:52:18.378913+00:00",
+  "sist_sjekket": "2026-07-23T17:54:21.140672+00:00",
   "funn": [
+    {
+      "tittel": "Lugia #14 Pokemon Secret Wonders",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470630013",
+      "funnet": "2026-07-23T17:54:21.138768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-07-23T17:54:20.348076+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Infernape #5 Pokemon Diamond & Pearl",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-23T15:58:26.515881+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - ELDRE HITS & HOLOS",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470619082",
-      "funnet": "2026-07-23T15:58:25.730002+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470618930",
-      "funnet": "2026-07-23T15:58:24.753534+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
