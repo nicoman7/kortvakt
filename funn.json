@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-23T13:40:28.658413+00:00",
+  "sist_sjekket": "2026-07-23T13:42:20.211252+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemon kort selges , Charizard, Gengar, Zapdos etc",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470605938",
+      "funnet": "2026-07-23T13:42:20.209424+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon First Partner Illustration Collection Series 2",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470295915",
+      "funnet": "2026-07-23T13:42:19.779028+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Regice ex holo 98/106",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470605793",
+      "funnet": "2026-07-23T13:42:18.909983+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Trainer Nessa Full Art Samlekort Kinesisk",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/460778806",
       "funnet": "2026-07-23T10:14:17.696259+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu samlekort",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470582775",
-      "funnet": "2026-07-23T10:14:17.332403+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grimm kort med del fra serien",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/417658640",
-      "funnet": "2026-07-23T10:12:15.308508+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stargate sg1 kort Teal’c",
-      "pris": 540,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/417641152",
-      "funnet": "2026-07-23T10:12:14.622207+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
