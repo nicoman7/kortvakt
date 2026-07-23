@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T22:02:18.181155+00:00",
+  "sist_sjekket": "2026-07-23T22:04:14.506271+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort med bl.a. George Best og David Beckham",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447665735",
+      "funnet": "2026-07-23T22:04:14.504336+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Canari 257/217 Ultra Rare (UR) Ascended Heroes NM",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470652461",
+      "funnet": "2026-07-23T22:04:13.768998+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 8,
       "lenke": "https://www.finn.no/recommerce/forsale/item/428413240",
       "funnet": "2026-07-23T19:08:17.943342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Jalen Rose Superior Signatures basketkort autograf 2023/24",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470637650",
-      "funnet": "2026-07-23T19:08:17.525911+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Mega Froslass EX - Mega Dream -  224/193",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464765731",
-      "funnet": "2026-07-23T19:08:17.110822+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
