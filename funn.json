@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T18:36:23.103510+00:00",
+  "sist_sjekket": "2026-07-23T18:38:21.263307+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/362586985",
+      "funnet": "2026-07-23T18:38:21.261370+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/428233811",
+      "funnet": "2026-07-23T18:38:20.488775+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort IR illustrasjon",
       "pris": 199,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470621992",
       "funnet": "2026-07-23T16:28:20.817013+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - Ascended heroes, prismatic evolutions pakker og mer!",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470042418",
-      "funnet": "2026-07-23T16:28:20.439621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Select fotballkort Simon Adingra rosa parallel",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470621793",
-      "funnet": "2026-07-23T16:26:16.012330+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
