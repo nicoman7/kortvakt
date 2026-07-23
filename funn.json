@@ -1,6 +1,70 @@
 {
-  "sist_sjekket": "2026-07-23T09:02:15.000997+00:00",
+  "sist_sjekket": "2026-07-23T09:04:18.976604+00:00",
   "funn": [
+    {
+      "tittel": "Peter Schmeichel Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406702525",
+      "funnet": "2026-07-23T09:04:18.974596+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Robert Lewandowski Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395379579",
+      "funnet": "2026-07-23T09:04:18.280057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Xavi Simons Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446539863",
+      "funnet": "2026-07-23T09:04:17.991283+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thomas Muller Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464165576",
+      "funnet": "2026-07-23T09:04:17.095053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Robert Lewandowski Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/409521759",
+      "funnet": "2026-07-23T09:04:16.414679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Parasect 48/123",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470575838",
+      "funnet": "2026-07-23T09:04:15.765463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Numel 57/106",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470576045",
+      "funnet": "2026-07-23T09:04:15.416354+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gamle Boing Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470575978",
+      "funnet": "2026-07-23T09:04:14.807967+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "One Piece TCG kort Borsalino karakterkort",
       "pris": 800,
@@ -1135,70 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470557861",
       "funnet": "2026-07-23T01:12:18.395533+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UEFA Declan Rice Arsenal kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557850",
-      "funnet": "2026-07-23T01:10:27.779101+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Great Tusk ex 123/198 – Double Rare – Scarlet & Violet Base Set",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557853",
-      "funnet": "2026-07-23T01:10:27.376106+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spidops ex 019/198 – Double Rare – Scarlet & Violet Base Set",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557856",
-      "funnet": "2026-07-23T01:10:26.587606+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps UCL fotballkort Myles Lewis-Skelly Arsenal",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557855",
-      "funnet": "2026-07-23T01:10:25.764150+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet lot med holo og V-kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469974217",
-      "funnet": "2026-07-23T01:10:25.027824+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Azumarill ex 084/217 – Double Rare – Ascended Heroes",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557786",
-      "funnet": "2026-07-23T01:08:20.158707+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eliou Mayenda Sunderland Premier League samlekort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557842",
-      "funnet": "2026-07-23T01:08:19.822023+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lillie’s Clefairy ex 076/217 – Double Rare – Ascended Heroes",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470557846",
-      "funnet": "2026-07-23T01:08:19.187217+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
