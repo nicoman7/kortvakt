@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T08:01:01.519144+00:00",
+  "sist_sjekket": "2026-07-23T08:02:15.616416+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470569720",
+      "funnet": "2026-07-23T08:02:15.614207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manchester City Chronicles fotballkort",
       "pris": 15,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-07-22T22:44:14.159490+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Darkrai EX",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470555384",
-      "funnet": "2026-07-22T22:42:17.104995+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
