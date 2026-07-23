@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T02:02:19.573110+00:00",
+  "sist_sjekket": "2026-07-23T02:04:15.269466+00:00",
   "funn": [
+    {
+      "tittel": "Hello kitty and friends samlekort m/perm.",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470558503",
+      "funnet": "2026-07-23T02:04:15.267394+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚡️Diverse Pokemonkort Hits - For Trade & Salg⚡️",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470550226",
       "funnet": "2026-07-22T21:10:29.982727+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotball kort album",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470549949",
-      "funnet": "2026-07-22T21:10:29.720742+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
