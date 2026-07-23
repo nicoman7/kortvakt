@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T18:22:28.173830+00:00",
+  "sist_sjekket": "2026-07-23T18:24:21.330333+00:00",
   "funn": [
+    {
+      "tittel": "Kom med bud!! Pokemon samlekort lot",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458159783",
+      "funnet": "2026-07-23T18:24:21.328508+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "STOR Pokemonsamling! Sealed, Graderte & raw kort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470031819",
+      "funnet": "2026-07-23T18:24:20.115667+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sjeldne Pokemon kort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/364810093",
       "funnet": "2026-07-23T16:14:18.050378+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aurorus 092/088 Illustration Rare (IR) Perfect Order NM",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470620105",
-      "funnet": "2026-07-23T16:14:17.676052+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon mystery bag",
-      "pris": 155,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464495151",
-      "funnet": "2026-07-23T16:10:43.122779+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
