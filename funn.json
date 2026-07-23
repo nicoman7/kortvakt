@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T07:22:15.527481+00:00",
+  "sist_sjekket": "2026-07-23T07:24:19.326986+00:00",
   "funn": [
+    {
+      "tittel": "IVE SWITCH fotokort Yujin",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457138030",
+      "funnet": "2026-07-23T07:24:19.324926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "fotball kort til salgs",
       "pris": 80,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470552691",
       "funnet": "2026-07-22T21:54:40.524950+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Zygarde EX",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470552766",
-      "funnet": "2026-07-22T21:54:40.162528+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
