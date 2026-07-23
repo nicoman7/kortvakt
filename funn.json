@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T20:34:21.078194+00:00",
+  "sist_sjekket": "2026-07-23T20:36:15.804959+00:00",
   "funn": [
+    {
+      "tittel": "first partner kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470646175",
+      "funnet": "2026-07-23T20:36:15.802900+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470629991",
       "funnet": "2026-07-23T17:50:25.460336+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Espeon 175 Umbreon 176",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470629212",
-      "funnet": "2026-07-23T17:48:18.141726+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
