@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T18:38:21.263307+00:00",
+  "sist_sjekket": "2026-07-23T18:40:33.214413+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 7,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/428411829",
+      "funnet": "2026-07-23T18:40:33.212363+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
+      "funnet": "2026-07-23T18:40:32.456355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 55,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/235896742",
       "funnet": "2026-07-23T16:28:21.734289+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rolf Halvorsen Odd Skien Boksing sigarettkort Tiedemanns Tobak 30-tallet",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/206772543",
-      "funnet": "2026-07-23T16:28:21.164176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Gianluca Prestianni Benfica kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470621992",
-      "funnet": "2026-07-23T16:28:20.817013+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
