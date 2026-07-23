@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T10:32:18.013356+00:00",
+  "sist_sjekket": "2026-07-23T10:34:15.977916+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470584551",
+      "funnet": "2026-07-23T10:34:15.975576+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Buffon Juventus fotballkort",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464643700",
       "funnet": "2026-07-23T08:20:24.948280+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ash’s Pikachu samlekort SM112",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470571014",
-      "funnet": "2026-07-23T08:14:18.136376+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
