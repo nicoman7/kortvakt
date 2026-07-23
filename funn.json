@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T23:46:16.774399+00:00",
+  "sist_sjekket": "2026-07-23T23:48:17.736272+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort selges",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470655674",
+      "funnet": "2026-07-23T23:48:17.734173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/363546362",
       "funnet": "2026-07-23T20:32:20.468793+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort nye og gamle",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470645235",
-      "funnet": "2026-07-23T20:32:19.585219+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
