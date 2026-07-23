@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T07:20:21.891308+00:00",
+  "sist_sjekket": "2026-07-23T07:22:15.527481+00:00",
   "funn": [
+    {
+      "tittel": "fotball kort til salgs",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/349141359",
+      "funnet": "2026-07-23T07:22:15.525030+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 9 Zygarde GX #SV65 - Pokemon Hidden Fates",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 175,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470552766",
       "funnet": "2026-07-22T21:54:40.162528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "First Partner Pokemon Series 1 - GEN 4 - Turtwig 040, Chimchar 041, Piplup 042",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457168294",
-      "funnet": "2026-07-22T21:54:39.396924+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
