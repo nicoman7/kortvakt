@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-23T09:20:23.627988+00:00",
+  "sist_sjekket": "2026-07-23T09:22:16.606565+00:00",
   "funn": [
+    {
+      "tittel": "Kickers Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470577644",
+      "funnet": "2026-07-23T09:22:16.604406+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort av Oscar Bobb med autograf selges!",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470577494",
+      "funnet": "2026-07-23T09:22:15.993136+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Chilling Reign ETB`s",
+      "pris": 1795,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/225782816",
+      "funnet": "2026-07-23T09:22:15.537770+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hockeykort (ishockey kort)",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 135,
       "lenke": "https://www.finn.no/recommerce/forsale/item/457197213",
       "funnet": "2026-07-23T04:46:18.661355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boing Raul Gonzalez Real Madrid samlekort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457196768",
-      "funnet": "2026-07-23T04:44:18.731870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Diego Forlán Atlético Madrid Uruguay",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457197759",
-      "funnet": "2026-07-23T04:44:18.330103+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Champions League 2008/2009 Sergio Agüero samle kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457196953",
-      "funnet": "2026-07-23T04:44:17.459328+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
