@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T23:32:17.095222+00:00",
+  "sist_sjekket": "2026-07-23T23:34:16.358440+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Roaring Skies",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470655365",
+      "funnet": "2026-07-23T23:34:16.356386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Pascal Gross 04/10 Brighton & Hove Albion",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/382737544",
       "funnet": "2026-07-23T20:30:39.859275+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cynthia's Roserade Destined Rivals 184/182 Illustration Rare",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470645273",
-      "funnet": "2026-07-23T20:30:39.036686+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
