@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T19:36:16.871558+00:00",
+  "sist_sjekket": "2026-07-23T19:38:17.604536+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer kort samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470640545",
+      "funnet": "2026-07-23T19:38:17.602307+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Erling Haaland 2020-21 Topps Merlin Chrome #65 (Borussia Dortmund / UCL)",
       "pris": 120,
@@ -1190,14 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470623408",
       "funnet": "2026-07-23T16:46:16.383578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Sunflora",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470623613",
-      "funnet": "2026-07-23T16:46:16.135530+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
