@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-23T07:24:19.326986+00:00",
+  "sist_sjekket": "2026-07-23T07:26:19.772258+00:00",
   "funn": [
+    {
+      "tittel": "IVE Secret Apple music fotokort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457137484",
+      "funnet": "2026-07-23T07:26:19.770255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2025-26 Topps NOW Cooper Flagg #86",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447590857",
+      "funnet": "2026-07-23T07:26:18.656760+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon div Mega Evolution hits",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470565907",
+      "funnet": "2026-07-23T07:26:17.718419+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "IVE SWITCH fotokort Yujin",
       "pris": 40,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470553179",
       "funnet": "2026-07-22T21:58:19.419907+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
-      "funnet": "2026-07-22T21:56:18.926790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470552472",
-      "funnet": "2026-07-22T21:54:41.351584+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Manectric EX kort holografisk",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470552691",
-      "funnet": "2026-07-22T21:54:40.524950+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
