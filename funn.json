@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T20:02:16.323408+00:00",
+  "sist_sjekket": "2026-07-23T20:04:18.841668+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort selges",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/405887229",
+      "funnet": "2026-07-23T20:04:18.839506+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort PSA-gradert samling",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470624787",
       "funnet": "2026-07-23T16:58:17.573074+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mimikyu Jumbo Holo Glins Celebrations Kort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464734778",
-      "funnet": "2026-07-23T16:56:20.270556+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
