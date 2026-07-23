@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T06:56:13.593819+00:00",
+  "sist_sjekket": "2026-07-23T06:58:17.826530+00:00",
   "funn": [
+    {
+      "tittel": "Pink Panter kort fra 1984",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/236514641",
+      "funnet": "2026-07-23T06:58:17.824557+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "BORDKORT",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/119250698",
+      "funnet": "2026-07-23T06:58:17.424293+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Violet ex Booster Box sv1V 2222",
       "pris": 899,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470551549",
       "funnet": "2026-07-22T21:41:04.363254+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Victini V kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470551908",
-      "funnet": "2026-07-22T21:41:03.543461+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Anthea & Concordia samlekort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470551926",
-      "funnet": "2026-07-22T21:41:02.611796+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
