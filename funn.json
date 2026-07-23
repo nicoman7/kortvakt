@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T16:36:21.656503+00:00",
+  "sist_sjekket": "2026-07-23T16:38:18.245589+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling masse Panini stickers",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470622381",
+      "funnet": "2026-07-23T16:38:18.243260+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Topps Chrome fotballkort Noni Madueke PSV Eindhoven",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470622763",
+      "funnet": "2026-07-23T16:38:17.846350+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "João Félix fotballkort Portugal",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-23T14:30:45.328015+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Martin Ødegaard /49 fotballkort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/355218356",
-      "funnet": "2026-07-23T14:30:45.050086+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Lorcana Epic Bulk – 22 kort (Sett 10–13)",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470610604",
-      "funnet": "2026-07-23T14:30:44.778351+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
