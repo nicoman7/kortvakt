@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T19:10:33.625825+00:00",
+  "sist_sjekket": "2026-07-23T19:12:18.423988+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447328375",
+      "funnet": "2026-07-23T19:12:18.422154+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447327784",
+      "funnet": "2026-07-23T19:12:17.461129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Koraidon EX - Ascended Heroes -  121/217",
       "pris": 45,
@@ -1182,22 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470623187",
       "funnet": "2026-07-23T16:42:19.683952+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCL Oscar Gloukh autografkort 40/75 Ajax",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470622715",
-      "funnet": "2026-07-23T16:42:18.986689+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Granit Xhaka Arsenal Revolution samlekort",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470623309",
-      "funnet": "2026-07-23T16:42:18.613975+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
