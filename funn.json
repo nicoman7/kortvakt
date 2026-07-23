@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T19:24:17.751644+00:00",
+  "sist_sjekket": "2026-07-23T19:26:17.863482+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/418325470",
+      "funnet": "2026-07-23T19:26:17.861232+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Søte Pokemon kort og figur",
       "pris": 120,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470623496",
       "funnet": "2026-07-23T16:44:18.680200+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Finest UEFA 2025/26 Ibrahima Konaté autografkort Liverpool",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470623298",
-      "funnet": "2026-07-23T16:44:18.307528+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
