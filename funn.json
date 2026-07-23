@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T19:58:14.775536+00:00",
+  "sist_sjekket": "2026-07-23T20:00:51.266397+00:00",
   "funn": [
+    {
+      "tittel": "Div Rosenborg fotballkort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457231005",
+      "funnet": "2026-07-23T20:00:51.264313+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Primal Groudon EX 151/160 XY - Primal Clash - Ultra Rare Full Art Holo - DMG",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464734241",
       "funnet": "2026-07-23T16:56:19.577545+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gourgeist ex 102/086 Ultra Rare (UR) Chaos Rising NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470624554",
-      "funnet": "2026-07-23T16:56:18.749460+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
