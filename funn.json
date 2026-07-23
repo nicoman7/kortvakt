@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T13:24:17.617516+00:00",
+  "sist_sjekket": "2026-07-23T13:26:16.278566+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort pikachu",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470601327",
+      "funnet": "2026-07-23T13:26:16.276240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Knockout UCC 2024/25 Archie Gray 09/10 – Impact – RC Tottenham Hotspur",
       "pris": 599,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470580558",
       "funnet": "2026-07-23T09:50:25.936153+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Illustration Rare, Trainer og EX kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470580023",
-      "funnet": "2026-07-23T09:48:16.618530+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
