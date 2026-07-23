@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-23T22:22:16.192448+00:00",
+  "sist_sjekket": "2026-07-23T22:24:18.210801+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL VM 2026 #641 Andreas Christensen Scandinavian Star",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470653308",
+      "funnet": "2026-07-23T22:24:18.209054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort Ascended Heroes Mini Tin",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470653264",
+      "funnet": "2026-07-23T22:24:17.237369+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL VM 2026 #648 Kasper Schmeichel Scandinavian Star",
       "pris": 49,
@@ -1182,22 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470640577",
       "funnet": "2026-07-23T19:40:28.495452+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Messi, men bytter gjerne mot litt flere kort enn 1",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470640735",
-      "funnet": "2026-07-23T19:40:28.026218+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470640035",
-      "funnet": "2026-07-23T19:40:27.206919+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
