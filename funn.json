@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T18:18:20.282236+00:00",
+  "sist_sjekket": "2026-07-23T18:20:23.014962+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470632727",
+      "funnet": "2026-07-23T18:20:23.013198+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kingdra [Reverse Holo] #10 Pokemon Holon Phantoms",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 155,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464495151",
       "funnet": "2026-07-23T16:10:43.122779+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon diverse japanske kort, selges billig",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470620153",
-      "funnet": "2026-07-23T16:10:42.769356+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
