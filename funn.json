@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-23T11:06:21.050806+00:00",
+  "sist_sjekket": "2026-07-23T11:08:21.604914+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470589100",
+      "funnet": "2026-07-23T11:08:21.602672+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Alexia Putellas Project 22 fotballkort 10/22",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-07-23T08:30:40.414441+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jaime Carragher Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384972776",
-      "funnet": "2026-07-23T08:28:27.798102+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
