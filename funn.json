@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-23T22:52:16.680889+00:00",
+  "sist_sjekket": "2026-07-23T22:54:19.168285+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL VM 2026 #611 Wesley Master Rookie",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470654210",
+      "funnet": "2026-07-23T22:54:19.166509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort Phantasmal Flames 3 Pack Blister",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470654204",
+      "funnet": "2026-07-23T22:54:18.222340+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon WOTC-samling |Charizard| Base Set|Skyridge|Legendary Collection|Gradert",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470086995",
+      "funnet": "2026-07-23T22:54:16.783988+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL VM 2026 #610 Zeno Debast Master Rookie",
       "pris": 49,
@@ -1174,30 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470644255",
       "funnet": "2026-07-23T20:10:24.011211+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Marvel samlekort i display",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464622803",
-      "funnet": "2026-07-23T20:10:23.377634+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Lucario EX promokort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464544043",
-      "funnet": "2026-07-23T20:08:16.474646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon M Charizard EX 101/108 - Evolutions - Ultra Rare Full Art - DMG",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470642993",
-      "funnet": "2026-07-23T20:08:15.817420+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
