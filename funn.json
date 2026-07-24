@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T08:08:13.747280+00:00",
+  "sist_sjekket": "2026-07-24T08:10:24.449629+00:00",
   "funn": [
+    {
+      "tittel": "One piece Manga art custom kort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456961472",
+      "funnet": "2026-07-24T08:10:24.447534+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Deoxys #185 - Pokemon Vstar Universe",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470652700",
       "funnet": "2026-07-23T22:06:19.231358+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Watchog 097/086 Illustration Rare (IR) Chaos Rising NM",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470652596",
-      "funnet": "2026-07-23T22:06:18.252757+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
