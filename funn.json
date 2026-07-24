@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T14:12:17.495171+00:00",
+  "sist_sjekket": "2026-07-24T14:14:17.386408+00:00",
   "funn": [
+    {
+      "tittel": "Én solgt - uåpnet boks med 50 pakker av 7 Panini-klistremerker selges",
+      "pris": 990,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470649751",
+      "funnet": "2026-07-24T14:14:17.384502+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Articuno og Zapdos kort fra Pokemon Classic Trading Card Collection",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470683889",
       "funnet": "2026-07-24T10:54:16.036200+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japanske pokemonkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466990358",
-      "funnet": "2026-07-24T10:54:15.634671+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
