@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T11:32:26.403713+00:00",
+  "sist_sjekket": "2026-07-24T11:34:18.472775+00:00",
   "funn": [
+    {
+      "tittel": "pokemonkort Psyduck",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470690710",
+      "funnet": "2026-07-24T11:34:18.470913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort meowscarada EX",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470691095",
+      "funnet": "2026-07-24T11:34:17.477771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort Ninetales Hidden Legends",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470669650",
       "funnet": "2026-07-24T09:10:26.845104+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering kort – The Mind Stone",
-      "pris": 470,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470671661",
-      "funnet": "2026-07-24T09:10:26.548940+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 2026 Premier League Samlekort - Nummererte",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456343251",
-      "funnet": "2026-07-24T08:56:16.622018+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
