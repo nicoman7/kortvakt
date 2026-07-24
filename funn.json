@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T09:46:16.151672+00:00",
+  "sist_sjekket": "2026-07-24T09:48:22.358866+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Giratina kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470678220",
+      "funnet": "2026-07-24T09:48:22.356794+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Marvel Spider-Man blader og tegneserier samling",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470655365",
       "funnet": "2026-07-23T23:34:16.356386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Pascal Gross 04/10 Brighton & Hove Albion",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470655300",
-      "funnet": "2026-07-23T23:24:15.538412+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
