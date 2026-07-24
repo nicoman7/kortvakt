@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T03:30:36.339371+00:00",
+  "sist_sjekket": "2026-07-24T03:32:19.450306+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges – 1 500 kr",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470657611",
+      "funnet": "2026-07-24T03:32:19.448405+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard Base Set Kort",
       "pris": 1399,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-07-23T21:04:28.267981+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luxray ex 195/167 Ultra Rare (UR) Twilight Masquerade NM",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470648735",
-      "funnet": "2026-07-23T21:02:20.051781+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
