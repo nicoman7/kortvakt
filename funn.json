@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T20:02:23.172827+00:00",
+  "sist_sjekket": "2026-07-24T20:04:23.092908+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Fotballkort i perm",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442621915",
+      "funnet": "2026-07-24T20:04:23.091078+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Zeraora GX kinesisk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470743608",
+      "funnet": "2026-07-24T20:04:22.086740+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Adrenalyn samlekort",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/343384966",
       "funnet": "2026-07-24T17:48:18.883586+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wigglytuff 105/094 Pokemon Phantasmal Flames 2025",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470730479",
-      "funnet": "2026-07-24T17:48:18.366192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alan Shearer Topps Premier Gold 2004 NU6",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464750385",
-      "funnet": "2026-07-24T17:48:17.947384+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
