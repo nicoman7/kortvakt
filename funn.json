@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T18:06:18.197322+00:00",
+  "sist_sjekket": "2026-07-24T18:08:18.192009+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges samlet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470732494",
+      "funnet": "2026-07-24T18:08:18.190370+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clefairy 094/088 Pokemon Perfect Order 2026",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464751725",
       "funnet": "2026-07-24T16:36:28.565990+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Eevee promo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470721673",
-      "funnet": "2026-07-24T16:36:28.565966+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
