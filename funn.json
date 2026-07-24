@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T15:42:21.231621+00:00",
+  "sist_sjekket": "2026-07-24T15:44:15.656506+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470717572",
+      "funnet": "2026-07-24T15:44:15.654416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort Espeon fra delta species",
       "pris": 900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470695148",
       "funnet": "2026-07-24T12:10:28.649573+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charmander holo kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470694365",
-      "funnet": "2026-07-24T12:08:17.988716+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
