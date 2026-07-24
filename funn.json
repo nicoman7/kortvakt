@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T15:40:26.984593+00:00",
+  "sist_sjekket": "2026-07-24T15:42:21.231621+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Espeon fra delta species",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470717314",
+      "funnet": "2026-07-24T15:42:21.229747+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470717369",
+      "funnet": "2026-07-24T15:42:20.342106+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470694365",
       "funnet": "2026-07-24T12:08:17.988716+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard VMax",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464820235",
-      "funnet": "2026-07-24T12:01:02.691402+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Litten",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470693985",
-      "funnet": "2026-07-24T12:01:02.324644+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
