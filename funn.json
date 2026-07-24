@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T15:06:15.318223+00:00",
+  "sist_sjekket": "2026-07-24T15:08:19.543592+00:00",
   "funn": [
+    {
+      "tittel": "Philippe 110/086 Ultra Rare (UR) Chaos Rising NM",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470713931",
+      "funnet": "2026-07-24T15:08:19.541702+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clamperl 195/182 Illustration Rare (IR) Destined Rivals NM",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-24T11:42:22.915255+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort selges!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470690663",
-      "funnet": "2026-07-24T11:42:22.142209+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
