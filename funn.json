@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T21:58:16.546399+00:00",
+  "sist_sjekket": "2026-07-24T22:00:49.643432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373503088",
+      "funnet": "2026-07-24T22:00:49.641413+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "FIFA World Cup 2026 Adrenalyn XL #614 Kendry Páez Master Rookie",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470752052",
+      "funnet": "2026-07-24T22:00:49.320949+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FIFA World Cup 2026 Adrenalyn XL #608 Nico Paz Master Rookie",
       "pris": 49,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/396283113",
       "funnet": "2026-07-24T20:18:20.753175+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lucas Bergvall RC Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416083083",
-      "funnet": "2026-07-24T20:18:20.123224+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome fotballkort Oscar Bobb autograf /150 Manchester City",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470744786",
-      "funnet": "2026-07-24T20:18:19.413489+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
