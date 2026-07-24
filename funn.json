@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T09:22:17.956007+00:00",
+  "sist_sjekket": "2026-07-24T09:24:20.542078+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 48,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464411316",
+      "funnet": "2026-07-24T09:24:20.540238+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Brainrot spillkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470675872",
+      "funnet": "2026-07-24T09:24:19.583818+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon kort",
       "pris": 52,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470653646",
       "funnet": "2026-07-23T22:36:15.043386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL VM 2026 #621 Diego Gómez Master Rookie",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470653594",
-      "funnet": "2026-07-23T22:34:18.455694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Birthday Pikachu #25 (Celebrations)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470653523",
-      "funnet": "2026-07-23T22:30:36.974391+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
