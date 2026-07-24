@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T10:34:16.548702+00:00",
+  "sist_sjekket": "2026-07-24T10:36:19.866704+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470684102",
+      "funnet": "2026-07-24T10:36:19.864839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Energy Retrieval Trainer holo #108",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470684176",
+      "funnet": "2026-07-24T10:36:18.971071+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Energy Switch holo #107",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 85,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470658074",
       "funnet": "2026-07-24T04:40:24.313939+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vikavolt 230/217 Pokemon Ascended Heroes 2026",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470658060",
-      "funnet": "2026-07-24T04:38:19.340261+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shedinja 144/132 Pokemon Mega Evolutions 2025 30",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470658027",
-      "funnet": "2026-07-24T04:38:18.524888+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
