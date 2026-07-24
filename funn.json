@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T09:44:22.149277+00:00",
+  "sist_sjekket": "2026-07-24T09:46:16.151672+00:00",
   "funn": [
+    {
+      "tittel": "Marvel Spider-Man blader og tegneserier samling",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470678418",
+      "funnet": "2026-07-24T09:46:16.149294+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Benjamin Pavard Nummerert Fotballkort",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470655300",
       "funnet": "2026-07-23T23:24:15.538412+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Vintage Samling Selges Samlet",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470655065",
-      "funnet": "2026-07-23T23:24:15.207550+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
