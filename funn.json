@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-24T15:48:16.809131+00:00",
+  "sist_sjekket": "2026-07-24T15:50:26.417840+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon energi-kort samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470718178",
+      "funnet": "2026-07-24T15:50:26.415732+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu (Holo) #12 «Pokemon Promo»",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470718094",
+      "funnet": "2026-07-24T15:50:25.940523+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-24T15:50:25.139729+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort nidoqueen",
       "pris": 250,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457137421",
       "funnet": "2026-07-24T12:18:18.240547+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Metal Core Barrier 232/214 Gold Secret Rare – Unbroken Bonds",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470696143",
-      "funnet": "2026-07-24T12:18:17.407879+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470695602",
-      "funnet": "2026-07-24T12:16:21.100052+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Reshiram V holo",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470696110",
-      "funnet": "2026-07-24T12:16:20.683454+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
