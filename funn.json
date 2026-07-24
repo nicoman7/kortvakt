@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T21:14:16.474623+00:00",
+  "sist_sjekket": "2026-07-24T21:16:19.306145+00:00",
   "funn": [
+    {
+      "tittel": "Vision Quest Tarot kortstokk",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470748753",
+      "funnet": "2026-07-24T21:16:19.304168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort selgest",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470239456",
+      "funnet": "2026-07-24T21:16:18.401890+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Center Pitch Black ETB",
       "pris": 1599,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/447891561",
       "funnet": "2026-07-24T20:08:21.957547+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Tag Team Psyduck & Slowpoke GX holo 2019",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470743615",
-      "funnet": "2026-07-24T20:08:21.003123+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG japansk EX-kort Cinccino",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470743876",
-      "funnet": "2026-07-24T20:08:20.589981+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
