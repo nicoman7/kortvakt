@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T12:22:20.009707+00:00",
+  "sist_sjekket": "2026-07-24T12:24:20.487094+00:00",
   "funn": [
+    {
+      "tittel": "Wailord ex 097/084 Secret Rare",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470696733",
+      "funnet": "2026-07-24T12:24:20.485159+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Forest of Vitality 109/088 Hyper Rare",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464817154",
       "funnet": "2026-07-24T09:42:23.463883+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Robert Lewandowski Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464817004",
-      "funnet": "2026-07-24T09:42:23.121274+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
