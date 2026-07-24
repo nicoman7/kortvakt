@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T12:14:16.406093+00:00",
+  "sist_sjekket": "2026-07-24T12:16:21.101977+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470695602",
+      "funnet": "2026-07-24T12:16:21.100052+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Reshiram V holo",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470696110",
+      "funnet": "2026-07-24T12:16:20.683454+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – Unown samling (6 kort)",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464816199",
       "funnet": "2026-07-24T09:42:18.892509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
-      "funnet": "2026-07-24T09:42:18.033884+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Rudiger Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464817308",
-      "funnet": "2026-07-24T09:40:31.198443+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
