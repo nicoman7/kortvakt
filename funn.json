@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-24T10:48:15.997381+00:00",
+  "sist_sjekket": "2026-07-24T10:50:29.852913+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470649600",
+      "funnet": "2026-07-24T10:50:29.850898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort Eever EX 167/131",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470685893",
+      "funnet": "2026-07-24T10:50:29.007179+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon WOTC-samling |Charizard| Base Set|Skyridge|Legendary Collection|Gradert",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470086995",
+      "funnet": "2026-07-24T10:50:28.165506+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Match Attax fotballkort samling holografiske kort",
       "pris": 450,
@@ -1174,30 +1198,6 @@
       "pris": 555,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470648287",
       "funnet": "2026-07-24T06:22:16.650330+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse graderte Pokemonkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470653982",
-      "funnet": "2026-07-24T06:22:16.057342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR Pokemonsamling! Sealed, Graderte & raw kort 🔥",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470031819",
-      "funnet": "2026-07-24T06:06:19.630659+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort vintage",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470659377",
-      "funnet": "2026-07-24T05:48:14.577903+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
