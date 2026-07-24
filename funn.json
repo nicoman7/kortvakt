@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T17:20:32.830617+00:00",
+  "sist_sjekket": "2026-07-24T17:22:22.626383+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469718485",
+      "funnet": "2026-07-24T17:22:22.624437+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Doublade 098/088 Illustration Rare (IR) Perfect Order NM",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470719444",
       "funnet": "2026-07-24T16:01:00.701024+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort mewtwo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470719300",
-      "funnet": "2026-07-24T16:00:59.890302+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
