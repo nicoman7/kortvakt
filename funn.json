@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T11:58:17.686507+00:00",
+  "sist_sjekket": "2026-07-24T12:01:02.693636+00:00",
   "funn": [
+    {
+      "tittel": "Charizard VMax",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464820235",
+      "funnet": "2026-07-24T12:01:02.691402+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Litten",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470693985",
+      "funnet": "2026-07-24T12:01:02.324644+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball VM 2026 kort - Full lagpakke Norge INKL. HAALAND - 15 kort",
       "pris": 450,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-24T09:40:28.788772+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ronaldinho Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464818467",
-      "funnet": "2026-07-24T09:40:27.965536+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jan Verthongen & Toby Alderweireld Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464819219",
-      "funnet": "2026-07-24T09:40:27.070183+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
