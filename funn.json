@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T07:56:15.464805+00:00",
+  "sist_sjekket": "2026-07-24T07:58:14.717473+00:00",
   "funn": [
+    {
+      "tittel": "Ønsker å kjøpe Pokemon TCG boosterbokser fra Sword and Shield era",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470667105",
+      "funnet": "2026-07-24T07:58:14.715264+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World Cup 26 - Christian Pulisic Momentum card",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-23T22:04:14.504336+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Canari 257/217 Ultra Rare (UR) Ascended Heroes NM",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470652461",
-      "funnet": "2026-07-23T22:04:13.768998+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
