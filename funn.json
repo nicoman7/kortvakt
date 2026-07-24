@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T07:58:14.717473+00:00",
+  "sist_sjekket": "2026-07-24T08:00:59.697986+00:00",
   "funn": [
+    {
+      "tittel": "Deoxys #185 - Pokemon Vstar Universe",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464793157",
+      "funnet": "2026-07-24T08:00:59.696583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ønsker å kjøpe Pokemon TCG boosterbokser fra Sword and Shield era",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-23T22:06:18.252757+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort med bl.a. George Best og David Beckham",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447665735",
-      "funnet": "2026-07-23T22:04:14.504336+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
