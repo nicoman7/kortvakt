@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T13:58:17.294458+00:00",
+  "sist_sjekket": "2026-07-24T14:00:49.717116+00:00",
   "funn": [
+    {
+      "tittel": "Blandede samlekort og klistremerker",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470707119",
+      "funnet": "2026-07-24T14:00:49.714873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort James Rodríguez WC 2026",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463141602",
       "funnet": "2026-07-24T10:38:15.576695+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 Premier gold 2001 fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/275249009",
-      "funnet": "2026-07-24T10:38:15.297331+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
