@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T20:44:14.435998+00:00",
+  "sist_sjekket": "2026-07-24T20:46:16.159514+00:00",
   "funn": [
+    {
+      "tittel": "Dejan Kulusevski Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449894704",
+      "funnet": "2026-07-24T20:46:16.157619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Mega Excadrill japansk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470746943",
+      "funnet": "2026-07-24T20:46:15.567822+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon etb pitch black",
       "pris": 1300,
@@ -1182,22 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470741333",
       "funnet": "2026-07-24T20:02:21.248163+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor pokemon samling selges! 150+ kort!",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470743263",
-      "funnet": "2026-07-24T20:02:20.341723+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2 Starters - Johto/Unova/Galar",
-      "pris": 1187,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470742478",
-      "funnet": "2026-07-24T19:58:17.488167+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
