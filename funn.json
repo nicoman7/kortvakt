@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-24T21:28:19.765143+00:00",
+  "sist_sjekket": "2026-07-24T21:30:35.280135+00:00",
   "funn": [
+    {
+      "tittel": "✨Pokemon Ascended Heroes hits✨",
+      "pris": 271,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470750050",
+      "funnet": "2026-07-24T21:30:35.278133+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Surfing Pikachu 111/108 - XY Evolutions",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470750093",
+      "funnet": "2026-07-24T21:30:35.005783+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes Booster Packs selges",
+      "pris": 185,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470750047",
+      "funnet": "2026-07-24T21:30:34.328001+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "fotballkort samling",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/386888262",
       "funnet": "2026-07-24T20:16:30.018353+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Houndoom EX japansk holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470744293",
-      "funnet": "2026-07-24T20:16:29.246390+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bruno Guimaraes RC Fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396770408",
-      "funnet": "2026-07-24T20:16:28.898236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yaya Toure Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396349902",
-      "funnet": "2026-07-24T20:16:28.131319+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
