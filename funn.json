@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T13:28:16.317349+00:00",
+  "sist_sjekket": "2026-07-24T13:30:41.702337+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort til salgs",
+      "pris": 1490,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470703552",
+      "funnet": "2026-07-24T13:30:41.700356+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MERLIN'S PREMIER GOLD 2000 ALBUM + syv kort",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470683713",
       "funnet": "2026-07-24T10:32:17.064258+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Wailord holo #97",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470683527",
-      "funnet": "2026-07-24T10:30:40.527752+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
