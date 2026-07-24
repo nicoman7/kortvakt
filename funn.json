@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T20:46:16.159514+00:00",
+  "sist_sjekket": "2026-07-24T20:48:20.497198+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemon kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470747220",
+      "funnet": "2026-07-24T20:48:20.495184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dejan Kulusevski Fotballkort",
       "pris": 35,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470712543",
       "funnet": "2026-07-24T20:02:21.706870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470741333",
-      "funnet": "2026-07-24T20:02:21.248163+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
