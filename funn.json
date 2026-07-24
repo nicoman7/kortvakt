@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-24T21:24:19.674499+00:00",
+  "sist_sjekket": "2026-07-24T21:26:16.282862+00:00",
   "funn": [
+    {
+      "tittel": "fotballkort samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454217039",
+      "funnet": "2026-07-24T21:26:16.280664+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Bazooka 1975/76 gamle fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470750038",
+      "funnet": "2026-07-24T21:26:15.980316+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort - blandet samling",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/396349902",
       "funnet": "2026-07-24T20:16:28.131319+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kenan Yildiz Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396592756",
-      "funnet": "2026-07-24T20:16:27.328394+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort holo/EX/V samling",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470744592",
-      "funnet": "2026-07-24T20:16:26.552504+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
