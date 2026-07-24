@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T21:36:18.945195+00:00",
+  "sist_sjekket": "2026-07-24T21:38:19.786054+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-24T21:38:19.784166+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ronaldo Nazário Legends #425 – Panini FIFA 365 Adrenalyn XL 2025",
       "pris": 80,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470744793",
       "funnet": "2026-07-24T20:18:15.403966+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Brennan Johnson RC Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/426816179",
-      "funnet": "2026-07-24T20:18:15.102676+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
