@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-24T09:50:25.903805+00:00",
+  "sist_sjekket": "2026-07-24T09:52:17.923574+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana kort – Liten samling med kjente klassikere",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470678035",
+      "funnet": "2026-07-24T09:52:17.921596+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Giratina kort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-07-23T23:40:22.981150+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Roaring Skies",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470655365",
-      "funnet": "2026-07-23T23:34:16.356386+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
