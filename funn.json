@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T20:49:29.445868+00:00",
+  "sist_sjekket": "2026-07-25T20:50:30.520248+00:00",
   "funn": [
+    {
+      "tittel": "Firkort fra 1970.  Bil og Fly",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/393705078",
+      "funnet": "2026-07-25T20:50:30.518406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5 Black Star Promo EX \"Selges samlet\"",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-25T19:08:16.310609+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Hearthflame Mask Ogerpon ex 204/187 Special Art Rare (SAR) Terastal Festival NM",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470848259",
-      "funnet": "2026-07-25T19:06:19.882544+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
