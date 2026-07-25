@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T21:52:17.000588+00:00",
+  "sist_sjekket": "2026-07-25T21:54:44.995097+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470862386",
+      "funnet": "2026-07-25T21:54:44.993277+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wailord #162 Pokemon Journey Together",
       "pris": 220,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470847245",
       "funnet": "2026-07-25T19:30:35.266362+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fan Rotom 213/193 Art Rare (AR) Japanese Mega Dream ex NM",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470850552",
-      "funnet": "2026-07-25T19:28:23.631453+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
