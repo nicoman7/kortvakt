@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T03:58:36.998915+00:00",
+  "sist_sjekket": "2026-07-25T04:02:15.901610+00:00",
   "funn": [
+    {
+      "tittel": "pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/220840123",
+      "funnet": "2026-07-25T04:02:15.899856+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Snorlax 5/112 Reverse Holo Pokemon Fire Red & Leaf Green 2024",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470757282",
+      "funnet": "2026-07-25T04:02:14.919869+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Milotic 5/101 reverse Holo stamped Pokemon Dragons Frontier 2026",
       "pris": 649,
@@ -1182,22 +1198,6 @@
       "pris": 185,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470750047",
       "funnet": "2026-07-24T21:30:34.328001+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "fotballkort samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454217039",
-      "funnet": "2026-07-24T21:26:16.280664+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Bazooka 1975/76 gamle fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470750038",
-      "funnet": "2026-07-24T21:26:15.980316+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
