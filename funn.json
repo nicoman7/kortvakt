@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T17:22:16.195540+00:00",
+  "sist_sjekket": "2026-07-25T17:24:17.372315+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort - Skyridge",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470835013",
+      "funnet": "2026-07-25T17:24:17.370302+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Abomasnow ex 157/132 Ultra Rare (UR) Mega Evolution NM",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470837026",
+      "funnet": "2026-07-25T17:24:16.643791+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lady 193/196 Ultra Rare (UR) Lost Origin NM",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-25T14:57:05.837477+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Snorlax #100 Pokemon Skyridge",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463034770",
-      "funnet": "2026-07-25T14:57:05.525310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidoqueen #22 Reverse holo Pokemon Skyridge",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463034308",
-      "funnet": "2026-07-25T14:57:04.908559+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
