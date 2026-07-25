@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T01:06:27.347455+00:00",
+  "sist_sjekket": "2026-07-25T01:08:18.365533+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Silcoon Lost Origin (007)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756241",
+      "funnet": "2026-07-25T01:08:18.363282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pitch Black boosterpakker",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756146",
+      "funnet": "2026-07-25T01:08:17.544458+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Machoke Lost Origin (87)",
       "pris": 3,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/452197596",
       "funnet": "2026-07-24T20:28:21.694562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heung-Min Son Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/411374272",
-      "funnet": "2026-07-24T20:28:21.061553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Henrikh Mkhitaryan Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462070679",
-      "funnet": "2026-07-24T20:28:20.416887+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
