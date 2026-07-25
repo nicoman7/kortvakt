@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T02:06:16.900235+00:00",
+  "sist_sjekket": "2026-07-25T02:08:21.028417+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hypno BREAKpoint (51)",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464581766",
+      "funnet": "2026-07-25T02:08:21.026556+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Milotic Primal Clash (44) Holofoil",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464692164",
+      "funnet": "2026-07-25T02:08:20.271723+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker/stickers",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756748",
+      "funnet": "2026-07-25T02:08:19.865979+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Carbink Lost Origin (108)",
       "pris": 3,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-24T20:50:27.771811+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemon kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470747220",
-      "funnet": "2026-07-24T20:48:20.495184+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dejan Kulusevski Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449894704",
-      "funnet": "2026-07-24T20:46:16.157619+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Mega Excadrill japansk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470746943",
-      "funnet": "2026-07-24T20:46:15.567822+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
