@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T13:44:13.776829+00:00",
+  "sist_sjekket": "2026-07-25T13:46:19.019520+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470809611",
+      "funnet": "2026-07-25T13:46:19.017840+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Snorlax samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470811257",
+      "funnet": "2026-07-25T13:46:18.132925+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vanillish 112/086 Illustration Rare",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756263",
+      "funnet": "2026-07-25T13:46:17.747188+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FWC18 selges eller byttes",
       "pris": 100,
@@ -1174,30 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470776957",
       "funnet": "2026-07-25T09:38:25.942405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Birthday #24 Celebrations",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470777537",
-      "funnet": "2026-07-25T09:38:25.109113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "10 pakker med Pokemonkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188213",
-      "funnet": "2026-07-25T09:32:21.867133+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og metallboks",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470776527",
-      "funnet": "2026-07-25T09:28:32.669834+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
