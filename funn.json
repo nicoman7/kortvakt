@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T10:34:26.386131+00:00",
+  "sist_sjekket": "2026-07-25T10:36:23.750732+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – 10kr Per stk.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470784163",
+      "funnet": "2026-07-25T10:36:23.749132+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Mexico 86 World Cup klistremerkealbum",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470784482",
+      "funnet": "2026-07-25T10:36:23.381886+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Scream Tail, SVP 065 Scarlet & Violet, NM",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470757963",
       "funnet": "2026-07-25T05:16:54.834845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Squirtle 63/100 Reverse Holo Stamped Pokemon Crystal Guardians 2006",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470757797",
-      "funnet": "2026-07-25T05:10:24.154190+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gyarados Vmax 029/203 Pokemon Evolving Skies 2021",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470757852",
-      "funnet": "2026-07-25T05:10:23.611611+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
