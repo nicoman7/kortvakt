@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T16:52:14.954361+00:00",
+  "sist_sjekket": "2026-07-25T16:54:19.415896+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Alt for 226,- med frakt",
+      "pris": 226,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/428960173",
+      "funnet": "2026-07-25T16:54:19.413771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mew VMAX Rainbow Rare",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470817253",
       "funnet": "2026-07-25T14:34:20.363238+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Vaporeon #45 Pokemon Team Rocke",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464314106",
-      "funnet": "2026-07-25T14:34:20.001949+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
