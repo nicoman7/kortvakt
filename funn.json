@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T10:20:24.757266+00:00",
+  "sist_sjekket": "2026-07-25T10:22:18.964167+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Gengar Lv.45 samlekort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470783271",
+      "funnet": "2026-07-25T10:22:18.962408+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Premier gold 98 fotballkort pakker uåpna",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-25T04:40:28.585432+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-07-25T04:38:18.704929+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
