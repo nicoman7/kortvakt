@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T20:50:30.520248+00:00",
+  "sist_sjekket": "2026-07-25T20:52:15.125785+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon – Div illustrasjons rare",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470858161",
+      "funnet": "2026-07-25T20:52:15.124016+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-07-25T20:52:14.868070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Firkort fra 1970.  Bil og Fly",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-25T19:08:17.520977+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon bunker med kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435178028",
-      "funnet": "2026-07-25T19:08:16.689646+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-07-25T19:08:16.310609+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
