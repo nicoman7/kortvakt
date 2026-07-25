@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T07:38:17.873180+00:00",
+  "sist_sjekket": "2026-07-25T07:40:27.371202+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470764767",
+      "funnet": "2026-07-25T07:40:27.368786+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Dark Golbat og Gyarados",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470764927",
+      "funnet": "2026-07-25T07:40:26.466617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lucas Michal RC 17/75 - Topps Purple /75 - Monaco",
       "pris": 99,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470756543",
       "funnet": "2026-07-25T01:42:17.277391+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu Lost Origin (52)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470756538",
-      "funnet": "2026-07-25T01:40:27.546272+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Minccino 152/086 Pokemon White Flare 2025",
-      "pris": 289,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470756492",
-      "funnet": "2026-07-25T01:40:27.071066+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
