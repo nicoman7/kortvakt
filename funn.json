@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T09:27:14.718749+00:00",
+  "sist_sjekket": "2026-07-25T09:28:32.672079+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort og metallboks",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470776527",
+      "funnet": "2026-07-25T09:28:32.669834+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Evolution samleboks med promokort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464581766",
       "funnet": "2026-07-25T02:08:21.026556+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Milotic Primal Clash (44) Holofoil",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464692164",
-      "funnet": "2026-07-25T02:08:20.271723+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
