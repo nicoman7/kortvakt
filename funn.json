@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T11:44:48.114136+00:00",
+  "sist_sjekket": "2026-07-25T11:47:01.477161+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470794914",
+      "funnet": "2026-07-25T11:47:01.475583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-25T11:47:01.084309+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Match Attax Fernando Torres Liverpool samlekort",
       "pris": 125,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/396579694",
       "funnet": "2026-07-25T07:20:25.401805+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diogo Dalot Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445631255",
-      "funnet": "2026-07-25T07:20:24.794880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bryan Robson Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398750080",
-      "funnet": "2026-07-25T07:20:24.040150+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
