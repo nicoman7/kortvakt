@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T11:26:17.599673+00:00",
+  "sist_sjekket": "2026-07-25T11:28:21.350073+00:00",
   "funn": [
+    {
+      "tittel": "Japanske Shiny Pokemon kort, 5kr stk",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470792188",
+      "funnet": "2026-07-25T11:28:21.348223+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "NCT JNJM Bothsides Jeno K-pop photocard sett 6 stk",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470762636",
       "funnet": "2026-07-25T07:12:21.482158+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dion Dublin fotballkort - Merlins Premier Gold 99",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/382866123",
-      "funnet": "2026-07-25T07:12:20.567769+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
