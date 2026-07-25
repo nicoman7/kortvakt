@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T15:28:13.939015+00:00",
+  "sist_sjekket": "2026-07-25T15:32:16.566345+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Ho-Oh GX + andre kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447466932",
+      "funnet": "2026-07-25T15:32:16.564350+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470823844",
+      "funnet": "2026-07-25T15:32:15.939169+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470680271",
+      "funnet": "2026-07-25T15:32:15.670017+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Finest PL 25/26 Lucas Paqueta 4/10",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470809269",
       "funnet": "2026-07-25T13:30:44.823440+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece SR og rare kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470809160",
-      "funnet": "2026-07-25T13:30:43.959411+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Articuno - 102/100 Japanese, NM",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470808625",
-      "funnet": "2026-07-25T13:28:17.847950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grusha 268/193 Special Illustration Rare",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470756244",
-      "funnet": "2026-07-25T13:26:19.355769+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
