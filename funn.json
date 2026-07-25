@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T01:40:27.548164+00:00",
+  "sist_sjekket": "2026-07-25T01:42:17.671278+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Phantump Lost Origin (16)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756541",
+      "funnet": "2026-07-25T01:42:17.669213+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Sudowoodo Lost Origin (94)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756543",
+      "funnet": "2026-07-25T01:42:17.277391+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu Lost Origin (52)",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-24T20:40:25.975590+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Argentina samling 8 stk.Messi, Maradona, Lavezzi og nummererte kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470125807",
-      "funnet": "2026-07-24T20:40:24.948723+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Abyss Eye japansk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470745815",
-      "funnet": "2026-07-24T20:38:19.908835+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
