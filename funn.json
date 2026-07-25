@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T16:10:25.656533+00:00",
+  "sist_sjekket": "2026-07-25T16:12:19.740133+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Holo kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470827292",
+      "funnet": "2026-07-25T16:12:19.737954+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Martin Stokken Langrenn Ski Selsbakk samlekort fra 1958 selges!",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470815904",
       "funnet": "2026-07-25T14:28:17.180774+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Angel Di Maria Nummerert Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470816640",
-      "funnet": "2026-07-25T14:28:16.784015+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
