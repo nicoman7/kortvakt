@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T02:02:19.362507+00:00",
+  "sist_sjekket": "2026-07-25T02:04:19.577599+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Carbink Lost Origin (108)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756696",
+      "funnet": "2026-07-25T02:04:19.575545+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Abomasnow Lost Origin (43)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756702",
+      "funnet": "2026-07-25T02:04:18.764683+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Hisuian Growlithe Lost Origin (83)",
       "pris": 3,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-24T20:46:15.567822+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon etb pitch black",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470129952",
-      "funnet": "2026-07-24T20:44:14.433887+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Viktor Gyokeres Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379351938",
-      "funnet": "2026-07-24T20:42:22.856844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
