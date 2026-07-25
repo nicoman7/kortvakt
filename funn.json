@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T17:24:17.372315+00:00",
+  "sist_sjekket": "2026-07-25T17:26:17.637695+00:00",
   "funn": [
+    {
+      "tittel": "Team Rocket's Crobat ex 217/182 Ultra Rare (UR) Destined Rivals NM",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470837252",
+      "funnet": "2026-07-25T17:26:17.635739+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort - Skyridge",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-25T14:57:06.591002+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps TV pokemonkort samling",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461952771",
-      "funnet": "2026-07-25T14:57:05.837477+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
