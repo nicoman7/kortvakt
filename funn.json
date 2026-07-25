@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T10:48:17.842602+00:00",
+  "sist_sjekket": "2026-07-25T10:51:09.153075+00:00",
   "funn": [
+    {
+      "tittel": "BTS bøker",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/332958556",
+      "funnet": "2026-07-25T10:51:09.150878+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Magikarp og Grass Energy",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470759113",
       "funnet": "2026-07-25T06:08:20.431706+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-07-25T06:02:10.590355+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
