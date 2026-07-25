@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T02:14:21.020191+00:00",
+  "sist_sjekket": "2026-07-25T02:16:17.079333+00:00",
   "funn": [
+    {
+      "tittel": "Swinub Pokemon kort",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464774754",
+      "funnet": "2026-07-25T02:16:17.077456+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Wooper Neo Genesis (82)",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464843663",
+      "funnet": "2026-07-25T02:16:16.767571+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Yuka Morii og Sachiko Adachi Pokemon Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464774849",
+      "funnet": "2026-07-25T02:16:16.148290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Growlithe Neo Destiny (68)",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470712638",
       "funnet": "2026-07-24T21:18:15.741106+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vision Quest Tarot kortstokk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470748753",
-      "funnet": "2026-07-24T21:16:19.304168+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort selgest",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470239456",
-      "funnet": "2026-07-24T21:16:18.401890+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Center Pitch Black ETB",
-      "pris": 1599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470749118",
-      "funnet": "2026-07-24T21:14:16.472592+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
