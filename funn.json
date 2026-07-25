@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T19:16:16.456087+00:00",
+  "sist_sjekket": "2026-07-25T19:18:19.694969+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet lot",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470849427",
+      "funnet": "2026-07-25T19:18:19.693083+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling – legendariske og holo kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470849185",
+      "funnet": "2026-07-25T19:18:19.266425+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mew ex 327/190 Super Secret Rare (SSR) Japanese Shiny Treasure ex NM",
+      "pris": 195,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470849469",
+      "funnet": "2026-07-25T19:18:18.309263+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clefairy 086/071 Art Rare (AR) Japanese Nihil Zero NM",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470840636",
       "funnet": "2026-07-25T17:56:23.194557+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Paldean Fates Baby Shinies!",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470155533",
-      "funnet": "2026-07-25T17:54:18.717247+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth [Gold Border] #56 Pokemon Jungle",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470840246",
-      "funnet": "2026-07-25T17:52:35.053122+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Weiss Schwarz Japanese Disney 100 kort selges samlet",
-      "pris": 295,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470839985",
-      "funnet": "2026-07-25T17:52:34.635515+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
