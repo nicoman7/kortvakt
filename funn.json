@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T12:58:18.703831+00:00",
+  "sist_sjekket": "2026-07-25T13:00:55.455793+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470805229",
+      "funnet": "2026-07-25T13:00:55.454053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Erling Haaland fotballkort leaf",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455696457",
+      "funnet": "2026-07-25T13:00:54.814048+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wigglytuff #32 Pokemon Jungle",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464627600",
+      "funnet": "2026-07-25T13:00:54.134116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-25T07:40:27.368786+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Dark Golbat og Gyarados",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470764927",
-      "funnet": "2026-07-25T07:40:26.466617+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lucas Michal RC 17/75 - Topps Purple /75 - Monaco",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470764931",
-      "funnet": "2026-07-25T07:38:17.870764+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kendry Páez RC 34/99 - Topps Carnival Green /99 - Strasbourg",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470764769",
-      "funnet": "2026-07-25T07:36:21.770203+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
