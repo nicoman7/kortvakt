@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T01:32:16.490314+00:00",
+  "sist_sjekket": "2026-07-25T01:34:19.723026+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ducklett Lost Origin (46)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756485",
+      "funnet": "2026-07-25T01:34:19.721059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Galarian Stunfisk Lost Origin (127)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756487",
+      "funnet": "2026-07-25T01:34:19.329940+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Finneon Lost Origin (40)",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470743944",
       "funnet": "2026-07-24T20:38:17.560680+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ryan Gravenberch Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/413032219",
-      "funnet": "2026-07-24T20:38:17.170874+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luis Diaz Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397377823",
-      "funnet": "2026-07-24T20:38:16.778026+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
