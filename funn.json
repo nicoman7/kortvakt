@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T06:12:14.683032+00:00",
+  "sist_sjekket": "2026-07-25T06:14:14.198182+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Flareon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470759396",
+      "funnet": "2026-07-25T06:14:14.195948+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470155533",
       "funnet": "2026-07-24T22:18:18.280425+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty & Lorelei Trainer-kort Tag Team",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470752447",
-      "funnet": "2026-07-24T22:14:15.705683+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
