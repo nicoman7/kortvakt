@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T19:52:16.594182+00:00",
+  "sist_sjekket": "2026-07-25T19:54:19.127434+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon EX kort – Pikachu, Charizard og Blastoise",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470853139",
+      "funnet": "2026-07-25T19:54:19.125716+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Noctowl 114/102 Art Rare (AR) Japanese Stellar Miracle NM",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470853118",
+      "funnet": "2026-07-25T19:54:18.163651+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Infernape 070/066 Art Rare (AR) Korean Crimson Haze NM",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470853318",
+      "funnet": "2026-07-25T19:54:17.228235+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zacian V TG21/TG30 Ultra Rare (UR) Astral Radiance Trainer Gallery NM",
       "pris": 225,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470843457",
       "funnet": "2026-07-25T18:24:14.543652+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ubrukt \"Gamegenic\" Perm til samlekort",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429272666",
-      "funnet": "2026-07-25T18:22:17.450494+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Nico Williams Limited Edition",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470843309",
-      "funnet": "2026-07-25T18:22:17.133206+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort i album",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470842147",
-      "funnet": "2026-07-25T18:22:16.863027+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
