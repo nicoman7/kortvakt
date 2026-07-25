@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-25T15:46:17.866300+00:00",
+  "sist_sjekket": "2026-07-25T15:48:16.193340+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470825806",
+      "funnet": "2026-07-25T15:48:16.191335+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Tepig 096/086 Pokemon White Flare 2025",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470826364",
+      "funnet": "2026-07-25T15:48:15.796674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Electabuzz #24 Pokemon Base Set 2",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470826328",
+      "funnet": "2026-07-25T15:48:15.009144+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "700+ vintage kort fra Magic the Gathering",
       "pris": 550,
@@ -1174,30 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470812032",
       "funnet": "2026-07-25T13:52:16.981903+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Champions League/EL/UCL Match Attax 25/26. Mange kort fra 1kr",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464931916",
-      "funnet": "2026-07-25T13:48:21.060965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Panini Skottland/Leeds 1977 Bremner, Lorimer, Jordan",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394413054",
-      "funnet": "2026-07-25T13:48:20.695139+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470809611",
-      "funnet": "2026-07-25T13:46:19.017840+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
