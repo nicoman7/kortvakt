@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T18:52:19.401358+00:00",
+  "sist_sjekket": "2026-07-25T18:54:13.620376+00:00",
   "funn": [
+    {
+      "tittel": "Disney samlekort selges samlet, pristine 10",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470846740",
+      "funnet": "2026-07-25T18:54:13.618460+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu Full Art PSA 8 – Celebrations 005/025",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470129952",
       "funnet": "2026-07-25T17:10:26.814863+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥🚨CHARIZARD🔥🚨",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462701374",
-      "funnet": "2026-07-25T17:08:15.911293+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
