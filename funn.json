@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T06:56:13.745343+00:00",
+  "sist_sjekket": "2026-07-25T06:58:19.616990+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dragon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470761805",
+      "funnet": "2026-07-25T06:58:19.614929+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Paldean Fates Baby Shinies!",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470754035",
       "funnet": "2026-07-24T23:02:12.604390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Occult Tarot kortstokk Travis McHenry",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470753461",
-      "funnet": "2026-07-24T22:48:13.915274+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
