@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-25T01:36:17.293008+00:00",
+  "sist_sjekket": "2026-07-25T01:38:21.845808+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Bronzong Lost Origin (126)",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756496",
+      "funnet": "2026-07-25T01:38:21.843755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Oddish Lost Origin (001)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470756499",
+      "funnet": "2026-07-25T01:38:21.423088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Box of Disaster Lost Origin (154)",
       "pris": 3,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-24T20:38:19.105217+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "7stk pitch black holo reversekort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470746489",
-      "funnet": "2026-07-24T20:38:18.263957+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Bulbasaur og Ivysaur",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462712294",
-      "funnet": "2026-07-24T20:38:17.910613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
