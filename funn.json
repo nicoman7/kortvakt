@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T14:34:20.365240+00:00",
+  "sist_sjekket": "2026-07-25T14:36:16.243386+00:00",
   "funn": [
+    {
+      "tittel": "Panini Norge  Erling Haaland",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470817661",
+      "funnet": "2026-07-25T14:36:16.241477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Gull kort  Real Madrid",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470795924",
       "funnet": "2026-07-25T11:52:14.326880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Random Pokemon Lot",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470794124",
-      "funnet": "2026-07-25T11:48:16.396751+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
