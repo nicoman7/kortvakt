@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T22:56:14.969126+00:00",
+  "sist_sjekket": "2026-07-25T22:58:17.869402+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-25T22:58:17.867661+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "McDonald’s Cards 2026 – 4 samlekort inkl. sjeldent “Fry Girl” #21 | UK Promo",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470851868",
       "funnet": "2026-07-25T19:40:32.303696+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470851594",
-      "funnet": "2026-07-25T19:40:31.913255+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
