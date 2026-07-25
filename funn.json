@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-25T16:14:18.544052+00:00",
+  "sist_sjekket": "2026-07-25T16:16:22.177764+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470829001",
+      "funnet": "2026-07-25T16:16:22.175916+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Sudowoodo 219/193",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464427879",
       "funnet": "2026-07-25T14:28:19.239363+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mr. Mime #22 Pokemon Jungle",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464427279",
-      "funnet": "2026-07-25T14:28:18.371266+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
