@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T21:36:16.632452+00:00",
+  "sist_sjekket": "2026-07-26T21:38:17.827888+00:00",
   "funn": [
+    {
+      "tittel": "Onew Starlight fotokort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446150698",
+      "funnet": "2026-07-26T21:38:17.826198+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Andreas Schjelderup fotballkort – 4stk RC Rookiekort",
       "pris": 149,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470969981",
       "funnet": "2026-07-26T18:50:29.261777+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort bundle Messi-Haaland-Neymar-Rondaldo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470969270",
-      "funnet": "2026-07-26T18:50:28.328895+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
