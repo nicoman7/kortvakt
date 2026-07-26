@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T10:48:14.376388+00:00",
+  "sist_sjekket": "2026-07-26T10:50:24.162712+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortsamling i metallboks",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470899925",
+      "funnet": "2026-07-26T10:50:24.161010+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Team Rockets Mewtwo",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470899763",
+      "funnet": "2026-07-26T10:50:23.196166+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Scarlet & violet kodekort",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470873280",
       "funnet": "2026-07-26T06:58:16.462048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Anthony Gordon Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470873224",
-      "funnet": "2026-07-26T06:56:42.484621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fernando Muslera Fotballkorr",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470873161",
-      "funnet": "2026-07-26T06:54:14.841560+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
