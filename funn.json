@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T05:48:23.548949+00:00",
+  "sist_sjekket": "2026-07-26T05:51:37.077538+00:00",
   "funn": [
+    {
+      "tittel": "Oscar Bobb Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870034",
+      "funnet": "2026-07-26T05:51:37.075484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Heung-Min Son Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870078",
+      "funnet": "2026-07-26T05:51:36.697129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Michael Olise Fotballkort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470859430",
       "funnet": "2026-07-25T21:10:26.893893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 samlekort i album (Selges samlet)",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470858613",
-      "funnet": "2026-07-25T21:10:26.577042+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM 2026 fotballkort og klistremerker",
-      "pris": 185,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470859303",
-      "funnet": "2026-07-25T21:10:25.929164+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
