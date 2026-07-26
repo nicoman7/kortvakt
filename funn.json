@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T13:26:21.029839+00:00",
+  "sist_sjekket": "2026-07-26T13:28:13.817883+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort// stor samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470879511",
+      "funnet": "2026-07-26T13:28:13.815700+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Flygon GX kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470923040",
+      "funnet": "2026-07-26T13:28:13.548107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort galarian obstagoon",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470914106",
       "funnet": "2026-07-26T12:26:18.566006+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464689243",
-      "funnet": "2026-07-26T12:24:21.997640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - gamle og nye",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470913371",
-      "funnet": "2026-07-26T12:24:21.131573+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
