@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-07-26T19:32:35.824393+00:00",
+  "sist_sjekket": "2026-07-26T19:34:19.244489+00:00",
   "funn": [
+    {
+      "tittel": "promo kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470975946",
+      "funnet": "2026-07-26T19:34:19.242728+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 22,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/345445149",
+      "funnet": "2026-07-26T19:34:18.747563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447124863",
+      "funnet": "2026-07-26T19:34:17.806614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Max Dowman RC Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470975814",
+      "funnet": "2026-07-26T19:34:17.362472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-07-26T19:34:16.302531+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 35,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470960687",
       "funnet": "2026-07-26T18:02:02.694140+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MetaZoo Seance samlebokser",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470961798",
-      "funnet": "2026-07-26T18:02:02.303436+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lisia's Appeal 234/191 Ultra Rare (UR) Surging Sparks NM",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470962766",
-      "funnet": "2026-07-26T18:02:01.942171+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse promo kort - NM/M/Sealed - MEP/MEG/SVP (Prisliste i annonse)",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470962643",
-      "funnet": "2026-07-26T18:02:01.104735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tyme 143/131 Ultra Rare (UR) Prismatic Evolutions NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470962579",
-      "funnet": "2026-07-26T18:02:00.734397+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Weezing 199/182 Illustration Rare (IR) Destined Rivals NM",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470963006",
-      "funnet": "2026-07-26T18:02:00.364203+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
