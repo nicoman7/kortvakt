@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T09:59:15.297729+00:00",
+  "sist_sjekket": "2026-07-26T10:04:00.795965+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon #06 Charizard samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470893210",
+      "funnet": "2026-07-26T10:04:00.793779+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Komplett Premier gold 99 fotballkort",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470870256",
       "funnet": "2026-07-26T06:00:49.607976+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort blandet lot pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460273388",
-      "funnet": "2026-07-26T06:00:49.211355+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
