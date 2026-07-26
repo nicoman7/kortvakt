@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T22:44:13.381859+00:00",
+  "sist_sjekket": "2026-07-26T22:46:15.309888+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mini tin med 100 kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470990790",
+      "funnet": "2026-07-26T22:46:15.308080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu samlekort Promo",
       "pris": 225,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470972275",
       "funnet": "2026-07-26T19:10:29.653959+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "243 Raikou Electric Topps Pokemonkort",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/410523437",
-      "funnet": "2026-07-26T19:10:28.792929+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
