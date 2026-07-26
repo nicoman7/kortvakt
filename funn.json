@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T19:14:15.671090+00:00",
+  "sist_sjekket": "2026-07-26T19:16:37.071234+00:00",
   "funn": [
+    {
+      "tittel": "Panini WC26 bytte eller salg av duplikater",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470973519",
+      "funnet": "2026-07-26T19:16:37.068980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort ( gratis frakt på alle annonser )",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470973537",
+      "funnet": "2026-07-26T19:16:36.167765+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA World Cup 2026 fotballkort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470957768",
       "funnet": "2026-07-26T17:27:36.344907+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
-      "funnet": "2026-07-26T17:27:35.494913+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Antonio Nusa RC Topps Merlin",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470957086",
-      "funnet": "2026-07-26T17:24:19.734826+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
