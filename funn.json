@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T03:20:25.050412+00:00",
+  "sist_sjekket": "2026-07-26T03:22:19.091833+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pokeballs, energy og master balls",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470868108",
+      "funnet": "2026-07-26T03:22:19.089926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Medicham 241/217 Pokemon Ascended Heroes 2026",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-25T20:06:21.067889+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Over 3kg med Destined Rivals bulk. 750g rev/holos!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470854183",
-      "funnet": "2026-07-25T20:06:20.628275+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
