@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T08:38:25.906141+00:00",
+  "sist_sjekket": "2026-07-26T08:40:23.606093+00:00",
   "funn": [
+    {
+      "tittel": "Disney Topps Chrome 2026 Blasterbokser",
+      "pris": 489,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470881168",
+      "funnet": "2026-07-26T08:40:23.604007+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 klistremerker byttes",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470868199",
       "funnet": "2026-07-26T03:42:16.943373+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pokeballs, energy og master balls",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470868108",
-      "funnet": "2026-07-26T03:22:19.089926+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
