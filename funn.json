@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T06:08:36.608410+00:00",
+  "sist_sjekket": "2026-07-26T06:11:16.772385+00:00",
   "funn": [
+    {
+      "tittel": "Julian Alvarez RC Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870999",
+      "funnet": "2026-07-26T06:11:16.770208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Karim Adeyemi Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870930",
+      "funnet": "2026-07-26T06:11:15.943788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mohammed Kudus Fotballkort",
       "pris": 35,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470860832",
       "funnet": "2026-07-25T21:28:20.747685+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort koreansk Team Rocket’s Mimikyu",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470860801",
-      "funnet": "2026-07-25T21:28:20.263288+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard Trading Card Game metallboks",
-      "pris": 290,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457584393",
-      "funnet": "2026-07-25T21:26:18.590151+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
