@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T22:08:18.239835+00:00",
+  "sist_sjekket": "2026-07-26T22:10:22.462668+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Gyarados 6/102",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470989323",
+      "funnet": "2026-07-26T22:10:22.460380+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps  fotballkort. Richarlison Tottenham",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/446945223",
       "funnet": "2026-07-26T19:06:19.870931+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Toucannon 094/084",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470972256",
-      "funnet": "2026-07-26T19:06:18.991887+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
