@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T10:06:19.593802+00:00",
+  "sist_sjekket": "2026-07-26T10:08:19.909078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470893141",
+      "funnet": "2026-07-26T10:08:19.906895+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort lot – ca. 1,1 kg | Holos, Reverse, Trainers m.m.",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470870416",
       "funnet": "2026-07-26T06:02:19.876975+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enzo Fernandez Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470870553",
-      "funnet": "2026-07-26T06:02:19.002352+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
