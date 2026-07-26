@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-26T08:42:14.439785+00:00",
+  "sist_sjekket": "2026-07-26T08:44:20.630782+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Kort",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396964809",
+      "funnet": "2026-07-26T08:44:20.628478+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Denise Linn Sacred Destiny Oracle kortstokk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464997566",
+      "funnet": "2026-07-26T08:44:20.090989+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sjelden!! Magikarp 080/073 Pokemon Triplet Beat",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470883228",
+      "funnet": "2026-07-26T08:44:19.200043+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Paldean Fates Baby Shinies!",
       "pris": 30,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470868284",
       "funnet": "2026-07-26T03:58:21.596089+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Leavanny emerging powers",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470868288",
-      "funnet": "2026-07-26T03:58:20.717109+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Sylveon cosmic eclipse",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470868277",
-      "funnet": "2026-07-26T03:56:28.926649+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Nidoqueen plasma freeze",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470868250",
-      "funnet": "2026-07-26T03:54:17.593924+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
