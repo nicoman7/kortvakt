@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-26T19:30:38.656735+00:00",
+  "sist_sjekket": "2026-07-26T19:32:35.824393+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/309025204",
+      "funnet": "2026-07-26T19:32:35.823116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kaka Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470975427",
+      "funnet": "2026-07-26T19:32:35.003172+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Max Dowman RC Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470975694",
+      "funnet": "2026-07-26T19:32:34.161763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Max Dowman RC Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470975536",
+      "funnet": "2026-07-26T19:32:33.112661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Arsenal samlekort",
       "pris": 35,
@@ -1166,38 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470963006",
       "funnet": "2026-07-26T18:02:00.364203+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crobat 093/086 Illustration Rare (IR) Chaos Rising NM",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470961997",
-      "funnet": "2026-07-26T17:56:16.414292+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Drakloak 248/217 Illustration Rare (IR) Ascended Heroes NM",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470961544",
-      "funnet": "2026-07-26T17:54:04.584322+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Charizard VMAX",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470961199",
-      "funnet": "2026-07-26T17:54:03.538676+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Claydol 092/086 Illustration Rare (IR) Chaos Rising NM",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470961349",
-      "funnet": "2026-07-26T17:54:02.608633+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
