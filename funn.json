@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T06:07:14.783832+00:00",
+  "sist_sjekket": "2026-07-26T06:08:36.608410+00:00",
   "funn": [
+    {
+      "tittel": "Mohammed Kudus Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870814",
+      "funnet": "2026-07-26T06:08:36.606423+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bruno Fernandes Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470870828",
+      "funnet": "2026-07-26T06:08:35.740256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jamie Vardy Fotballkort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457584393",
       "funnet": "2026-07-25T21:26:18.590151+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Counter Gain japansk",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470860622",
-      "funnet": "2026-07-25T21:24:16.363983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bandai One Piece Card Game samlekort japansk",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/378826899",
-      "funnet": "2026-07-25T21:24:15.547877+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
