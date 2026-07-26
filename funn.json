@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T17:16:28.994753+00:00",
+  "sist_sjekket": "2026-07-26T17:18:14.824523+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-07-26T17:18:14.822616+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flareon ex (JP) – Terastal Festival ex sv8a – Double Rare 022/187",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-26T15:46:36.471452+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-07-26T15:44:17.828524+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
