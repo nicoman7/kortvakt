@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-26T21:58:15.024360+00:00",
+  "sist_sjekket": "2026-07-26T22:02:00.760600+00:00",
   "funn": [
+    {
+      "tittel": "Graderte fotballkort Topps/Prizm",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465095940",
+      "funnet": "2026-07-26T22:02:00.758672+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort . Mohammed Salah Liverpool.",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465130797",
+      "funnet": "2026-07-26T22:02:00.003740+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Graderte Pokemon kort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465095305",
+      "funnet": "2026-07-26T22:01:59.620348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon singles engelsk/japansk",
+      "pris": 333,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470900011",
+      "funnet": "2026-07-26T22:01:58.554707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Booster Bundle",
       "pris": 1100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-26T19:06:18.144696+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini komplett album Euro 2012 + en forseglet pakke.",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446943987",
-      "funnet": "2026-07-26T19:06:17.305568+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Gengar EX kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470971283",
-      "funnet": "2026-07-26T19:02:20.177052+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax samlekort Champions League 2016/17",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470969236",
-      "funnet": "2026-07-26T19:02:19.575231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON BLACK STAR PROMO PRISMATIC EVOLUTIONS  UMBREON EX #176",
-      "pris": 325,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470157055",
-      "funnet": "2026-07-26T19:02:18.838429+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
