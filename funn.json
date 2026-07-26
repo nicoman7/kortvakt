@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T11:16:16.810761+00:00",
+  "sist_sjekket": "2026-07-26T11:18:19.483020+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort fra 2019 kom med bud og spørsmål",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470903314",
+      "funnet": "2026-07-26T11:18:19.480832+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort fra Japan",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470874988",
       "funnet": "2026-07-26T07:22:15.895098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vini Jr Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470874649",
-      "funnet": "2026-07-26T07:20:26.523264+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
