@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T10:08:19.909078+00:00",
+  "sist_sjekket": "2026-07-26T10:10:24.699494+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470894089",
+      "funnet": "2026-07-26T10:10:24.697332+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece TCG samlekort pakke",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470894143",
+      "funnet": "2026-07-26T10:10:24.017918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon hits",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470870692",
       "funnet": "2026-07-26T06:04:19.749047+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Joao Felix Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470870540",
-      "funnet": "2026-07-26T06:02:20.763867+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 stk. Ultra Pro Vivid 9-Pocket Zippered PRO-Binder / Album selges",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470870416",
-      "funnet": "2026-07-26T06:02:19.876975+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
