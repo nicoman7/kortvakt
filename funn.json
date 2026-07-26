@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T12:24:21.999448+00:00",
+  "sist_sjekket": "2026-07-26T12:26:18.568014+00:00",
   "funn": [
+    {
+      "tittel": "Riftbound kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470914106",
+      "funnet": "2026-07-26T12:26:18.566006+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470890324",
       "funnet": "2026-07-26T09:59:14.538752+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece kort selges samlet",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470891140",
-      "funnet": "2026-07-26T09:59:14.197494+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
