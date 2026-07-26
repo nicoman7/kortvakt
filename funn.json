@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T07:26:17.596365+00:00",
+  "sist_sjekket": "2026-07-26T07:28:18.145066+00:00",
   "funn": [
+    {
+      "tittel": "Gabriel Magalhaes Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470875457",
+      "funnet": "2026-07-26T07:28:18.143003+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Heung-Min Son Fotballkort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-25T23:27:09.567745+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Fotballkort VM 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
-      "funnet": "2026-07-25T23:27:08.657809+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
