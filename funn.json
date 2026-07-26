@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T17:32:10.400785+00:00",
+  "sist_sjekket": "2026-07-26T17:34:16.656206+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/339993850",
+      "funnet": "2026-07-26T17:34:16.654588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "013/094 Mega Charizard X ex (Phantasmal Flames)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470958858",
+      "funnet": "2026-07-26T17:34:16.291152+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort lot – holo/foil GX og EX samlekort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454101247",
       "funnet": "2026-07-26T16:04:25.252838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SPx Finite basketballkort - samling på 7 nummererte basketkort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435984338",
-      "funnet": "2026-07-26T16:04:24.336461+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Larry Johnson basketballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/444882184",
-      "funnet": "2026-07-26T16:04:23.461952+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
