@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-26T13:14:14.615643+00:00",
+  "sist_sjekket": "2026-07-26T13:16:40.692874+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mewtwo selges samlet",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470921332",
+      "funnet": "2026-07-26T13:16:40.690842+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon First Partner Series 2",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470921305",
+      "funnet": "2026-07-26T13:16:39.674155+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eldre pokemon kort 67kort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470921638",
+      "funnet": "2026-07-26T13:16:39.234235+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Marshadow #30 Pokemon Japanese Remix Bout",
       "pris": 75,
@@ -1174,30 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470912949",
       "funnet": "2026-07-26T12:18:23.113441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heung-Min Son Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470913004",
-      "funnet": "2026-07-26T12:18:22.280132+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin De Bruyne Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470913153",
-      "funnet": "2026-07-26T12:18:21.403361+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Paldean Fates Baby Shinies!",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470155533",
-      "funnet": "2026-07-26T12:18:20.509581+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
