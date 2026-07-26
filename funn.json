@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T07:24:15.405681+00:00",
+  "sist_sjekket": "2026-07-26T07:26:17.596365+00:00",
   "funn": [
+    {
+      "tittel": "Heung-Min Son Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470875275",
+      "funnet": "2026-07-26T07:26:17.594350+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rodri Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470875347",
+      "funnet": "2026-07-26T07:26:16.995326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manchester City Logo Fotballkort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-25T23:27:08.657809+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Birthday Pikachu 007 kinesisk 25th – PSA Gem Mint 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470865961",
-      "funnet": "2026-07-25T23:20:25.019834+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nicolas Lombaerts, Panini Adrenalyn Fifa 365",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/386298856",
-      "funnet": "2026-07-25T23:04:14.129451+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
