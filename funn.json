@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-26T07:20:26.524940+00:00",
+  "sist_sjekket": "2026-07-26T07:22:16.894747+00:00",
   "funn": [
+    {
+      "tittel": "Alexander Isak Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470874878",
+      "funnet": "2026-07-26T07:22:16.892725+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manchester United Logo Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470874988",
+      "funnet": "2026-07-26T07:22:15.895098+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vini Jr Fotballkort",
       "pris": 35,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-25T23:02:17.127976+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470863165",
-      "funnet": "2026-07-25T23:02:02.826996+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-07-25T22:58:17.867661+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
