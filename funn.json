@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T22:26:51.379600+00:00",
+  "sist_sjekket": "2026-07-26T22:28:17.811481+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
+      "funnet": "2026-07-26T22:28:17.809978+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Messi Golden Baller Panini WC",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/410521909",
       "funnet": "2026-07-26T19:10:26.752418+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470972001",
-      "funnet": "2026-07-26T19:10:26.420537+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
