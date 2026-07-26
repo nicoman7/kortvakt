@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-26T11:57:06.340488+00:00",
+  "sist_sjekket": "2026-07-26T11:58:18.091695+00:00",
   "funn": [
+    {
+      "tittel": "Final Fantasy kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/291104690",
+      "funnet": "2026-07-26T11:58:18.089980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Julian Alvarez Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470909933",
+      "funnet": "2026-07-26T11:58:17.232606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-26T11:58:16.722016+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Daniel Carvajal Fotballkort",
       "pris": 50,
@@ -1174,30 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470882871",
       "funnet": "2026-07-26T08:46:14.324951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396964809",
-      "funnet": "2026-07-26T08:44:20.628478+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Denise Linn Sacred Destiny Oracle kortstokk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464997566",
-      "funnet": "2026-07-26T08:44:20.090989+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjelden!! Magikarp 080/073 Pokemon Triplet Beat",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470883228",
-      "funnet": "2026-07-26T08:44:19.200043+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
