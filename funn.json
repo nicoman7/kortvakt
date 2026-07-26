@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-26T13:16:40.692874+00:00",
+  "sist_sjekket": "2026-07-26T13:18:16.031935+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort FIFA World Cup 2026",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470398825",
+      "funnet": "2026-07-26T13:18:16.029942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mewtwo selges samlet",
       "pris": 650,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-26T12:20:24.210046+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ash Ketchum #HV1 (Pokemon 2000 Topps)",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470912949",
-      "funnet": "2026-07-26T12:18:23.113441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
