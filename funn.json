@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-27T19:04:24.211202+00:00",
+  "sist_sjekket": "2026-07-27T19:06:25.856260+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Heat Wave Arena Booster Box",
+      "pris": 1690,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471092710",
+      "funnet": "2026-07-27T19:06:25.854243+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Yu‑Gi‑Oh! samling - med oppdatert kortliste",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449873686",
+      "funnet": "2026-07-27T19:06:25.537250+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Venusaur EX jumbo-kort + vanlig kort",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469909678",
+      "funnet": "2026-07-27T19:06:24.808565+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Terapagos ex 128/142 Jumbo kort (sealed)",
       "pris": 350,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-27T17:26:25.938949+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Marcus Thuram Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/390630039",
-      "funnet": "2026-07-27T17:24:27.190242+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andres Iniesta Limited Edition Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/354326126",
-      "funnet": "2026-07-27T17:24:26.815240+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "David De Gea Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/390625817",
-      "funnet": "2026-07-27T17:24:25.965114+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
