@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T08:00:49.802433+00:00",
+  "sist_sjekket": "2026-07-27T08:02:16.468287+00:00",
   "funn": [
+    {
+      "tittel": "flott sigarettkort  bok",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426502550",
+      "funnet": "2026-07-27T08:02:16.466091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471006731",
+      "funnet": "2026-07-27T08:02:16.091230+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling selges",
       "pris": 450,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470982104",
       "funnet": "2026-07-26T20:44:15.246575+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mtg kort selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470983192",
-      "funnet": "2026-07-26T20:44:14.617512+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney topps chrome 2026 pakke med 12 kort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470983374",
-      "funnet": "2026-07-26T20:44:14.354247+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
