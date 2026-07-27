@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T18:44:22.676763+00:00",
+  "sist_sjekket": "2026-07-27T18:46:24.515544+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Deoxys",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471090093",
+      "funnet": "2026-07-27T18:46:24.513869+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "NBA samlekort John Williams Washington Bullets",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398519282",
+      "funnet": "2026-07-27T18:46:24.110489+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Tyranitar pokeball kinesisk",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471077101",
       "funnet": "2026-07-27T17:10:28.275458+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Paldea Evolved - Baxcalibur (non-holo, Deck Exclusives)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471076929",
-      "funnet": "2026-07-27T17:10:27.480795+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select Erling Haaland samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471077128",
-      "funnet": "2026-07-27T17:10:27.027748+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
