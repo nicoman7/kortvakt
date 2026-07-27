@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T18:48:14.953493+00:00",
+  "sist_sjekket": "2026-07-27T18:50:27.495757+00:00",
   "funn": [
+    {
+      "tittel": "Promo Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471090555",
+      "funnet": "2026-07-27T18:50:27.493839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Celebrations holo",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-27T17:16:33.356253+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Chrome Erling Haaland BVB",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471076818",
-      "funnet": "2026-07-27T17:10:29.032640+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
