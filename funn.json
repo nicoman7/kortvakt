@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T07:50:23.893491+00:00",
+  "sist_sjekket": "2026-07-27T07:52:30.295553+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainerkort 83-99/111",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/410635396",
+      "funnet": "2026-07-27T07:52:30.293802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Virgil van Dijk forballkort med draktbit / Patch  20/50",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-26T20:30:11.748199+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 2013-2021 - Holos, Reverse Holos og Rares",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470979260",
-      "funnet": "2026-07-26T20:30:10.821707+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
