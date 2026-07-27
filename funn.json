@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T12:42:19.268292+00:00",
+  "sist_sjekket": "2026-07-27T12:44:20.142998+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort (Pikachu)",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471043553",
+      "funnet": "2026-07-27T12:44:20.141198+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hockeykort (ishockey kort)",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471043096",
+      "funnet": "2026-07-27T12:44:19.304032+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Energy kort fra 1999- d.d",
       "pris": 250,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471024020",
       "funnet": "2026-07-27T10:20:24.976254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ulike ekslusive fotballkort av Messi og Ronaldo",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471023508",
-      "funnet": "2026-07-27T10:20:24.348253+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Darkness Energy spesial energikort #142/147",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471023884",
-      "funnet": "2026-07-27T10:20:24.057266+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
