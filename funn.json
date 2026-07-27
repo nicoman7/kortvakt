@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T12:32:27.802245+00:00",
+  "sist_sjekket": "2026-07-27T12:34:19.276030+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort i album",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471041583",
+      "funnet": "2026-07-27T12:34:19.273574+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Friends in Alola #081 1st Anniversary Exclusive Gift Box CHINESE Promo I CGC 9",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471022912",
       "funnet": "2026-07-27T10:14:21.256445+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu kort – Basic, Quick Attack / Volt Tackle #70/100",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471023117",
-      "funnet": "2026-07-27T10:14:20.860708+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
