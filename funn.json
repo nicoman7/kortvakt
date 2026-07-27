@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T13:46:19.988728+00:00",
+  "sist_sjekket": "2026-07-27T13:48:18.910378+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges. Litt av hvert.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471051778",
+      "funnet": "2026-07-27T13:48:18.908578+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471051581",
+      "funnet": "2026-07-27T13:48:18.536243+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Illustration Collection Series 2 kortpakke",
       "pris": 549,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471031442",
       "funnet": "2026-07-27T11:18:15.687585+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup 2022 Erling Haaland Limited Edition kort",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471031348",
-      "funnet": "2026-07-27T11:16:16.292333+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Clarity Real Madrid Guti /99",
-      "pris": 165,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471030519",
-      "funnet": "2026-07-27T11:14:16.891164+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
