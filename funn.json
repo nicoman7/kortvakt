@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-27T20:44:29.869807+00:00",
+  "sist_sjekket": "2026-07-27T20:46:21.089600+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471104161",
+      "funnet": "2026-07-27T20:46:21.087222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon stor samling tilbehør!",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471103938",
+      "funnet": "2026-07-27T20:46:20.272981+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Andreas Schjelderup fotballkort – 3 stk RC Rookie",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471104584",
+      "funnet": "2026-07-27T20:46:19.483787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gemloader Akryll for charizard ex",
+      "pris": 675,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465233679",
+      "funnet": "2026-07-27T20:46:18.716999+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Now UCL 2022 #PS02 – Erling Haaland \"The Terminator Is Here\"",
       "pris": 99,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-27T18:52:23.366197+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary ETB",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090816",
-      "funnet": "2026-07-27T18:52:22.868446+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Promo Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090555",
-      "funnet": "2026-07-27T18:50:27.493839+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Celebrations holo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090395",
-      "funnet": "2026-07-27T18:48:14.951886+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Deoxys",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090093",
-      "funnet": "2026-07-27T18:46:24.513869+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
