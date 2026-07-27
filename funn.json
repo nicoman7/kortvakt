@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-27T21:06:26.494563+00:00",
+  "sist_sjekket": "2026-07-27T21:08:22.548896+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Liten samling",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429671635",
+      "funnet": "2026-07-27T21:08:22.547081+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Liten samling",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429671915",
+      "funnet": "2026-07-27T21:08:21.655245+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome Champions League Erling Haaland kort PSA-slab",
+      "pris": 1199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471106298",
+      "funnet": "2026-07-27T21:08:21.285632+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
+      "funnet": "2026-07-27T21:08:20.421719+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Snorlax holo",
       "pris": 1234,
@@ -1166,38 +1198,6 @@
       "pris": 1790,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471091013",
       "funnet": "2026-07-27T19:00:59.433439+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Black Bolt Booster Box",
-      "pris": 1990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471091046",
-      "funnet": "2026-07-27T19:00:59.046464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlekort. Tiedemanns tobakk.",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/318835259",
-      "funnet": "2026-07-27T19:00:58.415823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bytte av Panini Adrenalyn XL VM 2026",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090462",
-      "funnet": "2026-07-27T19:00:57.806691+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "[PSA9] Pikachu #1/SV-P Pokemon Japanese Promo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471091351",
-      "funnet": "2026-07-27T18:56:20.680173+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
