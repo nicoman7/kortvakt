@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T22:28:22.572032+00:00",
+  "sist_sjekket": "2026-07-27T22:30:43.112282+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-27T22:30:43.110319+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn FIFA World Cup 2026 Cards - For sale and trade",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471094967",
       "funnet": "2026-07-27T19:24:15.777116+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hits fra diverse Pokemon set",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471094303",
-      "funnet": "2026-07-27T19:24:15.087573+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
