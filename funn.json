@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-27T14:32:17.752302+00:00",
+  "sist_sjekket": "2026-07-27T14:34:22.239663+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471057366",
+      "funnet": "2026-07-27T14:34:22.237787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort i perm",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471056332",
+      "funnet": "2026-07-27T14:34:21.337676+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup Qatar 2022 samlekort-pakke 10stk",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471057655",
+      "funnet": "2026-07-27T14:34:20.442066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard VSTAR kort swsh262",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470105953",
       "funnet": "2026-07-27T12:12:15.797486+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471038719",
-      "funnet": "2026-07-27T12:10:23.915021+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Scrafty Attack Rare 231/193",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465138732",
-      "funnet": "2026-07-27T12:10:23.323994+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon tin/oppbevaringsboks med japanske kort",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471038144",
-      "funnet": "2026-07-27T12:08:23.302430+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
