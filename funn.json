@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T12:38:25.926010+00:00",
+  "sist_sjekket": "2026-07-27T12:40:27.977777+00:00",
   "funn": [
+    {
+      "tittel": "41 digitale kortpakker",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471042722",
+      "funnet": "2026-07-27T12:40:27.975575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-27T12:40:27.090803+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Yuka Morii-kort – 7 originale clay art-kort selges samlet",
       "pris": 350,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471023743",
       "funnet": "2026-07-27T10:16:20.680639+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ponyta kort Base Set #60/102",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471023549",
-      "funnet": "2026-07-27T10:16:19.894017+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pakker",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471021874",
-      "funnet": "2026-07-27T10:16:19.501324+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
