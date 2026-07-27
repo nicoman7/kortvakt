@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-27T12:48:17.249267+00:00",
+  "sist_sjekket": "2026-07-27T12:50:30.142756+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Alakazam",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471043966",
+      "funnet": "2026-07-27T12:50:30.141081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Norske VM 94-98 fotballkort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/254028583",
+      "funnet": "2026-07-27T12:50:29.726288+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort startpakke",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471043973",
+      "funnet": "2026-07-27T12:50:29.396682+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Trainer-kort Judge reverse holo",
       "pris": 2000,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-27T10:30:36.473018+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "17 stk. forskjellige engelske fotballkort MONTY GUM 1975",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471023640",
-      "funnet": "2026-07-27T10:28:18.426586+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Chilling Reign",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471019638",
-      "funnet": "2026-07-27T10:28:17.825704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av diverse fotballkort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471024543",
-      "funnet": "2026-07-27T10:28:17.546378+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
