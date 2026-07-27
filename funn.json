@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T18:34:20.193541+00:00",
+  "sist_sjekket": "2026-07-27T18:36:22.039566+00:00",
   "funn": [
+    {
+      "tittel": "Liten Pokémon bulk selges!  200x kort (Ingen energi kort)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471088284",
+      "funnet": "2026-07-27T18:36:22.037634+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering samlekort New Phyrexian",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471075423",
       "funnet": "2026-07-27T17:04:25.774351+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Greninja EX",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471076134",
-      "funnet": "2026-07-27T17:04:24.867517+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
