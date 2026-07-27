@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T18:50:27.495757+00:00",
+  "sist_sjekket": "2026-07-27T18:52:23.367915+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard XY",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471090799",
+      "funnet": "2026-07-27T18:52:23.366197+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th anniversary ETB",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471090816",
+      "funnet": "2026-07-27T18:52:22.868446+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Promo Pokemon kort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-27T17:16:34.512045+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort swamp",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471077548",
-      "funnet": "2026-07-27T17:16:34.147061+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort – V- og VMAX-kort selges samlet",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471077557",
-      "funnet": "2026-07-27T17:16:33.356253+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
