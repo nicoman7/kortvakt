@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T13:48:18.910378+00:00",
+  "sist_sjekket": "2026-07-27T13:50:23.197656+00:00",
   "funn": [
+    {
+      "tittel": "Bunke med fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471052421",
+      "funnet": "2026-07-27T13:50:23.195647+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort selges. Litt av hvert.",
       "pris": 111,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/418288146",
       "funnet": "2026-07-27T11:18:16.110048+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort (over 100 stk) + album",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471031442",
-      "funnet": "2026-07-27T11:18:15.687585+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
