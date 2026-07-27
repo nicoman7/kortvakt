@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T10:30:39.647528+00:00",
+  "sist_sjekket": "2026-07-27T10:32:24.138415+00:00",
   "funn": [
+    {
+      "tittel": "Fotball klistremerker , world cup 2026",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471025340",
+      "funnet": "2026-07-27T10:32:24.136797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "charmeleon 31/112 Holo pokemonkort",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/252790489",
+      "funnet": "2026-07-27T10:32:23.735708+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Craig Bellamy fotballkort limited edition",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-27T06:48:17.376098+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Artbox",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470999310",
-      "funnet": "2026-07-27T06:46:58.176083+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemonkort som kan være av interesse",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470986514",
-      "funnet": "2026-07-27T06:38:18.852589+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
