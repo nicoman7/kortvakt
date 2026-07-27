@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T07:34:14.892528+00:00",
+  "sist_sjekket": "2026-07-27T07:36:15.277303+00:00",
   "funn": [
+    {
+      "tittel": "Topps kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465130832",
+      "funnet": "2026-07-27T07:36:15.275272+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Prismatic Evolutions Elite Trainer Box",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471003948",
+      "funnet": "2026-07-27T07:36:14.927404+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Evolution Chaos Rising Booster Bundle kortpakke",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 1750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470980216",
       "funnet": "2026-07-26T20:14:17.875105+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 28,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/388729367",
-      "funnet": "2026-07-26T20:12:15.598982+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Simplified Chinese Collect 151C  Surprise Slim Booster Box Sealed.",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470979299",
-      "funnet": "2026-07-26T20:08:16.844226+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
