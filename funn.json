@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T08:48:16.341209+00:00",
+  "sist_sjekket": "2026-07-27T08:50:25.454501+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon (flere sider)",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471011076",
+      "funnet": "2026-07-27T08:50:25.452299+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu (Galarian Gallery)",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470984803",
       "funnet": "2026-07-26T21:02:02.852247+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse fotball/sport/samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464420925",
-      "funnet": "2026-07-26T20:58:15.127627+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
