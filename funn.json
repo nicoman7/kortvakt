@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T06:43:13.495461+00:00",
+  "sist_sjekket": "2026-07-27T06:46:58.178399+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Artbox",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470999310",
+      "funnet": "2026-07-27T06:46:58.176083+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemonkort som kan være av interesse",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-26T19:54:17.346294+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Match Attax Toni Kroos UCL Medal Winner Bayern München kort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470978294",
-      "funnet": "2026-07-26T19:54:16.938291+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
