@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-27T19:32:24.360051+00:00",
+  "sist_sjekket": "2026-07-27T19:34:24.525165+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Celebi og Lugia 1st edition",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471091285",
+      "funnet": "2026-07-27T19:34:24.523122+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort selges – enkeltvis eller samlet",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471096022",
+      "funnet": "2026-07-27T19:34:23.696185+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon League Battle Deck Mega Lucario EX kortstokk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471096535",
+      "funnet": "2026-07-27T19:34:22.544744+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Venusaur EX 112 Pokemon Fire Red & Leaf Green og Eevee BW97 Pokemon Promo selges",
       "pris": 1,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471081149",
       "funnet": "2026-07-27T17:44:25.719582+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sindre Walle Egeli RC Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471081590",
-      "funnet": "2026-07-27T17:44:25.030892+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471080632",
-      "funnet": "2026-07-27T17:42:20.003146+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps pokemonkort, Pikachu, Charizard, Gengar m.m",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471080528",
-      "funnet": "2026-07-27T17:42:19.632946+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
