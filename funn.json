@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T21:50:25.106450+00:00",
+  "sist_sjekket": "2026-07-27T21:52:15.730209+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard X",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464284637",
+      "funnet": "2026-07-27T21:52:15.728376+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Golden Baller fotballkort Arsenal",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/387250069",
       "funnet": "2026-07-27T19:20:32.607879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Battle Partners Booster Box",
-      "pris": 990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471094820",
-      "funnet": "2026-07-27T19:20:31.802647+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
