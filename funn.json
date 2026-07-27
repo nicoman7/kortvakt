@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T03:26:13.063598+00:00",
+  "sist_sjekket": "2026-07-27T03:28:13.748020+00:00",
   "funn": [
+    {
+      "tittel": "Bil kortstokker",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429175623",
+      "funnet": "2026-07-27T03:28:13.745626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece tcg – BGS/PSA 10 graderte kort",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-07-26T19:34:16.302531+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/309025204",
-      "funnet": "2026-07-26T19:32:35.823116+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
