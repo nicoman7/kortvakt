@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T21:00:54.930930+00:00",
+  "sist_sjekket": "2026-07-27T21:02:21.375884+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Snorlax holo",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471105910",
+      "funnet": "2026-07-27T21:02:21.373781+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort samling med eldre kort",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471091351",
       "funnet": "2026-07-27T18:56:20.680173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Meowth samlekort pakke",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471091472",
-      "funnet": "2026-07-27T18:56:19.824406+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
