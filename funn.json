@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T20:46:21.089600+00:00",
+  "sist_sjekket": "2026-07-27T20:48:16.812053+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mewtwo samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471104756",
+      "funnet": "2026-07-27T20:48:16.809829+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 2000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471090896",
       "funnet": "2026-07-27T18:54:27.814060+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard XY",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471090799",
-      "funnet": "2026-07-27T18:52:23.366197+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
