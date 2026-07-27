@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T23:02:16.462707+00:00",
+  "sist_sjekket": "2026-07-27T23:04:20.562977+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Zapdos 44/147 AP",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465225639",
+      "funnet": "2026-07-27T23:04:20.560744+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kenan Yildiz Fotballkort",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-27T19:34:24.523122+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort selges – enkeltvis eller samlet",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471096022",
-      "funnet": "2026-07-27T19:34:23.696185+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
