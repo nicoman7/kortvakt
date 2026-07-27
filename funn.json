@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T11:24:16.461056+00:00",
+  "sist_sjekket": "2026-07-27T11:26:17.759297+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort boeing",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471032563",
+      "funnet": "2026-07-27T11:26:17.757381+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Skylanders samlepakke med kort og metallboks",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464499527",
+      "funnet": "2026-07-27T11:26:16.853151+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Light Arcanine 12/105",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465136115",
       "funnet": "2026-07-27T09:48:17.690317+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cole Palmer Nummerert /10 Fotballkort",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471019937",
-      "funnet": "2026-07-27T09:48:17.289672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mantyke lv. 8 – Diamond & Pearl #55/130",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471019594",
-      "funnet": "2026-07-27T09:46:20.714645+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
