@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T05:12:23.797164+00:00",
+  "sist_sjekket": "2026-07-27T05:16:34.798412+00:00",
   "funn": [
+    {
+      "tittel": "Pakke med 155 pokemonkort selges enkeltvis - god stand!",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465148805",
+      "funnet": "2026-07-27T05:16:34.796519+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Destined Rivals 3-pack blister",
       "pris": 599,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470975942",
       "funnet": "2026-07-26T19:36:21.075358+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 Adrenalyn XL album + kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470974328",
-      "funnet": "2026-07-26T19:36:20.448396+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
