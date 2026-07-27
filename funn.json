@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T21:16:26.752479+00:00",
+  "sist_sjekket": "2026-07-27T21:18:19.525385+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu GG30/GG70",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471107084",
+      "funnet": "2026-07-27T21:18:19.523484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ambipom 107/094 Illustration Rare (IR) Phantasmal Flames NM",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471107115",
+      "funnet": "2026-07-27T21:18:18.599685+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Erling Haaland Borussia Dortmund samlekort PSA-graded",
       "pris": 1199,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469916435",
       "funnet": "2026-07-27T19:04:23.341340+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG samlekort vintage 2004-2010",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458316833",
-      "funnet": "2026-07-27T19:04:22.496940+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini XL VM 2026, Golden Baller - Messi",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470240476",
-      "funnet": "2026-07-27T19:04:21.587722+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
