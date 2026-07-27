@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T07:58:16.672828+00:00",
+  "sist_sjekket": "2026-07-27T08:00:49.802433+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471004824",
+      "funnet": "2026-07-27T08:00:49.800368+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sunderland AFC - komplett sett 13 stk Topps 1976 fotballkort",
       "pris": 185,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470983374",
       "funnet": "2026-07-26T20:44:14.354247+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-07-26T20:42:20.219462+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
