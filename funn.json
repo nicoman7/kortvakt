@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T09:58:21.977731+00:00",
+  "sist_sjekket": "2026-07-27T10:01:00.395146+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-27T10:01:00.393406+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Eevee samlekort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-26T23:24:17.100132+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gold Vault Wayne Rooney Manchester United samlekort",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461681830",
-      "funnet": "2026-07-26T23:16:16.814161+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
