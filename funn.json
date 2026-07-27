@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T22:48:25.460781+00:00",
+  "sist_sjekket": "2026-07-27T22:50:22.389995+00:00",
   "funn": [
+    {
+      "tittel": "Kenan Yildiz Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471112096",
+      "funnet": "2026-07-27T22:50:22.388099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland Fotballkort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-27T19:34:23.696185+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon League Battle Deck Mega Lucario EX kortstokk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471096535",
-      "funnet": "2026-07-27T19:34:22.544744+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
