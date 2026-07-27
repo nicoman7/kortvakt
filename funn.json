@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T14:12:19.390174+00:00",
+  "sist_sjekket": "2026-07-27T14:14:18.979656+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471055232",
+      "funnet": "2026-07-27T14:14:18.977731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort M Charizard EX 13/108 - XY Evolutions (Holo Rare)",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/447279809",
       "funnet": "2026-07-27T11:48:15.935984+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471035721",
-      "funnet": "2026-07-27T11:48:15.612641+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
