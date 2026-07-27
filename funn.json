@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-27T09:52:17.713607+00:00",
+  "sist_sjekket": "2026-07-27T09:54:19.585439+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - bud tas imot. Charizard EX.",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471020141",
+      "funnet": "2026-07-27T09:54:19.583691+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Chimchar #57/100",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471020727",
+      "funnet": "2026-07-27T09:54:18.781622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "10 KG med Pokemon Bulk",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471020424",
+      "funnet": "2026-07-27T09:54:18.387176+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Gligar #59/144",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471020925",
+      "funnet": "2026-07-27T09:54:17.668544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Cubone #40/95",
       "pris": 150,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-26T22:46:15.308080+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu samlekort Promo",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470990108",
-      "funnet": "2026-07-26T22:42:17.720800+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Liten samling",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/428268545",
-      "funnet": "2026-07-26T22:40:20.660498+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469718485",
-      "funnet": "2026-07-26T22:34:18.384931+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
-      "funnet": "2026-07-26T22:28:17.809978+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
