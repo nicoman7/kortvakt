@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T20:54:22.752129+00:00",
+  "sist_sjekket": "2026-07-27T20:56:22.084488+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling med eldre kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471105459",
+      "funnet": "2026-07-27T20:56:22.082315+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Monty Gum 1968  fotballkort.",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 110,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471091472",
       "funnet": "2026-07-27T18:56:19.824406+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort FIFA World Cup 2026",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470398825",
-      "funnet": "2026-07-27T18:56:19.023607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
