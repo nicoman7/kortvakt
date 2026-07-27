@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T00:52:15.793220+00:00",
+  "sist_sjekket": "2026-07-27T00:54:39.304373+00:00",
   "funn": [
+    {
+      "tittel": "Gammel Pokemon kortsamling selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470993255",
+      "funnet": "2026-07-27T00:54:39.302335+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FC Barcelona samlekort Lamine Yamal / Ander Astralaga",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470975201",
       "funnet": "2026-07-26T19:30:36.942788+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470975291",
-      "funnet": "2026-07-26T19:30:36.250267+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
