@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T20:40:33.442611+00:00",
+  "sist_sjekket": "2026-07-27T20:42:22.148429+00:00",
   "funn": [
+    {
+      "tittel": "Topps Now UCL 2022 #PS02 – Erling Haaland \"The Terminator Is Here\"",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471104061",
+      "funnet": "2026-07-27T20:42:22.146447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-07-27T20:42:21.801754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Sergio Agüero Manchester City topps 79/99",
       "pris": 70,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-27T18:46:24.513869+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "NBA samlekort John Williams Washington Bullets",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398519282",
-      "funnet": "2026-07-27T18:46:24.110489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Tyranitar pokeball kinesisk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471089488",
-      "funnet": "2026-07-27T18:44:22.674979+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
