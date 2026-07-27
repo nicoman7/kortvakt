@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-27T10:01:00.395146+00:00",
+  "sist_sjekket": "2026-07-27T10:02:22.034842+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Teddiursa 70/123 Diamond & Pearl #105/123",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471021810",
+      "funnet": "2026-07-27T10:02:22.032808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort - Mega Latios EX 280",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464910998",
+      "funnet": "2026-07-27T10:02:21.093625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed Pokemon Pitch Black",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-26T23:28:17.206816+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Dark",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470992102",
-      "funnet": "2026-07-26T23:26:15.889129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Charizard og Charmelon Charmander",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470992012",
-      "funnet": "2026-07-26T23:24:17.100132+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
