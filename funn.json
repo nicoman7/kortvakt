@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-27T14:56:20.155596+00:00",
+  "sist_sjekket": "2026-07-27T14:58:23.636724+00:00",
   "funn": [
+    {
+      "tittel": "Telekort- Spania",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471060006",
+      "funnet": "2026-07-27T14:58:23.634833+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Charizard GX kort holo",
       "pris": 840,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/345477176",
       "funnet": "2026-07-27T12:54:18.952539+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Mistbind Clique",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/337057907",
-      "funnet": "2026-07-27T12:54:18.187529+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
