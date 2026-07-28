@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T11:30:49.042728+00:00",
+  "sist_sjekket": "2026-07-28T11:32:29.576401+00:00",
   "funn": [
+    {
+      "tittel": "44 stk Erling Haaland samlekort pakke",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468872924",
+      "funnet": "2026-07-28T11:32:29.574612+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
+      "funnet": "2026-07-28T11:32:28.998458+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Reshiram [Holo] #17 Pokemon Shining Fates - 3 igjen",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471135534",
       "funnet": "2026-07-28T08:02:15.221833+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shawn Michaels Hall of Fame Autograph - 2025 Topps Chrome WWE",
-      "pris": 990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448182609",
-      "funnet": "2026-07-28T08:02:14.861471+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Honedge [Reverse Holo] #105 Pokemon Battle Styles",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/420141521",
-      "funnet": "2026-07-28T08:01:04.114559+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
