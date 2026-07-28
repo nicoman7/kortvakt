@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-28T20:52:19.149614+00:00",
+  "sist_sjekket": "2026-07-28T20:54:24.582921+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471229570",
+      "funnet": "2026-07-28T20:54:24.580293+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu #19/68 Pikachu Stamp 15 (Hidden Fates)",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471228020",
+      "funnet": "2026-07-28T20:54:23.766808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Johto Starters Totodile Cyndaquil Chikorita samlekort",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471229504",
+      "funnet": "2026-07-28T20:54:23.382673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🏒Paralleller og inserts - NHL Ishockey kort - Del 1🏒",
       "pris": 20,
@@ -1174,30 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471221763",
       "funnet": "2026-07-28T19:38:20.349254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 9 Shadowless Pikachu (Yellow Cheeks) #58/102 – Original Base Set (1999)",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471221739",
-      "funnet": "2026-07-28T19:38:19.699942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ponyta",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465147945",
-      "funnet": "2026-07-28T19:38:18.578238+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wayne Rooney Hundred Club Manchester United Topps",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/373229907",
-      "funnet": "2026-07-28T19:36:33.893613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
