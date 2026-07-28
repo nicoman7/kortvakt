@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T12:06:23.353455+00:00",
+  "sist_sjekket": "2026-07-28T12:08:23.875970+00:00",
   "funn": [
+    {
+      "tittel": "Disney kort OL Lillehammer 1994 selges 70kr",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448429891",
+      "funnet": "2026-07-28T12:08:23.873918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ønsker å kjøpe Pokémon 151 Illustration Rare / Full Art - kort.",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/423807614",
       "funnet": "2026-07-28T08:30:38.702052+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dragonite samling PSA/CGC graderte kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470589712",
-      "funnet": "2026-07-28T08:30:37.832771+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
