@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T06:36:23.857629+00:00",
+  "sist_sjekket": "2026-07-28T06:38:23.110856+00:00",
   "funn": [
+    {
+      "tittel": "kinesiske Pokemon kort",
+      "pris": 780,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471127701",
+      "funnet": "2026-07-28T06:38:23.108714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard EX XY121",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471105910",
       "funnet": "2026-07-27T21:02:21.373781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort samling med eldre kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471105459",
-      "funnet": "2026-07-27T20:56:22.082315+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
