@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T00:38:22.751951+00:00",
+  "sist_sjekket": "2026-07-28T00:40:27.981564+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Lot – 8 kort (inkl. Pikachu V)",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471114479",
+      "funnet": "2026-07-28T00:40:27.979624+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Base Set Lot – 12 kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471114529",
+      "funnet": "2026-07-28T00:40:27.315217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 052/196 – Lost Origin",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471102497",
       "funnet": "2026-07-27T20:28:24.079442+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471102366",
-      "funnet": "2026-07-27T20:26:17.939026+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rapidash [Reverse Holo] #47 Pokemon Rising Rivals",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/323340510",
-      "funnet": "2026-07-27T20:24:14.262408+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
