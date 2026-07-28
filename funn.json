@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T06:38:23.110856+00:00",
+  "sist_sjekket": "2026-07-28T06:40:28.372821+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerker, VM 2026 bytte av klistremerker",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471127411",
+      "funnet": "2026-07-28T06:40:28.370932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471098359",
+      "funnet": "2026-07-28T06:40:28.059342+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "kinesiske Pokemon kort",
       "pris": 780,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-27T21:08:21.285632+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470434409",
-      "funnet": "2026-07-27T21:08:20.421719+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Snorlax holo",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471105910",
-      "funnet": "2026-07-27T21:02:21.373781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
