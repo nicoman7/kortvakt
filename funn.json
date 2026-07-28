@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T09:02:17.721321+00:00",
+  "sist_sjekket": "2026-07-28T09:04:19.042955+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-07-28T09:04:19.041018+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON 20 STK ABYSS EYE JAPANSK",
       "pris": 999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-28T06:28:21.546410+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort kjøpt i kina",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471126758",
-      "funnet": "2026-07-28T06:24:14.332874+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
