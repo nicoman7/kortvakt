@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T15:38:31.599381+00:00",
+  "sist_sjekket": "2026-07-28T15:40:40.044284+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471190487",
+      "funnet": "2026-07-28T15:40:40.042617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – stort blandet parti av nyere kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471191684",
+      "funnet": "2026-07-28T15:40:39.617072+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 10 Pokemon Japansk Palafin ex SAR 207/187 Terastal Festival Gem Prismatic",
       "pris": 1450,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/336486104",
       "funnet": "2026-07-28T13:50:38.087926+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carl Dehn f 1908 Boksing Samlekort Portrett 1935 med autograf",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438443891",
-      "funnet": "2026-07-28T13:50:37.713212+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lugia V World Championships 2023",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471177834",
-      "funnet": "2026-07-28T13:50:36.903672+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
