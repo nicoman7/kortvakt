@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-28T18:08:30.024474+00:00",
+  "sist_sjekket": "2026-07-28T18:10:44.718532+00:00",
   "funn": [
+    {
+      "tittel": "Alakazam #H1 Pokemon Skyridge",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463866581",
+      "funnet": "2026-07-28T18:10:44.716652+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Cola Stickers",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471210491",
+      "funnet": "2026-07-28T18:10:44.298247+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor bunke Pokémon kort selges - Bulk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471210393",
+      "funnet": "2026-07-28T18:10:43.916872+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marvel samlekort Archangel, Carnage, Rasputin IV og Vulture /50",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471210800",
+      "funnet": "2026-07-28T18:10:43.555962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort lot – Mewtwo EX, Koraiodon EX, Cincinno EX m.m.",
       "pris": null,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471194240",
       "funnet": "2026-07-28T16:00:56.808529+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "massevis av pokemon kort alle er lyn type",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471191548",
-      "funnet": "2026-07-28T15:56:25.524048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lance Stroll signaturkort fra Turbo Attax 2024",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/416028524",
-      "funnet": "2026-07-28T15:56:25.170064+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Infernape holo- plasma storm",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471193323",
-      "funnet": "2026-07-28T15:56:24.516048+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 jumbo Pokémon Bloodmoon Ursaluna EX kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471193857",
-      "funnet": "2026-07-28T15:56:23.828849+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
