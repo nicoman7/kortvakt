@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T16:32:17.220202+00:00",
+  "sist_sjekket": "2026-07-28T16:34:22.566320+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – blandede kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471197896",
+      "funnet": "2026-07-28T16:34:22.564362+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471197926",
+      "funnet": "2026-07-28T16:34:21.629424+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/470547413",
       "funnet": "2026-07-28T14:26:18.719894+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Store limited Edition VM 26 kort.",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458077668",
-      "funnet": "2026-07-28T14:24:23.971182+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan’s Typhlosion 190/182 - IR - SV10: Destined Rivals - Pokemon",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471182206",
-      "funnet": "2026-07-28T14:24:23.066515+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
