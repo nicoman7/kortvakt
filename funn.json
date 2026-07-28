@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T21:20:24.017774+00:00",
+  "sist_sjekket": "2026-07-28T21:22:21.152855+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471231296",
+      "funnet": "2026-07-28T21:22:21.151218+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-07-28T21:22:20.741854+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Capacious Bucket trenerkort",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471223111",
       "funnet": "2026-07-28T19:56:18.506050+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Meowth 106/094",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471224056",
-      "funnet": "2026-07-28T19:56:18.108284+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort til salgs",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471223687",
-      "funnet": "2026-07-28T19:56:17.230446+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
