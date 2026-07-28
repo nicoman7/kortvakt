@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T22:12:20.608450+00:00",
+  "sist_sjekket": "2026-07-28T22:14:16.649085+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/347393462",
+      "funnet": "2026-07-28T22:14:16.647125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Riolu Pokemon Center #010",
       "pris": 750,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465135544",
       "funnet": "2026-07-28T20:14:29.788742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Scatterbug",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465135639",
-      "funnet": "2026-07-28T20:14:28.932397+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
