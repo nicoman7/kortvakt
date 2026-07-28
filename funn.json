@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T23:10:34.820041+00:00",
+  "sist_sjekket": "2026-07-28T23:17:21.906939+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Koreanske kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471236860",
+      "funnet": "2026-07-28T23:17:21.905034+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-07-28T23:17:21.298773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Mewtwo EX 159/162 Ultra Rare",
       "pris": 925,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-28T20:22:15.944776+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Nosepass",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465130265",
-      "funnet": "2026-07-28T20:22:15.249410+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Chimecho",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465131151",
-      "funnet": "2026-07-28T20:20:36.970609+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
