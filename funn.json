@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T03:10:23.540594+00:00",
+  "sist_sjekket": "2026-07-28T03:12:20.180405+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471115576",
+      "funnet": "2026-07-28T03:12:20.178577+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps. Star Wars. Journey to Star Wars, Rise of Skywalker. Samlekort.",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399738026",
+      "funnet": "2026-07-28T03:12:19.394504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps. Star Wars. Journey to Star Wars. Rise of Skywalker. Samlekort.",
       "pris": 130,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471103668",
       "funnet": "2026-07-27T20:38:24.002761+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera Prestige Vinicius Jr. fotballkort 15/38",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471103717",
-      "funnet": "2026-07-27T20:38:23.222056+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marvel Superhelt samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/192493107",
-      "funnet": "2026-07-27T20:38:22.397242+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
