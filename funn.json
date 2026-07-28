@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T15:12:15.596650+00:00",
+  "sist_sjekket": "2026-07-28T15:14:16.127916+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – Dhelmise",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471188358",
+      "funnet": "2026-07-28T15:14:16.125564+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2024 Trick or trade pokemonkort 30 kort",
       "pris": 275,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465121152",
       "funnet": "2026-07-28T13:36:19.369209+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Live samlekort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465154868",
-      "funnet": "2026-07-28T13:36:18.533008+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
