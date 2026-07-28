@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T06:28:21.548440+00:00",
+  "sist_sjekket": "2026-07-28T06:30:39.462779+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX XY121",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471087048",
+      "funnet": "2026-07-28T06:30:39.460743+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gamle pokemon hits",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471091755",
+      "funnet": "2026-07-28T06:30:39.166017+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "*Gi bud* Pokemon kort Black star promo, Stamp kort, cosmos holo",
       "pris": 11,
@@ -1182,22 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471105459",
       "funnet": "2026-07-27T20:56:22.082315+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Monty Gum 1968  fotballkort.",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457803175",
-      "funnet": "2026-07-27T20:50:27.700529+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Venusaur EX Full Art",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471104930",
-      "funnet": "2026-07-27T20:50:27.290753+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
