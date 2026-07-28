@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T18:42:25.140905+00:00",
+  "sist_sjekket": "2026-07-28T18:44:17.895725+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Yveltal holo",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465149119",
+      "funnet": "2026-07-28T18:44:17.894181+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471214630",
+      "funnet": "2026-07-28T18:44:17.070126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Rattata",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-28T16:38:16.633793+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "29 stk. Merlin's Premier Gold fotballkort – Premier League 1996/97",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471198300",
-      "funnet": "2026-07-28T16:36:23.219913+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – blandede kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471197896",
-      "funnet": "2026-07-28T16:34:22.564362+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
