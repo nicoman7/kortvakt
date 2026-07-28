@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T01:40:26.560337+00:00",
+  "sist_sjekket": "2026-07-28T01:42:14.105032+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 5/18 – Detective Pikachu",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471115079",
+      "funnet": "2026-07-28T01:42:14.103273+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mewtwo 12/18 – Detective Pikachu",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471115081",
+      "funnet": "2026-07-28T01:42:13.813603+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "World Cup Argentina fotballkort samling",
       "pris": 99,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471103478",
       "funnet": "2026-07-27T20:34:25.824516+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera  João Pedro Forward fotballkort 07/15",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471103384",
-      "funnet": "2026-07-27T20:34:25.385277+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Exeggutor [Reverse Holo] #2 Pokemon Roaring Skies",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/377770949",
-      "funnet": "2026-07-27T20:30:41.770832+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
