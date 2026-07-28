@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T14:50:22.923929+00:00",
+  "sist_sjekket": "2026-07-28T14:52:24.591666+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA 26 VM fotballkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471184437",
+      "funnet": "2026-07-28T14:52:24.589519+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Top Trumps kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471185632",
+      "funnet": "2026-07-28T14:52:24.213138+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Erling Håland fotballkort",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471175060",
       "funnet": "2026-07-28T13:24:21.551140+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471174975",
-      "funnet": "2026-07-28T13:20:33.589615+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort PSA/CGC",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471174963",
-      "funnet": "2026-07-28T13:20:32.740768+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
