@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T10:34:18.059463+00:00",
+  "sist_sjekket": "2026-07-28T10:36:17.692414+00:00",
   "funn": [
+    {
+      "tittel": "Reservert - pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471153939",
+      "funnet": "2026-07-28T10:36:17.690437+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hitmontop Illustration Rare",
       "pris": 85,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/331682430",
       "funnet": "2026-07-28T07:48:17.187437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Colombia Ospina Sinisterra Red Prizm Terrace Select Panini",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/400780008",
-      "funnet": "2026-07-28T07:48:16.821560+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
