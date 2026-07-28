@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T17:26:19.024369+00:00",
+  "sist_sjekket": "2026-07-28T17:28:24.787663+00:00",
   "funn": [
+    {
+      "tittel": "Eldre sjeldne pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471205104",
+      "funnet": "2026-07-28T17:28:24.785848+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Eeveelutions",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471188001",
       "funnet": "2026-07-28T15:10:29.738000+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Darkrai EX",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471188190",
-      "funnet": "2026-07-28T15:10:28.847552+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
