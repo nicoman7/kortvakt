@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-28T13:04:30.974262+00:00",
+  "sist_sjekket": "2026-07-28T13:06:25.074367+00:00",
   "funn": [
+    {
+      "tittel": "Giacomo Raspadori Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471173559",
+      "funnet": "2026-07-28T13:06:25.072676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 11/108",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471173480",
+      "funnet": "2026-07-28T13:06:23.851168+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini VM 26 Stickers - BYTTE",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471172671",
+      "funnet": "2026-07-28T13:06:23.219576+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort - West Ham",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471149659",
       "funnet": "2026-07-28T10:00:57.037505+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Polen fotballkort Contender",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471149224",
-      "funnet": "2026-07-28T09:58:16.160479+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Vaporeon og Meowth",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471148872",
-      "funnet": "2026-07-28T09:58:15.787676+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini fotballkort Jamaica Contender",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471148999",
-      "funnet": "2026-07-28T09:56:16.931376+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
