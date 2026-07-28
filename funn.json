@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T06:22:26.757566+00:00",
+  "sist_sjekket": "2026-07-28T06:24:14.334975+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort kjøpt i kina",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471126758",
+      "funnet": "2026-07-28T06:24:14.332874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-27T20:50:26.432881+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo samlekort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471104756",
-      "funnet": "2026-07-27T20:48:16.809829+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
