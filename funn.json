@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-28T15:18:25.368774+00:00",
+  "sist_sjekket": "2026-07-28T15:20:26.509720+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling med vintage Pokémon samlekort",
+      "pris": 990,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471188952",
+      "funnet": "2026-07-28T15:20:26.507414+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort i Perm",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-28T13:38:23.654207+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Energy kort Holo",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435942598",
-      "funnet": "2026-07-28T13:36:20.176224+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
