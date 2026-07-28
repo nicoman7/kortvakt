@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-28T22:08:20.449812+00:00",
+  "sist_sjekket": "2026-07-28T22:10:29.901278+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Riolu Pokemon Center #010",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471234483",
+      "funnet": "2026-07-28T22:10:29.899118+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Ampharos",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471234478",
+      "funnet": "2026-07-28T22:10:28.859098+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 390,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465135639",
       "funnet": "2026-07-28T20:14:28.932397+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Cacnea 5/106",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465137381",
-      "funnet": "2026-07-28T20:14:28.031352+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lugia holo",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465137832",
-      "funnet": "2026-07-28T20:10:34.211277+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
