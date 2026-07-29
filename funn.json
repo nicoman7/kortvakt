@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T16:54:31.084390+00:00",
+  "sist_sjekket": "2026-07-29T16:56:16.716597+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471317534",
+      "funnet": "2026-07-29T16:56:16.714497+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Torchic samlekort Topps",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/448325824",
       "funnet": "2026-07-29T15:40:32.311206+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oscar Bobb Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448325981",
-      "funnet": "2026-07-29T15:40:31.442423+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
