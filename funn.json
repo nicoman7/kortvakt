@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-29T14:58:23.849366+00:00",
+  "sist_sjekket": "2026-07-29T15:00:58.674337+00:00",
   "funn": [
+    {
+      "tittel": "Anthony Gordon Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471304306",
+      "funnet": "2026-07-29T15:00:58.672495+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Scott McTominay Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471304408",
+      "funnet": "2026-07-29T15:00:58.307799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Delta Species",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455976368",
+      "funnet": "2026-07-29T15:00:57.435017+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Moise Kean Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471304542",
+      "funnet": "2026-07-29T15:00:56.456479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bernardo Silva Fotballkort",
       "pris": 35,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-29T12:30:47.295723+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort GX weldig unike prisen kan diskuteres",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471286150",
-      "funnet": "2026-07-29T12:28:22.254175+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Meganium EX Box Ascended Heroes samleboks",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471286170",
-      "funnet": "2026-07-29T12:28:21.384471+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort mappe med flere kort",
-      "pris": 660,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471285892",
-      "funnet": "2026-07-29T12:28:20.539212+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471285557",
-      "funnet": "2026-07-29T12:26:22.663420+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
