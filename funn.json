@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-29T20:16:25.251433+00:00",
+  "sist_sjekket": "2026-07-29T20:18:16.768065+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471341135",
+      "funnet": "2026-07-29T20:18:16.766018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kinesisk Chimecho 1107/07 Gem packs volume 5",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471341026",
+      "funnet": "2026-07-29T20:18:16.169273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Shinx Rapid Strike",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465118898",
+      "funnet": "2026-07-29T20:18:15.904837+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Qwilfish",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465118585",
+      "funnet": "2026-07-29T20:18:15.577305+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ponyta",
       "pris": 220,
@@ -1166,38 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/458316833",
       "funnet": "2026-07-29T19:02:16.441649+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trainer/Item kort: Engelsk/Japansk/Koreansk",
-      "pris": 375,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471331235",
-      "funnet": "2026-07-29T19:02:15.825889+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Coca Cola sticker: Gvardiol, Kroatia",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471332419",
-      "funnet": "2026-07-29T19:00:55.380014+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Jørgen Strand Larsen Wolverhampton Wanderers samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471333210",
-      "funnet": "2026-07-29T19:00:54.963842+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort fra 1980 Topps",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471332860",
-      "funnet": "2026-07-29T18:58:20.258327+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
