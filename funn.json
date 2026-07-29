@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T13:54:34.030109+00:00",
+  "sist_sjekket": "2026-07-29T13:56:27.367594+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 135,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/402227842",
+      "funnet": "2026-07-29T13:56:27.365413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Eberechi Eze Limited Edition fotballkort England",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-29T11:18:18.057735+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "8 Topps Pokemonkort selges, 20 pr stk",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471276243",
-      "funnet": "2026-07-29T11:18:17.633624+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
