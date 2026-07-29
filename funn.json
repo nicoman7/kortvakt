@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T22:08:14.400053+00:00",
+  "sist_sjekket": "2026-07-29T22:10:23.768818+00:00",
   "funn": [
+    {
+      "tittel": "Pókemon - Rebel Clash - Sword & Shield - bulkkort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419734226",
+      "funnet": "2026-07-29T22:10:23.766751+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Duel Masters Samling 🃏",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
+      "funnet": "2026-07-29T22:10:23.450396+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Masterball/Pokeball pokemon kort Engelsk",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471338999",
       "funnet": "2026-07-29T20:01:06.312977+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026-klistermerker til salgs",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470105953",
-      "funnet": "2026-07-29T20:01:05.616194+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leroy Sane Black Edge Edition Bayern München Topps",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383505163",
-      "funnet": "2026-07-29T19:58:23.287495+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
