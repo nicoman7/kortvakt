@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T04:48:20.753456+00:00",
+  "sist_sjekket": "2026-07-29T04:50:24.339933+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Aggron holo",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471240097",
+      "funnet": "2026-07-29T04:50:24.337823+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471226859",
       "funnet": "2026-07-28T20:30:40.832509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Galarian Obstagoon kort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465126864",
-      "funnet": "2026-07-28T20:30:39.899308+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
