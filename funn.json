@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T09:32:21.788148+00:00",
+  "sist_sjekket": "2026-07-29T09:34:26.380094+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-29T09:34:26.378147+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "XXL limited edition Panini World Cup 2026",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/420136313",
       "funnet": "2026-07-29T07:42:18.550813+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Whiscash 36/189 fra Astral Radiance (Reverse Holo)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471249788",
-      "funnet": "2026-07-29T07:42:18.120954+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
