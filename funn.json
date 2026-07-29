@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T13:56:27.367594+00:00",
+  "sist_sjekket": "2026-07-29T13:58:20.418063+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard X ex PSA 9.",
+      "pris": 525,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471297127",
+      "funnet": "2026-07-29T13:58:20.416376+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Champions League fotballkort – Ronaldo, Mbappé og Lamine Yamal",
+      "pris": 1399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471297195",
+      "funnet": "2026-07-29T13:58:19.578699+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 135,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-29T11:20:26.325600+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse bindere til samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465187600",
-      "funnet": "2026-07-29T11:18:18.918377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471276816",
-      "funnet": "2026-07-29T11:18:18.057735+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
