@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T21:18:17.143987+00:00",
+  "sist_sjekket": "2026-07-29T21:20:23.667779+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/371047133",
+      "funnet": "2026-07-29T21:20:23.665792+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lytter til bud på gamle pokemon-esker (tomme)",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471337607",
       "funnet": "2026-07-29T19:42:23.647882+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alessandro Bastoni Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471337804",
-      "funnet": "2026-07-29T19:42:22.837786+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
