@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T13:01:08.618652+00:00",
+  "sist_sjekket": "2026-07-29T13:02:23.272713+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mew ex - Holon Phantoms",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471287875",
+      "funnet": "2026-07-29T13:02:23.270538+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard promo og trio.",
       "pris": 145,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-29T09:40:33.104013+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-07-29T09:34:26.378147+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
