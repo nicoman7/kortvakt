@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T12:18:16.456107+00:00",
+  "sist_sjekket": "2026-07-29T12:20:30.075954+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges – høyeste bud vinner",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285178",
+      "funnet": "2026-07-29T12:20:30.074087+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON !  Over 1600 kort!  Fra 2020 - 22, 24 - 25.",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471258880",
       "funnet": "2026-07-29T09:02:24.124774+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SABLEYE 23 - REVERSE HOLO - EX DEOXYS - POKEMON KORT FRA 2005",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470768306",
-      "funnet": "2026-07-29T09:02:23.354428+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
