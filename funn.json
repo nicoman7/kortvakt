@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-29T14:06:36.658633+00:00",
+  "sist_sjekket": "2026-07-29T14:08:30.309373+00:00",
   "funn": [
+    {
+      "tittel": "NEO DESTINY Pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471275099",
+      "funnet": "2026-07-29T14:08:30.307134+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Martin Ødegaard Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449267004",
+      "funnet": "2026-07-29T14:08:29.447336+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Hidden Fates boosterpakker samlekort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471298576",
+      "funnet": "2026-07-29T14:08:28.591705+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Espeon EX",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471298423",
+      "funnet": "2026-07-29T14:08:27.697239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Eevee EX",
       "pris": 2000,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-29T11:36:26.368047+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 25/26 UCL Match Attax Madness London Limited Edition",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467569068",
-      "funnet": "2026-07-29T11:34:27.368021+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL/FIFA 365 – 42 fotballkort med spesialkort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471278612",
-      "funnet": "2026-07-29T11:34:26.459427+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Anthony Gordon /50",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471278218",
-      "funnet": "2026-07-29T11:30:47.177342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort 80% av marked/pricecharting",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471276584",
-      "funnet": "2026-07-29T11:30:46.287868+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
