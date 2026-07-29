@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T19:14:24.301523+00:00",
+  "sist_sjekket": "2026-07-29T19:16:26.176035+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471334875",
+      "funnet": "2026-07-29T19:16:26.173730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Super Mario Panini samlekort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 329,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471319145",
       "funnet": "2026-07-29T17:08:25.718627+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lavt nummerert Patricia Guijarro kort 33/49",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471318329",
-      "funnet": "2026-07-29T17:08:24.801296+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
