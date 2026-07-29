@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T11:58:26.065435+00:00",
+  "sist_sjekket": "2026-07-29T12:00:52.168943+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463822924",
+      "funnet": "2026-07-29T12:00:52.167200+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Rayquaza GX kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471282273",
+      "funnet": "2026-07-29T12:00:51.747399+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5 bunter pokemonkort med 100 kort i hver",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-07-29T08:56:29.615982+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marnie pokemon kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462983712",
-      "funnet": "2026-07-29T08:52:32.656548+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon build and battle sealed promo decks",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465012684",
-      "funnet": "2026-07-29T08:52:31.810744+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
