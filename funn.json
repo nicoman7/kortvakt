@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T18:26:17.431752+00:00",
+  "sist_sjekket": "2026-07-29T18:28:22.825792+00:00",
   "funn": [
+    {
+      "tittel": "Topps Konstatinos Karetsas fotballkort Genk",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471328943",
+      "funnet": "2026-07-29T18:28:22.823788+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Unova Victini Illustration Collection",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471328895",
+      "funnet": "2026-07-29T18:28:22.499253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard ex 215/197",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 950,
       "lenke": "https://www.finn.no/recommerce/forsale/item/449692157",
       "funnet": "2026-07-29T16:02:22.513695+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Franck Ribery Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393027081",
-      "funnet": "2026-07-29T16:02:21.859529+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/371598445",
-      "funnet": "2026-07-29T16:02:21.242383+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
