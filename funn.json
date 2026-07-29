@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T14:50:40.551761+00:00",
+  "sist_sjekket": "2026-07-29T14:52:17.549887+00:00",
   "funn": [
+    {
+      "tittel": "Omar Marmoush Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471303295",
+      "funnet": "2026-07-29T14:52:17.547573+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Chelsea Fotballkort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-29T12:20:30.074087+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "POKEMON !  Over 1600 kort!  Fra 2020 - 22, 24 - 25.",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471283596",
-      "funnet": "2026-07-29T12:12:22.689163+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
