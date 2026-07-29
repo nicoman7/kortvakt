@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T05:34:24.232056+00:00",
+  "sist_sjekket": "2026-07-29T05:36:16.681280+00:00",
   "funn": [
+    {
+      "tittel": "Elinor Superrare - Lorcana",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471241084",
+      "funnet": "2026-07-29T05:36:16.679377+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471212189",
       "funnet": "2026-07-28T20:36:24.946757+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Xerneas 120 HP – Aurora Horns",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465126599",
-      "funnet": "2026-07-28T20:34:18.096073+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
