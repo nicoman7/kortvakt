@@ -1,6 +1,62 @@
 {
-  "sist_sjekket": "2026-07-29T12:24:26.936544+00:00",
+  "sist_sjekket": "2026-07-29T12:26:22.665167+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285557",
+      "funnet": "2026-07-29T12:26:22.663420+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fifa Adrenalyn XL fotballkort Kjøp eller bytte",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471280262",
+      "funnet": "2026-07-29T12:26:21.742009+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Jumbo kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285755",
+      "funnet": "2026-07-29T12:26:20.679212+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling metallbokser / tins",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285748",
+      "funnet": "2026-07-29T12:26:19.641643+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gardevoir EX full art-kort Scarlet & Violet 245/198",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471284599",
+      "funnet": "2026-07-29T12:26:18.694118+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – blandet med ulike serier",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285983",
+      "funnet": "2026-07-29T12:26:18.272291+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling med graderte kort og holos",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471285977",
+      "funnet": "2026-07-29T12:26:17.753514+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor bunke Pokémon kort blandet samling",
       "pris": 1,
@@ -1144,62 +1200,6 @@
       "funnet": "2026-07-29T09:10:35.752043+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-07-29T09:10:34.859924+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard V",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471259436",
-      "funnet": "2026-07-29T09:08:17.843604+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Cinccino japansk shiny treasures",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471259649",
-      "funnet": "2026-07-29T09:08:17.471012+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Galarian Zapdos V Full Art",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471260000",
-      "funnet": "2026-07-29T09:08:17.008591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471259481",
-      "funnet": "2026-07-29T09:06:20.260915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "She-Hulk 45th Anniversary – Topps Chrome Marvel 2025",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464727126",
-      "funnet": "2026-07-29T09:06:19.363527+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon kort i eske",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464754681",
-      "funnet": "2026-07-29T09:04:26.341816+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
