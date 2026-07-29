@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T11:38:20.519998+00:00",
+  "sist_sjekket": "2026-07-29T11:40:23.935447+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471277585",
+      "funnet": "2026-07-29T11:40:23.933414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Lionel Messi Limited Edition Gold",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471256346",
       "funnet": "2026-07-29T08:44:28.362902+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Mario Götze Eintracht Frankfurt fotballkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471256285",
-      "funnet": "2026-07-29T08:40:33.052114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
