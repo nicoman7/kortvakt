@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-29T08:04:22.746321+00:00",
+  "sist_sjekket": "2026-07-29T08:06:29.104964+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471252550",
+      "funnet": "2026-07-29T08:06:29.102923+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mega Excadrill Fullart",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471252499",
+      "funnet": "2026-07-29T08:06:28.233687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mangler du enkeltkort til pokemonsamlingen din?",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471252273",
+      "funnet": "2026-07-29T08:06:27.782749+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Trick or Trade Booster pakker 2022",
       "pris": 30,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-28T22:36:20.941214+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grimer #48 Pokemon Fossil - 3 igjen",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/367266003",
-      "funnet": "2026-07-28T22:34:19.866652+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Claydol 092/086 Illustration Rare (IR) Chaos Rising",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471235656",
-      "funnet": "2026-07-28T22:34:19.026198+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Umbreon V kinesisk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471235449",
-      "funnet": "2026-07-28T22:34:18.606149+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
