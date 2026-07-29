@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T05:30:47.283022+00:00",
+  "sist_sjekket": "2026-07-29T05:32:22.851470+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471232748",
+      "funnet": "2026-07-29T05:32:22.849292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vaporeon #18 Pokemon Hidden Fates - 2 igjen",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465126599",
       "funnet": "2026-07-28T20:34:18.096073+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Aron holografisk",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465126236",
-      "funnet": "2026-07-28T20:34:17.675575+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
