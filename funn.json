@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-29T16:16:23.230399+00:00",
+  "sist_sjekket": "2026-07-29T16:18:20.244647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471313509",
+      "funnet": "2026-07-29T16:18:20.242590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger noen kort i god stand",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471307437",
       "funnet": "2026-07-29T15:28:19.935808+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch black hits",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471306934",
-      "funnet": "2026-07-29T15:24:22.331522+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
