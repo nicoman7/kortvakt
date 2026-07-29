@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T14:46:29.333662+00:00",
+  "sist_sjekket": "2026-07-29T14:48:22.379427+00:00",
   "funn": [
+    {
+      "tittel": "Joao Pedro Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471302866",
+      "funnet": "2026-07-29T14:48:22.377180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Julian Alvarez Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471170097",
+      "funnet": "2026-07-29T14:48:21.729271+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the gathering kort. Angelic Skirmisher",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446741502",
       "funnet": "2026-07-29T12:08:28.750700+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Crobat holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471283543",
-      "funnet": "2026-07-29T12:08:28.317721+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort selges til høystbydende",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471283505",
-      "funnet": "2026-07-29T12:08:27.769760+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
