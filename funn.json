@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T13:38:32.636232+00:00",
+  "sist_sjekket": "2026-07-29T13:40:35.285627+00:00",
   "funn": [
+    {
+      "tittel": "Panini World cup 2026 Erling Haaland Golden Baller nr 7",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471294974",
+      "funnet": "2026-07-29T13:40:35.283759+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-07-29T13:40:34.880095+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mega Gardevoir EX holo",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471273129",
       "funnet": "2026-07-29T10:54:18.161622+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Weedle 1.edt Neo Discovery",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471254183",
-      "funnet": "2026-07-29T10:54:17.632804+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dean Henderson – Panini Prizm FIFA World Cup 2026",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471273382",
-      "funnet": "2026-07-29T10:52:15.777621+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
