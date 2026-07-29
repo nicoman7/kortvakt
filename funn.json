@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-29T14:54:30.057218+00:00",
+  "sist_sjekket": "2026-07-29T14:56:18.820614+00:00",
   "funn": [
+    {
+      "tittel": "2013-2016 Pokemon kort m/ prisliste",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471304938",
+      "funnet": "2026-07-29T14:56:18.818858+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nico O'Reilly Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471303840",
+      "funnet": "2026-07-29T14:56:18.265190+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Phil Foden Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471303992",
+      "funnet": "2026-07-29T14:56:17.769640+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jirachi #9 Holo - Pokemon Deoxys",
       "pris": 150,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-29T12:26:19.641643+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gardevoir EX full art-kort Scarlet & Violet 245/198",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471284599",
-      "funnet": "2026-07-29T12:26:18.694118+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet med ulike serier",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471285983",
-      "funnet": "2026-07-29T12:26:18.272291+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling med graderte kort og holos",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471285977",
-      "funnet": "2026-07-29T12:26:17.753514+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
