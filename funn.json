@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-29T11:16:18.136270+00:00",
+  "sist_sjekket": "2026-07-29T11:18:18.919996+00:00",
   "funn": [
+    {
+      "tittel": "Diverse bindere til samlekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465187600",
+      "funnet": "2026-07-29T11:18:18.918377+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471276816",
+      "funnet": "2026-07-29T11:18:18.057735+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "8 Topps Pokemonkort selges, 20 pr stk",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471276243",
+      "funnet": "2026-07-29T11:18:17.633624+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Pokemon og sealed",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471255148",
       "funnet": "2026-07-29T08:30:43.244231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "DUSCLOPS 7 - REVERSE HOLO - POKEMON KORT FRA 2005 - EX DEOXYS",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470845189",
-      "funnet": "2026-07-29T08:30:42.373787+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SHROOMISH 72 - REVERSE HOLO - POKEMON KORT FRA 2005 - EX DEOXYS",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470969299",
-      "funnet": "2026-07-29T08:28:16.608302+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Alcremie - ascended heroes",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471255086",
-      "funnet": "2026-07-29T08:28:15.818056+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
