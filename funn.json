@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-29T12:56:26.528534+00:00",
+  "sist_sjekket": "2026-07-29T12:58:25.868866+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard promo og trio.",
+      "pris": 145,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471289192",
+      "funnet": "2026-07-29T12:58:25.867039+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps Turbo Attax F1",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471289924",
+      "funnet": "2026-07-29T12:58:25.543414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps Turbo Attax F1",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-29T09:34:26.378147+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "XXL limited edition Panini World Cup 2026",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471262287",
-      "funnet": "2026-07-29T09:32:21.785769+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fantomet Samlekort selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471262579",
-      "funnet": "2026-07-29T09:30:40.745558+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
