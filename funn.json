@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-29T22:10:23.768818+00:00",
+  "sist_sjekket": "2026-07-29T22:12:22.551956+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Go (s10b) - Japansk",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419505373",
+      "funnet": "2026-07-29T22:12:22.549797+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Koreanske Pokemonkort (10 stk)",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419450993",
+      "funnet": "2026-07-29T22:12:21.965163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bunke med japanske Pokemonkort (smL)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419486407",
+      "funnet": "2026-07-29T22:12:21.347438+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON TCG DECKS 🌟💫",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
+      "funnet": "2026-07-29T22:12:21.048349+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pókemon - Rebel Clash - Sword & Shield - bulkkort",
       "pris": 4,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471234187",
       "funnet": "2026-07-29T20:01:09.013680+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn Fifa World Cup 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465301961",
-      "funnet": "2026-07-29T20:01:08.276535+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Reshiram holografisk samlekort",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471339406",
-      "funnet": "2026-07-29T20:01:07.693674+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leo Østigård - Prizm - Norge - Panini Donruss Optic",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457975553",
-      "funnet": "2026-07-29T20:01:07.048143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort – samling med 5 kort fra Ascended heroes",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471338999",
-      "funnet": "2026-07-29T20:01:06.312977+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
