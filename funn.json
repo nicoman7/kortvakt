@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-30T14:20:29.640358+00:00",
+  "sist_sjekket": "2026-07-30T14:22:24.605685+00:00",
   "funn": [
+    {
+      "tittel": "Topps fotballkort Ryan Giggs Manchester United",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471416926",
+      "funnet": "2026-07-30T14:22:24.603811+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps fotballkort Lisandro Martínez 122/199",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471417232",
+      "funnet": "2026-07-30T14:22:24.305718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-07-30T14:22:24.048750+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Duel Masters kort – stor samling",
       "pris": 1,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471399335",
       "funnet": "2026-07-30T12:16:29.406312+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu δ Delta Species 79/110 – Holon Phantoms",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471399370",
-      "funnet": "2026-07-30T12:16:28.537235+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 Premier gold 2001 fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/275872829",
-      "funnet": "2026-07-30T12:16:28.074355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jack Grealish Road to Qatar Red Mosaic fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/290352457",
-      "funnet": "2026-07-30T12:16:27.628583+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
