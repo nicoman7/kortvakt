@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T08:00:53.622750+00:00",
+  "sist_sjekket": "2026-07-30T08:02:23.977964+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling ulike spillere",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471366641",
+      "funnet": "2026-07-30T08:02:23.975827+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Alolan Ninetales GX og Blaziken GX holo",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-29T22:10:23.766751+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Duel Masters Samling 🃏",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
-      "funnet": "2026-07-29T22:10:23.450396+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
