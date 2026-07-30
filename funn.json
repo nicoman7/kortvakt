@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T14:00:58.499918+00:00",
+  "sist_sjekket": "2026-07-30T14:02:24.018595+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn XL 2026 samlekortboks",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471414384",
+      "funnet": "2026-07-30T14:02:24.016659+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Illustration Rares, ex og Gallery – selges/byttes",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471414463",
+      "funnet": "2026-07-30T14:02:23.393903+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – V / VSTAR / Full Art (Zeraora, Palkia m.m.)",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471398480",
       "funnet": "2026-07-30T12:08:15.587707+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering kortsamling – blandede kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465382561",
-      "funnet": "2026-07-30T12:08:14.946839+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Minun holo 194/182",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471397732",
-      "funnet": "2026-07-30T12:04:19.951393+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
