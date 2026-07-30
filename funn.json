@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T21:40:29.157022+00:00",
+  "sist_sjekket": "2026-07-30T21:42:23.811532+00:00",
   "funn": [
+    {
+      "tittel": "OP Nami (Rare) Parallel Emperors in the New World",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443215037",
+      "funnet": "2026-07-30T21:42:23.809460+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort Rosa",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T19:26:15.700356+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Gengar MA ex",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471454264",
-      "funnet": "2026-07-30T19:26:15.363012+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
