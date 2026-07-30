@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T07:10:26.325817+00:00",
+  "sist_sjekket": "2026-07-30T07:12:14.650045+00:00",
   "funn": [
+    {
+      "tittel": "Panini stickers - bytte/salg",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471361757",
+      "funnet": "2026-07-30T07:12:14.648140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mewtwo EX #158 Pokemon BREAKthrough",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/369685022",
       "funnet": "2026-07-29T21:30:49.428568+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eldegoss [Reverse Holo] #15 Pokemon Shining Fates",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/420106847",
-      "funnet": "2026-07-29T21:30:49.104595+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
