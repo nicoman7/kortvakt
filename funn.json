@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T21:42:23.811532+00:00",
+  "sist_sjekket": "2026-07-30T21:44:23.123922+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470743632",
+      "funnet": "2026-07-30T21:44:23.121896+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "OP Nami (Rare) Parallel Emperors in the New World",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T19:26:16.332194+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotball kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471452875",
-      "funnet": "2026-07-30T19:26:15.700356+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
