@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T20:42:18.168089+00:00",
+  "sist_sjekket": "2026-07-30T20:44:31.487724+00:00",
   "funn": [
+    {
+      "tittel": "Eldre Pokemon hits",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471462821",
+      "funnet": "2026-07-30T20:44:31.486103+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Lapras Fusion Strike (54)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471463237",
+      "funnet": "2026-07-30T20:44:31.107300+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Forskjellige pokemon kort",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471447169",
       "funnet": "2026-07-30T18:30:44.740485+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – japansk Scarlet & Violet Promo – CCCC grade 10",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471447452",
-      "funnet": "2026-07-30T18:30:44.094807+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 10 Pokémon Magby 2023 SV5K JP Art Rare samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471447350",
-      "funnet": "2026-07-30T18:28:21.877303+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
