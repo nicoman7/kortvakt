@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T18:04:21.730185+00:00",
+  "sist_sjekket": "2026-07-30T18:06:25.855009+00:00",
   "funn": [
+    {
+      "tittel": "⚡️Pokémon TCG // Pikachu Collection⚡️",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458101731",
+      "funnet": "2026-07-30T18:06:25.853339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel Masters Samling 🃏",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
+      "funnet": "2026-07-30T18:06:25.380537+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon Evolutions Phantasmal Flames etb + black bolt booster bundle",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-30T16:40:27.674766+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Euro 2024 fotballkort diverse spillere",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471433105",
-      "funnet": "2026-07-30T16:38:15.525327+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, gi bud, selger ikke samlet.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471432715",
-      "funnet": "2026-07-30T16:36:25.135266+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
