@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T14:56:28.720628+00:00",
+  "sist_sjekket": "2026-07-30T14:58:25.450965+00:00",
   "funn": [
+    {
+      "tittel": "Skyridge samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471420805",
+      "funnet": "2026-07-30T14:58:25.449387+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Perfect Order Pokemon Center ETB",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471421414",
+      "funnet": "2026-07-30T14:58:24.543820+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SamleAlbum Topps Star Wars 2019 kort",
       "pris": 130,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471402858",
       "funnet": "2026-07-30T12:40:28.166354+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu VMAX SWSH286 – Sword & Shield Promo",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471402954",
-      "funnet": "2026-07-30T12:40:27.612115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2023 Pure Football samleralbum med fotballkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471403243",
-      "funnet": "2026-07-30T12:40:26.783253+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
