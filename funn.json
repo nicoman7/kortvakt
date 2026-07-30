@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T20:26:18.240510+00:00",
+  "sist_sjekket": "2026-07-30T20:28:17.170232+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pitch Black kort selges eller byttes",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471458586",
+      "funnet": "2026-07-30T20:28:17.168151+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mega elektrioss EX",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465477097",
       "funnet": "2026-07-30T18:24:27.701219+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner 2 full sett",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471446544",
-      "funnet": "2026-07-30T18:24:26.709490+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
