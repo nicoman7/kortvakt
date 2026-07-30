@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T05:28:20.983386+00:00",
+  "sist_sjekket": "2026-07-30T05:30:40.894152+00:00",
   "funn": [
+    {
+      "tittel": "Baseball kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/355869932",
+      "funnet": "2026-07-30T05:30:40.892240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465106017",
       "funnet": "2026-07-29T20:54:15.466643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Glameow kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465112701",
-      "funnet": "2026-07-29T20:54:15.080359+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
