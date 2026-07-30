@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T13:44:15.167634+00:00",
+  "sist_sjekket": "2026-07-30T13:46:17.772929+00:00",
   "funn": [
+    {
+      "tittel": "Agust D USA eksklusive kort",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465470547",
+      "funnet": "2026-07-30T13:46:17.771094+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pixar Toy Story samlekort Woody og Bo Peep",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465415405",
+      "funnet": "2026-07-30T13:46:17.280017+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ronaldinho Fotballkort",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471395592",
       "funnet": "2026-07-30T11:54:23.722639+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charmander #044",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471396208",
-      "funnet": "2026-07-30T11:52:23.035729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chespin XY88 (holo) XY-promokort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471396094",
-      "funnet": "2026-07-30T11:52:22.559373+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
