@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T22:28:16.472062+00:00",
+  "sist_sjekket": "2026-07-30T22:30:43.257849+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort gamle og nyr",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471469971",
+      "funnet": "2026-07-30T22:30:43.255855+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 28/7",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-07-30T22:30:42.384266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Jumbo Ice Cream holografisk kort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471447503",
       "funnet": "2026-07-30T19:44:21.755336+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon-kort (©1995 Nintendo) – Base-sett",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448719256",
-      "funnet": "2026-07-30T19:40:34.267342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holo limited edition Yamal fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465410703",
-      "funnet": "2026-07-30T19:40:33.828006+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
