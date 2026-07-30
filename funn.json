@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T16:34:20.130929+00:00",
+  "sist_sjekket": "2026-07-30T16:36:25.136871+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, gi bud, selger ikke samlet.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471432715",
+      "funnet": "2026-07-30T16:36:25.135266+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard kort 2016",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/300470679",
+      "funnet": "2026-07-30T16:36:24.214180+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Zygarde reverse holo",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471412816",
       "funnet": "2026-07-30T13:50:35.968090+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Card Game Trafalgar Law kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465412701",
-      "funnet": "2026-07-30T13:48:27.776253+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Card Game samlekort –",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465412142",
-      "funnet": "2026-07-30T13:48:26.867111+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
