@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T08:26:18.491154+00:00",
+  "sist_sjekket": "2026-07-30T08:28:20.029824+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Majestic Dawn",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404726019",
+      "funnet": "2026-07-30T08:28:20.027873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Massse skjeldne Pokémonkort selges enkeltvis",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471368472",
+      "funnet": "2026-07-30T08:28:18.964484+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini fotballkort Rubén Castro Real Betis",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-07-29T22:24:19.149478+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Lost Origin - Bulkkort",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419728916",
-      "funnet": "2026-07-29T22:18:25.892432+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Jungle Set Lot (29 Kort)",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471350100",
-      "funnet": "2026-07-29T22:16:20.739638+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
