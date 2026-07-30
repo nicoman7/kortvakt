@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T20:34:22.280771+00:00",
+  "sist_sjekket": "2026-07-30T20:36:20.322015+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort vinage",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471462539",
+      "funnet": "2026-07-30T20:36:20.319785+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Galarian Zapdos V",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471446694",
       "funnet": "2026-07-30T18:26:25.465229+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glaceon SWSH192 [Cosmos Holo] - promokort",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471446791",
-      "funnet": "2026-07-30T18:26:25.079867+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
