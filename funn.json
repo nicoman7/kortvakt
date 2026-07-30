@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-30T21:26:15.455732+00:00",
+  "sist_sjekket": "2026-07-30T21:28:25.587566+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Umbreon nøkkelring  grå/gul",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471466851",
+      "funnet": "2026-07-30T21:28:25.585852+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Flareon nøkkelring og samlekort orange",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471466966",
+      "funnet": "2026-07-30T21:28:24.668279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Futera Fans' Selection 1999 fotballkort - Michael Owen – Holo Hot Shots (HS8).",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-30T19:18:15.954155+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "5x Master Ball kort - Terestal Festival",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471453472",
-      "funnet": "2026-07-30T19:18:15.683985+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prize Pack Series Eight boosterpakker",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465522875",
-      "funnet": "2026-07-30T19:18:15.378938+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
