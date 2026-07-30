@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-30T06:00:54.639506+00:00",
+  "sist_sjekket": "2026-07-30T06:02:25.184082+00:00",
   "funn": [
+    {
+      "tittel": "Fortnite samlekort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465423352",
+      "funnet": "2026-07-30T06:02:25.181979+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Sableye crystal guardian stamp",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471357129",
+      "funnet": "2026-07-30T06:02:24.820590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort adrenalyn XL Euro 2020 Nordic edition Lukaku",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456484816",
+      "funnet": "2026-07-30T06:02:24.421606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Unseen Forces",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/423296197",
       "funnet": "2026-07-29T21:06:15.918879+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Greedent V #53 Pokemon Shining Fates - 3 igjen",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/369681617",
-      "funnet": "2026-07-29T21:06:15.318751+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Bounsweet holografisk",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465113168",
-      "funnet": "2026-07-29T21:04:18.913849+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dhelmise V #9 Pokemon Sword & Shield",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/369683748",
-      "funnet": "2026-07-29T21:04:18.479753+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
