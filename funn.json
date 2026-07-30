@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T23:42:21.252567+00:00",
+  "sist_sjekket": "2026-07-30T23:44:17.769895+00:00",
   "funn": [
+    {
+      "tittel": "FC Barcelona fotballkort samling",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471472256",
+      "funnet": "2026-07-30T23:44:17.767784+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Arcanine Carddass #59 PSA 8",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T20:04:23.231590+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shinx Pokemon Arceus",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458202357",
-      "funnet": "2026-07-30T20:04:22.886124+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
