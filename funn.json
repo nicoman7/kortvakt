@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T13:20:29.672400+00:00",
+  "sist_sjekket": "2026-07-30T13:22:21.316914+00:00",
   "funn": [
+    {
+      "tittel": "Minjae Kim Auto Fotballkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471378230",
+      "funnet": "2026-07-30T13:22:21.314640+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Chelsea Fotballkort",
       "pris": 175,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/398605035",
       "funnet": "2026-07-30T11:34:29.824781+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Rise of the Dark Realms Surge Foil kort",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471393308",
-      "funnet": "2026-07-30T11:32:18.177155+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
