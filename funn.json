@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-30T22:22:22.829218+00:00",
+  "sist_sjekket": "2026-07-30T22:24:18.591549+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokémon kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471469609",
+      "funnet": "2026-07-30T22:24:18.589372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471469627",
+      "funnet": "2026-07-30T22:24:17.958584+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokémon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471469767",
+      "funnet": "2026-07-30T22:24:17.662741+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gengar holo kort – Fossil 5/62",
       "pris": 1800,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-30T19:38:26.367298+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Merlin Premier Gold 99 fotballkort - Thomas Myhre (#54).",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465525286",
-      "funnet": "2026-07-30T19:38:25.746832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charmander #98 fra Pokemon expedition",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471455571",
-      "funnet": "2026-07-30T19:38:24.990132+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453474149",
-      "funnet": "2026-07-30T19:38:24.673291+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
