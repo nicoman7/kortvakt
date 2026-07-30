@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-30T23:04:22.936542+00:00",
+  "sist_sjekket": "2026-07-30T23:06:16.568609+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort / trading cards",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465457207",
+      "funnet": "2026-07-30T23:06:16.566329+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske Pokemon kort 7stk. #002",
       "pris": 120,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471457629",
       "funnet": "2026-07-30T19:52:25.495074+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nydelig Pokemon Lugia GX Lost Thunder 159/214 CGC 10",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471457377",
-      "funnet": "2026-07-30T19:52:25.129268+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
