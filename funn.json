@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:42:21.904873+00:00",
+  "sist_sjekket": "2026-07-31T10:44:18.198094+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470743632",
+      "funnet": "2026-07-31T10:44:18.196067+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Starter pakke med pokemonkort",
       "pris": 175,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T06:00:50.806857+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse EX Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458181122",
-      "funnet": "2026-07-31T05:54:14.770187+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
