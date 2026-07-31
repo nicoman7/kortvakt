@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T04:08:37.063613+00:00",
+  "sist_sjekket": "2026-07-31T04:10:23.995078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464282296",
+      "funnet": "2026-07-31T04:10:23.992996+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Charmeleon Pokemonkort",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471463237",
       "funnet": "2026-07-30T20:44:31.107300+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Forskjellige pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457804446",
-      "funnet": "2026-07-30T20:42:18.166031+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
