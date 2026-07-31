@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-07-31T20:52:16.572999+00:00",
+  "sist_sjekket": "2026-07-31T20:54:20.137010+00:00",
   "funn": [
+    {
+      "tittel": "Meget lavt Nummeret fotballkort.Legenden Matthias Sammer.",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447327265",
+      "funnet": "2026-07-31T20:54:20.135046+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/339823613",
+      "funnet": "2026-07-31T20:54:19.216664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "17 kort fra Pokemon Kinesisk Crystal Gathering",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471574586",
+      "funnet": "2026-07-31T20:54:18.276044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Justin Bieber samlekort og samlerperm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419052125",
+      "funnet": "2026-07-31T20:54:17.453009+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "pokemon kort",
       "pris": 12,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-07-31T18:37:09.569470+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ashley Young Manchester United 2011 Topps Authentics",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/362927461",
-      "funnet": "2026-07-31T18:37:08.594951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jamal Musiala Next Gen 2021-22  Bayern München Topps Chrome Match Attax",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/363140536",
-      "funnet": "2026-07-31T18:37:07.666050+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vinicius Jr Rookie Brasil 2022 World Cup Panini",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/372845797",
-      "funnet": "2026-07-31T18:37:06.791297+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon vintage figurer (1996-1999)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458110098",
-      "funnet": "2026-07-31T18:28:30.393694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
