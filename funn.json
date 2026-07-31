@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T21:02:22.431170+00:00",
+  "sist_sjekket": "2026-07-31T21:04:25.529874+00:00",
   "funn": [
+    {
+      "tittel": "Hello kitty kort fra Panini selges/kjøpes/byttes",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464405618",
+      "funnet": "2026-07-31T21:04:25.528334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON TCG DECKS 🌟💫",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
+      "funnet": "2026-07-31T21:04:24.434252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ash's Pikachu #SM113",
       "pris": 475,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471561719",
       "funnet": "2026-07-31T18:48:34.863770+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling med EX og GX kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471560901",
-      "funnet": "2026-07-31T18:48:34.304106+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon - Mewtwo Art Rare 150/165 (Koreansk) 🧠✨",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465316249",
-      "funnet": "2026-07-31T18:48:33.650848+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
