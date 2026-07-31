@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:50:24.319040+00:00",
+  "sist_sjekket": "2026-07-31T10:52:23.608873+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra forskjellige set",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471504543",
+      "funnet": "2026-07-31T10:52:23.606723+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spansk Pokémon Ascenso Heroico samleboks med boosterpakker og promo-kort",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471480801",
       "funnet": "2026-07-31T07:06:17.127715+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/371730768",
-      "funnet": "2026-07-31T06:58:29.909253+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
