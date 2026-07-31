@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:26:24.970647+00:00",
+  "sist_sjekket": "2026-07-31T10:28:15.122298+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Misty’s Vitality Trainer supporter",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471503562",
+      "funnet": "2026-07-31T10:28:15.120270+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T04:04:20.909000+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464281943",
-      "funnet": "2026-07-31T03:54:17.619065+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
