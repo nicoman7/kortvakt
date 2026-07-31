@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-31T12:20:25.935658+00:00",
+  "sist_sjekket": "2026-07-31T12:22:25.222968+00:00",
   "funn": [
+    {
+      "tittel": "Topps Lamine Yamal",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471517764",
+      "funnet": "2026-07-31T12:22:25.220968+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Gengar og Ninetales japansk Firered&Leafgreen e-battle",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471517534",
+      "funnet": "2026-07-31T12:22:24.360298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort (1999–2002) – Base Set, Jungle, Fossil, Team Rocket, Gym & Neo",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471516588",
+      "funnet": "2026-07-31T12:22:23.915520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Anthony Gordon",
       "pris": 49,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-07-31T09:00:56.806786+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rotom V SWSH257 - promokort",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471493282",
-      "funnet": "2026-07-31T09:00:56.102942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nani Manchester United 2011 Topps Authentics",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/362927386",
-      "funnet": "2026-07-31T08:58:28.710020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hoopa #155/XY-P Pokemon Japanese Promo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471492429",
-      "funnet": "2026-07-31T08:58:27.918727+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
