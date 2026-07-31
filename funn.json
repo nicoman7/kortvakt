@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T07:08:25.946777+00:00",
+  "sist_sjekket": "2026-07-31T07:10:25.981147+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – eldre kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471480962",
+      "funnet": "2026-07-31T07:10:25.978998+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Digimon samle kort – blandet lot i perm",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471464713",
       "funnet": "2026-07-30T21:01:00.124231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Chaos Rising hits",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471464481",
-      "funnet": "2026-07-30T21:00:59.536455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
