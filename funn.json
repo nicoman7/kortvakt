@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:30:50.337917+00:00",
+  "sist_sjekket": "2026-07-31T10:32:24.391137+00:00",
   "funn": [
+    {
+      "tittel": "💫165 Trainer Kort + ca 200 Energy Kort💫",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471503656",
+      "funnet": "2026-07-31T10:32:24.389373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon IR / Illustration Rare / EX – Enkeltkort",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T05:46:20.048155+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464282296",
-      "funnet": "2026-07-31T04:10:23.992996+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
