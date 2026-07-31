@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T12:18:15.986707+00:00",
+  "sist_sjekket": "2026-07-31T12:20:25.935658+00:00",
   "funn": [
+    {
+      "tittel": "Panini Anthony Gordon",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471517528",
+      "funnet": "2026-07-31T12:20:25.933698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort i tinbokser😊",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471517308",
+      "funnet": "2026-07-31T12:20:25.334675+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic The Gathering Sol Ring Commander Final Fantasy Surge Foil kort",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-31T08:58:27.918727+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Kaka Brasil VM 2010 WC Panini",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447187153",
-      "funnet": "2026-07-31T08:58:26.931335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Serperior EX",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471492218",
-      "funnet": "2026-07-31T08:58:25.992644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
