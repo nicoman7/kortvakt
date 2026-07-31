@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T16:06:24.040754+00:00",
+  "sist_sjekket": "2026-07-31T16:08:20.031045+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429795283",
+      "funnet": "2026-07-31T16:08:20.029325+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429781762",
+      "funnet": "2026-07-31T16:08:19.625727+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon BULK 2/6 solgt",
       "pris": 325,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471528939",
       "funnet": "2026-07-31T13:54:25.931453+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chaos Rising ETB",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471527966",
-      "funnet": "2026-07-31T13:50:29.908197+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Sprigatito kinesisk holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471528480",
-      "funnet": "2026-07-31T13:50:29.559875+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
