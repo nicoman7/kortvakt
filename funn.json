@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T12:26:25.333995+00:00",
+  "sist_sjekket": "2026-07-31T12:28:16.800354+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner - series 2",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471518450",
+      "funnet": "2026-07-31T12:28:16.798289+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "PSA 10 Contender Pikachu Vmax Lost origin LP",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471514849",
+      "funnet": "2026-07-31T12:28:16.191505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Primeape reverse holo",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471492019",
       "funnet": "2026-07-31T09:00:58.653403+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Dragonite Ex #271 Pokemon Ascended Heroes",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471492933",
-      "funnet": "2026-07-31T09:00:58.379879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling – diverse kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471492700",
-      "funnet": "2026-07-31T09:00:58.120188+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
