@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T07:52:27.525010+00:00",
+  "sist_sjekket": "2026-07-31T07:54:18.714501+00:00",
   "funn": [
+    {
+      "tittel": "Jack Grealish Field level select fotballkort /75",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/306394699",
+      "funnet": "2026-07-31T07:54:18.712566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Machop #66",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T21:40:28.748663+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort med metallboks",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471467393",
-      "funnet": "2026-07-30T21:36:25.215864+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
