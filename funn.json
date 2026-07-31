@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T01:30:36.969842+00:00",
+  "sist_sjekket": "2026-07-31T01:32:20.823864+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON MYSTERY TINS.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
+      "funnet": "2026-07-31T01:32:20.821708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 10 & CGC 10 Gem-Mint & Pristine Pokemonkort 🔥",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T20:28:17.168151+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mega elektrioss EX",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471461367",
-      "funnet": "2026-07-30T20:26:18.238468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
