@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:54:23.885547+00:00",
+  "sist_sjekket": "2026-07-31T10:56:15.912514+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 028/078 fra Pokémon GO",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471507194",
+      "funnet": "2026-07-31T10:56:15.910615+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra forskjellige set",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471480962",
       "funnet": "2026-07-31T07:10:25.978998+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Digimon samle kort – blandet lot i perm",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471480801",
-      "funnet": "2026-07-31T07:06:17.127715+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
