@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T13:34:17.913327+00:00",
+  "sist_sjekket": "2026-07-31T13:36:23.834943+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu Showcase UÅPNET",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471526481",
+      "funnet": "2026-07-31T13:36:23.832998+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece kort fra Royal Blood - Kuzan",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429798056",
+      "funnet": "2026-07-31T13:36:22.946165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort Team Up Lot 45 Kort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465576022",
       "funnet": "2026-07-31T10:48:26.182536+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shiny Treasure EX - singel kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465154203",
-      "funnet": "2026-07-31T10:48:25.282051+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon japansk Abyss Eye kort AR / SR",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465579474",
-      "funnet": "2026-07-31T10:48:24.491563+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
