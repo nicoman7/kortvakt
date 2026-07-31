@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T22:42:22.991070+00:00",
+  "sist_sjekket": "2026-07-31T22:44:17.814255+00:00",
   "funn": [
+    {
+      "tittel": "K-pop photocard samling – ulike idols",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471581011",
+      "funnet": "2026-07-31T22:44:17.812162+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon pitch black ex + trainer hits",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T19:24:26.155230+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited edition gold fotball kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471565825",
-      "funnet": "2026-07-31T19:22:22.864026+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
