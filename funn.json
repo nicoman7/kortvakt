@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T15:12:20.047949+00:00",
+  "sist_sjekket": "2026-07-31T15:14:25.443013+00:00",
   "funn": [
+    {
+      "tittel": "pokemon stæsj",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471532281",
+      "funnet": "2026-07-31T15:14:25.441200+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Marcelo UCL Decades relic-kort Real Madrid",
       "pris": 570,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471521322",
       "funnet": "2026-07-31T12:50:37.034916+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Wynaut kort reverse holo",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471521454",
-      "funnet": "2026-07-31T12:48:16.056564+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
