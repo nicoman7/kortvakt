@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:44:18.198094+00:00",
+  "sist_sjekket": "2026-07-31T10:46:15.764139+00:00",
   "funn": [
+    {
+      "tittel": "Pent brukt kortmappe",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461628003",
+      "funnet": "2026-07-31T10:46:15.761899+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471477234",
       "funnet": "2026-07-31T06:16:19.405740+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NYHET - Pokemon Mystery Packs Fra PokeMint! Garanterte hits!",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471478916",
-      "funnet": "2026-07-31T06:00:50.806857+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
