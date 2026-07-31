@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T17:50:36.745897+00:00",
+  "sist_sjekket": "2026-07-31T17:52:23.468728+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471555301",
+      "funnet": "2026-07-31T17:52:23.466688+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Falske Pokemon kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471549107",
       "funnet": "2026-07-31T16:54:23.013550+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fulham - Premier League - Fotballkort⚽️",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429100534",
-      "funnet": "2026-07-31T16:54:22.204207+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
