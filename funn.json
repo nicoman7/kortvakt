@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T10:24:23.887109+00:00",
+  "sist_sjekket": "2026-07-31T10:26:24.970647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365216541",
+      "funnet": "2026-07-31T10:26:24.968520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GJENÅPNINGSSALG! NYHET - Pokemon Mystery Packs! Garanterte hits!",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
+      "funnet": "2026-07-31T10:26:24.351511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Arceus VSTAR 280 HP 123/172 samlekort",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464281943",
       "funnet": "2026-07-31T03:54:17.619065+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort –",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464282146",
-      "funnet": "2026-07-31T03:54:16.672898+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464282423",
-      "funnet": "2026-07-31T03:54:15.769996+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
