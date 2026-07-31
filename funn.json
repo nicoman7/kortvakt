@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T07:58:19.631248+00:00",
+  "sist_sjekket": "2026-07-31T08:00:48.556095+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling med priser i beskrivelse",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465569577",
+      "funnet": "2026-07-31T08:00:48.554253+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger pokemon kort i bulk! 701 gram!",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/443215037",
       "funnet": "2026-07-30T21:42:23.809460+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Rosa",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392449850",
-      "funnet": "2026-07-30T21:40:29.155369+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
