@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T10:58:18.284999+00:00",
+  "sist_sjekket": "2026-07-31T11:00:52.786267+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 Booster pack",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461515148",
+      "funnet": "2026-07-31T11:00:52.784227+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Top Class 2026 fotballkort – Ubrukt samling (Verdi 590,-) selges billig!",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465209645",
+      "funnet": "2026-07-31T11:00:51.541311+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Melmetal V 047/078 fra Pokemon GO",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471482065",
       "funnet": "2026-07-31T07:20:23.080029+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mathys Tel 22-23 Topps Chrome Sapphire Future stars purple 03/15 psa 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471481759",
-      "funnet": "2026-07-31T07:18:18.103960+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟 Eksklusivt Rodri fotballkort – Gullballvinner 2024! ⚽️",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/377925299",
-      "funnet": "2026-07-31T07:16:21.054984+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
