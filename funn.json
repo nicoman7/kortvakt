@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-31T19:20:36.721326+00:00",
+  "sist_sjekket": "2026-07-31T19:22:22.866046+00:00",
   "funn": [
+    {
+      "tittel": "Limited edition gold fotball kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471565825",
+      "funnet": "2026-07-31T19:22:22.864026+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotball kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471564920",
+      "funnet": "2026-07-31T19:22:22.574330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "1999 Topps Raticate #20 [FOIL]",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471566101",
+      "funnet": "2026-07-31T19:22:21.916864+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "UEFA Champions League Fotballkort Diverse Spillere",
       "pris": 500,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471516277",
       "funnet": "2026-07-31T17:34:35.369408+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1999 Topps Butterfree #12 [FOIL]",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471554013",
-      "funnet": "2026-07-31T17:34:35.070824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scorbunny #53 Pokemon Promo",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471516340",
-      "funnet": "2026-07-31T17:34:34.364681+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Litten 2007/07 Triple Rare (RRR) Gem Pack 4 NM",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471553844",
-      "funnet": "2026-07-31T17:34:33.778977+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
