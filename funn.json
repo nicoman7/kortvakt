@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T10:40:27.067870+00:00",
+  "sist_sjekket": "2026-07-31T10:42:21.904873+00:00",
   "funn": [
+    {
+      "tittel": "Starter pakke med pokemonkort",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471503576",
+      "funnet": "2026-07-31T10:42:21.903085+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu V SWSH198 promokort",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471505333",
+      "funnet": "2026-07-31T10:42:21.380756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu V-UNION",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-31T05:54:14.770187+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2020 Panini Mosaic TUA TAGOVAILOA Green Mosaic Rookie PSA 10 Miami Dolphins",
-      "pris": 1799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/325671791",
-      "funnet": "2026-07-31T05:50:22.279485+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2021 Panini Prizm KENNETH GAINWELL Pink Disco 02/15 Rookie PSA 9 Eagles NFL",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/320851380",
-      "funnet": "2026-07-31T05:48:14.690742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
