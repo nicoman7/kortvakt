@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T13:18:23.824768+00:00",
+  "sist_sjekket": "2026-07-31T13:20:22.494445+00:00",
   "funn": [
+    {
+      "tittel": "Snehvit samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448880559",
+      "funnet": "2026-07-31T13:20:22.492204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Scovillain ex - Surging sparks 037/191 - Pokemonkort",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471505333",
       "funnet": "2026-07-31T10:42:21.380756+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu V-UNION",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471504974",
-      "funnet": "2026-07-31T10:40:27.065950+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
