@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T07:12:18.936663+00:00",
+  "sist_sjekket": "2026-07-31T07:14:17.330007+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – Chikorita, Cyndaquil, Totodile m.m.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471481646",
+      "funnet": "2026-07-31T07:14:17.327863+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – eldre kort",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471464706",
       "funnet": "2026-07-30T21:01:00.534577+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Growlithe Silver Tempest (19)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471464713",
-      "funnet": "2026-07-30T21:01:00.124231+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
