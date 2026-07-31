@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T08:48:18.570280+00:00",
+  "sist_sjekket": "2026-07-31T08:50:26.852978+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter samle kort – pakke med filmkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471491507",
+      "funnet": "2026-07-31T08:50:26.851011+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sandy Shocks Ex #159 Pokemon Prismatic Evolution",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471491517",
+      "funnet": "2026-07-31T08:50:26.437031+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Surfing Pikachu V 008/025 fra Celebrations",
       "pris": 55,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-07-30T22:30:43.255855+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 28/7",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-07-30T22:30:42.384266+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Jumbo Ice Cream holografisk kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471469965",
-      "funnet": "2026-07-30T22:28:16.469855+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
