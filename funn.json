@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-07-31T06:56:14.890398+00:00",
+  "sist_sjekket": "2026-07-31T06:58:29.912197+00:00",
   "funn": [
+    {
+      "tittel": "Gamle samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/371730768",
+      "funnet": "2026-07-31T06:58:29.909253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon-kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465520664",
+      "funnet": "2026-07-31T06:58:28.929175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Trading Card Game samlemappe",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471464388",
       "funnet": "2026-07-30T20:58:35.429554+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Keldeo Silver Tempest (46)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471464485",
-      "funnet": "2026-07-30T20:58:34.821871+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vulpix Silver Tempest (17)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471464602",
-      "funnet": "2026-07-30T20:58:34.533743+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
