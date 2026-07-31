@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-31T03:52:21.624516+00:00",
+  "sist_sjekket": "2026-07-31T03:54:17.621094+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464281943",
+      "funnet": "2026-07-31T03:54:17.619065+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort –",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464282146",
+      "funnet": "2026-07-31T03:54:16.672898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464282423",
+      "funnet": "2026-07-31T03:54:15.769996+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ønsker å kjøpe Pokemon Astral Radiance Booster Box",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471462954",
       "funnet": "2026-07-30T20:42:17.760143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort vintage",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452374737",
-      "funnet": "2026-07-30T20:40:29.992308+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon lot fra Phantasmal Flames og Perfect Order",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471462595",
-      "funnet": "2026-07-30T20:38:16.058155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolution Booster Packs",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471462462",
-      "funnet": "2026-07-30T20:38:15.780869+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
