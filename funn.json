@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T08:54:19.298680+00:00",
+  "sist_sjekket": "2026-07-31T08:56:18.200029+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon mystery pose",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464879056",
+      "funnet": "2026-07-31T08:56:18.198180+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Umbreon ex - CGC 10 - Pokemon kort",
       "pris": 1750,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470848730",
       "funnet": "2026-07-30T22:44:14.697310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Espeon ex og Umbreon ex",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471464718",
-      "funnet": "2026-07-30T22:36:19.639189+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
