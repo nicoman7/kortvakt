@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T03:02:16.126014+00:00",
+  "sist_sjekket": "2026-07-31T03:04:18.029534+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort VM 26 (oppdatert 28-06)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463023355",
+      "funnet": "2026-07-31T03:04:18.027334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON MYSTERY TINS.",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T20:34:21.501076+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black kort selges eller byttes",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471458586",
-      "funnet": "2026-07-30T20:28:17.168151+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
