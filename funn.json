@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-07-31T15:52:15.528755+00:00",
+  "sist_sjekket": "2026-07-31T15:54:27.390691+00:00",
   "funn": [
+    {
+      "tittel": "Adama Traoré paralell kort 281/499",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471542910",
+      "funnet": "2026-07-31T15:54:27.388709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Dream EX kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471542534",
+      "funnet": "2026-07-31T15:54:26.760170+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini World Cup Stars Cristiano Ronaldo",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471543049",
+      "funnet": "2026-07-31T15:54:26.129788+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Prismatic Evolutions Mini Tin",
       "pris": 550,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471527885",
       "funnet": "2026-07-31T13:48:23.025001+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perfect Order ETB",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471527245",
-      "funnet": "2026-07-31T13:46:18.633545+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471525041",
-      "funnet": "2026-07-31T13:46:18.298499+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "(Oppdatert 7.7) Mye Pokémon kort (Hits, Vintage, ++)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465123302",
-      "funnet": "2026-07-31T13:46:17.685676+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
