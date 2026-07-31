@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T23:30:47.182488+00:00",
+  "sist_sjekket": "2026-07-31T23:32:27.018228+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465292004",
+      "funnet": "2026-07-31T23:32:27.016310+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 28/7",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T19:34:58.935729+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Limited edition fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471566539",
-      "funnet": "2026-07-31T19:34:58.250962+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
