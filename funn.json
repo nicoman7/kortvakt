@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T10:00:58.119405+00:00",
+  "sist_sjekket": "2026-07-31T10:02:17.916666+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-07-31T10:02:17.914910+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Single Pokemon kort fra Scarlet & Violet: Destined Rivals",
       "pris": 3,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/438352057",
       "funnet": "2026-07-31T00:34:16.697368+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Living 2020 Camavinga rookie",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/289802467",
-      "funnet": "2026-07-31T00:34:16.048641+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
