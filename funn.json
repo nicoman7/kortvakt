@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T14:14:21.668434+00:00",
+  "sist_sjekket": "2026-07-31T14:16:16.553159+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Mega Charizard X ex Tin",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471530932",
+      "funnet": "2026-07-31T14:16:16.551132+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boing Fotballkort selges!",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471513192",
       "funnet": "2026-07-31T11:50:25.710824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Celebrations Kort",
-      "pris": 7,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471513698",
-      "funnet": "2026-07-31T11:50:24.828332+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
