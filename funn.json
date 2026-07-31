@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-07-31T07:54:18.714501+00:00",
+  "sist_sjekket": "2026-07-31T07:56:21.989715+00:00",
   "funn": [
+    {
+      "tittel": "Selger pokemon kort i bulk! 701 gram!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471382214",
+      "funnet": "2026-07-31T07:56:21.987692+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jack Grealish Field level select fotballkort /75",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-30T21:40:29.155369+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 sv2a - Holo, Rev Holo, Master, Full art - Japansk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389979621",
-      "funnet": "2026-07-30T21:40:28.748663+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
