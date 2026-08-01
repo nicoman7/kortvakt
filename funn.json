@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T00:22:16.418105+00:00",
+  "sist_sjekket": "2026-08-01T00:24:15.982577+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-08-01T00:24:15.979563+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini World Cup 2026 TCG duplikater - kjøp og salg",
       "pris": 3,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470861590",
       "funnet": "2026-07-31T19:42:18.867802+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/436617206",
-      "funnet": "2026-07-31T19:40:28.207237+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
