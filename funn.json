@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T06:12:08.322020+00:00",
+  "sist_sjekket": "2026-08-01T06:14:37.041529+00:00",
   "funn": [
+    {
+      "tittel": "Beckham fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/438448108",
+      "funnet": "2026-08-01T06:14:37.039623+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Vaporeon, Flareon, Jolteon, Eeveelutions Promo",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471571557",
       "funnet": "2026-07-31T20:26:28.059177+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling med EX! 44stk ( GRATIS FRAKT)",
-      "pris": 440,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471572266",
-      "funnet": "2026-07-31T20:26:27.441651+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
