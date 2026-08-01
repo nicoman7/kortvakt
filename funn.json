@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-01T12:54:24.798592+00:00",
+  "sist_sjekket": "2026-08-01T12:57:00.812193+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/390648467",
+      "funnet": "2026-08-01T12:57:00.810048+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Moltres & Zapdos & Articuno GX 69/68 | Pokemon Kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471623198",
+      "funnet": "2026-08-01T12:57:00.203547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sandy Baltimore autografkort Chelsea",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471631565",
+      "funnet": "2026-08-01T12:56:59.502589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Venusaur EX 112 Pokemon Fire Red & Leaf Green og Eevee BW97 Pokemon Promo selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471095428",
+      "funnet": "2026-08-01T12:56:58.913358+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SALG! - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
       "pris": 129,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471605867",
       "funnet": "2026-08-01T09:34:30.167186+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokémon kort I sliten gammel fotballperm",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471605890",
-      "funnet": "2026-08-01T09:34:29.681018+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 28/7",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-08-01T09:34:28.736169+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Jumbo kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465364237",
-      "funnet": "2026-08-01T09:32:27.345746+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Charizard VSTAR og Psyduck – samlekort lot",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469296439",
-      "funnet": "2026-08-01T09:32:26.918927+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
