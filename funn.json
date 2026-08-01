@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T15:48:17.008283+00:00",
+  "sist_sjekket": "2026-08-01T15:50:28.336678+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471651862",
+      "funnet": "2026-08-01T15:50:28.334690+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Riolu Sun&Moon",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465714185",
       "funnet": "2026-08-01T13:08:15.175871+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div pokemon eldre pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465721019",
-      "funnet": "2026-08-01T13:08:14.521002+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
