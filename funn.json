@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-01T23:18:19.391941+00:00",
+  "sist_sjekket": "2026-08-01T23:20:23.830198+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Jumbo Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471689616",
+      "funnet": "2026-08-01T23:20:23.828114+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Slowking holo",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471689620",
+      "funnet": "2026-08-01T23:20:23.308081+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-01T23:20:22.543340+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Pikachu #18 fra Paldean Fates",
       "pris": 15,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471678051",
       "funnet": "2026-08-01T19:54:19.234513+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL UEFA EURO 2016 - Robert Lewandowski - Limited Edition",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458434909",
-      "funnet": "2026-08-01T19:54:18.172187+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Cofagrigus holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471677740",
-      "funnet": "2026-08-01T19:52:20.856436+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Landorus holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471677625",
-      "funnet": "2026-08-01T19:50:25.449904+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
