@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T21:36:37.290725+00:00",
+  "sist_sjekket": "2026-08-01T21:38:17.255125+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 6/108",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471685549",
+      "funnet": "2026-08-01T21:38:17.252755+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort selges – Norske spillere 🇳🇴 | Autografer, Nummererte, Patch/Relic",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
       "funnet": "2026-08-01T18:38:16.665202+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan's Typhlosion 190/182 Illustration Rare (IR) Destined Rivals NM",
-      "pris": 265,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471669936",
-      "funnet": "2026-08-01T18:36:23.297034+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
