@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T07:30:35.232784+00:00",
+  "sist_sjekket": "2026-08-01T07:32:18.083575+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Gengar EX kort",
+      "pris": 1450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471592474",
+      "funnet": "2026-08-01T07:32:18.081587+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sjeldent Upper Deck SP1 baseballkort Michael Jordan",
       "pris": 2000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T20:54:17.453009+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemon kort",
-      "pris": 12,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465631149",
-      "funnet": "2026-07-31T20:50:55.778254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
