@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T16:12:20.159071+00:00",
+  "sist_sjekket": "2026-08-01T16:14:17.110508+00:00",
   "funn": [
+    {
+      "tittel": "Bakugan samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449201986",
+      "funnet": "2026-08-01T16:14:17.108703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon iron boulder ex kort",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471106021",
+      "funnet": "2026-08-01T16:14:16.342954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon venusaur/celebi GX TAG",
       "pris": 900,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-01T13:37:04.592140+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Copperajah holo",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471636368",
-      "funnet": "2026-08-01T13:34:26.177718+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa topps chrome bundesliga",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471636160",
-      "funnet": "2026-08-01T13:34:25.147619+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
