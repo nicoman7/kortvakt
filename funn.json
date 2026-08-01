@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T01:42:32.768921+00:00",
+  "sist_sjekket": "2026-08-01T01:47:21.357627+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Slowbro holo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471583890",
+      "funnet": "2026-08-01T01:47:21.356011+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "9 kort fra Kinesisk Crystal Gathering",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T20:02:52.646709+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Japanske pokemon kort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456490491",
-      "funnet": "2026-07-31T19:58:23.087342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
