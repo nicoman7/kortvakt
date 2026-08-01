@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T13:10:23.124798+00:00",
+  "sist_sjekket": "2026-08-01T13:12:15.302745+00:00",
   "funn": [
+    {
+      "tittel": "Ny Pokemon Toploader samleperm (9 kort)",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471633555",
+      "funnet": "2026-08-01T13:12:15.300761+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Merlin Premier Gold 99 Arsenal fotballkort - 8 stk",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T09:47:37.586871+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort, Chaos Rising",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471607162",
-      "funnet": "2026-08-01T09:47:36.665411+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
