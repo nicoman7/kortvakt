@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T14:56:16.257389+00:00",
+  "sist_sjekket": "2026-08-01T14:58:15.025989+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #5 Pokemon Celebrations",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471645003",
+      "funnet": "2026-08-01T14:58:15.024210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Charizard Y ex #22 Pokemon Ascended Heroes",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471645109",
+      "funnet": "2026-08-01T14:58:14.666131+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "9 Pokémon Jumbo Cards – Darkrai, Charizard, Snorlax og Mewtwo",
       "pris": 990,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-01T12:14:18.552098+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trevenant japansk samlekort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471626285",
-      "funnet": "2026-08-01T12:12:25.763964+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Teal Mask Ogerpon (Twilight) Pokemon Sealed promo kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/427994139",
-      "funnet": "2026-08-01T12:12:25.309986+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
