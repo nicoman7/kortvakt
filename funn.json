@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T20:20:31.029010+00:00",
+  "sist_sjekket": "2026-08-01T20:22:20.613647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
+      "funnet": "2026-08-01T20:22:20.611664+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort - Arsenal",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471662770",
       "funnet": "2026-08-01T17:47:39.782837+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Bonnie Trainer holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471664302",
-      "funnet": "2026-08-01T17:47:39.343058+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
