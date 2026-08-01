@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T07:32:18.083575+00:00",
+  "sist_sjekket": "2026-08-01T07:34:24.743709+00:00",
   "funn": [
+    {
+      "tittel": "Charizard Ex 228/197 Obsidian flames",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471592801",
+      "funnet": "2026-08-01T07:34:24.741380+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gengar EX kort",
       "pris": 1450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-07-31T20:54:18.276044+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Justin Bieber samlekort og samlerperm",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419052125",
-      "funnet": "2026-07-31T20:54:17.453009+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
