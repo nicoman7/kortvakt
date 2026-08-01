@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T18:12:25.128847+00:00",
+  "sist_sjekket": "2026-08-01T18:14:21.326804+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471667453",
+      "funnet": "2026-08-01T18:14:21.324997+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Galarian Zapdos V 182/172 – Secret Rare og legendarisk Pokémon!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471667554",
+      "funnet": "2026-08-01T18:14:20.946739+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ceruledge ex 147/131 Special Illustration Rare (SIR) Prismatic Evolutions NM",
       "pris": 965,
@@ -1182,22 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471657273",
       "funnet": "2026-08-01T16:38:19.294814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Kangashkan ex",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471657386",
-      "funnet": "2026-08-01T16:38:17.560282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Arbok ex",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471657021",
-      "funnet": "2026-08-01T16:36:22.816445+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
