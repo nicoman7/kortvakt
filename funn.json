@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T23:54:38.478297+00:00",
+  "sist_sjekket": "2026-08-01T23:57:42.350339+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Squirtle",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471690455",
+      "funnet": "2026-08-01T23:57:42.348217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Golduck revers holo",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471690434",
+      "funnet": "2026-08-01T23:57:41.527643+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Exeggutor holo",
       "pris": 35,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-01T20:14:18.854387+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Starmie V Astral Radiance PSA 9 samlekort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471679207",
-      "funnet": "2026-08-01T20:10:32.627992+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Fotballkort VM 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
-      "funnet": "2026-08-01T20:08:17.650837+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
