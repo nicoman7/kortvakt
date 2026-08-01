@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T16:14:17.110508+00:00",
+  "sist_sjekket": "2026-08-01T16:16:52.770184+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon salamence ex kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471106012",
+      "funnet": "2026-08-01T16:16:52.767021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bakugan samlekort",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T13:37:04.918412+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Triple Beat Booster Box Japansk Sealed",
-      "pris": 1650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470033172",
-      "funnet": "2026-08-01T13:37:04.592140+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
