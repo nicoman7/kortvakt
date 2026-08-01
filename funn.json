@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-01T01:10:06.674524+00:00",
+  "sist_sjekket": "2026-08-01T01:14:15.683180+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling nyere og noen eldre",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471583619",
+      "funnet": "2026-08-01T01:14:15.681236+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Vintage Trainers",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471583666",
+      "funnet": "2026-08-01T01:14:14.736811+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard #40",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471583674",
+      "funnet": "2026-08-01T01:14:13.866243+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Primal Clash samling! - Pokemon Kort 2015",
       "pris": 260,
@@ -1174,30 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471568319",
       "funnet": "2026-07-31T19:44:29.915809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Elite fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471567082",
-      "funnet": "2026-07-31T19:44:29.530167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Penny & Friends Samler Kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471566975",
-      "funnet": "2026-07-31T19:44:29.029492+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og tilbehør",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471568333",
-      "funnet": "2026-07-31T19:44:28.673690+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
