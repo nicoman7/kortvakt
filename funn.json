@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T15:12:19.760779+00:00",
+  "sist_sjekket": "2026-08-01T15:14:16.706597+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lugia LEGEND, Heart gold & silver.",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471647964",
+      "funnet": "2026-08-01T15:14:16.704570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hisui Sneasler V Full Art 174/189 – Ultra Rare!",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T12:32:32.063493+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
-      "funnet": "2026-08-01T12:28:17.462832+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
