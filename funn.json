@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-01T10:22:36.947932+00:00",
+  "sist_sjekket": "2026-08-01T10:24:22.064069+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon hits selges",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465689648",
+      "funnet": "2026-08-01T10:24:22.062607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini - Emblem grønn",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471612380",
+      "funnet": "2026-08-01T10:24:21.657718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "151 japansk pokemon samling",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471612171",
+      "funnet": "2026-08-01T10:24:21.308973+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bakugan kort og tilbehør",
       "pris": 35,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471592801",
       "funnet": "2026-08-01T07:34:24.741380+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar EX kort",
-      "pris": 1450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471592474",
-      "funnet": "2026-08-01T07:32:18.081587+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldent Upper Deck SP1 baseballkort Michael Jordan",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469427048",
-      "funnet": "2026-08-01T07:28:23.855553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Pack Series 1 & Series 2 (forseglet)",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471592354",
-      "funnet": "2026-08-01T07:28:23.269457+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
