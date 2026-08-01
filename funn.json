@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T19:12:18.291568+00:00",
+  "sist_sjekket": "2026-08-01T19:14:17.988159+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471671775",
+      "funnet": "2026-08-01T19:14:17.986013+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Blastoise Base Set holo",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471661228",
       "funnet": "2026-08-01T17:17:21.560802+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "❗️Bunke med BREAKthrough - Pokemon Kort - 2015",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471660266",
-      "funnet": "2026-08-01T17:17:20.813213+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
