@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T16:24:19.291182+00:00",
+  "sist_sjekket": "2026-08-01T16:26:15.587546+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471655434",
+      "funnet": "2026-08-01T16:26:15.585479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
+      "funnet": "2026-08-01T16:26:14.828566+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Ceruledge ex",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-01T13:46:17.497161+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "25 Art Rare / Character Rare Pakker",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471637016",
-      "funnet": "2026-08-01T13:46:16.719955+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Magikarp & Wailord GX #SM166",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471637004",
-      "funnet": "2026-08-01T13:42:22.135886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
