@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-01T23:08:16.206554+00:00",
+  "sist_sjekket": "2026-08-01T23:16:36.325578+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard 1 edition",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471689033",
+      "funnet": "2026-08-01T23:16:36.323367+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Koffing",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471689400",
+      "funnet": "2026-08-01T23:16:36.086140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Sudowoodo",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471689460",
+      "funnet": "2026-08-01T23:16:35.430379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471688521",
+      "funnet": "2026-08-01T23:16:35.121361+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Reshiram",
       "pris": 50,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-01T19:50:24.647349+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Grass Energy holo",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471676692",
-      "funnet": "2026-08-01T19:48:23.499785+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort M Blastoise EX holo",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471676945",
-      "funnet": "2026-08-01T19:48:23.090696+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Virizion Reverse holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471676983",
-      "funnet": "2026-08-01T19:48:21.893404+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Victini holo kort 208 promo",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465556949",
-      "funnet": "2026-08-01T19:48:21.005531+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
