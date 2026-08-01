@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T20:06:32.667144+00:00",
+  "sist_sjekket": "2026-08-01T20:08:17.652504+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-08-01T20:08:17.650837+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Flamigo Art Rare",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471662897",
       "funnet": "2026-08-01T17:32:57.631714+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard X EX 023 Promo NM",
-      "pris": 290,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471662962",
-      "funnet": "2026-08-01T17:32:56.723363+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
