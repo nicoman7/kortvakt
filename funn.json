@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-01T09:44:14.442349+00:00",
+  "sist_sjekket": "2026-08-01T09:47:38.994029+00:00",
   "funn": [
+    {
+      "tittel": "1999 Topps Persian #53",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471607522",
+      "funnet": "2026-08-01T09:47:38.992240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "1999 Topps Tentacruel #73 [FOIL]",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471607684",
+      "funnet": "2026-08-01T09:47:38.065140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mega evo Etb",
+      "pris": 1390,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471607747",
+      "funnet": "2026-08-01T09:47:37.586871+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort, Chaos Rising",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471607162",
+      "funnet": "2026-08-01T09:47:36.665411+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON TCG DECKS 🌟💫",
       "pris": 649,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-01T05:02:47.947316+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Duel Masters Samling 🃏",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
-      "funnet": "2026-08-01T03:42:22.304562+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div. Ishockey kort. 1994-96. Samlekort.",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/410277914",
-      "funnet": "2026-08-01T03:17:16.047193+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Litten Silver Tempest (30)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471584269",
-      "funnet": "2026-08-01T02:56:46.062910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Phanpy Silver Tempest (91)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471584259",
-      "funnet": "2026-08-01T02:52:21.398237+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
