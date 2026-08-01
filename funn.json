@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-01T05:18:18.403684+00:00",
+  "sist_sjekket": "2026-08-01T05:20:25.010111+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Charmeleon RC4/RC32",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455299648",
+      "funnet": "2026-08-01T05:20:25.008310+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG DIY seidel",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471585115",
+      "funnet": "2026-08-01T05:20:24.133359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Transformers Generations Samlekortspill",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471571389",
       "funnet": "2026-07-31T20:22:15.335350+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Harry Kane Build a Baller",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471572010",
-      "funnet": "2026-07-31T20:22:14.735610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Kevin De Bruyneli Build a Baller",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471571888",
-      "funnet": "2026-07-31T20:22:14.125785+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
