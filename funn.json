@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-01T15:58:33.002209+00:00",
+  "sist_sjekket": "2026-08-01T16:00:47.519358+00:00",
   "funn": [
+    {
+      "tittel": "Charizard gold star",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471653099",
+      "funnet": "2026-08-01T16:00:47.517276+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Større samling telekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471652892",
+      "funnet": "2026-08-01T16:00:46.819927+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon E serie kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471106063",
+      "funnet": "2026-08-01T16:00:46.468666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nest Ball Secret Rare (gullkort) fra pokemon",
       "pris": 149,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471634818",
       "funnet": "2026-08-01T13:28:25.788690+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Champion's Path HOLOS - Pokémon TCG (15,-/stk)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449197535",
-      "funnet": "2026-08-01T13:24:21.841739+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pen samling Pokémon kort selges Neo / Aquapolis / Skyridge /Charizard /Meganium",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
-      "funnet": "2026-08-01T13:24:21.242428+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471633696",
-      "funnet": "2026-08-01T13:14:30.542796+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
