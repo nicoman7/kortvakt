@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T06:58:14.725554+00:00",
+  "sist_sjekket": "2026-08-01T07:00:45.312415+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mynter",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/315914465",
+      "funnet": "2026-08-01T07:00:45.310106+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Smoochum",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471573544",
       "funnet": "2026-07-31T20:41:42.426015+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger mange forskjellige kort fra panini world cup 2026",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471060135",
-      "funnet": "2026-07-31T20:41:41.907628+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
