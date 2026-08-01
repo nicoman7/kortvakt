@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-01T13:12:15.302745+00:00",
+  "sist_sjekket": "2026-08-01T13:14:30.544714+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471633696",
+      "funnet": "2026-08-01T13:14:30.542796+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny Pokemon Toploader samleperm (9 kort)",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471607684",
       "funnet": "2026-08-01T09:47:38.065140+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega evo Etb",
-      "pris": 1390,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471607747",
-      "funnet": "2026-08-01T09:47:37.586871+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
