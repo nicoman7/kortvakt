@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-01T16:58:26.005159+00:00",
+  "sist_sjekket": "2026-08-01T17:02:45.692308+00:00",
   "funn": [
+    {
+      "tittel": "Diverse fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424085327",
+      "funnet": "2026-08-01T17:02:45.690620+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Mega Venusaur ex",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471659442",
+      "funnet": "2026-08-01T17:02:45.390171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Limited Edition fotballkort – samling",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471659118",
+      "funnet": "2026-08-01T17:02:45.054586+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "1999 Topps Checklist",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471659634",
+      "funnet": "2026-08-01T17:02:44.219069+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu Ditto 63/113 Stamped Reverse Holo",
       "pris": 1500,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/430082870",
       "funnet": "2026-08-01T14:44:18.514604+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – japansk capsakid holo",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471644206",
-      "funnet": "2026-08-01T14:42:18.151925+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort bunt Black bolt, mega evolutions og prismatic.",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471643313",
-      "funnet": "2026-08-01T14:42:17.768232+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise #37 - Pokemon Expedition",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471643892",
-      "funnet": "2026-08-01T14:42:16.994521+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu reverse holo #60 - Pokémon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471643861",
-      "funnet": "2026-08-01T14:42:16.123938+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
