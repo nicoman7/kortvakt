@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-01T15:06:25.498171+00:00",
+  "sist_sjekket": "2026-08-01T15:08:17.181653+00:00",
   "funn": [
+    {
+      "tittel": "Diverse gammle pokemonkort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471646386",
+      "funnet": "2026-08-01T15:08:17.179714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Zarude #088 Promo – Sealed - Pitch Black",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471646714",
+      "funnet": "2026-08-01T15:08:16.404049+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-01T15:08:15.593070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu V 157/172 – Pokémons største ikon!",
       "pris": 69,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-01T12:26:21.889672+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Illustration Rare - Dhelmise 091/084",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471627057",
-      "funnet": "2026-08-01T12:20:24.898448+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Combee japansk samlekort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471627069",
-      "funnet": "2026-08-01T12:18:15.818403+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1999-2001 Pokemon Topps m/ prisliste",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471627183",
-      "funnet": "2026-08-01T12:18:14.964942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
