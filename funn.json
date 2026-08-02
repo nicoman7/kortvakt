@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T14:30:37.837286+00:00",
+  "sist_sjekket": "2026-08-02T14:32:21.954226+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome Black 2022 Star Wars",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/355431531",
+      "funnet": "2026-08-02T14:32:21.951485+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort selges! Bunker på 60 kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/333171249",
+      "funnet": "2026-08-02T14:32:21.545914+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Telekort",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/429678387",
       "funnet": "2026-08-02T12:36:25.760639+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
-      "funnet": "2026-08-02T12:36:24.916902+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor bunke Pokémon-kort ca 9 kg (bulk)",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471746011",
-      "funnet": "2026-08-02T12:34:17.522967+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
