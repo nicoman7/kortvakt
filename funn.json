@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T08:10:24.425078+00:00",
+  "sist_sjekket": "2026-08-02T08:12:22.853148+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-02T08:12:22.851255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Raticate Pokemon Go (42)",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T22:36:41.241063+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Fusion Strike - Sword & Shield  - bulkkort",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419924112",
-      "funnet": "2026-08-01T22:27:58.268320+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
