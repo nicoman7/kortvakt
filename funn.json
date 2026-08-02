@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T07:12:20.712138+00:00",
+  "sist_sjekket": "2026-08-02T07:14:20.314448+00:00",
   "funn": [
+    {
+      "tittel": "Luis Figo Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/357350174",
+      "funnet": "2026-08-02T07:14:20.312642+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lionel Messi Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396947893",
+      "funnet": "2026-08-02T07:14:19.917506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fabio Cannavaro Fotballkort",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/430322718",
       "funnet": "2026-08-01T21:43:54.164888+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 415,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430322155",
-      "funnet": "2026-08-01T21:43:53.723881+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Foil Pokemon Topps Blå Logo Gastly",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471685780",
-      "funnet": "2026-08-01T21:43:52.829100+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
