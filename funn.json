@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T19:32:18.400511+00:00",
+  "sist_sjekket": "2026-08-02T19:34:20.949704+00:00",
   "funn": [
+    {
+      "tittel": "Martin Ødegaard fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/306683003",
+      "funnet": "2026-08-02T19:34:20.947686+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort-lot #4",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471805589",
       "funnet": "2026-08-02T18:28:18.929170+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 Lucas fotballkort Atlético Madrid",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471806013",
-      "funnet": "2026-08-02T18:28:18.258901+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
