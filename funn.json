@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T22:46:15.514884+00:00",
+  "sist_sjekket": "2026-08-02T22:48:15.212901+00:00",
   "funn": [
+    {
+      "tittel": "Gamle postkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/430449373",
+      "funnet": "2026-08-02T22:48:15.210929+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Frank Lampard Chelsea Showboat Long Range Shot 367 Holo Foil Topps Match Attax",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465868090",
       "funnet": "2026-08-02T20:01:00.118128+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ash's Pikachu",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471819736",
-      "funnet": "2026-08-02T20:00:59.723431+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
