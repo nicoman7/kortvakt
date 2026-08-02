@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T16:06:26.315863+00:00",
+  "sist_sjekket": "2026-08-02T16:08:18.124989+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon first partner av serie 1 og 2",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471779563",
+      "funnet": "2026-08-02T16:08:18.123122+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Kortene er putta direkte i beskyttelsemappe. charmarder koster",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/410787097",
       "funnet": "2026-08-02T14:00:48.579849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408781208",
-      "funnet": "2026-08-02T14:00:47.699510+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
