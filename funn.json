@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T15:48:21.334972+00:00",
+  "sist_sjekket": "2026-08-02T15:50:27.016741+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon diverse sealed produkter",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465369891",
+      "funnet": "2026-08-02T15:50:27.014896+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sealed Mewtwo [Stamped] #56 Pokemon Brilliant Stars",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471780516",
+      "funnet": "2026-08-02T15:50:26.343052+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering 5 buntar med kort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471780554",
+      "funnet": "2026-08-02T15:50:25.694938+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-02T15:50:25.060051+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "DIGIMONKORT  fra BT 21 serien selges rimelig.",
       "pris": 270,
@@ -1166,38 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471760578",
       "funnet": "2026-08-02T13:50:31.251795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax Holo 37/130 Pokemon Kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465286556",
-      "funnet": "2026-08-02T13:50:30.621857+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diogo Jota Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471760423",
-      "funnet": "2026-08-02T13:50:29.871806+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Virgil Van Dijk Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471760242",
-      "funnet": "2026-08-02T13:48:16.194211+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471760030",
-      "funnet": "2026-08-02T13:48:15.288438+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
