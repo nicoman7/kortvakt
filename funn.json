@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T12:50:26.330744+00:00",
+  "sist_sjekket": "2026-08-02T12:52:18.530458+00:00",
   "funn": [
+    {
+      "tittel": "Eevee 63 fra Pokemon Sandstorm",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471748534",
+      "funnet": "2026-08-02T12:52:18.528602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor eske med Pokémom-kort 2,5kg (bulk)",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471750140",
+      "funnet": "2026-08-02T12:52:17.941782+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort 11 stk - Boing",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465760184",
       "funnet": "2026-08-02T10:42:17.100008+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome King Clint Dempsey samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471726534",
-      "funnet": "2026-08-02T10:42:16.692676+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome King Paul Ince fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471725660",
-      "funnet": "2026-08-02T10:36:21.277660+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
