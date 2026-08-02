@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T20:50:23.965414+00:00",
+  "sist_sjekket": "2026-08-02T20:52:22.487008+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ditto",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471825220",
+      "funnet": "2026-08-02T20:52:22.485154+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Arda Guler Real Madrid All-Star Rookie Topps",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/384106003",
+      "funnet": "2026-08-02T20:52:21.813708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Pikachu Poké Ball metall holografisk samlekort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471825454",
+      "funnet": "2026-08-02T20:52:21.033001+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Chelsea Topps Platinum 2016 x2",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383938771",
+      "funnet": "2026-08-02T20:52:20.634262+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Psyduck 226 x2",
       "pris": 1700,
@@ -1166,38 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465868368",
       "funnet": "2026-08-02T19:30:44.647376+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort-lot #3",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471815326",
-      "funnet": "2026-08-02T19:30:44.234302+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort - base set ( 1999)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471814325",
-      "funnet": "2026-08-02T19:30:43.045580+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes boosterpakker",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471814459",
-      "funnet": "2026-08-02T19:26:17.137067+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 - Matersett",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471814412",
-      "funnet": "2026-08-02T19:26:16.708232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
