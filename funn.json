@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T16:22:23.372577+00:00",
+  "sist_sjekket": "2026-08-02T16:24:17.088140+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort med permer og sleeves",
+      "pris": 1570,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471785839",
+      "funnet": "2026-08-02T16:24:17.086038+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL UEFA EURO 2016 - Raheem Sterling - Limited Edition",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T14:12:15.404173+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Porygon 80/113 Reverse HOLO [ ex Delta Species stamp ] pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471764047",
-      "funnet": "2026-08-02T14:10:23.258597+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
