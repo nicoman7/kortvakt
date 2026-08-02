@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T07:24:17.915929+00:00",
+  "sist_sjekket": "2026-08-02T07:26:16.293350+00:00",
   "funn": [
+    {
+      "tittel": "Diverse engelske One Piece kort selges.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471699563",
+      "funnet": "2026-08-02T07:26:16.291231+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort selges – Norske spillere 🇳🇴 | Autografer, Nummererte, Patch/Relic",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470978529",
+      "funnet": "2026-08-02T07:26:16.022356+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort Spinarak #64/75 common fra serien Neo Discovery",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 175,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471685770",
       "funnet": "2026-08-01T21:46:42.053701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Rockruff Holo Hidden Fates PSA 10 samlekort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471685593",
-      "funnet": "2026-08-01T21:43:58.722007+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kinesisk Gem Vol.3 Stamped kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471685480",
-      "funnet": "2026-08-01T21:43:57.878160+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
