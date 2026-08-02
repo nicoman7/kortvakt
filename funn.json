@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T09:30:35.157313+00:00",
+  "sist_sjekket": "2026-08-02T09:32:18.988939+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 470,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471714016",
+      "funnet": "2026-08-02T09:32:18.987163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mystery Pack - 50 kort!",
       "pris": 79,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T01:03:17.194057+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Slowpoke / Slowbro / Slowking samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471691207",
-      "funnet": "2026-08-02T00:59:43.410057+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
