@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T17:00:58.238576+00:00",
+  "sist_sjekket": "2026-08-02T17:02:18.742932+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471790950",
+      "funnet": "2026-08-02T17:02:18.741155+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marian Pahars i gull premier gold 2001 fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/290578967",
+      "funnet": "2026-08-02T17:02:17.718529+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "CharizardEX fullart(XY promo)-Flareon EX Fullart(Generations:Radiant collection)",
       "pris": 900,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/333171249",
       "funnet": "2026-08-02T14:32:21.545914+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465817980",
-      "funnet": "2026-08-02T14:30:37.835133+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort pakke uåpnet",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471765664",
-      "funnet": "2026-08-02T14:28:15.776248+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
