@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T10:24:16.122608+00:00",
+  "sist_sjekket": "2026-08-02T10:26:22.533291+00:00",
   "funn": [
+    {
+      "tittel": "Tarot kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471723141",
+      "funnet": "2026-08-02T10:26:22.531115+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokémon-kort – Base/Fossil (WotC 1999–2000) – selges enkeltvis.",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471697651",
       "funnet": "2026-08-02T07:00:50.237543+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam Ex 125/124 Pokemon",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471697195",
-      "funnet": "2026-08-02T06:54:18.496244+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
