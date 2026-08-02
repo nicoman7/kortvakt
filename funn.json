@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T15:16:19.419916+00:00",
+  "sist_sjekket": "2026-08-02T15:18:18.235266+00:00",
   "funn": [
+    {
+      "tittel": "Ønsker å kjøpe kort fra Neo Genesis",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471771214",
+      "funnet": "2026-08-02T15:18:18.233214+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini xxl limited edition kort",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471753526",
       "funnet": "2026-08-02T13:12:22.573850+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pichu #20 fra Pokemon Sandstorm",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471748496",
-      "funnet": "2026-08-02T13:12:22.228183+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
