@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T15:59:03.049869+00:00",
+  "sist_sjekket": "2026-08-02T16:02:56.520422+00:00",
   "funn": [
+    {
+      "tittel": "Samling av gamle spill",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/255153656",
+      "funnet": "2026-08-02T16:02:56.518555+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Kort Masse EX kort fra diverse",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471781596",
+      "funnet": "2026-08-02T16:02:56.136583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bytte - Panini Stickers VM 2026",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/412580145",
       "funnet": "2026-08-02T13:56:16.821359+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Neymar Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/370946906",
-      "funnet": "2026-08-02T13:54:17.351046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Baltoy 32/98 Pokemon Kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465809887",
-      "funnet": "2026-08-02T13:54:16.521121+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
