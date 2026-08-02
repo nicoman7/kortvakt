@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T21:20:29.913493+00:00",
+  "sist_sjekket": "2026-08-02T21:22:23.686202+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Solskjær",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471828182",
+      "funnet": "2026-08-02T21:22:23.684171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Larry's Skill 209/182 Super Rare (SR) Terastal Gathering NM",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465872842",
       "funnet": "2026-08-02T19:56:22.034725+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holon’s Voltorb, Electrode og researcher pokemon kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470923700",
-      "funnet": "2026-08-02T19:56:21.610514+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
