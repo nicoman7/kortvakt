@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-02T12:44:17.348601+00:00",
+  "sist_sjekket": "2026-08-02T12:46:18.159426+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471748863",
+      "funnet": "2026-08-02T12:46:18.157703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gengar samlekort",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471747735",
+      "funnet": "2026-08-02T12:46:17.306357+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn FIFA World Cup 2026 kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471747437",
+      "funnet": "2026-08-02T12:46:16.921279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mysterious Shard #81 fra Crystal Guardians",
       "pris": 11,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471722840",
       "funnet": "2026-08-02T10:20:27.548610+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alf Engen Eiker USA ski hopp sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/228758251",
-      "funnet": "2026-08-02T10:20:26.606818+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sword And Shield, Charizard UPC Akryl Display",
-      "pris": 479,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471721654",
-      "funnet": "2026-08-02T10:20:26.249399+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lisleby fotballklubb Fredrikstad Conrad Langaard sigarettkort fotballkort 1930",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/204603731",
-      "funnet": "2026-08-02T10:20:25.368014+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
