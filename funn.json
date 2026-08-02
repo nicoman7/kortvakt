@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T14:38:23.412203+00:00",
+  "sist_sjekket": "2026-08-02T14:41:27.401112+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Shaymin V 013/172Shaymin V kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471768902",
+      "funnet": "2026-08-02T14:41:27.399354+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra 2003-2005",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T12:40:24.674794+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471453553",
-      "funnet": "2026-08-02T12:40:24.245359+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
