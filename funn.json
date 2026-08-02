@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T14:18:18.283492+00:00",
+  "sist_sjekket": "2026-08-02T14:20:25.659471+00:00",
   "funn": [
+    {
+      "tittel": "Jeremy Doku Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445920891",
+      "funnet": "2026-08-02T14:20:25.657575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wayne Rooney Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449269920",
+      "funnet": "2026-08-02T14:20:24.696479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Robbie Keane Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/450431091",
+      "funnet": "2026-08-02T14:20:24.224921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Upper Deck 1998 David Beckham fotballkort CGC 9",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471247647",
+      "funnet": "2026-08-02T14:20:23.772852+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Excadrill ex #65 - Pokémon kort",
       "pris": 80,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-02T12:28:19.761407+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Magic The Gathering Stitcher’s Supplier Surge Foil Commander Final Fantasy kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745765",
-      "funnet": "2026-08-02T12:28:18.906855+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor bunke Pokémon-kort ca 1,2 kg (bulk)",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745647",
-      "funnet": "2026-08-02T12:28:17.993490+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution (M01) – Komplett Master Base Set (1–132)",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471744674",
-      "funnet": "2026-08-02T12:28:17.152221+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Death Cruzer, the Annihilator Duel Masters kort",
-      "pris": 1120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745662",
-      "funnet": "2026-08-02T12:28:16.094736+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
