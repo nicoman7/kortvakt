@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T08:54:14.968600+00:00",
+  "sist_sjekket": "2026-08-02T08:56:16.944877+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon trainer",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465009020",
+      "funnet": "2026-08-02T08:56:16.943409+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Prizm Mason Mount og Alejandro Garnacho",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471709495",
+      "funnet": "2026-08-02T08:56:16.587689+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Marnie’s Grimsnarl Ex 287/217 Pokemon Ascended Heroes 2026",
       "pris": 769,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-01T23:20:22.543340+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Pikachu #18 fra Paldean Fates",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471689554",
-      "funnet": "2026-08-01T23:18:19.390142+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard 1 edition",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471689033",
-      "funnet": "2026-08-01T23:16:36.323367+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
