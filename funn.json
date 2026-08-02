@@ -2,6 +2,14 @@
   "sist_sjekket": "2026-08-02T01:02:57.244933+00:00",
   "funn": [
     {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-08-02T01:03:17.194057+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
       "tittel": "Pokemon kort Slowpoke / Slowbro / Slowking samling",
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471691207",
@@ -1190,14 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471680277",
       "funnet": "2026-08-01T20:20:30.113885+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort - Chelsea",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/300936867",
-      "funnet": "2026-08-01T20:16:30.906806+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
