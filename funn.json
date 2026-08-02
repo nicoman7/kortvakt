@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T14:10:23.260620+00:00",
+  "sist_sjekket": "2026-08-02T14:12:15.772868+00:00",
   "funn": [
+    {
+      "tittel": "Alan Shearer Fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/379327476",
+      "funnet": "2026-08-02T14:12:15.770933+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Selger Pokémon kort Squirtle i MINT tilstand",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471760853",
+      "funnet": "2026-08-02T14:12:15.404173+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Porygon 80/113 Reverse HOLO [ ex Delta Species stamp ] pokemon kort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471744686",
       "funnet": "2026-08-02T12:24:19.661449+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tank Mutant Duel Masters kort",
-      "pris": 960,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471744832",
-      "funnet": "2026-08-02T12:24:19.331309+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chaotic Skyterror Duel Masters kort",
-      "pris": 1340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745014",
-      "funnet": "2026-08-02T12:24:19.005855+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
