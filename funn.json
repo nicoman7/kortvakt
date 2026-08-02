@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T15:01:55.328175+00:00",
+  "sist_sjekket": "2026-08-02T15:02:17.968158+00:00",
   "funn": [
+    {
+      "tittel": "Bicycle Dragon Back kortstokker rød, gull og blå",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471771222",
+      "funnet": "2026-08-02T15:02:17.966097+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse gammle pokemonkort. Kom med bud!",
       "pris": 1999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471750140",
       "funnet": "2026-08-02T12:52:17.941782+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort 11 stk - Boing",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/425007022",
-      "funnet": "2026-08-02T12:50:26.328885+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
