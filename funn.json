@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T22:08:18.367886+00:00",
+  "sist_sjekket": "2026-08-02T22:10:25.477602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort (1995-2026)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471830974",
+      "funnet": "2026-08-02T22:10:25.475955+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ledian 144/142 Illustration Rare (IR) Stellar Crown NM",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471831123",
+      "funnet": "2026-08-02T22:10:25.074755+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🚨TRADER🚨Pokemon samlekort i perm",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 549,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465872567",
       "funnet": "2026-08-02T19:58:29.094387+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Houndour – Single Strike",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465869019",
-      "funnet": "2026-08-02T19:58:28.104696+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Remoraid Rapid Strike",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465869218",
-      "funnet": "2026-08-02T19:58:27.264585+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
