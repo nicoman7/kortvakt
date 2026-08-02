@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T11:58:16.053825+00:00",
+  "sist_sjekket": "2026-08-02T12:01:37.146339+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling.",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471739920",
+      "funnet": "2026-08-02T12:01:37.144275+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kun 2 igjen - Pokemon TCG Ascended Heroes Booster Bundle",
       "pris": 1190,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471710880",
       "funnet": "2026-08-02T09:04:17.082629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 28/7",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-08-02T09:02:14.244484+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
