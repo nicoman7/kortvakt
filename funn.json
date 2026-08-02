@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-02T08:18:16.531392+00:00",
+  "sist_sjekket": "2026-08-02T08:20:30.381870+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort i eske",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471704743",
+      "funnet": "2026-08-02T08:20:30.379965+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Barcelona fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471701849",
+      "funnet": "2026-08-02T08:20:29.478114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Charmeleon #169",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471704865",
+      "funnet": "2026-08-02T08:20:28.621002+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samleobjekt: SAS Memo Game kortspill for barn 3+",
       "pris": 299,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-01T22:46:49.676960+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor samling med Basketballkort fra år 2005-2025",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438113773",
-      "funnet": "2026-08-01T22:46:48.982261+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini fotballkort VM",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471688131",
-      "funnet": "2026-08-01T22:46:48.325889+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini vm momentum fotballkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471688318",
-      "funnet": "2026-08-01T22:46:47.923209+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
