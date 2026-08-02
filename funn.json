@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T01:50:22.610738+00:00",
+  "sist_sjekket": "2026-08-02T01:52:17.835383+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon liten kortalbum",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471691634",
+      "funnet": "2026-08-02T01:52:17.833540+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pen samling Pokémon kort selges Neo / Aquapolis / Skyridge /Charizard /Meganium",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T20:24:17.532945+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
-      "funnet": "2026-08-01T20:22:20.611664+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
