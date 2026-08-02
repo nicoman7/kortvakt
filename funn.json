@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T12:24:20.458400+00:00",
+  "sist_sjekket": "2026-08-02T12:26:15.895750+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Sylveon pakke",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471744996",
+      "funnet": "2026-08-02T12:26:15.894038+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Trox, General of Destruction samlekort Duel Masters",
+      "pris": 1280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471745512",
+      "funnet": "2026-08-02T12:26:15.566620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic The Gathering Angel of the Ruins Surge Foil kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471745412",
+      "funnet": "2026-08-02T12:26:15.269023+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling med fotballkort Champions League",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471745532",
+      "funnet": "2026-08-02T12:26:14.630060+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Vaporeon samlekort",
       "pris": 50,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-02T09:52:16.770116+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON MYSTERY TINS.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
-      "funnet": "2026-08-02T09:52:16.080177+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471717490",
-      "funnet": "2026-08-02T09:48:16.508050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 720,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471716154",
-      "funnet": "2026-08-02T09:44:21.308431+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
-      "funnet": "2026-08-02T09:44:20.684243+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
