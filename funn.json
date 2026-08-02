@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T09:46:19.712629+00:00",
+  "sist_sjekket": "2026-08-02T09:48:16.510113+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471717490",
+      "funnet": "2026-08-02T09:48:16.508050+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 720,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471692780",
       "funnet": "2026-08-02T05:18:06.175641+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div.. pokemon hits - liten samling",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471692952",
-      "funnet": "2026-08-02T05:18:05.722510+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
