@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-02T12:52:18.530458+00:00",
+  "sist_sjekket": "2026-08-02T12:54:17.273381+00:00",
   "funn": [
+    {
+      "tittel": "Selger/Bytter Panini VM-kort Stor samling.",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471747083",
+      "funnet": "2026-08-02T12:54:17.271605+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tottenham fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471750184",
+      "funnet": "2026-08-02T12:54:16.884169+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "SALG! - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
+      "funnet": "2026-08-02T12:54:15.990671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eevee 63 fra Pokemon Sandstorm",
       "pris": 150,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-02T10:42:19.348012+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon First Partner Series 1",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471726738",
-      "funnet": "2026-08-02T10:42:18.453028+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemonkort samling",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471725623",
-      "funnet": "2026-08-02T10:42:17.498871+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Special Energy-kort lot – Telepathic, Bubbly, Rocky, Prism m.fl.",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465760184",
-      "funnet": "2026-08-02T10:42:17.100008+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
