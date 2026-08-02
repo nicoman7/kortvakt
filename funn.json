@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T17:32:22.172494+00:00",
+  "sist_sjekket": "2026-08-02T17:34:18.709869+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2026 stickers",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471792880",
+      "funnet": "2026-08-02T17:34:18.708105+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Disney Lorcana Carl Fredricksen kort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471797024",
+      "funnet": "2026-08-02T17:34:18.315844+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Disney Lorcana Rapunzel & Flynn Rider kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471796872",
+      "funnet": "2026-08-02T17:34:17.892871+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Grail PSA Kort og One Piece Sealed Bokser",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471277306",
+      "funnet": "2026-08-02T17:34:17.156173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – Blastoise, Articuno, Latios m.fl. samling",
       "pris": 1,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471773205",
       "funnet": "2026-08-02T15:06:20.768181+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471773015",
-      "funnet": "2026-08-02T15:06:19.844781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471773533",
-      "funnet": "2026-08-02T15:06:19.455290+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Erling Haaland Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/355306991",
-      "funnet": "2026-08-02T15:06:18.631813+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort i plastlommer. (Mega dream og prismatic)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471771178",
-      "funnet": "2026-08-02T15:06:17.840620+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
