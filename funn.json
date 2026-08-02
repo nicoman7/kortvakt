@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T09:58:20.221442+00:00",
+  "sist_sjekket": "2026-08-02T10:00:53.102974+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort - Bayern München",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407923628",
+      "funnet": "2026-08-02T10:00:53.100774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort - Inter Milan",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407994786",
+      "funnet": "2026-08-02T10:00:52.719532+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Tag Team Machamp & Marshadow GX",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471719439",
+      "funnet": "2026-08-02T10:00:52.120653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pen samling Pokémon kort selges Neo / Aquapolis / Skyridge /Charizard /Meganium",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
+      "funnet": "2026-08-02T10:00:51.496447+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "A&BC Fotballkort  1973/74 - BLUE BACKS",
       "pris": 15,
@@ -1166,38 +1198,6 @@
       "pris": 275,
       "lenke": "https://www.finn.no/recommerce/forsale/item/436702314",
       "funnet": "2026-08-02T05:50:21.845432+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard tops",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459253760",
-      "funnet": "2026-08-02T05:44:11.714028+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon top",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463628264",
-      "funnet": "2026-08-02T05:44:11.254525+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440837241",
-      "funnet": "2026-08-02T05:44:10.413959+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon tops",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463627106",
-      "funnet": "2026-08-02T05:44:09.633682+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
