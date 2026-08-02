@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T09:42:14.581043+00:00",
+  "sist_sjekket": "2026-08-02T09:44:21.310357+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 720,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471716154",
+      "funnet": "2026-08-02T09:44:21.308431+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
+      "funnet": "2026-08-02T09:44:20.684243+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Riqui Puig patch fotballkort /500",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471692952",
       "funnet": "2026-08-02T05:18:05.722510+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon festival boosterboks sealed",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/391356206",
-      "funnet": "2026-08-02T05:04:57.024050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2 stk Upper Deck Nolan Ryan baseballkort samling",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471692816",
-      "funnet": "2026-08-02T04:56:44.073470+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
