@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T12:54:17.273381+00:00",
+  "sist_sjekket": "2026-08-02T12:56:17.176503+00:00",
   "funn": [
+    {
+      "tittel": "Capybara samlekort sett med illustrerte figurer (Japan) 42 kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456640327",
+      "funnet": "2026-08-02T12:56:17.174667+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling vurderes solgt",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/421149201",
+      "funnet": "2026-08-02T12:56:16.823971+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort- japanske hits",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469253961",
+      "funnet": "2026-08-02T12:56:16.437208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Dragonite XXL V holografisk",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471749194",
+      "funnet": "2026-08-02T12:56:16.071895+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger/Bytter Panini VM-kort Stor samling.",
       "pris": 3,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-02T10:56:20.922898+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chikorita [Energy] #8 fra Ascended Heroes",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471728328",
-      "funnet": "2026-08-02T10:52:21.335393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket Trainer-kort- Goop Gas Attack, Nightly Garbage Run & Sleep!",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471726774",
-      "funnet": "2026-08-02T10:46:22.326625+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome King Roy Keane samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471726129",
-      "funnet": "2026-08-02T10:42:19.838945+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon Team Rocket-kort (WotC 2000) – selges enkeltvis",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471726164",
-      "funnet": "2026-08-02T10:42:19.348012+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
