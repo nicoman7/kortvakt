@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T12:34:17.524664+00:00",
+  "sist_sjekket": "2026-08-02T12:36:25.762634+00:00",
   "funn": [
+    {
+      "tittel": "Gamle Uåpnet Fotballkort",
+      "pris": 145,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429678387",
+      "funnet": "2026-08-02T12:36:25.760639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Masterset av Nihil Zero (Kom med bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470021293",
+      "funnet": "2026-08-02T12:36:24.916902+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Stor bunke Pokémon-kort ca 9 kg (bulk)",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471720138",
       "funnet": "2026-08-02T10:06:16.053029+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Piplup holografisk",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471720434",
-      "funnet": "2026-08-02T10:06:15.639813+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Pikachu (Snow stamp) promo og japansk Dachsbun ex",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471719316",
-      "funnet": "2026-08-02T10:02:17.443564+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
