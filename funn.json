@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T21:54:16.600893+00:00",
+  "sist_sjekket": "2026-08-02T21:56:17.121671+00:00",
   "funn": [
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-02T21:56:17.119696+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball Euro 2024 kortsamling",
       "pris": 2000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T19:58:25.928690+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Crawdaunt",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465868899",
-      "funnet": "2026-08-02T19:58:25.131523+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
