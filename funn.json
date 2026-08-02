@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T07:16:24.425959+00:00",
+  "sist_sjekket": "2026-08-02T07:18:25.685167+00:00",
   "funn": [
+    {
+      "tittel": "Javier Mascherano Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/357349784",
+      "funnet": "2026-08-02T07:18:25.683291+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Phantasmal Flames - Diverse kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465791348",
+      "funnet": "2026-08-02T07:18:24.678095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Luis Figo Fotballkort",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 445,
       "lenke": "https://www.finn.no/recommerce/forsale/item/430411204",
       "funnet": "2026-08-01T21:43:56.082614+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 425,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430321612",
-      "funnet": "2026-08-01T21:43:55.084628+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 425,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430322718",
-      "funnet": "2026-08-01T21:43:54.164888+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
