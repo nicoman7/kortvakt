@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T16:02:56.520422+00:00",
+  "sist_sjekket": "2026-08-02T16:04:17.551099+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort ikke så high end hit but still",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471781079",
+      "funnet": "2026-08-02T16:04:17.549079+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Bulk 3-4kg!",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471783126",
+      "funnet": "2026-08-02T16:04:17.093126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling av gamle spill",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471759288",
       "funnet": "2026-08-02T13:56:18.115240+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Charmander #44 Pokemon Promo",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471761458",
-      "funnet": "2026-08-02T13:56:17.241830+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412580145",
-      "funnet": "2026-08-02T13:56:16.821359+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
