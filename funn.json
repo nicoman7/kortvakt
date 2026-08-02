@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T10:12:17.880740+00:00",
+  "sist_sjekket": "2026-08-02T10:14:19.257370+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471721464",
+      "funnet": "2026-08-02T10:14:19.255839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Zapdos samling",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471696331",
       "funnet": "2026-08-02T06:46:44.604784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jamie Redknapp fotballkort - Merlins Premier Gold 99",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384122353",
-      "funnet": "2026-08-02T06:42:23.739799+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
