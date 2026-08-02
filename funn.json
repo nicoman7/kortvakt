@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T00:49:22.696878+00:00",
+  "sist_sjekket": "2026-08-02T00:51:37.150558+00:00",
   "funn": [
+    {
+      "tittel": "Upper deck og Topps basketball samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/234110134",
+      "funnet": "2026-08-02T00:51:37.148480+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Prismatic Evolutions Elite Trainer Box",
       "pris": 1900,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/300934327",
       "funnet": "2026-08-01T20:16:29.402078+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United samlekort fotballkort",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456563379",
-      "funnet": "2026-08-01T20:16:28.513971+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
