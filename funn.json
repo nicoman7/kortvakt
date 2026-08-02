@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-02T01:28:14.471851+00:00",
+  "sist_sjekket": "2026-08-02T01:30:36.408431+00:00",
   "funn": [
+    {
+      "tittel": "Pen samling Pokémon kort selges Neo / Aquapolis / Skyridge /Charizard /Meganium",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
+      "funnet": "2026-08-02T01:30:36.406848+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SALG! - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
       "pris": 129,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-01T20:22:20.611664+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort - Arsenal",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/300938536",
-      "funnet": "2026-08-01T20:20:31.026758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
