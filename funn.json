@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-02T09:52:16.771850+00:00",
+  "sist_sjekket": "2026-08-02T09:54:16.924954+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort - Dortmund",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407923980",
+      "funnet": "2026-08-02T09:54:16.923068+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort - Tottenham",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/407923262",
+      "funnet": "2026-08-02T09:54:16.470435+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort 142 stykk",
       "pris": 425,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/146044039",
       "funnet": "2026-08-02T05:44:06.955753+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/64 pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430583836",
-      "funnet": "2026-08-02T05:44:06.121383+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Surging Sparks",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447774635",
-      "funnet": "2026-08-02T05:44:05.352592+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
