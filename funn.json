@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-02T10:06:17.403027+00:00",
+  "sist_sjekket": "2026-08-02T10:08:16.378459+00:00",
   "funn": [
+    {
+      "tittel": "div POGs selges samlet",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471720259",
+      "funnet": "2026-08-02T10:08:16.376580+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ca 700+ vintage Magic the Gathering kort.",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471720058",
+      "funnet": "2026-08-02T10:08:15.955299+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - selger barndomspermen",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471719734",
+      "funnet": "2026-08-02T10:08:15.579380+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League 2026 samlekort med album og bokser",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/384119787",
       "funnet": "2026-08-02T06:42:21.792065+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gianluca Vialli fotballkort - Merlins Premier Gold 99",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384120037",
-      "funnet": "2026-08-02T06:34:40.832789+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enzo Francescoli fotballkort - Postcard from Pasadena - Upper Deck 1994",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384123905",
-      "funnet": "2026-08-02T06:34:40.469828+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Clefable [stars] #103 fra Gem pack 3",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471695429",
-      "funnet": "2026-08-02T06:28:21.455898+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
