@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-02T20:20:27.852901+00:00",
+  "sist_sjekket": "2026-08-02T20:22:20.579133+00:00",
   "funn": [
+    {
+      "tittel": "Charizard Pokemon Coin / Mynt",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471822188",
+      "funnet": "2026-08-02T20:22:20.577201+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Ninetales japansk kort CGC 8.5",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471822287",
+      "funnet": "2026-08-02T20:22:19.730493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Samling Kortspill 100+ kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447910456",
+      "funnet": "2026-08-02T20:22:18.833284+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON MYSTERY TINS.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
+      "funnet": "2026-08-02T20:22:17.940378+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div Pokémon kort, V, EX, AR, SR, MA, Holo, RR",
       "pris": 419,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471812539",
       "funnet": "2026-08-02T19:10:28.846184+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 samlekort Presnel Kimpembe PSG",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471812604",
-      "funnet": "2026-08-02T19:10:28.356228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2019 POKEMON #SM210 MLTRS/ZPDS/ARTCN.GX PSA 9",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471812000",
-      "funnet": "2026-08-02T19:10:27.316057+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 Kevin Trapp PSG samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471812393",
-      "funnet": "2026-08-02T19:10:26.846602+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard ex 223/197 SIR",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471812138",
-      "funnet": "2026-08-02T19:10:26.408079+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
