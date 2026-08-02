@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-02T14:06:20.386543+00:00",
+  "sist_sjekket": "2026-08-02T14:08:21.469247+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471763549",
+      "funnet": "2026-08-02T14:08:21.467322+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sealed Mewtwo [Stamped] #56 Pokemon Brilliant Stars",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471763646",
+      "funnet": "2026-08-02T14:08:20.700223+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Cyclizar ex #159 - Pokémon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471764925",
+      "funnet": "2026-08-02T14:08:19.853814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Casemiro & Marcelo Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426055343",
+      "funnet": "2026-08-02T14:08:19.052715+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Giratina 4/146 HOLO pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471763516",
+      "funnet": "2026-08-02T14:08:18.600087+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Solgaleo [Stamped] #142 Pokemon Cosmic Eclipse",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471763961",
+      "funnet": "2026-08-02T14:08:17.763524+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rhyperior lv.X DP29 Black Star PROMO pokemon kort",
       "pris": 1000,
@@ -1151,54 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471744795",
       "funnet": "2026-08-02T12:24:18.628751+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters Bombersaur kort",
-      "pris": 1670,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745183",
-      "funnet": "2026-08-02T12:24:18.247506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Stitch Together Surge Foil Commander-kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471744173",
-      "funnet": "2026-08-02T12:24:17.839158+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Twin-Cannon Skyterror Duel Masters kort",
-      "pris": 1330,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471745361",
-      "funnet": "2026-08-02T12:24:17.009873+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM 2026 fotballkort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471742405",
-      "funnet": "2026-08-02T12:20:27.067992+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Premier League – samling boot-kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471744403",
-      "funnet": "2026-08-02T12:20:26.749044+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor bunke Pokémon kort ca 4,4 kg (bulk) - phantasmal flames",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471742814",
-      "funnet": "2026-08-02T12:20:25.946358+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
