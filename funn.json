@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T00:16:20.490791+00:00",
+  "sist_sjekket": "2026-08-03T00:18:16.892447+00:00",
   "funn": [
+    {
+      "tittel": "Siste! Sandkortanheng  Promo 143/S-P Charizard Vmax",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465852566",
+      "funnet": "2026-08-03T00:18:16.890550+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 550,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T20:08:18.041210+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Charizard - SWSH260",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820058",
-      "funnet": "2026-08-02T20:08:17.418309+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
