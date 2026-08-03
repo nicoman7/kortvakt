@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T17:32:25.129758+00:00",
+  "sist_sjekket": "2026-08-03T17:34:22.465624+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Farigiraf ex (CN)",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471923730",
+      "funnet": "2026-08-03T17:34:22.463409+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mew ex og Bulbasaur",
       "pris": 850,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-03T15:10:33.433918+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Astral Radiance Booster Packs",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447324868",
-      "funnet": "2026-08-03T15:08:24.392363+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
