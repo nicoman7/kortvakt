@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-03T16:12:28.421830+00:00",
+  "sist_sjekket": "2026-08-03T16:14:19.571399+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu samling",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471912768",
+      "funnet": "2026-08-03T16:14:19.569653+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Cristiano Ronaldo Golden Baller",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471912807",
+      "funnet": "2026-08-03T16:14:18.551195+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Lugia Reverse holo",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471912737",
+      "funnet": "2026-08-03T16:14:18.044651+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Lugia Reverse holo",
       "pris": 25,
@@ -1174,30 +1198,6 @@
       "pris": 580,
       "lenke": "https://www.finn.no/recommerce/forsale/item/458585790",
       "funnet": "2026-08-03T13:10:27.360145+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Marvels fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/331366076",
-      "funnet": "2026-08-03T13:10:26.921689+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Nidoking EX, Hilda, Zoroark GX, Lisia’s Appeal",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471889465",
-      "funnet": "2026-08-03T13:10:26.524685+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort – diverse samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471888932",
-      "funnet": "2026-08-03T13:08:20.927996+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
