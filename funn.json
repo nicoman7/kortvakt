@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-03T18:04:24.706461+00:00",
+  "sist_sjekket": "2026-08-03T18:06:21.561944+00:00",
   "funn": [
+    {
+      "tittel": "Limited Edition UCL fotballkort",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458308998",
+      "funnet": "2026-08-03T18:06:21.559871+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort - Noivern ex (CN)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471928680",
+      "funnet": "2026-08-03T18:06:20.738855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GAMECHANGER fotballkort",
+      "pris": 139,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458178522",
+      "funnet": "2026-08-03T18:06:20.389021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort fra Premier league 2020/21",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458172901",
+      "funnet": "2026-08-03T18:06:20.001855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Utvalgte Pokémon hits selges – NM/Mint - Illustration Rare (IR)",
       "pris": 100,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471909802",
       "funnet": "2026-08-03T15:54:21.053538+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ditto reverse holo lv.33 27/146",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471908908",
-      "funnet": "2026-08-03T15:52:20.327410+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
-      "funnet": "2026-08-03T15:52:19.553044+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokémonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389739043",
-      "funnet": "2026-08-03T15:48:24.514384+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "SAMLE-KORT , artister, Musikere, Gammelt,",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/136095569",
-      "funnet": "2026-08-03T15:48:23.768835+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
