@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T19:44:24.660997+00:00",
+  "sist_sjekket": "2026-08-03T19:46:22.936927+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort salg",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471942827",
+      "funnet": "2026-08-03T19:46:22.934964+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jellicent ex 160/086 Ultra Rare (UR) White Flare NM",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 139,
       "lenke": "https://www.finn.no/recommerce/forsale/item/458178522",
       "funnet": "2026-08-03T18:06:20.389021+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort fra Premier league 2020/21",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458172901",
-      "funnet": "2026-08-03T18:06:20.001855+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
