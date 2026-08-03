@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T20:44:16.809625+00:00",
+  "sist_sjekket": "2026-08-03T20:46:17.490754+00:00",
   "funn": [
+    {
+      "tittel": "Straykids album inclusions",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471949679",
+      "funnet": "2026-08-03T20:46:17.488689+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
       "funnet": "2026-08-03T18:54:25.887341+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort – Vintage og moderne – mange sjeldne kort!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468841944",
-      "funnet": "2026-08-03T18:52:24.294557+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
