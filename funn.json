@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T22:02:23.338321+00:00",
+  "sist_sjekket": "2026-08-03T22:04:16.630358+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471955589",
+      "funnet": "2026-08-03T22:04:16.628132+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL fotballkort samling Messi Ronaldo Ødegaard",
       "pris": 449,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/387900420",
       "funnet": "2026-08-03T21:14:19.268702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eric Cantona Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409080937",
-      "funnet": "2026-08-03T21:14:18.672351+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
