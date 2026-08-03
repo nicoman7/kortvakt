@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-03T17:28:29.279798+00:00",
+  "sist_sjekket": "2026-08-03T17:31:41.917748+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mew ex og Bulbasaur",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471923334",
+      "funnet": "2026-08-03T17:31:41.915849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Blaziken V MAX kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471923295",
+      "funnet": "2026-08-03T17:31:41.602631+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon ! Magnetiske holdere !",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471923328",
+      "funnet": "2026-08-03T17:31:41.304453+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort samling",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471922979",
+      "funnet": "2026-08-03T17:31:40.704935+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eiscue V kort – Snowflake promo",
       "pris": 15,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-03T15:08:24.392363+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Skarmory reverse holo 21/97 ex dragon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471903794",
-      "funnet": "2026-08-03T15:08:23.537401+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort blandet lot",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471903889",
-      "funnet": "2026-08-03T15:06:18.667738+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gengar holo 38/111",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471903245",
-      "funnet": "2026-08-03T15:04:26.313090+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Michael Jordan basketballkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471903484",
-      "funnet": "2026-08-03T15:04:25.673636+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
