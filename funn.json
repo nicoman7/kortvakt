@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-03T16:20:33.608264+00:00",
+  "sist_sjekket": "2026-08-03T16:22:18.549850+00:00",
   "funn": [
+    {
+      "tittel": "Trader eller selger diverse pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465211563",
+      "funnet": "2026-08-03T16:22:18.548117+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Snorlax samling",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471913134",
+      "funnet": "2026-08-03T16:22:17.710156+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Argentina Eternos #630 – Martínez / Messi / Álvarez Panini Adrenalyn XL VM 2026",
+      "pris": 649,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471913898",
+      "funnet": "2026-08-03T16:22:17.331551+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort-lot #11 – Articuno holo, Umbreon, Eevee og Jolteon",
       "pris": 499,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471891884",
       "funnet": "2026-08-03T13:32:15.459218+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort BULK",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471891618",
-      "funnet": "2026-08-03T13:32:14.678492+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/311999148",
-      "funnet": "2026-08-03T13:28:17.257833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Artbox Pokémon Series One Flareon samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448845079",
-      "funnet": "2026-08-03T13:26:20.696630+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
