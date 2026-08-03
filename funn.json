@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T15:22:21.832161+00:00",
+  "sist_sjekket": "2026-08-03T15:24:19.801789+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort gamle biler",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465868383",
+      "funnet": "2026-08-03T15:24:19.799904+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Base Set 58/102",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905956",
+      "funnet": "2026-08-03T15:24:19.017091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini klister",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/364215841",
       "funnet": "2026-08-03T12:24:17.699305+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan Z-Force basketballkort!!",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471882141",
-      "funnet": "2026-08-03T12:20:28.996161+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rattata reverse holo #87 - Pokémon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471882001",
-      "funnet": "2026-08-03T12:20:27.985306+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
