@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T13:26:20.698936+00:00",
+  "sist_sjekket": "2026-08-03T13:28:17.259734+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/311999148",
+      "funnet": "2026-08-03T13:28:17.257833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Artbox Pokémon Series One Flareon samlekort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471872987",
       "funnet": "2026-08-03T11:14:18.419911+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Barcelona Homegrown Heroes kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471872856",
-      "funnet": "2026-08-03T11:14:17.962965+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
