@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T06:44:26.277097+00:00",
+  "sist_sjekket": "2026-08-03T06:46:19.511606+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471839834",
+      "funnet": "2026-08-03T06:46:19.509245+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini EM 1996 album ønskes kjøpt",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471825842",
       "funnet": "2026-08-02T20:56:15.072403+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Charizard VMAX 330 HP",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471825667",
-      "funnet": "2026-08-02T20:56:14.391915+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
