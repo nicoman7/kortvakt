@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T20:26:22.521332+00:00",
+  "sist_sjekket": "2026-08-03T20:28:23.078852+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Oshawott 105/086 ACE 9",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471947868",
+      "funnet": "2026-08-03T20:28:23.076942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471947762",
+      "funnet": "2026-08-03T20:28:22.655996+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon sun & moon, hidden fates Tokorico gx #sv93.",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471933833",
       "funnet": "2026-08-03T18:42:19.457346+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Football 1991 album",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/418840169",
-      "funnet": "2026-08-03T18:42:18.662119+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Surfing Beach Trainer-kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471933881",
-      "funnet": "2026-08-03T18:42:18.231619+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
