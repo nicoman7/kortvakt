@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T20:32:25.639202+00:00",
+  "sist_sjekket": "2026-08-03T20:34:17.032571+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort fra Perfect order og chaos rising",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471948732",
+      "funnet": "2026-08-03T20:34:17.030313+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "063/193 Pikachu ex (Paldea Evolved)",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-03T18:50:28.519470+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-03T18:50:27.624958+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
