@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-03T20:04:20.599329+00:00",
+  "sist_sjekket": "2026-08-03T20:06:20.173846+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonhits selges. IR",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465977188",
+      "funnet": "2026-08-03T20:06:20.172346+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Dark Blastoise Team Rocket holo",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471945193",
+      "funnet": "2026-08-03T20:06:19.326015+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-08-03T20:06:18.406980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "048/078 Melmetal Vmax (Pokemon Go)",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462867896",
       "funnet": "2026-08-03T18:24:16.386226+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471930919",
-      "funnet": "2026-08-03T18:22:23.340406+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort bunt",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471930595",
-      "funnet": "2026-08-03T18:20:32.895216+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471929579",
-      "funnet": "2026-08-03T18:20:32.495917+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
