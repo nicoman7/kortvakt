@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T08:43:06.280551+00:00",
+  "sist_sjekket": "2026-08-03T08:44:16.006874+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-08-03T08:44:16.004768+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2023 Panini Select UFC MAX HOLLOWAY Blue Disco 04/49 MMA",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/294628020",
       "funnet": "2026-08-03T06:30:35.231732+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leif Leifsen Jevnaker Haldor Andersen OIL skøyter kort 1930 Tiedemanns Tobak!",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/206078545",
-      "funnet": "2026-08-03T06:30:34.576593+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
