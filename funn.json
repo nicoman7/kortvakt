@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-03T21:24:22.270241+00:00",
+  "sist_sjekket": "2026-08-03T21:26:18.019908+00:00",
   "funn": [
+    {
+      "tittel": "Ivan Perisic Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/440299545",
+      "funnet": "2026-08-03T21:26:18.017744+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eric Cantona Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449269602",
+      "funnet": "2026-08-03T21:26:17.360910+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Heung-Min Son Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449263367",
+      "funnet": "2026-08-03T21:26:16.787954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ronaldo Nazario Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449263213",
+      "funnet": "2026-08-03T21:26:16.395377+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eric Cantona Fotballkort",
       "pris": 75,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-03T20:28:22.655996+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon sun & moon, hidden fates Tokorico gx #sv93.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448562902",
-      "funnet": "2026-08-03T20:26:22.519530+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Gardevoir EX 116/114 i cgc 9",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471947493",
-      "funnet": "2026-08-03T20:24:18.046649+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Eevee holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471947751",
-      "funnet": "2026-08-03T20:24:17.152157+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA-kort: SkyBox Z-Force Big Men & Premium – Kraftpakke med legender!",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458080327",
-      "funnet": "2026-08-03T20:20:27.822123+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
