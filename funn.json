@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T00:14:15.343149+00:00",
+  "sist_sjekket": "2026-08-03T00:16:20.490791+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471834429",
+      "funnet": "2026-08-03T00:16:20.488584+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon produkter!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471832305",
+      "funnet": "2026-08-03T00:16:19.856486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – holo og EX-kort",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-02T20:08:17.418309+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Final Fantasy MTG Rares, Full Arts , Mythic & Foil",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471817257",
-      "funnet": "2026-08-02T20:08:17.109317+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer-kort og Special Energy – Fossil/Base Set/Team Rocket (1999–2000)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820261",
-      "funnet": "2026-08-02T20:06:20.165663+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
