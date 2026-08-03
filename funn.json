@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T12:30:39.963495+00:00",
+  "sist_sjekket": "2026-08-03T12:32:26.630769+00:00",
   "funn": [
+    {
+      "tittel": "Lamine Yamal Limited Edition LE-LY – Panini Adrenalyn XL VM 2026",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471884143",
+      "funnet": "2026-08-03T12:32:26.628754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jérémy Doku Limited Edition LE-JD – Panini Adrenalyn XL VM 2026",
       "pris": 59,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/346296036",
       "funnet": "2026-08-03T10:32:19.214554+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Messi",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/346299271",
-      "funnet": "2026-08-03T10:32:18.768650+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
