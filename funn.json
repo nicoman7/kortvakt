@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-03T18:06:21.561944+00:00",
+  "sist_sjekket": "2026-08-03T18:08:31.680990+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – 9 kort kom med bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471928963",
+      "funnet": "2026-08-03T18:08:31.678811+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort populære eldre seier. vintage",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471927014",
+      "funnet": "2026-08-03T18:08:30.787439+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort fra Brave (Charm) (CN)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471929014",
+      "funnet": "2026-08-03T18:08:29.857037+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Limited Edition UCL fotballkort",
       "pris": 95,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471910198",
       "funnet": "2026-08-03T15:58:16.229704+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topp class fotballkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/389951135",
-      "funnet": "2026-08-03T15:56:16.271327+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/322693053",
-      "funnet": "2026-08-03T15:54:21.385794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Toadacruel illustration rare 185/182",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471909802",
-      "funnet": "2026-08-03T15:54:21.053538+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
