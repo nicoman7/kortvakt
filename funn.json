@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T00:10:24.577410+00:00",
+  "sist_sjekket": "2026-08-03T00:12:15.476082+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – holo og EX-kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471834421",
+      "funnet": "2026-08-03T00:12:15.474174+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort – Quagsire, Florges og Skeledirge",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471834427",
+      "funnet": "2026-08-03T00:12:14.497680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – PROMOS",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-02T20:06:20.165663+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Jeg kjøper dine Pokémon kort!",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820345",
-      "funnet": "2026-08-02T20:06:19.295827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ash's Pikachu",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820001",
-      "funnet": "2026-08-02T20:04:22.139207+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
