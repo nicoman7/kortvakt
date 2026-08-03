@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T00:18:16.892447+00:00",
+  "sist_sjekket": "2026-08-03T00:20:23.144115+00:00",
   "funn": [
+    {
+      "tittel": "Siste! Sandkortanheng  Pikachu EX",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465854665",
+      "funnet": "2026-08-03T00:20:23.143016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Siste! Sandkortanheng  Charizard EX",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465854801",
+      "funnet": "2026-08-03T00:20:22.345979+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Siste! Sandkortanheng  Promo 143/S-P Charizard Vmax",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-02T20:10:32.764484+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Elite Trainer Box (ETB) - Phantasmal Flames",
-      "pris": 1850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820930",
-      "funnet": "2026-08-02T20:10:31.963939+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer-kort – Base Set (1999) – Bill, Gust of Wind, Switch m.fl.",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471820568",
-      "funnet": "2026-08-02T20:08:18.041210+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
