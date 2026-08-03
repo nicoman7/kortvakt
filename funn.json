@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T07:42:16.919150+00:00",
+  "sist_sjekket": "2026-08-03T07:44:34.720096+00:00",
   "funn": [
+    {
+      "tittel": "Matheus Fernandes Gold Prizm /10 Panini Prizm Premier League 2024-25",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471846382",
+      "funnet": "2026-08-03T07:44:34.717965+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Battle Styles Set",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-02T21:06:18.881364+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Flying Pikachu V kort PSA 10",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471826776",
-      "funnet": "2026-08-02T21:06:18.515921+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
