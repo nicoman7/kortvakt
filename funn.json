@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T12:32:26.630769+00:00",
+  "sist_sjekket": "2026-08-03T12:34:14.330393+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Card Binder, singles for sale.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471884319",
+      "funnet": "2026-08-03T12:34:14.328472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lamine Yamal Limited Edition LE-LY – Panini Adrenalyn XL VM 2026",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/346302677",
       "funnet": "2026-08-03T10:32:20.245865+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med fotballkort - LaLiga 2017-2019",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/346296036",
-      "funnet": "2026-08-03T10:32:19.214554+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
