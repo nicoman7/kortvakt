@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T12:38:16.372617+00:00",
+  "sist_sjekket": "2026-08-03T12:40:26.202310+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort samling i perm NHL",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471880537",
+      "funnet": "2026-08-03T12:40:26.200163+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Pokémon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471886882",
+      "funnet": "2026-08-03T12:40:25.828570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "João Neves Limited Edition LE-JN – Panini Adrenalyn XL VM 2026",
       "pris": 49,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/162230734",
       "funnet": "2026-08-03T10:36:16.838049+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Star Wars Force Attax samlekort boosterpakker",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465491189",
-      "funnet": "2026-08-03T10:36:16.145730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471867235",
-      "funnet": "2026-08-03T10:36:15.531037+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
