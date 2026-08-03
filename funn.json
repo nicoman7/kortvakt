@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T15:06:18.669764+00:00",
+  "sist_sjekket": "2026-08-03T15:08:24.393868+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Astral Radiance Booster Packs",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447324868",
+      "funnet": "2026-08-03T15:08:24.392363+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Skarmory reverse holo 21/97 ex dragon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471903794",
+      "funnet": "2026-08-03T15:08:23.537401+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort blandet lot",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471879832",
       "funnet": "2026-08-03T12:01:01.295531+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Undaunted Alph Lithograph  3",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471877724",
-      "funnet": "2026-08-03T11:58:21.374125+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chansey PokeBall #0402 Gem Pack 5 - Pokémon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471879115",
-      "funnet": "2026-08-03T11:58:20.486459+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
