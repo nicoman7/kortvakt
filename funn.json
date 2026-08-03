@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T08:08:57.113717+00:00",
+  "sist_sjekket": "2026-08-03T08:10:58.836846+00:00",
   "funn": [
+    {
+      "tittel": "Ampharos h1 - Pokemon Aquapolis",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471849072",
+      "funnet": "2026-08-03T08:10:58.834593+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Gardevoir EX. SIR Scarlet and violet",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471848876",
+      "funnet": "2026-08-03T08:10:58.144075+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gudrun Røstad Maltun Oslo  Svømming sigarettkort fra ca 1930 Tiedemanns Tobak!",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/445725909",
       "funnet": "2026-08-02T21:10:24.727701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Haxorus 152/086 Art Rare (AR) Black Bolt NM",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471827062",
-      "funnet": "2026-08-02T21:08:17.760508+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ditto Vmax CGC 10 pristine",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471826888",
-      "funnet": "2026-08-02T21:08:16.804408+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
