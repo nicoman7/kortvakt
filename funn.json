@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-03T23:12:28.907355+00:00",
+  "sist_sjekket": "2026-08-03T23:14:20.243864+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon— 5 kroner per kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471958042",
+      "funnet": "2026-08-03T23:14:20.241801+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – eldre kort i plastperm",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471958322",
+      "funnet": "2026-08-03T23:14:19.351227+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pikachu samlekort i album",
+      "pris": 422,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471958308",
+      "funnet": "2026-08-03T23:14:18.871986+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard reverse evolutions",
       "pris": 800,
@@ -1174,30 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/440300216",
       "funnet": "2026-08-03T21:24:16.015992+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wayne Rooney Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440337244",
-      "funnet": "2026-08-03T21:24:15.315079+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon Kort !",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465974616",
-      "funnet": "2026-08-03T21:22:27.240310+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bukayo Saka Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/365737059",
-      "funnet": "2026-08-03T21:22:26.420030+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
