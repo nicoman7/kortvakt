@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T20:42:15.484210+00:00",
+  "sist_sjekket": "2026-08-03T20:44:16.809625+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465932118",
+      "funnet": "2026-08-03T20:44:16.807300+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Leafeon kort – 3 stk samlekort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468841944",
       "funnet": "2026-08-03T18:52:24.294557+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935327",
-      "funnet": "2026-08-03T18:52:23.400114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
