@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T15:30:44.447889+00:00",
+  "sist_sjekket": "2026-08-03T15:32:23.417360+00:00",
   "funn": [
+    {
+      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
+      "funnet": "2026-08-03T15:32:23.415517+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samlemappe med 112 eldre kort",
       "pris": 399,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471883813",
       "funnet": "2026-08-03T12:30:38.743648+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini prizm monopoly 2026 fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471883116",
-      "funnet": "2026-08-03T12:26:19.563159+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
