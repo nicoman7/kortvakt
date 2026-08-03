@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T09:44:22.481370+00:00",
+  "sist_sjekket": "2026-08-03T09:46:23.041901+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax Limited Edition fotballkort Marmoush",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471860508",
+      "funnet": "2026-08-03T09:46:23.040088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Riftbound Vendetta C/UC/Rare Playset",
       "pris": 1499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-03T08:00:51.318711+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Matheus Fernandes Gold Prizm /10 Panini Prizm Premier League 2024-25",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471846382",
-      "funnet": "2026-08-03T07:44:34.717965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
