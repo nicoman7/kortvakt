@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T23:16:23.551867+00:00",
+  "sist_sjekket": "2026-08-03T23:18:16.707786+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373298307",
+      "funnet": "2026-08-03T23:18:16.705801+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon EX / V samlekort – Mewtwo, Pikachu, Raichu m.fl.",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471958359",
+      "funnet": "2026-08-03T23:18:16.091666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon— 5 kroner per kort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/440301393",
       "funnet": "2026-08-03T21:24:17.409841+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oliver Giroud Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/380602901",
-      "funnet": "2026-08-03T21:24:16.703109+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Memphis Depay Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440300216",
-      "funnet": "2026-08-03T21:24:16.015992+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
