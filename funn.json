@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T15:46:19.767512+00:00",
+  "sist_sjekket": "2026-08-03T15:48:24.516262+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokémonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/389739043",
+      "funnet": "2026-08-03T15:48:24.514384+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "SAMLE-KORT , artister, Musikere, Gammelt,",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/136095569",
+      "funnet": "2026-08-03T15:48:23.768835+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort og mapper",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471247647",
       "funnet": "2026-08-03T12:42:20.475028+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hockeykort samling i perm NHL",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471880537",
-      "funnet": "2026-08-03T12:40:26.200163+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pokémon kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471886882",
-      "funnet": "2026-08-03T12:40:25.828570+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
