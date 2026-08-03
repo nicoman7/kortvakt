@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T05:42:17.615416+00:00",
+  "sist_sjekket": "2026-08-03T05:44:20.262331+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON MYSTERY TINS.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
+      "funnet": "2026-08-03T05:44:20.260253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon GO",
       "pris": 49,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
       "funnet": "2026-08-02T20:26:12.873219+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Evolving Skies boosterpakke",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471822380",
-      "funnet": "2026-08-02T20:24:15.097838+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
