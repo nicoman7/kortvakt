@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T17:56:19.162244+00:00",
+  "sist_sjekket": "2026-08-03T17:58:25.352832+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
+      "funnet": "2026-08-03T17:58:25.351158+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465868383",
       "funnet": "2026-08-03T15:24:19.799904+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Base Set 58/102",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471905956",
-      "funnet": "2026-08-03T15:24:19.017091+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
