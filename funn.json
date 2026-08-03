@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T15:52:20.329481+00:00",
+  "sist_sjekket": "2026-08-03T15:54:21.387035+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/322693053",
+      "funnet": "2026-08-03T15:54:21.385794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Toadacruel illustration rare 185/182",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471909802",
+      "funnet": "2026-08-03T15:54:21.053538+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Ditto reverse holo lv.33 27/146",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-03T12:48:21.214812+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Series 2 Komplett Sett",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471885885",
-      "funnet": "2026-08-03T12:46:26.831062+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Fotballkort VM 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470866026",
-      "funnet": "2026-08-03T12:46:26.046221+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
