@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-03T18:18:26.068048+00:00",
+  "sist_sjekket": "2026-08-03T18:20:32.896647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort bunt",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471930595",
+      "funnet": "2026-08-03T18:20:32.895216+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471929579",
+      "funnet": "2026-08-03T18:20:32.495917+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "CHARIZARD V PROMO FRA UPC PSA 8",
       "pris": 550,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471912737",
       "funnet": "2026-08-03T16:14:18.044651+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lugia Reverse holo",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471912282",
-      "funnet": "2026-08-03T16:12:28.420056+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Mohamed Salah Golden Baller",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471912399",
-      "funnet": "2026-08-03T16:12:27.502937+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
