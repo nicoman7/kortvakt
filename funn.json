@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T20:12:22.702722+00:00",
+  "sist_sjekket": "2026-08-03T20:14:21.525800+00:00",
   "funn": [
+    {
+      "tittel": "Panini Stickers - Bytter - Mangler mange, har mange duplikater",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471945904",
+      "funnet": "2026-08-03T20:14:21.523465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Eevee samlekort – 8 stk",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-03T18:32:17.497569+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort til salgs",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471924884",
-      "funnet": "2026-08-03T18:32:16.882509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
