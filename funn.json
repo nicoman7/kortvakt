@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-03T16:36:19.446478+00:00",
+  "sist_sjekket": "2026-08-03T16:38:25.565782+00:00",
   "funn": [
+    {
+      "tittel": "KOM MED BUD - Tomokazu Komiya samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471915904",
+      "funnet": "2026-08-03T16:38:25.563756+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémonkort-lot #14 – holo, reverse og eldre kort",
       "pris": 299,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471894193",
       "funnet": "2026-08-03T13:48:17.334593+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med pog",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471893642",
-      "funnet": "2026-08-03T13:48:16.690044+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
