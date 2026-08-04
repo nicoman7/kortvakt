@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-04T17:54:19.539534+00:00",
+  "sist_sjekket": "2026-08-04T17:56:35.148237+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hits fra Pitch Black",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472051981",
+      "funnet": "2026-08-04T17:56:35.146825+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA 365 Joshua Kimmich kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472052429",
+      "funnet": "2026-08-04T17:56:34.794375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Medicham EX 103/108 holo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472052438",
+      "funnet": "2026-08-04T17:56:34.034713+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Prismatic Evolutions boosterpakker kortspill",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472052088",
+      "funnet": "2026-08-04T17:56:33.281249+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini EM 2016 Jerôme Boateng samlekort Tyskland",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472052569",
+      "funnet": "2026-08-04T17:56:32.911886+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Corentin Tolisso fotballkort Lyon Champions League",
       "pris": 30,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472043834",
       "funnet": "2026-08-04T16:58:34.817165+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Retro Threads Micah Richards Manchester City samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472043556",
-      "funnet": "2026-08-04T16:58:34.225413+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa LE-AN Limited Edition – Panini Adrenalyn XL VM 2026",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472043959",
-      "funnet": "2026-08-04T16:58:33.770629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters Bloodwing Mantis samle kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472044097",
-      "funnet": "2026-08-04T16:58:33.191592+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mongrel Man samle kort Duel Masters",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472043975",
-      "funnet": "2026-08-04T16:58:32.889734+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SJELDEN Psyduck [Reverse Holo] #104 Pokemon Aquapolis",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472011912",
-      "funnet": "2026-08-04T16:58:32.321252+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
