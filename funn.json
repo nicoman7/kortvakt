@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-04T14:04:22.190309+00:00",
+  "sist_sjekket": "2026-08-04T14:06:27.807718+00:00",
   "funn": [
+    {
+      "tittel": "Panini Curaçao fotballkort samling (12 stk) – Inkl. spesialkort!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466036186",
+      "funnet": "2026-08-04T14:06:27.806127+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Haiti fotballkort samling (12 stk) – Inkl. spesialkort!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466036474",
+      "funnet": "2026-08-04T14:06:26.970454+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Panini album",
       "pris": 99,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-04T11:54:16.619435+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort vm 2026",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472004213",
-      "funnet": "2026-08-04T11:54:16.045886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort samling – 6 ulike kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472004182",
-      "funnet": "2026-08-04T11:54:15.763685+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
