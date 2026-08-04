@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T08:50:27.174396+00:00",
+  "sist_sjekket": "2026-08-04T08:52:26.814158+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sleeves",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471980328",
+      "funnet": "2026-08-04T08:52:26.812339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Mathisen Skøyter sigarettkort fra ca 1930 Tiedemanns Tobak",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/373298307",
       "funnet": "2026-08-03T23:18:16.705801+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon EX / V samlekort – Mewtwo, Pikachu, Raichu m.fl.",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471958359",
-      "funnet": "2026-08-03T23:18:16.091666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
