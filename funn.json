@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T23:04:23.533357+00:00",
+  "sist_sjekket": "2026-08-04T23:06:27.549832+00:00",
   "funn": [
+    {
+      "tittel": "Celesteela GX 228/214 – Unbroken Bonds - Rainbow Rare",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472082090",
+      "funnet": "2026-08-04T23:06:27.547876+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Taillow reverse holo fra ex Delta Species samlekort 66/113",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-04T19:30:42.734590+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort vm 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472066290",
-      "funnet": "2026-08-04T19:30:41.841255+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
