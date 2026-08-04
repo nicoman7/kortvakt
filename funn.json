@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-04T11:28:18.393232+00:00",
+  "sist_sjekket": "2026-08-04T11:30:37.707760+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471998747",
+      "funnet": "2026-08-04T11:30:37.705994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon GX samlekort i perm",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472000469",
+      "funnet": "2026-08-04T11:30:37.331037+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Steffen Tiggs rookie fotballkort /75",
       "pris": 120,
@@ -1182,22 +1198,6 @@
       "pris": 240,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471985121",
       "funnet": "2026-08-04T09:32:23.286209+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Dragonskull Summit Surge Foil landkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471985100",
-      "funnet": "2026-08-04T09:32:22.492749+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome fotballkort – 30 stk m/ Yamal, Mbappè, mm",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471984858",
-      "funnet": "2026-08-04T09:32:21.759454+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
