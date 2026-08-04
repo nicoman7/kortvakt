@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-04T16:14:21.081002+00:00",
+  "sist_sjekket": "2026-08-04T16:16:26.746454+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472037881",
+      "funnet": "2026-08-04T16:16:26.744234+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ny Pokemon aluminium kofferten",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472038002",
+      "funnet": "2026-08-04T16:16:26.144164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472037695",
+      "funnet": "2026-08-04T16:16:25.542056+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor bunke Pokemonkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472025299",
+      "funnet": "2026-08-04T16:16:24.930200+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Darkrai pokemon coin",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472038160",
+      "funnet": "2026-08-04T16:16:24.267296+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters Nocturnal Giant kort",
       "pris": 250,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472024678",
       "funnet": "2026-08-04T14:38:22.936186+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - UNSEEN FORCES",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472024854",
-      "funnet": "2026-08-04T14:36:19.158945+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort: Ole Gunnar Solskjær #018 – Game Tippeligaen 1996",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472024718",
-      "funnet": "2026-08-04T14:36:18.789617+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jumbo pokemon kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472023448",
-      "funnet": "2026-08-04T14:34:18.103960+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm insert og nummererte",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472024163",
-      "funnet": "2026-08-04T14:30:44.072524+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pitch Black Samling! - Pokemon Kort",
-      "pris": 295,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472023336",
-      "funnet": "2026-08-04T14:28:29.411916+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
