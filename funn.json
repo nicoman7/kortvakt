@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T15:34:31.345234+00:00",
+  "sist_sjekket": "2026-08-04T15:36:25.590948+00:00",
   "funn": [
+    {
+      "tittel": "Diego Maradona Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472032296",
+      "funnet": "2026-08-04T15:36:25.589249+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Topps TV Animation Edition – Bulbasaur, Ivysaur & Venusaur (1999)",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/440828807",
       "funnet": "2026-08-04T13:18:18.858601+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shiftry GX Rainbow Rare samlekort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472014908",
-      "funnet": "2026-08-04T13:18:18.456914+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
