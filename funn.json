@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-04T20:54:23.905773+00:00",
+  "sist_sjekket": "2026-08-04T20:56:29.360860+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk pakker",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472075892",
+      "funnet": "2026-08-04T20:56:29.358833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472075074",
+      "funnet": "2026-08-04T20:56:28.492890+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the gathering kort plains",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472075799",
+      "funnet": "2026-08-04T20:56:28.046153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Obsidian Nico Williams Fotballkort",
       "pris": 400,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465112700",
       "funnet": "2026-08-04T19:08:22.431215+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mummi Samlerkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464766552",
-      "funnet": "2026-08-04T19:08:22.096579+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon album med plass til 360 kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465269246",
-      "funnet": "2026-08-04T19:08:21.768266+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Meowscarada ex special illustration rare kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471519670",
-      "funnet": "2026-08-04T19:08:21.111787+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
