@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-04T20:28:30.491659+00:00",
+  "sist_sjekket": "2026-08-04T20:30:42.896839+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472073394",
+      "funnet": "2026-08-04T20:30:42.894737+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-08-04T20:30:42.245486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Celebration Collection Series 1 samleboks",
       "pris": 949,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-04T18:58:23.903923+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Mats Hummels Power Up kort Bayern München",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472061882",
-      "funnet": "2026-08-04T18:58:23.011339+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tysk Charizard(Glurak) lv.X Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472061399",
-      "funnet": "2026-08-04T18:58:21.964228+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
