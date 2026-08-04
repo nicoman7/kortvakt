@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T14:28:29.413720+00:00",
+  "sist_sjekket": "2026-08-04T14:30:44.074343+00:00",
   "funn": [
+    {
+      "tittel": "Panini Prizm insert og nummererte",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472024163",
+      "funnet": "2026-08-04T14:30:44.072524+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pitch Black Samling! - Pokemon Kort",
       "pris": 295,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472005380",
       "funnet": "2026-08-04T12:04:20.060692+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/380771125",
-      "funnet": "2026-08-04T12:04:19.122206+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
