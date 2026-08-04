@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T12:26:30.955074+00:00",
+  "sist_sjekket": "2026-08-04T12:28:16.866734+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort med bla Haaland og Martinez!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472008702",
+      "funnet": "2026-08-04T12:28:16.864675+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Lot med bla Haaland!",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-04T11:10:40.606923+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "FIFA World Cup 2014 -Samleperm med 23 kort.",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/413357766",
-      "funnet": "2026-08-04T11:10:39.784342+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
