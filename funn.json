@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-04T06:50:27.279350+00:00",
+  "sist_sjekket": "2026-08-04T06:52:15.731661+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471967599",
+      "funnet": "2026-08-04T06:52:15.729417+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eduardo Camavinga Auto Nummerert /49 The Beautiful Game 2021-22 Panini Donruss",
       "pris": 1800,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/429988460",
       "funnet": "2026-08-03T21:36:25.865903+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gianluigi Donnarumma Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/357070199",
-      "funnet": "2026-08-03T21:36:25.556830+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
