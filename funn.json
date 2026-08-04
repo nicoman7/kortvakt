@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-04T14:02:27.791735+00:00",
+  "sist_sjekket": "2026-08-04T14:04:22.190309+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Panini album",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/348850078",
+      "funnet": "2026-08-04T14:04:22.188137+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-04T14:04:21.235066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland Prized footballers fotballkort",
       "pris": 125,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-04T11:54:15.763685+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokermann esker",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472004171",
-      "funnet": "2026-08-04T11:54:15.172119+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Originalt Liverpool fotballkort fra 1925 Donald McKinlay selges!",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/151160031",
-      "funnet": "2026-08-04T11:54:14.543823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
