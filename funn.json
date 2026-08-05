@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T06:24:14.037124+00:00",
+  "sist_sjekket": "2026-08-05T06:26:19.541090+00:00",
   "funn": [
+    {
+      "tittel": "7 stk Akrylbokser Pokemon Booster Box",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464707364",
+      "funnet": "2026-08-05T06:26:19.538925+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2020-21 Panini Obsidian Supernova #6 Lionel Messi CSG 9.5 kort",
       "pris": 1300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-04T20:36:22.773057+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472073394",
-      "funnet": "2026-08-04T20:30:42.894737+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
