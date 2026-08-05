@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-05T17:14:23.113927+00:00",
+  "sist_sjekket": "2026-08-05T17:16:21.058626+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Torterra LV.X 122/130",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472177684",
+      "funnet": "2026-08-05T17:16:21.056671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fonch, the Oracle samle kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472178019",
+      "funnet": "2026-08-05T17:16:19.853298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Blaise Matuidi Juventus samlekort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472178172",
+      "funnet": "2026-08-05T17:16:18.972829+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Federico Bernardeschi Juventus samlekort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472178090",
+      "funnet": "2026-08-05T17:16:18.403361+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters Blagris, Vizier of Magnetism kort",
       "pris": 30,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-05T15:40:37.484769+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters Obsidian Scarab samle kort HOLO",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472163085",
-      "funnet": "2026-08-05T15:36:26.981006+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jurgen Klopp Patch Nummerert /6 Fotballkort",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472163568",
-      "funnet": "2026-08-05T15:36:26.445262+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcos Llorente Nummerert Auto Fotballkort",
-      "pris": 375,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472163354",
-      "funnet": "2026-08-05T15:34:17.888164+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Booster Bundle",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472157055",
-      "funnet": "2026-08-05T15:34:17.240675+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
