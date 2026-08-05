@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-05T16:22:21.907799+00:00",
+  "sist_sjekket": "2026-08-05T16:24:19.418261+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Diglett",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472169963",
+      "funnet": "2026-08-05T16:24:19.416099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort pakke med startere og Pikachu",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472170104",
+      "funnet": "2026-08-05T16:24:18.995369+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449123770",
+      "funnet": "2026-08-05T16:24:18.603893+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Bulbasaur",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472150757",
       "funnet": "2026-08-05T14:01:03.916864+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lysandre PSA 9 pokemon kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472150622",
-      "funnet": "2026-08-05T14:01:03.528366+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Dark Gyarados CGC 8.5 + holo Gyarados",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472149682",
-      "funnet": "2026-08-05T14:01:02.581944+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlerkort fra 1958",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472150499",
-      "funnet": "2026-08-05T14:01:01.731637+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
