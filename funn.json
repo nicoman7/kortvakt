@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T16:02:18.375760+00:00",
+  "sist_sjekket": "2026-08-05T16:04:29.967601+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Evolution Ascended Heroes boosterpakke",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461236259",
+      "funnet": "2026-08-05T16:04:29.965854+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Slowpoke",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472167480",
+      "funnet": "2026-08-05T16:04:29.126508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Clefairy",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-05T13:26:24.351383+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort White Kyurem holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472145636",
-      "funnet": "2026-08-05T13:24:18.456596+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TM Machine Trainer Pokemon TCG",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472145105",
-      "funnet": "2026-08-05T13:22:26.353095+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
