@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T19:18:18.518727+00:00",
+  "sist_sjekket": "2026-08-05T19:20:25.769963+00:00",
   "funn": [
+    {
+      "tittel": "Charizard",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443205206",
+      "funnet": "2026-08-05T19:20:25.767692+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jigglypuff 63/101 Reverse Holo EX Hidden Legends Pokémonkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472196286",
+      "funnet": "2026-08-05T19:20:25.148881+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Pro Partnership Ndaoue Etevee-Lucas Pires fotballkort Premier League",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472183847",
       "funnet": "2026-08-05T17:54:20.708709+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Watchog kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472183674",
-      "funnet": "2026-08-05T17:54:19.783293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raza Vega Thunder Guardian Duel Masters kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472183758",
-      "funnet": "2026-08-05T17:54:19.320314+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
