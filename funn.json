@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T13:24:18.458591+00:00",
+  "sist_sjekket": "2026-08-05T13:26:24.353517+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 26",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472145009",
+      "funnet": "2026-08-05T13:26:24.351383+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort White Kyurem holo",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/228758181",
       "funnet": "2026-08-05T10:50:31.921435+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472121463",
-      "funnet": "2026-08-05T10:46:17.095518+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
