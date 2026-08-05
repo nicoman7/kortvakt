@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T13:12:19.098438+00:00",
+  "sist_sjekket": "2026-08-05T13:14:16.440099+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471618087",
+      "funnet": "2026-08-05T13:14:16.437883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard GX SM60",
       "pris": 399,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472120354",
       "funnet": "2026-08-05T10:40:27.619119+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi - Panini Obsidian - Electric Etch Purple - CSG 8.5",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466120606",
-      "funnet": "2026-08-05T10:40:27.219311+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
