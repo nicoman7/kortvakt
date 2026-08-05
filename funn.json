@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-05T08:00:52.123662+00:00",
+  "sist_sjekket": "2026-08-05T08:02:21.424922+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365534890",
+      "funnet": "2026-08-05T08:02:21.423205+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Japansk",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472098929",
+      "funnet": "2026-08-05T08:02:21.029434+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini 2026 Gratis Frakt har 500stk",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472099308",
+      "funnet": "2026-08-05T08:02:20.059040+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lillehammer OL Telekort samling med motiver fra vinteridretter",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472082467",
       "funnet": "2026-08-04T23:16:20.379349+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon EX-kort lot – Venusaur, Machamp, Kyurem og Ampharos",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472082149",
-      "funnet": "2026-08-04T23:10:25.679298+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Grail PSA Kort og One Piece Sealed Bokser",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471277306",
-      "funnet": "2026-08-04T23:08:20.986929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celesteela GX 228/214 – Unbroken Bonds - Rainbow Rare",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472082090",
-      "funnet": "2026-08-04T23:06:27.547876+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
