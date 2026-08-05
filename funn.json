@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T14:56:37.037986+00:00",
+  "sist_sjekket": "2026-08-05T14:58:23.696251+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon etb sleeves",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472158490",
+      "funnet": "2026-08-05T14:58:23.694262+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling selges",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-05T11:48:25.251870+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort AZ's Tranquility supporter trainer",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472130746",
-      "funnet": "2026-08-05T11:44:17.187478+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
