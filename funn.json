@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-05T17:06:17.634523+00:00",
+  "sist_sjekket": "2026-08-05T17:08:27.599587+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 329,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472173295",
+      "funnet": "2026-08-05T17:08:27.596838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel Masters Shadow Moon, Cursed Shade kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472176827",
+      "funnet": "2026-08-05T17:08:26.718170+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel Masters kort Snake Attack",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472176942",
+      "funnet": "2026-08-05T17:08:26.389626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon GX kort – Mew, Umbreon GX, Alolan Ninetales GX ser etter bud",
       "pris": 1,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-05T15:20:26.071422+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon TCG: Chaos Rising Booster bundle, 2 stk.",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472161278",
-      "funnet": "2026-08-05T15:20:25.422191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi - 2015-16 Panini Select",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472160708",
-      "funnet": "2026-08-05T15:20:24.778079+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Giratina Lv.70 (DPtG 008)",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472159354",
-      "funnet": "2026-08-05T15:18:19.514727+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
