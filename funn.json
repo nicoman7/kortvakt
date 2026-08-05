@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T12:46:14.846327+00:00",
+  "sist_sjekket": "2026-08-05T12:48:27.072759+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472140637",
+      "funnet": "2026-08-05T12:48:27.070326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamle fotballkort i bilderamme",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466060082",
       "funnet": "2026-08-05T10:08:18.819855+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-08-05T10:08:17.998330+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
