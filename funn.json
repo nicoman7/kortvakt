@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T08:42:26.025030+00:00",
+  "sist_sjekket": "2026-08-05T08:44:23.679715+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Pokemon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472104315",
+      "funnet": "2026-08-05T08:44:23.677617+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Reverse holo fra Pokemon Dragons Exalted (2012)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472104039",
+      "funnet": "2026-08-05T08:44:23.345872+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mewtwo v sealed promo",
       "pris": 170,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/456658423",
       "funnet": "2026-08-05T04:26:25.242631+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Diverse Trainer kort Holographic",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/275697022",
-      "funnet": "2026-08-05T04:26:24.848246+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Roselia lv.32 62/132 Reverse Holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456658806",
-      "funnet": "2026-08-05T04:26:24.074323+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
