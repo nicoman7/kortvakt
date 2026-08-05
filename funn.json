@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T15:26:19.308431+00:00",
+  "sist_sjekket": "2026-08-05T15:28:17.562691+00:00",
   "funn": [
+    {
+      "tittel": "Joelinton Auto Fotballkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472162620",
+      "funnet": "2026-08-05T15:28:17.560557+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472162575",
+      "funnet": "2026-08-05T15:28:16.856481+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland Gradert Fotballkort",
       "pris": 1250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472136886",
       "funnet": "2026-08-05T12:24:18.825520+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perfect Order pokemon kort selges",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466025172",
-      "funnet": "2026-08-05T12:20:27.714838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "single pokemon kort fra Pokemon Scarlett og Violet journey together",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447994235",
-      "funnet": "2026-08-05T12:16:27.990788+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
