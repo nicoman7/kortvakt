@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T22:18:19.855891+00:00",
+  "sist_sjekket": "2026-08-05T22:20:32.455384+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemon kort selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471465905",
+      "funnet": "2026-08-05T22:20:32.453271+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Medicham Primal Clash (81)",
       "pris": 7,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472201856",
       "funnet": "2026-08-05T20:04:26.268797+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class Carlos Augusto Inter Master kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472202508",
-      "funnet": "2026-08-05T20:04:25.658928+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
