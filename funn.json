@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T08:46:15.572121+00:00",
+  "sist_sjekket": "2026-08-05T08:48:17.951375+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471804675",
+      "funnet": "2026-08-05T08:48:17.949070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-05T08:48:17.670531+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL 2026",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462916097",
       "funnet": "2026-08-05T04:58:20.065002+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pen samling Pokémon kort selges Neo / Aquapolis / Skyridge /Charizard /Meganium",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471068763",
-      "funnet": "2026-08-05T04:48:17.783416+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu #31 samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449735876",
-      "funnet": "2026-08-05T04:44:27.177315+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
