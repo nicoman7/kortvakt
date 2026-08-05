@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T12:22:30.258416+00:00",
+  "sist_sjekket": "2026-08-05T12:24:19.761144+00:00",
   "funn": [
+    {
+      "tittel": "Fullart trainer pokemonkort selges samlet",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472136645",
+      "funnet": "2026-08-05T12:24:19.759465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472136886",
+      "funnet": "2026-08-05T12:24:18.825520+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Perfect Order pokemon kort selges",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472113965",
       "funnet": "2026-08-05T09:54:16.587084+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra Hidden Legends - Exploud (Rev.holo)",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/374424186",
-      "funnet": "2026-08-05T09:52:24.237590+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Paradox Rifts - Non-holo / Holo / Rev.holo",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/411570368",
-      "funnet": "2026-08-05T09:50:24.721407+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
