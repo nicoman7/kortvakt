@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T08:48:17.951375+00:00",
+  "sist_sjekket": "2026-08-05T08:50:33.023108+00:00",
   "funn": [
+    {
+      "tittel": "Japansk Vaporeon Pokemon Kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472105037",
+      "funnet": "2026-08-05T08:50:33.020894+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon  GX /VMAX / VSTAR japanske holo kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472104611",
+      "funnet": "2026-08-05T08:50:32.660496+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471871290",
       "funnet": "2026-08-05T05:00:57.497843+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ampharos 009/086 Pokemon Chaos Rising",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472086078",
-      "funnet": "2026-08-05T04:58:20.937277+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Vileplume holografisk",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462916097",
-      "funnet": "2026-08-05T04:58:20.065002+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
