@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T13:18:32.219397+00:00",
+  "sist_sjekket": "2026-08-05T13:20:35.788651+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472141994",
+      "funnet": "2026-08-05T13:20:35.786556+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – pakke med 8 kort",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
       "funnet": "2026-08-05T10:46:15.467517+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gutterenn i Hytlibakken ski hopp 1930 Tiedemanns Tobak sigarettkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/256094997",
-      "funnet": "2026-08-05T10:44:20.168963+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
