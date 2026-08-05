@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T15:32:29.146007+00:00",
+  "sist_sjekket": "2026-08-05T15:34:17.890043+00:00",
   "funn": [
+    {
+      "tittel": "Marcos Llorente Nummerert Auto Fotballkort",
+      "pris": 375,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472163354",
+      "funnet": "2026-08-05T15:34:17.888164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Booster Bundle",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472157055",
+      "funnet": "2026-08-05T15:34:17.240675+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Les Ferdinand Auto Fotballkort",
       "pris": 350,
@@ -1182,22 +1198,6 @@
       "pris": 1750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471324635",
       "funnet": "2026-08-05T12:52:27.468906+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax fotballkort med album og boks",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472137891",
-      "funnet": "2026-08-05T12:50:34.225267+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472140637",
-      "funnet": "2026-08-05T12:48:27.070326+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
