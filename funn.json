@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-05T14:18:16.775942+00:00",
+  "sist_sjekket": "2026-08-05T14:20:29.677193+00:00",
   "funn": [
+    {
+      "tittel": "Torchic kort selges",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472151697",
+      "funnet": "2026-08-05T14:20:29.675396+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon TCG metallbokser Jolteon og Flareon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472151387",
+      "funnet": "2026-08-05T14:20:29.360028+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Messi og Ronaldo Golden Ballers",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472153050",
+      "funnet": "2026-08-05T14:20:29.065658+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON MYSTERY TINS.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469934632",
+      "funnet": "2026-08-05T14:20:28.475255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort selges👈👇👉Gi bud☺️😎",
       "pris": null,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/460861866",
       "funnet": "2026-08-05T11:24:17.912031+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Limited Edition fotballkort samling",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472128021",
-      "funnet": "2026-08-05T11:24:17.226887+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div pokemon kort selges",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471465905",
-      "funnet": "2026-08-05T11:24:16.577379+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 klistremerker – Haaland, Yamal, Bellingham, Ronaldo",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470371273",
-      "funnet": "2026-08-05T11:20:31.195113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "fotballkort Top class 2023 til salgs",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/310058526",
-      "funnet": "2026-08-05T11:20:30.263222+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
