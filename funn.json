@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-05T00:20:37.690026+00:00",
+  "sist_sjekket": "2026-08-05T00:22:20.854588+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426000268",
+      "funnet": "2026-08-05T00:22:20.852856+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON KORT",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395062845",
+      "funnet": "2026-08-05T00:22:20.436853+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471618087",
+      "funnet": "2026-08-05T00:22:20.119098+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon PSA 9 Tynamo #113 – Gradert kort",
       "pris": 379,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-04T19:48:26.470630+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Gengar Binder",
-      "pris": 1050,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472068205",
-      "funnet": "2026-08-04T19:48:26.134803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472068662",
-      "funnet": "2026-08-04T19:48:21.951526+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended heroes  base Mastersett påbegynt",
-      "pris": 1450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472066439",
-      "funnet": "2026-08-04T19:48:21.120246+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
