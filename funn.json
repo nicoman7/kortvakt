@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-05T16:16:25.969277+00:00",
+  "sist_sjekket": "2026-08-05T16:18:30.714596+00:00",
   "funn": [
+    {
+      "tittel": "Houndoom #4 - Pokemon Neo Discovery",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/405619998",
+      "funnet": "2026-08-05T16:18:30.711714+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Pikachu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472169447",
+      "funnet": "2026-08-05T16:18:30.252348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece kort – English Version 1st Anniversary Set – Factory Sealed",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465683539",
+      "funnet": "2026-08-05T16:18:29.358658+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Slowpoke Team Rocket",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-08-05T13:58:24.758504+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Banette #1 Holo Glins Pokemon EX Crystal Guardians Kort 2006",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471987886",
-      "funnet": "2026-08-05T13:56:18.698753+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummererte fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466139697",
-      "funnet": "2026-08-05T13:54:22.053175+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lugia #79 Break Holo Glins Pokemon EX Fates Collide Kort 2016",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471988401",
-      "funnet": "2026-08-05T13:54:21.753487+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
