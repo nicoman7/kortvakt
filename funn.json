@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T12:28:15.813409+00:00",
+  "sist_sjekket": "2026-08-05T12:30:52.446460+00:00",
   "funn": [
+    {
+      "tittel": "Eternos Set, Golden Baller Panini Adrenalyn XL",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472137845",
+      "funnet": "2026-08-05T12:30:52.443083+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Medicham #241",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-05T09:58:21.959939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra 2012-2015 reverse/holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472083012",
-      "funnet": "2026-08-05T09:58:21.040325+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
