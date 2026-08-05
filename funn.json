@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T21:48:24.636275+00:00",
+  "sist_sjekket": "2026-08-05T21:50:24.042066+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460605214",
+      "funnet": "2026-08-05T21:50:24.040140+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Servine Black and White (4)",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472211332",
+      "funnet": "2026-08-05T21:50:23.660321+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Wobbuffet Phantom Forces (36)",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/400942695",
       "funnet": "2026-08-05T20:00:54.724090+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eden Hazard Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404316439",
-      "funnet": "2026-08-05T20:00:54.039404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class fotballkort Nicolò Barella Electric Inter",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472202221",
-      "funnet": "2026-08-05T20:00:53.362495+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
