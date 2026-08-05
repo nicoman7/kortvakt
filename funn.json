@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T08:20:35.157717+00:00",
+  "sist_sjekket": "2026-08-05T08:22:19.460705+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Pokemon Center Tohoku",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465431374",
+      "funnet": "2026-08-05T08:22:19.458873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kjøper Pokémon kortsamlinger og enkeltkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472101963",
+      "funnet": "2026-08-05T08:22:18.784131+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Elektross EX samlekort",
       "pris": 450,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-05T00:50:22.371606+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
-      "funnet": "2026-08-05T00:40:25.506950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Prismatic evolution kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394857188",
-      "funnet": "2026-08-05T00:24:19.981365+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
