@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T03:44:23.714728+00:00",
+  "sist_sjekket": "2026-08-05T03:46:27.830225+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tapu koko",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455889555",
+      "funnet": "2026-08-05T03:46:27.827828+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Shadow Box-kort",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472068945",
       "funnet": "2026-08-04T19:52:24.085264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-04T19:52:23.430430+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
