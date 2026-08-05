@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-05T09:56:13.868811+00:00",
+  "sist_sjekket": "2026-08-05T09:58:23.798044+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort blandet",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460372327",
+      "funnet": "2026-08-05T09:58:23.796458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gammelt J. L. Tiedemanns samlealbum, komplett med 48 samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373920855",
+      "funnet": "2026-08-05T09:58:22.876445+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort og klistremerker – landslag og klubblag",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472114478",
+      "funnet": "2026-08-05T09:58:21.959939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra 2012-2015 reverse/holo",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472083012",
+      "funnet": "2026-08-05T09:58:21.040325+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ønsker Mew, Alakazam og charizard",
       "pris": null,
@@ -1166,38 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472095757",
       "funnet": "2026-08-05T07:26:15.031674+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Gary Cahill fans favorit samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472095967",
-      "funnet": "2026-08-05T07:26:14.726651+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Marco Reus fotballkort Borussia Dortmund",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472095612",
-      "funnet": "2026-08-05T07:24:27.827208+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Lukasz Piszczek fotballkort Borussia Dortmund",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472095661",
-      "funnet": "2026-08-05T07:24:26.985015+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 Sergio Ramos Real Madrid samlekort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472095678",
-      "funnet": "2026-08-05T07:24:26.109702+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
