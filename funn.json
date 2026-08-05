@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-05T06:02:25.005607+00:00",
+  "sist_sjekket": "2026-08-05T06:04:19.007333+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges.",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472089326",
+      "funnet": "2026-08-05T06:04:19.005279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis frakt",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472073043",
       "funnet": "2026-08-04T20:28:28.383320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-08-04T20:28:27.986087+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
