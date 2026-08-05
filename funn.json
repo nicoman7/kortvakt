@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-05T12:26:16.229249+00:00",
+  "sist_sjekket": "2026-08-05T12:28:15.813409+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Medicham #241",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465881354",
+      "funnet": "2026-08-05T12:28:15.811266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon EX / Mega Charizard samlekort – 4 kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472137916",
+      "funnet": "2026-08-05T12:28:15.517680+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Bellibolt #201",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-05T09:58:21.040325+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ønsker Mew, Alakazam og charizard",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466027662",
-      "funnet": "2026-08-05T09:56:13.866531+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Captain Pikachu og div Eveelution kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472113157",
-      "funnet": "2026-08-05T09:54:16.975805+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
