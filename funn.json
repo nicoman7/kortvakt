@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-06T11:40:32.136733+00:00",
+  "sist_sjekket": "2026-08-06T11:42:22.357927+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Premier Gold 1996",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/296928382",
+      "funnet": "2026-08-06T11:42:22.356048+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort EX GX Tag Team – japanske holo kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472259930",
+      "funnet": "2026-08-06T11:42:21.501124+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Match Attax fotballkort samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472260538",
+      "funnet": "2026-08-06T11:42:20.640227+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magneton #159 Pokemon Promo",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472260830",
+      "funnet": "2026-08-06T11:42:19.707877+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pete Sanstøl Norgesmester Bantam Boksing Firkort Spillkort 1933 Tiedemanns Tobak",
       "pris": 300,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472237143",
       "funnet": "2026-08-06T09:01:01.675437+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hans Vinjarengen Nordre Land Ski sigarettkort fra ca 1930 Tiedemanns Tobak!",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/188397521",
-      "funnet": "2026-08-06T08:58:19.279893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Peter Sanstøl Fluevekt Pete Bantam VM Cromwell Boksing sigarettkort 30-tallet",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/231445205",
-      "funnet": "2026-08-06T08:58:18.886386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zangoose 21/106 Pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472236653",
-      "funnet": "2026-08-06T08:58:18.122031+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps og Panini fotballkort – flere spillere nummererte /10",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472235585",
-      "funnet": "2026-08-06T08:58:17.612837+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
