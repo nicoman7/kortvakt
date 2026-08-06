@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T09:58:18.151037+00:00",
+  "sist_sjekket": "2026-08-06T10:00:59.851208+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471618087",
+      "funnet": "2026-08-06T10:00:59.849150+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Zacian V kort sword and shield base set",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466196672",
       "funnet": "2026-08-06T08:20:26.648145+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Medicham",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466196869",
-      "funnet": "2026-08-06T08:20:26.025916+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
