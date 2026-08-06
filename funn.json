@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T13:10:30.556119+00:00",
+  "sist_sjekket": "2026-08-06T13:12:22.603285+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471618087",
+      "funnet": "2026-08-06T13:12:22.601210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort selges – Gengar IR, Darkrai ex, Sada SIR m.fl.",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465772905",
       "funnet": "2026-08-06T11:12:19.659866+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo kort til salgs",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466210291",
-      "funnet": "2026-08-06T11:12:18.793675+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
