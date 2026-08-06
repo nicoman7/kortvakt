@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T10:48:17.446249+00:00",
+  "sist_sjekket": "2026-08-06T10:50:29.767440+00:00",
   "funn": [
+    {
+      "tittel": "Kjøper dine pokemon kort!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472252529",
+      "funnet": "2026-08-06T10:50:29.765474+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ditto (Bulbasaur) Pokémon kort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461399138",
+      "funnet": "2026-08-06T10:50:29.327184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Antonio Nusa 343",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 140,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472233534",
       "funnet": "2026-08-06T08:34:18.201808+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA Club World Cup 2025 Michael Olise Limited Edition kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472233657",
-      "funnet": "2026-08-06T08:34:17.933275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marbley Holm Holmsen Titus Trav Momarken Mysen sigarettkort 1930",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/283553890",
-      "funnet": "2026-08-06T08:34:17.281003+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
