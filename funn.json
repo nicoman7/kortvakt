@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T07:18:16.470967+00:00",
+  "sist_sjekket": "2026-08-06T07:20:30.072699+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472225232",
+      "funnet": "2026-08-06T07:20:30.070472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1998 Michael Jordan basketballkort Bulls Upper Deck",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472208103",
       "funnet": "2026-08-05T21:30:44.506995+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rayquaza #XY141 Holo Glins Pokemon Promo Kort 2016",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472208124",
-      "funnet": "2026-08-05T21:30:44.034056+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
