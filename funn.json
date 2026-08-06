@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T13:42:19.132502+00:00",
+  "sist_sjekket": "2026-08-06T13:44:19.813443+00:00",
   "funn": [
+    {
+      "tittel": "Store fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472278435",
+      "funnet": "2026-08-06T13:44:19.811491+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu - McDonalds 7/15",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472279227",
+      "funnet": "2026-08-06T13:44:19.507220+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu dp16 snowflake stamp",
       "pris": 1500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/220101897",
       "funnet": "2026-08-06T11:46:22.068868+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oscar Midtlyng Trondheim høyde NM sigarettkort fra ca 1930 Tiedemanns Tobak!",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/220101770",
-      "funnet": "2026-08-06T11:46:21.222180+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard ex Special Illustration Rare PSA 9",
-      "pris": 1690,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472261910",
-      "funnet": "2026-08-06T11:46:20.879108+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
