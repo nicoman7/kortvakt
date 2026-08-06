@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T23:02:15.943266+00:00",
+  "sist_sjekket": "2026-08-06T23:04:22.865097+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471618087",
+      "funnet": "2026-08-06T23:04:22.862743+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Bulk 6 ETBER ( ingen kodekort/energy)",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472329061",
       "funnet": "2026-08-06T19:55:09.798332+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Sparkling Crystal 142/142 - Stellar Crown",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472329366",
-      "funnet": "2026-08-06T19:55:08.969130+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
