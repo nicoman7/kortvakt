@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T13:00:56.509191+00:00",
+  "sist_sjekket": "2026-08-06T13:02:19.561106+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Plus Golden Baller Saka kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472273328",
+      "funnet": "2026-08-06T13:02:19.559129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NÅ KUN 1949kr - NORGES BILLIGSTE - FORHÅNDSBESTILL POKEMON STORM EMERALDA",
+      "pris": 1949,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471801672",
+      "funnet": "2026-08-06T13:02:18.709690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Adrenalyn XL Golden Baller kort",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472254057",
       "funnet": "2026-08-06T10:56:23.925555+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Pitch Black Premium Blister Pack - Gengar",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472254175",
-      "funnet": "2026-08-06T10:56:23.615929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini world cup 2026 - icon, fan favorite og badge",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472253940",
-      "funnet": "2026-08-06T10:56:23.351587+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
