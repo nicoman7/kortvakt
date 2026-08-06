@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T15:30:16.857196+00:00",
+  "sist_sjekket": "2026-08-06T15:30:46.006619+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemon kort selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471465905",
+      "funnet": "2026-08-06T15:30:46.004942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Extra Sticker Lionel Messi, Panini VM 2026 (Bronze)",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472271523",
       "funnet": "2026-08-06T12:56:14.503365+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kortpakker",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/321285328",
-      "funnet": "2026-08-06T12:54:19.986573+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
