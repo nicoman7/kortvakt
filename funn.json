@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T14:48:22.820299+00:00",
+  "sist_sjekket": "2026-08-06T14:50:28.498937+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472287441",
+      "funnet": "2026-08-06T14:50:28.497090+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Kort | Dark Arbok 1st Edition | PSA 10",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471773831",
+      "funnet": "2026-08-06T14:50:28.126044+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Charizard LV.X DP45",
       "pris": 2000,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466214118",
       "funnet": "2026-08-06T12:36:29.954957+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024-25 Topps Reverence Crowned Legend Autograph Robin van Persie  /99 Auto",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466222018",
-      "funnet": "2026-08-06T12:36:29.419876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024-25 Topps Reverence SAMUEL ETO'O /99 Auto Crowned Legend - Inter",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466223087",
-      "funnet": "2026-08-06T12:36:28.495922+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
