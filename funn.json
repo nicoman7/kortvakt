@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-06T13:18:18.857342+00:00",
+  "sist_sjekket": "2026-08-06T13:20:25.536825+00:00",
   "funn": [
+    {
+      "tittel": "Gen2 Topps kort selges samlet",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472275732",
+      "funnet": "2026-08-06T13:20:25.535013+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Arcanine GX holo",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472275957",
+      "funnet": "2026-08-06T13:20:24.606692+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage BurgerKing Pokemon-kort selges samlet - kom med bud",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472275908",
+      "funnet": "2026-08-06T13:20:24.283169+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Thomas Partey Mosaic 55/88 fotballkort",
       "pris": 70,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472257384",
       "funnet": "2026-08-06T11:22:18.060372+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2018",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472257934",
-      "funnet": "2026-08-06T11:22:17.774784+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "To skinnende Pokémon-kort: Radiant Jirachi & Radiant Hawlucha",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472251535",
-      "funnet": "2026-08-06T11:22:17.482380+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 26 Erling Haaland 7",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472258310",
-      "funnet": "2026-08-06T11:22:16.855697+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
