@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T06:54:15.502433+00:00",
+  "sist_sjekket": "2026-08-06T06:56:15.896931+00:00",
   "funn": [
+    {
+      "tittel": "Panini 2 stk - H",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472223451",
+      "funnet": "2026-08-06T06:56:15.894126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling fotballkort - K",
       "pris": 1100,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472208972",
       "funnet": "2026-08-05T21:20:30.763834+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raw Hits, Graderte Kort, Slabs & Sealed",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472208814",
-      "funnet": "2026-08-05T21:20:30.231478+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
