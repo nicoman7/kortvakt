@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T03:38:25.948684+00:00",
+  "sist_sjekket": "2026-08-06T03:40:31.017892+00:00",
   "funn": [
+    {
+      "tittel": "fotballkort Lucas Bergvall RC",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472216842",
+      "funnet": "2026-08-06T03:40:31.015709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gem Vol 1.2.3.4.5 bulk",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/426845669",
       "funnet": "2026-08-05T20:48:27.060461+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Archaludon  og Iron Moth STAMP",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472206945",
-      "funnet": "2026-08-05T20:48:26.266229+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
