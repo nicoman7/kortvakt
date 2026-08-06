@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T05:44:36.017672+00:00",
+  "sist_sjekket": "2026-08-06T05:46:14.222698+00:00",
   "funn": [
+    {
+      "tittel": "Telekort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/328724997",
+      "funnet": "2026-08-06T05:46:14.220699+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 799,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/426260777",
       "funnet": "2026-08-05T21:00:57.530728+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage\" Mikke mus\"  Disney  mini kortstokk/ 80/ 90 tals , samleobjekt",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393088057",
-      "funnet": "2026-08-05T21:00:56.924754+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
