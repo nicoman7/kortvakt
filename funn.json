@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T22:48:19.291057+00:00",
+  "sist_sjekket": "2026-08-06T22:50:35.104867+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling i perm",
+      "pris": 209,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472344767",
+      "funnet": "2026-08-06T22:50:35.102951+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling med Pokémonkort",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472344548",
+      "funnet": "2026-08-06T22:50:34.810128+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon white flare boosterpakker (10 pakker)",
       "pris": 1600,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472329858",
       "funnet": "2026-08-06T19:55:06.526518+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Secret Box 163/167 - Twilight Masquerade",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472330039",
-      "funnet": "2026-08-06T19:55:06.169183+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Scoop Up Cyclone 162/167 - Twilight Masquerade",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472330344",
-      "funnet": "2026-08-06T19:55:05.809217+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
