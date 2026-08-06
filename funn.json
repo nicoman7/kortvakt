@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-06T13:32:23.081886+00:00",
+  "sist_sjekket": "2026-08-06T13:34:28.588844+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472277772",
+      "funnet": "2026-08-06T13:34:28.587523+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Swampert 13/109 CGC 7.5 - Ruby & Sapphire",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472277751",
+      "funnet": "2026-08-06T13:34:28.025664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TWM EN Kieran Special Illustration Rare PSA 10",
       "pris": 1200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-06T11:42:19.707877+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pete Sanstøl Norgesmester Bantam Boksing Firkort Spillkort 1933 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/214158491",
-      "funnet": "2026-08-06T11:38:23.409268+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Birk Engstrøm Bryne IL 1983 sjeldent fotballkort klistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335665250",
-      "funnet": "2026-08-06T11:38:22.622566+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
