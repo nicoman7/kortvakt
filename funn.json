@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T15:15:48.781446+00:00",
+  "sist_sjekket": "2026-08-06T15:20:32.423344+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472290558",
+      "funnet": "2026-08-06T15:20:32.420980+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – Litten gem 4",
       "pris": 110,
@@ -1190,14 +1198,6 @@
       "pris": 375,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472271427",
       "funnet": "2026-08-06T12:52:15.152202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA 2026 fotballkort Lamine Yamal Limited Edition",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472271301",
-      "funnet": "2026-08-06T12:50:28.917775+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
