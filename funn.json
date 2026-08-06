@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T14:20:30.753028+00:00",
+  "sist_sjekket": "2026-08-06T14:22:19.586870+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Dragon",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466143836",
+      "funnet": "2026-08-06T14:22:19.584844+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Cristiano Ronaldo",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465950348",
       "funnet": "2026-08-06T12:18:22.979433+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lamine YAMAL fotballkort!  Nummerert 29/99  Glow",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472251488",
-      "funnet": "2026-08-06T12:16:17.554980+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
