@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-06T06:52:25.277878+00:00",
+  "sist_sjekket": "2026-08-06T06:54:15.502433+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort - K",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472223238",
+      "funnet": "2026-08-06T06:54:15.500364+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Azurill 31/100",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472208814",
       "funnet": "2026-08-05T21:20:30.231478+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM Kort Panini Adrenalyn XL World Cup 2026 til salgs. Oppdatert 05/08",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-08-05T21:20:29.832175+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
