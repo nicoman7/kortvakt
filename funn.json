@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T15:58:20.279428+00:00",
+  "sist_sjekket": "2026-08-07T16:00:53.116911+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Limited Edition kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472420454",
+      "funnet": "2026-08-07T16:00:53.114825+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Diverse pokemon kort - prisliste",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472402607",
       "funnet": "2026-08-07T13:26:21.272290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM Fotballkort selges/byttes",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471977778",
-      "funnet": "2026-08-07T13:26:20.393290+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
