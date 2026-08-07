@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-07T07:32:16.752016+00:00",
+  "sist_sjekket": "2026-08-07T07:34:22.095362+00:00",
   "funn": [
+    {
+      "tittel": "Telekortkatalog",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/393200383",
+      "funnet": "2026-08-07T07:34:22.093499+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telekort fra Fransk Polynesia og Ny Kaledonia",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472359041",
+      "funnet": "2026-08-07T07:34:21.479957+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Salvatore & Forest of Vitality Trainer (foil)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472358539",
+      "funnet": "2026-08-07T07:34:21.211638+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Upper Deck Collector’s Choice hockeykort i samlealbum",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466316212",
+      "funnet": "2026-08-07T07:34:20.596873+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "telekort DHS 30  Etisalat",
       "pris": 20,
@@ -1166,38 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472343858",
       "funnet": "2026-08-06T22:22:25.104343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "World Cup samlekort fotball VM 1930–1970 sett",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450025452",
-      "funnet": "2026-08-06T22:20:26.633608+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Crystal Gathering Binder Set - Sylveon",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472343773",
-      "funnet": "2026-08-06T22:20:26.263010+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool fotballkort samling",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449998720",
-      "funnet": "2026-08-06T22:16:30.057385+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kobe Bryant Starquest Blue basketballkort",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472343468",
-      "funnet": "2026-08-06T22:16:29.777838+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
