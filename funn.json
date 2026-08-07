@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T19:18:20.516987+00:00",
+  "sist_sjekket": "2026-08-07T19:20:23.443286+00:00",
   "funn": [
+    {
+      "tittel": "Boks til samlekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472447549",
+      "funnet": "2026-08-07T19:20:23.441372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gothita og Gothorita samling",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472446799",
+      "funnet": "2026-08-07T19:20:23.176152+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Kort | Dark Arbok 1st Edition | PSA 10",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-07T16:46:17.899816+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Slowbro",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472429219",
-      "funnet": "2026-08-07T16:44:22.288591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemonkort - Diamond and pearl - prisliste",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472428516",
-      "funnet": "2026-08-07T16:42:17.534404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
