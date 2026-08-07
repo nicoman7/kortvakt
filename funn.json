@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T07:16:21.970680+00:00",
+  "sist_sjekket": "2026-08-07T07:18:18.831323+00:00",
   "funn": [
+    {
+      "tittel": "Telekort fra Ny Kaledonia",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472357467",
+      "funnet": "2026-08-07T07:18:18.829622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "TESTKORT - telekort Danmark",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/449994716",
       "funnet": "2026-08-06T22:16:27.902683+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Crystal Gathering Binder Set - Umbreon",
-      "pris": 1799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472343670",
-      "funnet": "2026-08-06T22:16:27.483483+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
