@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T12:34:20.228853+00:00",
+  "sist_sjekket": "2026-08-07T12:36:18.568768+00:00",
   "funn": [
+    {
+      "tittel": "Mario Sports Superstars Amiibo Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/402264044",
+      "funnet": "2026-08-07T12:36:18.566622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gem Pack Vol 3 - Luminous Energy (CN)",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T10:46:20.575283+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472383572",
-      "funnet": "2026-08-07T10:46:19.602737+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
