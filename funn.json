@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T13:00:51.954989+00:00",
+  "sist_sjekket": "2026-08-07T13:02:22.195012+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort mega dream",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472402050",
+      "funnet": "2026-08-07T13:02:22.192859+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon boosterpakker kort Chaos Impact og Pitch black",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472384719",
       "funnet": "2026-08-07T10:54:19.024145+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nikolai Ramm Østgaard Kronprins Leopold sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/209130901",
-      "funnet": "2026-08-07T10:54:18.653369+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
