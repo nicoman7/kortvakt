@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T20:26:20.652640+00:00",
+  "sist_sjekket": "2026-08-07T20:28:20.183292+00:00",
   "funn": [
+    {
+      "tittel": "Robin van Persie LEGEND samlekort Nederland",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466231018",
+      "funnet": "2026-08-07T20:28:20.181257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL Euro 2020 Nordic Edition kortpakke",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T17:36:38.241607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse VM fotballkort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472434836",
-      "funnet": "2026-08-07T17:36:37.394571+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
