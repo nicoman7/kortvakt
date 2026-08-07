@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T12:50:28.805580+00:00",
+  "sist_sjekket": "2026-08-07T12:52:17.201511+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerke Alphonso Davies sølv extra sticker",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472400460",
+      "funnet": "2026-08-07T12:52:17.199527+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon TCG Rare Candy 175/132 - Mega Evolution",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472400773",
+      "funnet": "2026-08-07T12:52:16.591603+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Alphonso Davies Panini ekstra sticker bronse",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/231445924",
       "funnet": "2026-08-07T10:52:20.881430+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – 11 holografiske kort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472384665",
-      "funnet": "2026-08-07T10:52:19.999988+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Astral Radiance - Magnezone (deck exclusives, non-holo)",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472383163",
-      "funnet": "2026-08-07T10:52:19.071839+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
