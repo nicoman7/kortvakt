@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T18:48:18.706513+00:00",
+  "sist_sjekket": "2026-08-07T18:50:33.306539+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-07T18:50:33.304422+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Nordmenn i utlandet fotballkort x 7 stk Hangeland Carew King",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T15:52:27.456984+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort | Dark Arbok 1st Edition | PSA 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471773831",
-      "funnet": "2026-08-07T15:52:26.534338+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
