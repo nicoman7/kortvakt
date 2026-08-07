@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T20:00:50.221968+00:00",
+  "sist_sjekket": "2026-08-07T20:02:28.455666+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort  mange ulike kule kort!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472451965",
+      "funnet": "2026-08-07T20:02:28.453952+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini VM 2026 - Byttehandel",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472432579",
       "funnet": "2026-08-07T17:16:18.214366+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited Edition Premium Gold sett – Panini Adrenalyn XL VM 2026",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472432226",
-      "funnet": "2026-08-07T17:16:17.831934+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
