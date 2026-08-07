@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T19:34:17.397231+00:00",
+  "sist_sjekket": "2026-08-07T19:36:16.288124+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort til salgs",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472448816",
+      "funnet": "2026-08-07T19:36:16.286282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Bronzong BREAK #62 Holo Glins Fates Collide Kort år 2016",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472413329",
+      "funnet": "2026-08-07T19:36:15.574777+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard holografisk samlekort",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472431559",
       "funnet": "2026-08-07T17:06:27.768329+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling noe eldre",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472431462",
-      "funnet": "2026-08-07T17:06:26.928904+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise ex 200/165 SIR – Pokémon 151 – Special Illustration Rare",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472431477",
-      "funnet": "2026-08-07T17:06:26.167384+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
