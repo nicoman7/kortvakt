@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T12:36:18.568768+00:00",
+  "sist_sjekket": "2026-08-07T12:38:19.121128+00:00",
   "funn": [
+    {
+      "tittel": "Mega dream ex kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472398783",
+      "funnet": "2026-08-07T12:38:19.119142+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mario Sports Superstars Amiibo Kort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T10:46:20.987328+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eldre Pokemón kort - høy standard",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472383441",
-      "funnet": "2026-08-07T10:46:20.575283+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
