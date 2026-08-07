@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-07T12:10:28.345344+00:00",
+  "sist_sjekket": "2026-08-07T12:12:16.630799+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Majestic Dawn",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464740189",
+      "funnet": "2026-08-07T12:12:16.628956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Chaos Rising Elite Trainer Box",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472394693",
+      "funnet": "2026-08-07T12:12:16.372111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Gengar kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472395140",
+      "funnet": "2026-08-07T12:12:16.032874+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon First Partner Series 3 – Promo-kort (Kalos & Paldea)",
       "pris": 600,
@@ -1174,30 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466309153",
       "funnet": "2026-08-07T10:28:15.650265+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Inger Larsen marsj Dalamarsjen Klara Tangen sigarettkort 1930 Cromwell",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/278849485",
-      "funnet": "2026-08-07T10:26:15.421768+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Olaf Ulland Kongsberg Ski Hopp sigarettkort fra ca 1930 Tiedemanns Tobak!",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/188397365",
-      "funnet": "2026-08-07T10:26:15.096735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aasmund Berntzen Høibråten friidrett sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208078020",
-      "funnet": "2026-08-07T10:24:19.715035+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
