@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-07T14:48:17.733782+00:00",
+  "sist_sjekket": "2026-08-07T14:50:35.320635+00:00",
   "funn": [
+    {
+      "tittel": "Megder med Pokemon kort hits (perm)",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449905224",
+      "funnet": "2026-08-07T14:50:35.318845+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon ace spec",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472415849",
+      "funnet": "2026-08-07T14:50:34.867894+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon PSA 7,8,9 og 10 kort",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449793991",
+      "funnet": "2026-08-07T14:50:33.993160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samleobjekter kortlot Topps",
       "pris": 110,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-07T12:50:28.804098+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon TCG Air Balloon 166/132 - Mega Evolution",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472399971",
-      "funnet": "2026-08-07T12:50:27.908438+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini stickers, Extra sticker Luis Diaz & Hakimi",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466217074",
-      "funnet": "2026-08-07T12:48:16.003314+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bunke, GARANTERT 2 EX+,  - HUNDREVIS TILGJENGELIG! 42 kort kun 63kr🤩🔥",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-08-07T12:48:15.652435+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
