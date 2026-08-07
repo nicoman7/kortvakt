@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T12:26:18.368629+00:00",
+  "sist_sjekket": "2026-08-07T12:28:19.771117+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort fra Gem Pack Vol 2 - Lightning Energy (CN)",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472397215",
+      "funnet": "2026-08-07T12:28:19.769236+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort – 6 Special Illustration Rare EX / SIR – Scarlet & Violet",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472395697",
+      "funnet": "2026-08-07T12:28:19.178897+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort fra Gem Pack Vol 1 - Fire Energy (CN)",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-07T10:42:20.313212+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Cacnea",
-      "pris": 72,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466309129",
-      "funnet": "2026-08-07T10:40:27.612394+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Carvanha",
-      "pris": 37,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466308827",
-      "funnet": "2026-08-07T10:40:26.776997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
