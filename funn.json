@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T05:28:17.597412+00:00",
+  "sist_sjekket": "2026-08-07T05:30:37.574505+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Snowflake",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472349606",
+      "funnet": "2026-08-07T05:30:37.572148+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 tins - Åpnet",
       "pris": 1250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472342426",
       "funnet": "2026-08-06T21:58:21.694751+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Go Special Collection Team Mystic",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472342681",
-      "funnet": "2026-08-06T21:58:20.910625+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
