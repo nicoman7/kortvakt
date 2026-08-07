@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-07T14:32:23.252922+00:00",
+  "sist_sjekket": "2026-08-07T14:34:24.156117+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466278532",
+      "funnet": "2026-08-07T14:34:24.154181+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466279455",
+      "funnet": "2026-08-07T14:34:23.773101+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rare Candy samling selges samlet",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466361397",
+      "funnet": "2026-08-07T14:34:22.807707+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Alakazam V 172/185",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472413823",
+      "funnet": "2026-08-07T14:34:21.795690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard V Promo SWSH050",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472413654",
+      "funnet": "2026-08-07T14:34:20.747007+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Gem Vol 3 - Kinesisk",
       "pris": 111,
@@ -1158,46 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/345997847",
       "funnet": "2026-08-07T12:40:24.670720+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega dream ex kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472398783",
-      "funnet": "2026-08-07T12:38:19.119142+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mario Sports Superstars Amiibo Kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/402264044",
-      "funnet": "2026-08-07T12:36:18.566622+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gem Pack Vol 3 - Luminous Energy (CN)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472397900",
-      "funnet": "2026-08-07T12:34:20.226674+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Gem Pack vol 3 - Fighting Energy (CN)",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472397702",
-      "funnet": "2026-08-07T12:32:16.361464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Gem Pack Vol 3 - Fighting Engergy (CN)",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472397539",
-      "funnet": "2026-08-07T12:30:45.857002+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
