@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-07T12:20:31.697291+00:00",
+  "sist_sjekket": "2026-08-07T12:22:15.713457+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortsamling i perm | KOM MED BUD",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472395938",
+      "funnet": "2026-08-07T12:22:15.711456+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort - Bramblin (CN)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472396303",
+      "funnet": "2026-08-07T12:22:15.431643+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-07T12:22:15.112113+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nye priser! Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 06/08",
       "pris": 2,
@@ -1174,30 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466308937",
       "funnet": "2026-08-07T10:36:26.588736+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Shinx – Under Pressure",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466308832",
-      "funnet": "2026-08-07T10:36:26.215025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA fotballkort – samling spesialkort",
-      "pris": 690,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472381173",
-      "funnet": "2026-08-07T10:36:25.426799+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu EX XY124 Jumbo - Black Star Promo",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458713660",
-      "funnet": "2026-08-07T10:34:18.386474+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
