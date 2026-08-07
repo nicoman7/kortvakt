@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T07:50:36.129597+00:00",
+  "sist_sjekket": "2026-08-07T07:52:17.036124+00:00",
   "funn": [
+    {
+      "tittel": "STOR samling telekort fra LUXEMBURG",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472361189",
+      "funnet": "2026-08-07T07:52:17.034177+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Telekort fra SAN MARINO",
       "pris": 35,
@@ -1190,14 +1198,6 @@
       "pris": 1600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472344361",
       "funnet": "2026-08-06T22:36:18.248040+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini vm kort til salgs",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471802311",
-      "funnet": "2026-08-06T22:36:17.459312+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
