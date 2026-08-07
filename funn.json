@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T06:16:17.296796+00:00",
+  "sist_sjekket": "2026-08-07T06:18:18.226080+00:00",
   "funn": [
+    {
+      "tittel": "Coca Cola kortstokk - uåpnet (norsk reklame)",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395628541",
+      "funnet": "2026-08-07T06:18:18.224188+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Ariados Holo H3/H32 Aquapolis",
+      "pris": 540,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/354156930",
+      "funnet": "2026-08-07T06:18:17.339313+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472343248",
       "funnet": "2026-08-06T22:08:26.933666+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Sunderland Stan Cummins og Gary Rowell",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450020165",
-      "funnet": "2026-08-06T22:08:26.531575+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Everton fotballkort sett med spillere",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449997014",
-      "funnet": "2026-08-06T22:08:25.761357+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
