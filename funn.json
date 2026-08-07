@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T06:00:51.327050+00:00",
+  "sist_sjekket": "2026-08-07T06:02:19.395526+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472351055",
+      "funnet": "2026-08-07T06:02:19.393483+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472350979",
+      "funnet": "2026-08-07T06:02:18.977959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort, Manchester City.",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472343107",
       "funnet": "2026-08-06T22:06:26.186827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Coventry City fotballkort Steve Hunt Bobby McDonald Ian Wallace",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449993068",
-      "funnet": "2026-08-06T22:04:21.802441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Detective Pikachu boosterpakke samlekort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472342983",
-      "funnet": "2026-08-06T22:04:21.092921+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
