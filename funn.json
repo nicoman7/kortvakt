@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T19:54:25.232344+00:00",
+  "sist_sjekket": "2026-08-07T19:56:22.250804+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM 2026 - Byttehandel",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466401574",
+      "funnet": "2026-08-07T19:56:22.248970+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Jobe Bellingham RC fotballkort Borussia Dortmund 122/250",
       "pris": 125,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472432226",
       "funnet": "2026-08-07T17:16:17.831934+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Pokemon Nihil Zero bulk (235 stk) + samleperm (128) + 50 toploader",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459231131",
-      "funnet": "2026-08-07T17:14:19.179682+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
