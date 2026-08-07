@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T02:58:24.065040+00:00",
+  "sist_sjekket": "2026-08-07T03:00:50.875022+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Snivy legendary treasures",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472347608",
+      "funnet": "2026-08-07T03:00:50.873060+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Servine holo legendary treasures",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472347610",
+      "funnet": "2026-08-07T03:00:50.559919+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Audino holo legendary treasures",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-06T21:50:33.719773+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Spiritomb 148/132 - Mega Evolution",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472342124",
-      "funnet": "2026-08-06T21:50:33.369819+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG - Paldean Fates Charizard Tin",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472342223",
-      "funnet": "2026-08-06T21:50:32.656410+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
