@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-07T20:22:21.089770+00:00",
+  "sist_sjekket": "2026-08-07T20:24:20.773019+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Euro 2020 Nordic Edition kortpakke",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472454371",
+      "funnet": "2026-08-07T20:24:20.771181+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Erling Haaland Topps Finest Refractor #24 – Dortmund",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472454318",
+      "funnet": "2026-08-07T20:24:19.988730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Psyduck #87 (Near Mint) | Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472454535",
+      "funnet": "2026-08-07T20:24:19.153325+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon topps samlekort lot",
       "pris": 150,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-07T17:36:37.394571+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort reverse holo Darkrai 3/100 Majestic Dawn",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472434217",
-      "funnet": "2026-08-07T17:32:23.340912+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Gengar Skyridge",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472434496",
-      "funnet": "2026-08-07T17:32:22.541845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sawsbuck Ilustration rare PSA 9",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472434304",
-      "funnet": "2026-08-07T17:32:21.639588+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
