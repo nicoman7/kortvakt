@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T14:34:24.156117+00:00",
+  "sist_sjekket": "2026-08-07T14:36:23.187847+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472414056",
+      "funnet": "2026-08-07T14:36:23.185655+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
       "funnet": "2026-08-07T12:42:23.922832+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Unik Romfart serie og kort i illustrert familieblad fra 1967 - 9 stk.",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/345997847",
-      "funnet": "2026-08-07T12:40:24.670720+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
