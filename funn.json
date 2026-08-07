@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T07:30:42.139331+00:00",
+  "sist_sjekket": "2026-08-07T07:32:16.752016+00:00",
   "funn": [
+    {
+      "tittel": "telekort DHS 30  Etisalat",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/242713789",
+      "funnet": "2026-08-07T07:32:16.749794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Gengar",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472343468",
       "funnet": "2026-08-06T22:16:29.777838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-brosje fra Pokemon center",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472343441",
-      "funnet": "2026-08-06T22:16:29.446187+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
