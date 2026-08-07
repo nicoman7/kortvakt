@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T19:24:15.636823+00:00",
+  "sist_sjekket": "2026-08-07T19:26:16.438982+00:00",
   "funn": [
+    {
+      "tittel": "Minccino og Cinccino samling",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472447949",
+      "funnet": "2026-08-07T19:26:16.437017+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort. gi bud !",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472443784",
+      "funnet": "2026-08-07T19:26:15.920849+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472428657",
       "funnet": "2026-08-07T16:50:27.660390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 26 Panini Adrenalyn",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472428141",
-      "funnet": "2026-08-07T16:46:18.595865+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi Case Hit Fotballkort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472429393",
-      "funnet": "2026-08-07T16:46:18.255237+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
