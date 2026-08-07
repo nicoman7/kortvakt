@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-07T13:06:20.583523+00:00",
+  "sist_sjekket": "2026-08-07T13:08:19.036723+00:00",
   "funn": [
+    {
+      "tittel": "Duel Masters Samling 🃏",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
+      "funnet": "2026-08-07T13:08:19.034894+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker - over 200 til salgs/bytte",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471228474",
+      "funnet": "2026-08-07T13:08:18.353866+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon M Gardevoir EX kort",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/290506241",
       "funnet": "2026-08-07T10:58:18.407354+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Hydreigon EX, Jellicent EX, Whimsicott EX og Grimsley’s Move",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472385072",
-      "funnet": "2026-08-07T10:58:17.610737+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon – Charizard EX (12/106) Ultra Rare fra XY Flashfire",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472385005",
-      "funnet": "2026-08-07T10:58:17.209093+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
