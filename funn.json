@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T11:34:23.181011+00:00",
+  "sist_sjekket": "2026-08-07T11:36:15.229315+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard PSA 9",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472390428",
+      "funnet": "2026-08-07T11:36:15.227181+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Select fotballkort Yeremy Pino autograf",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T10:04:16.236344+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
-      "funnet": "2026-08-07T10:04:15.495083+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
