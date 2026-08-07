@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-07T23:04:14.820318+00:00",
+  "sist_sjekket": "2026-08-07T23:06:22.495575+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-07T23:06:22.493858+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Lewis Miley  Newcastle Rookie fotballkort",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464099796",
       "funnet": "2026-08-07T19:08:19.339530+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ash's Pikachu",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471819736",
-      "funnet": "2026-08-07T19:08:18.933936+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
