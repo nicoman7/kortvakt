@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T06:28:20.181139+00:00",
+  "sist_sjekket": "2026-08-08T06:30:37.601493+00:00",
   "funn": [
+    {
+      "tittel": "Boing vedlegg/1990 talls variant/fotball blad",
+      "pris": 285,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/450060049",
+      "funnet": "2026-08-08T06:30:37.599606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Champions League fotballkort – samling med spesialkort",
       "pris": 290,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472437133",
       "funnet": "2026-08-07T19:38:21.366106+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort til salgs",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472448816",
-      "funnet": "2026-08-07T19:36:16.286282+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
