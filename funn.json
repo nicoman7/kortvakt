@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T00:18:26.166688+00:00",
+  "sist_sjekket": "2026-08-08T00:20:26.307108+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394097272",
+      "funnet": "2026-08-08T00:20:26.305898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hundrevis av pene Elvis samlekort - Utgitt 1992 - Kr 10,- pr stk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429154555",
+      "funnet": "2026-08-08T00:20:25.921468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA Adrenalyn xl. Stor samling vm kort salg/bytte",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
+      "funnet": "2026-08-08T00:20:25.104183+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ditto – Pikachu  – 63/113 – EX Delta Species",
       "pris": 500,
@@ -1174,30 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/349812551",
       "funnet": "2026-08-07T19:14:17.932282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Etter avtale Anna - 4 kort",
-      "pris": 556,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472446841",
-      "funnet": "2026-08-07T19:12:24.745204+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bunke, GARANTERT 2 EX+,  - HUNDREVIS TILGJENGELIG! 42 kort kun 63kr🤩🔥",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-08-07T19:12:24.302828+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG - Kort Bulk",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470063290",
-      "funnet": "2026-08-07T19:10:30.125268+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
