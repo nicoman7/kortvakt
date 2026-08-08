@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T08:44:14.786217+00:00",
+  "sist_sjekket": "2026-08-08T08:46:19.609904+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448601025",
+      "funnet": "2026-08-08T08:46:19.607741+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling blandet",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/459252317",
       "funnet": "2026-08-07T22:10:34.979077+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Nockchan samlekort tysk (hitmonchan)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459253062",
-      "funnet": "2026-08-07T22:10:34.045026+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
