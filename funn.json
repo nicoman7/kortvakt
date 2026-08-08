@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T10:08:28.695871+00:00",
+  "sist_sjekket": "2026-08-08T10:10:31.253141+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Erika's Exeggutor",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472504141",
+      "funnet": "2026-08-08T10:10:31.251157+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zinedine Zidane – 2022-23 Topps Chrome UEFA 1959 Insert #59-1",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472504166",
+      "funnet": "2026-08-08T10:10:30.845773+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stray kids limited ver fotokort",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-08T07:58:20.077940+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dwight York i gull premier gold 2001 fotballkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/290496642",
-      "funnet": "2026-08-08T07:58:19.601307+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bunke med kinesiske holo selges samlet",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472485583",
-      "funnet": "2026-08-08T07:58:19.134171+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
