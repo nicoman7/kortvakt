@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T13:18:16.272249+00:00",
+  "sist_sjekket": "2026-08-08T13:20:25.448539+00:00",
   "funn": [
+    {
+      "tittel": "Flere sjeldne Pokémon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472532368",
+      "funnet": "2026-08-08T13:20:25.446614+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pusle 193/182 – Paradox Rift – Illustration Rare",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/377215799",
       "funnet": "2026-08-08T10:56:15.391567+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kronprins Olav Haakon Bryhn Torgersen Seiling sigarettkort 1930 Tiedemanns",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/182929001",
-      "funnet": "2026-08-08T10:56:14.782455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
