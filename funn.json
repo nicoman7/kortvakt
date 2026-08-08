@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T16:08:24.685581+00:00",
+  "sist_sjekket": "2026-08-08T16:10:32.651269+00:00",
   "funn": [
+    {
+      "tittel": "Passimian #TG08 Pokemon Silver Tempest",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472549791",
+      "funnet": "2026-08-08T16:10:32.649325+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Yu-Gi-Oh! spellcaster og dragon synchro kort",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472553631",
+      "funnet": "2026-08-08T16:10:32.064141+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kricketune V #TG12 Pokemon Silver Tempest",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472549761",
+      "funnet": "2026-08-08T16:10:31.388256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Aggron ex CGC 7",
       "pris": 949,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-08T14:22:15.489302+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
-      "funnet": "2026-08-08T14:22:14.831062+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort Manectric EX holografisk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472540204",
-      "funnet": "2026-08-08T14:20:24.505020+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Medicham Illustration Rare (Ascended Heroes)",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472540219",
-      "funnet": "2026-08-08T14:20:24.071642+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
