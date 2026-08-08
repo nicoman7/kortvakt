@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T06:46:13.554628+00:00",
+  "sist_sjekket": "2026-08-08T06:48:22.568404+00:00",
   "funn": [
+    {
+      "tittel": "Gareth Bale Fotballkort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472478633",
+      "funnet": "2026-08-08T06:48:22.567061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Federico Valverde Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472478737",
+      "funnet": "2026-08-08T06:48:22.149226+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger diverse pokemon kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472413189",
       "funnet": "2026-08-07T19:42:17.777621+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard promo pokemon / UPC og Snorlax promo fra 151 UPC",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/401230612",
-      "funnet": "2026-08-07T19:42:16.872360+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472449690",
-      "funnet": "2026-08-07T19:42:16.496545+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
