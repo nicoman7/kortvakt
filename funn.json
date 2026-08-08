@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T15:12:16.429354+00:00",
+  "sist_sjekket": "2026-08-08T15:14:14.495591+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort - N",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472547596",
+      "funnet": "2026-08-08T15:14:14.493522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Electabuzz ex samlekort CGC 8,5",
+      "pris": 1599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472547501",
+      "funnet": "2026-08-08T15:14:13.837915+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Quinn Hughes - Vancouver Canucks - Hockey kort - NHL",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-08T13:00:55.109498+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wigglytuff 105/094 – Phantasmal Flames – Illustration Rare",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472529375",
-      "funnet": "2026-08-08T13:00:54.210045+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - japansk 151(sv2a) - Holo/Pokeball revers",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466460514",
-      "funnet": "2026-08-08T12:58:16.625016+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
