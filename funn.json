@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T18:46:24.422831+00:00",
+  "sist_sjekket": "2026-08-08T18:48:19.132580+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472567565",
+      "funnet": "2026-08-08T18:48:19.130911+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mangler du Tomokazu Komiya kort? Massevis av Pokemon Tomokazu Komiya!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472570342",
+      "funnet": "2026-08-08T18:48:18.685875+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Litwick 48/116",
       "pris": 38,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-08T16:36:21.439120+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kpop samlekort 3stk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472555032",
-      "funnet": "2026-08-08T16:36:21.097992+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Raikou gold star",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472556264",
-      "funnet": "2026-08-08T16:34:14.800573+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
