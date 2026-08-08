@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T20:12:17.588596+00:00",
+  "sist_sjekket": "2026-08-08T20:14:20.825735+00:00",
   "funn": [
+    {
+      "tittel": "Telekort fra 90 tallet selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/420196373",
+      "funnet": "2026-08-08T20:14:20.823353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "4 stk Pokemon TCG McDonald's 2021 Happy Meal 25th Anniversary sealed pakker",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472565803",
       "funnet": "2026-08-08T17:52:17.453839+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Raging Bolt ex 166/131",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472565571",
-      "funnet": "2026-08-08T17:52:16.412161+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
