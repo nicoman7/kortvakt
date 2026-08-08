@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T09:36:25.336845+00:00",
+  "sist_sjekket": "2026-08-08T09:38:19.082384+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Goldstar, Skyridge, Delta Species og Moderne Hits",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472498952",
+      "funnet": "2026-08-08T09:38:19.080549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA 10 Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466363795",
+      "funnet": "2026-08-08T09:38:18.166402+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL fotballkort Erling Haaland Manchester City",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-08T00:20:26.305898+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Hundrevis av pene Elvis samlekort - Utgitt 1992 - Kr 10,- pr stk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429154555",
-      "funnet": "2026-08-08T00:20:25.921468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA Adrenalyn xl. Stor samling vm kort salg/bytte",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
-      "funnet": "2026-08-08T00:20:25.104183+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
