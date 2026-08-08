@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T00:32:16.421951+00:00",
+  "sist_sjekket": "2026-08-08T00:34:14.520063+00:00",
   "funn": [
+    {
+      "tittel": "Stor fotballpakke selges for 1000kr",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472466738",
+      "funnet": "2026-08-08T00:34:14.517823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu – Secret Rare Holo – 112/111 – Rising Rivals med Swirl ⭐️💫",
       "pris": 1950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T19:18:20.514978+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Goldeen 087/084 Illustration Rare Pitch Black",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472447273",
-      "funnet": "2026-08-07T19:16:19.693496+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
