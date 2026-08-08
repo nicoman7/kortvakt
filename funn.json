@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T07:36:14.050550+00:00",
+  "sist_sjekket": "2026-08-08T07:38:20.009614+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448604686",
+      "funnet": "2026-08-08T07:38:20.007439+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fortnite Panini Series 1 – Booster Pack",
+      "pris": 195,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472482960",
+      "funnet": "2026-08-08T07:38:19.195217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-08-08T07:38:18.350583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon bunke, GARANTERT 2 EX+,  - HUNDREVIS TILGJENGELIG! 42 kort kun 63kr🤩🔥",
       "pris": 63,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-07T20:30:45.666826+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Erika's Bellsprout",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472455013",
-      "funnet": "2026-08-07T20:30:45.242896+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Robin van Persie LEGEND samlekort Nederland",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466231018",
-      "funnet": "2026-08-07T20:28:20.181257+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Euro 2020 Nordic Edition kortpakke",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472454371",
-      "funnet": "2026-08-07T20:24:20.771181+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
