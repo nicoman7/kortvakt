@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T09:18:15.740217+00:00",
+  "sist_sjekket": "2026-08-08T09:20:27.377670+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/267637859",
+      "funnet": "2026-08-08T09:20:27.375923+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/459140853",
       "funnet": "2026-08-07T23:02:17.543060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World cup 26 Extra Sticker Florian Wirtz fotballklistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472463955",
-      "funnet": "2026-08-07T22:50:25.382097+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
