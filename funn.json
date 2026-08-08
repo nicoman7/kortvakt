@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T18:52:16.180879+00:00",
+  "sist_sjekket": "2026-08-08T18:54:18.999808+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-08-08T18:54:18.998237+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Azurill, Marill, Azumarill Bundle (9 Kort)",
       "pris": 399,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-08T16:38:22.960081+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon GO single salg",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472553893",
-      "funnet": "2026-08-08T16:38:22.594468+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
