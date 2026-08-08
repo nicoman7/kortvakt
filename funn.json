@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T10:58:16.816909+00:00",
+  "sist_sjekket": "2026-08-08T11:00:48.866490+00:00",
   "funn": [
+    {
+      "tittel": "Red bull kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472511186",
+      "funnet": "2026-08-08T11:00:48.864295+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon First Partner Illustration Collection samleboks",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472511933",
+      "funnet": "2026-08-08T11:00:48.428620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kjøper gamle fotballkort!",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472500628",
       "funnet": "2026-08-08T10:08:26.112347+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stray kids rock star pob fotokort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460420746",
-      "funnet": "2026-08-08T10:06:20.923738+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stray Kids fotokort fra ordinary limited album",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460420247",
-      "funnet": "2026-08-08T10:06:20.146976+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
