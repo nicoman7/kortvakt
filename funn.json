@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T06:58:15.630420+00:00",
+  "sist_sjekket": "2026-08-08T07:00:50.861238+00:00",
   "funn": [
+    {
+      "tittel": "29 Gormiti Samlekort og spillkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465748251",
+      "funnet": "2026-08-08T07:00:50.859156+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Raphinha Fotballkort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T20:02:28.453952+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini VM 2026 - Byttehandel",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466401574",
-      "funnet": "2026-08-07T19:56:22.248970+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
