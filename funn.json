@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T15:40:26.505345+00:00",
+  "sist_sjekket": "2026-08-08T15:42:34.206645+00:00",
   "funn": [
+    {
+      "tittel": "Toploaders for fotokort/pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472550826",
+      "funnet": "2026-08-08T15:42:34.205159+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Ampharos",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472551057",
+      "funnet": "2026-08-08T15:42:29.473887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "300 Pokémon online kodekort",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472533710",
       "funnet": "2026-08-08T13:30:38.271607+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort selges enkeltvis (Mega Slowbro ex, Legacy Energy m.m.)",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472354411",
-      "funnet": "2026-08-08T13:28:16.161290+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort  Carddeviders med Eevee prismatic uåpnet",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439982953",
-      "funnet": "2026-08-08T13:28:15.902684+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
