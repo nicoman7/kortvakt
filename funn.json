@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T18:56:22.338475+00:00",
+  "sist_sjekket": "2026-08-08T18:58:19.426767+00:00",
   "funn": [
+    {
+      "tittel": "(Nye priser) Eldre Pokemon hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465808925",
+      "funnet": "2026-08-08T18:58:19.424716+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Card Shiny Gardevoir ex SSR 328/190 SV4a Shiny Treasure ex Japansk",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/363643541",
+      "funnet": "2026-08-08T18:58:18.959140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece Card Game kort – Gol D. Roger WANTED",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472573308",
+      "funnet": "2026-08-08T18:58:18.031898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Lechonk Full art IR Obsidian Flames",
       "pris": 120,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472558104",
       "funnet": "2026-08-08T16:44:21.277519+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome X Estevão Willian fotballkort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472558059",
-      "funnet": "2026-08-08T16:44:20.900956+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort reservert til Martin R",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472558213",
-      "funnet": "2026-08-08T16:44:20.129547+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Bare forskjellige Energy kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448241944",
-      "funnet": "2026-08-08T16:40:29.845728+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
