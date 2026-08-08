@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T00:44:21.215111+00:00",
+  "sist_sjekket": "2026-08-08T00:46:16.159115+00:00",
   "funn": [
+    {
+      "tittel": "Stor fotballpakke selges for 1000kr",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472466898",
+      "funnet": "2026-08-08T00:46:16.156979+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor fotballpakke selges for 1000kr",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-08-07T19:24:15.634883+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boks til samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472447549",
-      "funnet": "2026-08-07T19:20:23.441372+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
