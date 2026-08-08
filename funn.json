@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T21:44:20.505857+00:00",
+  "sist_sjekket": "2026-08-08T21:46:16.602245+00:00",
   "funn": [
+    {
+      "tittel": "Selger sjeldent Pokemon kort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464682267",
+      "funnet": "2026-08-08T21:46:16.600301+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
+      "funnet": "2026-08-08T21:46:16.301367+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Holo Kort",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472573220",
       "funnet": "2026-08-08T19:02:20.556897+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Abra, Kadabra, Alakazam Bundle (8 Kort)",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472573460",
-      "funnet": "2026-08-08T19:02:19.770870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Art Rares Japansk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470156831",
-      "funnet": "2026-08-08T19:02:18.879874+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
