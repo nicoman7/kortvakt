@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T22:22:17.419799+00:00",
+  "sist_sjekket": "2026-08-08T22:24:18.515526+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472589896",
+      "funnet": "2026-08-08T22:24:18.513462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Team Rocket's Meowth 109/098 - Japanese Glory Of Team Rocket",
       "pris": 160,
@@ -1190,14 +1198,6 @@
       "pris": 290,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472577099",
       "funnet": "2026-08-08T19:30:39.478482+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 11/108 – Evolutions – Reverse Holo – Pokémon 2016",
-      "pris": 975,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472577480",
-      "funnet": "2026-08-08T19:30:39.093193+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
