@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T08:24:14.445289+00:00",
+  "sist_sjekket": "2026-08-08T08:26:22.766300+00:00",
   "funn": [
+    {
+      "tittel": "Kom med bud fotball kort selges fra 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472488506",
+      "funnet": "2026-08-08T08:26:22.764086+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "VM-sett Panini Adrenalyn XL",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472488703",
+      "funnet": "2026-08-08T08:26:22.171913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472445070",
       "funnet": "2026-08-07T21:54:21.559685+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu og Detective Pikachu",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472461211",
-      "funnet": "2026-08-07T21:50:28.404086+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA ekstra klistremerke Vinícius Júnior - Bronze",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472461164",
-      "funnet": "2026-08-07T21:50:27.393354+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
