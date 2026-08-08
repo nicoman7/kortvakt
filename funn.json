@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T22:00:55.004005+00:00",
+  "sist_sjekket": "2026-08-08T22:02:17.306220+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-08-08T22:02:17.304247+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Heliolisk 229/217 - Ascended Heroes",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-08T19:08:19.341194+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini fotballkort VM byttes!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470723468",
-      "funnet": "2026-08-08T19:06:19.583562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
