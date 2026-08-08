@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T14:50:21.903056+00:00",
+  "sist_sjekket": "2026-08-08T14:52:14.913769+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort - S",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472544189",
+      "funnet": "2026-08-08T14:52:14.911691+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "7 Pokémon-kort Perfect Order (Mega Zygarde ex, Salazzle ex, Tyrunt m.fl.)",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472525839",
       "funnet": "2026-08-08T12:34:16.360598+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard ex Super-Premium Collection Box (Sealed / Forseglet)",
-      "pris": 1975,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472520004",
-      "funnet": "2026-08-08T12:32:20.528093+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
