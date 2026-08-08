@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T06:38:22.524715+00:00",
+  "sist_sjekket": "2026-08-08T06:40:26.443926+00:00",
   "funn": [
+    {
+      "tittel": "Bruno Guimaraes Auto Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472418341",
+      "funnet": "2026-08-08T06:40:26.441823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort psa 10",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472449724",
       "funnet": "2026-08-07T19:38:22.986862+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM spesial",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472448828",
-      "funnet": "2026-08-07T19:38:22.181022+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
