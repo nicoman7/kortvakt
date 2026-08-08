@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T20:52:15.380097+00:00",
+  "sist_sjekket": "2026-08-08T20:54:18.551563+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472585050",
+      "funnet": "2026-08-08T20:54:18.549455+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bra pokemon kort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472571215",
       "funnet": "2026-08-08T18:36:20.719895+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan lot 5 kort collectors choice",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472570654",
-      "funnet": "2026-08-08T18:32:14.762534+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
