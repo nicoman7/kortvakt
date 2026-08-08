@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T22:14:19.418659+00:00",
+  "sist_sjekket": "2026-08-08T22:16:16.445347+00:00",
   "funn": [
+    {
+      "tittel": "Telekort France 50 units",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/242794394",
+      "funnet": "2026-08-08T22:16:16.443133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Paldean Tauros 084/073 - Japanese Triplet Beat",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472590073",
+      "funnet": "2026-08-08T22:16:16.165044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Crobat 091/083 - Japanese Ninja Spinner",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472167627",
       "funnet": "2026-08-08T19:12:23.656626+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eksklusiv Vaporeon, Flareon, Jolteon binder med plass til 480 kort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467336907",
-      "funnet": "2026-08-08T19:12:23.245293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Legendary Pokémon Holo Lot – 12 kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472054121",
-      "funnet": "2026-08-08T19:12:22.862814+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
