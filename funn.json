@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T09:02:15.930866+00:00",
+  "sist_sjekket": "2026-08-08T09:04:17.741445+00:00",
   "funn": [
+    {
+      "tittel": "Telenor sim kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/393583318",
+      "funnet": "2026-08-08T09:04:17.739411+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu Movie #4",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448666975",
+      "funnet": "2026-08-08T09:04:16.860752+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG  Squirtle My First Battle",
       "pris": 225,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472462786",
       "funnet": "2026-08-07T22:22:18.002920+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier League kort 2025 oppdatert 27.05.2025",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409797515",
-      "funnet": "2026-08-07T22:22:17.623775+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor eske med Pokémon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472462613",
-      "funnet": "2026-08-07T22:18:26.164108+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
