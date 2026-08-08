@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T07:32:21.193952+00:00",
+  "sist_sjekket": "2026-08-08T07:34:15.688909+00:00",
   "funn": [
+    {
+      "tittel": "Linjegodskortstokk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466422968",
+      "funnet": "2026-08-08T07:34:15.686973+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sjelden Game Boy Color / Pokemon promo \"flip\" kort",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472454318",
       "funnet": "2026-08-07T20:24:19.988730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Psyduck #87 (Near Mint) | Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472454535",
-      "funnet": "2026-08-07T20:24:19.153325+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
