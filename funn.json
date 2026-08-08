@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T00:12:19.294356+00:00",
+  "sist_sjekket": "2026-08-08T00:14:27.471612+00:00",
   "funn": [
+    {
+      "tittel": "Zapdos - Pokemon Rumble",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461728170",
+      "funnet": "2026-08-08T00:14:27.470159+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Salazzle GX 151/147 Rainbow Secret Rare – Burning Shadows",
       "pris": 275,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T19:10:28.242639+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samling Psyduck",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472446371",
-      "funnet": "2026-08-07T19:10:27.823689+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
