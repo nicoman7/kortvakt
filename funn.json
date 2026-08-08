@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T12:04:22.716326+00:00",
+  "sist_sjekket": "2026-08-08T12:06:17.543639+00:00",
   "funn": [
+    {
+      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
+      "funnet": "2026-08-08T12:06:17.541805+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Team Rocket’s Dugtrio 239/217 – Illustration Rare – Ascended Heroes",
       "pris": 110,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/246110140",
       "funnet": "2026-08-08T10:34:20.547893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ole Røisland f 1911 Boksing Samlekort Portrett 1935 med autograf",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438433798",
-      "funnet": "2026-08-08T10:34:20.234105+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
