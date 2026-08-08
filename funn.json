@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T18:50:24.163345+00:00",
+  "sist_sjekket": "2026-08-08T18:52:16.180879+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Azurill, Marill, Azumarill Bundle (9 Kort)",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472572205",
+      "funnet": "2026-08-08T18:52:16.179128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Light Toxtricity Jumbo",
       "pris": 130,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-08T16:38:22.594468+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort: Meowstic",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394326865",
-      "funnet": "2026-08-08T16:38:21.740060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
