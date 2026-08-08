@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T08:20:25.859033+00:00",
+  "sist_sjekket": "2026-08-08T08:22:14.375191+00:00",
   "funn": [
+    {
+      "tittel": "Mohamed Salah Nr 3, Panini Andrenalyn Xl",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472488464",
+      "funnet": "2026-08-08T08:22:14.372945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kylian Mbappe, Nr 5 Panini Adrenalyn XL",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472460923",
       "funnet": "2026-08-07T21:46:21.668013+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh! samling med kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472460710",
-      "funnet": "2026-08-07T21:46:20.756919+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
