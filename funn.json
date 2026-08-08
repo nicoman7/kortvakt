@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T04:00:47.580943+00:00",
+  "sist_sjekket": "2026-08-08T04:02:18.092401+00:00",
   "funn": [
+    {
+      "tittel": "Magikarp pokemonkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472468706",
+      "funnet": "2026-08-08T04:02:18.090606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Horsea Pokemonkort",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T19:32:22.883012+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472448183",
-      "funnet": "2026-08-07T19:30:42.262808+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
