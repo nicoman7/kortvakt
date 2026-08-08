@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T20:20:23.456921+00:00",
+  "sist_sjekket": "2026-08-08T20:22:21.254149+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472582440",
+      "funnet": "2026-08-08T20:22:21.251947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Zapdos kort – holo&reverse holo",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472582591",
+      "funnet": "2026-08-08T20:22:20.860415+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Onix samling",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/420821263",
+      "funnet": "2026-08-08T20:22:20.027021+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "D.F. Hydro deuterium oxide samleobjekt i metallboks",
       "pris": 400,
@@ -1174,30 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-08-08T18:00:49.150698+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Nico Paz Argentina",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472566320",
-      "funnet": "2026-08-08T17:56:13.258994+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bytte Panini World Cup 2026 klistremerker",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472565234",
-      "funnet": "2026-08-08T17:54:17.934220+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps match attax madness",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472565258",
-      "funnet": "2026-08-08T17:54:17.081257+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
