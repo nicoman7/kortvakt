@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-08T12:34:17.279772+00:00",
+  "sist_sjekket": "2026-08-08T12:36:19.326356+00:00",
   "funn": [
+    {
+      "tittel": "Gamle ponemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472522136",
+      "funnet": "2026-08-08T12:36:19.324639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort DELTA & DARK - Ninetales, Espeon, Cradily, Dark Slowking, + 2",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472520917",
+      "funnet": "2026-08-08T12:36:18.854064+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Brock's Training Hidden Fates",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472525931",
+      "funnet": "2026-08-08T12:36:18.000329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort evolving skies dragonite 69",
       "pris": 1500,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/197871261",
       "funnet": "2026-08-08T10:46:18.842496+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stavanger roklubb juniorlag roing sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/246046729",
-      "funnet": "2026-08-08T10:46:18.044104+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldent Fotballkort Jan Birkelund Skeid Lillestrøm Norge Panini VM 1978",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/325827098",
-      "funnet": "2026-08-08T10:46:17.669654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ørnulf Maurud Tennis sigarettkort Cromwell ca 1930",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/290581735",
-      "funnet": "2026-08-08T10:46:17.297841+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
