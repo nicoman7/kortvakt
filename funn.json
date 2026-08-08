@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T16:32:14.919265+00:00",
+  "sist_sjekket": "2026-08-08T16:34:14.802476+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Raikou gold star",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472556264",
+      "funnet": "2026-08-08T16:34:14.800573+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Starmie V #TG13 Pokemon Astral Radiance",
       "pris": 1300,
@@ -1190,14 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472546484",
       "funnet": "2026-08-08T15:06:14.787658+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Bianca’s Devotion kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472546499",
-      "funnet": "2026-08-08T15:06:14.446686+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
