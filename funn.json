@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-08T13:50:25.025759+00:00",
+  "sist_sjekket": "2026-08-08T13:52:21.015551+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM 2026 klistremerker bytte/selge",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472462948",
+      "funnet": "2026-08-08T13:52:21.013847+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Umbreon V Single Strike",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472536653",
+      "funnet": "2026-08-08T13:52:20.125568+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard ex kort – gull full art",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472536356",
+      "funnet": "2026-08-08T13:52:19.246492+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471927350",
+      "funnet": "2026-08-08T13:52:18.400532+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Blastoise  black Star promo EX kort",
       "pris": 1500,
@@ -1166,38 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472519700",
       "funnet": "2026-08-08T11:54:19.088635+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort X & DELTA- Shaymin X, Dialga X, DrapionX, Sceptile, Kingdra, Flygon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472514955",
-      "funnet": "2026-08-08T11:54:18.239663+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort samling EX / Mega / GX",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472518927",
-      "funnet": "2026-08-08T11:54:17.379757+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Chandelure ex 038/084 –Pitch Black – Pokémonkort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472519242",
-      "funnet": "2026-08-08T11:50:29.412143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472422832",
-      "funnet": "2026-08-08T11:50:28.502521+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
