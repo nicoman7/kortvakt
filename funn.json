@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-08T15:42:34.206645+00:00",
+  "sist_sjekket": "2026-08-08T15:44:24.025121+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #5 Pokemon Celebrations",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472550954",
+      "funnet": "2026-08-08T15:44:24.023535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Reshiram holo",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472550986",
+      "funnet": "2026-08-08T15:44:23.212541+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Toploaders for fotokort/pokemon kort",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472533785",
       "funnet": "2026-08-08T13:30:39.573699+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth 106/094 – Phantasmal Flames – Illustration Rare",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472533744",
-      "funnet": "2026-08-08T13:30:39.132688+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Weezing holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472533710",
-      "funnet": "2026-08-08T13:30:38.271607+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
