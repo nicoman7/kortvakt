@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-08T13:26:16.018865+00:00",
+  "sist_sjekket": "2026-08-08T13:28:16.163059+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges enkeltvis (Mega Slowbro ex, Legacy Energy m.m.)",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472354411",
+      "funnet": "2026-08-08T13:28:16.161290+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon samlekort  Carddeviders med Eevee prismatic uåpnet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/439982953",
+      "funnet": "2026-08-08T13:28:15.902684+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Masse Pokémon Kort 50kr - 250kr LES BESKRIVELSE",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429647742",
+      "funnet": "2026-08-08T13:28:15.613492+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472514316",
+      "funnet": "2026-08-08T13:28:15.346013+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ditto XY40 promo",
       "pris": 400,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472512709",
       "funnet": "2026-08-08T11:06:13.660011+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
-      "funnet": "2026-08-08T11:02:14.790603+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Red bull kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472511186",
-      "funnet": "2026-08-08T11:00:48.864295+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon First Partner Illustration Collection samleboks",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472511933",
-      "funnet": "2026-08-08T11:00:48.428620+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kjøper gamle fotballkort!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/109091968",
-      "funnet": "2026-08-08T10:56:15.663913+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
