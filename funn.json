@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T06:40:26.443926+00:00",
+  "sist_sjekket": "2026-08-08T06:42:15.697895+00:00",
   "funn": [
+    {
+      "tittel": "Oliver Giroud Auto Nummerert Fotballkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472478199",
+      "funnet": "2026-08-08T06:42:15.695919+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bruno Guimaraes Auto Fotballkort",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
       "funnet": "2026-08-07T19:40:25.128416+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon - Svært pent Mew kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472449724",
-      "funnet": "2026-08-07T19:38:22.986862+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
