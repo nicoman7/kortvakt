@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-08T01:08:28.081840+00:00",
+  "sist_sjekket": "2026-08-08T01:10:23.864787+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – stort parti med blandede kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472467121",
+      "funnet": "2026-08-08T01:10:23.862850+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort - Obsidian Flames - Twilight Masquerade - Surging Sparks",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-07T19:26:16.437017+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort. gi bud !",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472443784",
-      "funnet": "2026-08-07T19:26:15.920849+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
