@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T07:10:24.435313+00:00",
+  "sist_sjekket": "2026-08-09T07:12:13.930829+00:00",
   "funn": [
+    {
+      "tittel": "Disney 100 + Mirror Verse - Samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466475089",
+      "funnet": "2026-08-09T07:12:13.928627+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini World Cup 2026 Limited Edition Kort Selges",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/457978407",
       "funnet": "2026-08-08T22:04:14.499019+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-08-08T22:02:17.304247+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
