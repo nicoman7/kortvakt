@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T11:28:18.285000+00:00",
+  "sist_sjekket": "2026-08-09T11:30:34.441584+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling/enkelt hits for salg",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472644052",
+      "funnet": "2026-08-09T11:30:34.439711+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World Cup momentum fotballkort selges",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472619315",
       "funnet": "2026-08-09T09:26:18.914223+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med norske telefonkort / telekort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472618295",
-      "funnet": "2026-08-09T09:26:18.090176+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
