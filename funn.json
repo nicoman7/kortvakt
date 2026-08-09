@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T05:48:17.377324+00:00",
+  "sist_sjekket": "2026-08-09T05:50:21.282580+00:00",
   "funn": [
+    {
+      "tittel": "Limited Edition Panini",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472596443",
+      "funnet": "2026-08-09T05:50:21.280423+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sørloth fotballkort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465472501",
       "funnet": "2026-08-08T21:12:17.524993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1stk kpop samlekort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472586450",
-      "funnet": "2026-08-08T21:12:16.710120+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
