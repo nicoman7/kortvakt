@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T14:34:21.478467+00:00",
+  "sist_sjekket": "2026-08-09T14:36:17.761078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonsamling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472684273",
+      "funnet": "2026-08-09T14:36:17.759630+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort elitecut 2025/26",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472684627",
+      "funnet": "2026-08-09T14:36:16.841920+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebrations pakke + McDonald's tilbehør",
       "pris": 230,
@@ -1182,22 +1198,6 @@
       "pris": 290,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472654104",
       "funnet": "2026-08-09T12:12:18.667589+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Bronzong Ferrothorn Bastiodon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472654330",
-      "funnet": "2026-08-09T12:12:18.241849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
-      "funnet": "2026-08-09T12:12:17.848351+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
