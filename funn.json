@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T21:26:14.593332+00:00",
+  "sist_sjekket": "2026-08-09T21:28:22.537267+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Meganium EX Ascended Heroes box",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472752903",
+      "funnet": "2026-08-09T21:28:22.535422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort. Kom med bud!",
       "pris": 1234,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T19:22:17.086601+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Delta Species bundle",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472738104",
-      "funnet": "2026-08-09T19:20:31.094171+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
