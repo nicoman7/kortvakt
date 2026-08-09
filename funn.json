@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T09:00:47.372224+00:00",
+  "sist_sjekket": "2026-08-09T09:02:16.427804+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Flareon ex Prismatic Evolutions sealed",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472615675",
+      "funnet": "2026-08-09T09:02:16.425634+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon vulpix Toysrus sealed promo",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T00:10:27.565013+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-09T00:10:26.630809+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
