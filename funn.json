@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T07:12:13.930829+00:00",
+  "sist_sjekket": "2026-08-09T07:14:19.221227+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472601739",
+      "funnet": "2026-08-09T07:14:19.219501+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney 100 + Mirror Verse - Samlekort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
       "funnet": "2026-08-08T22:06:18.873915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shoot The Captains og International Stars of Britain fotballhefter",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457978407",
-      "funnet": "2026-08-08T22:04:14.499019+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
