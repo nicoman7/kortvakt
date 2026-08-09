@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T13:00:50.671689+00:00",
+  "sist_sjekket": "2026-08-09T13:02:18.199299+00:00",
   "funn": [
+    {
+      "tittel": "Nesten 600 duplikater - Panini-klistremerker selges",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472664991",
+      "funnet": "2026-08-09T13:02:18.197326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472635125",
       "funnet": "2026-08-09T10:48:17.658438+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-08-09T10:48:17.153506+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
