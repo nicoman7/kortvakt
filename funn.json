@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T13:12:20.002527+00:00",
+  "sist_sjekket": "2026-08-09T13:14:14.850605+00:00",
   "funn": [
+    {
+      "tittel": "1stk kpop samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472667904",
+      "funnet": "2026-08-09T13:14:14.848446+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/459389122",
       "funnet": "2026-08-09T10:54:15.024979+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472636601",
-      "funnet": "2026-08-09T10:54:14.407421+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
