@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T21:36:17.791835+00:00",
+  "sist_sjekket": "2026-08-09T21:38:16.857340+00:00",
   "funn": [
+    {
+      "tittel": "stray kids skzoo hipper (lee know) - følger med fotokort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466628255",
+      "funnet": "2026-08-09T21:38:16.855401+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Eldre fotballkort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472739126",
       "funnet": "2026-08-09T19:24:16.665651+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Umbreon ex",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472737782",
-      "funnet": "2026-08-09T19:22:20.026275+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
