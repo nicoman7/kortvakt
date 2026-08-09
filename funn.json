@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T08:12:17.468223+00:00",
+  "sist_sjekket": "2026-08-09T08:14:25.237693+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472607923",
+      "funnet": "2026-08-09T08:14:25.235588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort - M",
       "pris": 275,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472590552",
       "funnet": "2026-08-08T22:30:37.958963+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort diverse singles",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472590451",
-      "funnet": "2026-08-08T22:30:37.709985+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
