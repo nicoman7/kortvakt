@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-09T20:40:37.746465+00:00",
+  "sist_sjekket": "2026-08-09T20:42:20.164725+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 820,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472748813",
+      "funnet": "2026-08-09T20:42:20.162860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #27",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472749091",
+      "funnet": "2026-08-09T20:42:19.263255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-09T20:42:18.385041+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 9 Pokémon Articuno Art Rare japansk kort",
       "pris": 450,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472736581",
       "funnet": "2026-08-09T19:12:18.967184+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zacian LV #SWSH135 Pokemon Celebrations",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472685952",
-      "funnet": "2026-08-09T19:12:18.683803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bloodmoon Ursaluna ex #202 Pokemon Twilight Masquerade",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472686021",
-      "funnet": "2026-08-09T19:12:18.097570+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort shiftry",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472736733",
-      "funnet": "2026-08-09T19:12:17.786107+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
