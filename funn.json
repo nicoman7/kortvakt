@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T15:28:17.580144+00:00",
+  "sist_sjekket": "2026-08-09T15:30:39.142356+00:00",
   "funn": [
+    {
+      "tittel": "Samling ishockeykort i plastboks",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472695670",
+      "funnet": "2026-08-09T15:30:39.140596+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ishockey samlekort – pakke med spillerkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472695350",
+      "funnet": "2026-08-09T15:30:38.837863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bjørn Skaare hockeykort \"Draftet av NHL\" Detroit Red Wings",
       "pris": 890,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472670324",
       "funnet": "2026-08-09T13:26:19.281536+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard vmax #107",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472670685",
-      "funnet": "2026-08-09T13:26:18.525264+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459442189",
-      "funnet": "2026-08-09T13:26:18.112012+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
