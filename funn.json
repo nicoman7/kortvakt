@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T01:04:13.222431+00:00",
+  "sist_sjekket": "2026-08-09T01:06:19.193891+00:00",
   "funn": [
+    {
+      "tittel": "Solgaleo Cosmic Eclipse stamped promo Pokemon Kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/282021173",
+      "funnet": "2026-08-09T01:06:19.191774+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon  Charmeleon, selges hbo 350kr",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/333834182",
+      "funnet": "2026-08-09T01:06:18.364375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Poncho Eevee Sylveon Sleeves Official Pokemon Centre",
       "pris": 1500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472583791",
       "funnet": "2026-08-08T20:40:27.762940+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Latias EX #93 – EX Dragon – Pokémonkort",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472582527",
-      "funnet": "2026-08-08T20:40:26.823686+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Muscle Band XY base set",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472584073",
-      "funnet": "2026-08-08T20:40:26.385606+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
