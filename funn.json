@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T05:24:17.808547+00:00",
+  "sist_sjekket": "2026-08-09T05:26:16.277726+00:00",
   "funn": [
+    {
+      "tittel": "Sørloth fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472595433",
+      "funnet": "2026-08-09T05:26:16.275494+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Barbie Samlekort/klistremerker 1987",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472586450",
       "funnet": "2026-08-08T21:12:16.710120+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "David Alaba relic fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465473642",
-      "funnet": "2026-08-08T21:12:15.898599+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
