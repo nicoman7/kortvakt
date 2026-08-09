@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T02:20:25.620670+00:00",
+  "sist_sjekket": "2026-08-09T02:22:16.270966+00:00",
   "funn": [
+    {
+      "tittel": "FOTBALLKORT",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456296107",
+      "funnet": "2026-08-09T02:22:16.269336+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Blaziken VMAX #20 Pokemon Japanese VMAX Climax",
       "pris": 65,
@@ -1190,14 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472583930",
       "funnet": "2026-08-08T20:56:13.446890+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472585050",
-      "funnet": "2026-08-08T20:54:18.549455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
