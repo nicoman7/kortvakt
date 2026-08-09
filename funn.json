@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T12:58:26.459969+00:00",
+  "sist_sjekket": "2026-08-09T13:00:50.671689+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472664226",
+      "funnet": "2026-08-09T13:00:50.669583+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "3 Panini World Cup 2026 Sørloth - Messi - Kim",
       "pris": 225,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-08-09T10:48:17.153506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu og Delibird nøkkelring",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472635107",
-      "funnet": "2026-08-09T10:46:21.349959+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
