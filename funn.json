@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T15:24:17.654663+00:00",
+  "sist_sjekket": "2026-08-09T15:26:16.845645+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort ishockey Espen Knutsen – 4 kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472694769",
+      "funnet": "2026-08-09T15:26:16.843710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Zarude Illustration rare",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T13:24:17.971356+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Stickers/klistremerker VM 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468461342",
-      "funnet": "2026-08-09T13:24:17.623856+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
