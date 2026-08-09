@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T13:14:14.850605+00:00",
+  "sist_sjekket": "2026-08-09T13:16:18.487481+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu samling selges",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472668398",
+      "funnet": "2026-08-09T13:16:18.485515+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard RC5/RC32 – Generations Radiant Collection",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465911207",
+      "funnet": "2026-08-09T13:16:17.607475+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1stk kpop samlekort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/459449665",
       "funnet": "2026-08-09T10:58:17.847742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kinesisk Gem packs volume 5 - Skarmory sett",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472637161",
-      "funnet": "2026-08-09T10:56:21.601896+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps NOW All Star & Rising Stars sett",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459389122",
-      "funnet": "2026-08-09T10:54:15.024979+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
