@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-09T10:46:21.351672+00:00",
+  "sist_sjekket": "2026-08-09T10:48:19.692594+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472634525",
+      "funnet": "2026-08-09T10:48:19.690743+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kinesisk Gem packs volume 5 - Braviary sett",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472635070",
+      "funnet": "2026-08-09T10:48:18.627413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ca 310 utenlandske fotballkort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472635125",
+      "funnet": "2026-08-09T10:48:17.658438+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-09T10:48:17.153506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu og Delibird nøkkelring",
       "pris": 35,
@@ -1166,38 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/454674118",
       "funnet": "2026-08-09T08:48:18.348534+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Frosmoth 90 HP TG04/TG30 samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454677653",
-      "funnet": "2026-08-09T08:48:17.957428+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet lot med holo og V-kort",
-      "pris": 530,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472612717",
-      "funnet": "2026-08-09T08:48:17.653895+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Aegislash VMAX 320 HP 127/185 samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454674992",
-      "funnet": "2026-08-09T08:48:17.040375+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hisuian Zoroark 120 HP 076/196 samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454678989",
-      "funnet": "2026-08-09T08:44:22.030809+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
