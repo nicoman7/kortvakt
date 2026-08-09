@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-09T20:16:24.702339+00:00",
+  "sist_sjekket": "2026-08-09T20:18:20.558056+00:00",
   "funn": [
+    {
+      "tittel": "En samling Pokemon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472746277",
+      "funnet": "2026-08-09T20:18:20.556264+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "VM ADRENALYN XL Lot",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472746251",
+      "funnet": "2026-08-09T20:18:19.662838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mewtwo Mystery Card samlekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472746346",
+      "funnet": "2026-08-09T20:18:18.612659+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
+      "funnet": "2026-08-09T20:18:17.589876+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort EX Vil kjøpe",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-09T19:04:15.177186+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort lot – 4 holografiske kort i plastlommer",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472734959",
-      "funnet": "2026-08-09T19:02:21.568322+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu-EX XY124 – Black Star Promo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472733097",
-      "funnet": "2026-08-09T19:02:21.138823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Vinicius Junior Golden Baller nr 2",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471296077",
-      "funnet": "2026-08-09T19:02:20.161605+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidoking H18/H32 Pokemon Kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463988871",
-      "funnet": "2026-08-09T19:02:19.232685+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
