@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-09T21:04:17.382887+00:00",
+  "sist_sjekket": "2026-08-09T21:06:20.013745+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472751090",
+      "funnet": "2026-08-09T21:06:20.011611+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472751444",
+      "funnet": "2026-08-09T21:06:19.093633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-08-09T21:06:18.641088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling med Eeveelutions og japanske/engelske kort",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472737166",
       "funnet": "2026-08-09T19:18:17.150848+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gengar ex #125 Pokemon Ascended Heroes",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472684986",
-      "funnet": "2026-08-09T19:18:16.529572+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG - Glaceon VStar - Crown Zenith - GG40/GG70 - PSA 9",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472737774",
-      "funnet": "2026-08-09T19:18:16.198081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crabominable #107 Pokemon Japanese Stellar Miracle",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472684834",
-      "funnet": "2026-08-09T19:18:15.692938+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
