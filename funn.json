@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T06:32:23.226884+00:00",
+  "sist_sjekket": "2026-08-09T06:34:24.018427+00:00",
   "funn": [
+    {
+      "tittel": "Charizard boundries crossed",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383657351",
+      "funnet": "2026-08-09T06:34:24.016785+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Charmander",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472598830",
+      "funnet": "2026-08-09T06:34:23.636860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5stk kpop samlekort",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472582021",
       "funnet": "2026-08-08T21:26:18.452844+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution boosterpakker",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466514444",
-      "funnet": "2026-08-08T21:24:17.183014+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Glass Trumpet 260/217 - Ascended Heroes",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472587324",
-      "funnet": "2026-08-08T21:22:16.038900+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
