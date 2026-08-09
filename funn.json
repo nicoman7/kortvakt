@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T13:20:23.572336+00:00",
+  "sist_sjekket": "2026-08-09T13:22:17.138063+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471791031",
+      "funnet": "2026-08-09T13:22:17.135927+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse sportskort lot 2: baseball, NFL, F1 og Fotballkort",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/361004773",
       "funnet": "2026-08-09T11:00:50.668611+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Abra  Expedition E-Series Normal",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472638224",
-      "funnet": "2026-08-09T11:00:49.671896+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
