@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T16:02:17.732268+00:00",
+  "sist_sjekket": "2026-08-09T16:04:19.108110+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Symphonia Booster Boks",
+      "pris": 890,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472700845",
+      "funnet": "2026-08-09T16:04:19.105885+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sort samleperm med Ultra Pro plastlommer for kort",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472699797",
+      "funnet": "2026-08-09T16:04:18.290886+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort selges",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-08-09T14:06:16.374189+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard Y EX 030",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472678022",
-      "funnet": "2026-08-09T14:04:23.809693+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scyther #130 | Pokemon Platinum",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472678157",
-      "funnet": "2026-08-09T14:04:22.846347+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
