@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T10:00:47.907764+00:00",
+  "sist_sjekket": "2026-08-09T10:02:20.518696+00:00",
   "funn": [
+    {
+      "tittel": "Nummererte Manchester United kort",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472624721",
+      "funnet": "2026-08-09T10:02:20.516708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eldre Pokémon-kort (33 stk samlet) – 2003–2011 m/ Holos & Rares",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472625727",
+      "funnet": "2026-08-09T10:02:20.114114+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Arbok e-Reader Expedition normal LP",
       "pris": 199,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-09T07:12:13.928627+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini World Cup 2026 Limited Edition Kort Selges",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472600060",
-      "funnet": "2026-08-09T07:10:24.433382+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Glaceon Vmax",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472601010",
-      "funnet": "2026-08-09T07:08:19.475033+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
