@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T23:34:21.434469+00:00",
+  "sist_sjekket": "2026-08-09T23:36:14.885563+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Morpeko EX #102 - Pitch Black",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472758449",
+      "funnet": "2026-08-09T23:36:14.883642+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters - Splinterclaw Wasp (10/110) - Very Rare",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466036931",
       "funnet": "2026-08-09T19:42:18.262967+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling Charizard promo/ Oricorio promo",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472741263",
-      "funnet": "2026-08-09T19:42:17.396832+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
