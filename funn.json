@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T15:02:19.046698+00:00",
+  "sist_sjekket": "2026-08-09T15:04:25.176313+00:00",
   "funn": [
+    {
+      "tittel": "Diverse hits selges samlet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472690080",
+      "funnet": "2026-08-09T15:04:25.174429+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Dragonair Full Art / SIR 151",
+      "pris": 875,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472689948",
+      "funnet": "2026-08-09T15:04:24.686021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "OMAR MARMOUSH 2025-26 TOPPS CHROME UEFA SAPPHIRE GOLD /50 MANCHESTER CITY",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-09T13:06:16.221500+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nesten 600 duplikater - Panini-klistremerker selges",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472664991",
-      "funnet": "2026-08-09T13:02:18.197326+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472664226",
-      "funnet": "2026-08-09T13:00:50.669583+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
