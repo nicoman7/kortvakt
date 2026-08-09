@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-09T20:14:16.565958+00:00",
+  "sist_sjekket": "2026-08-09T20:16:24.702339+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort EX Vil kjøpe",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472746074",
+      "funnet": "2026-08-09T20:16:24.700758+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tate & Liza's Training 103/076 Storm Emeralda pokemon tcg kort",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472745996",
+      "funnet": "2026-08-09T20:16:24.309470+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Raw - Diverse kort - Gi bud - Gratis frakt!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472744672",
+      "funnet": "2026-08-09T20:16:23.692047+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "PSA-gradede Pokémon-kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472022022",
+      "funnet": "2026-08-09T20:16:23.279994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Reservert",
       "pris": 450,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-09T19:02:19.232685+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Patrioten firkort.",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442650065",
-      "funnet": "2026-08-09T19:02:18.272709+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Garbage pail kids samling",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470591550",
-      "funnet": "2026-08-09T19:02:17.836707+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort  med 4 kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472734453",
-      "funnet": "2026-08-09T19:02:17.405254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spearow #74 Pokemon Japanese Mega Brave",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472734935",
-      "funnet": "2026-08-09T19:00:58.800960+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
