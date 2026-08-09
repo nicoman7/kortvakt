@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-09T06:48:27.247249+00:00",
+  "sist_sjekket": "2026-08-09T06:50:34.537367+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ Koffing",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/412646437",
+      "funnet": "2026-08-09T06:50:34.535707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Solgaleo&Lunala GX",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457681991",
+      "funnet": "2026-08-09T06:50:34.196678+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Professor's Research (Professor Rowan)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472599871",
+      "funnet": "2026-08-09T06:50:33.423297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Toons World Cup 1994 uåpnet fotballkort",
+      "pris": 28,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459392987",
+      "funnet": "2026-08-09T06:50:33.037406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard&Braixen GX",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457681698",
+      "funnet": "2026-08-09T06:50:32.660663+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Lunala GX",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457682594",
+      "funnet": "2026-08-09T06:50:32.249331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard samlekort",
       "pris": 1000,
@@ -1152,54 +1200,6 @@
       "funnet": "2026-08-08T21:46:16.301367+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Holo Kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472588207",
-      "funnet": "2026-08-08T21:44:20.504176+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Hop's Trevenant 237/217 - Ascended Heroes",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472588376",
-      "funnet": "2026-08-08T21:44:19.658024+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kyogre Shiny Star V japansk PSA 10 kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472588430",
-      "funnet": "2026-08-08T21:44:19.158821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Hop's Trevenant 237/217 - Ascended Heroes",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472588543",
-      "funnet": "2026-08-08T21:44:18.738335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "M Charizard EX",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466522206",
-      "funnet": "2026-08-08T21:40:30.341257+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Reverse holo",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466522284",
-      "funnet": "2026-08-08T21:40:29.528186+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
