@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T15:16:16.758450+00:00",
+  "sist_sjekket": "2026-08-09T15:18:13.909852+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Kort | Dark Arbok 1st Edition | PSA 10",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471773831",
+      "funnet": "2026-08-09T15:18:13.907780+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu 58/102",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465884859",
       "funnet": "2026-08-09T13:18:15.138567+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu samling selges",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472668398",
-      "funnet": "2026-08-09T13:16:18.485515+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
