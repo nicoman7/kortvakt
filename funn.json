@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T11:50:25.602957+00:00",
+  "sist_sjekket": "2026-08-09T11:52:16.687612+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Xerneas EX metallboks med kort",
+      "pris": 290,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472649744",
+      "funnet": "2026-08-09T11:52:16.685903+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling Pokémon kort i eske",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T09:42:16.908788+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Haunter",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472622471",
-      "funnet": "2026-08-09T09:42:16.543628+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
