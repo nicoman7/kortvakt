@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T20:12:29.884271+00:00",
+  "sist_sjekket": "2026-08-09T20:14:16.565958+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Reservert",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472746172",
+      "funnet": "2026-08-09T20:14:16.564140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Silvally GX",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472734935",
       "funnet": "2026-08-09T19:00:58.800960+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magneton H18/H32 Pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463988603",
-      "funnet": "2026-08-09T19:00:57.952494+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
