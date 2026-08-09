@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T22:20:24.579772+00:00",
+  "sist_sjekket": "2026-08-09T22:22:16.144780+00:00",
   "funn": [
+    {
+      "tittel": "Chaos Rising HITS - pokemon",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472755831",
+      "funnet": "2026-08-09T22:22:16.142887+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Charizard x EX ACE-10",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472755930",
+      "funnet": "2026-08-09T22:22:15.868960+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters - Deathblade Beetle (S9/S10) - Super Rare",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472685139",
       "funnet": "2026-08-09T19:26:25.037089+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Topps Match Attack Euro 2024",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/414645973",
-      "funnet": "2026-08-09T19:26:24.198953+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Panini Premier League Pakke",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/414646474",
-      "funnet": "2026-08-09T19:26:23.230841+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
