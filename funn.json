@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-09T20:46:17.198598+00:00",
+  "sist_sjekket": "2026-08-09T20:48:20.005635+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455868949",
+      "funnet": "2026-08-09T20:48:20.003629+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pennyklubben samlekort selges",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429272431",
+      "funnet": "2026-08-09T20:48:19.577598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Meowth #106 Pokemon Phantasmal Flames",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472749873",
+      "funnet": "2026-08-09T20:48:18.563472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini - Calciatori 1990/91 - Siste sjanse før selges på auksjon.",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/403201492",
+      "funnet": "2026-08-09T20:48:18.099434+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 820,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
       "funnet": "2026-08-09T19:14:17.806009+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rocket's Zapdos #15 Pokemon Celebrations",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472685864",
-      "funnet": "2026-08-09T19:12:20.582487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yanma #223 Pokemon Chinese CSV10C",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472736593",
-      "funnet": "2026-08-09T19:12:20.311656+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luxray GL LV.X #109 Pokemon Celebrations",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472685908",
-      "funnet": "2026-08-09T19:12:19.715724+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eric Cantona • Topps Chrome Golazo • Jersey Match 7/25",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472736581",
-      "funnet": "2026-08-09T19:12:18.967184+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
