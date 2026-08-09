@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T21:34:16.532773+00:00",
+  "sist_sjekket": "2026-08-09T21:36:17.791835+00:00",
   "funn": [
+    {
+      "tittel": "Eldre fotballkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472753595",
+      "funnet": "2026-08-09T21:36:17.789820+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Eternos 630, Panini Messi",
       "pris": 650,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472737782",
       "funnet": "2026-08-09T19:22:20.026275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ortega #210 Pokemon Chinese CSV9.5C Crystal Gathering",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472738604",
-      "funnet": "2026-08-09T19:22:19.174149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
