@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T15:58:17.030850+00:00",
+  "sist_sjekket": "2026-08-09T16:00:48.878682+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort V / VMAX samling 5 kort",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472700675",
+      "funnet": "2026-08-09T16:00:48.876620+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472700500",
+      "funnet": "2026-08-09T16:00:48.264844+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gir bort Pokemon samling med kort og metallbokser",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-09T14:04:18.064255+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega Charizard X ex 029 Promo",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472677620",
-      "funnet": "2026-08-09T14:00:47.429878+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clefairy",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472677520",
-      "funnet": "2026-08-09T14:00:46.792657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
