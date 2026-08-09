@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T12:22:25.659011+00:00",
+  "sist_sjekket": "2026-08-09T12:24:22.931222+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Scizor GX ACE 10 fra hidden fates",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472655766",
+      "funnet": "2026-08-09T12:24:22.929480+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World cup 2026 klistremerker/stickers",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T10:24:16.810526+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort | Dark Arbok 1st Edition | PSA 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471773831",
-      "funnet": "2026-08-09T10:24:16.221175+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
