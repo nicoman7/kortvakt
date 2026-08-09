@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T01:52:16.623901+00:00",
+  "sist_sjekket": "2026-08-09T01:54:19.472397+00:00",
   "funn": [
+    {
+      "tittel": "5kr per kort — Holo/Reverse Holo",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472590658",
+      "funnet": "2026-08-09T01:54:19.470786+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon GO konto med armored mewtwo og masse mer",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/462441680",
       "funnet": "2026-08-08T20:46:17.305432+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Team Rocket's Nidoking Ex 216/182 - Destined Rivals",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472583521",
-      "funnet": "2026-08-08T20:42:22.469755+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
