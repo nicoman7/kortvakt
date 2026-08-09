@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T19:56:23.016265+00:00",
+  "sist_sjekket": "2026-08-09T19:58:17.526872+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472743377",
+      "funnet": "2026-08-09T19:58:17.524920+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre Magic-kort (1995–2001)",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472685590",
       "funnet": "2026-08-09T18:58:16.474510+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort - Timo Werner 2018 WC Panini",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458220358",
-      "funnet": "2026-08-09T18:58:15.787137+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
