@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T05:52:24.458482+00:00",
+  "sist_sjekket": "2026-08-09T05:54:18.880651+00:00",
   "funn": [
+    {
+      "tittel": "Panini-kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472596550",
+      "funnet": "2026-08-09T05:54:18.878382+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Limited Edition Panini",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465471538",
       "funnet": "2026-08-08T21:14:19.609443+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ansu Fati nummerert fotballkort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465472501",
-      "funnet": "2026-08-08T21:12:17.524993+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
