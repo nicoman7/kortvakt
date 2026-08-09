@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T13:10:27.299546+00:00",
+  "sist_sjekket": "2026-08-09T13:12:20.002527+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472653656",
+      "funnet": "2026-08-09T13:12:20.000628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort neo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472667089",
+      "funnet": "2026-08-09T13:12:19.581039+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard VSTAR kort PSA 9",
       "pris": 1200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472636601",
       "funnet": "2026-08-09T10:54:14.407421+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Lt. Surge’s Bargain, Alakazam, Spiritomb m.m.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472636600",
-      "funnet": "2026-08-09T10:54:14.130188+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lucario GX samlekort holo",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450148262",
-      "funnet": "2026-08-09T10:52:18.888662+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
