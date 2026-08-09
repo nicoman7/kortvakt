@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T06:06:17.936841+00:00",
+  "sist_sjekket": "2026-08-09T06:08:20.093213+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Chip",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/115659233",
+      "funnet": "2026-08-09T06:08:20.090976+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lionel Messi Gradert Fotballkort",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472586296",
       "funnet": "2026-08-08T21:16:23.300274+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-08T21:16:22.333603+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
