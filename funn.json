@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-09T21:24:25.403228+00:00",
+  "sist_sjekket": "2026-08-09T21:26:14.593332+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort. Kom med bud!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472752027",
+      "funnet": "2026-08-09T21:26:14.591372+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort Martin Ødegaard - Futera",
       "pris": 449,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472738104",
       "funnet": "2026-08-09T19:20:31.094171+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #78/110 Reverse Holo (EX Holon Phantoms) Vintage Pokemon kort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472737964",
-      "funnet": "2026-08-09T19:20:30.243460+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
