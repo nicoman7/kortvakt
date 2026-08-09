@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-09T16:30:43.300573+00:00",
+  "sist_sjekket": "2026-08-09T16:32:14.965298+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472707050",
+      "funnet": "2026-08-09T16:32:14.963397+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Ekans – reverse holo",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472707280",
+      "funnet": "2026-08-09T16:32:14.621593+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
+      "funnet": "2026-08-09T16:32:14.263068+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gullkort Cristiano Ronaldo",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472689988",
       "funnet": "2026-08-09T15:02:18.119679+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Rosa’s Encouragement 123/088",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472689638",
-      "funnet": "2026-08-09T15:00:49.939809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM fotballkort",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472683983",
-      "funnet": "2026-08-09T15:00:49.319383+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon GX samling i album / card file",
-      "pris": 666,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472689423",
-      "funnet": "2026-08-09T14:58:21.515691+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
