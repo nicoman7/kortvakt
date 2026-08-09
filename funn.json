@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-09T21:08:18.483200+00:00",
+  "sist_sjekket": "2026-08-09T21:10:30.525454+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472751540",
+      "funnet": "2026-08-09T21:10:30.523731+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
+      "pris": 623,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472751657",
+      "funnet": "2026-08-09T21:10:29.613420+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 123,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472685346",
       "funnet": "2026-08-09T19:20:27.285320+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA FC Barcelona Ousmane Dembélé samlekort 1/5",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472737829",
-      "funnet": "2026-08-09T19:20:26.481101+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flareon #5/115 Reverse Holo (EX Unseen Forces) Vintage Pokemon kort",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472737166",
-      "funnet": "2026-08-09T19:18:17.150848+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
