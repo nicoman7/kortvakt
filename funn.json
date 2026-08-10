@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T06:22:17.432923+00:00",
+  "sist_sjekket": "2026-08-10T06:24:15.968635+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E Kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472764352",
+      "funnet": "2026-08-10T06:24:15.966462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Misdreavus",
       "pris": 60,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472748392",
       "funnet": "2026-08-09T20:32:17.846496+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Giovanni’s Persian GX japansk PSA 9",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472748465",
-      "funnet": "2026-08-09T20:32:17.417306+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
