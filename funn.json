@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T14:08:16.363511+00:00",
+  "sist_sjekket": "2026-08-10T14:10:34.395202+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Squirtle",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472820582",
+      "funnet": "2026-08-10T14:10:34.393714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax EXTRA 2026",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/455151690",
       "funnet": "2026-08-10T11:34:22.479361+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tomme Mini Tin",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452223405",
-      "funnet": "2026-08-10T11:34:21.643267+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
