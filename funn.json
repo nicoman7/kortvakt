@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T11:14:15.231455+00:00",
+  "sist_sjekket": "2026-08-10T11:16:24.098910+00:00",
   "funn": [
+    {
+      "tittel": "Gammelt Tysk fotball kort selges for 900",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472797578",
+      "funnet": "2026-08-10T11:16:24.096848+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Chien-Pao ex sealed promokort",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/391576435",
       "funnet": "2026-08-10T08:52:16.161761+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mimikyu trick or trade 2024",
-      "pris": 7,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472779078",
-      "funnet": "2026-08-10T08:52:15.857660+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
