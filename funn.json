@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T08:06:17.999121+00:00",
+  "sist_sjekket": "2026-08-10T08:08:19.467999+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Regigigas LV.X Holo (DP30) TCG samlekort 2008",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/450767526",
+      "funnet": "2026-08-10T08:08:19.466257+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div pokemonkort",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T22:24:20.372520+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chaos Rising HITS - pokemon",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472755831",
-      "funnet": "2026-08-09T22:22:16.142887+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
