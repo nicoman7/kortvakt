@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T06:54:14.315574+00:00",
+  "sist_sjekket": "2026-08-10T06:56:19.232512+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472766983",
+      "funnet": "2026-08-10T06:56:19.230284+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Romée Leuchter /25 – Poetic Precision fotballkort",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T21:06:20.011611+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472751444",
-      "funnet": "2026-08-09T21:06:19.093633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
