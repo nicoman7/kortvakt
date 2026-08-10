@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T12:16:16.713185+00:00",
+  "sist_sjekket": "2026-08-10T12:18:24.328951+00:00",
   "funn": [
+    {
+      "tittel": "David Beckham fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472806516",
+      "funnet": "2026-08-10T12:18:24.326873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Gold Bundesliga 25/26 – Woo-yeong Jeong (Nummerert 13/50)",
       "pris": 175,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/458781606",
       "funnet": "2026-08-10T10:12:19.583875+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lunatone japansk holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472789187",
-      "funnet": "2026-08-10T10:12:18.640106+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
