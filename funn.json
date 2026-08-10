@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T06:38:25.578988+00:00",
+  "sist_sjekket": "2026-08-10T06:40:34.664630+00:00",
   "funn": [
+    {
+      "tittel": "Arcanine Pokemonkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472765724",
+      "funnet": "2026-08-10T06:40:34.662455+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kortsamling – stort parti med mange holo/ex/illustration rare + album",
       "pris": 599,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T20:56:15.587913+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455868949",
-      "funnet": "2026-08-09T20:48:20.003629+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
