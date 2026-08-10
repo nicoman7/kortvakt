@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T17:56:23.044359+00:00",
+  "sist_sjekket": "2026-08-10T17:58:18.908446+00:00",
   "funn": [
+    {
+      "tittel": "samleperm med Match Attax fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472853305",
+      "funnet": "2026-08-10T17:58:18.906437+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Shining Fates Eldegoss V Tin",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472830757",
       "funnet": "2026-08-10T15:34:28.908347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon graderte PSA kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472830960",
-      "funnet": "2026-08-10T15:34:28.026829+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
