@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T08:12:18.355770+00:00",
+  "sist_sjekket": "2026-08-10T08:14:20.657929+00:00",
   "funn": [
+    {
+      "tittel": "Zekrom pokemon kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472774292",
+      "funnet": "2026-08-10T08:14:20.656146+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Selger hele pokemon samlingen min",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472773896",
+      "funnet": "2026-08-10T08:14:20.152139+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Tag Team Reshiram & Charizard GX kort",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471228474",
       "funnet": "2026-08-09T22:36:16.940610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon non-Holo kort fra Sword & Shield",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472756366",
-      "funnet": "2026-08-09T22:34:17.265355+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Twin flip’n’tray Deck Box/kort TCG oppbevaring",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466547878",
-      "funnet": "2026-08-09T22:28:20.017301+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
