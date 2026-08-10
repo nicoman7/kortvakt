@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T06:28:17.734960+00:00",
+  "sist_sjekket": "2026-08-10T06:30:45.723401+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472764805",
+      "funnet": "2026-08-10T06:30:45.721418+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Falinks",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472748519",
       "funnet": "2026-08-09T20:34:14.554772+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Stufful 154/132 Mega Evolution Holo gradert 9.5",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472748304",
-      "funnet": "2026-08-09T20:32:18.658566+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
