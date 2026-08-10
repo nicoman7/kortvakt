@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T07:26:17.102290+00:00",
+  "sist_sjekket": "2026-08-10T07:28:24.930908+00:00",
   "funn": [
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-08-10T07:28:24.928831+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort lot – V, GX og full art kort",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T21:28:22.535422+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort. Kom med bud!",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472752027",
-      "funnet": "2026-08-09T21:26:14.591372+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
