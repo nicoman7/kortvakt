@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T07:12:16.966812+00:00",
+  "sist_sjekket": "2026-08-10T07:14:19.772118+00:00",
   "funn": [
+    {
+      "tittel": "Panini Argentina samlekort fotball – flere spillere",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472768541",
+      "funnet": "2026-08-10T07:14:19.770301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T21:10:30.523731+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort selges – Autografer, Nummererte, Patch, Relics m.m.",
-      "pris": 623,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472751657",
-      "funnet": "2026-08-09T21:10:29.613420+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
