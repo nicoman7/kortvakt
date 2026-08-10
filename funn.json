@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T09:54:17.607391+00:00",
+  "sist_sjekket": "2026-08-10T09:56:21.112432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472787215",
+      "funnet": "2026-08-10T09:56:21.110314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Slowbro All Out / Zen Headbutt",
       "pris": 210,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466622642",
       "funnet": "2026-08-10T06:20:24.550436+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Maractus",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466622904",
-      "funnet": "2026-08-10T06:20:24.151632+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
