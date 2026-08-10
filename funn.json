@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T10:46:17.923859+00:00",
+  "sist_sjekket": "2026-08-10T10:48:17.920366+00:00",
   "funn": [
+    {
+      "tittel": "Felix fotokort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472793990",
+      "funnet": "2026-08-10T10:48:17.918248+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Han fotokort",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
       "funnet": "2026-08-10T07:48:22.543028+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort til Espen",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472771372",
-      "funnet": "2026-08-10T07:44:18.318597+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
