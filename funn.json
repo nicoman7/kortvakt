@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T09:10:26.506794+00:00",
+  "sist_sjekket": "2026-08-10T09:12:19.192925+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotball alt for 100kr",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472781313",
+      "funnet": "2026-08-10T09:12:19.191340+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "V pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465534924",
+      "funnet": "2026-08-10T09:12:18.375330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472759364",
       "funnet": "2026-08-10T00:40:29.603602+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard EX kort sjelden!",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472759270",
-      "funnet": "2026-08-10T00:34:17.161449+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gyarados, Wartortle og Gastrodon holo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758940",
-      "funnet": "2026-08-10T00:08:20.757952+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
