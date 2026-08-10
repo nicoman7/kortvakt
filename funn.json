@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T05:40:22.855793+00:00",
+  "sist_sjekket": "2026-08-10T05:42:27.499155+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472762450",
+      "funnet": "2026-08-10T05:42:27.497125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters samlekort",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T20:16:23.692047+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "PSA-gradede Pokémon-kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472022022",
-      "funnet": "2026-08-09T20:16:23.279994+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
