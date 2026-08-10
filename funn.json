@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T07:54:13.908171+00:00",
+  "sist_sjekket": "2026-08-10T07:56:18.955552+00:00",
   "funn": [
+    {
+      "tittel": "Japanske One Piece samlekort, 20kr per stk.",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472771951",
+      "funnet": "2026-08-10T07:56:18.953538+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hjemmets bilag s kort 1958 .32 stk",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472755779",
       "funnet": "2026-08-09T22:20:24.577826+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Card Binder, singles for sale.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471884319",
-      "funnet": "2026-08-09T22:20:23.701760+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
