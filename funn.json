@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T08:38:21.319761+00:00",
+  "sist_sjekket": "2026-08-10T08:40:26.390759+00:00",
   "funn": [
+    {
+      "tittel": "Wolverhampton Fotballkort fra sesong 1976/77/78/79",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/431889178",
+      "funnet": "2026-08-10T08:40:26.388887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-10T08:40:25.426187+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre Disney samlekort",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-09T23:24:14.268418+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - King Mazelan (2/55) - Very Rare",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758238",
-      "funnet": "2026-08-09T23:20:23.973001+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Bulbasaur og Squirtle",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758189",
-      "funnet": "2026-08-09T23:20:23.199550+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
