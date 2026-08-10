@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T07:46:15.427783+00:00",
+  "sist_sjekket": "2026-08-10T07:48:23.407273+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472771839",
+      "funnet": "2026-08-10T07:48:23.405311+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "42 POKÉMONKORT – 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-08-10T07:48:22.543028+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort til Espen",
       "pris": 800,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-08-09T22:16:14.274683+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - Deathblade Beetle (S9/S10) - Super Rare",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472749096",
-      "funnet": "2026-08-09T22:10:34.461739+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Sealeo holo kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472755335",
-      "funnet": "2026-08-09T22:06:16.393399+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
