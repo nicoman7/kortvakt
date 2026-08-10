@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T21:30:40.459084+00:00",
+  "sist_sjekket": "2026-08-10T21:32:24.265252+00:00",
   "funn": [
+    {
+      "tittel": "Mega Dragalge ex #118 - Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472882055",
+      "funnet": "2026-08-10T21:32:24.263341+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - 1995/96",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472881880",
+      "funnet": "2026-08-10T21:32:23.653882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Gengar",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472061389",
       "funnet": "2026-08-10T19:08:30.640652+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA - PANINI og topps Fotball kort 2023 - 2024 - 208 stk.",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/340334491",
-      "funnet": "2026-08-10T19:08:30.328182+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard VMAX #SV107 - PSA 9",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470572212",
-      "funnet": "2026-08-10T19:08:30.055439+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
