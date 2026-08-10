@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T15:12:29.219143+00:00",
+  "sist_sjekket": "2026-08-10T15:14:25.959653+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage på Tysk 1996-2002",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472828350",
+      "funnet": "2026-08-10T15:14:25.957647+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Eevee – Resonant Evolution (Engelsk)",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472828372",
+      "funnet": "2026-08-10T15:14:25.159376+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NFF - Eliteserien 1996 (Game) - Vålerenga (komplett sett 8 kort)",
       "pris": 175,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-10T12:08:20.875869+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Juanmi fotballkort 25/99",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/277689833",
-      "funnet": "2026-08-10T12:06:19.051376+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472804948",
-      "funnet": "2026-08-10T12:06:18.695781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
