@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T04:06:14.132307+00:00",
+  "sist_sjekket": "2026-08-10T04:08:15.545928+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-10T04:08:15.544332+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Top Class 2025 - 9 Spesialkort (Haaland,Salah,Son m.fl)",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463346263",
       "funnet": "2026-08-09T20:12:28.973646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moonology Oracle Cards kortstokk med guidebok",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463345904",
-      "funnet": "2026-08-09T20:12:28.038296+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
