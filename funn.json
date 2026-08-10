@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-10T20:36:26.937345+00:00",
+  "sist_sjekket": "2026-08-10T20:38:28.742111+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Call of Legends",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472847139",
+      "funnet": "2026-08-10T20:38:28.740016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dewgong #22 Pokemon Phantasmal Flames",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472877323",
+      "funnet": "2026-08-10T20:38:28.289443+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort blandet bunke",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472877291",
+      "funnet": "2026-08-10T20:38:27.406875+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - HS Triumphant",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472858634",
       "funnet": "2026-08-10T18:30:51.589022+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mew V Fusion Strike Alternate Art",
-      "pris": 1399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472858805",
-      "funnet": "2026-08-10T18:30:50.761599+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Roronoa zoro SR One piece samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472858938",
-      "funnet": "2026-08-10T18:30:49.929613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Portgas.D.Ace secret rare One piece samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472858248",
-      "funnet": "2026-08-10T18:28:18.714010+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
