@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T01:42:21.716207+00:00",
+  "sist_sjekket": "2026-08-10T01:44:17.536559+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Sylveon EX full art",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472759686",
+      "funnet": "2026-08-10T01:44:17.534754+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 3,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472731680",
       "funnet": "2026-08-09T20:00:46.556054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger fotballkort",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472743903",
-      "funnet": "2026-08-09T20:00:45.759052+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
