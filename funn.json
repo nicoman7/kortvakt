@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T12:50:23.933672+00:00",
+  "sist_sjekket": "2026-08-10T12:52:19.043384+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472810701",
+      "funnet": "2026-08-10T12:52:19.041653+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Champions League 2010/2011 Iker Casillas Goal Stopper-kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472811241",
+      "funnet": "2026-08-10T12:52:18.237944+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Champions League 2011 Nicolas Anelka Star Player kort",
       "pris": 40,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465737759",
       "funnet": "2026-08-10T10:52:17.692110+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "4x3 - 720 Pocket Blå Binder/Album Pokémon",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472793803",
-      "funnet": "2026-08-10T10:52:17.021028+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Seungmin fotokort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472794603",
-      "funnet": "2026-08-10T10:52:16.686303+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
