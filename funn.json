@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T16:34:22.562542+00:00",
+  "sist_sjekket": "2026-08-10T16:36:16.718942+00:00",
   "funn": [
+    {
+      "tittel": "Watchog #97 - Pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472840595",
+      "funnet": "2026-08-10T16:36:16.716815+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Chespin #87 - Pokemon",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472840757",
+      "funnet": "2026-08-10T16:36:16.132710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Silvally #95 - Pokemon",
       "pris": 45,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472816025",
       "funnet": "2026-08-10T13:30:44.188288+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Flareon Skyridge",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459528499",
-      "funnet": "2026-08-10T13:28:17.558737+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Bulk/Samling",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466457402",
-      "funnet": "2026-08-10T13:28:17.279188+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
