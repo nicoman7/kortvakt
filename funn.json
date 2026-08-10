@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T17:30:48.795391+00:00",
+  "sist_sjekket": "2026-08-10T17:32:18.796629+00:00",
   "funn": [
+    {
+      "tittel": "Champions League samlealbum med fotballkort",
+      "pris": 420,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472848996",
+      "funnet": "2026-08-10T17:32:18.794899+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Meowth 0207/07",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472849293",
+      "funnet": "2026-08-10T17:32:18.314470+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Toni Kroos Man of the Match Real Madrid kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472825933",
       "funnet": "2026-08-10T14:54:18.730391+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mimikyu  kort – Fastpris pr. Stk",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472825402",
-      "funnet": "2026-08-10T14:52:18.103189+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort fra Kinesisk Vivid Voltage",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/432052503",
-      "funnet": "2026-08-10T14:48:20.435396+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
