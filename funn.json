@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T09:16:27.315338+00:00",
+  "sist_sjekket": "2026-08-10T09:18:19.269251+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotball alt for 200kr",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472782230",
+      "funnet": "2026-08-10T09:18:19.267038+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort kinesisk Holo/Masterball",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472092320",
       "funnet": "2026-08-10T01:36:16.208843+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Direction - Hel uåpnet eske med \"Popping Cotton Candy Gum & stickers\"",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/401696568",
-      "funnet": "2026-08-10T01:08:17.688703+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
