@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-10T16:52:25.398791+00:00",
+  "sist_sjekket": "2026-08-10T16:54:22.493050+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472842165",
+      "funnet": "2026-08-10T16:54:22.491167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samlekort - A",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472843140",
+      "funnet": "2026-08-10T16:54:22.016495+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "SALG! KUN 119kr - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
+      "pris": 119,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
+      "funnet": "2026-08-10T16:54:21.533369+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "VM 2026 Panini FIFA fotballkort oppdatert 06.08",
       "pris": 4,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-10T13:46:23.119529+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes blisterpakker med promo-kort",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472818165",
-      "funnet": "2026-08-10T13:46:22.865644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Pixar Cars Samlekort fra 2008",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435948358",
-      "funnet": "2026-08-10T13:40:34.847739+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 stickers",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472815572",
-      "funnet": "2026-08-10T13:36:22.416278+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
