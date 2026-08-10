@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T08:04:14.527510+00:00",
+  "sist_sjekket": "2026-08-10T08:06:17.999121+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472773425",
+      "funnet": "2026-08-10T08:06:17.997371+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Moltres & Zapdos & Articuno GX Tag Team – CGC 9.5",
+      "pris": 1850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472773532",
+      "funnet": "2026-08-10T08:06:17.512664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske One Piece samlekort, 20kr per stk.",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-09T22:22:16.142887+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charizard x EX ACE-10",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472755930",
-      "funnet": "2026-08-09T22:22:15.868960+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - Deathblade Beetle (S9/S10) - Super Rare",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472755779",
-      "funnet": "2026-08-09T22:20:24.577826+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
