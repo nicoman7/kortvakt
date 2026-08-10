@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-10T21:36:18.433909+00:00",
+  "sist_sjekket": "2026-08-10T21:38:20.930594+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472882390",
+      "funnet": "2026-08-10T21:38:20.928947+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - legendariske baseball kortet! NB! slitasje",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472882407",
+      "funnet": "2026-08-10T21:38:20.132393+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Melmetal VMAX 048/071 - Pokemon Go",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466724811",
+      "funnet": "2026-08-10T21:38:19.776743+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Scizor holo",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472882586",
+      "funnet": "2026-08-10T21:38:18.923517+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Michael Jordan Ionix basketballkort",
       "pris": 120,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-10T19:10:28.285481+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cubone Pokemonkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472865386",
-      "funnet": "2026-08-10T19:10:27.912008+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "M Charizard EX 12/83 – Generations",
-      "pris": 1299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470373542",
-      "funnet": "2026-08-10T19:10:27.612620+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu VMAX 044/185",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471351290",
-      "funnet": "2026-08-10T19:10:27.315920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece kort Bulk",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470026111",
-      "funnet": "2026-08-10T19:10:26.622272+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
