@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T14:50:44.771876+00:00",
+  "sist_sjekket": "2026-08-10T14:52:18.104893+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mimikyu  kort – Fastpris pr. Stk",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472825402",
+      "funnet": "2026-08-10T14:52:18.103189+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort fra Kinesisk Vivid Voltage",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 119,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472806131",
       "funnet": "2026-08-10T12:02:15.976104+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA-gradede Pokémon-kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472022022",
-      "funnet": "2026-08-10T12:02:15.369531+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
