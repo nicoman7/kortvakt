@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T15:02:29.728082+00:00",
+  "sist_sjekket": "2026-08-10T15:04:25.234580+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Volcanion EX",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472827359",
+      "funnet": "2026-08-10T15:04:25.232626+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "180 eldre pokemon kort ( mange søte)",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/277693350",
       "funnet": "2026-08-10T12:04:16.285812+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charles De Ketelaere fotballkort /199",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/332910123",
-      "funnet": "2026-08-10T12:04:15.988803+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
