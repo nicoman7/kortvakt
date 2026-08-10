@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T00:50:20.552991+00:00",
+  "sist_sjekket": "2026-08-10T00:52:15.545036+00:00",
   "funn": [
+    {
+      "tittel": "Enorm Limited Edition samling selges (sjekk profil for mer)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471905624",
+      "funnet": "2026-08-10T00:52:15.543312+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL Fifa World Cup 2026 pakke",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472092320",
       "funnet": "2026-08-09T19:50:25.548020+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Counter Gain #259 Pokemon Ascended Heroes",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472683453",
-      "funnet": "2026-08-09T19:48:15.324477+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
