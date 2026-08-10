@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T05:58:17.517256+00:00",
+  "sist_sjekket": "2026-08-10T06:00:48.296930+00:00",
   "funn": [
+    {
+      "tittel": "Store xxl kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472763070",
+      "funnet": "2026-08-10T06:00:48.294830+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon EX kort – 20kr stk.",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
       "funnet": "2026-08-09T20:18:17.589876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort EX Vil kjøpe",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472746074",
-      "funnet": "2026-08-09T20:16:24.700758+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
