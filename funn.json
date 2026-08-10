@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T10:44:16.146812+00:00",
+  "sist_sjekket": "2026-08-10T10:46:17.923859+00:00",
   "funn": [
+    {
+      "tittel": "Han fotokort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472793688",
+      "funnet": "2026-08-10T10:46:17.921758+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Changbin fotokort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472771372",
       "funnet": "2026-08-10T07:44:18.318597+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SALG! KUN 119kr - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
-      "funnet": "2026-08-10T07:44:17.652239+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
