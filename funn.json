@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T05:42:27.499155+00:00",
+  "sist_sjekket": "2026-08-10T05:44:15.793772+00:00",
   "funn": [
+    {
+      "tittel": "Pikemo kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/423721712",
+      "funnet": "2026-08-10T05:44:15.791742+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort 2026",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T20:16:24.309470+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raw - Diverse kort - Gi bud - Gratis frakt!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472744672",
-      "funnet": "2026-08-09T20:16:23.692047+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
