@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T12:18:24.328951+00:00",
+  "sist_sjekket": "2026-08-10T12:20:26.371154+00:00",
   "funn": [
+    {
+      "tittel": "Geoff Horsfield fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472807020",
+      "funnet": "2026-08-10T12:20:26.369069+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Fidough 213/198 illustrasjons-rare",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472806662",
+      "funnet": "2026-08-10T12:20:25.997412+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "David Beckham fotballkort",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 12,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472789069",
       "funnet": "2026-08-10T10:14:25.841195+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort m/ prisliste",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458792567",
-      "funnet": "2026-08-10T10:14:25.373199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rumble Pokemon m/ prisliste",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458781606",
-      "funnet": "2026-08-10T10:12:19.583875+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
