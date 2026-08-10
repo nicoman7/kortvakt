@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T07:06:19.202967+00:00",
+  "sist_sjekket": "2026-08-10T07:08:18.197663+00:00",
   "funn": [
+    {
+      "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471927350",
+      "funnet": "2026-08-10T07:08:18.195538+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon E kort",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T21:10:29.613420+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472751090",
-      "funnet": "2026-08-09T21:06:20.011611+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
