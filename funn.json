@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T09:56:21.112432+00:00",
+  "sist_sjekket": "2026-08-10T09:58:22.361823+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort til Marius",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472787363",
+      "funnet": "2026-08-10T09:58:22.359985+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "My Little Pony kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457764065",
+      "funnet": "2026-08-10T09:58:21.482292+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 45,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466623260",
       "funnet": "2026-08-10T06:22:17.431192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Hop's Trevenant",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466622826",
-      "funnet": "2026-08-10T06:20:24.947388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Team Rocket's Dugtrio",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466622642",
-      "funnet": "2026-08-10T06:20:24.550436+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
