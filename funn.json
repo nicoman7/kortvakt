@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T16:56:18.049943+00:00",
+  "sist_sjekket": "2026-08-10T16:58:17.703351+00:00",
   "funn": [
+    {
+      "tittel": "Fotball-VM 2026 kort selges evt byttes! (Nye priser) (23/7)",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466688737",
+      "funnet": "2026-08-10T16:58:17.701290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort selges – Mewtwo VSTAR Gold, Charizard, GX m.m. – Bud ønskes",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472842778",
+      "funnet": "2026-08-10T16:58:16.860515+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-10T13:52:15.510246+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Mega Starmie EX japansk holografisk",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472817714",
-      "funnet": "2026-08-10T13:46:23.770308+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472759534",
-      "funnet": "2026-08-10T13:46:23.119529+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
