@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T09:12:19.192925+00:00",
+  "sist_sjekket": "2026-08-10T09:14:17.589149+00:00",
   "funn": [
+    {
+      "tittel": "PSG Topps Fotball",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472781985",
+      "funnet": "2026-08-10T09:14:17.587008+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Umbreon V samlekort – spansk",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465534764",
+      "funnet": "2026-08-10T09:14:17.157704+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Fotball alt for 100kr",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-10T00:52:15.543312+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Fifa World Cup 2026 pakke",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472759385",
-      "funnet": "2026-08-10T00:48:17.992107+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kot vintage samling",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472759364",
-      "funnet": "2026-08-10T00:40:29.603602+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
