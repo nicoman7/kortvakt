@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T09:06:15.799818+00:00",
+  "sist_sjekket": "2026-08-10T09:08:14.307014+00:00",
   "funn": [
+    {
+      "tittel": "Topps Premier League",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472780530",
+      "funnet": "2026-08-10T09:08:14.305007+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gammelt pineco pokemon kort",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472780773",
+      "funnet": "2026-08-10T09:08:13.703455+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Sableye 23/97",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472758940",
       "funnet": "2026-08-10T00:08:20.757952+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu & Plusle - 1995",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758723",
-      "funnet": "2026-08-10T00:00:48.661076+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - Battleship Mutant (3/55) - Very Rare",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758789",
-      "funnet": "2026-08-09T23:56:24.282267+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
