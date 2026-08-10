@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T13:06:29.075321+00:00",
+  "sist_sjekket": "2026-08-10T13:08:25.278982+00:00",
   "funn": [
+    {
+      "tittel": "Liten pakke med eevee , pikachu og slowpoke",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472813533",
+      "funnet": "2026-08-10T13:08:25.276975+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Trading Card Game samleperm med 109 kort",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
       "funnet": "2026-08-10T11:02:18.375242+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eevee 074/131 sealed promokort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472795498",
-      "funnet": "2026-08-10T10:58:18.381369+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
