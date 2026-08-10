@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-10T21:18:26.243620+00:00",
+  "sist_sjekket": "2026-08-10T21:20:26.620229+00:00",
   "funn": [
+    {
+      "tittel": "Azurill #86 - Pokemon Japansk",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472881210",
+      "funnet": "2026-08-10T21:20:26.618505+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Electivire #81 - Pokemon Japansk",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472881083",
+      "funnet": "2026-08-10T21:20:26.320302+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - Space Jam Sneak Peak 1996",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472880687",
+      "funnet": "2026-08-10T21:20:25.717955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Inkay #85 - Pokemon Japansk",
       "pris": 60,
@@ -1174,30 +1198,6 @@
       "pris": 1250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469579010",
       "funnet": "2026-08-10T19:04:23.819869+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tins selges",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469548754",
-      "funnet": "2026-08-10T19:04:22.938227+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard & Braixen GX #SM230 Pokemon Promo",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435260829",
-      "funnet": "2026-08-10T19:04:22.054695+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eevee GX #SM242 Pokemon Promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435039362",
-      "funnet": "2026-08-10T19:04:21.165149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
