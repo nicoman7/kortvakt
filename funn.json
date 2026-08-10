@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T07:16:20.842692+00:00",
+  "sist_sjekket": "2026-08-10T07:18:24.695630+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472768727",
+      "funnet": "2026-08-10T07:18:24.693442+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Argentina samlekort fotball – flere spillere",
       "pris": 35,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-09T21:14:15.253020+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472751540",
-      "funnet": "2026-08-09T21:10:30.523731+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
