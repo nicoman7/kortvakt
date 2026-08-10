@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-10T19:20:37.929065+00:00",
+  "sist_sjekket": "2026-08-10T19:22:30.698980+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM26 XXL Limited Edition kort til salgs",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472867111",
+      "funnet": "2026-08-10T19:22:30.696917+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Snorunt 200/193 Art Rare (AR) Mega Dream ex NM",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472867242",
+      "funnet": "2026-08-10T19:22:30.033288+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Gold 2022 Oscar Bobb autografkort Manchester City /5",
       "pris": 1800,
@@ -1182,22 +1198,6 @@
       "pris": 1899,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472852756",
       "funnet": "2026-08-10T17:56:20.840384+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japanese Mega Dream Booster Box",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472852237",
-      "funnet": "2026-08-10T17:52:22.093387+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Jimmy Floyd Hasselbaink Chelsea Legend",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472853901",
-      "funnet": "2026-08-10T17:52:21.694768+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
