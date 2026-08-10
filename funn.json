@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T08:46:17.980464+00:00",
+  "sist_sjekket": "2026-08-10T08:48:19.149792+00:00",
   "funn": [
+    {
+      "tittel": "HOLO-Pokemon kort Gyarados og Beedrill holo",
+      "pris": 1337,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467711751",
+      "funnet": "2026-08-10T08:48:19.147722+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472758342",
       "funnet": "2026-08-09T23:32:15.804041+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - Q-tronic Hypermind (S4/S10) - Super Rare",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472758358",
-      "funnet": "2026-08-09T23:32:15.502942+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
