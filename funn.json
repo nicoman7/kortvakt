@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-10T13:50:35.872938+00:00",
+  "sist_sjekket": "2026-08-10T13:52:16.315276+00:00",
   "funn": [
+    {
+      "tittel": "Tom Huddlestone Auto Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466560515",
+      "funnet": "2026-08-10T13:52:16.313192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eusebio Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466560965",
+      "funnet": "2026-08-10T13:52:15.859999+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps F1 Attax 2026",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472818602",
+      "funnet": "2026-08-10T13:52:15.510246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Mega Starmie EX japansk holografisk",
       "pris": 120,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-10T11:28:15.609923+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Crystal Gathering Binder Set - Sylveon",
-      "pris": 1599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472798371",
-      "funnet": "2026-08-10T11:20:25.908335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra pitch black serien - glins",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472798171",
-      "funnet": "2026-08-10T11:20:25.055264+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-10T11:18:18.055793+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
