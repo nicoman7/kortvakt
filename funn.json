@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-10T12:04:17.936078+00:00",
+  "sist_sjekket": "2026-08-10T12:06:19.053379+00:00",
   "funn": [
+    {
+      "tittel": "Juanmi fotballkort 25/99",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/277689833",
+      "funnet": "2026-08-10T12:06:19.051376+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472804948",
+      "funnet": "2026-08-10T12:06:18.695781+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sandro Tonali fotballkort 8/20",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/332658253",
+      "funnet": "2026-08-10T12:06:18.269452+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 Extra Stickers Pack",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472804768",
+      "funnet": "2026-08-10T12:06:17.379777+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2 pakker Bantex samlekortlommer A4 – 10 stk. pr. pakke",
       "pris": 100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-10T10:06:24.485489+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Champions League 1999/2000 Panini",
-      "pris": 159,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440117798",
-      "funnet": "2026-08-10T10:06:24.031239+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Goldeen holo",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472788409",
-      "funnet": "2026-08-10T10:06:23.150800+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Torterra LV.X holografisk",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472788013",
-      "funnet": "2026-08-10T10:04:19.532149+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort med norske fotballspillere",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440113730",
-      "funnet": "2026-08-10T10:04:18.711259+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
