@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-10T16:08:19.363159+00:00",
+  "sist_sjekket": "2026-08-10T16:10:38.974211+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 173/165",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466690775",
+      "funnet": "2026-08-10T16:10:38.972368+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon vulpix v 033/195 sealed promo",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472836364",
+      "funnet": "2026-08-10T16:10:38.098089+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon mini tin med 100 kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472836022",
+      "funnet": "2026-08-10T16:10:37.207753+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Chandelure EX",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-10T12:56:15.313606+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Match Attax Extra kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459580272",
-      "funnet": "2026-08-10T12:56:14.984748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes 2-pack blister",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472811181",
-      "funnet": "2026-08-10T12:54:15.026928+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472810701",
-      "funnet": "2026-08-10T12:52:19.041653+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
