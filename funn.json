@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T01:44:17.536559+00:00",
+  "sist_sjekket": "2026-08-10T01:46:18.655723+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Venusaur EX holo",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472759690",
+      "funnet": "2026-08-10T01:46:18.654361+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Sylveon EX full art",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-08-09T20:06:17.640632+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 2026 selges/byttes",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472731680",
-      "funnet": "2026-08-09T20:00:46.556054+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
