@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-10T22:00:51.678561+00:00",
+  "sist_sjekket": "2026-08-10T22:02:15.367861+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort ønsket kjøp",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472883955",
+      "funnet": "2026-08-10T22:02:15.365831+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-10T19:24:16.361764+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM26 XXL Limited Edition kort til salgs",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472867111",
-      "funnet": "2026-08-10T19:22:30.696917+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
