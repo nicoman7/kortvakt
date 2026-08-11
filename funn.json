@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T12:54:19.612354+00:00",
+  "sist_sjekket": "2026-08-11T12:56:24.336217+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Reservert",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472937252",
+      "funnet": "2026-08-11T12:56:24.334374+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling fotballkort Champions League / Match Attax",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/206174686",
       "funnet": "2026-08-11T11:02:27.578115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "‘s Pikachu Promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472922963",
-      "funnet": "2026-08-11T11:02:27.328040+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
