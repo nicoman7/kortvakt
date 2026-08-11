@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T21:04:20.753446+00:00",
+  "sist_sjekket": "2026-08-11T21:06:22.609056+00:00",
   "funn": [
+    {
+      "tittel": "H&M DANMØNT telefonkort 100 kroner",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452143988",
+      "funnet": "2026-08-11T21:06:22.606833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "BT Phonecard samling – Disney Pinocchio og Great Britain motiv",
       "pris": 160,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472388103",
       "funnet": "2026-08-11T18:34:19.404856+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Marvel Chrome 2026",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472979768",
-      "funnet": "2026-08-11T18:32:21.133324+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
