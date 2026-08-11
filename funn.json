@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T17:18:22.481601+00:00",
+  "sist_sjekket": "2026-08-11T17:20:30.446249+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472970145",
+      "funnet": "2026-08-11T17:20:30.444499+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard binder med  diverse Pokémon kort.",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472092320",
+      "funnet": "2026-08-11T17:20:30.016131+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Limited Edition fotballkort – blandet lot med stjernekort",
       "pris": 180,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472954476",
       "funnet": "2026-08-11T15:28:17.935175+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div fotball hits / Haaland, Messi, Bobb, med flere",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472954659",
-      "funnet": "2026-08-11T15:26:22.228829+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Alexander Isak, Neymar Jr og Ricardo Pepi – graderte samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472388103",
-      "funnet": "2026-08-11T15:26:21.594326+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
