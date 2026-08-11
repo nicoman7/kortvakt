@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T09:04:17.182421+00:00",
+  "sist_sjekket": "2026-08-11T09:06:18.343416+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerker Toy story 3",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365275023",
+      "funnet": "2026-08-11T09:06:18.341439+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini klistremerker Cars 2",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365275894",
+      "funnet": "2026-08-11T09:06:17.457989+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Michael Jordan basketballkort - 1996 97 Fleer",
       "pris": 90,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466156388",
       "funnet": "2026-08-10T23:22:15.782838+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam [Reverse Holo] #2 Pokemon Skyridge",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466156197",
-      "funnet": "2026-08-10T23:20:22.042940+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard #4 Pokemon Base Set",
-      "pris": 1549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450173224",
-      "funnet": "2026-08-10T23:18:19.310141+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
