@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T06:06:16.727067+00:00",
+  "sist_sjekket": "2026-08-11T06:08:20.002553+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort i eske",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472892147",
+      "funnet": "2026-08-11T06:08:20.000550+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472891845",
+      "funnet": "2026-08-11T06:08:19.221686+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Enorm Limited Edition samling selges",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472877448",
       "funnet": "2026-08-10T20:40:25.004429+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Call of Legends",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472847139",
-      "funnet": "2026-08-10T20:38:28.740016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dewgong #22 Pokemon Phantasmal Flames",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472877323",
-      "funnet": "2026-08-10T20:38:28.289443+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
