@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T07:14:21.419775+00:00",
+  "sist_sjekket": "2026-08-11T07:16:23.768285+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-11T07:16:23.766646+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece Franky samlekort japansk",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-10T21:24:18.898117+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471927350",
-      "funnet": "2026-08-10T21:24:18.018865+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
