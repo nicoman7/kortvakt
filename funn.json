@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T15:20:27.900225+00:00",
+  "sist_sjekket": "2026-08-11T15:22:24.902506+00:00",
   "funn": [
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-11T15:22:24.900883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NYE fotballkort selges",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-11T12:20:32.418250+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon charizard gx kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472932067",
-      "funnet": "2026-08-11T12:20:32.113623+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
