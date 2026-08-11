@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-11T15:18:19.366113+00:00",
+  "sist_sjekket": "2026-08-11T15:20:27.900225+00:00",
   "funn": [
+    {
+      "tittel": "NYE fotballkort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472951243",
+      "funnet": "2026-08-11T15:20:27.898610+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vault X Zip Binder 9-pocket samlekort-perm",
+      "pris": 640,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472947560",
+      "funnet": "2026-08-11T15:20:27.312336+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eric Cantona fotballkort Merlins",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466419767",
+      "funnet": "2026-08-11T15:20:26.453921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini ETERNOS 22 Argentina samlekort De Paul Mac Allister Fernández #629",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472954520",
+      "funnet": "2026-08-11T15:20:25.603051+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Emporio.Ivankov SR alternate art One piece samlekort",
       "pris": 50,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-11T12:20:32.113623+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Blitzle #62 Pokemon Paradox Rift",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472932628",
-      "funnet": "2026-08-11T12:18:22.576537+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon kort (bilder kommer)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472932459",
-      "funnet": "2026-08-11T12:18:22.241541+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-11T12:18:21.914966+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Latios kort japansk holografisk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472932206",
-      "funnet": "2026-08-11T12:16:20.317259+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
