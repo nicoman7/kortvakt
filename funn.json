@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T07:16:23.768285+00:00",
+  "sist_sjekket": "2026-08-11T07:18:17.322202+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ Lapras v max/ Gigamax/ samleobjekt",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/385463262",
+      "funnet": "2026-08-11T07:18:17.320101+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472881278",
       "funnet": "2026-08-10T21:24:19.378723+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Cornerstone Mask Ogerpon Ex #216 - Pokemon Japansk",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472881405",
-      "funnet": "2026-08-10T21:24:18.898117+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
