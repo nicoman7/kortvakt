@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-11T13:12:22.028880+00:00",
+  "sist_sjekket": "2026-08-11T13:14:21.945147+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort Premier League",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464613756",
+      "funnet": "2026-08-11T13:14:21.943228+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Topps Match Attax Premier League samlekort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464612754",
+      "funnet": "2026-08-11T13:14:21.082162+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - 1996 Upper Deck",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472939368",
+      "funnet": "2026-08-11T13:14:20.632044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PANINI FIFA OFFICIAL STICKER COLLECTION VM 2026: bytte, kjøpe eller selge",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471723398",
+      "funnet": "2026-08-11T13:14:19.789099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - 2007 - Mysterious Treasure - base kort",
       "pris": 5,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-11T11:08:18.555406+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Seaking [Reverse] #21 Pokemon Prismatic Evolutions",
-      "pris": 14,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472923840",
-      "funnet": "2026-08-11T11:08:18.118105+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hjalmar Johannessen Trondheim NM Friidrett sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208077455",
-      "funnet": "2026-08-11T11:08:17.119272+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
-      "funnet": "2026-08-11T11:08:16.188037+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salamence Holo #10 Pokemon Dragon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472922723",
-      "funnet": "2026-08-11T11:06:21.108155+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
