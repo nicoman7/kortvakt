@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T19:22:18.651687+00:00",
+  "sist_sjekket": "2026-08-11T19:24:28.007570+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonsamling selges samlet",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472986771",
+      "funnet": "2026-08-11T19:24:28.005259+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome 25-26 UFC pakke!",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472972614",
       "funnet": "2026-08-11T17:32:21.828694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal samleobjekt fotballkort – David Seaman, Ian Wright m.fl.",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472972070",
-      "funnet": "2026-08-11T17:30:48.006981+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
