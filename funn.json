@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T21:32:19.683953+00:00",
+  "sist_sjekket": "2026-08-11T21:34:22.237697+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Neo Discovery Pokemon Cards selges enkeltvis",
+      "pris": 777,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445880964",
+      "funnet": "2026-08-11T21:34:22.236083+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hitmontop [Reverse Holo] #82 Pokemon Aquapolis",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/429318882",
+      "funnet": "2026-08-11T21:34:21.332528+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort/ 2024/ ny",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472985134",
       "funnet": "2026-08-11T18:58:17.771818+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lechonk holografisk",
-      "pris": 145,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472984836",
-      "funnet": "2026-08-11T18:56:35.087371+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select fotballkort Min-Hyuk Yang KFA",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472984164",
-      "funnet": "2026-08-11T18:52:26.333278+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
