@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T00:48:21.142363+00:00",
+  "sist_sjekket": "2026-08-11T00:50:34.385876+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Brilliant Stars Sleeved Booster Packs",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466125048",
+      "funnet": "2026-08-11T00:50:34.383894+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Plastbeskyttelse til Pokemon ETBs, Booster Box og Booster Bundles",
       "pris": 49,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472875033",
       "funnet": "2026-08-10T20:18:29.766558+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Brionne #19 Pokemon Pitch Black",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472874980",
-      "funnet": "2026-08-10T20:18:29.018610+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
