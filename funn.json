@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T13:52:16.189757+00:00",
+  "sist_sjekket": "2026-08-11T13:54:23.129049+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort. Kom med bud!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472943239",
+      "funnet": "2026-08-11T13:54:23.127206+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Rayquaza EX (123/124 Full Art) Pokémon kort - VURDERES SOLGT",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/196466352",
       "funnet": "2026-08-11T11:28:21.487715+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Totodile [Cosmos Holo] #41 Pokemon Ascended Heroes",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472926273",
-      "funnet": "2026-08-11T11:28:21.137316+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
