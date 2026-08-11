@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T00:56:23.288499+00:00",
+  "sist_sjekket": "2026-08-11T01:00:50.938605+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Chilling Reign ETB",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441399881",
+      "funnet": "2026-08-11T01:00:50.936784+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort Lost Origin 3 Pack Blister",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441396347",
+      "funnet": "2026-08-11T01:00:46.891852+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort Chilling Reign Booster Packs",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472875118",
       "funnet": "2026-08-10T20:20:30.945505+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Silvally 095/084 Illustration Rare (IR) Pitch Black NM",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472875200",
-      "funnet": "2026-08-10T20:20:30.123356+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Claydol 092/086 Illustration Rare (IR) Chaos Rising NM",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472874877",
-      "funnet": "2026-08-10T20:18:31.457213+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
