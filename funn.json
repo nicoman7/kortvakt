@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T00:52:15.200401+00:00",
+  "sist_sjekket": "2026-08-11T00:54:17.802884+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Silver Tempest Booster Packs",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466126891",
+      "funnet": "2026-08-11T00:54:17.801074+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort Astral Radiance ETB",
       "pris": 1900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472874818",
       "funnet": "2026-08-10T20:18:30.662820+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av 379 fotballkort i ny perm",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472874112",
-      "funnet": "2026-08-10T20:18:30.185779+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
