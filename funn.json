@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T20:58:19.482182+00:00",
+  "sist_sjekket": "2026-08-11T21:01:03.878789+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bundle",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472994516",
+      "funnet": "2026-08-11T21:01:03.876716+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Blastoise #2 Pokemon Base Set",
       "pris": 1850,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466623796",
       "funnet": "2026-08-11T18:28:15.799768+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pirates docking six rare foil One piece samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472980359",
-      "funnet": "2026-08-11T18:28:15.510416+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
