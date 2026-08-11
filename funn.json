@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T00:54:17.802884+00:00",
+  "sist_sjekket": "2026-08-11T00:56:23.288499+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Chilling Reign Booster Packs",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466126306",
+      "funnet": "2026-08-11T00:56:23.286598+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort Silver Tempest Booster Packs",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472874877",
       "funnet": "2026-08-10T20:18:31.457213+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Archaludon 107/142 - Promo - Stellar Crown Stamp - Cosmos Holo - Sealed",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472874818",
-      "funnet": "2026-08-10T20:18:30.662820+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
