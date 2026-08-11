@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T19:56:20.193064+00:00",
+  "sist_sjekket": "2026-08-11T19:58:19.155013+00:00",
   "funn": [
+    {
+      "tittel": "Pokort reservert jupsy",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472993301",
+      "funnet": "2026-08-11T19:58:19.152984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax UEFA Euro 2024 Pavel Nedvěd Legend-kort Czechia",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472976278",
       "funnet": "2026-08-11T18:06:28.488348+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort selges",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472975611",
-      "funnet": "2026-08-11T18:01:01.139423+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
