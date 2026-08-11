@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T06:02:15.183021+00:00",
+  "sist_sjekket": "2026-08-11T06:04:15.437024+00:00",
   "funn": [
+    {
+      "tittel": "Enorm Limited Edition samling selges",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472891623",
+      "funnet": "2026-08-11T06:04:15.435110+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Goldeen #13 Pokemon Pitch Black",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472892013",
+      "funnet": "2026-08-11T06:04:14.811994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Seaking #14 Pokemon Pitch Black",
       "pris": 3,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472877323",
       "funnet": "2026-08-10T20:38:28.289443+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort blandet bunke",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472877291",
-      "funnet": "2026-08-10T20:38:27.406875+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - HS Triumphant",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458858288",
-      "funnet": "2026-08-10T20:36:26.935948+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
