@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T12:50:28.489684+00:00",
+  "sist_sjekket": "2026-08-11T12:52:26.263114+00:00",
   "funn": [
+    {
+      "tittel": "Hotell  kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472936087",
+      "funnet": "2026-08-11T12:52:26.261552+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Teal Mask Ogerpon Illustration rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472936590",
+      "funnet": "2026-08-11T12:52:25.855964+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League 2026 samlemappe for trading cards",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-11T11:02:26.030075+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Martin Ødegaard Arsenal kort 72/399",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472922879",
-      "funnet": "2026-08-11T11:02:25.155556+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Haunter Reverse Holo Stamped #35 Pokemon Legend Maker",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472922584",
-      "funnet": "2026-08-11T11:02:24.362732+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
