@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-11T13:18:15.050714+00:00",
+  "sist_sjekket": "2026-08-11T13:20:28.106249+00:00",
   "funn": [
+    {
+      "tittel": "Kortstokk - M/S Kronprins Harald",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466777967",
+      "funnet": "2026-08-11T13:20:28.104099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon ball med 72 kort, mynt og boosterpack",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472939562",
+      "funnet": "2026-08-11T13:20:27.736956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Minun reverse holo",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472940204",
+      "funnet": "2026-08-11T13:20:26.848947+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 088/SVP – Scarlet & Violet Promo – Engelsk – NM",
       "pris": 500,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/280503217",
       "funnet": "2026-08-11T11:12:23.398067+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Conrad Hauge Torodd 110 meter hekk friidrett sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/219270662",
-      "funnet": "2026-08-11T11:10:26.359707+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Johannes Bognerud Ivar Gullhaugen 5000 meter friidrett sigarettkort 1934",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/280397602",
-      "funnet": "2026-08-11T11:10:26.051947+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Goldeen [Reverse Holo] #13 Pokemon Pitch Black",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472924039",
-      "funnet": "2026-08-11T11:10:25.765146+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
