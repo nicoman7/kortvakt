@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-11T21:38:17.256343+00:00",
+  "sist_sjekket": "2026-08-11T21:40:32.475449+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Articuno",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466795718",
+      "funnet": "2026-08-11T21:40:32.473722+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Kort Dragapult",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466795928",
+      "funnet": "2026-08-11T21:40:31.622953+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jakob Ingebritsen Russekort 2019",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473002601",
+      "funnet": "2026-08-11T21:40:30.757457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Neo Discovery Pokemon Cards selges enkeltvis",
       "pris": 777,
@@ -1174,30 +1198,6 @@
       "pris": 135,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472984505",
       "funnet": "2026-08-11T19:02:20.026654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kartestika fotballkort Messi plakat",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472985310",
-      "funnet": "2026-08-11T19:00:53.310902+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor Pokémon-pakke: 1 samleperm og masse kort og utstyr!",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472984421",
-      "funnet": "2026-08-11T19:00:52.657598+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort (bud)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472985134",
-      "funnet": "2026-08-11T18:58:17.771818+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
