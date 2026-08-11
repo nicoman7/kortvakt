@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T08:34:15.854887+00:00",
+  "sist_sjekket": "2026-08-11T08:36:20.437683+00:00",
   "funn": [
+    {
+      "tittel": "Johto - Pokemon First Partner",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472516734",
+      "funnet": "2026-08-11T08:36:20.435677+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "ca 450-500 bulk rare og mythics",
       "pris": 1050,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472883955",
       "funnet": "2026-08-10T22:02:15.365831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-08-10T21:58:24.240585+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
