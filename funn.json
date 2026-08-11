@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T16:40:25.239132+00:00",
+  "sist_sjekket": "2026-08-11T16:42:15.412849+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort og tilbehør",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472964793",
+      "funnet": "2026-08-11T16:42:15.411104+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-11T16:42:15.102186+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske Pokemon boosterpakker",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-11T13:54:23.127206+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rayquaza EX (123/124 Full Art) Pokémon kort - VURDERES SOLGT",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472941545",
-      "funnet": "2026-08-11T13:52:16.187793+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan basketballkort - Hoops 95/96",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472943390",
-      "funnet": "2026-08-11T13:48:23.706973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
