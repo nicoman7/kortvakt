@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T11:30:37.137385+00:00",
+  "sist_sjekket": "2026-08-11T11:32:24.476403+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon holos lot: Ninetales og Persian",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472926296",
+      "funnet": "2026-08-11T11:32:24.474370+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonsamlekort med Pikachu, Eevee, Snorlax, Electabuzz, Raichu, Charizard m.m.",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472881929",
+      "funnet": "2026-08-11T11:32:23.571370+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Stor bunke pokemon evolutions",
       "pris": 599,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472874811",
       "funnet": "2026-08-11T10:00:50.520628+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "LeBron James basketballkort - 2021/22 Donruss",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472915372",
-      "funnet": "2026-08-11T10:00:50.241241+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Latios #9 Pokemon Delta Species",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472875607",
-      "funnet": "2026-08-11T10:00:49.608389+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
