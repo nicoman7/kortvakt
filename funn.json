@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T12:56:24.336217+00:00",
+  "sist_sjekket": "2026-08-11T12:58:15.944614+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort selges!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466508218",
+      "funnet": "2026-08-11T12:58:15.942466+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort Reservert",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/246046445",
       "funnet": "2026-08-11T11:02:27.946833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eyvind Grundt Marsj Arild Sturla friidrett sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/206174686",
-      "funnet": "2026-08-11T11:02:27.578115+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
