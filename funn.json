@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T04:38:13.174258+00:00",
+  "sist_sjekket": "2026-08-11T04:40:26.222421+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/428518914",
+      "funnet": "2026-08-11T04:40:26.220652+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Pakke selges BILLIG",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472876504",
       "funnet": "2026-08-10T20:32:24.917954+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort blandet bunke",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472874805",
-      "funnet": "2026-08-10T20:30:48.926212+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
