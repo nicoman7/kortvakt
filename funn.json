@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-11T15:08:20.127706+00:00",
+  "sist_sjekket": "2026-08-11T15:10:28.894558+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/274192272",
+      "funnet": "2026-08-11T15:10:28.892708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Buggy leader alternate art One piece samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472952995",
+      "funnet": "2026-08-11T15:10:28.063578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Top Trumps Star Wars kortspill",
       "pris": 35,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472932407",
       "funnet": "2026-08-11T12:16:18.570995+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort-Vintage moderne",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472931506",
-      "funnet": "2026-08-11T12:14:27.146261+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Donruss Net Marvels Ferran Torres kort – Spain",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472931801",
-      "funnet": "2026-08-11T12:14:26.293752+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
