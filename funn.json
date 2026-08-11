@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-11T14:10:27.546666+00:00",
+  "sist_sjekket": "2026-08-11T14:12:21.304870+00:00",
   "funn": [
+    {
+      "tittel": "PSA-gradede Pokémon-kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472022022",
+      "funnet": "2026-08-11T14:12:21.303069+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Goldeen 087/084 - Illustration Rare (Pokémon-kort)",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
       "funnet": "2026-08-11T11:38:28.216145+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lombre 45/100 WCD (Michael Gonzalez) Pokémonkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472927059",
-      "funnet": "2026-08-11T11:36:24.490848+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
