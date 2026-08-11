@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-11T20:08:17.128552+00:00",
+  "sist_sjekket": "2026-08-11T20:10:25.828682+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling – ca 140-150kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472994303",
+      "funnet": "2026-08-11T20:10:25.826698+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Japanske Pokémonkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472993710",
+      "funnet": "2026-08-11T20:10:25.214655+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "RAYQUAZA EX DELTA SPECIES Set #13/113 Holo Foil Rare | MP",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472994518",
+      "funnet": "2026-08-11T20:10:24.505430+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort masse Pitch Black",
       "pris": 610,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-11T18:06:33.264896+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ketil Askildt Norgesmester Diskos sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208079665",
-      "funnet": "2026-08-11T18:06:32.477550+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jens Raabe 11 år Flouy Trav Bjerke sigarettkort 1929 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/246109411",
-      "funnet": "2026-08-11T18:06:31.675966+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "M. Glott sigarettkort diverse Westminster Adamson's opplevelser",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/204127705",
-      "funnet": "2026-08-11T18:06:30.837399+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
