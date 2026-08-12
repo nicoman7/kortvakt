@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T14:24:18.708588+00:00",
+  "sist_sjekket": "2026-08-12T14:26:27.252216+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Pokémon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473066933",
+      "funnet": "2026-08-12T14:26:27.250095+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: ex (inkl. Bloodmoon Ursaluna) - Japansk og engelsk!",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/432255409",
       "funnet": "2026-08-12T12:16:22.919990+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/432299090",
-      "funnet": "2026-08-12T12:16:22.488129+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
