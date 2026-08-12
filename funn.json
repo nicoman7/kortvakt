@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T00:54:27.379843+00:00",
+  "sist_sjekket": "2026-08-12T00:56:17.690166+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/268160623",
+      "funnet": "2026-08-12T00:56:17.688508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort pakke (50 stk) – Sun & Moon | Unbroken Bonds Glimmerkort & more",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472989673",
       "funnet": "2026-08-11T19:32:21.710456+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort GX/EX/V kortpakke",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472989919",
-      "funnet": "2026-08-11T19:32:20.982267+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
