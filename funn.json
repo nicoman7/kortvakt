@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-12T19:50:29.887208+00:00",
+  "sist_sjekket": "2026-08-12T19:52:21.694030+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling – limited edition og legender",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473107881",
+      "funnet": "2026-08-12T19:52:21.692339+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Houndoom og Houndour",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473107823",
+      "funnet": "2026-08-12T19:52:20.719584+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Iron Thorns SVP 098 Pokemon Promo",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473107788",
+      "funnet": "2026-08-12T19:52:20.294786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Cinderace Ex SVP 163 Pokemon Promo",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473107870",
+      "funnet": "2026-08-12T19:52:19.778018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nummerert fotballkort av Leandro Paredes i Juventus drakt /125",
       "pris": 50,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-12T17:42:23.178957+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - perfect order",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473090108",
-      "funnet": "2026-08-12T17:40:26.236954+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Walrein #6 Pokemon Team Magma & Team Aqua HOLO",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473090379",
-      "funnet": "2026-08-12T17:40:25.445189+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort blandet bunke",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473090798",
-      "funnet": "2026-08-12T17:40:25.082010+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ampharos holo (2005) (Høyeste bud får kortet)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473090102",
-      "funnet": "2026-08-12T17:38:17.681439+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
