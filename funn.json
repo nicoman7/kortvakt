@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-12T12:36:19.176473+00:00",
+  "sist_sjekket": "2026-08-12T12:38:16.148348+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling 2020-2024",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473053934",
+      "funnet": "2026-08-12T12:38:16.146072+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Charizard ex",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473053259",
+      "funnet": "2026-08-12T12:38:15.508754+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Secret Wonders - Pakke",
+      "pris": 239,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473054103",
+      "funnet": "2026-08-12T12:38:15.131963+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Rising Rivals Pakke",
       "pris": 199,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473032781",
       "funnet": "2026-08-12T09:42:17.767909+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Muk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032996",
-      "funnet": "2026-08-12T09:42:16.959033+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Gold Bundesliga 25-26 pakke",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032702",
-      "funnet": "2026-08-12T09:40:26.955295+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Seel holografisk samlekort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032743",
-      "funnet": "2026-08-12T09:40:26.349031+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
