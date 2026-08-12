@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T13:28:27.520467+00:00",
+  "sist_sjekket": "2026-08-12T13:30:43.576218+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-12T13:30:43.574219+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Charizard Vmax SV107/SV122 CGC 9.5",
       "pris": 1899,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473047623",
       "funnet": "2026-08-12T11:46:25.312712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Excadrill Ex #065 Pitch Black",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473047816",
-      "funnet": "2026-08-12T11:46:24.414754+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
