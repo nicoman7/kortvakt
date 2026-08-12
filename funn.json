@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T15:06:18.429052+00:00",
+  "sist_sjekket": "2026-08-12T15:08:17.606636+00:00",
   "funn": [
+    {
+      "tittel": "Call of Legends Pokémonkort m/ prisliste",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472248277",
+      "funnet": "2026-08-12T15:08:17.604550+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Abyss Eye Japansk Display Booster Box",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473071457",
+      "funnet": "2026-08-12T15:08:16.959453+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort blandet 24 stk.",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466822746",
       "funnet": "2026-08-12T12:50:26.176360+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Single Strike Urshifu VMAX",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466821990",
-      "funnet": "2026-08-12T12:50:25.550301+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Corviknight",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466821832",
-      "funnet": "2026-08-12T12:50:25.198206+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
