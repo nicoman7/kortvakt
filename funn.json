@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-12T20:56:20.220293+00:00",
+  "sist_sjekket": "2026-08-12T20:58:19.984572+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu V SWSH063 - F/A Promo - NM",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472942671",
+      "funnet": "2026-08-12T20:58:19.982800+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Temporal Forces - Walking Wake ex 189/162",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473114020",
+      "funnet": "2026-08-12T20:58:19.051175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Donruss The Beautiful Game Kristian Thorstvedt autofrag fotballkort 95/99",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473114442",
+      "funnet": "2026-08-12T20:58:18.164219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Perfect Order - Tarragon 116/088",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473114009",
+      "funnet": "2026-08-12T20:58:17.718122+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 28/73 - Reverse Holo - NM",
       "pris": 125,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-12T18:46:17.295110+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu TG05",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466698789",
-      "funnet": "2026-08-12T18:46:16.598542+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Collect 151 Journey Kinesisk Jumbo Booster Box selges!",
-      "pris": 1949,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473098978",
-      "funnet": "2026-08-12T18:46:15.982852+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON DECK SLEEVES",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/428033535",
-      "funnet": "2026-08-12T18:46:15.697763+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473098862",
-      "funnet": "2026-08-12T18:44:19.238722+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
