@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T20:02:17.493911+00:00",
+  "sist_sjekket": "2026-08-12T20:04:16.494980+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon cards / Kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473106658",
+      "funnet": "2026-08-12T20:04:16.492622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "BTS Album Photocards",
       "pris": 80,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473090969",
       "funnet": "2026-08-12T17:42:25.769449+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Yerry Mina samlekort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473091132",
-      "funnet": "2026-08-12T17:42:25.328240+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
