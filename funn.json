@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T18:42:16.381279+00:00",
+  "sist_sjekket": "2026-08-12T18:44:19.240798+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473098862",
+      "funnet": "2026-08-12T18:44:19.238722+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samleperm med 132 kort",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473076282",
       "funnet": "2026-08-12T15:44:16.521413+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Victini Jumbo kort holografisk kort SVP 208",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466886901",
-      "funnet": "2026-08-12T15:44:16.195053+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
