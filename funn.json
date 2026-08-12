@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T20:08:19.336843+00:00",
+  "sist_sjekket": "2026-08-12T20:10:29.255645+00:00",
   "funn": [
+    {
+      "tittel": "Forballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473109641",
+      "funnet": "2026-08-12T20:10:29.253525+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T17:48:16.396767+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA 365 Fernando Spartak Moskva kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473091781",
-      "funnet": "2026-08-12T17:48:15.751941+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
