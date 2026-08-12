@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T05:16:20.383079+00:00",
+  "sist_sjekket": "2026-08-12T05:18:18.918173+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473010152",
+      "funnet": "2026-08-12T05:18:18.915969+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samle fotball kort",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472991614",
       "funnet": "2026-08-11T19:46:15.347396+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Raticate #202- Pokemon",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472991776",
-      "funnet": "2026-08-11T19:46:14.744714+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
