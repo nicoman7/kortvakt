@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T20:12:16.280106+00:00",
+  "sist_sjekket": "2026-08-12T20:14:17.914164+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – blandede kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473109960",
+      "funnet": "2026-08-12T20:14:17.912269+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort til salgs",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/386790038",
+      "funnet": "2026-08-12T20:14:17.173885+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – bunke trenings- og itemkort",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473091609",
       "funnet": "2026-08-12T17:48:18.529615+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Serdar Tasci samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473091693",
-      "funnet": "2026-08-12T17:48:17.843123+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Zé Luis Spartak Moskva samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473091906",
-      "funnet": "2026-08-12T17:48:17.170877+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
