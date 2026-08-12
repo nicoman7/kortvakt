@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T18:56:24.351013+00:00",
+  "sist_sjekket": "2026-08-12T18:58:17.518793+00:00",
   "funn": [
+    {
+      "tittel": "Bundle - Nummerte fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472515171",
+      "funnet": "2026-08-12T18:58:17.516791+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard ex 6/165",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T16:02:15.844455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort (Koreansk) Kan kjøpe alle samlet for 185KR (Kan komme med bud:)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463309666",
-      "funnet": "2026-08-12T16:00:52.144316+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
