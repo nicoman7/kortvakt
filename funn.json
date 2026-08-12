@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T09:18:20.274757+00:00",
+  "sist_sjekket": "2026-08-12T09:20:27.938097+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bokser",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473030057",
+      "funnet": "2026-08-12T09:20:27.936285+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Blaziken VMAX Full Art",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473016451",
       "funnet": "2026-08-12T07:02:20.645489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473015301",
-      "funnet": "2026-08-12T06:58:29.442283+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
