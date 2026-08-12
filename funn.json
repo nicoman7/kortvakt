@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T20:10:29.255645+00:00",
+  "sist_sjekket": "2026-08-12T20:12:16.280106+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – bunke trenings- og itemkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473109687",
+      "funnet": "2026-08-12T20:12:16.278062+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Forballkort",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T17:48:17.170877+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar holografisk kort (2007) (Høyeste bud får kortet)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473091379",
-      "funnet": "2026-08-12T17:48:16.396767+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
