@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T17:02:18.296743+00:00",
+  "sist_sjekket": "2026-08-12T17:04:18.204237+00:00",
   "funn": [
+    {
+      "tittel": "Eske med fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/391309076",
+      "funnet": "2026-08-12T17:04:18.201957+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Official Trading Cards 2026 samlekort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 950,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473060046",
       "funnet": "2026-08-12T14:08:18.801714+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jujutsu kaisen samlekort japansk union arena",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/411778487",
-      "funnet": "2026-08-12T14:06:20.684154+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
