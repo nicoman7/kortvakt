@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T16:26:20.331252+00:00",
+  "sist_sjekket": "2026-08-12T16:28:18.724407+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – eevee utvikler",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473081683",
+      "funnet": "2026-08-12T16:28:18.722653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Illustration Collection Series 1 og 2 samlebokser",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T13:32:18.716689+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-12T13:30:43.574219+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
