@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T12:30:39.234163+00:00",
+  "sist_sjekket": "2026-08-12T12:32:20.420336+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Majestic Dawn Pakke",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473053245",
+      "funnet": "2026-08-12T12:32:20.418308+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Topps, pokemonkort og Lenticular",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473032573",
       "funnet": "2026-08-12T09:38:22.228476+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Gold UCC 25-26 pakke",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032291",
-      "funnet": "2026-08-12T09:36:22.373330+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
