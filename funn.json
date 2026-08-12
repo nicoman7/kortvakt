@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-12T20:54:19.369132+00:00",
+  "sist_sjekket": "2026-08-12T20:56:20.220293+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 28/73 - Reverse Holo - NM",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472942318",
+      "funnet": "2026-08-12T20:56:20.218423+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Pitch Black - Manectric 089/084",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473114036",
+      "funnet": "2026-08-12T20:56:19.347694+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Temporal Forces - Iron Boulder ex 192/162",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473114066",
+      "funnet": "2026-08-12T20:56:18.908840+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Muk #28 Pokemon Fossil",
       "pris": 150,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-12T18:44:19.238722+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samleperm med 132 kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473097435",
-      "funnet": "2026-08-12T18:40:27.232897+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/255981461",
-      "funnet": "2026-08-12T18:38:18.691942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gabriel Martinelli Project 22 fotballkort",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/299698358",
-      "funnet": "2026-08-12T18:38:18.275172+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
