@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T01:54:19.681169+00:00",
+  "sist_sjekket": "2026-08-12T01:56:21.003189+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL fotballkort landslag – samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473008115",
+      "funnet": "2026-08-12T01:56:21.001514+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-11T19:32:22.711635+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mega EX Gyarados",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462398167",
-      "funnet": "2026-08-11T19:32:22.030323+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
