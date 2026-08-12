@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T19:58:15.396012+00:00",
+  "sist_sjekket": "2026-08-12T20:01:00.141410+00:00",
   "funn": [
+    {
+      "tittel": "BTS Album Photocards",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473107166",
+      "funnet": "2026-08-12T20:01:00.139849+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Terapagos Ex SVP 165 Pokemon Promo",
       "pris": 45,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T17:42:25.328240+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japanske diverse pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473090762",
-      "funnet": "2026-08-12T17:42:24.460969+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
