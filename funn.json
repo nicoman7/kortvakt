@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T17:32:18.699248+00:00",
+  "sist_sjekket": "2026-08-12T17:34:19.415228+00:00",
   "funn": [
+    {
+      "tittel": "Kinesisk diverse pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473089505",
+      "funnet": "2026-08-12T17:34:19.413318+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "12  telekort-10 fra Venezuela og 2 fra Chile",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/403547675",
+      "funnet": "2026-08-12T17:34:19.029253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Medicham V Rapid Strike",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472388103",
       "funnet": "2026-08-12T14:24:17.703592+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Bulbasaur samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473066252",
-      "funnet": "2026-08-12T14:22:31.737212+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Victreebel, Gengar (japansk), Lapras m.fl.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473064473",
-      "funnet": "2026-08-12T14:22:31.336332+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
