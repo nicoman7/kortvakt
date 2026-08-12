@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T07:26:20.598550+00:00",
+  "sist_sjekket": "2026-08-12T07:28:19.582282+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473018430",
+      "funnet": "2026-08-12T07:28:19.579969+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort, Gengar.",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472997476",
       "funnet": "2026-08-11T20:38:17.622455+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 10 Pokémon Clefairy japansk holo samle kort PSA 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472997905",
-      "funnet": "2026-08-11T20:38:16.881623+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
