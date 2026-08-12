@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T09:02:25.520795+00:00",
+  "sist_sjekket": "2026-08-12T09:04:15.195224+00:00",
   "funn": [
+    {
+      "tittel": "Disney The Nightmare Before Christmas kortstokk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473028263",
+      "funnet": "2026-08-12T09:04:15.193183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Jolteon ex fra chinesisk prismatic evolutions sar 209/187",
       "pris": 375,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466829888",
       "funnet": "2026-08-12T06:40:29.529782+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort LP-HP",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465104905",
-      "funnet": "2026-08-12T06:38:23.608272+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
