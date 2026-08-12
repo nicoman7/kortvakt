@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T06:06:16.268794+00:00",
+  "sist_sjekket": "2026-08-12T06:08:20.248934+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort bulk",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466819177",
+      "funnet": "2026-08-12T06:08:20.247261+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-11T19:50:26.975116+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort kom med bud",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472992202",
-      "funnet": "2026-08-11T19:50:25.944696+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
