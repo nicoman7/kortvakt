@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T10:12:23.662984+00:00",
+  "sist_sjekket": "2026-08-12T10:14:18.639823+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort EX / GX samlekort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473036309",
+      "funnet": "2026-08-12T10:14:18.637971+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Premier League «Festive Freeze»-fotballkort lot!",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/326090365",
       "funnet": "2026-08-12T08:04:19.747125+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Platon Ippolitoff Russland skøyter sigarettkort 1930 Tiedemanns Tobak!",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/206174199",
-      "funnet": "2026-08-12T08:04:19.355319+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
