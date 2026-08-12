@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-12T14:12:18.093457+00:00",
+  "sist_sjekket": "2026-08-12T14:14:18.243338+00:00",
   "funn": [
+    {
+      "tittel": "Charizard VStar japansk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473065488",
+      "funnet": "2026-08-12T14:14:18.241370+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Diverse Magic the gathering (mtg) kort",
+      "pris": 880,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473064799",
+      "funnet": "2026-08-12T14:14:17.724852+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling (vintage og nytt)",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473065084",
+      "funnet": "2026-08-12T14:14:17.278139+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-samling: Eevee & Eeveelutions samleside (inkl. Umbreon V Promo)",
       "pris": 350,
@@ -1174,30 +1198,6 @@
       "pris": 85,
       "lenke": "https://www.finn.no/recommerce/forsale/item/459871071",
       "funnet": "2026-08-12T12:08:17.419156+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps kort Pikachu-Raychu-Pichu - sjelden mulighet",
-      "pris": 1175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/441602052",
-      "funnet": "2026-08-12T12:08:17.148377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Tyrantrum samlekort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459858972",
-      "funnet": "2026-08-12T12:08:16.526071+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SALG! KUN 119kr - Våre Populære Pokemon Mystery Packs! Garanterte hits!",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
-      "funnet": "2026-08-12T12:08:15.899539+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
