@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T14:38:18.960420+00:00",
+  "sist_sjekket": "2026-08-12T14:40:27.868561+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – 11 kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473068586",
+      "funnet": "2026-08-12T14:40:27.866676+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Pikachu «Burgerchu» 020/M-P McDonald’s – PSA 9",
+      "pris": 490,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473068482",
+      "funnet": "2026-08-12T14:40:26.865412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Mega Evolution Chaos Rising Elite Trainer Box med plastdeksel",
       "pris": 1299,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473053934",
       "funnet": "2026-08-12T12:38:16.146072+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Charizard ex",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473053259",
-      "funnet": "2026-08-12T12:38:15.508754+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Secret Wonders - Pakke",
-      "pris": 239,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473054103",
-      "funnet": "2026-08-12T12:38:15.131963+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
