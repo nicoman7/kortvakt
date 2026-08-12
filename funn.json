@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-12T17:36:18.212042+00:00",
+  "sist_sjekket": "2026-08-12T17:38:17.683277+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Ampharos holo (2005) (Høyeste bud får kortet)",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473090102",
+      "funnet": "2026-08-12T17:38:17.681439+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort av Erling Braut Haaland",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/392556472",
+      "funnet": "2026-08-12T17:38:17.278864+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 09/08",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-08-12T17:38:16.936097+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort i eske",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473067172",
       "funnet": "2026-08-12T14:32:16.629339+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor Pokémon V-lot: 12 unike V-kort samlet (inkl. Charizard & Zacian)",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473066824",
-      "funnet": "2026-08-12T14:28:15.914133+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
-      "funnet": "2026-08-12T14:28:15.558910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473066933",
-      "funnet": "2026-08-12T14:26:27.250095+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
