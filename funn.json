@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T15:38:59.124367+00:00",
+  "sist_sjekket": "2026-08-12T15:40:26.718794+00:00",
   "funn": [
+    {
+      "tittel": "Premier League fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466054026",
+      "funnet": "2026-08-12T15:40:26.716587+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eevee samlekort 12 forskjellige",
       "pris": 349,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473057216",
       "funnet": "2026-08-12T13:04:21.381917+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Area Zero Underdepths",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466777517",
-      "funnet": "2026-08-12T13:04:20.969577+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
