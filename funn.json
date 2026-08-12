@@ -1,6 +1,62 @@
 {
-  "sist_sjekket": "2026-08-12T12:44:27.769297+00:00",
+  "sist_sjekket": "2026-08-12T12:46:23.051978+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Spiritomb",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466835127",
+      "funnet": "2026-08-12T12:46:23.050000+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NM Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/415242893",
+      "funnet": "2026-08-12T12:46:22.573492+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "topps 1995 baseball kort selges",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473054820",
+      "funnet": "2026-08-12T12:46:22.218104+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Espeon EX Delta Species holo PSA 5",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473054851",
+      "funnet": "2026-08-12T12:46:21.397151+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Solrock",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466834766",
+      "funnet": "2026-08-12T12:46:20.995873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Garchomp EX",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466834270",
+      "funnet": "2026-08-12T12:46:20.273426+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Flaaffy",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466781017",
+      "funnet": "2026-08-12T12:46:19.391297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Diamond and Pearl - Pakke",
       "pris": 299,
@@ -1143,62 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473034896",
       "funnet": "2026-08-12T10:02:19.736778+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kangaskhan samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473035012",
-      "funnet": "2026-08-12T10:00:50.822864+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Dark Celebi",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473034555",
-      "funnet": "2026-08-12T09:58:17.972641+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lapras holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473034268",
-      "funnet": "2026-08-12T09:54:22.796238+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rillaboom VMAX Rapid Strike holo",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473034165",
-      "funnet": "2026-08-12T09:52:24.434363+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo holo",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473034118",
-      "funnet": "2026-08-12T09:52:23.614900+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Selges!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473033906",
-      "funnet": "2026-08-12T09:52:23.181385+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ninetales holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473033909",
-      "funnet": "2026-08-12T09:50:27.743156+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
