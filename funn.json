@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-12T06:56:21.852033+00:00",
+  "sist_sjekket": "2026-08-12T06:58:29.444234+00:00",
   "funn": [
+    {
+      "tittel": "Topps Kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473015301",
+      "funnet": "2026-08-12T06:58:29.442283+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – EX, GX, Pikachu, Charizard.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473016081",
+      "funnet": "2026-08-12T06:58:29.062913+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Johto Topps Kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473016271",
+      "funnet": "2026-08-12T06:58:28.130217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "BRIGITTE BARDOT - SAMLEKORT/FILMSTJERNER",
       "pris": 400,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472993414",
       "funnet": "2026-08-11T20:24:24.065263+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Finest 2021/22 Lionel Messi PSA9",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472995762",
-      "funnet": "2026-08-11T20:20:26.175643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472995870",
-      "funnet": "2026-08-11T20:20:25.551451+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – blandet lot med holo og GX/V-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464149797",
-      "funnet": "2026-08-11T20:20:24.801162+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
