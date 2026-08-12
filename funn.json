@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T12:34:19.073289+00:00",
+  "sist_sjekket": "2026-08-12T12:36:19.176473+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Rising Rivals Pakke",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473053832",
+      "funnet": "2026-08-12T12:36:19.174553+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokemon samling",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473053099",
+      "funnet": "2026-08-12T12:36:18.757183+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Majestic Dawn Pakke",
       "pris": 99,
@@ -1182,22 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473032743",
       "funnet": "2026-08-12T09:40:26.349031+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering kort blandet lot",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032285",
-      "funnet": "2026-08-12T09:40:25.896299+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Magneton holografisk",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473032573",
-      "funnet": "2026-08-12T09:38:22.228476+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
