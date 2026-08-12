@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T19:16:19.828197+00:00",
+  "sist_sjekket": "2026-08-12T19:18:19.158874+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473103594",
+      "funnet": "2026-08-12T19:18:19.156637+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Metapod #11 Pokemon Japanese Scarlet & Violet 151",
       "pris": 18,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/438124617",
       "funnet": "2026-08-12T16:50:26.202352+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nintendo Game Boy spill Pokemon Crystal Version + Pokemon kort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473084278",
-      "funnet": "2026-08-12T16:48:16.923966+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
