@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-12T07:16:25.867837+00:00",
+  "sist_sjekket": "2026-08-12T07:18:18.168444+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon produkter",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373355664",
+      "funnet": "2026-08-12T07:18:18.166257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Umbreon ex PSA 10",
       "pris": 1700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472997727",
       "funnet": "2026-08-11T20:38:16.565080+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
-      "funnet": "2026-08-11T20:38:15.848352+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
