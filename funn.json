@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-12T13:40:24.811695+00:00",
+  "sist_sjekket": "2026-08-12T13:42:15.590908+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Pokemon Generations (Høyest Bud Vinner!)",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473061523",
+      "funnet": "2026-08-12T13:42:15.588851+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Krookodile EX kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473061424",
+      "funnet": "2026-08-12T13:42:15.307263+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kinesiske hits",
       "pris": 45,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/447570321",
       "funnet": "2026-08-12T11:50:26.030067+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "fotballkort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447570603",
-      "funnet": "2026-08-12T11:50:25.682771+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – blandet lot med holo og GX/V-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464149797",
-      "funnet": "2026-08-12T11:50:24.956955+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
