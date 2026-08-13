@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-13T17:54:15.480813+00:00",
+  "sist_sjekket": "2026-08-13T17:56:20.668124+00:00",
   "funn": [
+    {
+      "tittel": "Riftbound Rare/Epic/altart/Promo Vendetta / Spiritforge og Origins",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473204317",
+      "funnet": "2026-08-13T17:56:20.666335+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Selger/bytter fotballkort Panini Adrenalyn XL FIFA World Cup 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473198372",
+      "funnet": "2026-08-13T17:56:20.285135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Krookodile EX holografisk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473204728",
+      "funnet": "2026-08-13T17:56:19.468702+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Diancie",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466911952",
       "funnet": "2026-08-13T15:18:17.772799+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Black panter 60 years samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473184743",
-      "funnet": "2026-08-13T15:18:17.331654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Loki fanfare refractor samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473184535",
-      "funnet": "2026-08-13T15:16:17.495793+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Pokemon samlekort Toploaders (25 stk)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466912146",
-      "funnet": "2026-08-13T15:16:16.925077+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
