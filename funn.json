@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T20:00:56.887165+00:00",
+  "sist_sjekket": "2026-08-13T20:02:18.456992+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-13T20:02:18.455295+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Rosa's Encouragement Trainer full art",
       "pris": 85,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457839514",
       "funnet": "2026-08-13T17:58:21.329493+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon album x 2",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473204539",
-      "funnet": "2026-08-13T17:58:21.002460+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
