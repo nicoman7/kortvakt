@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T00:02:15.109907+00:00",
+  "sist_sjekket": "2026-08-13T00:04:14.679595+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-08-13T00:04:14.677406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
       "pris": 4,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T21:56:22.901289+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Alakazam EX(KOM MED BUD)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473117853",
-      "funnet": "2026-08-12T21:56:22.480838+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
