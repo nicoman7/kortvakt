@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T20:08:20.731275+00:00",
+  "sist_sjekket": "2026-08-13T20:10:27.045152+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Houndoom 12/144",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473222468",
+      "funnet": "2026-08-13T20:10:27.043411+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort- Dramanitan 098/086 Black bolt",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473222671",
+      "funnet": "2026-08-13T20:10:26.610676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon trainer full art bundle",
       "pris": 70,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473206102",
       "funnet": "2026-08-13T18:04:18.206497+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473203379",
-      "funnet": "2026-08-13T18:02:20.930824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Noibat holografisk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473206058",
-      "funnet": "2026-08-13T18:02:20.103831+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
