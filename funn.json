@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T13:58:27.501847+00:00",
+  "sist_sjekket": "2026-08-13T14:00:57.039710+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Gardevoir",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473176364",
+      "funnet": "2026-08-13T14:00:57.037930+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Slowking Sticker Kort #8",
       "pris": 125,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473150517",
       "funnet": "2026-08-13T10:14:15.779676+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Bastiodon og Manectric- pitch black",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473150619",
-      "funnet": "2026-08-13T10:12:18.299133+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
