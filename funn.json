@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T11:02:17.070221+00:00",
+  "sist_sjekket": "2026-08-13T11:04:15.272441+00:00",
   "funn": [
+    {
+      "tittel": "Carsten Johansen Skeid Eik Tønsberg Moss FK fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/393646080",
+      "funnet": "2026-08-13T11:04:15.270369+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stub Wiberg skuespiller M. Glott Marmara sigarettkort ca 1930",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473140224",
       "funnet": "2026-08-13T08:44:19.365829+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flapple #001 Pokemon Chinese CSGC",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473140551",
-      "funnet": "2026-08-13T08:44:18.288143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
