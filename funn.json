@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-13T19:24:14.377870+00:00",
+  "sist_sjekket": "2026-08-13T19:26:19.427591+00:00",
   "funn": [
+    {
+      "tittel": "Samling med Messi fotballkort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473217056",
+      "funnet": "2026-08-13T19:26:19.425805+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort til salgs! Masse kort til FASTPRIS",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467038583",
+      "funnet": "2026-08-13T19:26:18.480670+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Meloetta EX",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473217213",
+      "funnet": "2026-08-13T19:26:17.503394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mystery Pack – 30 kort, garantert hit + boostersjanse",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
+      "funnet": "2026-08-13T19:26:17.090910+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boa Hancock SR alternate art One piece samlekort",
       "pris": 400,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-13T17:22:19.292824+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM 2026 Extra Sticker Lamine Yamal",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473200391",
-      "funnet": "2026-08-13T17:22:18.330692+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard promo selges",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473199769",
-      "funnet": "2026-08-13T17:20:27.289270+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Manectric EX Mega Evolution ultra rare 158/132",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473200472",
-      "funnet": "2026-08-13T17:20:26.874081+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort, selges til høystbydende.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473200193",
-      "funnet": "2026-08-13T17:20:26.392604+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
