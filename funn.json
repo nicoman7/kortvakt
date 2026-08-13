@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T20:30:42.976740+00:00",
+  "sist_sjekket": "2026-08-13T20:32:21.012119+00:00",
   "funn": [
+    {
+      "tittel": "Ca 500 fotballkort til salgs",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473224805",
+      "funnet": "2026-08-13T20:32:21.010430+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonperm fra 90 tidlig 2000 tallet selges",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473209636",
       "funnet": "2026-08-13T18:28:19.611047+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mew ex holo",
-      "pris": 169,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473209441",
-      "funnet": "2026-08-13T18:26:20.663353+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
