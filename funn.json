@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T11:14:16.771041+00:00",
+  "sist_sjekket": "2026-08-13T11:16:26.499660+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473157904",
+      "funnet": "2026-08-13T11:16:26.497550+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PANINI FIFA OFFICIAL STICKER COLLECTION VM 2026: bytte, kjøpe eller selge",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473141155",
       "funnet": "2026-08-13T08:48:19.609344+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473140623",
-      "funnet": "2026-08-13T08:48:19.070578+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
