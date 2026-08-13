@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T19:42:19.672992+00:00",
+  "sist_sjekket": "2026-08-13T19:44:27.861602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort gullkort 3 stk",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473219620",
+      "funnet": "2026-08-13T19:44:27.859782+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup samlekort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473219183",
+      "funnet": "2026-08-13T19:44:27.367180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – holo og vanlige kort",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473202163",
       "funnet": "2026-08-13T17:34:18.671496+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ca 1000+ kort fra Magic the Gathering",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473202221",
-      "funnet": "2026-08-13T17:34:17.628325+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Sylveon GX kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473201927",
-      "funnet": "2026-08-13T17:34:17.176533+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
