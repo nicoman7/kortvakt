@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T13:46:18.510229+00:00",
+  "sist_sjekket": "2026-08-13T13:48:23.443146+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-13T13:48:23.441205+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 136,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473149301",
       "funnet": "2026-08-13T10:06:18.214283+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Lionel Messi Argentina",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473149624",
-      "funnet": "2026-08-13T10:06:17.924458+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
