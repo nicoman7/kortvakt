@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T15:38:23.775402+00:00",
+  "sist_sjekket": "2026-08-13T15:40:37.443767+00:00",
   "funn": [
+    {
+      "tittel": "Telekort fransk 120 U",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/243191782",
+      "funnet": "2026-08-13T15:40:37.441782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn XL Limited Edition kort Barcelona",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473187324",
+      "funnet": "2026-08-13T15:40:36.659467+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA World Cup kort selges (evt byttes bort)",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473166292",
       "funnet": "2026-08-13T12:28:16.972315+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort i gull",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459659113",
-      "funnet": "2026-08-13T12:26:16.283688+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Vitality 111/084 Ultra Rare Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473166073",
-      "funnet": "2026-08-13T12:26:15.505433+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
