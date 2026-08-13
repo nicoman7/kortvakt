@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T19:56:21.311477+00:00",
+  "sist_sjekket": "2026-08-13T19:58:18.915054+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Kun hits",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473221078",
+      "funnet": "2026-08-13T19:58:18.913040+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-Kort Samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473219629",
+      "funnet": "2026-08-13T19:58:18.621432+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort Destined Rivals (Reservert)",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473204209",
       "funnet": "2026-08-13T17:48:17.084672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
-      "funnet": "2026-08-13T17:48:16.661269+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1st Edition Pokémon Topps Johto Series 3 pakke - SEALED",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473203263",
-      "funnet": "2026-08-13T17:44:21.822391+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
