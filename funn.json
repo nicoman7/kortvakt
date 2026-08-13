@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T05:34:13.293422+00:00",
+  "sist_sjekket": "2026-08-13T05:36:24.741079+00:00",
   "funn": [
+    {
+      "tittel": "Mangen pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473124696",
+      "funnet": "2026-08-13T05:36:24.739313+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Telekort",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/368274102",
       "funnet": "2026-08-12T22:10:31.041579+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Monty Gum VM i fotball 1978 104 stk ulike selges samlet fotballkort World Cup 78",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379364850",
-      "funnet": "2026-08-12T22:10:30.696166+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
