@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T14:58:19.058231+00:00",
+  "sist_sjekket": "2026-08-13T15:00:55.700455+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mew EX holo",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473182789",
+      "funnet": "2026-08-13T15:00:55.698702+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Aespa Ningning album fotokort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399454930",
+      "funnet": "2026-08-13T15:00:54.873955+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Snubbull reverse holo Komiya",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-13T11:24:21.407902+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard V SWSH260 CGC 8,5",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473157860",
-      "funnet": "2026-08-13T11:20:28.695189+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465879091",
-      "funnet": "2026-08-13T11:20:28.061279+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
