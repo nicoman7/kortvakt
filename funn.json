@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T03:56:17.033510+00:00",
+  "sist_sjekket": "2026-08-13T03:58:17.249688+00:00",
   "funn": [
+    {
+      "tittel": "Se og hør kjendis kortstokk. Komplett og ubrukt",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459916773",
+      "funnet": "2026-08-13T03:58:17.247596+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Gardevoir EX Premium Poster Collection kortboks",
       "pris": 1999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T22:00:46.290185+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mystery Pack – 30 kort, garantert hit + boostersjanse",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/367408937",
-      "funnet": "2026-08-12T21:58:18.995995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
