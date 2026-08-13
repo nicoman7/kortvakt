@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T19:40:28.749589+00:00",
+  "sist_sjekket": "2026-08-13T19:42:19.672992+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – holo og vanlige kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473219471",
+      "funnet": "2026-08-13T19:42:19.670955+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu 50/149 fra Boundaries Crossed",
       "pris": 35,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473201927",
       "funnet": "2026-08-13T17:34:17.176533+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm FIFA World Cup 2026 samlekort bokser",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473201870",
-      "funnet": "2026-08-13T17:32:30.266657+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
