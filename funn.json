@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T13:44:16.342663+00:00",
+  "sist_sjekket": "2026-08-13T13:46:18.510229+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 136,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473174968",
+      "funnet": "2026-08-13T13:46:18.508020+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Arceus VSTAR 280 HP",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473149624",
       "funnet": "2026-08-13T10:06:17.924458+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ivar Sommervold Rosenborg RBK 1984 Fotballkort Fotballklistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333190880",
-      "funnet": "2026-08-13T10:06:17.291072+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
