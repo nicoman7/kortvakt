@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T11:58:23.687493+00:00",
+  "sist_sjekket": "2026-08-13T12:00:51.740817+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort bulk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459919856",
+      "funnet": "2026-08-13T12:00:51.738734+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort til Thea",
+      "pris": 285,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473163302",
+      "funnet": "2026-08-13T12:00:50.803738+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Arceus V samleboks kort",
       "pris": 1800,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473143846",
       "funnet": "2026-08-13T09:14:24.609105+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Karl Granli Jevnaker Spyd friidrett sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208078195",
-      "funnet": "2026-08-13T09:10:22.637059+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thomas Michelsen Skeid SK Lyn fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393646196",
-      "funnet": "2026-08-13T09:08:20.047299+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
