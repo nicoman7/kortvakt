@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T05:04:14.857044+00:00",
+  "sist_sjekket": "2026-08-13T05:06:25.916492+00:00",
   "funn": [
+    {
+      "tittel": "Selger en STOR pakke fra Panini Top Class (Haaland, Salah og Son m.f)",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473123420",
+      "funnet": "2026-08-13T05:06:25.914599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Antonio nusa fifa select terrace /15 fotballkort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/239092204",
       "funnet": "2026-08-12T22:00:48.883681+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stavanger Idrettsforening Viking Petter Ravn Tiedemanns fotballkort x 2 1931",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/239092391",
-      "funnet": "2026-08-12T22:00:48.609516+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
