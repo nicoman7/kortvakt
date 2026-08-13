@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T23:54:20.119205+00:00",
+  "sist_sjekket": "2026-08-13T23:56:16.544511+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort EX / holo miks",
+      "pris": 1460,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473234635",
+      "funnet": "2026-08-13T23:56:16.542529+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nummerert Topps Chrome Bundesliga Nico Schlotterbeck kort Borussia Dortmund",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473216979",
       "funnet": "2026-08-13T19:22:20.284962+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort - Houndoom #12",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473215631",
-      "funnet": "2026-08-13T19:22:19.380981+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
