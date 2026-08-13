@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T17:56:20.668124+00:00",
+  "sist_sjekket": "2026-08-13T17:58:21.331709+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457839514",
+      "funnet": "2026-08-13T17:58:21.329493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon album x 2",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473204539",
+      "funnet": "2026-08-13T17:58:21.002460+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Riftbound Rare/Epic/altart/Promo Vendetta / Spiritforge og Origins",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473184556",
       "funnet": "2026-08-13T15:20:35.592349+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Charizard GX Secret Rare 150/147 Burning Shadows",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473184895",
-      "funnet": "2026-08-13T15:20:34.764570+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Nihil Zero bulken (112 kort), samleperm og soft sleeves",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466911952",
-      "funnet": "2026-08-13T15:18:17.772799+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
