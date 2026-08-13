@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T19:12:17.752547+00:00",
+  "sist_sjekket": "2026-08-13T19:14:15.050991+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort VM 26 selges",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473214363",
+      "funnet": "2026-08-13T19:14:15.047971+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POG-samling",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473214996",
+      "funnet": "2026-08-13T19:14:14.454117+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon go kort ønskes kjøpt",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-13T17:10:39.211284+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon Kort selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473198288",
-      "funnet": "2026-08-13T17:10:38.468918+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Fifa World Cup 2026",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473097672",
-      "funnet": "2026-08-13T17:10:37.721260+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
