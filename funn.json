@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T04:06:22.415279+00:00",
+  "sist_sjekket": "2026-08-13T04:08:20.250318+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Storm Emeralda - Bulk - AR / SR / DR",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473122383",
+      "funnet": "2026-08-13T04:08:20.248618+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Se og hør kjendis kortstokk. Komplett og ubrukt",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-12T22:00:46.560860+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-12T22:00:46.290185+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
