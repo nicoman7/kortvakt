@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T13:26:18.232043+00:00",
+  "sist_sjekket": "2026-08-13T13:28:16.730213+00:00",
   "funn": [
+    {
+      "tittel": "Hello kitty and friends samlekort fra panini",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473171835",
+      "funnet": "2026-08-13T13:28:16.728069+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚜️Pokemon super mystery packs!⚜️🔥🔥",
       "pris": 85,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/299158364",
       "funnet": "2026-08-13T10:00:59.119011+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Terestal Festival - Diverse kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403199538",
-      "funnet": "2026-08-13T10:00:58.309404+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
