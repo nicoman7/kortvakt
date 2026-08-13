@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T23:56:16.544511+00:00",
+  "sist_sjekket": "2026-08-13T23:58:18.171812+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mega Charizard EX M Charizard - samlekort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473234511",
+      "funnet": "2026-08-13T23:58:18.169907+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort EX / holo miks",
       "pris": 1460,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-13T19:22:20.643575+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Pikachu, Mega m.m.",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473216979",
-      "funnet": "2026-08-13T19:22:20.284962+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
