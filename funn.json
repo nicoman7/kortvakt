@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T06:04:18.795875+00:00",
+  "sist_sjekket": "2026-08-13T06:06:20.436771+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473126202",
+      "funnet": "2026-08-13T06:06:20.434834+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Finest UCC 25-26 Alessandro Bastoni/99",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473126250",
+      "funnet": "2026-08-13T06:06:20.079160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Finest UCC 25-26 Trent Alexander-Arnold/150",
       "pris": 70,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/246047877",
       "funnet": "2026-08-12T22:10:36.292293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slaking holo pokemon kort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472156193",
-      "funnet": "2026-08-12T22:10:35.917853+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nærmere 200 fotballkort fra VM i Mexico 1986 selges samlet",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/263150139",
-      "funnet": "2026-08-12T22:10:35.034949+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
