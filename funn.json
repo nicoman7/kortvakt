@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T16:00:54.617835+00:00",
+  "sist_sjekket": "2026-08-13T16:02:16.558644+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort med prisliste",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473188281",
+      "funnet": "2026-08-13T16:02:16.556979+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske Pokemon boosterpakker Abyss Eye",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/364627440",
       "funnet": "2026-08-13T12:50:37.458203+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lost Origin kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361481763",
-      "funnet": "2026-08-13T12:50:36.541692+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
