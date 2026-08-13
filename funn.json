@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T19:44:27.861602+00:00",
+  "sist_sjekket": "2026-08-13T19:46:18.614363+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort GX/EX kort i plastlommer",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473219771",
+      "funnet": "2026-08-13T19:46:18.612500+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kortsamling",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473214153",
+      "funnet": "2026-08-13T19:46:17.754350+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort gullkort 3 stk",
       "pris": 1500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473202715",
       "funnet": "2026-08-13T17:36:25.496019+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA VM klistremerke CAN MEX USA",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473202024",
-      "funnet": "2026-08-13T17:34:19.114054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Houndoom Illustration Rare 191/182",
-      "pris": 259,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473202163",
-      "funnet": "2026-08-13T17:34:18.671496+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
