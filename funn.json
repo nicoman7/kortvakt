@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-13T14:00:57.039710+00:00",
+  "sist_sjekket": "2026-08-13T14:02:24.031815+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Arceus",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473176608",
+      "funnet": "2026-08-13T14:02:24.029686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard (Grand Prix) PSA 9",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473174793",
+      "funnet": "2026-08-13T14:02:23.243712+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon-kort Mega Zeraora EX 114/084 japansk",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473176600",
+      "funnet": "2026-08-13T14:02:22.440563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard (Holo) PSA 9",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473174652",
+      "funnet": "2026-08-13T14:02:21.648348+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard VSTAR (Secret) PSA 9",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471654684",
+      "funnet": "2026-08-13T14:02:20.855805+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Arceus holografisk",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473176825",
+      "funnet": "2026-08-13T14:02:20.486271+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Gardevoir",
       "pris": 400,
@@ -1152,54 +1200,6 @@
       "funnet": "2026-08-13T10:18:18.453323+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon bulk – kinesisk/japansk + Gem Pack Badge Set",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473150304",
-      "funnet": "2026-08-13T10:18:17.800831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS MATCH ATTAX 2024/25",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455905410",
-      "funnet": "2026-08-13T10:18:17.153626+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "50 Premier gold 96-97 fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/278035180",
-      "funnet": "2026-08-13T10:16:19.671979+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort- 25th celebrations",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473150916",
-      "funnet": "2026-08-13T10:16:19.100728+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA 365 Ismael Saibari Magician kort PSV",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473150821",
-      "funnet": "2026-08-13T10:16:18.459376+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jolteon Samlepakke (10 Mønster-Holo) – Kinesisk Gem Pack Vol. 2",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473150517",
-      "funnet": "2026-08-13T10:14:15.779676+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
