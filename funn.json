@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T12:44:17.965255+00:00",
+  "sist_sjekket": "2026-08-13T12:46:19.226577+00:00",
   "funn": [
+    {
+      "tittel": "Crown Zenith kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/368500180",
+      "funnet": "2026-08-13T12:46:19.224604+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Base Set Pidgeotto (1999) + Altaria – Selges som Damaged (DMG)",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473146850",
       "funnet": "2026-08-13T09:42:19.192945+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan kortspill samling blandede kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459628124",
-      "funnet": "2026-08-13T09:40:40.695341+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
