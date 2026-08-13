@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T13:08:14.702045+00:00",
+  "sist_sjekket": "2026-08-13T13:10:27.575538+00:00",
   "funn": [
+    {
+      "tittel": "*reservert* Samlet pakke samlekort",
+      "pris": 648,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473171228",
+      "funnet": "2026-08-13T13:10:27.573456+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Chikorita, Cyndaquil og Totodile samlekort holo sett",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473171264",
+      "funnet": "2026-08-13T13:10:27.030402+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Animal crossing amiibo kort",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/403199082",
       "funnet": "2026-08-13T10:00:57.194263+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mye fotball kort og figurer fra VM osv",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473148297",
-      "funnet": "2026-08-13T09:58:24.477043+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort i plastlommer",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473147915",
-      "funnet": "2026-08-13T09:58:23.616540+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
