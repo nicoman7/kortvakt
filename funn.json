@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T15:42:18.472434+00:00",
+  "sist_sjekket": "2026-08-13T15:44:19.810716+00:00",
   "funn": [
+    {
+      "tittel": "Telekort Fransk  50 U",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/243192218",
+      "funnet": "2026-08-13T15:44:19.808503+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Premiere league Merlin 1996 50+ kort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473188082",
+      "funnet": "2026-08-13T15:44:19.425074+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps chrome Marvel 2026 samlekort selges samlet",
       "pris": 800,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-13T12:32:21.055273+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Selger MTG-kort / The Hobbit",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473166679",
-      "funnet": "2026-08-13T12:32:20.242744+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "SAMLEKORT - BILAG TIL ALLERS og SKIPPERN 1958",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/432317427",
-      "funnet": "2026-08-13T12:30:40.427632+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
