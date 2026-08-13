@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T22:04:21.366695+00:00",
+  "sist_sjekket": "2026-08-13T22:06:21.568664+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort.",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/450236364",
+      "funnet": "2026-08-13T22:06:21.566611+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hearthflame Mask Ogerpon Ex #212 Pokemon Twilight Masquerade",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467036644",
       "funnet": "2026-08-13T19:06:17.803220+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket’s Dugtrio 239/217 – Illustration Rare – Ascended Heroes",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472520970",
-      "funnet": "2026-08-13T19:06:17.149833+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
