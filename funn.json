@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T18:00:53.986817+00:00",
+  "sist_sjekket": "2026-08-13T18:02:20.932384+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473203379",
+      "funnet": "2026-08-13T18:02:20.930824+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Noibat holografisk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473206058",
+      "funnet": "2026-08-13T18:02:20.103831+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – japansk illustrert kort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473185225",
       "funnet": "2026-08-13T15:22:23.174746+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup Dream Box",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473185388",
-      "funnet": "2026-08-13T15:22:22.536459+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Black panter 60 years samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473184993",
-      "funnet": "2026-08-13T15:20:36.038970+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
