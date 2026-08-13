@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T09:36:15.722685+00:00",
+  "sist_sjekket": "2026-08-13T09:38:24.048697+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kortperm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473146683",
+      "funnet": "2026-08-13T09:38:24.046511+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kortperm",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473130076",
       "funnet": "2026-08-13T07:04:19.274428+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thoralf Strømstad Leif Skagnes Ski langrenn sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208079521",
-      "funnet": "2026-08-13T07:04:18.465781+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
