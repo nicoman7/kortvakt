@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-13T14:28:16.993525+00:00",
+  "sist_sjekket": "2026-08-13T14:30:46.088008+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Misty’s Vitality",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473178931",
+      "funnet": "2026-08-13T14:30:46.086147+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Sinnoh Trio - Turtwig/Chimchar/Piplup",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473178546",
+      "funnet": "2026-08-13T14:30:45.259027+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort PL",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466520087",
+      "funnet": "2026-08-13T14:30:44.869850+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps  2026 Kimi Antonelli signature auto Mercedes F1 Formel 1 samlerkort",
       "pris": 129,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/246109991",
       "funnet": "2026-08-13T10:54:27.227268+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "John Kristian Angvik Rosenborg RBK 1984 Fotballkort Fotballklistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333191057",
-      "funnet": "2026-08-13T10:54:26.845452+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clas Thunberg Finland skøyter sigarettkort 1930 Tiedemanns Tobak!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/206078827",
-      "funnet": "2026-08-13T10:54:25.976303+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flareon Samlepakke (8 Mønster-Holo) – Kinesisk Gem Pack Vol. 2",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473155405",
-      "funnet": "2026-08-13T10:54:25.151969+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
