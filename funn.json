@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T13:38:25.771442+00:00",
+  "sist_sjekket": "2026-08-13T13:40:28.595739+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466946152",
+      "funnet": "2026-08-13T13:40:28.593798+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax Champions League samlekortpakker",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466946288",
+      "funnet": "2026-08-13T13:40:28.151158+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Time Gazer japansk boosterboks",
       "pris": 1900,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473149183",
       "funnet": "2026-08-13T10:01:03.116276+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United Sammlekort David Beckham Premier League 1997/98",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473149198",
-      "funnet": "2026-08-13T10:01:02.737109+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions - Diverse kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403198391",
-      "funnet": "2026-08-13T10:01:01.859949+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
