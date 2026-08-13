@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-13T11:40:36.673262+00:00",
+  "sist_sjekket": "2026-08-13T11:42:19.709246+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473160583",
+      "funnet": "2026-08-13T11:42:19.707204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Poké Pad trainer kort",
       "pris": 15,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473139785",
       "funnet": "2026-08-13T08:50:29.528992+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morten Haugen Vålerenga VIF fotball 1984 Fotballkort Fotballklistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/332821878",
-      "funnet": "2026-08-13T08:50:28.604624+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
