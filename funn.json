@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-13T13:40:28.595739+00:00",
+  "sist_sjekket": "2026-08-13T13:42:25.773814+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473174510",
+      "funnet": "2026-08-13T13:42:25.771854+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Dark Phantasma japansk boosterboks",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473174407",
+      "funnet": "2026-08-13T13:42:24.725056+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling med fotballkort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/246915336",
       "funnet": "2026-08-13T10:02:21.243481+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Sverige – 2 kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473149365",
-      "funnet": "2026-08-13T10:02:20.843964+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Neymar Jr samlekort – 2 fotballkort Brasil",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473149183",
-      "funnet": "2026-08-13T10:01:03.116276+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
