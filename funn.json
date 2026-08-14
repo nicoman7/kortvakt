@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T02:24:17.340395+00:00",
+  "sist_sjekket": "2026-08-14T02:26:17.616707+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Cramorant 176/167",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424247122",
+      "funnet": "2026-08-14T02:26:17.614527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Kort - Fire type sortert Bulk - Gratis frakt",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473217653",
       "funnet": "2026-08-13T19:30:57.214052+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa Fotballkort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473216822",
-      "funnet": "2026-08-13T19:30:56.865357+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
