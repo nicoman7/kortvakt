@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T17:40:28.133812+00:00",
+  "sist_sjekket": "2026-08-14T17:42:18.778941+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort GX, EX, V, Div. - Ulike priser, se bilder",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473310513",
+      "funnet": "2026-08-14T17:42:18.777026+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Kpop album",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473314582",
+      "funnet": "2026-08-14T17:42:18.379670+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax fotballkort samling kan også byttes mot pokemonkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458539233",
+      "funnet": "2026-08-14T17:42:17.594626+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort selges/byttes mot pokemonkort",
       "pris": 123,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473294509",
       "funnet": "2026-08-14T14:46:19.547982+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rayquaza EX holo",
-      "pris": 380,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473294686",
-      "funnet": "2026-08-14T14:46:19.164037+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Houndstone EX Box samleboks - Ingen pakker",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473294017",
-      "funnet": "2026-08-14T14:40:29.047369+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473293559",
-      "funnet": "2026-08-14T14:38:17.132076+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
