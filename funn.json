@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T09:54:15.295421+00:00",
+  "sist_sjekket": "2026-08-14T09:56:19.717001+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges samlet- JP/ENG - Gi bud",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473117513",
+      "funnet": "2026-08-14T09:56:19.714898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Wesley Sneijder/10 Autograph Topps Chrome UCC 25/26",
       "pris": 1499,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473240364",
       "funnet": "2026-08-14T06:24:16.667785+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clyde Drexler basketballkort",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473240209",
-      "funnet": "2026-08-14T06:22:25.447678+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
