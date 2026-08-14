@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T22:32:16.301630+00:00",
+  "sist_sjekket": "2026-08-14T22:34:16.360173+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Corsola 60 HP vann-type",
+      "pris": 17,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473339724",
+      "funnet": "2026-08-14T22:34:16.358351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Gloom 70 HP",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473339662",
+      "funnet": "2026-08-14T22:34:15.978066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Staryu",
       "pris": 9,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-14T20:40:25.846758+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard Y EX Mega Evolution Promo 030",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473332770",
-      "funnet": "2026-08-14T20:40:25.463400+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-14T20:40:24.990627+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
