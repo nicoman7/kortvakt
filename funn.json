@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T12:02:18.450651+00:00",
+  "sist_sjekket": "2026-08-14T12:04:25.586142+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-14T12:04:25.584445+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Midnight UFC",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
       "funnet": "2026-08-14T09:14:19.507678+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466986411",
-      "funnet": "2026-08-14T09:12:18.737635+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
