@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-14T08:48:16.890811+00:00",
+  "sist_sjekket": "2026-08-14T08:50:26.781781+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon EX kort tcg",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466981624",
+      "funnet": "2026-08-14T08:50:26.779974+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Mega evolution tcg",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466979426",
+      "funnet": "2026-08-14T08:50:26.022588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473253740",
+      "funnet": "2026-08-14T08:50:25.638748+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard VMAX - Shining Fates SV107/SV122",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473254114",
+      "funnet": "2026-08-14T08:50:25.152592+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Floatzel LV.X holo",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473253462",
+      "funnet": "2026-08-14T08:50:24.625772+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Play! Prize Pack Series 8 og 9 boostere",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473253831",
+      "funnet": "2026-08-14T08:50:24.126095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Stunfisk (CN)",
       "pris": 50,
@@ -1151,54 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473235401",
       "funnet": "2026-08-14T01:26:14.616329+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Akrylstativ for samlekort / slabs (Sett med 5 stk)",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473235210",
-      "funnet": "2026-08-14T01:04:17.421761+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 3 Full Set Illustration Collection",
-      "pris": 1847,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234783",
-      "funnet": "2026-08-14T00:42:17.347025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Primal Groudon-EX — 97/98",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234794",
-      "funnet": "2026-08-14T00:14:23.276027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jumpluff 6/123 Holo Rare",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234720",
-      "funnet": "2026-08-14T00:10:24.693233+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjelden Lotad (Shiny) SH4-12 – Platinum Rareverse Holo",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234517",
-      "funnet": "2026-08-14T00:00:54.534910+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Charizard EX M Charizard - samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234511",
-      "funnet": "2026-08-13T23:58:18.169907+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
