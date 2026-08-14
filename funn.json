@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T21:58:23.261656+00:00",
+  "sist_sjekket": "2026-08-14T22:00:50.147154+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Rhydon 2004",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338220",
+      "funnet": "2026-08-14T22:00:50.145305+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 025/185 – Vivid Voltage Reverse Holo",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338147",
+      "funnet": "2026-08-14T22:00:49.669912+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Lapras 10/62",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338136",
+      "funnet": "2026-08-14T22:00:49.289686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - Entei 17/64",
       "pris": null,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-14T20:16:22.776486+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Shaymin V",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473330522",
-      "funnet": "2026-08-14T20:16:21.616910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Uåpnet Topps Baseball 1990 – 16 kort og original tyggegumm",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473330524",
-      "funnet": "2026-08-14T20:16:20.693286+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-08-14T20:16:19.891208+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
