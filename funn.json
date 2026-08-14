@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T10:26:27.950359+00:00",
+  "sist_sjekket": "2026-08-14T10:28:23.409531+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473264784",
+      "funnet": "2026-08-14T10:28:23.407729+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rapidash - Classic Collection - Pokemon",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473234354",
       "funnet": "2026-08-14T07:38:18.526876+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Teddiursa 109/144 og Ursaring 110/144 Skyridge pokemon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464285616",
-      "funnet": "2026-08-14T07:36:17.020630+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
