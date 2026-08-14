@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T16:06:15.454975+00:00",
+  "sist_sjekket": "2026-08-14T16:08:16.810063+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mareep Topps",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473304316",
+      "funnet": "2026-08-14T16:08:16.808359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Chikorita samlekort",
       "pris": 90,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T13:38:18.351122+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gwynn 119/084 (Special Illustration Rare)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472858327",
-      "funnet": "2026-08-14T13:38:17.953625+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
