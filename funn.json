@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T05:26:15.827482+00:00",
+  "sist_sjekket": "2026-08-14T05:28:24.546586+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473237614",
+      "funnet": "2026-08-14T05:28:24.544734+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon graderte kort!",
       "pris": 1700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473219629",
       "funnet": "2026-08-13T19:58:18.621432+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort Destined Rivals (Reservert)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473221130",
-      "funnet": "2026-08-13T19:56:21.309551+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
