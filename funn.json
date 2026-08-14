@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T22:30:39.228926+00:00",
+  "sist_sjekket": "2026-08-14T22:32:16.301630+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Staryu",
+      "pris": 9,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473339609",
+      "funnet": "2026-08-14T22:32:16.299790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Belossom kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473339651",
+      "funnet": "2026-08-14T22:32:15.563229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Daka Locked Ronaldo Real Madrid kort 06/25",
       "pris": 590,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-14T20:40:24.990627+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "6 Panini Adrenalyn XL 2026 fotballkort – Isak, Wirtz m.fl.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473331589",
-      "funnet": "2026-08-14T20:38:26.576226+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holografisk Pokemon Kort samling - Fossil type - Gratis Frakt",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473330754",
-      "funnet": "2026-08-14T20:38:25.720355+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
