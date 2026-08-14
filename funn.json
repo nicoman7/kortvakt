@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T16:36:17.381044+00:00",
+  "sist_sjekket": "2026-08-14T16:38:16.405611+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet pakke",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473307343",
+      "funnet": "2026-08-14T16:38:16.403640+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Penny & Friends Samlekort",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-14T13:58:16.856638+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon sampling packs / fun packs",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473288969",
-      "funnet": "2026-08-14T13:56:17.347191+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
