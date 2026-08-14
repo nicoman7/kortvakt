@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T04:00:51.042745+00:00",
+  "sist_sjekket": "2026-08-14T04:02:17.120754+00:00",
   "funn": [
+    {
+      "tittel": "Pokémons kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473236326",
+      "funnet": "2026-08-14T04:02:17.118790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Limited Edition fotballkort med Erling Haaland selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473236318",
+      "funnet": "2026-08-14T04:02:16.237930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World Cup 2026 Golden Baller Erling Haaland Selges",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/403714536",
       "funnet": "2026-08-13T19:48:18.751690+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort GX/EX kort i plastlommer",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473219771",
-      "funnet": "2026-08-13T19:46:18.612500+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kortsamling",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473214153",
-      "funnet": "2026-08-13T19:46:17.754350+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
