@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T17:30:41.268766+00:00",
+  "sist_sjekket": "2026-08-14T17:32:18.650712+00:00",
   "funn": [
+    {
+      "tittel": "Kpop album",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473313132",
+      "funnet": "2026-08-14T17:32:18.648752+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 60/64 pokemon kort",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T14:28:20.799819+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon – Vintage og moderne – mange sjeldne kort!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468841944",
-      "funnet": "2026-08-14T14:28:19.942432+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
