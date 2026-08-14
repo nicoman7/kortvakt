@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T21:34:19.430889+00:00",
+  "sist_sjekket": "2026-08-14T21:36:21.726563+00:00",
   "funn": [
+    {
+      "tittel": "Fotball samlekort",
+      "pris": 1190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/397953264",
+      "funnet": "2026-08-14T21:36:21.724469+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Japansk Nidorina Storm Emeralda (42)",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473336698",
+      "funnet": "2026-08-14T21:36:20.893820+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort #63 Abra Topps",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473336836",
+      "funnet": "2026-08-14T21:36:20.006398+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort- Scraggy #138/086 White Flare",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-14T19:46:16.950495+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samleperm med kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473327447",
-      "funnet": "2026-08-14T19:42:21.668810+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "5 uåpnede Panini Golden Age 2014-kortpakker",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473327403",
-      "funnet": "2026-08-14T19:42:21.082708+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kom med bud‼️Pokemon kort lot – 5 holografiske kort i plastlommer",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473327601",
-      "funnet": "2026-08-14T19:42:20.481512+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
