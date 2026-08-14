@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T21:54:17.465920+00:00",
+  "sist_sjekket": "2026-08-14T21:56:17.293205+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Raikou 28/144 Reverse holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473337339",
+      "funnet": "2026-08-14T21:56:17.291372+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Flaaffy 80HP Lightning",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473337938",
+      "funnet": "2026-08-14T21:56:16.460862+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dratini 117/181 – Team Up – Pokémon-kort",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-14T20:14:25.085077+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Match Attax Fernando Torres Chelsea FC samlekort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473330090",
-      "funnet": "2026-08-14T20:12:17.230102+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu – Unified Minds – 56/236 ⚡🌙",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465029334",
-      "funnet": "2026-08-14T20:10:28.749016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
