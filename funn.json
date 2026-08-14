@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T12:46:17.589573+00:00",
+  "sist_sjekket": "2026-08-14T12:48:18.957191+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281571",
+      "funnet": "2026-08-14T12:48:18.955154+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Storm Emeralda Japansk",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
+      "funnet": "2026-08-14T12:48:18.337682+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Gem vol 3. booster box",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281605",
+      "funnet": "2026-08-14T12:48:17.734324+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Steenee kort",
       "pris": 900,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473261582",
       "funnet": "2026-08-14T10:08:15.681472+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort boosterbokser og boosterpacks TCG R3P",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262610",
-      "funnet": "2026-08-14T10:06:16.962136+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon VSTAR Universe - Mewtwo + Charizard - Selges samlet",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262550",
-      "funnet": "2026-08-14T10:04:17.746302+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "600 Pokémon Kort Bulk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262114",
-      "funnet": "2026-08-14T10:02:37.550296+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
