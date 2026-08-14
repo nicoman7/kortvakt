@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T12:42:18.136223+00:00",
+  "sist_sjekket": "2026-08-14T12:44:19.931087+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281177",
+      "funnet": "2026-08-14T12:44:19.929183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Fletchling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281302",
+      "funnet": "2026-08-14T12:44:19.144554+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Scraggy Macdonalds promo 2016",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473280842",
+      "funnet": "2026-08-14T12:44:18.294384+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Premier League Marc Cucurella Full Force /150",
       "pris": 90,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473262349",
       "funnet": "2026-08-14T10:02:36.289689+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon VSTAR - Mewtwo VSTAR 221/172 SAR",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262117",
-      "funnet": "2026-08-14T10:02:35.510650+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tentacool [1st Edition] #56 Pokemon Fossil",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473261864",
-      "funnet": "2026-08-14T10:00:56.675085+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Ns Zekrom 210/193 AR - Mega Dream Ex",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473261841",
-      "funnet": "2026-08-14T10:00:55.907089+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
