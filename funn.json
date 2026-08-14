@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T10:28:23.409531+00:00",
+  "sist_sjekket": "2026-08-14T10:30:38.751818+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 48/162",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473265396",
+      "funnet": "2026-08-14T10:30:38.749930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473246902",
       "funnet": "2026-08-14T07:42:19.876311+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Aerodactyl 47/80 revholo",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473234354",
-      "funnet": "2026-08-14T07:38:18.526876+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
