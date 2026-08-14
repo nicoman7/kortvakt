@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T15:28:21.708827+00:00",
+  "sist_sjekket": "2026-08-14T15:30:46.929695+00:00",
   "funn": [
+    {
+      "tittel": "Charizard VMAX",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473296044",
+      "funnet": "2026-08-14T15:30:46.927983+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-08-14T15:30:46.048563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sableye - Stormfront Pokemon Kort",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473284634",
       "funnet": "2026-08-14T13:20:28.457287+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473285115",
-      "funnet": "2026-08-14T13:20:28.063117+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu 005/025 Full Art",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473285388",
-      "funnet": "2026-08-14T13:20:27.615833+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
