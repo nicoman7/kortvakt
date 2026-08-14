@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T05:10:23.591727+00:00",
+  "sist_sjekket": "2026-08-14T05:12:16.396255+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Phantasmal Flames",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473237042",
+      "funnet": "2026-08-14T05:12:16.394420+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 1300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-13T19:56:20.133579+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2 Bicycle - Pinochle kortstokker (rød og blå)",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/422422090",
-      "funnet": "2026-08-13T19:56:19.558543+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
