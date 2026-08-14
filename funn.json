@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T06:10:27.972195+00:00",
+  "sist_sjekket": "2026-08-14T06:12:21.943313+00:00",
   "funn": [
+    {
+      "tittel": "Jason Kidd basketballkort",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473239612",
+      "funnet": "2026-08-14T06:12:21.941269+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hakeem Olajuwon basketballkort",
       "pris": 39,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-13T20:16:16.888668+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort- Musharna 117/086 Black bolt",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473223148",
-      "funnet": "2026-08-13T20:14:22.097702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
