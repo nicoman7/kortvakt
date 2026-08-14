@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T23:14:26.088788+00:00",
+  "sist_sjekket": "2026-08-14T23:16:16.608153+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-14T23:16:16.606381+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Meditite samlekort",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473335809",
       "funnet": "2026-08-14T21:20:24.650616+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jolteon 23/68 – Hidden Fates – Rare – 2019",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473335607",
-      "funnet": "2026-08-14T21:18:15.431636+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
