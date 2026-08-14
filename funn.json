@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T11:52:24.917753+00:00",
+  "sist_sjekket": "2026-08-14T11:54:16.562406+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473272743",
+      "funnet": "2026-08-14T11:54:16.560619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
       "pris": 63,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473255124",
       "funnet": "2026-08-14T09:02:16.501175+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Phanpy (CN)",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473254807",
-      "funnet": "2026-08-14T08:56:17.953273+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
