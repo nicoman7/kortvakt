@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-14T22:00:50.147154+00:00",
+  "sist_sjekket": "2026-08-14T22:02:15.971961+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Dark Houndoom 5/109",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338225",
+      "funnet": "2026-08-14T22:02:15.970026+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Taillow",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338294",
+      "funnet": "2026-08-14T22:02:15.382108+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 010/078 – Pokémon GO Reverse Holo",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473338383",
+      "funnet": "2026-08-14T22:02:14.784491+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Rhydon 2004",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473330076",
       "funnet": "2026-08-14T20:18:19.429918+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Sharpedo, Delcatty, Salamence m.m. + Energy-kort",
-      "pris": 380,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466292321",
-      "funnet": "2026-08-14T20:18:19.125467+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA -90’s basketballkort; Michael Jordan, Shaquille O’Neal, Dennis Rodman m",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472816566",
-      "funnet": "2026-08-14T20:18:18.733877+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Holon Phantoms #11 Latias Holo",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467139692",
-      "funnet": "2026-08-14T20:16:22.776486+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
