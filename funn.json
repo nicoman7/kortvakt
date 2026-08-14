@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T11:26:17.349814+00:00",
+  "sist_sjekket": "2026-08-14T11:28:17.481264+00:00",
   "funn": [
+    {
+      "tittel": "MTG kort selges/trades",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473269587",
+      "funnet": "2026-08-14T11:28:17.479128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort 55-72/75 - 30 kr for én, 20 kr stk for flere",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/292461647",
       "funnet": "2026-08-14T08:42:15.709951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Div. ETB og UPC",
-      "pris": 1550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473252561",
-      "funnet": "2026-08-14T08:42:15.337437+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
