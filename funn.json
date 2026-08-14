@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T12:44:19.931087+00:00",
+  "sist_sjekket": "2026-08-14T12:46:17.589573+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Steenee kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281502",
+      "funnet": "2026-08-14T12:46:17.588013+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473281376",
+      "funnet": "2026-08-14T12:46:17.259205+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 1300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473262114",
       "funnet": "2026-08-14T10:02:37.550296+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited Edition XXL fotballkort –Panini Adrenalyn XL VM 2026",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473260039",
-      "funnet": "2026-08-14T10:02:37.249394+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon VSTAR- Charizard VSTAR 212/172 SAR",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262349",
-      "funnet": "2026-08-14T10:02:36.289689+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
