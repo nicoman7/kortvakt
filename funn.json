@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T03:16:17.143271+00:00",
+  "sist_sjekket": "2026-08-14T03:18:16.941590+00:00",
   "funn": [
+    {
+      "tittel": "MTG Liste 2 - kort med lavere verdi stk - KAN BUNDLES MED EKSISTERENDE ANNONSER",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473235983",
+      "funnet": "2026-08-14T03:18:16.939532+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor Pokemon samling av singles selges!",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-13T19:42:19.670955+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu 50/149 fra Boundaries Crossed",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473218943",
-      "funnet": "2026-08-13T19:38:15.488068+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
