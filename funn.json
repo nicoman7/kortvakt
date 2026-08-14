@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T09:28:16.528426+00:00",
+  "sist_sjekket": "2026-08-14T09:30:41.013984+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon UPC bokser. Charizard & Mew",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/453997629",
+      "funnet": "2026-08-14T09:30:41.012139+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Orakelkort, Budskap fra guidene dine",
       "pris": 190,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473237614",
       "funnet": "2026-08-14T05:28:24.544734+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon graderte kort!",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473237535",
-      "funnet": "2026-08-14T05:26:15.825563+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
