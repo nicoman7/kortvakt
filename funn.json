@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T05:52:14.623617+00:00",
+  "sist_sjekket": "2026-08-14T05:54:14.877742+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-14T05:54:14.875807+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Dwebble #13 Pokemon Japanese Mega Dream ex",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-13T20:14:17.660697+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort - Rayquaza 16/110",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473222879",
-      "funnet": "2026-08-13T20:12:20.589151+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
