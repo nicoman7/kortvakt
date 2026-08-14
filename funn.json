@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-14T10:44:21.437794+00:00",
+  "sist_sjekket": "2026-08-14T10:46:18.993269+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bok",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/341928254",
+      "funnet": "2026-08-14T10:46:18.991179+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort blandet lot",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473247791",
       "funnet": "2026-08-14T07:54:17.635695+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Caterpie samling",
-      "pris": 730,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467024227",
-      "funnet": "2026-08-14T07:52:14.782019+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
