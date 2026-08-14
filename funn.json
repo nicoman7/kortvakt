@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-14T12:52:25.534652+00:00",
+  "sist_sjekket": "2026-08-14T12:54:18.409221+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473282342",
+      "funnet": "2026-08-14T12:54:18.407368+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn FIFA VM 2026 kort selges/byttes",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466161711",
+      "funnet": "2026-08-14T12:54:17.986102+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gengar kort Koreansk",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473262061",
       "funnet": "2026-08-14T10:08:17.206225+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Chansey kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473263017",
-      "funnet": "2026-08-14T10:08:16.836030+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited Edition Norge sett - Panini Adrenalyn XL VM 2026",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473262391",
-      "funnet": "2026-08-14T10:08:16.245292+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
