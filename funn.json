@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T03:58:15.859374+00:00",
+  "sist_sjekket": "2026-08-15T04:00:48.957223+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466435547",
+      "funnet": "2026-08-15T04:00:48.955016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mawile 23/110 (Rare) - EX Holon Phantoms (2006)",
       "pris": 55,
@@ -1190,14 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473336772",
       "funnet": "2026-08-14T21:42:20.179940+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort- Alolan Vulpix 197/195 Silver Tempest",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473336991",
-      "funnet": "2026-08-14T21:42:19.386057+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
