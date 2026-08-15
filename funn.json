@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T04:38:14.207887+00:00",
+  "sist_sjekket": "2026-08-15T04:40:24.910886+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Fifa -World Cup 2026",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472616156",
+      "funnet": "2026-08-15T04:40:24.908955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort fra 2002",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T21:44:19.730884+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Dark Tyranitar 19/109",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473337189",
-      "funnet": "2026-08-14T21:44:19.368240+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
