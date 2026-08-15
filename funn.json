@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T12:26:19.587427+00:00",
+  "sist_sjekket": "2026-08-15T12:28:19.977301+00:00",
   "funn": [
+    {
+      "tittel": "Div fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466806355",
+      "funnet": "2026-08-15T12:28:19.975656+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Destinal Rivals",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473389665",
+      "funnet": "2026-08-15T12:28:19.592422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort lot – eldre kort fra EX-eraen",
       "pris": 1499,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473366328",
       "funnet": "2026-08-15T09:32:19.010113+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gardevoir EX 111/114 samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473366166",
-      "funnet": "2026-08-15T09:30:40.062973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon japansk booster pack Remix PSA 10",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473366145",
-      "funnet": "2026-08-15T09:30:39.163933+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
