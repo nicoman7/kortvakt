@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T22:04:15.918476+00:00",
+  "sist_sjekket": "2026-08-15T22:06:16.701420+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon samling.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
+      "funnet": "2026-08-15T22:06:16.699413+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473430918",
       "funnet": "2026-08-15T18:32:18.425734+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Blastoise 2/132Waterlog Hydro Pump",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473430685",
-      "funnet": "2026-08-15T18:30:35.316554+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
