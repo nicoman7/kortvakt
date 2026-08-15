@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T06:44:17.726015+00:00",
+  "sist_sjekket": "2026-08-15T06:46:20.080342+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup 2026 fotballklistremerker (over 200stk)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473347003",
+      "funnet": "2026-08-15T06:46:20.078173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Dusknoir holo – Spectral Breach / Spooky Shot",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T22:14:19.632349+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Elekid LV.6",
-      "pris": 12,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473338886",
-      "funnet": "2026-08-14T22:12:22.311702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
