@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T12:58:17.646832+00:00",
+  "sist_sjekket": "2026-08-15T13:00:50.137327+00:00",
   "funn": [
+    {
+      "tittel": "Sylveon V #184 Pokemon Evolving Skies",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473393213",
+      "funnet": "2026-08-15T13:00:50.135500+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu «Burgerchu» 020/M-P McDonald’s – PSA 9",
       "pris": 490,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T09:42:19.862014+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-15T09:42:19.014022+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
