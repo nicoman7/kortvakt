@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-15T08:52:17.630956+00:00",
+  "sist_sjekket": "2026-08-15T08:54:17.917423+00:00",
   "funn": [
+    {
+      "tittel": "4 permer med fotballkort",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465562401",
+      "funnet": "2026-08-15T08:54:17.915280+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort: Kangaskhan 99/149",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/393084970",
+      "funnet": "2026-08-15T08:54:17.512796+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Crystal Lugia 149/147 aquapolis kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473360528",
+      "funnet": "2026-08-15T08:54:16.707778+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling på over 300 fotballkort",
       "pris": 800,
@@ -1174,30 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/460198525",
       "funnet": "2026-08-15T04:20:27.369551+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div. Pokemonkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460198896",
-      "funnet": "2026-08-15T04:20:26.600279+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460193988",
-      "funnet": "2026-08-15T04:20:26.238688+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466435547",
-      "funnet": "2026-08-15T04:00:48.955016+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
