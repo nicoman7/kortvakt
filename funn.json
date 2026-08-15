@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-15T06:48:19.266178+00:00",
+  "sist_sjekket": "2026-08-15T06:50:25.103415+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn legendekort Bernd Schneider",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467024289",
+      "funnet": "2026-08-15T06:50:25.101503+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn Excellence Limited Edition kort – Cole Palmer",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467025616",
+      "funnet": "2026-08-15T06:50:24.829659+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn Hakimi Numbers Excellence kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467025293",
+      "funnet": "2026-08-15T06:50:24.241224+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lamine Yamal LOT – 2x spesialkort (Topps Now og Adrenalyn Limited Edition)",
+      "pris": 145,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473348550",
+      "funnet": "2026-08-15T06:50:23.588788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Adrenalyn Numbers Excellence kort Julián Álvarez",
       "pris": 20,
@@ -1166,38 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473339153",
       "funnet": "2026-08-14T22:18:17.466014+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort – blandet lot med holo og GX/V-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464149797",
-      "funnet": "2026-08-14T22:18:17.011422+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution – Jumbo Ice Cream 109/086 – Ultra Rare",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473338800",
-      "funnet": "2026-08-14T22:16:19.324445+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Luvdisc 60 HP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339013",
-      "funnet": "2026-08-14T22:16:18.390119+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Growlithe Reverse Holo 51/147",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473338957",
-      "funnet": "2026-08-14T22:16:17.476301+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
