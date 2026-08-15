@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T05:40:25.679589+00:00",
+  "sist_sjekket": "2026-08-15T05:42:15.450751+00:00",
   "funn": [
+    {
+      "tittel": "Bulk og dubletter fra Pokemon ex Delta Species",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473344562",
+      "funnet": "2026-08-15T05:42:15.448665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps UCC Lamine Yamal – UCL Team of the Season Blue Foil /150 (FASTPRIS",
       "pris": 370,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T22:04:15.567399+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Dark Houndoom 5/109",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473338225",
-      "funnet": "2026-08-14T22:02:15.970026+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
