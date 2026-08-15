@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T06:18:14.917211+00:00",
+  "sist_sjekket": "2026-08-15T06:20:26.260789+00:00",
   "funn": [
+    {
+      "tittel": "Norge Landslag LOT–9xfotballkort(Haaland Giant, Ødegaard LE, Donruss Laser)",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473346350",
+      "funnet": "2026-08-15T06:20:26.258787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA -90’s basketballkort; Michael Jordan, Shaquille O’Neal, Dennis Rodman m",
       "pris": 1999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T22:08:22.116517+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Wailmer",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473338673",
-      "funnet": "2026-08-14T22:08:21.769117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
