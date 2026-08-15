@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T11:38:15.465291+00:00",
+  "sist_sjekket": "2026-08-15T11:40:23.722222+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet, gratis frakt",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473383292",
+      "funnet": "2026-08-15T11:40:23.720547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed pokemon samling.",
       "pris": 111,
@@ -1190,14 +1198,6 @@
       "pris": 159,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473362938",
       "funnet": "2026-08-15T09:06:16.827706+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera Fotballkort - Liverpool",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398348169",
-      "funnet": "2026-08-15T09:02:29.419770+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
