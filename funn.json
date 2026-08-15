@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T17:50:25.695258+00:00",
+  "sist_sjekket": "2026-08-15T17:52:17.621355+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Moltres & Zapdos & Articuno GX TAG TEAM Sky Legends",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473410750",
+      "funnet": "2026-08-15T17:52:17.619431+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA 365 Limited Edition kort Schmeichel Leicester City",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473426626",
+      "funnet": "2026-08-15T17:52:17.228739+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Entei GX Shining Legends Secret PSA 9",
       "pris": 900,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T15:46:21.028629+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Chrome MLS 2025 kort selges samlet",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473412896",
-      "funnet": "2026-08-15T15:46:20.613511+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pavel Bure ishockeykort Nhl kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473413100",
-      "funnet": "2026-08-15T15:44:16.641485+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
