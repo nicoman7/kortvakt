@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T19:30:37.685558+00:00",
+  "sist_sjekket": "2026-08-15T19:32:17.719925+00:00",
   "funn": [
+    {
+      "tittel": "Panini adrenalyn XL-world cup 2026",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445861959",
+      "funnet": "2026-08-15T19:32:17.717641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tinboks med 400 kort",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473423254",
       "funnet": "2026-08-15T17:20:25.597610+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu - Black Star Promo - Pokemon",
-      "pris": 380,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473423135",
-      "funnet": "2026-08-15T17:20:24.993691+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
