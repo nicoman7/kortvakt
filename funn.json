@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T18:54:19.336107+00:00",
+  "sist_sjekket": "2026-08-15T18:56:20.522456+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Primal Groudon EX 86/98",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473433162",
+      "funnet": "2026-08-15T18:56:20.520418+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Premier League Golden Baller kort Chelsea 2021/22",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473433362",
+      "funnet": "2026-08-15T18:56:20.129926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Lionel Messi",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473419047",
       "funnet": "2026-08-15T16:40:23.249830+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort japanske holo-kort Pikachu m.m.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473418420",
-      "funnet": "2026-08-15T16:38:16.778516+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marill 88/130 - Pokemon Diamond & Pearl",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473418702",
-      "funnet": "2026-08-15T16:38:15.973879+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
