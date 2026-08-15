@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T21:26:18.314540+00:00",
+  "sist_sjekket": "2026-08-15T21:28:16.237259+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachusamleperm med generasjon 1 pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473446905",
+      "funnet": "2026-08-15T21:28:16.235458+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-15T21:28:15.822562+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pikachusamleperm med Pokemonkort",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T18:28:18.863483+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Drapion V - Lost Origin - Pokemon",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473429869",
-      "funnet": "2026-08-15T18:24:19.425769+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Vaporeon ex kort #149/131 Prismatic Evolutions italiensk",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472691773",
-      "funnet": "2026-08-15T18:24:18.757618+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
