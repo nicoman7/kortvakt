@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T12:46:18.143107+00:00",
+  "sist_sjekket": "2026-08-15T12:48:16.980313+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mew EX 216/091",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473392197",
+      "funnet": "2026-08-15T12:48:16.978255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini VM 2026 Trophy 624 (Fotballkort)",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473364834",
       "funnet": "2026-08-15T09:38:19.538171+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Igglybuff Wotc Black Star Promo #36/53 2001 36/53 - CGC 7.5",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473366903",
-      "funnet": "2026-08-15T09:38:18.535906+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
