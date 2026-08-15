@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T16:04:17.394186+00:00",
+  "sist_sjekket": "2026-08-15T16:06:20.197860+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473415178",
+      "funnet": "2026-08-15T16:06:20.195780+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon art rares",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473401438",
       "funnet": "2026-08-15T14:06:18.052831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(Sealed) Pokemon Collect 151 Journey Kinesisk Booster Box",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473401637",
-      "funnet": "2026-08-15T14:06:17.681890+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
