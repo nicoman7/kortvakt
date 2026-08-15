@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T17:12:14.760549+00:00",
+  "sist_sjekket": "2026-08-15T17:14:16.307314+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Smeargle",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473422526",
+      "funnet": "2026-08-15T17:14:16.305545+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Masse Graderte Pokemonkort og raw hits 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472673316",
+      "funnet": "2026-08-15T17:14:15.939600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Greninja EX koreansk versjon",
       "pris": 99,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T15:16:18.108414+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Neo Upper Energy kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473409967",
-      "funnet": "2026-08-15T15:16:17.837943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-15T15:16:17.260350+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
