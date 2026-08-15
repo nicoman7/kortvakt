@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T20:40:22.421566+00:00",
+  "sist_sjekket": "2026-08-15T20:42:19.113443+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473443410",
+      "funnet": "2026-08-15T20:42:19.111240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Fifa -World Cup 2026 Oppdatert liste 15/26",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472616156",
+      "funnet": "2026-08-15T20:42:18.041123+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ultra Rares (151, Prismatic, Destined & Surging sparks)",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473427588",
       "funnet": "2026-08-15T18:04:18.977292+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🤩Pokemon Mystery Vault kortpakke🤩",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473427902",
-      "funnet": "2026-08-15T18:04:18.574217+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed pokemon samling.",
-      "pris": 111,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
-      "funnet": "2026-08-15T18:02:18.041844+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
