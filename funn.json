@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T04:20:28.146025+00:00",
+  "sist_sjekket": "2026-08-15T04:22:20.176395+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort fra 2002",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460192395",
+      "funnet": "2026-08-15T04:22:20.174429+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort fra 1995-2000 selges",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T21:44:19.368240+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort- Aerodactyl 199/196 Lost Origin",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473337196",
-      "funnet": "2026-08-14T21:44:18.774244+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
