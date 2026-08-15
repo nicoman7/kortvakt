@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T22:12:20.333409+00:00",
+  "sist_sjekket": "2026-08-15T22:14:17.683903+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort til salgs",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419924753",
+      "funnet": "2026-08-15T22:14:17.681905+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473431434",
       "funnet": "2026-08-15T18:36:19.781380+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise 2/100 Pokemon kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473430827",
-      "funnet": "2026-08-15T18:32:19.222343+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
