@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-15T12:04:14.515479+00:00",
+  "sist_sjekket": "2026-08-15T12:06:17.549611+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 32,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441965469",
+      "funnet": "2026-08-15T12:06:17.547788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Black Bolt",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473387062",
+      "funnet": "2026-08-15T12:06:17.170091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2025 Topps LABUBU Chrome 10th Anniversary sealed",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442308191",
+      "funnet": "2026-08-15T12:06:16.053770+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 27,
@@ -1174,30 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473365219",
       "funnet": "2026-08-15T09:22:18.550583+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cleffa #31 Pokemon Promo Pokemon League 2000 - CGC 8",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473364742",
-      "funnet": "2026-08-15T09:22:17.681164+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini-kort XXL",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473364740",
-      "funnet": "2026-08-15T09:20:26.309814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marshstomp 41/109 - Pokemon Ruby & Sapphire",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473364719",
-      "funnet": "2026-08-15T09:20:25.958202+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
