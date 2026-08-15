@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T05:56:15.621802+00:00",
+  "sist_sjekket": "2026-08-15T05:58:17.041945+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleperm med diverse Pokemon-kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473347613",
+      "funnet": "2026-08-15T05:58:17.040029+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Prismatic Evolutions -Bulk- Master Ball / Poke Ball / Ultra Rare / EX",
       "pris": 2,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473338382",
       "funnet": "2026-08-14T22:06:15.099662+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA -90’s basketballkort; Michael Jordan, Shaquille O’Neal, Dennis Rodman m",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472816566",
-      "funnet": "2026-08-14T22:06:14.302596+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
