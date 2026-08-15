@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T10:10:26.974717+00:00",
+  "sist_sjekket": "2026-08-15T10:12:18.544481+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon boosterpakker Phantasmal flames",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473371256",
+      "funnet": "2026-08-15T10:12:18.542690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Limited Edition kort Real Madrid",
       "pris": 90,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T07:50:24.639087+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon – 3 japanske kort – Mega Gardevoir, Mega Clefable & Cosmog",
-      "pris": 339,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473353398",
-      "funnet": "2026-08-15T07:48:16.939652+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
