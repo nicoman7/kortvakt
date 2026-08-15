@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T13:10:25.283716+00:00",
+  "sist_sjekket": "2026-08-15T13:12:17.340907+00:00",
   "funn": [
+    {
+      "tittel": "WTS Danielle fotokort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473394935",
+      "funnet": "2026-08-15T13:12:17.339153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball kort selges!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473395104",
+      "funnet": "2026-08-15T13:12:17.044121+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort samling med holo-kort og metallbokser",
       "pris": 600,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T09:58:17.216114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Feraligatr holo 1 edt",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473369187",
-      "funnet": "2026-08-15T09:56:19.520585+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet lot med kort i perm kom med bud",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466151824",
-      "funnet": "2026-08-15T09:54:21.083477+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
