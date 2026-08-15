@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T21:02:21.601175+00:00",
+  "sist_sjekket": "2026-08-15T21:04:15.563965+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling (250-270 kort)",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473445157",
+      "funnet": "2026-08-15T21:04:15.562054+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topp  fotball kort Tromsø 14 stk",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/270538587",
+      "funnet": "2026-08-15T21:04:14.816471+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Merlin Premier League 2026 – Kevin Schade Gold Autograph /50",
       "pris": 549,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T18:20:24.423232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Card Slinger - Skann samlekort med mobilen | TCG kort scanner",
-      "pris": 295,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473429488",
-      "funnet": "2026-08-15T18:18:19.474384+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-08-15T18:18:19.087212+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
