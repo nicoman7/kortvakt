@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T05:20:30.756105+00:00",
+  "sist_sjekket": "2026-08-15T05:22:20.767735+00:00",
   "funn": [
+    {
+      "tittel": "2 stk Elvis Stjerneposen-kort",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/334572668",
+      "funnet": "2026-08-15T05:22:20.765617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Xavi Hernandez - FC Barcelona - Fotballkort",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T21:56:17.291372+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Flaaffy 80HP Lightning",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473337938",
-      "funnet": "2026-08-14T21:56:16.460862+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
