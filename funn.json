@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T17:16:19.080152+00:00",
+  "sist_sjekket": "2026-08-15T17:18:20.040888+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort (ishockey kort)",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473422102",
+      "funnet": "2026-08-15T17:18:20.038754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Serperior V",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473423084",
+      "funnet": "2026-08-15T17:18:19.253588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort 50 stk (blandet bunke)",
       "pris": 199,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473408802",
       "funnet": "2026-08-15T15:18:22.102770+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - POP SERIES",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473410270",
-      "funnet": "2026-08-15T15:18:21.192790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473410241",
-      "funnet": "2026-08-15T15:18:20.813611+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
