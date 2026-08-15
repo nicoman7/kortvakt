@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T18:00:50.033097+00:00",
+  "sist_sjekket": "2026-08-15T18:02:18.043829+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon samling.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
+      "funnet": "2026-08-15T18:02:18.041844+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Prizm Elliot Anderson Misprint kort",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473414093",
       "funnet": "2026-08-15T15:54:14.915128+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Whimsicott VSTAR rainbow japanske holo-kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461219405",
-      "funnet": "2026-08-15T15:54:14.364215+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
