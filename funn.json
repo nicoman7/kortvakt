@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T09:52:16.315056+00:00",
+  "sist_sjekket": "2026-08-15T09:54:21.085392+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – blandet lot med kort i perm kom med bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466151824",
+      "funnet": "2026-08-15T09:54:21.083477+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort hits",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473369001",
+      "funnet": "2026-08-15T09:54:20.651612+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL Fifa -World Cup 2026",
       "pris": 4,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473351411",
       "funnet": "2026-08-15T07:28:18.613026+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Carbink Fates Collide (50) Reverse Holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473351155",
-      "funnet": "2026-08-15T07:26:14.903273+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473350298",
-      "funnet": "2026-08-15T07:18:16.906596+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
