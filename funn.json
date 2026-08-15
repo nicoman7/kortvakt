@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T06:50:25.103415+00:00",
+  "sist_sjekket": "2026-08-15T06:52:20.292677+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – 4 stk Trainer-kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473348419",
+      "funnet": "2026-08-15T06:52:20.290234+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Adrenalyn legendekort Bernd Schneider",
       "pris": 35,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T22:18:17.938370+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Machamp 1 edition 8/102",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339153",
-      "funnet": "2026-08-14T22:18:17.466014+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
