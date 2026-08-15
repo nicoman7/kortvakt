@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T19:42:18.313973+00:00",
+  "sist_sjekket": "2026-08-15T19:44:16.585635+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort!!!!",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461569883",
+      "funnet": "2026-08-15T19:44:16.583660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon kort samling",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
+      "funnet": "2026-08-15T19:44:16.006125+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon perm med vintage kort og nyere kort",
       "pris": 900,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T17:38:17.750344+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Champions League Lionel Messi limited edition kort FC Barcelona",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473425268",
-      "funnet": "2026-08-15T17:38:17.451896+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mega Rayquaza EX Emerald Break",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473424394",
-      "funnet": "2026-08-15T17:30:35.547229+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
