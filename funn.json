@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-15T15:18:22.481508+00:00",
+  "sist_sjekket": "2026-08-15T15:20:25.265455+00:00",
   "funn": [
+    {
+      "tittel": "Dark Charizard",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473410020",
+      "funnet": "2026-08-15T15:20:25.263573+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Magic the Gathering kortpakke – The Hobbit",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473409660",
+      "funnet": "2026-08-15T15:20:24.861698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - UNSEEN FORCES",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473410817",
+      "funnet": "2026-08-15T15:20:24.041870+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Arceus 96/131",
       "pris": 300,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473389920",
       "funnet": "2026-08-15T12:30:39.915708+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466806355",
-      "funnet": "2026-08-15T12:28:19.975656+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destinal Rivals",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473389665",
-      "funnet": "2026-08-15T12:28:19.592422+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort lot – eldre kort fra EX-eraen",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473388971",
-      "funnet": "2026-08-15T12:26:19.585628+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
