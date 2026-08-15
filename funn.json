@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T08:04:16.960891+00:00",
+  "sist_sjekket": "2026-08-15T08:06:18.573810+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort gi bud",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473332642",
+      "funnet": "2026-08-15T08:06:18.571717+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mega Dragonite ex #232 - Pokemon",
       "pris": 220,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473340084",
       "funnet": "2026-08-14T23:20:24.448982+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-08-14T23:20:23.607310+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
