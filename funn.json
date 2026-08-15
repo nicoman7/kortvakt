@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T23:46:15.962156+00:00",
+  "sist_sjekket": "2026-08-15T23:48:20.851034+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473452535",
+      "funnet": "2026-08-15T23:48:20.848532+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ronaldo fotballkort samling",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465569611",
       "funnet": "2026-08-15T19:14:14.953252+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mega Gyarados EX og Pikachu EX",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473435241",
-      "funnet": "2026-08-15T19:14:14.334111+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
