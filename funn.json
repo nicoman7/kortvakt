@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T10:22:16.538040+00:00",
+  "sist_sjekket": "2026-08-15T10:24:16.355236+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-15T10:24:16.353448+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Blastoise EX #XY122 Holo Glins Jumbo Promo 2016 Kort",
       "pris": 799,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473355432",
       "funnet": "2026-08-15T08:04:16.396153+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolution Elite Trainer Box",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473355182",
-      "funnet": "2026-08-15T08:04:15.810698+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
