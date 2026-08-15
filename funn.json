@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-15T08:44:18.514116+00:00",
+  "sist_sjekket": "2026-08-15T08:46:17.583194+00:00",
   "funn": [
+    {
+      "tittel": "Panini-kort XXL",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473360020",
+      "funnet": "2026-08-15T08:46:17.581835+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort: Tauros 32/83",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/392493072",
+      "funnet": "2026-08-15T08:46:17.144592+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yu-Gi-Oh! samling med kort og metallboks",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473342751",
       "funnet": "2026-08-15T01:52:15.180610+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 3/132 – Secret Wonders Reverse Holo – 2007",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473342719",
-      "funnet": "2026-08-15T01:52:14.743006+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/64 – Jungle – WotC 1999",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473342645",
-      "funnet": "2026-08-15T01:40:22.565207+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
