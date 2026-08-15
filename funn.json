@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T15:38:17.108618+00:00",
+  "sist_sjekket": "2026-08-15T15:40:25.082647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samling med 8 kort i plastlommer",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473412487",
+      "funnet": "2026-08-15T15:40:25.080853+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort til salgs.",
       "pris": 120,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/421995596",
       "funnet": "2026-08-15T13:04:18.435815+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yamper #86 Pokemon Japanese Inferno X m2",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473371371",
-      "funnet": "2026-08-15T13:02:17.109895+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
