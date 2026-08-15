@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-15T12:38:14.910959+00:00",
+  "sist_sjekket": "2026-08-15T12:40:28.415152+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473390871",
+      "funnet": "2026-08-15T12:40:28.413330+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Barcelona Lionel Messi samlekort - Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473387578",
+      "funnet": "2026-08-15T12:40:27.572337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Rayquaza EX kort",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473390904",
+      "funnet": "2026-08-15T12:40:26.644788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon ex kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466929545",
+      "funnet": "2026-08-15T12:40:26.197625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling. Selger separat eller samlet",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466929109",
+      "funnet": "2026-08-15T12:40:25.345968+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece samlekort – Gum-Gum Golden Rifle Alt Art (OP15-116)",
       "pris": 600,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473366603",
       "funnet": "2026-08-15T09:36:26.866485+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Magneton 27/112",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473366959",
-      "funnet": "2026-08-15T09:36:26.052541+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "💎 MINIBOX - POKEMON MYSTERY💎",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472744600",
-      "funnet": "2026-08-15T09:36:25.591331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dream EX BB japansk",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473365982",
-      "funnet": "2026-08-15T09:34:20.693639+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Steelix holo kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473366444",
-      "funnet": "2026-08-15T09:34:20.327013+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-08-15T09:34:19.536897+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
