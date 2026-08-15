@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T11:18:18.724919+00:00",
+  "sist_sjekket": "2026-08-15T11:20:26.711361+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Jurney Together",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473380726",
+      "funnet": "2026-08-15T11:20:26.709164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon gen 5 fra First Partner Illustration Collection Series 2",
       "pris": 275,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473360721",
       "funnet": "2026-08-15T08:58:19.042494+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort samling",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473360451",
-      "funnet": "2026-08-15T08:58:18.265962+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
