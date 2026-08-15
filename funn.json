@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-15T07:00:57.053878+00:00",
+  "sist_sjekket": "2026-08-15T07:02:17.682832+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473349259",
+      "funnet": "2026-08-15T07:02:17.680617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449739078",
+      "funnet": "2026-08-15T07:02:17.322738+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Japansk Heracross Storm Emeralda (001)",
+      "pris": 13,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473349267",
+      "funnet": "2026-08-15T07:02:16.547087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Japansk Legendary Summit Storm Emeralda (74)",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473349498",
+      "funnet": "2026-08-15T07:02:16.129709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Japansk Legendary Marine Trench Storm Emeralda (72)",
       "pris": 8,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-14T22:28:15.934982+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps TV Animation Edition EP16 Battle Aboard the St. Anne samlekort",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339419",
-      "funnet": "2026-08-14T22:26:19.566737+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Butterfree samlekort #12",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339437",
-      "funnet": "2026-08-14T22:26:18.699143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Temporal Forces – Neo Upper Energy 162/162 – ACE SPEC",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339077",
-      "funnet": "2026-08-14T22:22:17.244611+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Crawdaunt 2/95 reverse holl",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473339290",
-      "funnet": "2026-08-14T22:22:16.752579+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
