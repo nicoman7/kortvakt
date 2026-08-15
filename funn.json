@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T22:08:19.445285+00:00",
+  "sist_sjekket": "2026-08-15T22:10:26.066848+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404042614",
+      "funnet": "2026-08-15T22:10:26.064778+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Sealed pokemon samling.",
       "pris": 111,
@@ -1190,14 +1198,6 @@
       "pris": 900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473430827",
       "funnet": "2026-08-15T18:32:19.222343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 samlekort med metallboks",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473430918",
-      "funnet": "2026-08-15T18:32:18.425734+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
