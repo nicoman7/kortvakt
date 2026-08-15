@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T01:24:16.372236+00:00",
+  "sist_sjekket": "2026-08-15T01:26:17.277939+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473342522",
+      "funnet": "2026-08-15T01:26:17.276017+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed Pokemon Pitch Black",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/413207994",
       "funnet": "2026-08-14T21:38:18.822713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon PSA graderte kort selges!",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473336824",
-      "funnet": "2026-08-14T21:38:18.037647+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
