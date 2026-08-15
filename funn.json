@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T16:30:41.118835+00:00",
+  "sist_sjekket": "2026-08-15T16:32:18.933779+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samleperm med kort Eevee motiv",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473417502",
+      "funnet": "2026-08-15T16:32:18.931845+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rotom V - Lost Origin - Pokemon",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T14:40:24.217995+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gloom Pokemonkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473405808",
-      "funnet": "2026-08-15T14:38:20.366466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
