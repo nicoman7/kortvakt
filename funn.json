@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T01:00:46.802918+00:00",
+  "sist_sjekket": "2026-08-15T01:02:19.032574+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-15T01:02:19.030775+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Riftbound - Masse Bulk, Rares, Epics, Alt arts, Alt Runes, Champion units ect.",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-14T21:38:18.037647+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball samlekort",
-      "pris": 1190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397953264",
-      "funnet": "2026-08-14T21:36:21.724469+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
