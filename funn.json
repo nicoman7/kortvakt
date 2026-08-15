@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T01:38:17.309638+00:00",
+  "sist_sjekket": "2026-08-15T01:40:22.567324+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 60/64 – Jungle – WotC 1999",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473342645",
+      "funnet": "2026-08-15T01:40:22.565207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 43/95 – EX Team Magma vs Team Aqua – 2004",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473336240",
       "funnet": "2026-08-14T21:38:20.101464+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps P06/06 Silver Foil – Pikachu & Charmander – 2000",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473336782",
-      "funnet": "2026-08-14T21:38:19.692136+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
