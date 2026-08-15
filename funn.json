@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-15T21:28:16.237259+00:00",
+  "sist_sjekket": "2026-08-15T21:30:41.100672+00:00",
   "funn": [
+    {
+      "tittel": "Samling Pokémon-kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473447213",
+      "funnet": "2026-08-15T21:30:41.098697+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachusamleperm med generasjon 1 pokemonkort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T18:28:19.713281+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-15T18:28:18.863483+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
