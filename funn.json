@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-16T16:40:25.036255+00:00",
+  "sist_sjekket": "2026-08-16T16:42:17.277317+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 241/236",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473555620",
+      "funnet": "2026-08-16T16:42:17.275607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Med kjente spillere",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473555846",
+      "funnet": "2026-08-16T16:42:16.500355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Raw - Diverse kort - Gi bud - Gratis frakt!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473556050",
+      "funnet": "2026-08-16T16:42:16.118552+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Selder 7 pokemón kort",
       "pris": 1400,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473532523",
       "funnet": "2026-08-16T14:20:23.777705+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu samling (2017-2026)",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/462161389",
-      "funnet": "2026-08-16T14:20:22.989466+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – trenings- og itemkort bunt",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473531562",
-      "funnet": "2026-08-16T14:18:22.212174+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Orcish Bowmasters kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473524992",
-      "funnet": "2026-08-16T14:18:21.355393+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
