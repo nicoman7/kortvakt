@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T15:00:49.061229+00:00",
+  "sist_sjekket": "2026-08-16T15:02:18.452653+00:00",
   "funn": [
+    {
+      "tittel": "Fotball",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/320797368",
+      "funnet": "2026-08-16T15:02:18.450595+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "masse bulk til master set",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473472558",
+      "funnet": "2026-08-16T15:02:17.882533+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre futera kort, usignerte auto",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473517747",
       "funnet": "2026-08-16T13:00:52.582791+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort 2016 Exclusive Edition Forward Trio S27",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361368333",
-      "funnet": "2026-08-16T12:58:20.582264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gigantisk Topps Match Attax 24/25 samlemappe med fotballkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465307736",
-      "funnet": "2026-08-16T12:58:19.802956+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
