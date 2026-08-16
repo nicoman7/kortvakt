@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T02:14:16.361594+00:00",
+  "sist_sjekket": "2026-08-16T02:16:18.601757+00:00",
   "funn": [
+    {
+      "tittel": "Elvis Presley - Samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/243602279",
+      "funnet": "2026-08-16T02:16:18.599583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-16T02:16:18.342205+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort - Holo/Reverse Holo Dark-Type samling - Gratis frakt",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473435565",
       "funnet": "2026-08-15T19:20:31.240653+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort boosterpakker pitch black",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473435880",
-      "funnet": "2026-08-15T19:20:30.365860+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Gardevoir EX og Riolu",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473435457",
-      "funnet": "2026-08-15T19:20:29.580942+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
