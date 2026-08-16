@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T14:20:24.845147+00:00",
+  "sist_sjekket": "2026-08-16T14:22:16.598231+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – blandet lot med holo og GX/V-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464149797",
+      "funnet": "2026-08-16T14:22:16.596477+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – trenerkort / supporterkort – bunt",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-16T12:28:15.758099+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Magic: The Gathering kort til salgs",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473509690",
-      "funnet": "2026-08-16T12:28:15.247094+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
