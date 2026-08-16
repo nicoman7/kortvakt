@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T23:08:16.808848+00:00",
+  "sist_sjekket": "2026-08-16T23:10:26.048779+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon samling.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
+      "funnet": "2026-08-16T23:10:26.046871+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort (Ascended Heroes) – Shuppet Reverse Holo 090/217",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-16T21:36:16.523418+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Japansk Pokémon-kort – Brambleghast 012/187",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473580241",
-      "funnet": "2026-08-16T21:34:19.535798+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
