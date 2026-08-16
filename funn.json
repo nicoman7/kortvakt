@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T17:24:21.623013+00:00",
+  "sist_sjekket": "2026-08-16T17:26:18.797571+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon samling.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
+      "funnet": "2026-08-16T17:26:18.795682+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Togepi reverse holo",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/362831932",
       "funnet": "2026-08-16T16:00:57.084074+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473549560",
-      "funnet": "2026-08-16T16:00:56.215063+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
