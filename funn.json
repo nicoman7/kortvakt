@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-16T17:46:17.325538+00:00",
+  "sist_sjekket": "2026-08-16T17:48:17.811932+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473567345",
+      "funnet": "2026-08-16T17:48:17.809839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Venusaur Solarbeam",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473567675",
+      "funnet": "2026-08-16T17:48:16.988510+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Alolan Vulpix Snowed In",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473567871",
+      "funnet": "2026-08-16T17:48:16.163830+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Lycanroc V holo",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-16T16:24:16.929985+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort- Houndoom 066/064 Shrouded fable",
-      "pris": 675,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473553298",
-      "funnet": "2026-08-16T16:24:16.163671+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - 2008 - Legends Awakened - base kort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473528155",
-      "funnet": "2026-08-16T16:22:21.123252+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort pakke: Toucannon (Illustration Rare) + flere kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473552652",
-      "funnet": "2026-08-16T16:20:25.703064+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
