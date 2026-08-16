@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-16T08:10:24.371963+00:00",
+  "sist_sjekket": "2026-08-16T08:12:22.727286+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – VSTAR Universe (japansk)",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459990836",
+      "funnet": "2026-08-16T08:12:22.725547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Whimsicott Fates Collide (71)",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473468178",
+      "funnet": "2026-08-16T08:12:21.900660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460219201",
+      "funnet": "2026-08-16T08:12:21.121448+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mr. Mime XY Base Set (91)",
       "pris": 4,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-15T22:50:22.120467+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spinarak 006/078 - Pokemon GO",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467253406",
-      "funnet": "2026-08-15T22:48:18.493541+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Juan Mata/150 Autograf Topps Chrome UCC",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473448904",
-      "funnet": "2026-08-15T22:38:16.255679+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-08-15T22:38:15.403209+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
