@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T18:52:26.123468+00:00",
+  "sist_sjekket": "2026-08-16T18:54:17.082918+00:00",
   "funn": [
+    {
+      "tittel": "Diverse jspanske Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473578448",
+      "funnet": "2026-08-16T18:54:17.081338+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Vintage Holos - Base Set, Base Set 2, Fossil, Jungle, Neo Destiny",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473561689",
       "funnet": "2026-08-16T17:12:19.066005+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samleboks i metall med samlekort - 55 stk. Marvel Avengers 🤩",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473561011",
-      "funnet": "2026-08-16T17:10:25.038184+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
