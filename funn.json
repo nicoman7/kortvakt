@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-16T10:20:26.468600+00:00",
+  "sist_sjekket": "2026-08-16T10:22:20.419880+00:00",
   "funn": [
+    {
+      "tittel": "Brukte telekort til salgs fra flere land, flest norske",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/338679575",
+      "funnet": "2026-08-16T10:22:20.418128+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Plusle 39/108 - Pokemon Dark Explorers",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473488608",
+      "funnet": "2026-08-16T10:22:19.839144+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort med album – ca. 90 kort",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473487873",
+      "funnet": "2026-08-16T10:22:19.482636+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tarragon #116 Pokemon Perfect Order",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473371907",
+      "funnet": "2026-08-16T10:22:19.148641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kangaskhan 21/64 – Jungle – Rare – Vintage WotC",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473488754",
+      "funnet": "2026-08-16T10:22:18.872037+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA Adrenalyn. Nye kort lagt til! Stor Samling",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
+      "funnet": "2026-08-16T10:22:18.307789+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Throh 61/114 - Pokemon Black & White",
       "pris": 25,
@@ -1151,54 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473464180",
       "funnet": "2026-08-16T07:38:19.785977+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Candela Pokemon Go (65)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473463527",
-      "funnet": "2026-08-16T07:32:17.902536+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Spark Pokemon Go (70)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473463714",
-      "funnet": "2026-08-16T07:32:17.566792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - N’s Zoroark EX SAR! (2)",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467258529",
-      "funnet": "2026-08-16T07:26:18.513946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Groudon Storm Emeralda (39)",
-      "pris": 6,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473462798",
-      "funnet": "2026-08-16T07:26:17.903821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Cacturne Storm Emeralda (005) Holo",
-      "pris": 6,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473462563",
-      "funnet": "2026-08-16T07:22:17.605170+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Kommo-o Storm Emeralda (52) Holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473462319",
-      "funnet": "2026-08-16T07:18:19.233927+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
