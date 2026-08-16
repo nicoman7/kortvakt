@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T19:36:22.771219+00:00",
+  "sist_sjekket": "2026-08-16T19:38:15.735227+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lechonk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473585869",
+      "funnet": "2026-08-16T19:38:15.733168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Trubbish IR kort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473585578",
+      "funnet": "2026-08-16T19:38:15.238599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Shaymin kort",
       "pris": 180,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473197328",
       "funnet": "2026-08-16T18:26:19.019315+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Growlithe #64 (reverse holo)",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465648275",
-      "funnet": "2026-08-16T18:26:18.191046+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Flareon samlemappe oransje",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473529763",
-      "funnet": "2026-08-16T18:26:17.316676+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
