@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T08:40:23.445483+00:00",
+  "sist_sjekket": "2026-08-16T08:42:18.899130+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Jolteon VMAX",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473471996",
+      "funnet": "2026-08-16T08:42:18.897103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Houndoom #801 Pokemon Chinese Gem Pack 5",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T23:02:16.308612+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-15T23:02:15.652483+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
