@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T08:08:18.079687+00:00",
+  "sist_sjekket": "2026-08-16T08:10:24.371963+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mr. Mime XY Base Set (91)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473467757",
+      "funnet": "2026-08-16T08:10:24.369927+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 151 Venusaur",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473467858",
+      "funnet": "2026-08-16T08:10:24.029591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Geodude Flashfire (45)",
       "pris": 4,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-15T22:38:15.403209+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Fearow Expedition (45)",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451298568",
-      "funnet": "2026-08-15T22:36:19.483578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Bellossom Aquapolis (5)",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451298577",
-      "funnet": "2026-08-15T22:36:19.024493+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
