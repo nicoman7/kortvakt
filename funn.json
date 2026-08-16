@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-16T18:06:20.225383+00:00",
+  "sist_sjekket": "2026-08-16T18:08:20.381628+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/412829309",
+      "funnet": "2026-08-16T18:08:20.379796+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon lot - 12 kort - ulike serier",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473564793",
+      "funnet": "2026-08-16T18:08:19.530263+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471927350",
+      "funnet": "2026-08-16T18:08:19.171814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fine Pokemonkort til salgs!",
       "pris": 425,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-16T16:44:15.280129+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 241/236",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473555620",
-      "funnet": "2026-08-16T16:42:17.275607+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Med kjente spillere",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473555846",
-      "funnet": "2026-08-16T16:42:16.500355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raw - Diverse kort - Gi bud - Gratis frakt!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473556050",
-      "funnet": "2026-08-16T16:42:16.118552+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
