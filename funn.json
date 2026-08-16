@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T17:48:17.811932+00:00",
+  "sist_sjekket": "2026-08-16T17:50:25.009450+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Luvdisc Basic",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473568016",
+      "funnet": "2026-08-16T17:50:25.007362+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon – Vintage og moderne – mange sjeldne kort!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468841944",
+      "funnet": "2026-08-16T17:50:24.595558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokemon kort",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-16T16:28:16.980656+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini - Premier League 2024 - Tomt album",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/433093765",
-      "funnet": "2026-08-16T16:28:16.034085+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort samling VM/landslag",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473553354",
-      "funnet": "2026-08-16T16:24:16.929985+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
