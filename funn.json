@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T06:06:21.459223+00:00",
+  "sist_sjekket": "2026-08-16T06:08:16.380048+00:00",
   "funn": [
+    {
+      "tittel": "Charizard Ex Evolutions 012/108(DMG)",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473456831",
+      "funnet": "2026-08-16T06:08:16.378066+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ditto",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/461569883",
       "funnet": "2026-08-15T19:44:16.583660+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort samling",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
-      "funnet": "2026-08-15T19:44:16.006125+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
