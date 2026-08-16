@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T07:02:17.271935+00:00",
+  "sist_sjekket": "2026-08-16T07:04:17.459448+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/402784988",
+      "funnet": "2026-08-16T07:04:17.457259+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kort perm/binder 768 kort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/451153393",
       "funnet": "2026-08-15T20:58:16.588556+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Parkhurst ishockey samlekort sett",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451154571",
-      "funnet": "2026-08-15T20:58:16.196408+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
