@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T08:28:20.211196+00:00",
+  "sist_sjekket": "2026-08-16T08:30:38.001653+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466968959",
+      "funnet": "2026-08-16T08:30:37.999590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466969410",
+      "funnet": "2026-08-16T08:30:37.167250+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473451304",
       "funnet": "2026-08-15T22:58:18.747601+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Surfing Pikachu V og Tag Team GX",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473451165",
-      "funnet": "2026-08-15T22:58:17.911177+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ariados 007/078 - Pokemon Go",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467254018",
-      "funnet": "2026-08-15T22:56:18.142056+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
