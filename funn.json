@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T11:24:18.943415+00:00",
+  "sist_sjekket": "2026-08-16T11:26:15.522378+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-16T11:26:15.520542+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Milotic 12/101 Holo Rare – EX Hidden Legends 2004 – NM",
       "pris": 699,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473484215",
       "funnet": "2026-08-16T10:00:49.240944+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Darkrai ex 101/084 – Pitch Black – Ultra Rare",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473484154",
-      "funnet": "2026-08-16T10:00:48.898206+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
