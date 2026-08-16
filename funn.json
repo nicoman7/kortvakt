@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T15:30:39.528295+00:00",
+  "sist_sjekket": "2026-08-16T15:32:17.424669+00:00",
   "funn": [
+    {
+      "tittel": "Formel 2 kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/364385357",
+      "funnet": "2026-08-16T15:32:17.422309+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Formel 3 kort",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472691773",
       "funnet": "2026-08-16T13:34:22.741460+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Poliwrath 60/165 – Expedition Base Set 2002 – Non-Holo Rare",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473523923",
-      "funnet": "2026-08-16T13:32:18.194735+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
