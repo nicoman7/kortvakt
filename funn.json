@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T19:56:17.828383+00:00",
+  "sist_sjekket": "2026-08-16T19:58:19.747180+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attack 2009-2011",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/308509783",
+      "funnet": "2026-08-16T19:58:19.745141+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Larvitar 037/078 - Pokemon Go",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467314399",
+      "funnet": "2026-08-16T19:58:18.844683+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div Bayern München fotballkort",
       "pris": 70,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-16T18:54:17.081338+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Vintage Holos - Base Set, Base Set 2, Fossil, Jungle, Neo Destiny",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473576524",
-      "funnet": "2026-08-16T18:52:26.121732+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Dark Gyarados Holo 2000 Team Rocket PSA 8",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473577730",
-      "funnet": "2026-08-16T18:52:25.322759+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
