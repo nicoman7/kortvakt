@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T20:52:15.734557+00:00",
+  "sist_sjekket": "2026-08-16T20:54:14.319481+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Tricky samlekort Hypnosis angrepskort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460325518",
+      "funnet": "2026-08-16T20:54:14.317544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Florges Rengeki samlekort holo japansk",
       "pris": 55,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-16T19:20:27.153054+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Professor Turo's Scenario trenerkort holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473583247",
-      "funnet": "2026-08-16T19:20:26.848161+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
