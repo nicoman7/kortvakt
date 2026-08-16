@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-16T17:42:15.749720+00:00",
+  "sist_sjekket": "2026-08-16T17:44:16.734476+00:00",
   "funn": [
+    {
+      "tittel": "Looney Tunes-kort fra 80-tallet",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/321529017",
+      "funnet": "2026-08-16T17:44:16.732576+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini fotballkort VM 2026",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473565388",
+      "funnet": "2026-08-16T17:44:16.466696+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Selger pokemonkort(hele binderen)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473566139",
+      "funnet": "2026-08-16T17:44:15.755638+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Galarian Moltres V kort",
       "pris": 200,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473551925",
       "funnet": "2026-08-16T16:16:20.650232+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh Blue-Eyes White Dragon samlekort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472052796",
-      "funnet": "2026-08-16T16:16:19.865971+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – 5 kort i plastlommer",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473551522",
-      "funnet": "2026-08-16T16:14:16.639081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort- Okidogi 074/064 Shrouded fable",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473551930",
-      "funnet": "2026-08-16T16:14:16.274920+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
