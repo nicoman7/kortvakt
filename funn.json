@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T16:22:21.124954+00:00",
+  "sist_sjekket": "2026-08-16T16:24:16.932075+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort samling VM/landslag",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473553354",
+      "funnet": "2026-08-16T16:24:16.929985+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort- Houndoom 066/064 Shrouded fable",
+      "pris": 675,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473553298",
+      "funnet": "2026-08-16T16:24:16.163671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - 2008 - Legends Awakened - base kort",
       "pris": 3,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473529431",
       "funnet": "2026-08-16T14:08:15.383198+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first partner trio",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473529013",
-      "funnet": "2026-08-16T14:06:18.591234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – samling med Fighting-type kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473529519",
-      "funnet": "2026-08-16T14:06:17.756980+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
