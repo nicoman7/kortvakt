@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T17:54:21.850614+00:00",
+  "sist_sjekket": "2026-08-16T17:56:15.095349+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Japansk bulk selges 75kr/kilo",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473568704",
+      "funnet": "2026-08-16T17:56:15.093656+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
+      "funnet": "2026-08-16T17:56:14.398310+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon ex kort - 87 japanske ex kort",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473555319",
       "funnet": "2026-08-16T16:34:16.660234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ledyba - Skyridge - Pokemon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473554918",
-      "funnet": "2026-08-16T16:32:15.417295+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Skyridge 2003 – 5 kort – selges samlet",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473554300",
-      "funnet": "2026-08-16T16:32:14.808790+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
