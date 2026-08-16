@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T05:16:14.629441+00:00",
+  "sist_sjekket": "2026-08-16T05:18:17.958555+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473455379",
+      "funnet": "2026-08-16T05:18:17.956367+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 19-20 Adrenalyn XL fotballkort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466223087",
       "funnet": "2026-08-15T19:28:20.348973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Store pokemon kort V, ex og Vstar",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473435421",
-      "funnet": "2026-08-15T19:28:19.572558+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
