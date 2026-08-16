@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T05:56:15.135755+00:00",
+  "sist_sjekket": "2026-08-16T05:58:20.358174+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ditto",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473456608",
+      "funnet": "2026-08-16T05:58:20.356091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard Sun & Moon promo 211",
+      "pris": 159,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473456703",
+      "funnet": "2026-08-16T05:58:19.502356+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard & Reshiram GX Tag Team Allstars 016/173 (jp)",
       "pris": 389,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
       "funnet": "2026-08-15T19:44:16.006125+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon perm med vintage kort og nyere kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473437481",
-      "funnet": "2026-08-15T19:42:18.312012+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Zekrom EX japansk SAR",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473438320",
-      "funnet": "2026-08-15T19:42:17.482278+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
