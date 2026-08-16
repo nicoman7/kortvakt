@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T17:36:15.008074+00:00",
+  "sist_sjekket": "2026-08-16T17:38:18.675158+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Bulk",
+      "pris": 1080,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473565955",
+      "funnet": "2026-08-16T17:38:18.673301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Groudon EX Delta Species",
       "pris": 650,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473551262",
       "funnet": "2026-08-16T16:10:27.851526+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon PIKACHU",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/177294303",
-      "funnet": "2026-08-16T16:10:26.951676+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
