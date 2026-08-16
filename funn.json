@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T11:50:26.523130+00:00",
+  "sist_sjekket": "2026-08-16T11:52:15.804419+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM-kort Bilal El Khannouss Marokko U26",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473503506",
+      "funnet": "2026-08-16T11:52:15.802457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Harry Potter Trading Cards samlealbum",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473505285",
+      "funnet": "2026-08-16T11:52:15.476526+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort - Holo/Reverse Holo Grass/Bug-Type samling - Gratis frakt",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473488524",
       "funnet": "2026-08-16T10:20:24.610225+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "N's Reshiram #167 Pokemon Journey Together",
-      "pris": 230,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473372014",
-      "funnet": "2026-08-16T10:20:24.252559+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar V #156 Pokemon Fusion Strike",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473372322",
-      "funnet": "2026-08-16T10:19:25.764665+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
