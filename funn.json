@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T13:56:16.489124+00:00",
+  "sist_sjekket": "2026-08-16T13:58:18.823971+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon GO offisielt magasin med Pikachu 2011",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473528033",
+      "funnet": "2026-08-16T13:58:18.822447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-16T13:58:18.020882+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage eReader Pokémon kort samling selges",
       "pris": 750,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473509725",
       "funnet": "2026-08-16T12:10:25.481210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Obsidian flames",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473505403",
-      "funnet": "2026-08-16T12:10:24.592910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Gonçalo Ramos fotballkort Portugal U33",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473508715",
-      "funnet": "2026-08-16T12:10:24.254032+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
