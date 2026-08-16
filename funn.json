@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T14:56:17.970305+00:00",
+  "sist_sjekket": "2026-08-16T14:58:17.592449+00:00",
   "funn": [
+    {
+      "tittel": "Eldre futera kort, usignerte auto",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473538764",
+      "funnet": "2026-08-16T14:58:17.590326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NHL Ishockey kort. 1994-95 Cam Neely(Bruins), Dale Hawerchuk(Sabres). FK256",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465307736",
       "funnet": "2026-08-16T12:58:19.802956+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Magikarp & Wailord GX Tag Team kort SM166",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473516716",
-      "funnet": "2026-08-16T12:58:19.165213+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
