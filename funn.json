@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T07:44:17.113417+00:00",
+  "sist_sjekket": "2026-08-16T07:46:18.016773+00:00",
   "funn": [
+    {
+      "tittel": "Brock’s gift",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473464885",
+      "funnet": "2026-08-16T07:46:18.014599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort perm",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-15T21:34:16.817439+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samling Pokémon-kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473447213",
-      "funnet": "2026-08-15T21:30:41.098697+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
