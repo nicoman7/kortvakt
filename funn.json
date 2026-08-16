@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T09:16:17.602263+00:00",
+  "sist_sjekket": "2026-08-16T09:18:16.503830+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon energikort 195 stk",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473476926",
+      "funnet": "2026-08-16T09:18:16.501673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling Pokémon-kort reverse holos og holos",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
       "funnet": "2026-08-16T00:12:14.544549+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort: Scolipede 58/147 (reverse holo)",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393561165",
-      "funnet": "2026-08-15T23:56:16.389757+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
