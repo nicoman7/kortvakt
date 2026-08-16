@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T13:58:18.823971+00:00",
+  "sist_sjekket": "2026-08-16T14:00:48.215192+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samling med gress- og noen psychic-kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473525892",
+      "funnet": "2026-08-16T14:00:48.213344+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Generations",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473528661",
+      "funnet": "2026-08-16T14:00:47.781458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon GO offisielt magasin med Pikachu 2011",
       "pris": 299,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-16T12:10:26.642588+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini João Félix Portugal Hero U34",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473508526",
-      "funnet": "2026-08-16T12:10:25.949421+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort m/ prisliste",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473509725",
-      "funnet": "2026-08-16T12:10:25.481210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
