@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T08:26:15.041551+00:00",
+  "sist_sjekket": "2026-08-16T08:28:20.211196+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466969911",
+      "funnet": "2026-08-16T08:28:20.209399+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466969684",
+      "funnet": "2026-08-16T08:28:19.374505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eternes 22 - Panini Vm kort",
       "pris": 700,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467254018",
       "funnet": "2026-08-15T22:56:18.142056+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Numel 013/078 - Pokemon Go",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467255034",
-      "funnet": "2026-08-15T22:56:17.840586+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charmeleon 009/078 - Pokemon Go",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467254443",
-      "funnet": "2026-08-15T22:56:17.267099+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
