@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T14:14:20.231288+00:00",
+  "sist_sjekket": "2026-08-16T14:16:17.312088+00:00",
   "funn": [
+    {
+      "tittel": "Pawmi evolution samling",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466634466",
+      "funnet": "2026-08-16T14:16:17.310222+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard VMAX",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473531662",
+      "funnet": "2026-08-16T14:16:16.721906+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – Chimchar, Turtwig og Piplup promokort",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473505598",
       "funnet": "2026-08-16T12:22:20.281943+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eduardo Camavinga topps finest 003/250 fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/278029734",
-      "funnet": "2026-08-16T12:22:19.322071+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samuel Iling-Junior /199 Rookie fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333292694",
-      "funnet": "2026-08-16T12:22:18.438371+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
