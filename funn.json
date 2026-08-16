@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T21:18:15.874946+00:00",
+  "sist_sjekket": "2026-08-16T21:20:24.587756+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokémon kort 2002-2008",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473595481",
+      "funnet": "2026-08-16T21:20:24.585513+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 3,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473582107",
       "funnet": "2026-08-16T19:30:42.261475+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Tepig samlekort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473584419",
-      "funnet": "2026-08-16T19:28:17.694287+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
