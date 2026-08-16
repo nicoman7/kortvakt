@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-16T10:54:23.940071+00:00",
+  "sist_sjekket": "2026-08-16T10:56:18.644842+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort 100 stk",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473494274",
+      "funnet": "2026-08-16T10:56:18.643462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-16T10:56:18.287116+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps fotballkort 19 stk . Manchester United , Manchester City mm .",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-16T09:20:25.278074+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon energikort 195 stk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473476926",
-      "funnet": "2026-08-16T09:18:16.501673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-16T09:16:17.600514+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
