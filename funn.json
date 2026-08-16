@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T12:16:22.506016+00:00",
+  "sist_sjekket": "2026-08-16T12:18:18.332016+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort m/ prisliste",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473510984",
+      "funnet": "2026-08-16T12:18:18.329911+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort David Møller Wolfe Norge HERO nr 340",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/385168326",
       "funnet": "2026-08-16T10:38:19.941945+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan's Ho-Oh ex #39 Pokemon Destined Rivals",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473368883",
-      "funnet": "2026-08-16T10:38:19.036447+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
