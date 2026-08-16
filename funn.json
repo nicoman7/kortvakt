@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-16T09:14:17.504123+00:00",
+  "sist_sjekket": "2026-08-16T09:16:17.602263+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
+      "funnet": "2026-08-16T09:16:17.600514+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2007 Gardevoir LV. X #131 – Pokémon Secret Wonders Pokémon kort",
       "pris": 420,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/393561165",
       "funnet": "2026-08-15T23:56:16.389757+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chelsea Football Club, Topps Match Attax",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/386299405",
-      "funnet": "2026-08-15T23:52:16.264009+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
