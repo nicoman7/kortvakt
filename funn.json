@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-17T17:02:16.887158+00:00",
+  "sist_sjekket": "2026-08-17T17:04:22.399350+00:00",
   "funn": [
+    {
+      "tittel": "Kort",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/353295397",
+      "funnet": "2026-08-17T17:04:22.397524+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/263574922",
+      "funnet": "2026-08-17T17:04:21.504536+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/267614032",
+      "funnet": "2026-08-17T17:04:20.596095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Digimon kort",
       "pris": 350,
@@ -1174,30 +1198,6 @@
       "pris": 225,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473668010",
       "funnet": "2026-08-17T15:20:37.713823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon First Partner Illustration Collection Series 3 samleboks",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473668538",
-      "funnet": "2026-08-17T15:20:37.322444+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort artist: Shinji Kanda",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473668213",
-      "funnet": "2026-08-17T15:20:36.890454+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tashigi SP EB03 One Piece Kort Engelsk",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473668175",
-      "funnet": "2026-08-17T15:18:15.519540+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
