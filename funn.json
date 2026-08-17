@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T10:36:16.863227+00:00",
+  "sist_sjekket": "2026-08-17T10:38:20.489746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling Pikachu og diverse V/VMAX",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473630733",
+      "funnet": "2026-08-17T10:38:20.488067+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kristian Thorstvedt Auto /49 - 2023-24 Panini Donruss Soccer",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-17T05:34:21.886210+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473603869",
-      "funnet": "2026-08-17T05:16:19.556547+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
