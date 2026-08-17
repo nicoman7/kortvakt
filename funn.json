@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T16:10:29.708557+00:00",
+  "sist_sjekket": "2026-08-17T16:12:17.735545+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-17T16:12:17.733886+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Telekort",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473663067",
       "funnet": "2026-08-17T14:36:23.455044+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner (Alola)",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473663148",
-      "funnet": "2026-08-17T14:36:23.093944+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
