@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-17T09:30:47.182542+00:00",
+  "sist_sjekket": "2026-08-17T09:32:20.158196+00:00",
   "funn": [
+    {
+      "tittel": "pokemon tomme bokser",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/336908628",
+      "funnet": "2026-08-17T09:32:20.156394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marvel kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/375299985",
+      "funnet": "2026-08-17T09:32:19.359708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax Real Madrid kort Arda Güler, David Alaba og Rodrygo",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473626664",
+      "funnet": "2026-08-17T09:32:18.929993+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/411776622",
+      "funnet": "2026-08-17T09:32:18.032043+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax fotballkort Premier League samling",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473626720",
+      "funnet": "2026-08-17T09:32:17.112588+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Aquapolis e-Reader – Togepi, Chansey, Dodrio m.fl. – 8 kort",
       "pris": 500,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473600259",
       "funnet": "2026-08-16T23:02:18.302511+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – Team Rocket's Dugtrio 101/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473526447",
-      "funnet": "2026-08-16T23:02:17.610159+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-08-16T23:02:17.333596+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – Dratini 150/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473527353",
-      "funnet": "2026-08-16T23:00:55.440110+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – Mawile 144/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473527300",
-      "funnet": "2026-08-16T23:00:54.660906+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – Galarian Zigzagoon Reverse Holo 130/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473527678",
-      "funnet": "2026-08-16T23:00:54.321885+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
