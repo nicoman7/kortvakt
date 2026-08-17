@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-17T07:38:14.944797+00:00",
+  "sist_sjekket": "2026-08-17T07:40:27.922593+00:00",
   "funn": [
+    {
+      "tittel": "Bulkkort fra Black Bolt og White Flare",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451193970",
+      "funnet": "2026-08-17T07:40:27.920749+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Top Class Luka Modric og Alisson fotballkort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473614277",
+      "funnet": "2026-08-17T07:40:27.553241+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "NORGES BILLIGSTE - KUN 75kr - FORHÅNDSBESTILL POKEMON STORM EMERALDA BOOSTERPACK",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473599971",
       "funnet": "2026-08-16T22:46:19.461269+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – N's Vanilluxe 051/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473521585",
-      "funnet": "2026-08-16T22:46:19.027796+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Ascended Heroes) – Team Rocket's Exeggcute 077/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473522069",
-      "funnet": "2026-08-16T22:46:18.639465+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
