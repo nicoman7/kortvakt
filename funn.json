@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-17T10:12:15.460598+00:00",
+  "sist_sjekket": "2026-08-17T10:14:16.565832+00:00",
   "funn": [
+    {
+      "tittel": "Fomantis 085/084 - Pokemon Pitch Black",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473631687",
+      "funnet": "2026-08-17T10:14:16.563831+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Div PSA Graderte Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
+      "funnet": "2026-08-17T10:14:16.325913+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Primarina 088/084 - Pokemon Pitch Black",
       "pris": 55,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-17T01:06:15.636480+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
-      "funnet": "2026-08-17T01:04:18.737343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
-      "funnet": "2026-08-17T00:48:18.061163+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
