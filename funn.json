@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-17T17:22:21.513981+00:00",
+  "sist_sjekket": "2026-08-17T17:26:18.062532+00:00",
   "funn": [
+    {
+      "tittel": "Stor eske med fotballkort og andre samlekort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473684949",
+      "funnet": "2026-08-17T17:26:18.060699+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kabutops Reverse Holo #150 Pokemon Skyridge",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458343083",
+      "funnet": "2026-08-17T17:26:17.632984+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 klistermerker byttes",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-17T15:30:43.450131+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Black & White - Boundaries Crossed",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440767816",
-      "funnet": "2026-08-17T15:30:42.720326+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473669511",
-      "funnet": "2026-08-17T15:30:42.000756+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
