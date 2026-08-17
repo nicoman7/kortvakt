@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T05:14:22.462679+00:00",
+  "sist_sjekket": "2026-08-17T05:16:19.558668+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473603869",
+      "funnet": "2026-08-17T05:16:19.556547+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Borussia Mönchengladbach (5 fotballkort)",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473550134",
       "funnet": "2026-08-16T21:58:15.246533+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Surging Sparks) – Donphan 103/191",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473549994",
-      "funnet": "2026-08-16T21:58:14.630941+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
