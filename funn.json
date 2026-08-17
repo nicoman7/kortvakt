@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-17T14:48:16.804333+00:00",
+  "sist_sjekket": "2026-08-17T14:50:25.991658+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473663817",
+      "funnet": "2026-08-17T14:50:25.989899+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Pikachu",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473664857",
+      "funnet": "2026-08-17T14:50:25.570184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-17T14:50:25.175114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort First Partner series 2",
       "pris": 123,
@@ -1174,30 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473655899",
       "funnet": "2026-08-17T13:30:42.104720+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ponyta #102 Pokemon Chinese Gem Pack 4",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473656115",
-      "funnet": "2026-08-17T13:30:41.249784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ponyta #101 Pokemon Chinese Gem Pack 4",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473655481",
-      "funnet": "2026-08-17T13:28:18.174431+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Celebi V holografisk samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473655277",
-      "funnet": "2026-08-17T13:26:21.761082+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
