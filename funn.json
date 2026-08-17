@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-17T18:22:16.879823+00:00",
+  "sist_sjekket": "2026-08-17T18:26:21.744520+00:00",
   "funn": [
+    {
+      "tittel": "180 TCG Live kodekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473693946",
+      "funnet": "2026-08-17T18:26:21.742493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Latias δ Delta Species holo samlekort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473694037",
+      "funnet": "2026-08-17T18:26:20.909096+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Magnezone V kort",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-17T17:00:55.996035+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "ETB sleeves fra Pokemon TCG sett",
-      "pris": 949,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473680850",
-      "funnet": "2026-08-17T17:00:55.575904+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Umbreon & Darkrai GX Tag Team kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473681537",
-      "funnet": "2026-08-17T17:00:54.682191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
