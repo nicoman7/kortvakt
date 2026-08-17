@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-17T16:08:16.819486+00:00",
+  "sist_sjekket": "2026-08-17T16:10:29.708557+00:00",
   "funn": [
+    {
+      "tittel": "Telekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/431551907",
+      "funnet": "2026-08-17T16:10:29.706441+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Dunsparce e-Card holo Yuka Morii",
+      "pris": 1249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473674495",
+      "funnet": "2026-08-17T16:10:28.883199+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort & Pokémon selges enkeltvis eller samlet",
+      "pris": 420,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473673053",
+      "funnet": "2026-08-17T16:10:27.956386+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort samling med Gardevoir GX Rainbow",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473673841",
+      "funnet": "2026-08-17T16:10:27.541700+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "TOPPS Fotballkort - Arsenal",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473674707",
+      "funnet": "2026-08-17T16:10:26.757383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "TOPPS Fotballkort- Leeds",
       "pris": 50,
@@ -1158,46 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473663148",
       "funnet": "2026-08-17T14:36:23.093944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini kort Alexis Vega Hero Mexico U24",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473663325",
-      "funnet": "2026-08-17T14:36:22.312433+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Mohammed Salisu HERO U21",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473663163",
-      "funnet": "2026-08-17T14:36:21.519097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STRAY KIDS FANMEETING MERCH KORT",
-      "pris": 71,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473663008",
-      "funnet": "2026-08-17T14:36:20.763752+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mewtwo V #30 Pokemon Go",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473547714",
-      "funnet": "2026-08-17T14:36:19.983522+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax 2025/26 Squadzone Exclusive Festive Edition – komplett 24 kort",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473662472",
-      "funnet": "2026-08-17T14:36:19.216412+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
