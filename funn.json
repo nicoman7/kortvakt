@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T11:58:15.833460+00:00",
+  "sist_sjekket": "2026-08-17T12:00:50.037708+00:00",
   "funn": [
+    {
+      "tittel": "🎁 Kjøper du alt samlet, får du med en overraskelse!",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473644475",
+      "funnet": "2026-08-17T12:00:50.035661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-17T07:18:15.236772+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort - Jungle Set (Prisliste i annonse)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/429685009",
-      "funnet": "2026-08-17T07:16:22.278215+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
