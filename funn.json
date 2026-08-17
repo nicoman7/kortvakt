@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-17T19:44:16.805986+00:00",
+  "sist_sjekket": "2026-08-17T19:46:19.138442+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473704615",
+      "funnet": "2026-08-17T19:46:19.136863+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Merlin Andreas Schjelderup Benfica kort 087/275",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473705497",
+      "funnet": "2026-08-17T19:46:18.358095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini World Cup 2026 stickers",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473705436",
+      "funnet": "2026-08-17T19:46:17.408839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Penny 239/198 Trainer kort",
       "pris": 60,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473694188",
       "funnet": "2026-08-17T18:30:42.588437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dream reverse holo (japansk)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473694325",
-      "funnet": "2026-08-17T18:30:41.808213+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort( ex, V, full art osv) selges til rundt markedspris",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473694267",
-      "funnet": "2026-08-17T18:30:41.371002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dream ++ i bulk (japansk)",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473694743",
-      "funnet": "2026-08-17T18:30:40.908477+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
