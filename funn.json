@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T09:52:19.384342+00:00",
+  "sist_sjekket": "2026-08-17T09:54:17.398866+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Dusknoir samlekort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460119330",
+      "funnet": "2026-08-17T09:54:17.396674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Paldean Fates Tin",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-16T23:18:17.633581+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Dragonite holo japansk NO.149 1997 -Mystery of the Fossils",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473600560",
-      "funnet": "2026-08-16T23:14:20.273356+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
