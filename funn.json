@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T05:48:25.765321+00:00",
+  "sist_sjekket": "2026-08-17T05:50:25.570469+00:00",
   "funn": [
+    {
+      "tittel": "Telekort for kontantlading",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394162037",
+      "funnet": "2026-08-17T05:50:25.568422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon Forest Collection",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473550544",
       "funnet": "2026-08-16T22:02:23.584178+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort (Surging Sparks) – Paldean Tauros 101/191",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473549916",
-      "funnet": "2026-08-16T22:02:23.221967+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
