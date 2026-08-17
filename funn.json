@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T21:42:18.855320+00:00",
+  "sist_sjekket": "2026-08-17T21:44:27.249430+00:00",
   "funn": [
+    {
+      "tittel": "VM Fotballkort selges samlet !",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467304978",
+      "funnet": "2026-08-17T21:44:27.247302+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jurassic park 30th anniversary panini kort (114stk)",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
       "funnet": "2026-08-17T19:58:17.172318+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2023 Panini Immaculate Collection UFC samlekort Kamaru Usman 42/50",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454667300",
-      "funnet": "2026-08-17T19:56:22.596925+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
