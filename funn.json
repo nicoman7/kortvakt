@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T02:48:17.694894+00:00",
+  "sist_sjekket": "2026-08-17T02:50:26.430654+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Samling med basket- og ishockeykort i perm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473113781",
+      "funnet": "2026-08-17T02:50:26.429054+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon – Vintage og moderne – mange sjeldne kort!",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473581488",
       "funnet": "2026-08-16T21:46:14.578166+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Fletchling 066/088",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473581896",
-      "funnet": "2026-08-16T21:44:19.607794+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
