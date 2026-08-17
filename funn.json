@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-17T00:46:19.820599+00:00",
+  "sist_sjekket": "2026-08-17T00:48:18.063166+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Pokémon-kort reverse holos og holos",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472770219",
+      "funnet": "2026-08-17T00:48:18.061163+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort – Kakuna 002/185",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/386296736",
       "funnet": "2026-08-16T21:42:18.117235+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japansk Pokémon-kort – Dreepy 118/187",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473579865",
-      "funnet": "2026-08-16T21:42:17.201961+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
