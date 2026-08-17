@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-17T17:20:26.657600+00:00",
+  "sist_sjekket": "2026-08-17T17:22:21.513981+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistermerker byttes",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473683715",
+      "funnet": "2026-08-17T17:22:21.512338+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA Adrenalyn XL samlekortpakke",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473681350",
+      "funnet": "2026-08-17T17:22:20.694575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Poliwag Poliwhirl Poliwrath samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473683944",
+      "funnet": "2026-08-17T17:22:20.335412+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon pakke selges samlet",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473683543",
+      "funnet": "2026-08-17T17:22:19.546269+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - silver tempest",
       "pris": 40,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-17T15:30:42.000756+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon EX Fire Red & Leaf Green",
-      "pris": 310,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440781716",
-      "funnet": "2026-08-17T15:30:41.683923+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon HeartGold & SoulSilver",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440784806",
-      "funnet": "2026-08-17T15:30:40.937086+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Paradox Destinies Tin",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473669659",
-      "funnet": "2026-08-17T15:30:40.451350+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon EX Legend Maker",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440783376",
-      "funnet": "2026-08-17T15:30:39.883552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
