@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-17T10:48:15.169900+00:00",
+  "sist_sjekket": "2026-08-17T10:50:24.590880+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax fotballkort - kom med bud",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473636084",
+      "funnet": "2026-08-17T10:50:24.588438+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-17T10:50:23.796980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon tcg kort bundle",
       "pris": 80,
@@ -1182,22 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473596515",
       "funnet": "2026-08-17T06:12:16.737591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Lucario - Black Star Promo - Pokemon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473607053",
-      "funnet": "2026-08-17T06:02:19.822078+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skyridge",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465732881",
-      "funnet": "2026-08-17T06:02:19.536255+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
