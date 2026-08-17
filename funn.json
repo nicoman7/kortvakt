@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-17T16:58:17.735336+00:00",
+  "sist_sjekket": "2026-08-17T17:00:55.997902+00:00",
   "funn": [
+    {
+      "tittel": "Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/354187432",
+      "funnet": "2026-08-17T17:00:55.996035+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "ETB sleeves fra Pokemon TCG sett",
+      "pris": 949,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473680850",
+      "funnet": "2026-08-17T17:00:55.575904+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Umbreon & Darkrai GX Tag Team kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473681537",
+      "funnet": "2026-08-17T17:00:54.682191+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Slowpoke & Psyduck GX Tag Team",
       "pris": 2000,
@@ -1174,30 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473667333",
       "funnet": "2026-08-17T15:12:17.206640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling GX / EX / VMAX jumbokort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473666921",
-      "funnet": "2026-08-17T15:08:20.309582+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup digitale pakke-koder",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473666882",
-      "funnet": "2026-08-17T15:08:19.913520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort promo/vintage",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473666613",
-      "funnet": "2026-08-17T15:06:19.068448+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
