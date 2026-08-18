@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T15:00:59.781454+00:00",
+  "sist_sjekket": "2026-08-18T15:02:38.085440+00:00",
   "funn": [
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-18T15:02:38.083789+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Dimension Valley Trainer Stadium phantom forces",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473782541",
+      "funnet": "2026-08-18T15:02:37.271556+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2023 Panini Chronicles BROCK PURDY Dynagon Silver PSA 9 Rookie NFL",
       "pris": 1999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
       "funnet": "2026-08-18T13:26:17.610721+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pitch black – hits, bulk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473769611",
-      "funnet": "2026-08-18T13:20:28.486945+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samleannonse",
-      "pris": 288,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473770016",
-      "funnet": "2026-08-18T13:16:19.245890+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
