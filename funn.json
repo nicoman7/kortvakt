@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-18T16:02:22.270722+00:00",
+  "sist_sjekket": "2026-08-18T16:04:20.962357+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473786849",
+      "funnet": "2026-08-18T16:04:20.960520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Steven Gerrard Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473790161",
+      "funnet": "2026-08-18T16:04:20.382594+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Premier League Brighton & Hove Albion 1/1 samlekort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473789939",
+      "funnet": "2026-08-18T16:04:19.810994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gareth Bale Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473790283",
+      "funnet": "2026-08-18T16:04:19.532129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed Pokemon Pitch Black",
       "pris": 350,
@@ -1166,38 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/372265193",
       "funnet": "2026-08-18T14:42:21.663983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jack Grealish Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408109860",
-      "funnet": "2026-08-18T14:42:20.920280+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jude Belllingham Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394505518",
-      "funnet": "2026-08-18T14:42:20.189134+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bukayo Saka Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/388204493",
-      "funnet": "2026-08-18T14:42:19.449054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jude Bellingham Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397677638",
-      "funnet": "2026-08-18T14:42:18.655494+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
