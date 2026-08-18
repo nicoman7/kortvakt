@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T04:56:18.396740+00:00",
+  "sist_sjekket": "2026-08-18T04:58:18.741301+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404041944",
+      "funnet": "2026-08-18T04:58:18.739272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort/ 30 stk/ samleobjekt",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/386148523",
+      "funnet": "2026-08-18T04:58:17.925496+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473709640",
       "funnet": "2026-08-17T20:22:21.630765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon graderte kort samling",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472961715",
-      "funnet": "2026-08-17T20:22:20.841748+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ash’s Pikachu",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463139901",
-      "funnet": "2026-08-17T20:20:30.679054+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
