@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T21:04:18.544376+00:00",
+  "sist_sjekket": "2026-08-18T21:06:18.622459+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort/klistremerker vm '26",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473827533",
+      "funnet": "2026-08-18T21:06:18.620039+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Great Tusk EX 072 Promo Pokemon kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/469110699",
       "funnet": "2026-08-18T19:16:17.915519+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort | fri frakt",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438809356",
-      "funnet": "2026-08-18T19:14:16.951617+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
