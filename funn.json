@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T05:02:22.781325+00:00",
+  "sist_sjekket": "2026-08-18T05:04:18.712210+00:00",
   "funn": [
+    {
+      "tittel": "Milly Heegaard Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/440532755",
+      "funnet": "2026-08-18T05:04:18.710173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473709730",
       "funnet": "2026-08-17T20:22:21.973121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Unown samlekort – flere kort i mappe",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473709640",
-      "funnet": "2026-08-17T20:22:21.630765+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
