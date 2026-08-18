@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-18T06:06:16.263669+00:00",
+  "sist_sjekket": "2026-08-18T06:08:18.920647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Team Rocket",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473725453",
+      "funnet": "2026-08-18T06:08:18.918819+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort bunke",
+      "pris": 760,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473725522",
+      "funnet": "2026-08-18T06:08:18.051721+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-18T06:08:17.035346+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Raichu 117/124",
       "pris": 50,
@@ -1174,30 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473711177",
       "funnet": "2026-08-17T20:42:24.555989+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2023 Super Sonic Werner #146 Germany",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473711220",
-      "funnet": "2026-08-17T20:42:24.218636+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Samling med basket- og ishockeykort i perm",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473113781",
-      "funnet": "2026-08-17T20:42:23.457012+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Chandelure [Pokeball] #1102 Pokemon Chinese Gem Pack 3",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473711316",
-      "funnet": "2026-08-17T20:38:16.480661+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
