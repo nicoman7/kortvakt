@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T21:14:41.686295+00:00",
+  "sist_sjekket": "2026-08-18T21:16:18.559514+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon Lot 2 1999-2006",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473826782",
+      "funnet": "2026-08-18T21:16:18.557485+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Masse moderne Pokemon hits til salgs",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473815358",
       "funnet": "2026-08-18T19:18:18.067038+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mewtwo Rumble pokemon kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473815431",
-      "funnet": "2026-08-18T19:18:17.465282+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
