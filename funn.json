@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T22:34:26.533201+00:00",
+  "sist_sjekket": "2026-08-18T22:36:16.562121+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Samling med basket- og ishockeykort i perm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473113781",
+      "funnet": "2026-08-18T22:36:16.559922+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon bulk – 902 kort – engelsk og japansk – holo / reverse holo",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473818438",
       "funnet": "2026-08-18T19:38:15.914321+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The Gathering kortpakke - samling",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473818478",
-      "funnet": "2026-08-18T19:36:20.064928+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
