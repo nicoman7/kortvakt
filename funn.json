@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T11:38:22.246277+00:00",
+  "sist_sjekket": "2026-08-18T11:40:30.801602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473759515",
+      "funnet": "2026-08-18T11:40:30.799227+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon First Partner Series 3 [KALOS] Illustration collection sett",
       "pris": 597,
@@ -1190,14 +1198,6 @@
       "pris": 1599,
       "lenke": "https://www.finn.no/recommerce/forsale/item/221966581",
       "funnet": "2026-08-18T08:02:16.021799+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shining Fates Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/247135664",
-      "funnet": "2026-08-18T08:00:51.053905+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
