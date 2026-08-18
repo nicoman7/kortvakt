@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T14:32:17.278463+00:00",
+  "sist_sjekket": "2026-08-18T14:34:18.090257+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort japanske og engelske – blandet lot",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473778380",
+      "funnet": "2026-08-18T14:34:18.088456+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Necrozma VMAX kortpakke",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473779428",
+      "funnet": "2026-08-18T14:34:17.687294+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps FC Barcelona Collector Tin med samlekort",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/236533154",
       "funnet": "2026-08-18T12:26:23.048305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Rising Stars Claudio Echeverri kort",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473765193",
-      "funnet": "2026-08-18T12:26:22.132901+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Champions League / Europa – 3 stk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473765344",
-      "funnet": "2026-08-18T12:26:21.680367+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
