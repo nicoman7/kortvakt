@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T17:08:17.406836+00:00",
+  "sist_sjekket": "2026-08-18T17:10:27.748055+00:00",
   "funn": [
+    {
+      "tittel": "Masse Fotballkort!  Haaland, Kane, MBAPPE, Salah osv!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473795825",
+      "funnet": "2026-08-18T17:10:27.746459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pedri Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473798542",
+      "funnet": "2026-08-18T17:10:27.364133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Porygon2 Delta Species",
       "pris": 149,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-18T15:46:20.873439+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Vinicius Junior Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473787791",
-      "funnet": "2026-08-18T15:46:20.596116+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-18T15:46:20.359935+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
