@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T09:20:25.475585+00:00",
+  "sist_sjekket": "2026-08-18T09:22:19.478626+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Charizard EX",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473743083",
+      "funnet": "2026-08-18T09:22:19.476449+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Telekort Belarus 90 unit",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/433307947",
       "funnet": "2026-08-18T04:46:18.792287+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon sealed samling, ønskes byttet mot vintage kort/samling",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473721893",
-      "funnet": "2026-08-18T04:44:14.130945+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
