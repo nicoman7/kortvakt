@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T13:14:18.056342+00:00",
+  "sist_sjekket": "2026-08-18T13:16:19.247488+00:00",
   "funn": [
+    {
+      "tittel": "Samleannonse",
+      "pris": 288,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473770016",
+      "funnet": "2026-08-18T13:16:19.245890+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling – GX/EX/Fullart osv. selges billig",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473752127",
       "funnet": "2026-08-18T10:42:21.386041+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "www.hitcardbros.shop - Pokémon kort - Celebi VMAX - 199/198",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473743903",
-      "funnet": "2026-08-18T10:40:28.876668+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
