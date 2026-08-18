@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T09:36:16.042790+00:00",
+  "sist_sjekket": "2026-08-18T09:38:15.301133+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort bulk",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473744735",
+      "funnet": "2026-08-18T09:38:15.299097+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – EX, GX, V og eldre kort",
       "pris": 1740,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473722476",
       "funnet": "2026-08-18T05:08:17.043241+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Milly Heegaard Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440532755",
-      "funnet": "2026-08-18T05:04:18.710173+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
