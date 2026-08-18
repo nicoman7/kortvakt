@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T17:10:27.748055+00:00",
+  "sist_sjekket": "2026-08-18T17:12:19.691076+00:00",
   "funn": [
+    {
+      "tittel": "Martin Ødegaard Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473798690",
+      "funnet": "2026-08-18T17:12:19.689366+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon | fairy kort | 12 stk",
+      "pris": 119,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473798709",
+      "funnet": "2026-08-18T17:12:18.802509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Masse Fotballkort!  Haaland, Kane, MBAPPE, Salah osv!",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-18T15:48:20.648260+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473787883",
-      "funnet": "2026-08-18T15:46:21.154629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon div hits selges samlet, kom med bud",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473787886",
-      "funnet": "2026-08-18T15:46:20.873439+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
