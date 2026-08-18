@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T22:58:16.449033+00:00",
+  "sist_sjekket": "2026-08-18T23:00:54.334717+00:00",
   "funn": [
+    {
+      "tittel": "Duel MastersKort Samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
+      "funnet": "2026-08-18T23:00:54.332824+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "PSA og CGC graderte Pokémon-kort",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473832206",
+      "funnet": "2026-08-18T23:00:53.333555+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "❗️Bunke med BREAKthrough - Pokemon Kort - 2015",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473818794",
       "funnet": "2026-08-18T19:42:21.602210+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Cristiano Ronaldo Limited Edition kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465330962",
-      "funnet": "2026-08-18T19:42:20.821614+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nye priser 18.08! Stor vintage pokemonsamling!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
-      "funnet": "2026-08-18T19:42:20.438413+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
