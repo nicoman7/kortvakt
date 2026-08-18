@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T06:18:15.589542+00:00",
+  "sist_sjekket": "2026-08-18T06:20:28.748425+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473726388",
+      "funnet": "2026-08-18T06:20:28.746301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Haaland - Extra sticker  - Silver Edition - Panini FWC2026",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473711681",
       "funnet": "2026-08-17T20:44:20.061939+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PRIZM PANINI CONMEBOL Copa America 2024 - BaseCards (16 stk.)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451710014",
-      "funnet": "2026-08-17T20:44:19.264039+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
