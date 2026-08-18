@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T10:48:16.272865+00:00",
+  "sist_sjekket": "2026-08-18T10:50:25.877457+00:00",
   "funn": [
+    {
+      "tittel": "Panini world cup France 1998",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/293514314",
+      "funnet": "2026-08-18T10:50:25.875507+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Aegislash IR",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/460579179",
       "funnet": "2026-08-18T06:44:15.241038+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Zoroark japansk samlekort",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460544093",
-      "funnet": "2026-08-18T06:42:21.829945+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
