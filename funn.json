@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T09:18:13.956148+00:00",
+  "sist_sjekket": "2026-08-18T09:20:25.475585+00:00",
   "funn": [
+    {
+      "tittel": "Telekort Belarus 90 unit",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/243610946",
+      "funnet": "2026-08-18T09:20:25.473786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mystery Packs! Gode sjanser for kule kort",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473156860",
+      "funnet": "2026-08-18T09:20:24.907445+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling billig!",
       "pris": 850,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473721893",
       "funnet": "2026-08-18T04:44:14.130945+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Birmingham Fotballkort - Premier Gold 04",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/440399106",
-      "funnet": "2026-08-18T04:30:39.600782+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ex kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473721511",
-      "funnet": "2026-08-18T04:22:16.968237+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
