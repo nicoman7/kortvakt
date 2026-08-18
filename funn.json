@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-18T15:28:17.482679+00:00",
+  "sist_sjekket": "2026-08-18T15:30:42.572937+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleperm med Pokemon-kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473785702",
+      "funnet": "2026-08-18T15:30:42.571010+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ousmane Dembélé samlekort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473785931",
+      "funnet": "2026-08-18T15:30:42.124303+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax John Stones Manchester City FC defender kort",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473774961",
       "funnet": "2026-08-18T13:56:16.995270+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Slowbro - Pokemon Evolutions",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473775210",
-      "funnet": "2026-08-18T13:56:16.380930+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Venusaur EX kort XY123",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473774977",
-      "funnet": "2026-08-18T13:54:18.830827+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
