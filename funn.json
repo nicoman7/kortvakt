@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T16:00:54.626646+00:00",
+  "sist_sjekket": "2026-08-18T16:02:22.270722+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pokemon Pitch Black",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
+      "funnet": "2026-08-18T16:02:22.268922+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pele Fotballkort",
       "pris": 125,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/397677638",
       "funnet": "2026-08-18T14:42:18.655494+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Phil Foden Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/411069063",
-      "funnet": "2026-08-18T14:40:36.419480+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
