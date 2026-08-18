@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-18T02:20:30.053411+00:00",
+  "sist_sjekket": "2026-08-18T02:22:17.796950+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon: Wartortle (Uncommon, e-Reader, 2002) - Aquapolis 💧🐢",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473720743",
+      "funnet": "2026-08-18T02:22:17.795041+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Altaria (Holo/Rare, 2005) - EX Emerald ☁️✨",
       "pris": 199,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-17T20:14:23.083091+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TCG samling pokemon og one piece",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473707961",
-      "funnet": "2026-08-17T20:14:22.280132+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
