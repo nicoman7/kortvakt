@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-19T13:42:20.975773+00:00",
+  "sist_sjekket": "2026-08-19T13:44:26.417550+00:00",
   "funn": [
+    {
+      "tittel": "Sanrio samlekort My Melody, Pochacco, Little Twin Stars, Hello Kitty",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473893002",
+      "funnet": "2026-08-19T13:44:26.415131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-19T13:44:25.616734+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World Cup 2026",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-19T08:08:18.705277+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venusaur CLF 003/032 - CGC Prestine 10 - Pokemon Japanese",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467136215",
-      "funnet": "2026-08-19T08:06:18.572192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece og andre samlekort vurderes solgt",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473856204",
-      "funnet": "2026-08-19T08:06:17.702000+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
