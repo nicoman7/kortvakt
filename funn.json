@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T13:58:23.728375+00:00",
+  "sist_sjekket": "2026-08-19T14:00:52.021070+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473896226",
+      "funnet": "2026-08-19T14:00:52.019044+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – 6 stk trenere / full art supporter",
       "pris": 180,
@@ -1190,14 +1198,6 @@
       "pris": 390,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473714590",
       "funnet": "2026-08-19T08:34:16.925392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alan Shearer HotShot fotballkort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/300588004",
-      "funnet": "2026-08-19T08:26:20.629386+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
