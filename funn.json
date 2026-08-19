@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T07:18:19.857874+00:00",
+  "sist_sjekket": "2026-08-19T07:20:23.684427+00:00",
   "funn": [
+    {
+      "tittel": "Sealed Pikachu #88 Pokemon Promo",
+      "pris": 675,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473851766",
+      "funnet": "2026-08-19T07:20:23.682318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-18T20:40:29.646792+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flashfire - Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/401957874",
-      "funnet": "2026-08-18T20:40:28.906443+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
