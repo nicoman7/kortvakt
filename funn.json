@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-19T09:20:28.510634+00:00",
+  "sist_sjekket": "2026-08-19T09:22:17.702027+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473864585",
+      "funnet": "2026-08-19T09:22:17.700107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Crystal Lugia 149/147 aquapolis holo",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473360528",
+      "funnet": "2026-08-19T09:22:16.853611+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Rebellion - Topps - Pokemon",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473829321",
       "funnet": "2026-08-18T21:46:38.395000+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Maractus #101 Pokemon Japanese Battle Partners",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467500655",
-      "funnet": "2026-08-18T21:36:18.328173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-08-18T21:36:17.531798+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
