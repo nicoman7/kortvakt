@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T07:44:17.940037+00:00",
+  "sist_sjekket": "2026-08-19T07:46:17.213686+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Storm Emeralda Japansk",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
+      "funnet": "2026-08-19T07:46:17.211677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon- Pikachu DP16 promo",
       "pris": 1995,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-18T20:46:22.313426+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Div PSA Graderte Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471935022",
-      "funnet": "2026-08-18T20:44:15.506981+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
