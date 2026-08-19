@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T09:34:17.530689+00:00",
+  "sist_sjekket": "2026-08-19T09:36:19.033610+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - 2020 - Darkness Ablaze",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473861018",
+      "funnet": "2026-08-19T09:36:19.031934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor bunke Pokémon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473864724",
+      "funnet": "2026-08-19T09:36:18.698751+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort til Kristord",
+      "pris": 305,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473866418",
+      "funnet": "2026-08-19T09:36:17.869843+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Traveling Salesman - Aquapolis - Pokemon",
       "pris": 40,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-18T22:36:16.559922+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon bulk – 902 kort – engelsk og japansk – holo / reverse holo",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473831375",
-      "funnet": "2026-08-18T22:24:21.716157+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort til Marlene",
-      "pris": 489,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473831092",
-      "funnet": "2026-08-18T22:16:33.149989+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA Adrenalyn. Nye kort lagt til! Stor Samling",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469416364",
-      "funnet": "2026-08-18T22:16:32.305818+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
