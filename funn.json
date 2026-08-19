@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T04:48:15.347950+00:00",
+  "sist_sjekket": "2026-08-19T04:50:25.413039+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex SAR 234/193",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473835508",
+      "funnet": "2026-08-19T04:50:25.410946+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps ultra rare ice Cole Palmer",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473823441",
       "funnet": "2026-08-18T20:20:30.332719+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex UR 183/165 fra 151 serien",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473821658",
-      "funnet": "2026-08-18T20:20:29.542321+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
