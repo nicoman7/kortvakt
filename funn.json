@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T15:36:20.264701+00:00",
+  "sist_sjekket": "2026-08-19T15:38:20.743412+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - diverse",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441907918",
+      "funnet": "2026-08-19T15:38:20.741372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort pakke",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473906604",
+      "funnet": "2026-08-19T15:38:19.905165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort GX / EX / VMAX samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473906706",
+      "funnet": "2026-08-19T15:38:19.514769+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA 365 samlekortpakker",
       "pris": 500,
@@ -1174,30 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473868843",
       "funnet": "2026-08-19T10:00:51.443331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Base Set Charmander Lot 4stk 1999 Pokemon Kort",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467498352",
-      "funnet": "2026-08-19T10:00:51.210684+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu [Holiday Calendar] #25 Scarlet & Violet 151",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473868844",
-      "funnet": "2026-08-19T10:00:50.663121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "M Gardevoir EX 79/114 XY - Pokemon Steam Siege Mega Evolution",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467498115",
-      "funnet": "2026-08-19T09:58:22.767349+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
