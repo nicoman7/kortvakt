@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T10:24:17.694693+00:00",
+  "sist_sjekket": "2026-08-19T10:26:16.098923+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Samling med basket- og ishockeykort i perm",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473113781",
+      "funnet": "2026-08-19T10:26:16.096790+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "GORMITI KORT. The people of The earth.  Har kun dette.",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467529606",
       "funnet": "2026-08-19T01:00:52.221213+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467529541",
-      "funnet": "2026-08-19T01:00:51.481832+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
