@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T16:26:15.689686+00:00",
+  "sist_sjekket": "2026-08-19T16:28:20.811464+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Storm Emeralda 085/076 Inkay (JP)",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473912388",
+      "funnet": "2026-08-19T16:28:20.809383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Joško Gvardiol / Josko Gvardiol XXL Limited Edition XXL-JG – Panini VM 2026",
       "pris": 199,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-19T12:06:19.115531+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Allen Iverson basketballkort - Upper Deck Victory",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473883532",
-      "funnet": "2026-08-19T12:06:18.757528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
