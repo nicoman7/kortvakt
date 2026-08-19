@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T18:06:48.407641+00:00",
+  "sist_sjekket": "2026-08-19T18:08:19.243188+00:00",
   "funn": [
+    {
+      "tittel": "Ignition Energy 124/094 Pokemon",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473925169",
+      "funnet": "2026-08-19T18:08:19.241035+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Charmander / Charmeleon / Bidoof samling",
       "pris": 550,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473913244",
       "funnet": "2026-08-19T16:38:19.435106+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473913317",
-      "funnet": "2026-08-19T16:34:18.508119+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
