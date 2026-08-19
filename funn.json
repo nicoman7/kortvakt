@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T17:56:20.836653+00:00",
+  "sist_sjekket": "2026-08-19T17:58:18.339864+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Bulk fra diverse set",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473923350",
+      "funnet": "2026-08-19T17:58:18.337806+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telekort Nansen forseglet",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467600967",
+      "funnet": "2026-08-19T17:58:17.495984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Umbreon GX CGC 6",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473923387",
+      "funnet": "2026-08-19T17:58:16.643926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "(Sealed) Pokemon Collect 151 Journey Kinesisk Booster Box",
       "pris": 1099,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-19T16:16:17.135045+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jonathan David XXL Limited Edition XXL-JDA – Panini Adrenalyn XL VM 2026",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473910852",
-      "funnet": "2026-08-19T16:16:16.734681+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort lot",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473910734",
-      "funnet": "2026-08-19T16:14:19.216874+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Collector’s Series 3 pris per boks",
-      "pris": 575,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473909282",
-      "funnet": "2026-08-19T16:14:18.575862+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
