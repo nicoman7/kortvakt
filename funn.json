@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-19T13:06:21.127523+00:00",
+  "sist_sjekket": "2026-08-19T13:08:20.619671+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling i plastlommer",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473889220",
+      "funnet": "2026-08-19T13:08:20.617510+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse tomme pokemon tins",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473890467",
+      "funnet": "2026-08-19T13:08:20.262293+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotball klistremerker Calcio 89 Euroflash Pakker",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
       "funnet": "2026-08-19T07:46:17.211677+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon- Pikachu DP16 promo",
-      "pris": 1995,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473854040",
-      "funnet": "2026-08-19T07:44:17.938771+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telefon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/339779150",
-      "funnet": "2026-08-19T07:42:18.942025+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
