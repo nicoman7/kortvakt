@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T07:40:26.879264+00:00",
+  "sist_sjekket": "2026-08-19T07:42:18.944028+00:00",
   "funn": [
+    {
+      "tittel": "Telefon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/339779150",
+      "funnet": "2026-08-19T07:42:18.942025+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece samlekort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473853752",
+      "funnet": "2026-08-19T07:42:18.333726+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ninetales holo Base Set 12/102 – CGC 8",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473854083",
+      "funnet": "2026-08-19T07:42:17.758238+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Blastoise - Topps Black logo - Pokemon",
       "pris": 40,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473825683",
       "funnet": "2026-08-18T20:42:17.561959+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax fotballkort pakke – PSV, Ajax, Rangers, AS Monaco",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473825677",
-      "funnet": "2026-08-18T20:42:16.964944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Tentacruel Foil Glins 1999 Topps Pokemon Kort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442650063",
-      "funnet": "2026-08-18T20:42:16.386347+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Skitty 111/124",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473825629",
-      "funnet": "2026-08-18T20:42:16.128467+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
