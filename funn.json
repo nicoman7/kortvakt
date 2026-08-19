@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T14:38:22.084205+00:00",
+  "sist_sjekket": "2026-08-19T14:40:27.929214+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Crystal Lugia 149/147 aquapolis holo",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473360528",
+      "funnet": "2026-08-19T14:40:27.927226+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Christian Pulisic momentum samlekort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473864803",
       "funnet": "2026-08-19T09:24:28.774385+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473864585",
-      "funnet": "2026-08-19T09:22:17.700107+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
