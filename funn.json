@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T16:12:17.937950+00:00",
+  "sist_sjekket": "2026-08-19T16:14:19.218716+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort lot",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473910734",
+      "funnet": "2026-08-19T16:14:19.216874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon First Partner Collector’s Series 3 pris per boks",
+      "pris": 575,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473909282",
+      "funnet": "2026-08-19T16:14:18.575862+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Florian Wirtz XXL Limited Edition XXL-FW – Panini Adrenalyn XL VM 2026",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473910713",
+      "funnet": "2026-08-19T16:14:18.040024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ousmane Dembélé XXL Limited Edition XXL-OD – Panini Adrenalyn XL VM 2026",
       "pris": 199,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473881056",
       "funnet": "2026-08-19T11:46:19.065386+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442109706",
-      "funnet": "2026-08-19T11:40:29.405422+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon trainer’s guide nintendo",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408595402",
-      "funnet": "2026-08-19T11:40:28.943223+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mystery Packs! Gode sjanser for kule kort",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473156860",
-      "funnet": "2026-08-19T11:40:28.604759+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
