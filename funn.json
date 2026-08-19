@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-19T15:46:21.453672+00:00",
+  "sist_sjekket": "2026-08-19T15:48:15.826389+00:00",
   "funn": [
+    {
+      "tittel": "PSA 10 Elesa's Sparkle #260 - Pokemon Fusion Strike",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449601471",
+      "funnet": "2026-08-19T15:48:15.824395+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Charizard EX 294",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473907903",
+      "funnet": "2026-08-19T15:48:15.559556+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémonkort Selvplukk Bulk",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/451885640",
       "funnet": "2026-08-19T10:22:18.592023+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "CLASH ROYALE KORT. 5 f.skj.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451880869",
-      "funnet": "2026-08-19T10:22:18.149946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SARPSBORG 08, 2012. Fotballkort. 14 spillere.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451887497",
-      "funnet": "2026-08-19T10:22:17.680962+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
