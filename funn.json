@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T06:42:14.657447+00:00",
+  "sist_sjekket": "2026-08-19T06:44:16.909137+00:00",
   "funn": [
+    {
+      "tittel": "Gamle fotballkort selges samlet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473847845",
+      "funnet": "2026-08-19T06:44:16.907041+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Magearna japansk samlekort",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-18T20:38:37.002411+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Primal Clash - Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/401958713",
-      "funnet": "2026-08-18T20:38:36.305527+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
