@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-19T17:46:16.643360+00:00",
+  "sist_sjekket": "2026-08-19T17:48:26.689048+00:00",
   "funn": [
+    {
+      "tittel": "Gavi Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/365734326",
+      "funnet": "2026-08-19T17:48:26.687044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lewis Miley RC Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/413035007",
+      "funnet": "2026-08-19T17:48:25.908276+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ethan Nwaneri RC Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/412576470",
+      "funnet": "2026-08-19T17:48:25.525546+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Martin Ødegaard Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/354213984",
+      "funnet": "2026-08-19T17:48:24.740732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Theo Hernandez Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394509735",
+      "funnet": "2026-08-19T17:48:23.972210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dominik Szoboszlai Fotballkort",
       "pris": 75,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
       "funnet": "2026-08-19T16:00:57.385518+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pupitar #35 - Johto Champions Sticker",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466933555",
-      "funnet": "2026-08-19T15:56:32.052910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pupitar #35 - Johto Champions Sticker",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466933554",
-      "funnet": "2026-08-19T15:56:31.298933+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dedenne reverse",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473908755",
-      "funnet": "2026-08-19T15:56:30.443202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort holo / full art",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473908938",
-      "funnet": "2026-08-19T15:56:30.052106+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Hitmontop #28 - Johto Champions Sticker",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466933551",
-      "funnet": "2026-08-19T15:56:29.281059+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
