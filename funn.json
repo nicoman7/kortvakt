@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-19T15:44:18.930172+00:00",
+  "sist_sjekket": "2026-08-19T15:46:21.453672+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Selvplukk Bulk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473906891",
+      "funnet": "2026-08-19T15:46:21.452134+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "PSA 10 Gardevoir & Sylveon GX #205 - Pokemon Unbroken Bonds",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473906923",
+      "funnet": "2026-08-19T15:46:20.414544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax UEFA Euro 2024 fotballkort Portugal limited edition",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451756364",
+      "funnet": "2026-08-19T15:46:19.561356+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Hidden Fates og Paldean Fates baby shiny lot ✨ (prisliste i beskrivelse)",
+      "pris": 460,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458620122",
+      "funnet": "2026-08-19T15:46:19.192710+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Vaporeon holo 19/115 DMG",
       "pris": 147,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-19T10:22:17.680962+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473870293",
-      "funnet": "2026-08-19T10:14:17.210488+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gamle Duel Masters kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473870282",
-      "funnet": "2026-08-19T10:14:16.798253+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nye priser 18.08! Stor vintage pokemonsamling!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
-      "funnet": "2026-08-19T10:08:25.275839+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu [Holiday Calendar] #25 Scarlet & Violet 151",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473869343",
-      "funnet": "2026-08-19T10:06:16.168439+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
