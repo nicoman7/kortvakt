@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T08:56:19.941451+00:00",
+  "sist_sjekket": "2026-08-19T08:58:23.142127+00:00",
   "funn": [
+    {
+      "tittel": "Umbreon GX - Sun and Moon - Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473861910",
+      "funnet": "2026-08-19T08:58:23.139993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex 057/191 Sv08 Surging Sparks Holo Double Rare EX PSA 10",
       "pris": 995,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-18T21:18:19.866391+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Pitch Black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470188894",
-      "funnet": "2026-08-18T21:18:19.299348+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
