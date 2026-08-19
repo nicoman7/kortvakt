@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-19T20:10:27.877531+00:00",
+  "sist_sjekket": "2026-08-19T20:12:25.894465+00:00",
   "funn": [
+    {
+      "tittel": "Selger min pokemonsamling billig",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473941323",
+      "funnet": "2026-08-19T20:12:25.892372+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Match Attax 2017-2018. Fotballkort.  Samlekort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394823510",
+      "funnet": "2026-08-19T20:12:25.117133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Spewpa #6 Pokemon Surging Sparks",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473941646",
+      "funnet": "2026-08-19T20:12:24.742794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Night Stretcher #83 Pokemon Japanese Mega Brave",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473932618",
       "funnet": "2026-08-19T19:06:16.978634+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
-      "funnet": "2026-08-19T19:04:24.489752+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Pokemon Toploader samleperm (4 kort) +25 toploaders",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473933050",
-      "funnet": "2026-08-19T19:04:23.694950+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Blastoise #20 Pokemon Team Rocket",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473932794",
-      "funnet": "2026-08-19T19:04:23.153207+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
