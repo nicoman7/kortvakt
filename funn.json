@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T09:44:18.444123+00:00",
+  "sist_sjekket": "2026-08-19T09:46:16.339469+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort first partner series 3 HOENN",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473867174",
+      "funnet": "2026-08-19T09:46:16.337540+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu [Snowflake Stamp] #SWSH153 Promo",
       "pris": 432,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-18T23:02:18.771978+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel MastersKort Samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470775189",
-      "funnet": "2026-08-18T23:00:54.332824+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
