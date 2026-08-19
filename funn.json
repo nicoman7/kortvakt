@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T08:50:29.567370+00:00",
+  "sist_sjekket": "2026-08-19T08:52:18.939781+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortsamling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473861059",
+      "funnet": "2026-08-19T08:52:18.937896+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Monty Gum Eredivisie 1971 fotballkort Johan Neeskens SJELDENT",
       "pris": 799,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473827909",
       "funnet": "2026-08-18T21:12:17.258065+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eldre pokemon hits (1999-2003)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473827435",
-      "funnet": "2026-08-18T21:10:28.388937+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
