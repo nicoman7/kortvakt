@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-19T11:52:20.135548+00:00",
+  "sist_sjekket": "2026-08-19T11:54:15.971600+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mystery packs 10/10. 50,- per pakke.",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473880730",
+      "funnet": "2026-08-19T11:54:15.969426+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Antoine Walker basketballkort - Ultra 99/00 Gold Medallion",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/423347370",
       "funnet": "2026-08-19T06:26:20.821600+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kristoffer Ajer Powerhouse Brentford Panini Adrenalyn",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/423348347",
-      "funnet": "2026-08-19T06:26:19.952657+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
