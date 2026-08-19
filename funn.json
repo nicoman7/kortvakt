@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-19T10:12:17.690127+00:00",
+  "sist_sjekket": "2026-08-19T10:14:17.212611+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473870293",
+      "funnet": "2026-08-19T10:14:17.210488+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gamle Duel Masters kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473870282",
+      "funnet": "2026-08-19T10:14:16.798253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nye priser 18.08! Stor vintage pokemonsamling!",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473833493",
       "funnet": "2026-08-19T00:26:18.425405+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Kinesisk Graveler 075/151 Reverse Holo(Pokeball)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473833259",
-      "funnet": "2026-08-19T00:22:15.459985+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kinesisk Pokémon-kort – Fearow Poké Ball Reverse Holo 022/151",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473833286",
-      "funnet": "2026-08-19T00:18:14.252134+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
