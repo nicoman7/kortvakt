@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T05:24:16.305465+00:00",
+  "sist_sjekket": "2026-08-20T05:26:18.154788+00:00",
   "funn": [
+    {
+      "tittel": "VINTAGE DISNEY KORT",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/423648814",
+      "funnet": "2026-08-20T05:26:18.152934+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage Disney kort/ 60 tals",
       "pris": 180,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/451765845",
       "funnet": "2026-08-19T20:38:19.349415+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "11 Manchester City A&BC 1971 purple back fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379129185",
-      "funnet": "2026-08-19T20:38:18.785323+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
