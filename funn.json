@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T09:38:21.125074+00:00",
+  "sist_sjekket": "2026-08-20T09:40:28.835794+00:00",
   "funn": [
+    {
+      "tittel": "Arcanine 3/144 fra Pokemon Skyridge",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473974927",
+      "funnet": "2026-08-20T09:40:28.833896+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Chaos Rising Elite Trainer Box og booster bundles",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T02:12:16.927246+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Typhlosion #20/162 Pokemon BREAKthrough Holo Rare",
-      "pris": 179,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467628406",
-      "funnet": "2026-08-20T02:12:16.361354+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
