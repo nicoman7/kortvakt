@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T10:00:53.841945+00:00",
+  "sist_sjekket": "2026-08-20T10:02:27.230239+00:00",
   "funn": [
+    {
+      "tittel": "pokemon promo kort",
+      "pris": 680,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473978913",
+      "funnet": "2026-08-20T10:02:27.228353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes kortspill boosterbokser pris per stk",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473978910",
+      "funnet": "2026-08-20T10:02:26.347535+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Prismatic Evolutions Booster Bundle 4 stk pris per",
       "pris": 1300,
@@ -1182,22 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473954517",
       "funnet": "2026-08-20T05:16:18.898806+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473953961",
-      "funnet": "2026-08-20T05:02:20.352390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Zorua & N CGC 9 samlekort japansk",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473953900",
-      "funnet": "2026-08-20T05:00:52.910479+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
