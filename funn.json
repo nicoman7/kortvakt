@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T21:01:03.548331+00:00",
+  "sist_sjekket": "2026-08-20T21:02:15.105380+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort samling",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
+      "funnet": "2026-08-20T21:02:15.103289+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Champions League Trophy 2014-2015 Panini Adrenalyn XL",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/324593486",
       "funnet": "2026-08-20T18:42:18.763353+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top Class 2025 - 71 kort",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474036080",
-      "funnet": "2026-08-20T18:40:28.049846+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
