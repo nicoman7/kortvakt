@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T20:00:59.167541+00:00",
+  "sist_sjekket": "2026-08-20T20:02:33.743309+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474046297",
+      "funnet": "2026-08-20T20:02:33.741169+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 18/08",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-08-20T20:02:33.456963+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Flareon ancient origins",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474030765",
       "funnet": "2026-08-20T17:56:28.426478+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Billige pokemonkort (Påfyll med nytt sett!)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335959766",
-      "funnet": "2026-08-20T17:56:27.738580+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Exeggutor #135",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474030769",
-      "funnet": "2026-08-20T17:56:27.062282+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
