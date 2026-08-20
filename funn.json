@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-20T05:28:16.560068+00:00",
+  "sist_sjekket": "2026-08-20T05:30:42.526743+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Avtale",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473955043",
+      "funnet": "2026-08-20T05:30:42.525110+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vault X Exo-Tec Zip Binder kortperm rød 9-pocket",
+      "pris": 620,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473954978",
+      "funnet": "2026-08-20T05:30:41.980443+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon perm med Shiny, Stamp, Pokeball, Masterball, Radiant",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/416155840",
+      "funnet": "2026-08-20T05:30:41.373026+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon McDonalds Japan Promo Set",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457854596",
+      "funnet": "2026-08-20T05:30:41.141378+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "VINTAGE DISNEY KORT",
       "pris": 50,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/379122935",
       "funnet": "2026-08-19T20:38:21.772725+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 RC Strasbourg Lot",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473943995",
-      "funnet": "2026-08-19T20:38:21.130248+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "10 Huddersfield Town A&BC 1971 purple back fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379123487",
-      "funnet": "2026-08-19T20:38:20.560528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "8 Ipswich Town A&BC 1971 purple back fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379124048",
-      "funnet": "2026-08-19T20:38:20.006057+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Diglett #50 Holo Glins Pokemon EX Crystal Guardians Kort",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451765845",
-      "funnet": "2026-08-19T20:38:19.349415+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
