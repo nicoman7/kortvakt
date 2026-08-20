@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T10:18:16.778917+00:00",
+  "sist_sjekket": "2026-08-20T10:20:29.736226+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473980833",
+      "funnet": "2026-08-20T10:20:29.734687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini - fifa world cup kort - 629 - selges for 250,-",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473980959",
+      "funnet": "2026-08-20T10:20:29.139282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Umbreon - Trick Or Trade - Pokemon",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
       "funnet": "2026-08-20T06:26:14.766435+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467573025",
-      "funnet": "2026-08-20T06:22:17.971649+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon storm emeralda bulk 140kort innkludert Legendary korta",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473956883",
-      "funnet": "2026-08-20T06:14:21.561605+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
