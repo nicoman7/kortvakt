@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T15:28:17.998070+00:00",
+  "sist_sjekket": "2026-08-20T15:30:46.618669+00:00",
   "funn": [
+    {
+      "tittel": "Selger girl groups kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474013905",
+      "funnet": "2026-08-20T15:30:46.616961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kort fra ulike Prize packs",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473968458",
+      "funnet": "2026-08-20T15:30:45.783396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Dragalge EX 104/086",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-20T13:54:24.298466+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Premier League 25/26 Pro Partnership kort",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452402085",
-      "funnet": "2026-08-20T13:54:23.916642+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Premier League 25/26 Liverpool FC",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452422443",
-      "funnet": "2026-08-20T13:54:23.459717+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
