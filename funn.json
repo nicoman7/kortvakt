@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T19:32:21.539745+00:00",
+  "sist_sjekket": "2026-08-20T19:34:15.838826+00:00",
   "funn": [
+    {
+      "tittel": "High-End Pokemon kort pakker - Best på Finn.no! Bredt & eksklusivt utvalg. ⚜️",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467879139",
+      "funnet": "2026-08-20T19:34:15.836647+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Black Belt's Training #255 Pokemon Ascended Heroes",
       "pris": 45,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T17:28:19.152957+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394726665",
-      "funnet": "2026-08-20T17:26:18.521669+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
