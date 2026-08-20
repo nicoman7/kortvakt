@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T08:38:17.312077+00:00",
+  "sist_sjekket": "2026-08-20T08:40:23.362548+00:00",
   "funn": [
+    {
+      "tittel": "Signerte fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473969331",
+      "funnet": "2026-08-20T08:40:23.360619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ada Hegerberg - Fotballkort - OL Lyon",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473969635",
+      "funnet": "2026-08-20T08:40:22.797760+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Caroline Graham-Hansen - Fotballkort - Barcelona - nummerert",
       "pris": 399,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473950161",
       "funnet": "2026-08-19T22:24:19.217157+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Poke Maniac Unified Minds (204)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473950070",
-      "funnet": "2026-08-19T22:24:18.972700+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Steelix Unified Minds (104)",
-      "pris": 6,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473949951",
-      "funnet": "2026-08-19T22:22:18.189365+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
