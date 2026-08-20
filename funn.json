@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T08:54:15.695765+00:00",
+  "sist_sjekket": "2026-08-20T08:56:21.220466+00:00",
   "funn": [
+    {
+      "tittel": "Selger unna litt av samlingen",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473971031",
+      "funnet": "2026-08-20T08:56:21.218697+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Donte Divincenzo immaculate auto /99 rookie basketballkort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473950311",
       "funnet": "2026-08-19T22:30:41.595416+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dedenne Unified Minds (145)",
-      "pris": 16,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473950172",
-      "funnet": "2026-08-19T22:28:18.228690+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
