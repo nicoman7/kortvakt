@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T20:48:15.903253+00:00",
+  "sist_sjekket": "2026-08-20T20:50:23.780891+00:00",
   "funn": [
+    {
+      "tittel": "Anime Waifu kort - SR med diverse",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474050589",
+      "funnet": "2026-08-20T20:50:23.779037+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ca.80 stk Pokemon-kort - GI BUD",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/341645772",
+      "funnet": "2026-08-20T20:50:23.512388+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Anime Waifu kort - diverse SR",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-20T18:32:18.714445+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Day 2026 Collection",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460934564",
-      "funnet": "2026-08-20T18:32:18.427327+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon #168 - Promo - Pokemon Prismatic Evolutions",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/394177529",
-      "funnet": "2026-08-20T18:32:17.847207+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
