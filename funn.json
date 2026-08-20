@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-20T14:36:18.183791+00:00",
+  "sist_sjekket": "2026-08-20T14:38:18.741634+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474008290",
+      "funnet": "2026-08-20T14:38:18.739799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon | Fairy | Jigglypuff 14/18",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474008714",
+      "funnet": "2026-08-20T14:38:18.176425+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – samling med 6 kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474008784",
+      "funnet": "2026-08-20T14:38:17.852715+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Espeon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474008639",
+      "funnet": "2026-08-20T14:38:17.232334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Arsenal Autograf å Nummererte kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473428853",
+      "funnet": "2026-08-20T14:38:16.589921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Lightning Chrome Mohamed Salah fotballkort Liverpool",
       "pris": 150,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473998724",
       "funnet": "2026-08-20T13:04:16.249312+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 3",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473998349",
-      "funnet": "2026-08-20T13:00:56.534408+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473998549",
-      "funnet": "2026-08-20T13:00:55.953767+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort/ Copperajan",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404051278",
-      "funnet": "2026-08-20T13:00:55.292730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort/ Charmeleon Shiny",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404050595",
-      "funnet": "2026-08-20T13:00:54.607625+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Go",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473997952",
-      "funnet": "2026-08-20T13:00:54.301316+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
