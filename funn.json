@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T04:06:19.664657+00:00",
+  "sist_sjekket": "2026-08-20T04:08:16.390026+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473953012",
+      "funnet": "2026-08-20T04:08:16.387926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Houndour rev holo-  aquapolis",
       "pris": 180,
@@ -1190,14 +1198,6 @@
       "pris": 475,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473390464",
       "funnet": "2026-08-19T20:34:20.579801+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort frogadier fra chaos rising",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473943316",
-      "funnet": "2026-08-19T20:34:19.698530+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
