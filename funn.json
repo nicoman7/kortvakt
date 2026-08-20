@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-20T20:26:20.195273+00:00",
+  "sist_sjekket": "2026-08-20T20:28:22.666354+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/423560814",
+      "funnet": "2026-08-20T20:28:22.664456+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon M Gengar EX",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474048704",
+      "funnet": "2026-08-20T20:28:22.056528+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UWCL 2025-26 Barecelona Lot",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474048768",
+      "funnet": "2026-08-20T20:28:21.797285+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2 mega dream kort etter avtale",
       "pris": 215,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
       "funnet": "2026-08-20T18:16:15.874705+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort selges",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474033242",
-      "funnet": "2026-08-20T18:14:17.180879+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Adrenalyn XL FIFA samlekort med album",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474032735",
-      "funnet": "2026-08-20T18:14:16.626844+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Togekiss #235",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474033213",
-      "funnet": "2026-08-20T18:14:16.047731+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
