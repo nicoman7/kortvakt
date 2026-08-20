@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T15:46:17.463600+00:00",
+  "sist_sjekket": "2026-08-20T15:48:24.084244+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort- Pick and choose",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474015336",
+      "funnet": "2026-08-20T15:48:24.082584+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage norske fotballkort – komplett serie? 11 lag, 1950/60-tall",
       "pris": 1950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T13:56:26.935728+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Premier League 25/26 Beast Mode",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452429470",
-      "funnet": "2026-08-20T13:56:26.359076+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
