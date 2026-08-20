@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-20T15:48:24.084244+00:00",
+  "sist_sjekket": "2026-08-20T15:50:31.167543+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort - Aquapolis Arcanine Reverse Holo",
+      "pris": 340,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474016031",
+      "funnet": "2026-08-20T15:50:31.165698+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474016134",
+      "funnet": "2026-08-20T15:50:30.311773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort - Fans' Favourite Marouane Fellaini Nr.236",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/359353310",
+      "funnet": "2026-08-20T15:50:29.921783+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort- Pick and choose",
       "pris": 25,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-20T13:56:28.865239+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 25/26 parallell kort (blå og grønn)",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452436412",
-      "funnet": "2026-08-20T13:56:28.401400+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 25/26 Headlines",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452434655",
-      "funnet": "2026-08-20T13:56:27.517915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 25/26 base klubbmerker",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452424294",
-      "funnet": "2026-08-20T13:56:26.935728+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
