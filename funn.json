@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T06:44:19.450782+00:00",
+  "sist_sjekket": "2026-08-20T06:46:20.573569+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk til salgs!",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473953629",
+      "funnet": "2026-08-20T06:46:20.571635+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473959123",
+      "funnet": "2026-08-20T06:46:19.676428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
       "pris": 63,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473945573",
       "funnet": "2026-08-19T20:56:17.523284+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dark Hypno #26 Pokemon Team Rocket",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473945558",
-      "funnet": "2026-08-19T20:56:17.063993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu [Journey Across America] #12 10th Anniversary Promo Card",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473945298",
-      "funnet": "2026-08-19T20:54:37.943252+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
