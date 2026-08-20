@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T16:10:56.604194+00:00",
+  "sist_sjekket": "2026-08-20T16:12:38.159073+00:00",
   "funn": [
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-20T16:12:38.156903+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "JAVIER HERNANDEZ - MANCHESTER UNITED - STAR SIGNING Nr.213 Topps",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T14:22:19.188676+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Eevee promo kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467607151",
-      "funnet": "2026-08-20T14:20:27.475553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
