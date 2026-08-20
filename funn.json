@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T00:02:16.237345+00:00",
+  "sist_sjekket": "2026-08-20T00:04:17.376782+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Umbreon 176 og Espeon 175 Prismatic Evolution",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473951430",
+      "funnet": "2026-08-20T00:04:17.374787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
       "pris": 1111,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-19T20:22:17.920945+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemonkort fra team rocket returns serien",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473941450",
-      "funnet": "2026-08-19T20:22:17.564683+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
