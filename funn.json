@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-20T11:06:20.824778+00:00",
+  "sist_sjekket": "2026-08-20T11:08:16.209519+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon first partner series 3 Froakie Fennekin Chespin",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473985873",
+      "funnet": "2026-08-20T11:08:16.207500+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Floragato #2201 Pokemon Chinese Gem Pack 5",
+      "pris": 11,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473985846",
+      "funnet": "2026-08-20T11:08:15.516674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Bayern Leverkusen Lot",
       "pris": 115,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473962415",
       "funnet": "2026-08-20T07:26:22.312925+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Temporal Forces serien",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473962073",
-      "funnet": "2026-08-20T07:22:20.766345+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSG-spesialkort – Mbappé, Neymar, Zaïre-Emery m.fl. | Champions League-vinnere",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445285609",
-      "funnet": "2026-08-20T07:22:20.318583+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
