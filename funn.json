@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-20T18:12:22.187715+00:00",
+  "sist_sjekket": "2026-08-20T18:14:17.182665+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474033242",
+      "funnet": "2026-08-20T18:14:17.180879+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Adrenalyn XL FIFA samlekort med album",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474032735",
+      "funnet": "2026-08-20T18:14:16.626844+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Togekiss #235",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474033213",
+      "funnet": "2026-08-20T18:14:16.047731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lonnie Walker IV #531 Panini Chronicles PSA 9",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474033419",
+      "funnet": "2026-08-20T18:14:15.444755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Larry’s Staraptor #249",
       "pris": 60,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/450005411",
       "funnet": "2026-08-20T15:44:18.223238+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Start – Mykland og Børufsen, m fl",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474015012",
-      "funnet": "2026-08-20T15:38:20.351083+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Baxcalibur 130/091 Shiny Rare – Paldean Fates",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474014802",
-      "funnet": "2026-08-20T15:38:20.078320+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Zygarde ex #47 Pokemon Perfect Order",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473539802",
-      "funnet": "2026-08-20T15:34:40.702989+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grafaiai 190/091 Shiny Rare – Paldean Fates",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474014291",
-      "funnet": "2026-08-20T15:34:39.917949+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
