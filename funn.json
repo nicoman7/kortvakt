@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T21:54:16.433912+00:00",
+  "sist_sjekket": "2026-08-20T21:56:20.696366+00:00",
   "funn": [
+    {
+      "tittel": "Veldig gamle og flotte kort gi bud 100 pr stk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/142337944",
+      "funnet": "2026-08-20T21:56:20.694305+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mystery Box Diamant – samlekort",
       "pris": 249,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472436038",
       "funnet": "2026-08-20T19:06:18.181671+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crown zenith hits selges samlet",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472270620",
-      "funnet": "2026-08-20T19:06:17.605100+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
