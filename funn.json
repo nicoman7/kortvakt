@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T00:04:17.376782+00:00",
+  "sist_sjekket": "2026-08-20T00:06:17.343784+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner Illustration collection Series 2",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473951879",
+      "funnet": "2026-08-20T00:06:17.342230+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Umbreon 176 og Espeon 175 Prismatic Evolution",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-19T20:22:18.248651+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle pokemon kort, Vintage GI BUD",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460078016",
-      "funnet": "2026-08-19T20:22:17.920945+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
