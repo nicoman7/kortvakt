@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-20T04:48:15.514310+00:00",
+  "sist_sjekket": "2026-08-20T04:50:28.895814+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473953650",
+      "funnet": "2026-08-20T04:50:28.893805+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Horsea - aquapolis",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/379119201",
       "funnet": "2026-08-19T20:36:19.060009+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "13 Chelsea A&BC 1971 purple back fotballkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/379120365",
-      "funnet": "2026-08-19T20:36:18.643011+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
