@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T10:48:16.257885+00:00",
+  "sist_sjekket": "2026-08-21T10:50:26.782423+00:00",
   "funn": [
+    {
+      "tittel": "Chaos rising 2x booster pakker samlet",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474089523",
+      "funnet": "2026-08-21T10:50:26.780466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Momentum Panini FIFA samlekort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-21T06:38:17.852605+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard GX og Charizard Mega",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474063509",
-      "funnet": "2026-08-21T06:30:42.504863+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
