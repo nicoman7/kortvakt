@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T03:44:18.163395+00:00",
+  "sist_sjekket": "2026-08-21T03:46:18.591814+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Chaos Rising Booster Bundle – 6 boosterpakker",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464577155",
+      "funnet": "2026-08-21T03:46:18.589963+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "3 stk Pokemon TCG Mewscarada EX",
       "pris": 2000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T20:50:23.779037+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "ca.80 stk Pokemon-kort - GI BUD",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/341645772",
-      "funnet": "2026-08-20T20:50:23.512388+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
