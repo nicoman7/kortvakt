@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-21T05:28:19.429888+00:00",
+  "sist_sjekket": "2026-08-21T05:30:37.918682+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu holofoil #055",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474060502",
+      "funnet": "2026-08-21T05:30:37.916876+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #018",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474060491",
+      "funnet": "2026-08-21T05:30:37.515737+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Deoxys",
       "pris": 175,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474050746",
       "funnet": "2026-08-20T21:10:28.861690+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon- og Magic-kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474051832",
-      "funnet": "2026-08-20T21:06:17.566027+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Storm Emeralda Japansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
-      "funnet": "2026-08-20T21:06:17.190178+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
