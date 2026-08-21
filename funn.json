@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T05:58:17.598355+00:00",
+  "sist_sjekket": "2026-08-21T06:00:49.070397+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474061655",
+      "funnet": "2026-08-21T06:00:49.068370+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Premier League 25-26 Gustavo Poyet Golazo GZ-8 Chelsea",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474052260",
       "funnet": "2026-08-20T21:16:19.289464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mystery Packs! Gode sjanser for kule kort",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473156860",
-      "funnet": "2026-08-20T21:16:18.518961+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
