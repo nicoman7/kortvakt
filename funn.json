@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T22:04:15.654752+00:00",
+  "sist_sjekket": "2026-08-21T22:06:19.565258+00:00",
   "funn": [
+    {
+      "tittel": "Skreddesydd bulk (pokemonkort)",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426937367",
+      "funnet": "2026-08-21T22:06:19.563408+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
       "pris": 63,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474142144",
       "funnet": "2026-08-21T18:48:24.996143+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474142062",
-      "funnet": "2026-08-21T18:48:24.635406+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
