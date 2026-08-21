@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-21T20:54:18.113702+00:00",
+  "sist_sjekket": "2026-08-21T20:56:17.463125+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter samlekort TCG",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/392871281",
+      "funnet": "2026-08-21T20:56:17.461207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard VMAX promo kort PSA 8",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474154804",
+      "funnet": "2026-08-21T20:56:16.599320+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ascended Heroes Mega Meganium ex Box samleboks",
       "pris": 830,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-21T18:16:27.723174+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ninetales BREAK evolutions",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474138669",
-      "funnet": "2026-08-21T18:14:16.848659+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474138717",
-      "funnet": "2026-08-21T18:14:16.259665+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
