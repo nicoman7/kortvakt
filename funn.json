@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T03:34:15.071415+00:00",
+  "sist_sjekket": "2026-08-21T03:36:15.229327+00:00",
   "funn": [
+    {
+      "tittel": "3 stk Pokemon TCG Mewscarada EX",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474058380",
+      "funnet": "2026-08-21T03:36:15.227493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Lapras Holiday Calendar (48) Holofoil",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T20:50:23.512388+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Anime Waifu kort - diverse SR",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474049314",
-      "funnet": "2026-08-20T20:46:34.152125+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
