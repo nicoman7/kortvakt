@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T10:18:20.281624+00:00",
+  "sist_sjekket": "2026-08-21T10:20:33.686823+00:00",
   "funn": [
+    {
+      "tittel": "Fem pakker med 10 blandet kort i hver pakke",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474086126",
+      "funnet": "2026-08-21T10:20:33.685193+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Perm til FIFA World cup 2026 Adrenalyn XL",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 165,
       "lenke": "https://www.finn.no/recommerce/forsale/item/460913330",
       "funnet": "2026-08-21T06:16:22.423173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Target Whistle japansk samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460920404",
-      "funnet": "2026-08-21T06:16:22.055106+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
