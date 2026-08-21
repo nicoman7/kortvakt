@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T18:18:25.412305+00:00",
+  "sist_sjekket": "2026-08-21T18:20:26.163632+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474138432",
+      "funnet": "2026-08-21T18:20:26.162091+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Limited Edition samlekort Vinícius Jr og Lionel Messi",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474131077",
       "funnet": "2026-08-21T17:08:18.656585+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cottonee [Reverse] #4 Pokemon White Flare",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474131359",
-      "funnet": "2026-08-21T17:08:18.262587+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
