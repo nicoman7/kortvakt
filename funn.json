@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-21T19:52:20.280514+00:00",
+  "sist_sjekket": "2026-08-21T19:54:18.797412+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474150183",
+      "funnet": "2026-08-21T19:54:18.795705+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474150232",
+      "funnet": "2026-08-21T19:54:17.878578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Frank Lampard Topps PL Retro Threads 25/26 Chelsea",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474133410",
       "funnet": "2026-08-21T17:54:21.600269+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sableye #63 Pokemon Secret Wonders",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465990888",
-      "funnet": "2026-08-21T17:54:20.698257+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shelgon #53 Pokemon Delta Species",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465990952",
-      "funnet": "2026-08-21T17:54:19.459109+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
