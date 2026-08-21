@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T00:26:16.630542+00:00",
+  "sist_sjekket": "2026-08-21T00:28:16.907541+00:00",
   "funn": [
+    {
+      "tittel": "Ønskes kjøp Perrin #253 Pokemon Chinese CSV8C",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474057533",
+      "funnet": "2026-08-21T00:28:16.905473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nico O'Reilly 2026 Topps Soccer Merlin Premier League Fantasy Football #FF-26",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T20:06:17.396778+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474046297",
-      "funnet": "2026-08-20T20:02:33.741169+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
