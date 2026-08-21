@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T12:26:16.426006+00:00",
+  "sist_sjekket": "2026-08-21T12:28:22.279122+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474101468",
+      "funnet": "2026-08-21T12:28:22.277304+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jerry Stackhose basketballkort - Game Used fabrics",
       "pris": 190,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/458726422",
       "funnet": "2026-08-21T08:36:17.922843+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Porygon-Z LV.X #100 Pokemon Majestic Dawn",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474074969",
-      "funnet": "2026-08-21T08:36:17.360306+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
