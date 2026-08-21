@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T09:58:14.378129+00:00",
+  "sist_sjekket": "2026-08-21T10:00:51.507655+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-21T10:00:51.505580+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Bellossom kort italiensk",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/460909900",
       "funnet": "2026-08-21T06:14:19.833284+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Hydreigon EX samlekort holografisk",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460908660",
-      "funnet": "2026-08-21T06:14:18.921896+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
