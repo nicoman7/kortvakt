@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T03:02:18.537865+00:00",
+  "sist_sjekket": "2026-08-21T03:04:17.242102+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ampharos Chilling Reign (49) Reverse Holo",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474058271",
+      "funnet": "2026-08-21T03:04:17.239304+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Sableye Lost Thunder (96)",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T20:34:18.211997+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gengar #20 Pokemon Fossil",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474049052",
-      "funnet": "2026-08-20T20:32:19.125654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
