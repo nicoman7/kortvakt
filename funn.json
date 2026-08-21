@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-21T06:28:17.918938+00:00",
+  "sist_sjekket": "2026-08-21T06:30:42.506590+00:00",
   "funn": [
+    {
+      "tittel": "Charizard GX og Charizard Mega",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474063509",
+      "funnet": "2026-08-21T06:30:42.504863+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Flying Pikachu VMAX - PSA Gem Mint 10",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474061376",
+      "funnet": "2026-08-21T06:30:41.724287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Cynthias Garchomp Ultra Rare - PSA 10",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474061513",
+      "funnet": "2026-08-21T06:30:40.928814+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Aegislash EX kort",
       "pris": 120,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474054809",
       "funnet": "2026-08-20T22:06:16.994555+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ocean Drake epic Riftbound samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474054714",
-      "funnet": "2026-08-20T22:04:19.153188+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🧬Pokemon nine colors gathering set b Jumbo🧬",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474054709",
-      "funnet": "2026-08-20T22:04:18.395320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-08-20T22:04:17.580869+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
