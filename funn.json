@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-21T19:48:28.419851+00:00",
+  "sist_sjekket": "2026-08-21T19:50:27.318372+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474149493",
+      "funnet": "2026-08-21T19:50:27.316763+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474145251",
+      "funnet": "2026-08-21T19:50:26.981049+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vikavolt #52 Pokemon Sun and Moon",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451870581",
+      "funnet": "2026-08-21T19:50:26.588200+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Ditto – Pikachu⚡️Bulbasaur🌿Squirtle💧Charmander🔥- EX Delta Species",
+      "pris": 1770,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474126971",
+      "funnet": "2026-08-21T19:50:25.876898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Vm stickers",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474149877",
+      "funnet": "2026-08-21T19:50:25.045707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 250,
@@ -1158,46 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465990738",
       "funnet": "2026-08-21T17:52:20.700524+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Determination #80 Pokemon Evolutions NM",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465851923",
-      "funnet": "2026-08-21T17:52:19.812007+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Double Colorless Energy [Reverse Holo] #90 Pokemon Evolutions",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465852065",
-      "funnet": "2026-08-21T17:52:18.889115+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bryan Mbeumo • Topps Chrome auto • /50 • Manchester United",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474136352",
-      "funnet": "2026-08-21T17:52:18.463729+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kyogre #3 Pokemon Celebrations NM",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465850952",
-      "funnet": "2026-08-21T17:50:30.292748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venusaur Spirit Link #89 Pokemon Evolutions",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465851313",
-      "funnet": "2026-08-21T17:50:29.855714+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
