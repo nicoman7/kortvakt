@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T07:04:20.840350+00:00",
+  "sist_sjekket": "2026-08-21T07:06:18.830452+00:00",
   "funn": [
+    {
+      "tittel": "Binder til salmekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474066134",
+      "funnet": "2026-08-21T07:06:18.828194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Chrome UEFA Zlatan Ibrahimovic Silenced #SHH-3 Milano",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474055555",
       "funnet": "2026-08-20T22:32:16.943636+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Stickers - Haaland, Mbappe, Vini Jr, Yamal, Wirtz, FWC 00",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474055093",
-      "funnet": "2026-08-20T22:32:16.524620+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
