@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T21:46:22.788138+00:00",
+  "sist_sjekket": "2026-08-21T21:48:21.665611+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon topps fra 1999-2000",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474157918",
+      "funnet": "2026-08-21T21:48:21.663889+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474141451",
       "funnet": "2026-08-21T18:42:17.937128+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort i varierende tilstand",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474140176",
-      "funnet": "2026-08-21T18:42:17.209800+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
