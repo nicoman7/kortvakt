@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T23:18:22.431925+00:00",
+  "sist_sjekket": "2026-08-21T23:20:25.195869+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort samling",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473437628",
+      "funnet": "2026-08-21T23:20:25.193986+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Ultimate Stage Pavel Nedved Juventus Chrome kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474149877",
       "funnet": "2026-08-21T19:50:25.045707+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474149099",
-      "funnet": "2026-08-21T19:42:15.626723+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
