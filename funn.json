@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-21T03:04:17.242102+00:00",
+  "sist_sjekket": "2026-08-21T03:06:14.149557+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Swirlix Chilling Reign (67)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474058309",
+      "funnet": "2026-08-21T03:06:14.147391+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ampharos Chilling Reign (49) Reverse Holo",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-20T20:34:18.825782+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort – blandet lot med holo og vanlige kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474049229",
-      "funnet": "2026-08-20T20:34:18.211997+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
