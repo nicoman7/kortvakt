@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-21T21:52:22.081656+00:00",
+  "sist_sjekket": "2026-08-21T21:54:16.045472+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Flygon",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467832640",
+      "funnet": "2026-08-21T21:54:16.043629+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort - Flamigo",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467832687",
+      "funnet": "2026-08-21T21:54:15.701768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Eevee promo",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474141922",
       "funnet": "2026-08-21T18:46:19.029023+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474141437",
-      "funnet": "2026-08-21T18:46:18.264775+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Richarlison fotballkort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/279771774",
-      "funnet": "2026-08-21T18:46:17.478808+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
