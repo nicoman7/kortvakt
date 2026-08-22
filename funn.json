@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T12:08:14.979288+00:00",
+  "sist_sjekket": "2026-08-22T12:10:25.399946+00:00",
   "funn": [
+    {
+      "tittel": "151 eng bulk kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/442952692",
+      "funnet": "2026-08-22T12:10:25.397903+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-22T12:10:25.053610+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Meganium ex",
       "pris": 1500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474189541",
       "funnet": "2026-08-22T09:44:16.837386+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort reservert",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474189103",
-      "funnet": "2026-08-22T09:42:17.739468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Persian [1st Edition] #42 Pokemon Team Rocket",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474189114",
-      "funnet": "2026-08-22T09:42:16.870054+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
