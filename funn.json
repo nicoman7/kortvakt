@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-22T12:14:25.869901+00:00",
+  "sist_sjekket": "2026-08-22T12:16:29.492519+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort selges – samlet eller enkeltvis - Gi bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455032000",
+      "funnet": "2026-08-22T12:16:29.490747+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Groudon ex «no dot»",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474210578",
+      "funnet": "2026-08-22T12:16:28.677818+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Temporal Forces holo og reverse holo",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467391129",
+      "funnet": "2026-08-22T12:16:28.372137+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "151 eng bulk kort",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474189899",
       "funnet": "2026-08-22T09:48:17.740410+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-22T09:48:17.058755+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort samling – diverse spillere og lag",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474188586",
-      "funnet": "2026-08-22T09:44:17.299192+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Squirtle [HOLO] 048 - Pokemon Scarlet & Violet",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474189541",
-      "funnet": "2026-08-22T09:44:16.837386+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
