@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T00:04:18.278961+00:00",
+  "sist_sjekket": "2026-08-22T00:06:16.119519+00:00",
   "funn": [
+    {
+      "tittel": "Futera Fotballkort Martin Ødegaard /27",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474161816",
+      "funnet": "2026-08-22T00:06:16.117515+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Inception Bradley Barcola autografkort Paris Saint-Germain /49",
       "pris": 650,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-21T19:52:19.062220+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-08-21T19:52:18.246702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
