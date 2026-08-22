@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T06:28:18.939037+00:00",
+  "sist_sjekket": "2026-08-22T06:30:38.175777+00:00",
   "funn": [
+    {
+      "tittel": "Meowth 106/094 Illustration Rare – Phantasmal Flames",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474167463",
+      "funnet": "2026-08-22T06:30:38.173652+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Now Estêvão Willian RC- Første Premier  League mål !",
       "pris": 129,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-21T22:34:20.598295+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort selges – åpen for bud",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474159766",
-      "funnet": "2026-08-21T22:34:19.835363+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
