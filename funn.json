@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T15:10:28.189176+00:00",
+  "sist_sjekket": "2026-08-22T15:12:20.066397+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464763095",
+      "funnet": "2026-08-22T15:12:20.064345+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort: Hypno 36/111",
       "pris": 29,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-22T13:38:23.363266+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Sandygast japansk samlekort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461036023",
-      "funnet": "2026-08-22T13:38:22.460093+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
