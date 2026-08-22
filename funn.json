@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T10:24:23.775200+00:00",
+  "sist_sjekket": "2026-08-22T10:26:20.177781+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474195067",
+      "funnet": "2026-08-22T10:26:20.176192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Darkrai GX kort",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474150847",
       "funnet": "2026-08-22T08:08:17.321364+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Magikarp kort – lot med 4 forskjellige",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474176302",
-      "funnet": "2026-08-22T08:04:19.502140+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
