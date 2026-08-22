@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T13:26:17.641903+00:00",
+  "sist_sjekket": "2026-08-22T13:28:19.985491+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474220098",
+      "funnet": "2026-08-22T13:28:19.983343+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Golden Boot Limited Edition Erling Haaland samlekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474220348",
+      "funnet": "2026-08-22T13:28:19.675099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "The Magical Nordic Tarot kortstokk med bok",
       "pris": 222,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/386417957",
       "funnet": "2026-08-22T10:50:28.575543+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div Pokémon samlekort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474198553",
-      "funnet": "2026-08-22T10:50:27.724789+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kinesiske Pokemonkort",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/418072689",
-      "funnet": "2026-08-22T10:50:26.832183+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
