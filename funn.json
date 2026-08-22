@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T11:26:20.659515+00:00",
+  "sist_sjekket": "2026-08-22T11:28:15.526353+00:00",
   "funn": [
+    {
+      "tittel": "Telekort: Telecom Phonecard , Coca-Cola i mappe",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/369582043",
+      "funnet": "2026-08-22T11:28:15.524558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Reshiram 2020 japansk PSA 10 samlekort",
       "pris": 320,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474184631",
       "funnet": "2026-08-22T09:08:18.450914+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cyrano (JP) 127/106 - Pokemon Super Electric Breaker",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474184564",
-      "funnet": "2026-08-22T09:08:18.050909+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
