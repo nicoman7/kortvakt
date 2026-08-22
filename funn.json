@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-22T08:32:16.963153+00:00",
+  "sist_sjekket": "2026-08-22T08:34:18.639741+00:00",
   "funn": [
+    {
+      "tittel": "Samlere se her",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441652597",
+      "funnet": "2026-08-22T08:34:18.638002+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Cresselia 071/064 – Illustration Rare – Shrouded Fable – ENG NM",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474179661",
+      "funnet": "2026-08-22T08:34:17.730742+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Togedemaru 104/094 – Illustration Rare – Phantasmal Flames – ENG NM",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474179950",
+      "funnet": "2026-08-22T08:34:16.744778+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samleperm Pikachu 2000 – original Nintendo-lisens",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474179729",
+      "funnet": "2026-08-22T08:34:16.280398+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First partner serie 3 gen 9",
       "pris": 375,
@@ -1166,38 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/359598442",
       "funnet": "2026-08-22T04:32:20.575691+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan metallkort Pool of dreams",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359591374",
-      "funnet": "2026-08-22T04:32:19.752276+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan metallkort Solid rock gate",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359589642",
-      "funnet": "2026-08-22T04:32:18.927489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan metallkort Cavern Portal",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359599535",
-      "funnet": "2026-08-22T04:30:42.798289+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan metallkort Empty Gate",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359596474",
-      "funnet": "2026-08-22T04:30:42.431628+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
