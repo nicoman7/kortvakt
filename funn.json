@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T10:16:16.698327+00:00",
+  "sist_sjekket": "2026-08-22T10:18:18.673640+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Darkrai GX kort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474194248",
+      "funnet": "2026-08-22T10:18:18.672180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474191443",
+      "funnet": "2026-08-22T10:18:17.828397+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Aegislash EX holo",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474176302",
       "funnet": "2026-08-22T08:04:19.502140+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Arsenal Autograf å Nummererte kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473428853",
-      "funnet": "2026-08-22T08:04:18.636539+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon-kort – Psychic type",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474175827",
-      "funnet": "2026-08-22T08:00:54.404807+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
