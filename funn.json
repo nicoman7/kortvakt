@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T10:34:20.059790+00:00",
+  "sist_sjekket": "2026-08-22T10:36:17.705474+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474194537",
+      "funnet": "2026-08-22T10:36:17.703593+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jalen Brunson All-Star 2025-26 Topps NBA Hoops Basketball #278 New York Knicks",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474196782",
+      "funnet": "2026-08-22T10:36:17.295160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps NBA Hoops - Rookie Carter Bryant #181 (RC) San Antonio Spurs",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474178264",
       "funnet": "2026-08-22T08:22:17.826527+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "600 Pokémon Kort Bulk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474177680",
-      "funnet": "2026-08-22T08:16:18.831896+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling blandet typer",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474177347",
-      "funnet": "2026-08-22T08:12:21.529690+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
