@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T06:56:18.325634+00:00",
+  "sist_sjekket": "2026-08-22T06:58:16.179857+00:00",
   "funn": [
+    {
+      "tittel": "Telekort Bud ønskes",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/292467542",
+      "funnet": "2026-08-22T06:58:16.178331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard GX samlekort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-08-22T00:16:15.459281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera Fotballkort Martin Ødegaard /27",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474161816",
-      "funnet": "2026-08-22T00:06:16.117515+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
