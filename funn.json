@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T11:14:15.072444+00:00",
+  "sist_sjekket": "2026-08-22T11:16:18.299671+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474201879",
+      "funnet": "2026-08-22T11:16:18.298058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2025-26 Topps Signature Class #58 Jalen Brunson NY Knicks",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474202184",
+      "funnet": "2026-08-22T11:16:17.862258+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA Pokemon kort holdere",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-22T08:58:18.412115+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Harlequin 163/086 - Pokemon White Flare",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474182815",
-      "funnet": "2026-08-22T08:56:19.753412+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ethans ho-oh",
-      "pris": 270,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472680010",
-      "funnet": "2026-08-22T08:54:20.189918+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
