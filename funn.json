@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-22T17:08:17.393688+00:00",
+  "sist_sjekket": "2026-08-22T17:10:26.702773+00:00",
   "funn": [
+    {
+      "tittel": "Gengar EX #108 [Pokemon Firered & Leafgreen] vurderes solgt.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474038937",
+      "funnet": "2026-08-22T17:10:26.700907+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Drake Maye 2025 Topps Chrome #1975-23 1975 Topps New England Patriots",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474247862",
+      "funnet": "2026-08-22T17:10:25.881013+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Arsenal Autograf å Nummererte kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473428853",
+      "funnet": "2026-08-22T17:10:25.122101+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Chase Brown Future Stars Refractor 2025 Topps Chrome #FS-13 Cincinnati Bengals",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/430430988",
       "funnet": "2026-08-22T15:28:18.223473+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Joe Burrow 2025 Topps Chrome Base #61 Bengals",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474235622",
-      "funnet": "2026-08-22T15:28:17.945898+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2015 Panini Donruss Zlatan Ibrahimovic Paris Saint-Germain fotballkort PSA 9",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474235689",
-      "funnet": "2026-08-22T15:28:17.384806+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Charmander holo kort",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474235382",
-      "funnet": "2026-08-22T15:28:17.036362+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
