@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T13:00:52.775306+00:00",
+  "sist_sjekket": "2026-08-22T13:02:21.835193+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467353360",
+      "funnet": "2026-08-22T13:02:21.833562+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Arceus lv 100 samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474216557",
+      "funnet": "2026-08-22T13:02:20.953294+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort EX / holo – Blastoise, Garchomp, Landorus m.fl.",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474195745",
       "funnet": "2026-08-22T10:28:17.145950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Collector’s Binder Series 3 pris per stk",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474195705",
-      "funnet": "2026-08-22T10:28:16.802271+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort first partner 3  selges",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474194410",
-      "funnet": "2026-08-22T10:28:16.135710+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
