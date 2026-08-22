@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T19:56:18.324582+00:00",
+  "sist_sjekket": "2026-08-22T19:58:18.398352+00:00",
   "funn": [
+    {
+      "tittel": "Div Pokémon (ikke basekort)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/414609173",
+      "funnet": "2026-08-22T19:58:18.396309+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samlekort – blandet lot med holo og EX/GX",
       "pris": 1999,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474252329",
       "funnet": "2026-08-22T17:52:18.747700+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Heungmin Son Limited Edition",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474251993",
-      "funnet": "2026-08-22T17:50:22.897323+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
