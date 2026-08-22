@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-22T11:10:22.629020+00:00",
+  "sist_sjekket": "2026-08-22T11:12:14.852737+00:00",
   "funn": [
+    {
+      "tittel": "PSA Pokemon kort holdere",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445434968",
+      "funnet": "2026-08-22T11:12:14.850874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "88 stk Panini fifa world cup 2026",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474201568",
+      "funnet": "2026-08-22T11:12:14.495011+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Darkrai EX  japansk",
       "pris": 2000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-22T08:54:20.189918+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Iono 254/192 - Pokemon Paldea Evolved",
-      "pris": 145,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474182498",
-      "funnet": "2026-08-22T08:54:19.638316+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Paldea Friends Mini Tin Pokemon",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474182483",
-      "funnet": "2026-08-22T08:54:18.914333+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
