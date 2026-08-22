@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T11:38:19.757768+00:00",
+  "sist_sjekket": "2026-08-22T11:40:25.411271+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474202778",
+      "funnet": "2026-08-22T11:40:25.408833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erika's Clefable #3 Holo Pokemon Vintage Gym Heroes Kort",
       "pris": 379,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474183262",
       "funnet": "2026-08-22T09:16:17.291609+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Gengar ex 269/217 – Kort 2 – Ascended Heroes – ENG NM",
-      "pris": 680,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474185090",
-      "funnet": "2026-08-22T09:14:18.628129+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
