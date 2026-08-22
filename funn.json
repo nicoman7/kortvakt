@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T17:16:15.336134+00:00",
+  "sist_sjekket": "2026-08-22T17:18:20.267064+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473655243",
+      "funnet": "2026-08-22T17:18:20.265244+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "4 stk Upper Deck World Cup USA 1994 – Uåpnede fotballkortpakker",
       "pris": 380,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/452360746",
       "funnet": "2026-08-22T15:32:17.926305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 2020 Limited Edition Fotballkort Neymar Jr, Hazard, Agüero",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430425555",
-      "funnet": "2026-08-22T15:30:41.207538+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
