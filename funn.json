@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-22T10:00:52.195218+00:00",
+  "sist_sjekket": "2026-08-22T10:02:18.947671+00:00",
   "funn": [
+    {
+      "tittel": "Leafeon EX (JP) 003/187 - Pokemon Terastal Festival",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474191908",
+      "funnet": "2026-08-22T10:02:18.946196+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flareon EX (JP) 022/187 - Pokemon Terastal Festival",
       "pris": 49,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474171531",
       "funnet": "2026-08-22T07:28:21.980772+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474172193",
-      "funnet": "2026-08-22T07:28:21.157634+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
