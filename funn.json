@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T18:34:13.621294+00:00",
+  "sist_sjekket": "2026-08-23T18:36:18.777036+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistermerker",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474393200",
+      "funnet": "2026-08-23T18:36:18.775250+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stunfisk #202 Pokemon Surging Sparks",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474384136",
+      "funnet": "2026-08-23T18:36:18.013362+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ludicolo #95 Pokemon Phantasmal Flames",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474377142",
       "funnet": "2026-08-23T16:48:19.157533+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Zeraora - Pokemon Pitch Black",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474376575",
-      "funnet": "2026-08-23T16:46:17.550640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – vann-type",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466297397",
-      "funnet": "2026-08-23T16:42:15.256543+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
