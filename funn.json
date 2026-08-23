@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T06:30:37.205596+00:00",
+  "sist_sjekket": "2026-08-23T06:32:21.407246+00:00",
   "funn": [
+    {
+      "tittel": "Mega vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474284164",
+      "funnet": "2026-08-23T06:32:21.405408+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thierry Henry Nummerert /50 Gradert Fotballkort",
       "pris": 1350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-22T21:08:16.597837+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Reverse Holo pokemon kort vintage",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460398075",
-      "funnet": "2026-08-22T21:08:15.753191+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
