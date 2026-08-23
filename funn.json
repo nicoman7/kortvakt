@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T21:52:18.427968+00:00",
+  "sist_sjekket": "2026-08-23T21:54:17.256825+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473655243",
+      "funnet": "2026-08-23T21:54:17.254988+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Bundesliga 2026 Diant Ramaj Blue Refractor /150 Fc Heidenheim",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474399484",
       "funnet": "2026-08-23T19:16:16.276305+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters kortpakke – ulike kort selges samlet",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474399610",
-      "funnet": "2026-08-23T19:16:15.465342+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
