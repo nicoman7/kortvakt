@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T13:06:19.047448+00:00",
+  "sist_sjekket": "2026-08-23T13:08:17.931423+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 155,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474342334",
+      "funnet": "2026-08-23T13:08:17.929286+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/406704722",
       "funnet": "2026-08-23T11:44:18.305150+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini - Fotball-VM 1990 stickers",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/423618270",
-      "funnet": "2026-08-23T11:44:17.723087+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
