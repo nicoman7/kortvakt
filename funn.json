@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T03:44:16.174512+00:00",
+  "sist_sjekket": "2026-08-23T03:46:18.073315+00:00",
   "funn": [
+    {
+      "tittel": "Selger/ Trade Pokemon samlingen",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474278850",
+      "funnet": "2026-08-23T03:46:18.071244+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GradedGuard Grape Limited Edition kortbeskyttere",
       "pris": 599,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474247145",
       "funnet": "2026-08-22T20:52:18.196119+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467695852",
-      "funnet": "2026-08-22T20:52:17.755955+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
