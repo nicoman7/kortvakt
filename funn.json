@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T15:22:20.340493+00:00",
+  "sist_sjekket": "2026-08-23T15:24:16.194524+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet lot",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474363752",
+      "funnet": "2026-08-23T15:24:16.192224+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort samling – Boing",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474364135",
+      "funnet": "2026-08-23T15:24:15.553326+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474346080",
       "funnet": "2026-08-23T13:30:40.658083+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473655243",
-      "funnet": "2026-08-23T13:28:19.809599+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon kort bulk fra forskjellige serier",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474345911",
-      "funnet": "2026-08-23T13:26:17.217219+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
