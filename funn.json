@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-23T11:18:15.300094+00:00",
+  "sist_sjekket": "2026-08-23T11:20:28.587450+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistremerker/stickers",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474322892",
+      "funnet": "2026-08-23T11:20:28.585330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "FIFA 26 Panini fotballkort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474321832",
+      "funnet": "2026-08-23T11:20:27.788882+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-23T11:20:27.001817+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gardevoir ex Delta Species samlekort CGC 10",
       "pris": 350,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-23T10:24:17.036065+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Strago and Relm Surge Foil Commander-kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474313965",
-      "funnet": "2026-08-23T10:22:18.659480+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon M Rayquaza EX kort HP",
-      "pris": 555,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474314083",
-      "funnet": "2026-08-23T10:22:18.278061+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bakugan Ascended Heroes kortspill boosterbokser pris per stk",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474313544",
-      "funnet": "2026-08-23T10:20:25.537596+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
