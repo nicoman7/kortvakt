@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T20:40:27.318334+00:00",
+  "sist_sjekket": "2026-08-23T20:42:16.489648+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon deck box Charizard",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/237038047",
+      "funnet": "2026-08-23T20:42:16.487598+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon fullarts",
       "pris": 495,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-23T18:56:22.041559+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: Holo og reverse holo [Normal]",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474396408",
-      "funnet": "2026-08-23T18:56:21.176815+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
