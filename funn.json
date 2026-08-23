@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T23:36:18.341296+00:00",
+  "sist_sjekket": "2026-08-23T23:38:19.399541+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort limited edition – samling med spillere",
+      "pris": 540,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474416179",
+      "funnet": "2026-08-23T23:38:19.397905+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Bayern München Lineage 25/26 Leon Goretzka auto /25",
       "pris": 550,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-23T19:36:19.656628+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Warcraft kort wow selges enkeltvis. Pris står på hvert bilde.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/363891812",
-      "funnet": "2026-08-23T19:36:19.225968+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
