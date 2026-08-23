@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T16:56:16.382118+00:00",
+  "sist_sjekket": "2026-08-23T16:58:16.210924+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 375,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474377653",
+      "funnet": "2026-08-23T16:58:16.209128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Swampert holo",
+      "pris": 295,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474378916",
+      "funnet": "2026-08-23T16:58:15.612537+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Magneton holo",
       "pris": 335,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473774977",
       "funnet": "2026-08-23T14:46:19.505944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort holografiske trenerkort 9 stk",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474357907",
-      "funnet": "2026-08-23T14:44:17.746386+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort bulk kinesisk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474357920",
-      "funnet": "2026-08-23T14:42:19.054704+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
