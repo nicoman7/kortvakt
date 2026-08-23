@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T13:28:19.811470+00:00",
+  "sist_sjekket": "2026-08-23T13:30:40.660215+00:00",
   "funn": [
+    {
+      "tittel": "Photokort SKZ",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474346080",
+      "funnet": "2026-08-23T13:30:40.658083+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/427527500",
       "funnet": "2026-08-23T11:46:16.379340+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Zangoose, Beautifly, Slaking og Latias holo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474327876",
-      "funnet": "2026-08-23T11:46:16.011127+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
