@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T20:44:18.979606+00:00",
+  "sist_sjekket": "2026-08-23T20:46:15.386405+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/237039089",
+      "funnet": "2026-08-23T20:46:15.384194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474397478",
       "funnet": "2026-08-23T19:00:49.428433+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "250 premier gold 96-97 fotballkort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/341922148",
-      "funnet": "2026-08-23T19:00:49.039248+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
