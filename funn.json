@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T14:00:51.983544+00:00",
+  "sist_sjekket": "2026-08-23T14:02:17.134218+00:00",
   "funn": [
+    {
+      "tittel": "Mummi Moominmamma sitatkort Panini",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474351579",
+      "funnet": "2026-08-23T14:02:17.132556+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Tapu Koko VMAX 320 HP",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474351796",
+      "funnet": "2026-08-23T14:02:16.333700+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Forseglet promo kort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-23T11:50:29.224910+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Franck Ribery Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445633852",
-      "funnet": "2026-08-23T11:50:28.569133+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474328878",
-      "funnet": "2026-08-23T11:50:27.892625+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
