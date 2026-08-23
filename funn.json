@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T15:34:18.809599+00:00",
+  "sist_sjekket": "2026-08-23T15:36:16.525876+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort V-kort Granbull V, Crabominable V og Beedrill V",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474365341",
+      "funnet": "2026-08-23T15:36:16.523720+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Meowth EX samlekort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474350367",
       "funnet": "2026-08-23T13:56:15.938849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mummitrollet Panini kort The Hattifatteners",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474350687",
-      "funnet": "2026-08-23T13:56:15.582005+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
