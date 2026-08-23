@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T06:28:17.244157+00:00",
+  "sist_sjekket": "2026-08-23T06:30:37.205596+00:00",
   "funn": [
+    {
+      "tittel": "Thierry Henry Nummerert /50 Gradert Fotballkort",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474284501",
+      "funnet": "2026-08-23T06:30:37.203558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aurelien Tchouameni Auto Gradert Fotballkort",
       "pris": 850,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-22T21:08:15.753191+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Magic The Gathering Rhystic Study enchantmentkort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474269826",
-      "funnet": "2026-08-22T21:08:15.448199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
