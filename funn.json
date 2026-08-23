@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T09:12:15.589526+00:00",
+  "sist_sjekket": "2026-08-23T09:14:17.773897+00:00",
   "funn": [
+    {
+      "tittel": "Pau Cubarsi Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474302797",
+      "funnet": "2026-08-23T09:14:17.772053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Simplicidad UCC 25-26 Oscar Bobb",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474302997",
+      "funnet": "2026-08-23T09:14:17.319290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jolteon TG04/TG30 - Pokemon Brilliant Stars",
       "pris": 195,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474288295",
       "funnet": "2026-08-23T07:18:27.282644+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
-      "funnet": "2026-08-23T07:18:26.536375+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Raichu Holo #8 Pokemon Stormfront",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474286684",
-      "funnet": "2026-08-23T07:16:16.266323+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
