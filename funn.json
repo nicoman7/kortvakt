@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T18:26:15.684118+00:00",
+  "sist_sjekket": "2026-08-23T18:28:15.680329+00:00",
   "funn": [
+    {
+      "tittel": "Aerodactyl V - Lost Origin - Pokemon",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474392193",
+      "funnet": "2026-08-23T18:28:15.678470+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard V #19 Pokemon Darkness Ablaze",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473545853",
+      "funnet": "2026-08-23T18:28:15.024817+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling med diverse kort fra ulike pokemon sett",
       "pris": 149,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-23T16:18:16.793522+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Stickers Smash hits collection 1987",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/424016760",
-      "funnet": "2026-08-23T16:18:16.448741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu EX japansk",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474372493",
-      "funnet": "2026-08-23T16:18:15.863543+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
