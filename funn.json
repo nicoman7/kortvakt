@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T09:38:21.092515+00:00",
+  "sist_sjekket": "2026-08-23T09:40:30.368258+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474304690",
+      "funnet": "2026-08-23T09:40:30.366614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kortsamling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474305633",
+      "funnet": "2026-08-23T09:40:30.000765+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARY NEVILLE MAN UNITED TOPPS UCC SIMPLICIDAD 2025 / 26",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474291790",
       "funnet": "2026-08-23T07:56:17.282662+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Toucannon holografisk kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474292316",
-      "funnet": "2026-08-23T07:56:16.522019+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort lot – Mega Charizard Y EX, AR, IR, Mega EX m.m. – 18 kort",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474291652",
-      "funnet": "2026-08-23T07:54:15.197544+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
