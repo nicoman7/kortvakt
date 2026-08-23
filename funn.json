@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T15:20:27.831802+00:00",
+  "sist_sjekket": "2026-08-23T15:22:20.340493+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474363922",
+      "funnet": "2026-08-23T15:22:20.338341+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Holo Magikarp #69 Vintage Pokemon Holon Phantoms Kort år 2006 Sjeldent",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474360155",
+      "funnet": "2026-08-23T15:22:19.416807+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thierry Henry Arsenal FC  Topps",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474345911",
       "funnet": "2026-08-23T13:26:17.217219+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery pack!",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/354893579",
-      "funnet": "2026-08-23T13:24:18.867594+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "AR Pokemon kort / full art",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474344983",
-      "funnet": "2026-08-23T13:24:18.465761+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
