@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T13:22:16.467988+00:00",
+  "sist_sjekket": "2026-08-23T13:24:18.869329+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mystery pack!",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/354893579",
+      "funnet": "2026-08-23T13:24:18.867594+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "AR Pokemon kort / full art",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474344983",
+      "funnet": "2026-08-23T13:24:18.465761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - CHARIZARD (TOPPS)",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/409527694",
       "funnet": "2026-08-23T11:44:23.999039+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toni Kroos Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396590798",
-      "funnet": "2026-08-23T11:44:23.427161+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Conte Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408100799",
-      "funnet": "2026-08-23T11:44:23.168227+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
