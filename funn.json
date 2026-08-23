@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T13:26:17.218726+00:00",
+  "sist_sjekket": "2026-08-23T13:28:19.811470+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473655243",
+      "funnet": "2026-08-23T13:28:19.809599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling Pokémon kort bulk fra forskjellige serier",
       "pris": 550,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474327876",
       "funnet": "2026-08-23T11:46:16.011127+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Juninho Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/452200110",
-      "funnet": "2026-08-23T11:44:24.561830+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
