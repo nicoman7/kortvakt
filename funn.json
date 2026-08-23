@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T22:04:17.901765+00:00",
+  "sist_sjekket": "2026-08-23T22:06:15.904410+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon vintage kort samling - selges 20,- pr kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474414246",
+      "funnet": "2026-08-23T22:06:15.902566+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering Mystic Remora kort – blå enchantment, 5 stk",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474396830",
       "funnet": "2026-08-23T19:18:22.433997+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu promo kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474396808",
-      "funnet": "2026-08-23T19:18:21.501561+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
