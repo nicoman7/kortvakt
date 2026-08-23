@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T06:00:51.544744+00:00",
+  "sist_sjekket": "2026-08-23T06:02:15.738334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474282370",
+      "funnet": "2026-08-23T06:02:15.736336+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474247331",
       "funnet": "2026-08-22T20:54:20.153000+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "CGC 10 Pokémon-kort Yanmega ex 228/182  Destined Rivals",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474268827",
-      "funnet": "2026-08-22T20:54:19.270591+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
