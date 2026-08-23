@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-23T20:38:18.600152+00:00",
+  "sist_sjekket": "2026-08-23T20:40:27.318334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon fullarts",
+      "pris": 495,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474240228",
+      "funnet": "2026-08-23T20:40:27.316449+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/237039742",
+      "funnet": "2026-08-23T20:40:26.571565+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-23T20:40:25.984683+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lilly pokemon box",
       "pris": null,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-23T18:56:21.176815+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Janine's Secret Art 173/131 Special Illustration Rare (SIR) Prismatic Evo NM",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474396610",
-      "funnet": "2026-08-23T18:56:20.288301+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 22/08",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-08-23T18:56:19.384974+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405032560",
-      "funnet": "2026-08-23T18:54:16.936961+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
