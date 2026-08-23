@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T13:58:16.320498+00:00",
+  "sist_sjekket": "2026-08-23T14:00:51.983544+00:00",
   "funn": [
+    {
+      "tittel": "Forseglet promo kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474351015",
+      "funnet": "2026-08-23T14:00:51.981589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Rocket’s Zapdos holo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474351232",
+      "funnet": "2026-08-23T14:00:51.268022+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mummi Panini Tribute Card nr 166 – The Exploits of Moominpappa",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-23T11:50:27.892625+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Thomas Muller Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/404315648",
-      "funnet": "2026-08-23T11:50:27.602408+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Robert Lewandowski Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450408530",
-      "funnet": "2026-08-23T11:50:27.135233+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
