@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-23T08:48:18.795523+00:00",
+  "sist_sjekket": "2026-08-23T08:50:26.025857+00:00",
   "funn": [
+    {
+      "tittel": "Xavi Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474299257",
+      "funnet": "2026-08-23T08:50:26.024253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bastian Schweinsteiger Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474299465",
+      "funnet": "2026-08-23T08:50:25.786158+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort blandet samling",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474299329",
+      "funnet": "2026-08-23T08:50:25.454028+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "John Terry Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474299357",
+      "funnet": "2026-08-23T08:50:24.773374+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Paulo Dybala Fotballkort",
       "pris": 50,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474286694",
       "funnet": "2026-08-23T07:00:48.193273+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Combustible Gearhulk Surge Foil kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474286516",
-      "funnet": "2026-08-23T06:58:19.652150+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Looking for - Morpeko VMAX (pokemon)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474286349",
-      "funnet": "2026-08-23T06:56:17.946452+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "\"Pepsi Michael Jackson  Dangerous World Tour 92\" - kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/299473064",
-      "funnet": "2026-08-23T06:54:15.829735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Commander’s Sphere Surge Foil kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474286234",
-      "funnet": "2026-08-23T06:54:15.560826+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
