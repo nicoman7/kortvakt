@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T17:44:17.138033+00:00",
+  "sist_sjekket": "2026-08-23T17:46:15.583353+00:00",
   "funn": [
+    {
+      "tittel": "Ditto #4, Reverse holo, Pokemon Firered & Leafgreen, Near mint",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474385875",
+      "funnet": "2026-08-23T17:46:15.581542+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Groudon, Venusaur, Pinsir, Foongus og Chikorita",
       "pris": 240,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-23T15:16:15.705107+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Umbreon og Gyarados",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474362925",
-      "funnet": "2026-08-23T15:16:15.313101+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
