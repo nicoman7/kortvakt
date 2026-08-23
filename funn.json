@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-23T22:00:52.618591+00:00",
+  "sist_sjekket": "2026-08-23T22:02:16.550812+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474414263",
+      "funnet": "2026-08-23T22:02:16.549690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473818497",
+      "funnet": "2026-08-23T22:02:16.140238+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fearow - Expedition - Pokemon",
       "pris": 80,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474399681",
       "funnet": "2026-08-23T19:18:20.662844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex 219/191",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474396705",
-      "funnet": "2026-08-23T19:16:18.585612+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kingdra #19 Pokemon Neo Revelation",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474399362",
-      "funnet": "2026-08-23T19:16:17.778689+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
