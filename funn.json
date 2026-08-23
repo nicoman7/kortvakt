@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T11:22:20.617966+00:00",
+  "sist_sjekket": "2026-08-23T11:24:14.853088+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon stor samling kjøp/trade",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473783946",
+      "funnet": "2026-08-23T11:24:14.850972+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini klistremerker/stickers",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473816966",
       "funnet": "2026-08-23T10:26:15.969974+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Foreboding Ruins Surge Foil landkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474314395",
-      "funnet": "2026-08-23T10:24:17.036065+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
