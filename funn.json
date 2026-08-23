@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-23T11:32:28.216837+00:00",
+  "sist_sjekket": "2026-08-23T11:34:16.670656+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473818497",
+      "funnet": "2026-08-23T11:34:16.668382+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Phil Foden Fotballkort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/395374487",
       "funnet": "2026-08-23T10:32:27.422093+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/382173413",
-      "funnet": "2026-08-23T10:32:26.341591+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
