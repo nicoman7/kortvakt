@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T08:50:25.193255+00:00",
+  "sist_sjekket": "2026-08-24T08:52:19.081910+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466353730",
+      "funnet": "2026-08-24T08:52:19.079987+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon energikort samling",
       "pris": 480,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474415517",
       "funnet": "2026-08-23T23:56:21.967514+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Team Rocket’s Venture Bomb 179/182(Reverse Holo)",
-      "pris": 6,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415573",
-      "funnet": "2026-08-23T23:56:21.170727+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
