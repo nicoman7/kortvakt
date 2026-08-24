@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T19:56:16.006063+00:00",
+  "sist_sjekket": "2026-08-24T19:58:17.844694+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474513414",
+      "funnet": "2026-08-24T19:58:17.843057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Paul Scholes Manchester United kort – Champions League",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474502180",
       "funnet": "2026-08-24T18:24:19.614467+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard V kort japansk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474502333",
-      "funnet": "2026-08-24T18:24:18.686656+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
