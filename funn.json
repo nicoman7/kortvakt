@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T07:24:16.133722+00:00",
+  "sist_sjekket": "2026-08-24T07:26:19.579904+00:00",
   "funn": [
+    {
+      "tittel": "Vince Carter basketballkort - Encore 2000/01",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474427659",
+      "funnet": "2026-08-24T07:26:19.578296+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vince Carter basketballkort - The Reel World (Ultimate Victory insert)",
       "pris": 70,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-23T22:26:14.559936+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Vintage Kort til salgs",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474414683",
-      "funnet": "2026-08-23T22:12:19.949857+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
