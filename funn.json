@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T08:48:19.532721+00:00",
+  "sist_sjekket": "2026-08-24T08:50:25.193255+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon energikort samling",
+      "pris": 480,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468035528",
+      "funnet": "2026-08-24T08:50:25.191601+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474435620",
+      "funnet": "2026-08-24T08:50:24.635206+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Premier League Mateus Fernandes West Ham kort /275",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474415573",
       "funnet": "2026-08-23T23:56:21.170727+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Energy Retrieval 171/198 (Reverse Holo)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415479",
-      "funnet": "2026-08-23T23:56:20.837498+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Poké Pad 198/217",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415622",
-      "funnet": "2026-08-23T23:56:20.013073+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
