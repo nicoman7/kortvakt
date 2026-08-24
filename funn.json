@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-24T14:46:18.326926+00:00",
+  "sist_sjekket": "2026-08-24T14:48:18.830644+00:00",
   "funn": [
+    {
+      "tittel": "Topps Barcelona kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/433101995",
+      "funnet": "2026-08-24T14:48:18.828675+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon First Partner 3 Paldea",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474474746",
+      "funnet": "2026-08-24T14:48:18.214669+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Big Bong Stars fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451863531",
+      "funnet": "2026-08-24T14:48:17.608089+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort - Storm Emeralda Japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
+      "funnet": "2026-08-24T14:48:16.918694+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Phantasmal flames tcg",
       "pris": 5,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474461471",
       "funnet": "2026-08-24T12:40:26.854985+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-08-24T12:40:26.248935+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Silver Tempest - enkeltkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468046113",
-      "funnet": "2026-08-24T12:38:25.870766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Scarlet & Violet base set - enkeltkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468055327",
-      "funnet": "2026-08-24T12:38:24.814381+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Center Chaos Rising Elite Trainer Box ETB",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467886165",
-      "funnet": "2026-08-24T12:38:23.894522+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
