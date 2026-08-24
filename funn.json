@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T11:54:15.359109+00:00",
+  "sist_sjekket": "2026-08-24T11:56:15.050078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pitch Black",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474454187",
+      "funnet": "2026-08-24T11:56:15.048290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini og Match Attax Fotballkort Samling Diverse Spillere",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472857256",
       "funnet": "2026-08-24T08:58:26.807026+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Gym Challenge Unlimited",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474435915",
-      "funnet": "2026-08-24T08:56:16.751292+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
