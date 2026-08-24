@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T05:58:14.159372+00:00",
+  "sist_sjekket": "2026-08-24T06:00:51.262993+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Eevee EX PSA9",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458717112",
+      "funnet": "2026-08-24T06:00:51.261163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon FA/Crobat VMAX samlekort PSA10",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458716990",
+      "funnet": "2026-08-24T06:00:50.611607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Prizm FIFA World Cup 2026 samlekort bokser",
       "pris": 1400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-23T20:56:21.244297+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prestige Efl Sinclair Armstrong /99 Bristol City",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474410418",
-      "funnet": "2026-08-23T20:54:17.570741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
-      "funnet": "2026-08-23T20:54:17.162065+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
