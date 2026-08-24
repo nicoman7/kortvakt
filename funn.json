@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T11:38:18.530244+00:00",
+  "sist_sjekket": "2026-08-24T11:40:25.702675+00:00",
   "funn": [
+    {
+      "tittel": "Topps Merlin Pl 25-26 Florian Wirtz",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474454435",
+      "funnet": "2026-08-24T11:40:25.700615+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Merlin Pl 25-26 Mohamed Salah",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474434589",
       "funnet": "2026-08-24T08:38:15.494472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Eevee",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474434522",
-      "funnet": "2026-08-24T08:38:14.908446+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
