@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T03:44:16.869407+00:00",
+  "sist_sjekket": "2026-08-24T03:46:17.150915+00:00",
   "funn": [
+    {
+      "tittel": "Selger unna litt av Pokémon samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473971031",
+      "funnet": "2026-08-24T03:46:17.149014+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax 2023/24 Arda Güler Winner Holo Foil kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/237039897",
       "funnet": "2026-08-23T20:44:18.978188+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/237039409",
-      "funnet": "2026-08-23T20:44:17.959915+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
