@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T19:46:28.232444+00:00",
+  "sist_sjekket": "2026-08-24T19:48:18.151357+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner 3 Gen 3 Hoenn fult sett",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474512478",
+      "funnet": "2026-08-24T19:48:18.149359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini stickers fra VM 1990",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-24T18:22:19.255207+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474501545",
-      "funnet": "2026-08-24T18:22:18.516280+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
