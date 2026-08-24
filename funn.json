@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T11:08:20.069091+00:00",
+  "sist_sjekket": "2026-08-24T11:10:39.208837+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Volbeat",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474451028",
+      "funnet": "2026-08-24T11:10:39.207178+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30 kort og en ex",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474451148",
+      "funnet": "2026-08-24T11:10:38.464389+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30 kort og ex",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-24T07:32:18.553235+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Vince Carter rookie basketballkort - Encore Game Dated Rookie!!",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474427846",
-      "funnet": "2026-08-24T07:30:49.037318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vince Carter basketballkort - Encore 2000/01",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474427659",
-      "funnet": "2026-08-24T07:26:19.578296+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
