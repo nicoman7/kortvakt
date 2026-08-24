@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T13:34:17.504455+00:00",
+  "sist_sjekket": "2026-08-24T13:36:25.488016+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 825,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474467603",
+      "funnet": "2026-08-24T13:36:25.486380+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473818497",
+      "funnet": "2026-08-24T13:36:24.648626+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gemloader Traditional Sleeved Collector’s Binder hvit kortperm",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474453189",
       "funnet": "2026-08-24T11:30:41.675204+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon permer til salgs. Som ny!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474452552",
-      "funnet": "2026-08-24T11:30:41.223103+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Christian Kofane",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474452884",
-      "funnet": "2026-08-24T11:28:18.098429+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
