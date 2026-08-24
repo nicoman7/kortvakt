@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T07:56:17.795445+00:00",
+  "sist_sjekket": "2026-08-24T07:58:23.613334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474428563",
+      "funnet": "2026-08-24T07:58:23.611499+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "VM 26 Panini samlekort selges/byttes",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474415781",
       "funnet": "2026-08-23T23:04:17.355296+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldent Marvel SSP-kort! Thunderbolts*",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461032262",
-      "funnet": "2026-08-23T22:58:18.597178+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
