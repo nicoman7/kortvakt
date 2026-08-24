@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T20:46:20.683864+00:00",
+  "sist_sjekket": "2026-08-24T20:48:17.785001+00:00",
   "funn": [
+    {
+      "tittel": "50 telekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/350746961",
+      "funnet": "2026-08-24T20:48:17.782857+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 1780,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474502452",
       "funnet": "2026-08-24T18:34:19.213487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clobbopus",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474503601",
-      "funnet": "2026-08-24T18:34:18.946999+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
