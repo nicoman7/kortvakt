@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T09:02:20.032821+00:00",
+  "sist_sjekket": "2026-08-24T09:04:19.941513+00:00",
   "funn": [
+    {
+      "tittel": "Fake Pokemon samlekort blandet pakke",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474436694",
+      "funnet": "2026-08-24T09:04:19.939597+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Storm Emeralda Japansk",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474415523",
       "funnet": "2026-08-23T23:56:24.370677+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Hilda 172/193 (Japansk)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415520",
-      "funnet": "2026-08-23T23:56:23.581337+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
