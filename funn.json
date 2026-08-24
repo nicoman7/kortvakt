@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T23:04:20.478479+00:00",
+  "sist_sjekket": "2026-08-24T23:06:19.298890+00:00",
   "funn": [
+    {
+      "tittel": "Ubrukte magnet prøvekort 21 kr og 70 kr",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/448387924",
+      "funnet": "2026-08-24T23:06:19.297252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Telekort avleser",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/469422288",
       "funnet": "2026-08-24T19:10:42.649472+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Neymar JR samlekort UE 144",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474508340",
-      "funnet": "2026-08-24T19:10:41.694811+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
