@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T11:24:17.868661+00:00",
+  "sist_sjekket": "2026-08-24T11:26:16.689326+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30 kort og en ex",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474452682",
+      "funnet": "2026-08-24T11:26:16.687383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Bukayo Saka",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474452691",
+      "funnet": "2026-08-24T11:26:16.074989+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Bradley Barcola",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474433337",
       "funnet": "2026-08-24T08:26:16.923806+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited edition Panini fotballkort Lamine Yamal",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474432570",
-      "funnet": "2026-08-24T08:24:25.819341+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Skarmory holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474432915",
-      "funnet": "2026-08-24T08:24:25.423623+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
