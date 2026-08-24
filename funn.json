@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T08:26:16.925611+00:00",
+  "sist_sjekket": "2026-08-24T08:28:18.074511+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452515765",
+      "funnet": "2026-08-24T08:28:18.072598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mega Chandelure EX japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474433488",
+      "funnet": "2026-08-24T08:28:17.395854+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Palkia LV.X 100 HP",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474415618",
       "funnet": "2026-08-23T23:50:27.171157+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Boss’s Orders 183/217",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415567",
-      "funnet": "2026-08-23T23:50:26.586007+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Team Rocket’s Archer 177/193 (Japansk)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474415632",
-      "funnet": "2026-08-23T23:50:26.022287+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
