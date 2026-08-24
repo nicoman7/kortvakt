@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T14:00:58.891055+00:00",
+  "sist_sjekket": "2026-08-24T14:02:19.846613+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX XY124 - jumbokort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466854788",
+      "funnet": "2026-08-24T14:02:19.844654+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "#9 Vintage Pokémon – Base Set & Fossil – 36 kort",
       "pris": 750,
@@ -1190,14 +1198,6 @@
       "pris": 1685,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474455815",
       "funnet": "2026-08-24T12:00:55.372968+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "✨ Pokémon kort til salgs!",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473788423",
-      "funnet": "2026-08-24T12:00:54.496422+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
