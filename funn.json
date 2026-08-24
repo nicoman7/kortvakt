@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-24T14:08:21.379461+00:00",
+  "sist_sjekket": "2026-08-24T14:10:46.676935+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon combee",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461333735",
+      "funnet": "2026-08-24T14:10:46.675063+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Premier League og England – mix av spillere",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474471053",
+      "funnet": "2026-08-24T14:10:45.775425+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort mix – 5 ulike kort",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/246048044",
       "funnet": "2026-08-24T12:06:20.564586+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first partner series 3 Sprigatito, Fuecoco, and Quaxly.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474457662",
-      "funnet": "2026-08-24T12:06:19.626845+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Har du disse kortene ?😊",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473718034",
-      "funnet": "2026-08-24T12:06:18.764778+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
