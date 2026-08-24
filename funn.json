@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T23:16:17.482997+00:00",
+  "sist_sjekket": "2026-08-24T23:18:28.006324+00:00",
   "funn": [
+    {
+      "tittel": "Weston McKennie National Treasures draktkort /89 – USA",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474523909",
+      "funnet": "2026-08-24T23:18:28.004267+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Cosmic Chrome Will Riley RC Rookie #119 Wizards",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-24T19:10:48.069488+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 Booster pack",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461515148",
-      "funnet": "2026-08-24T19:10:47.062027+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
