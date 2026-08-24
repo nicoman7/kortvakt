@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T14:21:21.198076+00:00",
+  "sist_sjekket": "2026-08-24T14:22:20.507659+00:00",
   "funn": [
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-24T14:22:20.505615+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon First partner series 3 (kalos)",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 1700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474458019",
       "funnet": "2026-08-24T12:12:18.800293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jason Kidd basketballkort - UD Game Floor",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460844020",
-      "funnet": "2026-08-24T12:08:24.372199+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
