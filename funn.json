@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T09:28:25.604418+00:00",
+  "sist_sjekket": "2026-08-24T09:30:41.960051+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474439035",
+      "funnet": "2026-08-24T09:30:41.957765+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Team Rocket Unlimited",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474417066",
       "funnet": "2026-08-24T00:34:17.103344+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps Chrome Football Aidan Hutchinson Power Player Lions",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474417057",
-      "funnet": "2026-08-24T00:32:15.896362+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
