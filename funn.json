@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-24T23:22:24.214541+00:00",
+  "sist_sjekket": "2026-08-24T23:24:18.727122+00:00",
   "funn": [
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-24T23:24:18.725595+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Weston McKennie National Treasures draktkort /89 – USA",
       "pris": 399,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474508509",
       "funnet": "2026-08-24T19:12:22.209562+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Kylian Mbappé PSG samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474508126",
-      "funnet": "2026-08-24T19:10:48.069488+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
