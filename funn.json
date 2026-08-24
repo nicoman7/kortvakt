@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-24T18:54:22.230041+00:00",
+  "sist_sjekket": "2026-08-24T18:56:19.709536+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Bulbasaur",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474506395",
+      "funnet": "2026-08-24T18:56:19.707838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling Pokémon kort ca 24 kg",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474505734",
+      "funnet": "2026-08-24T18:56:18.715569+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-24T18:56:17.892574+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Appletun #211",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/344489913",
       "funnet": "2026-08-24T17:40:31.791851+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Fifa World Cup 2022 Qatar (MAGICIAN og GOAL MACHINE)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/344488846",
-      "funnet": "2026-08-24T17:40:31.469226+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Fifa World Cup 2022 Qatar (HERO, TEAM CREST, CONTENDER)",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/344476254",
-      "funnet": "2026-08-24T17:40:30.743780+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS UEFA EURO 2024 Germany kort (CHROME SHIELD) Salg/Bytte",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/358056074",
-      "funnet": "2026-08-24T17:40:30.140872+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
