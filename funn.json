@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-25T15:16:28.502908+00:00",
+  "sist_sjekket": "2026-08-25T15:18:19.286508+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474582739",
+      "funnet": "2026-08-25T15:18:19.284575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon charcadet kort CCG 022 promo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474582559",
+      "funnet": "2026-08-25T15:18:18.259714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort/ 2023",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474562656",
       "funnet": "2026-08-25T11:52:24.859428+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474562562",
-      "funnet": "2026-08-25T11:52:23.990234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Edvard Natvig friidrett tikamp stav sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/208077583",
-      "funnet": "2026-08-25T11:52:23.060806+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
