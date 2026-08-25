@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T22:54:17.475926+00:00",
+  "sist_sjekket": "2026-08-25T22:56:14.740873+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474623396",
+      "funnet": "2026-08-25T22:56:14.738651+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon PROMO kort",
       "pris": 1450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474614809",
       "funnet": "2026-08-25T20:06:29.503638+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Larvitar holografisk samlekort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474614724",
-      "funnet": "2026-08-25T20:06:29.153118+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
