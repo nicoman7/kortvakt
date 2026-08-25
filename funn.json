@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T08:08:17.855968+00:00",
+  "sist_sjekket": "2026-08-25T08:10:26.647948+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474540203",
+      "funnet": "2026-08-25T08:10:26.645828+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bulk og enkeltkort fra Pokémon Perfect Order",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/390854330",
       "funnet": "2026-08-24T23:02:23.919529+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Signature Class Brandon Ingram Chrome Veteran #36",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474523734",
-      "funnet": "2026-08-24T23:00:53.930048+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
