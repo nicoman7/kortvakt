@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T21:18:23.087960+00:00",
+  "sist_sjekket": "2026-08-25T21:20:25.249746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pakke",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474620244",
+      "funnet": "2026-08-25T21:20:25.247689+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Mosaic David De Gea Gold Prizm FIFA World Cup kort",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/423069226",
       "funnet": "2026-08-25T19:44:16.567602+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Jungle",
-      "pris": 480,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473716512",
-      "funnet": "2026-08-25T19:44:16.297805+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
