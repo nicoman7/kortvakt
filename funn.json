@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T13:12:23.785178+00:00",
+  "sist_sjekket": "2026-08-25T13:14:19.232210+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM 2026 fotballkort selges.",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461507133",
+      "funnet": "2026-08-25T13:14:19.230246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 650,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/441452044",
       "funnet": "2026-08-25T10:04:19.852397+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(#229) Håvard Nordtveit fotballkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/441452364",
-      "funnet": "2026-08-25T10:04:18.989384+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
