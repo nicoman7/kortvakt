@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T13:54:24.719992+00:00",
+  "sist_sjekket": "2026-08-25T13:56:19.304126+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon GO",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474574570",
+      "funnet": "2026-08-25T13:56:19.302636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manuel Neuer Schalke 04 2010 2011 Panini Adrenalyn XL",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474553779",
       "funnet": "2026-08-25T10:30:43.925379+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Daniel James Gold Prizm T-Mall fotballkort 17/88",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/302199610",
-      "funnet": "2026-08-25T10:30:42.917087+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
