@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T06:44:18.170497+00:00",
+  "sist_sjekket": "2026-08-25T06:46:17.546086+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474532413",
+      "funnet": "2026-08-25T06:46:17.544194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Evolution Pokémon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474532258",
+      "funnet": "2026-08-25T06:46:17.092992+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Evolving Skies Pokémon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474532463",
+      "funnet": "2026-08-25T06:46:16.375819+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu Pokémon Go kort",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474517041",
       "funnet": "2026-08-24T20:40:40.351981+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jirachi #97 Pokemon Team Magma & Team Aqua",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474511798",
-      "funnet": "2026-08-24T20:34:28.598893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort - Lv. X Diamond and Pearl",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474516185",
-      "funnet": "2026-08-24T20:34:27.712376+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bulbasaur [Reverse Holo] #46 Pokemon Crystal Guardians",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474511782",
-      "funnet": "2026-08-24T20:34:26.761921+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
