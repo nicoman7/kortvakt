@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T12:34:28.253538+00:00",
+  "sist_sjekket": "2026-08-25T12:36:21.819119+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerker",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473818497",
+      "funnet": "2026-08-25T12:36:21.817199+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "210 Match Attax & Adrenalyn fotballkort samling 3",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474544528",
       "funnet": "2026-08-25T08:54:18.449356+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nye priser 18.08! Stor vintage pokemonsamling!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
-      "funnet": "2026-08-25T08:54:17.864695+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
