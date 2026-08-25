@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T14:34:16.956380+00:00",
+  "sist_sjekket": "2026-08-25T14:36:23.092732+00:00",
   "funn": [
+    {
+      "tittel": "Samling Pokémon-kort 1. generasjon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474578549",
+      "funnet": "2026-08-25T14:36:23.091050+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474578582",
+      "funnet": "2026-08-25T14:36:22.204115+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-08-25T14:36:21.356976+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
       "pris": 1000,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474556929",
       "funnet": "2026-08-25T10:54:17.458267+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Torchic, Combusken & Blaziken – vintagekort og moderne 🔥",
-      "pris": 135,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474556404",
-      "funnet": "2026-08-25T10:52:20.770670+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lucario EX japansk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474556440",
-      "funnet": "2026-08-25T10:50:23.140946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/314959172",
-      "funnet": "2026-08-25T10:44:23.136477+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
