@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-25T18:20:31.325481+00:00",
+  "sist_sjekket": "2026-08-25T18:22:27.344492+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM 2026 klistremerker SALG oppdatert 25.08",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474603382",
+      "funnet": "2026-08-25T18:22:27.342779+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "ca 450-500 bulk rare og mythics",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474603740",
+      "funnet": "2026-08-25T18:22:27.018872+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Illustration Contest 2024 promo boosterpakke japansk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474603598",
+      "funnet": "2026-08-25T18:22:26.221366+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Blissey V TG22/TG30 (Silver Tempest Trainer Gallery)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474603563",
+      "funnet": "2026-08-25T18:22:25.321447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Alejandro Garnacho",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474603072",
+      "funnet": "2026-08-25T18:22:24.826089+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tinkaton ex SIR 262/193 (Paldea Evolved)",
       "pris": 500,
@@ -1158,46 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474588128",
       "funnet": "2026-08-25T16:14:14.873919+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clefairy samling (2007-2026)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474586344",
-      "funnet": "2026-08-25T16:12:30.402205+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard secret wonders holo",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474588270",
-      "funnet": "2026-08-25T16:12:29.824984+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masse engelske Pokemon hits fra diverse set",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474587840",
-      "funnet": "2026-08-25T16:12:29.222219+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nye priser 18.08! Stor vintage pokemonsamling!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
-      "funnet": "2026-08-25T16:12:28.630509+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Nummerert Fotballkort",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474588046",
-      "funnet": "2026-08-25T16:10:28.031977+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
