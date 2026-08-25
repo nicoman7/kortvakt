@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T05:10:23.918001+00:00",
+  "sist_sjekket": "2026-08-25T05:12:18.562417+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474527102",
+      "funnet": "2026-08-25T05:12:18.560360+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Limited Edition kort Pierre-Emile Højbjerg Tottenham",
       "pris": 45,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473718034",
       "funnet": "2026-08-24T19:32:19.431143+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega zygarde special illustratiion rare (mint)",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474510134",
-      "funnet": "2026-08-24T19:30:45.721305+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
