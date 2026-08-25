@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T22:48:19.218364+00:00",
+  "sist_sjekket": "2026-08-25T22:50:26.056711+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon PROMO kort",
+      "pris": 1450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468061233",
+      "funnet": "2026-08-25T22:50:26.054853+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rapidash 31/147 – Aquapolis – Rare – WotC 2003",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474623274",
+      "funnet": "2026-08-25T22:50:25.189086+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon PSA Kort",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461233920",
+      "funnet": "2026-08-25T22:50:24.728571+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474614724",
       "funnet": "2026-08-25T20:06:29.153118+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474614405",
-      "funnet": "2026-08-25T20:02:22.016531+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Xerneas EX kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474614540",
-      "funnet": "2026-08-25T20:02:21.625707+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Crobat holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474614427",
-      "funnet": "2026-08-25T20:02:20.721403+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
