@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T20:01:12.312949+00:00",
+  "sist_sjekket": "2026-08-25T20:02:22.018322+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474614405",
+      "funnet": "2026-08-25T20:02:22.016531+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Xerneas EX kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474614540",
+      "funnet": "2026-08-25T20:02:21.625707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Crobat holo",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474614427",
+      "funnet": "2026-08-25T20:02:20.721403+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ivysaur holo",
       "pris": 450,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
       "funnet": "2026-08-25T18:30:44.591479+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Fotballkort Inter Milan Wesley Sneijder /99",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474604120",
-      "funnet": "2026-08-25T18:26:31.234234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort M Rayquaza EX 76/018 roaring skies",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474603891",
-      "funnet": "2026-08-25T18:26:30.306233+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Romano Schmid /25",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474603806",
-      "funnet": "2026-08-25T18:26:29.873614+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
