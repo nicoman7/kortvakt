@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-25T12:56:20.940215+00:00",
+  "sist_sjekket": "2026-08-25T12:58:17.714830+00:00",
   "funn": [
+    {
+      "tittel": "Ditto Pikachu 39/113",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474569620",
+      "funnet": "2026-08-25T12:58:17.712958+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Momentum Panini Set",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474569708",
+      "funnet": "2026-08-25T12:58:17.351788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "ca 450-500 bulk rare og mythics",
       "pris": 1100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474550417",
       "funnet": "2026-08-25T09:52:18.588879+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Twilight Masquerade holo og reverse holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474549523",
-      "funnet": "2026-08-25T09:44:19.908814+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemonkort og slabs",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468127542",
-      "funnet": "2026-08-25T09:44:19.510655+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
