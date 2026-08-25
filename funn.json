@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T10:04:24.045702+00:00",
+  "sist_sjekket": "2026-08-25T10:06:19.612873+00:00",
   "funn": [
+    {
+      "tittel": "(#225) Phil Foden Limited Edition fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441453196",
+      "funnet": "2026-08-25T10:06:19.610814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "FIFA world cup kort - Luka Modric - selges for 300,-",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474551875",
+      "funnet": "2026-08-25T10:06:18.953634+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-25T10:06:18.646351+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "(#216) Gabriel Martinelli Fotballkort",
       "pris": 35,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474528968",
       "funnet": "2026-08-25T05:54:16.425350+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu boks med kort fra Japan",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474528726",
-      "funnet": "2026-08-25T05:52:20.186164+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort vann- og gress-typer",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474528890",
-      "funnet": "2026-08-25T05:52:19.822307+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474528906",
-      "funnet": "2026-08-25T05:52:18.952724+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
