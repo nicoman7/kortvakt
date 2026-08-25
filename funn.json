@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-25T15:50:30.607354+00:00",
+  "sist_sjekket": "2026-08-25T15:52:22.895424+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474586166",
+      "funnet": "2026-08-25T15:52:22.893315+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - TEAM MAGMA & AQUA",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474586260",
+      "funnet": "2026-08-25T15:52:22.164905+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - UNSEEN FORCES",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468139356",
       "funnet": "2026-08-25T12:44:18.602376+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Hoops Ja Morant Rainbow Foil #220 Grizzlies",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474567861",
-      "funnet": "2026-08-25T12:42:21.634307+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort landslag og spesialkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474568042",
-      "funnet": "2026-08-25T12:42:20.739393+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
