@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T11:34:16.750416+00:00",
+  "sist_sjekket": "2026-08-25T11:36:16.688187+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard X EX #013/094",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474560994",
+      "funnet": "2026-08-25T11:36:16.686091+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Magikarp samlekort – 2 stk",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/430087370",
       "funnet": "2026-08-25T07:26:16.565265+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magcargo – 029/162 – Rare Holo – Temporal Forces (SV05) – Pokémonkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/412989878",
-      "funnet": "2026-08-25T07:26:15.961784+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
