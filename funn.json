@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T14:36:23.092732+00:00",
+  "sist_sjekket": "2026-08-25T14:38:16.199175+00:00",
   "funn": [
+    {
+      "tittel": "Gamle pokemonkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474578797",
+      "funnet": "2026-08-25T14:38:16.197027+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling Pokémon-kort 1. generasjon",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474556995",
       "funnet": "2026-08-25T10:56:15.337674+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Beartic holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474556929",
-      "funnet": "2026-08-25T10:54:17.458267+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
