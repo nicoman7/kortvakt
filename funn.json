@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T18:02:16.844476+00:00",
+  "sist_sjekket": "2026-08-25T18:04:16.725214+00:00",
   "funn": [
+    {
+      "tittel": "Selger unna litt av Pokémon samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473971031",
+      "funnet": "2026-08-25T18:04:16.723129+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ollie Watkins autograf-kort 060/199 Champions League",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-25T16:02:19.175653+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Meowscarada - Black Star Promo - Pokemon",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474587048",
-      "funnet": "2026-08-25T16:01:10.389048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
