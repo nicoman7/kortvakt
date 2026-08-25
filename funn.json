@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-25T16:38:19.984583+00:00",
+  "sist_sjekket": "2026-08-25T16:40:33.222586+00:00",
   "funn": [
+    {
+      "tittel": "POKÉMONKORT",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474590797",
+      "funnet": "2026-08-25T16:40:33.221127+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Samling fotballkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474590139",
+      "funnet": "2026-08-25T16:40:32.307000+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon M Slowbro EX kort",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-25T14:40:29.727213+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle pokemonkort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474578797",
-      "funnet": "2026-08-25T14:38:16.197027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon-kort 1. generasjon",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474578549",
-      "funnet": "2026-08-25T14:36:23.091050+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
