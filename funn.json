@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-25T11:52:24.861087+00:00",
+  "sist_sjekket": "2026-08-25T11:54:20.505324+00:00",
   "funn": [
+    {
+      "tittel": "Pedri Topps Merlin 2022",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/318793982",
+      "funnet": "2026-08-25T11:54:20.503419+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Alolan Muk reverse holo",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474562802",
+      "funnet": "2026-08-25T11:54:20.102180+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Alolan Grimer reverse holo",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474474733",
       "funnet": "2026-08-25T08:36:16.857474+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 klistremerker",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473818497",
-      "funnet": "2026-08-25T08:32:17.464508+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Star Wars Sketch 1 of 1 kort",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471218123",
-      "funnet": "2026-08-25T08:30:45.429840+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
