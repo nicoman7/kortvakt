@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T10:28:17.072138+00:00",
+  "sist_sjekket": "2026-08-25T10:30:43.927237+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ex:er fra forskjellige sett selges samlet",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474553779",
+      "funnet": "2026-08-25T10:30:43.925379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Daniel James Gold Prizm T-Mall fotballkort 17/88",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/302199610",
+      "funnet": "2026-08-25T10:30:42.917087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Albert Sambi Lokonga Red/Green Choice Rookie fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/302201772",
+      "funnet": "2026-08-25T10:30:42.533012+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "12 stk fifa world cup kort - selges for 300,-",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467822548",
       "funnet": "2026-08-25T06:30:40.162775+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dewott 29/114",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474531297",
-      "funnet": "2026-08-25T06:30:39.518042+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474531171",
-      "funnet": "2026-08-25T06:30:38.917404+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes booster bundle",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474531079",
-      "funnet": "2026-08-25T06:28:24.377564+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
