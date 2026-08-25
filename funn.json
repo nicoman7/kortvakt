@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-25T15:46:20.362450+00:00",
+  "sist_sjekket": "2026-08-25T15:48:19.329565+00:00",
   "funn": [
+    {
+      "tittel": "HOLO-Pokemon kort Gyarados og Beedrill holo",
+      "pris": 1337,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467711751",
+      "funnet": "2026-08-25T15:48:19.327795+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474585838",
+      "funnet": "2026-08-25T15:48:19.078359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Selger unna litt av Pokémon samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473971031",
+      "funnet": "2026-08-25T15:48:18.489382+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - POP SERIES",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/451651624",
       "funnet": "2026-08-25T12:42:19.581272+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Holo / Reverse Holo – 63 kort – Pitch Black, Chaos Rising m.m.",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474566408",
-      "funnet": "2026-08-25T12:40:27.518552+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Palafin 151/131 SIR - CGC 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474567378",
-      "funnet": "2026-08-25T12:40:27.100675+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Blastoise Celebrations Classic Collection 2/102 holo CGC 10",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474567702",
-      "funnet": "2026-08-25T12:40:26.143968+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
