@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-25T13:31:04.526165+00:00",
+  "sist_sjekket": "2026-08-25T13:32:19.082316+00:00",
   "funn": [
+    {
+      "tittel": "Graderte kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473781877",
+      "funnet": "2026-08-25T13:32:19.079898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gundam tcg kort fra GD05 freedom ascension",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474551977",
       "funnet": "2026-08-25T10:10:27.571688+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA world cup kort - Lionel Messi - selges for 400,-",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474552260",
-      "funnet": "2026-08-25T10:10:26.618731+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
