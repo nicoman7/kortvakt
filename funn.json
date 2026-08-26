@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T08:48:17.466920+00:00",
+  "sist_sjekket": "2026-08-26T08:50:23.912495+00:00",
   "funn": [
+    {
+      "tittel": "Topps Luka Modrić Real Madrid",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474642843",
+      "funnet": "2026-08-26T08:50:23.910261+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Ronaldo Nazario Real Madrid",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-25T21:40:27.510939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Metazoo Cryptic Nation kort 2nd edition",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/400348062",
-      "funnet": "2026-08-25T21:40:26.929119+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
