@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T13:20:42.718072+00:00",
+  "sist_sjekket": "2026-08-26T13:22:16.841476+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon | stor bulk | gratis frakt",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474669945",
+      "funnet": "2026-08-26T13:22:16.839459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373502878",
+      "funnet": "2026-08-26T13:22:15.980897+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 450,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474653857",
       "funnet": "2026-08-26T10:44:23.223388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "600 Pokémon Kort Bulk",
-      "pris": 195,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474653313",
-      "funnet": "2026-08-26T10:40:26.771704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage japansk pokemon -  Poliwhirl Vending Series NM",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474653024",
-      "funnet": "2026-08-26T10:40:26.135342+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
