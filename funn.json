@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T23:28:16.883202+00:00",
+  "sist_sjekket": "2026-08-26T23:30:40.033131+00:00",
   "funn": [
+    {
+      "tittel": "Selger unna litt av Pokémon samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473971031",
+      "funnet": "2026-08-26T23:30:40.031095+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 2 SEALED",
       "pris": 549,
@@ -1190,14 +1198,6 @@
       "pris": 225,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474704534",
       "funnet": "2026-08-26T19:20:25.891615+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Paldean Fates booster pakker",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474706643",
-      "funnet": "2026-08-26T19:18:19.947944+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
