@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T11:40:25.676349+00:00",
+  "sist_sjekket": "2026-08-26T11:42:17.532661+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Bulk - Dark Explorers (2012) m/prisliste",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474657296",
+      "funnet": "2026-08-26T11:42:17.530909+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Cloud Strife Magic the Gathering-kort",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/348070627",
       "funnet": "2026-08-26T08:10:26.650832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 120/SV-P – Japanese Gym Promo 2023",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474638676",
-      "funnet": "2026-08-26T08:10:26.003333+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
