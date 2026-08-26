@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T13:16:17.852127+00:00",
+  "sist_sjekket": "2026-08-26T13:18:20.163745+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472134288",
+      "funnet": "2026-08-26T13:18:20.161791+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/280149103",
+      "funnet": "2026-08-26T13:18:19.720283+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the gathering kort. Vengevine",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-08-26T10:30:43.144600+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort med tilbehør",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474652141",
-      "funnet": "2026-08-26T10:28:19.446320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arild Heimvik Bryne IL 1983 sjeldent fotballkort klistremerke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/348070214",
-      "funnet": "2026-08-26T10:28:18.470584+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
