@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-26T19:44:18.773451+00:00",
+  "sist_sjekket": "2026-08-26T19:46:19.028206+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Go",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474709343",
+      "funnet": "2026-08-26T19:46:19.026137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sande Berge.  Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474654814",
+      "funnet": "2026-08-26T19:46:18.707136+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "VM Kort Panini Adrenalyn XL til salgs",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-08-26T19:46:17.926541+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Diamant Mystery Box – 10 Pokémon-kort",
       "pris": 249,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474695046",
       "funnet": "2026-08-26T17:40:28.318643+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Paldea Evolved SIR – Squawkabilly ex 264 & Wo-Chien ex 257",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474694508",
-      "funnet": "2026-08-26T17:40:27.446025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rayan Cherki 2025 Topps Chrome UEFA Sapphire #1",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474694726",
-      "funnet": "2026-08-26T17:36:39.210155+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA VM 2026",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468077855",
-      "funnet": "2026-08-26T17:36:38.234837+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
