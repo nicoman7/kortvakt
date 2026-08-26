@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T08:52:15.075867+00:00",
+  "sist_sjekket": "2026-08-26T08:54:24.236001+00:00",
   "funn": [
+    {
+      "tittel": "diverse one piece kort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467924195",
+      "funnet": "2026-08-26T08:54:24.234346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse AR kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474642388",
+      "funnet": "2026-08-26T08:54:23.214550+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Luka Modrić Real Madrid",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/420968252",
       "funnet": "2026-08-25T21:42:18.981003+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gotta catch ’em all – eller i alle fall en bunke eller to!",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403916813",
-      "funnet": "2026-08-25T21:42:18.010785+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse fotballkort og andre sportskort selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/400347323",
-      "funnet": "2026-08-25T21:40:27.510939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
