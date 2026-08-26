@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T22:22:16.798475+00:00",
+  "sist_sjekket": "2026-08-26T22:24:21.397999+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pitch black booster bundle.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474718747",
+      "funnet": "2026-08-26T22:24:21.395826+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474704372",
       "funnet": "2026-08-26T19:14:24.479090+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kortsamling – diverse kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471583740",
-      "funnet": "2026-08-26T19:14:23.876474+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
