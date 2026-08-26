@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T11:26:16.168225+00:00",
+  "sist_sjekket": "2026-08-26T11:28:22.556641+00:00",
   "funn": [
+    {
+      "tittel": "Mummitrollet Panini Spring Card nr 74 samlekort grønn",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474658299",
+      "funnet": "2026-08-26T11:28:22.555001+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mummi Panini Fluffy Card nr 72 Lille My samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474658449",
+      "funnet": "2026-08-26T11:28:22.207101+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Swablu – 3 stk",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-26T07:42:19.918676+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu No.025 – Japanese Vending Series 1 1998 – vintage",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474635429",
-      "funnet": "2026-08-26T07:38:22.342458+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Game Changer gullkort Holo foil 5 stk Panini",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/423721975",
-      "funnet": "2026-08-26T07:38:21.432016+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
