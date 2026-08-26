@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T20:50:24.848210+00:00",
+  "sist_sjekket": "2026-08-26T20:52:18.016492+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Eevee holo",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474714576",
+      "funnet": "2026-08-26T20:52:18.014692+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mystery Pack +/- 30 kort, garantert hit + boostersjanse",
       "pris": 149,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-26T18:24:48.967234+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort, Prizm VM2014",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/215837679",
-      "funnet": "2026-08-26T18:20:28.520649+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
