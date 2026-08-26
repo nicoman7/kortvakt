@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T14:26:34.273997+00:00",
+  "sist_sjekket": "2026-08-26T14:28:19.316784+00:00",
   "funn": [
+    {
+      "tittel": "Bunke med Pokemon",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474675169",
+      "funnet": "2026-08-26T14:28:19.314636+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - ELDRE HOLOS/REVERSE",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474660105",
       "funnet": "2026-08-26T11:46:18.825741+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering kort – Traveling Chocobo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474659860",
-      "funnet": "2026-08-26T11:44:33.506536+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
