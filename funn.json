@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T18:58:20.576098+00:00",
+  "sist_sjekket": "2026-08-26T19:01:02.345219+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort litt forskjellige typer",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474704591",
+      "funnet": "2026-08-26T19:01:02.342948+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo VSTAR kort",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474660926",
       "funnet": "2026-08-26T17:00:54.160025+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glaceon Kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474690657",
-      "funnet": "2026-08-26T17:00:53.549933+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
