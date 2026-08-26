@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-26T13:28:26.029256+00:00",
+  "sist_sjekket": "2026-08-26T13:30:52.679790+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/263561501",
+      "funnet": "2026-08-26T13:30:52.678034+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/259737171",
+      "funnet": "2026-08-26T13:30:51.873433+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/380153980",
+      "funnet": "2026-08-26T13:30:50.943368+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/316631332",
+      "funnet": "2026-08-26T13:30:50.101636+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Illit album",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474670696",
+      "funnet": "2026-08-26T13:30:49.277258+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Diamant Mystery Box – 10 Pokémon-kort",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474173713",
+      "funnet": "2026-08-26T13:30:48.289085+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Celtic FC - Fotballkort - Scottish Premiership⚽️",
       "pris": 15,
@@ -1150,54 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474655903",
       "funnet": "2026-08-26T11:04:19.663838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lerone Murphy /75 Green Geometric 2026 Topps Chrome UFC",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474655131",
-      "funnet": "2026-08-26T11:00:54.629755+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort! serie 3",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474654998",
-      "funnet": "2026-08-26T11:00:54.270273+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moomin Panini Summer Card nr 89 samlekort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474655306",
-      "funnet": "2026-08-26T11:00:53.397700+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mummi Panini Spring Card nr 81 samlekort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474655428",
-      "funnet": "2026-08-26T11:00:52.955275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Parti med 41 m/ Lionel Messi fotballkort – 2013 Icons Official Collection",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474654997",
-      "funnet": "2026-08-26T11:00:52.068544+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nils Velin Sverige sykkel sigarettkort 1930 Tiedemanns Tobak",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/238496554",
-      "funnet": "2026-08-26T10:54:17.809418+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
