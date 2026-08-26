@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T16:10:29.917555+00:00",
+  "sist_sjekket": "2026-08-26T16:12:18.576575+00:00",
   "funn": [
+    {
+      "tittel": "Tarot Kort, 100-10kr per stykk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474685119",
+      "funnet": "2026-08-26T16:12:18.574578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Chaos Rising singles",
       "pris": 2,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-26T13:28:26.027314+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/399368171",
-      "funnet": "2026-08-26T13:28:24.889222+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
