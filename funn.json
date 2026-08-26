@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T06:22:16.365626+00:00",
+  "sist_sjekket": "2026-08-26T06:24:18.387082+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474629747",
+      "funnet": "2026-08-26T06:24:18.385139+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome 2025/26 Adou Thiero Lakers RC Aqua Teal Refractor 63/299",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474617315",
       "funnet": "2026-08-25T20:34:20.818970+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pancham BREAKpoint (71)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474617124",
-      "funnet": "2026-08-25T20:32:20.473114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
