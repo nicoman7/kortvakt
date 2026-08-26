@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T08:46:27.839257+00:00",
+  "sist_sjekket": "2026-08-26T08:48:17.466920+00:00",
   "funn": [
+    {
+      "tittel": "Topps Ronaldo Nazario Real Madrid",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474642393",
+      "funnet": "2026-08-26T08:48:17.464919+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps  Trent Alexander-Arnold Real Madrid",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474642669",
+      "funnet": "2026-08-26T08:48:16.718478+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps  Ronaldo Nazario Real Madrid",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-25T21:40:26.929119+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2025 Topps FC Benfica Andreas Schjelderup",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474621043",
-      "funnet": "2026-08-25T21:36:17.159319+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-08-25T21:34:20.552676+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
