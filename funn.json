@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T05:28:18.011497+00:00",
+  "sist_sjekket": "2026-08-26T05:30:42.247161+00:00",
   "funn": [
+    {
+      "tittel": "Mummi Panini Summer Card nr 87 samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474627079",
+      "funnet": "2026-08-26T05:30:42.245094+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gianfranco Zola fotballkort - Merlin's Premier Gold 99",
       "pris": 49,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-25T20:30:40.625960+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Torterra Kort Lot (2 kort) – NM+ - Mixed Sets (2013–2022)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474329506",
-      "funnet": "2026-08-25T20:26:25.169866+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
