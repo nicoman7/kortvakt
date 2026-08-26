@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T13:22:16.841476+00:00",
+  "sist_sjekket": "2026-08-26T13:24:21.329506+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373502885",
+      "funnet": "2026-08-26T13:24:21.327488+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399368363",
+      "funnet": "2026-08-26T13:24:20.423923+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon | stor bulk | gratis frakt",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-26T10:50:26.453575+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Card Japanese Steelix",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474654320",
-      "funnet": "2026-08-26T10:50:25.867457+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Pristine Premier League Precisionaries Erling Haaland",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474653857",
-      "funnet": "2026-08-26T10:44:23.223388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
