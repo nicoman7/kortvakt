@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-26T13:26:30.233222+00:00",
+  "sist_sjekket": "2026-08-26T13:28:26.029256+00:00",
   "funn": [
+    {
+      "tittel": "⚽️Celtic FC - Fotballkort - Scottish Premiership⚽️",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/423985934",
+      "funnet": "2026-08-26T13:28:26.027314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399368171",
+      "funnet": "2026-08-26T13:28:24.889222+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/334739456",
+      "funnet": "2026-08-26T13:28:23.977537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399368712",
+      "funnet": "2026-08-26T13:28:23.107855+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "OL glass samleobjekt",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/328341019",
+      "funnet": "2026-08-26T13:28:22.193229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": null,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-08-26T10:54:17.809418+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Lights Out Formula 1 - Carlos Sainz",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474654557",
-      "funnet": "2026-08-26T10:54:17.195641+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Johan Clausen Haanes 1912 - 2000 Njaard Tennis sigarettkort Cromwell 1934",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/365667116",
-      "funnet": "2026-08-26T10:52:20.656817+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Einar Tveito skuespiller M. Glott Marmara sigarettkort ca 1930",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/295896374",
-      "funnet": "2026-08-26T10:52:19.882118+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 1976 fotballkort Arsenal FC 12  stk komplett sett selges",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/299157681",
-      "funnet": "2026-08-26T10:52:19.518132+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474654094",
-      "funnet": "2026-08-26T10:50:26.453575+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
