@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T05:48:17.879172+00:00",
+  "sist_sjekket": "2026-08-26T05:50:27.349676+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-08-26T05:50:27.347812+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "John Stones - Sapphire - Manchester City - Topps Chrome",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-25T20:32:18.286677+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Booster Pack PSA 10",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474616739",
-      "funnet": "2026-08-25T20:30:43.907790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
