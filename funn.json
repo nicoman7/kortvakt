@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T08:56:17.002971+00:00",
+  "sist_sjekket": "2026-08-26T08:58:18.336161+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-26T08:58:18.334248+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "diverse one piece kort",
       "pris": 850,
@@ -1190,14 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/461563603",
       "funnet": "2026-08-25T21:44:20.056144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Catch ’em all – start med kort fra Swords & Shields settene til en femtilapp!",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/420968252",
-      "funnet": "2026-08-25T21:42:18.981003+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
