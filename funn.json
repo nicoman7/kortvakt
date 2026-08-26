@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T19:26:20.552036+00:00",
+  "sist_sjekket": "2026-08-26T19:28:19.509533+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Palafin ex SAR",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474707705",
+      "funnet": "2026-08-26T19:28:19.507472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topp Fotballkort 06 - Vålerenga",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474694390",
       "funnet": "2026-08-26T17:32:26.635570+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Lorcana Kida Enchanted kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474693708",
-      "funnet": "2026-08-26T17:32:25.757454+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
