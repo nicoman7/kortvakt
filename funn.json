@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T23:54:19.233891+00:00",
+  "sist_sjekket": "2026-08-26T23:56:16.240466+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort: Porygon selges!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449596174",
+      "funnet": "2026-08-26T23:56:16.238347+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Heracross selges!",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474707280",
       "funnet": "2026-08-26T19:26:18.488856+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Fotballkort 3 stk",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439688713",
-      "funnet": "2026-08-26T19:20:27.363999+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
