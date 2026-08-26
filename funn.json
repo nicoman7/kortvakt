@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T10:48:14.426521+00:00",
+  "sist_sjekket": "2026-08-26T10:50:26.455441+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474654094",
+      "funnet": "2026-08-26T10:50:26.453575+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Card Japanese Steelix",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474654320",
+      "funnet": "2026-08-26T10:50:25.867457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Pristine Premier League Precisionaries Erling Haaland",
       "pris": 60,
@@ -1182,22 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/378569102",
       "funnet": "2026-08-26T05:24:17.540950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ricardo Gomes fotballkort - Upper Deck 94",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/386943577",
-      "funnet": "2026-08-26T05:24:17.254626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dunga fotballkort - Upper Deck 94",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/386943869",
-      "funnet": "2026-08-26T05:22:18.042864+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
