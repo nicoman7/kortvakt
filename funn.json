@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T14:40:26.858995+00:00",
+  "sist_sjekket": "2026-08-26T14:42:18.918489+00:00",
   "funn": [
+    {
+      "tittel": "Panini Prizm Jørgen Strand Larsen fotballkort med autograf",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467093758",
+      "funnet": "2026-08-26T14:42:18.916567+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Sylveon V Rapid Strike",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474676753",
+      "funnet": "2026-08-26T14:42:18.592462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Ascended Heroes Booster Bundle",
       "pris": 1200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474660594",
       "funnet": "2026-08-26T11:56:18.439833+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-26T11:56:17.557141+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
-      "funnet": "2026-08-26T11:54:19.640209+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
