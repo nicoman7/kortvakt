@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-26T10:04:18.991459+00:00",
+  "sist_sjekket": "2026-08-26T10:06:17.192822+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon go",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474590694",
+      "funnet": "2026-08-26T10:06:17.191087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-08-26T10:06:16.518808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474624608",
       "funnet": "2026-08-25T23:56:15.562207+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcos Senesi 2026 Topps Merlin EPL Mojo Refractor - Bournemouth",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474624601",
-      "funnet": "2026-08-25T23:54:18.492336+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps Merlin Premier League Sander Berge #98",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474624588",
-      "funnet": "2026-08-25T23:52:19.660347+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
