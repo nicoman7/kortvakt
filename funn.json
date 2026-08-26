@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T08:28:16.044132+00:00",
+  "sist_sjekket": "2026-08-26T08:30:40.493456+00:00",
   "funn": [
+    {
+      "tittel": "VM-kort",
+      "pris": 290,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474640720",
+      "funnet": "2026-08-26T08:30:40.491486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Tomokazu Komiya",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466384344",
       "funnet": "2026-08-25T21:28:27.132810+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Frigibax, Arctibax og Baxcalibur",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474620487",
-      "funnet": "2026-08-25T21:28:26.236052+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
