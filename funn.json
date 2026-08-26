@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-26T23:52:18.958226+00:00",
+  "sist_sjekket": "2026-08-26T23:54:19.233891+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort: Heracross selges!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449597017",
+      "funnet": "2026-08-26T23:54:19.231605+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Samling på 34 kort selges! 20kr pr kort!",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/439688713",
       "funnet": "2026-08-26T19:20:27.363999+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ascended Heroes booster bundle",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474706106",
-      "funnet": "2026-08-26T19:20:27.072835+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
