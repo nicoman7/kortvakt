@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T11:36:19.679100+00:00",
+  "sist_sjekket": "2026-08-27T11:38:20.496295+00:00",
   "funn": [
+    {
+      "tittel": "Holo Pokémon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474755482",
+      "funnet": "2026-08-27T11:38:20.494001+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pichu Pokémon Kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-27T03:14:17.146222+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Diamant Mystery Box – 10 Pokémon-kort",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474173713",
-      "funnet": "2026-08-27T03:00:53.148254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
