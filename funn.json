@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T10:02:17.014512+00:00",
+  "sist_sjekket": "2026-08-27T10:04:16.127275+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474745304",
+      "funnet": "2026-08-27T10:04:16.125114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Geodude Expedition (110)",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474717607",
       "funnet": "2026-08-26T21:48:20.899416+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort galarian Meowth japansk shiny star V",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474717672",
-      "funnet": "2026-08-26T21:48:20.016655+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
