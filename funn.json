@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T11:38:20.496295+00:00",
+  "sist_sjekket": "2026-08-27T11:40:26.263170+00:00",
   "funn": [
+    {
+      "tittel": "K-pop photocard/fotokort samling TXT",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474755716",
+      "funnet": "2026-08-27T11:40:26.261330+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gengar 20/62 – Fossil – Rare – 1999",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474755463",
+      "funnet": "2026-08-27T11:40:25.893406+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Holo Pokémon Kort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-27T03:34:18.090734+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-08-27T03:22:14.789931+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-27T03:14:17.146222+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
