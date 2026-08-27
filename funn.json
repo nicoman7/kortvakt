@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T11:10:33.810419+00:00",
+  "sist_sjekket": "2026-08-27T11:12:27.457692+00:00",
   "funn": [
+    {
+      "tittel": "Rare Candy 105/101 – Plasma Blast – Secret Rare Gold",
+      "pris": 1450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474751313",
+      "funnet": "2026-08-27T11:12:27.455828+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Florian Wirtz 100 club holo foil bayer Leverkusen topps",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-27T01:54:18.311694+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gastly & Haunter Reverse Holo Pokemon Stormfront",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474720760",
-      "funnet": "2026-08-27T01:52:17.991521+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
