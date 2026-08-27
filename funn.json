@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T02:46:15.153291+00:00",
+  "sist_sjekket": "2026-08-27T02:48:20.587534+00:00",
   "funn": [
+    {
+      "tittel": "Charizard RC5 2016",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474721000",
+      "funnet": "2026-08-27T02:48:20.585400+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard RC5 2016",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474709035",
       "funnet": "2026-08-26T19:52:17.260963+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Go",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474709343",
-      "funnet": "2026-08-26T19:46:19.026137+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
