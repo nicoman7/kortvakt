@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T08:36:15.691083+00:00",
+  "sist_sjekket": "2026-08-27T08:38:19.443010+00:00",
   "funn": [
+    {
+      "tittel": "Magic The Gathering Bilbo, Thief in the Night kort",
+      "pris": 260,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474737837",
+      "funnet": "2026-08-27T08:38:19.441226+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes booste bundle",
       "pris": 1160,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-26T21:34:18.469720+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Gulpin generations radiant collection",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474716918",
-      "funnet": "2026-08-26T21:32:29.231087+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
