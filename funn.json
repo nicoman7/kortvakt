@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T08:40:26.896045+00:00",
+  "sist_sjekket": "2026-08-27T08:42:21.443930+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Legendary Collection - Selges samlet",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468084006",
+      "funnet": "2026-08-27T08:42:21.442191+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "71 Stk PSA 10 & CGC 10 Pokemonkort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474202810",
+      "funnet": "2026-08-27T08:42:20.503281+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic The Gathering Bilbo, Thief in the Night kort",
       "pris": 260,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-26T21:34:19.166674+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Scorbunny, Sobble og Grookey promo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474717079",
-      "funnet": "2026-08-26T21:34:18.820466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black booster bundle",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474716891",
-      "funnet": "2026-08-26T21:34:18.469720+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
