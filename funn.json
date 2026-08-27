@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-27T17:26:18.868711+00:00",
+  "sist_sjekket": "2026-08-27T17:28:19.969078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468221194",
+      "funnet": "2026-08-27T17:28:19.967379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diglett 47/102 - Pokemon Base Set",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474788668",
+      "funnet": "2026-08-27T17:28:19.304600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-08-27T17:28:19.061548+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nidorina 40/64 - Pokemon Jungle",
       "pris": 29,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474773408",
       "funnet": "2026-08-27T15:22:19.524883+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zangoose Ex #167 Pokemon Ascended Heroes",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468054194",
-      "funnet": "2026-08-27T15:22:18.831139+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Drampa V #128 Pokemon Brilliant Stars",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468054090",
-      "funnet": "2026-08-27T15:22:18.523018+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Annihilape ex #32 Pokemon Promo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468054137",
-      "funnet": "2026-08-27T15:22:17.945731+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
