@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T19:46:16.334888+00:00",
+  "sist_sjekket": "2026-08-27T19:48:23.846289+00:00",
   "funn": [
+    {
+      "tittel": "Panini Rodrygo Limited Edition fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474803300",
+      "funnet": "2026-08-27T19:48:23.844609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini fotballkort Lautaro Martínez Limited Edition",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474803207",
+      "funnet": "2026-08-27T19:48:23.451745+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu World Championships promokort",
       "pris": 689,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-27T17:48:21.082450+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Celesteela Ultra beast celestial storm",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474790895",
-      "funnet": "2026-08-27T17:48:20.296815+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Hoopa holo steam siege deck exclusives",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474790485",
-      "funnet": "2026-08-27T17:46:20.224970+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
