@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T20:06:15.884567+00:00",
+  "sist_sjekket": "2026-08-27T20:08:19.647767+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort ICON Kevin De Bruyne",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474804879",
+      "funnet": "2026-08-27T20:08:19.645915+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Small bundle salg",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474631962",
+      "funnet": "2026-08-27T20:08:19.349062+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort ICON Lionel Messi Argentina",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-27T18:28:18.430770+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "BLACKPINK, ITZY OG TXT KORT",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474795065",
-      "funnet": "2026-08-27T18:28:17.558511+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474794616",
-      "funnet": "2026-08-27T18:26:16.172067+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
