@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-27T18:02:16.263471+00:00",
+  "sist_sjekket": "2026-08-27T18:04:20.469187+00:00",
   "funn": [
+    {
+      "tittel": "Bakugan kort og figurer",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474792442",
+      "funnet": "2026-08-27T18:04:20.467431+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474792506",
+      "funnet": "2026-08-27T18:04:19.649486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Ascending Heroes Booster Bundle",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474792704",
+      "funnet": "2026-08-27T18:04:19.310764+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 47,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474778414",
       "funnet": "2026-08-27T15:44:33.166677+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gyarados VMAX #29 Pokemon Evolving Skies",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473535431",
-      "funnet": "2026-08-27T15:42:18.304286+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venusaur ex #3 Pokemon Scarlet & Violet 151",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473537621",
-      "funnet": "2026-08-27T15:40:27.138993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Slowbro japansk holo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474777449",
-      "funnet": "2026-08-27T15:40:26.515074+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
