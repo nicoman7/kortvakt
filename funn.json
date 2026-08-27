@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T09:38:16.854525+00:00",
+  "sist_sjekket": "2026-08-27T09:40:25.282570+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474741984",
+      "funnet": "2026-08-27T09:40:25.280555+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Telekort. Ladekort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474717266",
       "funnet": "2026-08-26T21:40:28.332154+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Houndoom EX japansk glory of team rocket",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474717325",
-      "funnet": "2026-08-26T21:40:27.459033+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
