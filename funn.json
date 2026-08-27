@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T22:38:18.007910+00:00",
+  "sist_sjekket": "2026-08-27T22:40:32.913274+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes Booster Bundle",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461798644",
+      "funnet": "2026-08-27T22:40:32.911204+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Double rare Pokémon mystery cubes",
       "pris": 134,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474800810",
       "funnet": "2026-08-27T19:24:19.904472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Endrick Real Future Stars",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468352030",
-      "funnet": "2026-08-27T19:24:19.310318+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
