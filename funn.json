@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T05:42:25.425218+00:00",
+  "sist_sjekket": "2026-08-27T05:44:17.396572+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474724502",
+      "funnet": "2026-08-27T05:44:17.394826+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wayne Rooney 2006 Topps i-cards",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/461304185",
       "funnet": "2026-08-26T20:16:35.565852+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling –HITS, SLABS, OG MER!",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474711507",
-      "funnet": "2026-08-26T20:16:34.741845+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
