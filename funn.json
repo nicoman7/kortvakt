@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-27T04:58:17.401737+00:00",
+  "sist_sjekket": "2026-08-27T05:00:49.104575+00:00",
   "funn": [
+    {
+      "tittel": "⚽️Fotballkort - Lots - Pakker - diverse klubber⚽️",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443502802",
+      "funnet": "2026-08-27T05:00:49.102748+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️AS Monaco FC - Fotballkort⚽️",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/443412202",
+      "funnet": "2026-08-27T05:00:48.839476+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️Arsenal - Fotballkort - Premier league⚽️The Gunners!",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/405667942",
+      "funnet": "2026-08-27T05:00:48.591249+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Chelsea - Fotballkort - Premier League⚽️",
       "pris": 15,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-26T20:10:39.063077+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Magmar",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474711521",
-      "funnet": "2026-08-26T20:10:38.152572+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Raboot Single Strike",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474711698",
-      "funnet": "2026-08-26T20:10:37.177594+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Squirtle holo kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474710909",
-      "funnet": "2026-08-26T20:08:21.542585+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
