@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T07:14:18.696734+00:00",
+  "sist_sjekket": "2026-08-27T07:16:15.189264+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon maushold",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474730327",
+      "funnet": "2026-08-27T07:16:15.186775+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort og glinsekort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474714967",
       "funnet": "2026-08-26T20:56:18.576859+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ditto holo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474714776",
-      "funnet": "2026-08-26T20:54:19.943102+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
