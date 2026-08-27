@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T03:12:14.952695+00:00",
+  "sist_sjekket": "2026-08-27T03:14:17.147845+00:00",
   "funn": [
+    {
+      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
+      "funnet": "2026-08-27T03:14:17.146222+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Diamant Mystery Box – 10 Pokémon-kort",
       "pris": 249,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/355568698",
       "funnet": "2026-08-26T19:54:19.625830+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations boosterpakker 25-års jubileum",
-      "pris": 1140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474709901",
-      "funnet": "2026-08-26T19:52:17.679327+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
