@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T00:10:33.113874+00:00",
+  "sist_sjekket": "2026-08-27T00:12:15.955133+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-27T00:12:15.953077+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Darien Porter Rookie RC 2025 Topps Chrome #367 Las Vegas Raiders",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474707363",
       "funnet": "2026-08-26T19:26:20.550138+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mewtwo 11/146",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474707214",
-      "funnet": "2026-08-26T19:26:19.975395+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
