@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-27T10:30:39.642897+00:00",
+  "sist_sjekket": "2026-08-27T10:32:17.547120+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474747932",
+      "funnet": "2026-08-27T10:32:17.544955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Kobbie Mainoo Manchester United /125",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474748147",
+      "funnet": "2026-08-27T10:32:17.114438+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mystery Box – samlekort",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474053955",
+      "funnet": "2026-08-27T10:32:16.514468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "82MAJOR ALBUM KPOP",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-26T22:12:15.223230+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 grønne kort.",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474718315",
-      "funnet": "2026-08-26T22:08:20.268526+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Binder Nr.4 (Shiny, V cards, Full arts)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474718027",
-      "funnet": "2026-08-26T22:08:19.637715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Art Rares Japansk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474718176",
-      "funnet": "2026-08-26T22:06:17.572124+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
