@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T22:12:14.213267+00:00",
+  "sist_sjekket": "2026-08-27T22:14:18.067926+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474812313",
+      "funnet": "2026-08-27T22:14:18.066336+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SV05 Temporal Forces single pokemon kort salg TEF",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468352181",
       "funnet": "2026-08-27T19:24:18.722310+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Leandro Bacuna ICON",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474800818",
-      "funnet": "2026-08-27T19:24:18.457456+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
