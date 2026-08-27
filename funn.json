@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T04:28:15.479145+00:00",
+  "sist_sjekket": "2026-08-27T04:30:38.784498+00:00",
   "funn": [
+    {
+      "tittel": "Mange vannskilpadder kort selges",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474722458",
+      "funnet": "2026-08-27T04:30:38.782460+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort japansk Seel / Dewgong glossy",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-26T20:08:20.636766+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Raichu VMAX holo",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474711317",
-      "funnet": "2026-08-26T20:08:19.791237+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
