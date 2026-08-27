@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T15:48:16.555168+00:00",
+  "sist_sjekket": "2026-08-27T15:50:29.682247+00:00",
   "funn": [
+    {
+      "tittel": "Elvis Presley samlekort",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/368249748",
+      "funnet": "2026-08-27T15:50:29.680407+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Destined Rivals Elite Trainer Box",
       "pris": 1850,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-08-27T12:38:21.339128+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perfect Order holo og reverse holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474760743",
-      "funnet": "2026-08-27T12:36:18.826470+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
