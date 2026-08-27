@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T18:06:16.952990+00:00",
+  "sist_sjekket": "2026-08-27T18:08:24.656238+00:00",
   "funn": [
+    {
+      "tittel": "Magic The Gathering kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474791386",
+      "funnet": "2026-08-27T18:08:24.654271+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini adrenalyn Final team power jo",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474793022",
+      "funnet": "2026-08-27T18:08:23.803399+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Lt. Surge's Pikachu 1st Edition CGC 9.5",
       "pris": 1050,
@@ -1182,22 +1198,6 @@
       "pris": 1850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474778308",
       "funnet": "2026-08-27T15:48:16.553169+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
-      "funnet": "2026-08-27T15:48:15.929084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rhyperior V #95 Pokemon Darkness Ablaze",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473535302",
-      "funnet": "2026-08-27T15:44:33.741213+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
