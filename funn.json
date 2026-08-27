@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-27T15:50:29.682247+00:00",
+  "sist_sjekket": "2026-08-27T15:52:19.359537+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474779018",
+      "funnet": "2026-08-27T15:52:19.357730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Elvis Presley samlekort",
       "pris": 1100,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474761016",
       "funnet": "2026-08-27T12:38:21.742986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-27T12:38:21.339128+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
