@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-27T19:32:22.606499+00:00",
+  "sist_sjekket": "2026-08-27T19:34:17.019176+00:00",
   "funn": [
+    {
+      "tittel": "Panini Scandinavian Star samlekort Martin Ødegaard",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474801943",
+      "funnet": "2026-08-27T19:34:17.017257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474801198",
+      "funnet": "2026-08-27T19:34:16.573734+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Charizard 5/18 fra Pokémon Detective Pikachu-settet, 2019.",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468221194",
       "funnet": "2026-08-27T17:28:19.967379+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diglett 47/102 - Pokemon Base Set",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474788668",
-      "funnet": "2026-08-27T17:28:19.304600+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-08-27T17:28:19.061548+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
