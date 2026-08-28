@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-28T12:50:23.884157+00:00",
+  "sist_sjekket": "2026-08-28T12:52:16.336880+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474853799",
+      "funnet": "2026-08-28T12:52:16.334729+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Perm med 209 fotballkort fra FIFA 365 - 2016 selges!",
+      "pris": 195,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457975082",
+      "funnet": "2026-08-28T12:52:15.689364+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 217/182 Team Rocket's Crobat EX & 219/182 Team Rocket's Persian",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474853797",
+      "funnet": "2026-08-28T12:52:15.086609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Erling Braut Haaland kort selges",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/349538365",
       "funnet": "2026-08-28T09:24:27.768803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Journey to Eternity",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/349538639",
-      "funnet": "2026-08-28T09:24:26.876557+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Eldritch Evolution",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/349539864",
-      "funnet": "2026-08-28T09:24:26.542260+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Elvis samle kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333251232",
-      "funnet": "2026-08-28T09:24:25.705863+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
