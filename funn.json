@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-28T16:32:14.863519+00:00",
+  "sist_sjekket": "2026-08-28T16:34:20.822464+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474871987",
+      "funnet": "2026-08-28T16:34:20.820654+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Electrode #18 Pokemon Jungle",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474874293",
+      "funnet": "2026-08-28T16:34:19.863698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-28T16:34:19.446424+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kangaskhan #21 Pokemon Jungle",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474861516",
       "funnet": "2026-08-28T14:20:29.935578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon mew Vmax fushion strike holo ingen Bret eller noenting på kortet",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474796224",
-      "funnet": "2026-08-28T14:20:29.000568+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-28T14:16:25.716939+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "David Beckham – Merlin Premier Gold 99 fotballkort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453222024",
-      "funnet": "2026-08-28T14:14:17.149925+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
