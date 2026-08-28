@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-28T09:18:16.253134+00:00",
+  "sist_sjekket": "2026-08-28T09:20:28.819979+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/415132057",
+      "funnet": "2026-08-28T09:20:28.818242+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the gathering kort. Crested Sunmare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/349548175",
+      "funnet": "2026-08-28T09:20:27.905575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468071751",
       "funnet": "2026-08-27T21:38:17.880151+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masse eldre fotball kort selges🍀",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/384295597",
-      "funnet": "2026-08-27T21:32:23.464389+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Diverse illustrationrare fra Destined Rivals og Ascneded Heroes",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474810532",
-      "funnet": "2026-08-27T21:30:41.451836+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
