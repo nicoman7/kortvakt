@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-28T19:14:18.521606+00:00",
+  "sist_sjekket": "2026-08-28T19:16:21.190402+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling av øl etiketter selges billig",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461906068",
+      "funnet": "2026-08-28T19:16:21.188506+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Small bundle salg",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474631873",
+      "funnet": "2026-08-28T19:16:20.753600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Golden Baller limited edition lamine yamal",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474880729",
       "funnet": "2026-08-28T17:54:19.391797+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "[OPPDATERT] Panini World Cup 2026 Adrenalyn XL",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468269053",
-      "funnet": "2026-08-28T17:54:18.446580+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-08-28T17:50:23.948498+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
