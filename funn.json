@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T14:14:17.152167+00:00",
+  "sist_sjekket": "2026-08-28T14:16:25.718903+00:00",
   "funn": [
+    {
+      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
+      "funnet": "2026-08-28T14:16:25.716939+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "David Beckham – Merlin Premier Gold 99 fotballkort",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T10:28:18.438941+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort selges - Ascendes Heroes, Pitch Black og Chaos Rising",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474840420",
-      "funnet": "2026-08-28T10:24:19.901824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
