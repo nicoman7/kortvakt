@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T14:00:58.065573+00:00",
+  "sist_sjekket": "2026-08-28T14:02:15.567856+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474854650",
+      "funnet": "2026-08-28T14:02:15.565812+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse gamle Pokemonkort",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474839495",
       "funnet": "2026-08-28T10:14:19.973696+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard GX samle kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474839741",
-      "funnet": "2026-08-28T10:14:19.093541+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
