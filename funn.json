@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T19:34:17.414053+00:00",
+  "sist_sjekket": "2026-08-28T19:36:18.337910+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samlekort i plastlommer",
+      "pris": 340,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474889385",
+      "funnet": "2026-08-28T19:36:18.335969+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 japanske BULK",
       "pris": 1899,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T18:16:24.512022+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Espeon GX kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474882801",
-      "funnet": "2026-08-28T18:14:18.627216+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
