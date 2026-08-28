@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-08-28T14:34:23.185199+00:00",
+  "sist_sjekket": "2026-08-28T14:36:18.716182+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard EX",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474863557",
+      "funnet": "2026-08-28T14:36:18.714198+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Stephen Curry Panini Chronicles 44/99 Golden State Warriors NBA",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/293030732",
+      "funnet": "2026-08-28T14:36:18.115955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2022 Panini Select UFC BRIAN ORTEGA Autograf Red 91/99 MMA",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/325762961",
+      "funnet": "2026-08-28T14:36:17.471883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2023 Panini Select UFC TOM ASPINALL Autograf Purple 37/49 MMA",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/325763485",
+      "funnet": "2026-08-28T14:36:16.876639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2022 Topps Chrome F1 Enzo Fittipaldi Autograf F1",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/308007588",
+      "funnet": "2026-08-28T14:36:16.609063+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2022 Panini UFC Chronicles Alexander Gustafsson Autograf",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/308007079",
+      "funnet": "2026-08-28T14:36:16.354864+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2023 Panini Select UFC DUSTIN POIRIER Autograf /75 MMA",
       "pris": 1499,
@@ -1151,54 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474842640",
       "funnet": "2026-08-28T10:50:26.548916+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-08-28T10:50:25.677921+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA graderte Pokémon kort",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/434259294",
-      "funnet": "2026-08-28T10:46:14.649860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lugia BREAK og Luxray BREAK",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474842215",
-      "funnet": "2026-08-28T10:46:14.034693+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FORTNITE kort/ samleobjekt",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/406133885",
-      "funnet": "2026-08-28T10:44:15.431919+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Celebrations: Classic Collection - Alle mulige kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/443438579",
-      "funnet": "2026-08-28T10:42:15.822934+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Brilliant Stars Checklane Blisters. Pokemon boosters",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/413213835",
-      "funnet": "2026-08-28T10:42:15.170034+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
