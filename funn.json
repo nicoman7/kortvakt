@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T14:56:15.359274+00:00",
+  "sist_sjekket": "2026-08-28T14:58:16.753187+00:00",
   "funn": [
+    {
+      "tittel": "Vini jr.  Real madrid kort og stickers",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461527513",
+      "funnet": "2026-08-28T14:58:16.750773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T11:14:15.965097+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort i god stand",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455554276",
-      "funnet": "2026-08-28T11:10:27.868098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
