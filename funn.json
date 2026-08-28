@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T19:30:43.658943+00:00",
+  "sist_sjekket": "2026-08-28T19:32:26.199541+00:00",
   "funn": [
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-08-28T19:32:26.197817+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Charizard X ex 013/094 Phantasmal Flames",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T18:12:39.143165+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-28T18:12:38.551910+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
