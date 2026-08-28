@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T09:36:18.573219+00:00",
+  "sist_sjekket": "2026-08-28T09:38:18.390509+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474836024",
+      "funnet": "2026-08-28T09:38:18.388489+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort VMAX samlekort – 4 stk",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474818428",
       "funnet": "2026-08-28T05:44:21.352831+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-08-28T05:44:20.422022+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
