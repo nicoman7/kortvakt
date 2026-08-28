@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T19:36:18.337910+00:00",
+  "sist_sjekket": "2026-08-28T19:38:15.265141+00:00",
   "funn": [
+    {
+      "tittel": "Telekort: M-3 Magnet 1 [ 21 kr ]",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/372518279",
+      "funnet": "2026-08-28T19:38:15.263036+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – samlekort i plastlommer",
       "pris": 340,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T18:20:27.233026+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474882419",
-      "funnet": "2026-08-28T18:16:24.512022+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
