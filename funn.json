@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-28T13:42:28.867536+00:00",
+  "sist_sjekket": "2026-08-28T13:44:19.473072+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474858623",
+      "funnet": "2026-08-28T13:44:19.470797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "VM 2026 Panini Adrenalyn XL fotballkort til salgs",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474858563",
+      "funnet": "2026-08-28T13:44:19.111881+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Exeggcute reverse holo",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474858877",
+      "funnet": "2026-08-28T13:44:18.301099+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Terastal Festival EX boosterboks japansk",
       "pris": 1999,
@@ -1174,30 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474839213",
       "funnet": "2026-08-28T10:10:23.397984+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474838718",
-      "funnet": "2026-08-28T10:08:17.792005+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "500 pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474838896",
-      "funnet": "2026-08-28T10:08:16.892674+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Primal Kyogre EX kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474838450",
-      "funnet": "2026-08-28T10:04:18.166280+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
