@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T10:42:15.824769+00:00",
+  "sist_sjekket": "2026-08-28T10:44:15.433986+00:00",
   "funn": [
+    {
+      "tittel": "FORTNITE kort/ samleobjekt",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406133885",
+      "funnet": "2026-08-28T10:44:15.431919+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Celebrations: Classic Collection - Alle mulige kort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 79,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474824133",
       "funnet": "2026-08-28T07:22:16.788426+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner series 2 – Unova",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474824071",
-      "funnet": "2026-08-28T07:20:23.407534+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
