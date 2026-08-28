@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T03:46:22.496576+00:00",
+  "sist_sjekket": "2026-08-28T03:48:14.453574+00:00",
   "funn": [
+    {
+      "tittel": "Stray Kids STARRIVER kort GO",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474815510",
+      "funnet": "2026-08-28T03:48:14.451558+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Italian Brainrot Lamincard samlekort (8 stk).",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
       "funnet": "2026-08-27T19:30:40.770756+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Abdukodir Khusanov Fan Favourite fotballkort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474801212",
-      "funnet": "2026-08-27T19:28:22.020065+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
