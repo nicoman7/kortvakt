@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T13:24:15.389856+00:00",
+  "sist_sjekket": "2026-08-28T13:26:22.841674+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474856946",
+      "funnet": "2026-08-28T13:26:22.839801+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Sylveon GX #SV76 | Hidden Fates - Gradert",
       "pris": 1550,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/443205050",
       "funnet": "2026-08-28T09:42:17.751295+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathering kort. Second Chance",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/443205422",
-      "funnet": "2026-08-28T09:42:17.470731+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
