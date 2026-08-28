@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T05:40:25.105942+00:00",
+  "sist_sjekket": "2026-08-28T05:42:15.456289+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474818345",
+      "funnet": "2026-08-28T05:42:15.454332+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Xerneas holo XY promos",
       "pris": 35,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472961715",
       "funnet": "2026-08-27T19:40:43.570567+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Nordic Master Rookie samlekort Oscar Bobb",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474802104",
-      "funnet": "2026-08-27T19:38:25.083382+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
