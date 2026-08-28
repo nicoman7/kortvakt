@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T14:30:43.320877+00:00",
+  "sist_sjekket": "2026-08-28T14:32:22.463593+00:00",
   "funn": [
+    {
+      "tittel": "Mega Box world cup 2026 uåpnet fotballkort pakker",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474862958",
+      "funnet": "2026-08-28T14:32:22.461797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Diamant Mystery Box – 10 Pokémon-kort",
       "pris": 249,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T10:38:17.443562+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary – Froakie, Fennekin & Chespin – 3x Promo Kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474841246",
-      "funnet": "2026-08-28T10:36:17.251589+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
