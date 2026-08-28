@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T14:20:29.937318+00:00",
+  "sist_sjekket": "2026-08-28T14:22:18.876925+00:00",
   "funn": [
+    {
+      "tittel": "Panini Prizm FIFA World Cup boks",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474862416",
+      "funnet": "2026-08-28T14:22:18.875058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort [ Destined + Ascended Heroes ]",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T10:30:44.678621+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort med metallboks",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474840802",
-      "funnet": "2026-08-28T10:30:43.852096+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
