@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T13:52:17.320250+00:00",
+  "sist_sjekket": "2026-08-28T13:54:15.282248+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Gradert / Raw",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474430236",
+      "funnet": "2026-08-28T13:54:15.280124+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "fotballkort samling, parallel kort, inserts, rookies, generation now osv osv",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T10:12:15.205094+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-28T10:12:14.511110+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
