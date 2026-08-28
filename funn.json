@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-28T22:28:21.185009+00:00",
+  "sist_sjekket": "2026-08-28T22:30:42.938120+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Tauros unleashed",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474898166",
+      "funnet": "2026-08-28T22:30:42.936604+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Limited Edition kort, panini World Cup 2026",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474898157",
+      "funnet": "2026-08-28T22:30:42.158911+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 28/8",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-08-28T22:30:41.344662+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Cherubi stormfront",
       "pris": 15,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-28T19:28:20.766185+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Steve Chettle - Fotballkort/klistremerke - Gratis frakt med Fiks Ferdig",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/433781320",
-      "funnet": "2026-08-28T19:28:19.899880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Retro fotballkort med norske Premier League-legender! Solskjær, Bjørnebye m.fl",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468442260",
-      "funnet": "2026-08-28T19:24:14.867862+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece TCG kortsamling - OP17",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474888526",
-      "funnet": "2026-08-28T19:24:14.460852+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
