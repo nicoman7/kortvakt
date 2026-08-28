@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T18:14:18.629182+00:00",
+  "sist_sjekket": "2026-08-28T18:16:24.513575+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474882419",
+      "funnet": "2026-08-28T18:16:24.512022+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Espeon GX kort",
       "pris": 900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468364293",
       "funnet": "2026-08-28T16:18:22.867115+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon binder med kun HITS! + en bunke holos & random bulk",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474827982",
-      "funnet": "2026-08-28T16:18:22.000875+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
