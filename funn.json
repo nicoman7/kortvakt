@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-28T09:10:25.228573+00:00",
+  "sist_sjekket": "2026-08-28T09:12:17.737059+00:00",
   "funn": [
+    {
+      "tittel": "Wacky Packages- Go To The Movies- Topps-",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/453163223",
+      "funnet": "2026-08-28T09:12:17.734799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the gathering kort. Hogaak, Arisen Necropolis FOIL",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474810008",
       "funnet": "2026-08-27T21:18:18.442406+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort – mappe med holo og V/Vmax-kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474810007",
-      "funnet": "2026-08-27T21:18:17.544578+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
