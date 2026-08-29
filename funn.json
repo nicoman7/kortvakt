@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T21:48:16.368112+00:00",
+  "sist_sjekket": "2026-08-29T21:50:25.038989+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Panini og Topps Samlekort Fotball",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447463784",
+      "funnet": "2026-08-29T21:50:25.037094+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Rayquaza V Rapid Strike kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-29T19:14:16.356185+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Strange Cave 77/92 - Pokemon Legend Maker",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474997801",
-      "funnet": "2026-08-29T19:14:15.780558+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
