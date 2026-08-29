@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T18:02:13.694630+00:00",
+  "sist_sjekket": "2026-08-29T18:04:15.345059+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474991264",
+      "funnet": "2026-08-29T18:04:15.343024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eksklusiv Pokemon Gengar Mystery Keychain Box",
       "pris": 399,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-29T15:52:17.881468+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Metagross #11 fra [Pokemon Deoxys] vurderes solgt.",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474977371",
-      "funnet": "2026-08-29T15:52:16.917177+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
