@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-29T16:20:27.525330+00:00",
+  "sist_sjekket": "2026-08-29T16:22:16.333210+00:00",
   "funn": [
+    {
+      "tittel": "He-Man Masters of the Universe samlekort / klistremerker",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474979623",
+      "funnet": "2026-08-29T16:22:16.330962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "INVIZIMALS kort/ samleobjekt",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406137356",
+      "funnet": "2026-08-29T16:22:16.088273+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort/ ENERGIE",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406139891",
+      "funnet": "2026-08-29T16:22:15.366244+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gourgeist 102/086 Ultra Rare Chaos Rising",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/321355823",
       "funnet": "2026-08-29T14:32:19.523483+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474966194",
-      "funnet": "2026-08-29T14:32:19.266758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Sneasel ex - 103/109 - Ultra-Rare",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361111245",
-      "funnet": "2026-08-29T14:32:18.663433+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Regigigas 37/146 Holo Reverse",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/339384249",
-      "funnet": "2026-08-29T14:32:18.317812+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
