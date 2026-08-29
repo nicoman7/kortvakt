@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-29T06:32:14.225447+00:00",
+  "sist_sjekket": "2026-08-29T06:34:17.127230+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474892816",
+      "funnet": "2026-08-29T06:34:17.125239+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort store",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474892690",
+      "funnet": "2026-08-29T06:34:16.870848+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474892041",
+      "funnet": "2026-08-29T06:34:16.297177+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nummererte, Topps Chrome PL 2026 NF, Morgan Gibbs- White",
       "pris": 100,
@@ -1174,30 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474898263",
       "funnet": "2026-08-28T22:52:20.041560+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Sawk reverse black and white",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474898745",
-      "funnet": "2026-08-28T22:52:19.671547+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clefairy breakpoint",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474898760",
-      "funnet": "2026-08-28T22:52:19.280843+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Hitmonlee kort reverse generations",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474898691",
-      "funnet": "2026-08-28T22:50:23.824571+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
