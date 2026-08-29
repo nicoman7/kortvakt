@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T08:12:16.942169+00:00",
+  "sist_sjekket": "2026-08-29T08:14:19.567836+00:00",
   "funn": [
+    {
+      "tittel": "One piece samlekort selges samlet",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474916819",
+      "funnet": "2026-08-29T08:14:19.565639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474900174",
       "funnet": "2026-08-28T23:52:19.435832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Garbodor kort alternate art promos",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474900160",
-      "funnet": "2026-08-28T23:50:24.443627+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
