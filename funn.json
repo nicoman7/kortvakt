@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T08:08:18.780417+00:00",
+  "sist_sjekket": "2026-08-29T08:10:22.788858+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/453361194",
+      "funnet": "2026-08-29T08:10:22.786886+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Johnny Heitinga Panini Donruss 2021-22 Premier League Pen Pals Auto /199 Everton",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474900160",
       "funnet": "2026-08-28T23:50:24.443627+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Double Dragon Energy kort roaring skies",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474900139",
-      "funnet": "2026-08-28T23:50:24.047105+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
