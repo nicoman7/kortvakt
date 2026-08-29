@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T14:02:19.399859+00:00",
+  "sist_sjekket": "2026-08-29T14:04:21.708279+00:00",
   "funn": [
+    {
+      "tittel": "Zapdos EX #34 fra [Pokemon Promo] vurderes solgt.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474962862",
+      "funnet": "2026-08-29T14:04:21.706500+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon perm med ca. 600 kort EX, SR, AR, Holo, Reverse Holo og Common (Mint/NM)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474962250",
+      "funnet": "2026-08-29T14:04:20.862920+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – blandede kort",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474953612",
       "funnet": "2026-08-29T12:48:24.553869+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Ninetales Ninja Spinner (009)",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474953987",
-      "funnet": "2026-08-29T12:48:23.706569+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon trainer bonanza alfabetisk",
-      "pris": 7,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474952993",
-      "funnet": "2026-08-29T12:48:22.861165+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
