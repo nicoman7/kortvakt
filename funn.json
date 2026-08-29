@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-29T19:12:18.093559+00:00",
+  "sist_sjekket": "2026-08-29T19:14:16.358205+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort kan byttes eller kjøpes",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474997591",
+      "funnet": "2026-08-29T19:14:16.356185+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Strange Cave 77/92 - Pokemon Legend Maker",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474997801",
+      "funnet": "2026-08-29T19:14:15.780558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ponyta (CN) 0101/07 - Pokemon Gem Pack 4",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474997948",
+      "funnet": "2026-08-29T19:14:14.802878+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2 for 1 priser Match Attax 25/26, 2 kort = 1kr",
       "pris": 1,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474984391",
       "funnet": "2026-08-29T16:54:19.018488+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA fotballkort samling",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474984088",
-      "funnet": "2026-08-29T16:54:18.226067+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samleperm med kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474984586",
-      "funnet": "2026-08-29T16:54:17.406506+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Topps Finnest Prizm Word Cup",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474984296",
-      "funnet": "2026-08-29T16:54:16.498012+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
