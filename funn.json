@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T10:48:21.541040+00:00",
+  "sist_sjekket": "2026-08-29T10:50:22.776658+00:00",
   "funn": [
+    {
+      "tittel": "VM 2006 fotballkort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474933145",
+      "funnet": "2026-08-29T10:50:22.774136+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax 100 Club fotballkort – 5 stk",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474926453",
       "funnet": "2026-08-29T09:40:25.279437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Go kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474927358",
-      "funnet": "2026-08-29T09:40:24.983405+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
