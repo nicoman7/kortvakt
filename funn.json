@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T15:30:42.475785+00:00",
+  "sist_sjekket": "2026-08-29T15:32:16.162832+00:00",
   "funn": [
+    {
+      "tittel": "Lickitung Reverse Holo #37 fra [Pokemon Fire Red & Leaf Green] vurderes solgt.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474974728",
+      "funnet": "2026-08-29T15:32:16.160841+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-29T15:32:15.820221+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Marill Azumarill Jigglypuff Wigglytuff m.fl.",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474962061",
       "funnet": "2026-08-29T13:52:18.997851+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Miltank holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474961593",
-      "funnet": "2026-08-29T13:52:18.323623+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulbasaur #46 Pokemon Promo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473780866",
-      "funnet": "2026-08-29T13:52:17.713408+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
