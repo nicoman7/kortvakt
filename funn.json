@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T00:50:25.990259+00:00",
+  "sist_sjekket": "2026-08-29T00:52:18.139634+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Hatterene V jumbo promo",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474900768",
+      "funnet": "2026-08-29T00:52:18.137904+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Bewear GX jumbo promo",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-28T21:34:19.392914+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM sticker Erling Braut Haaland",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474896246",
-      "funnet": "2026-08-28T21:32:19.652550+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
