@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-29T09:56:15.605049+00:00",
+  "sist_sjekket": "2026-08-29T09:58:16.016228+00:00",
   "funn": [
+    {
+      "tittel": "Arda Guler Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474929620",
+      "funnet": "2026-08-29T09:58:16.014442+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Flagship Football 2026 | NFL | Amerikansk fotball",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474929532",
+      "funnet": "2026-08-29T09:58:15.669723+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Antonio Nusa Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474929797",
+      "funnet": "2026-08-29T09:58:15.031467+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Goncalo Ramos Fotballkort",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-29T06:36:20.265133+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474892816",
-      "funnet": "2026-08-29T06:34:17.125239+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort store",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474892690",
-      "funnet": "2026-08-29T06:34:16.870848+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474892041",
-      "funnet": "2026-08-29T06:34:16.297177+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
