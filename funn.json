@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-29T22:22:14.059161+00:00",
+  "sist_sjekket": "2026-08-29T22:24:17.708024+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort i plastlommer",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475009860",
+      "funnet": "2026-08-29T22:24:17.705921+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Samlekort, fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/250077884",
+      "funnet": "2026-08-29T22:24:17.145411+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes Booster Bundle",
+      "pris": 1149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475008698",
+      "funnet": "2026-08-29T22:24:16.552153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Unown Y 50 HP Psychic",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474999668",
       "funnet": "2026-08-29T19:36:17.231699+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026/27 pakke",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474999456",
-      "funnet": "2026-08-29T19:36:16.668788+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Giratina 4/146 reverse holo",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474999605",
-      "funnet": "2026-08-29T19:36:16.099717+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu JP #025",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475000012",
-      "funnet": "2026-08-29T19:36:15.505903+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
