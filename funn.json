@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T17:40:27.556013+00:00",
+  "sist_sjekket": "2026-08-29T17:42:18.660081+00:00",
   "funn": [
+    {
+      "tittel": "OL-aksjen 1994 samleobjekt",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447263687",
+      "funnet": "2026-08-29T17:42:18.658001+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemonkort av forskjellige sett. Mye fra Nihil zero.",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-29T15:40:23.727415+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Upper Deck Alexei Kovalev hockeykort PSA/DNA auto",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468521739",
-      "funnet": "2026-08-29T15:38:22.455146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
