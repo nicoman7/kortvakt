@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T11:48:16.982307+00:00",
+  "sist_sjekket": "2026-08-29T11:50:24.707381+00:00",
   "funn": [
+    {
+      "tittel": "ONE PIECE KORT",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474945079",
+      "funnet": "2026-08-29T11:50:24.705427+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort Prismatic Evolutions",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461967651",
+      "funnet": "2026-08-29T11:50:23.919296+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-29T10:14:18.912911+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mohamed Salah Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474931922",
-      "funnet": "2026-08-29T10:14:18.007083+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vinicius Jr Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474931559",
-      "funnet": "2026-08-29T10:12:23.194333+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
