@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T06:34:17.127230+00:00",
+  "sist_sjekket": "2026-08-29T06:36:21.145726+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474892300",
+      "funnet": "2026-08-29T06:36:21.143564+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474892403",
+      "funnet": "2026-08-29T06:36:20.265133+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474898801",
       "funnet": "2026-08-28T22:56:16.527689+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Colress Trainer plasma storm",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474898818",
-      "funnet": "2026-08-28T22:56:16.178803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA WORLD CUP 2026™ Adrenalyn XL™ - Final Teams Set (Fotballkort)",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474898263",
-      "funnet": "2026-08-28T22:52:20.041560+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
