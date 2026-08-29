@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T18:34:15.553561+00:00",
+  "sist_sjekket": "2026-08-29T18:36:20.019037+00:00",
   "funn": [
+    {
+      "tittel": "Eevee (CN) 0402/07 - Pokemon Gem Pack 4",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474994139",
+      "funnet": "2026-08-29T18:36:20.017243+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Houndour #39 Pokemon Neo Discovery",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474994185",
+      "funnet": "2026-08-29T18:36:18.999956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dragonair #18 Pokemon Base Set",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-29T16:16:16.451000+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Exploud #3 Reverse Holo fra [Pokemon Emerald] vurderes solgt.",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474979710",
-      "funnet": "2026-08-29T16:16:15.971918+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Milotic [Reverse Holo] #5 Delta Species",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461920970",
-      "funnet": "2026-08-29T16:16:15.191169+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
