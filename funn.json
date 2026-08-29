@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T22:32:17.810675+00:00",
+  "sist_sjekket": "2026-08-29T22:34:16.322660+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475010131",
+      "funnet": "2026-08-29T22:34:16.320515+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Unown Pokemon's",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475000214",
       "funnet": "2026-08-29T19:40:27.477067+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras #10 Pokemon Fossil",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474999667",
-      "funnet": "2026-08-29T19:40:26.546954+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
