@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T09:04:17.126921+00:00",
+  "sist_sjekket": "2026-08-29T09:06:15.449164+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort - 1999 Topps TV",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/428573604",
+      "funnet": "2026-08-29T09:06:15.447460+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort EURO 2024 – sortert etter landslag ⚽️",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474923173",
+      "funnet": "2026-08-29T09:06:15.076199+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magikarp 039/192 – Rebel Clash – Pikachu cameo – 2020",
       "pris": 60,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474900604",
       "funnet": "2026-08-29T00:34:14.185837+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Treecko Basic XY promos",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474900587",
-      "funnet": "2026-08-29T00:32:19.978704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Galarian Darmanitan holo shining fates shiny vault",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474900600",
-      "funnet": "2026-08-29T00:32:19.057156+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
