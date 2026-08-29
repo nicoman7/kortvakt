@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T17:42:18.660081+00:00",
+  "sist_sjekket": "2026-08-29T17:44:17.083490+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort bunt",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474988742",
+      "funnet": "2026-08-29T17:44:17.081785+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Toploaders for samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474989048",
+      "funnet": "2026-08-29T17:44:16.518864+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "OL-aksjen 1994 samleobjekt",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474976372",
       "funnet": "2026-08-29T15:44:15.238307+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Marowak #7 fra [Pokemon Fire Red & Leaf Green] vurderes solgt.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474975954",
-      "funnet": "2026-08-29T15:40:24.309595+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Disney samlekort Topps Chrome / Wonder / Neon – Nummererte & Auto",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474975401",
-      "funnet": "2026-08-29T15:40:23.727415+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
