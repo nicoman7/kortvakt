@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-29T14:22:21.457875+00:00",
+  "sist_sjekket": "2026-08-29T14:24:19.549177+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-29T14:24:19.547294+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Shelgon LV.35 50/100 Reverse Holo",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474955608",
       "funnet": "2026-08-29T13:00:52.755213+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling - Pokemon kort illustrert av Yuka Morii",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474955333",
-      "funnet": "2026-08-29T13:00:51.884614+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
