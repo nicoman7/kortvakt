@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T09:32:15.980796+00:00",
+  "sist_sjekket": "2026-08-29T09:34:21.102571+00:00",
   "funn": [
+    {
+      "tittel": "Stort Pokemon ryddesalg – esker, boosterpakker, sleeves og annet",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466176582",
+      "funnet": "2026-08-29T09:34:21.100662+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort/GI BUD",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474925630",
+      "funnet": "2026-08-29T09:34:20.082614+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Match Attax Juan Mata medal winner UCLW-JM",
       "pris": 179,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/399437649",
       "funnet": "2026-08-29T02:22:15.946198+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-29T02:06:18.935995+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-08-29T01:36:18.975904+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
