@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T22:02:16.474201+00:00",
+  "sist_sjekket": "2026-08-29T22:04:16.001801+00:00",
   "funn": [
+    {
+      "tittel": "Samling med One Piece",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461977838",
+      "funnet": "2026-08-29T22:04:16.000132+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps fotballkort Neymar Jr Barcelona /99 Fans Choice",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475009315",
+      "funnet": "2026-08-29T22:04:15.433956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bakugan kort",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474998426",
       "funnet": "2026-08-29T19:30:38.808691+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Cinccino Ex",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474999212",
-      "funnet": "2026-08-29T19:30:37.910049+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delcatty [Reverse Holo] #23 Pokemon Legends",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474998923",
-      "funnet": "2026-08-29T19:28:16.984800+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
