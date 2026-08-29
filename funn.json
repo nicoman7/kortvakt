@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-29T17:48:16.213296+00:00",
+  "sist_sjekket": "2026-08-29T17:50:26.597568+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – 2 kort selges samlet",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474989549",
+      "funnet": "2026-08-29T17:50:26.595665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort japansk Bulk",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/449797261",
+      "funnet": "2026-08-29T17:50:25.973676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort bunt",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-29T15:44:16.198773+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Aipom Ambipom Braviary Rufflet m.fl.",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474976539",
-      "funnet": "2026-08-29T15:44:15.567281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Feraligatr #2 fra [Pokemon Dragon Frontiers] vurderes solgt.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474976372",
-      "funnet": "2026-08-29T15:44:15.238307+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
