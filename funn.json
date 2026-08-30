@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T12:00:57.998940+00:00",
+  "sist_sjekket": "2026-08-30T12:02:23.398980+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort (GI BUD)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475061761",
+      "funnet": "2026-08-30T12:02:23.397304+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – Mewtwo og Pikachu samlekort",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/464612406",
       "funnet": "2026-08-30T09:52:14.481250+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 England Bukayo Saka",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475040616",
-      "funnet": "2026-08-30T09:52:14.172970+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
