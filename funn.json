@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T16:48:21.499866+00:00",
+  "sist_sjekket": "2026-08-30T16:50:23.728035+00:00",
   "funn": [
+    {
+      "tittel": "Dunsparce 68/108 - Pokemon Roaring Skies",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475110241",
+      "funnet": "2026-08-30T16:50:23.725998+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Glaceon V 040/203 - Pokemon Evolving Skies",
       "pris": 45,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475090444",
       "funnet": "2026-08-30T14:46:17.393144+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nuno Mendez RC auto topps UCC",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465990490",
-      "funnet": "2026-08-30T14:46:16.956783+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
