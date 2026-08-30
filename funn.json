@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T18:54:20.627250+00:00",
+  "sist_sjekket": "2026-08-30T18:56:16.656065+00:00",
   "funn": [
+    {
+      "tittel": "Topps Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464860741",
+      "funnet": "2026-08-30T18:56:16.653932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mystery pack med pokemonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475128340",
+      "funnet": "2026-08-30T18:56:16.017005+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Nickit Sword & Shield 90/202",
       "pris": 40,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475114545",
       "funnet": "2026-08-30T17:18:16.460156+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Remoraid Rapid Strike",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475114660",
-      "funnet": "2026-08-30T17:18:15.672383+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Carvanha samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475114375",
-      "funnet": "2026-08-30T17:18:15.071184+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
