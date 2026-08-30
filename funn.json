@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-30T07:26:16.610843+00:00",
+  "sist_sjekket": "2026-08-30T07:28:17.461137+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Chilling Reign",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475021307",
+      "funnet": "2026-08-30T07:28:17.459263+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort – 4 kort",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475021347",
+      "funnet": "2026-08-30T07:28:16.622909+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort/ Volcanion",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/406602106",
+      "funnet": "2026-08-30T07:28:15.871746+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Haunter fra 2010",
       "pris": 110,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-29T22:40:22.202607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475010131",
-      "funnet": "2026-08-29T22:34:16.320515+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Unown Pokemon's",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475010088",
-      "funnet": "2026-08-29T22:32:17.809035+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort i plastlommer",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475009860",
-      "funnet": "2026-08-29T22:24:17.705921+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
