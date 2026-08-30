@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T18:10:27.266690+00:00",
+  "sist_sjekket": "2026-08-30T18:12:18.815431+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474493546",
+      "funnet": "2026-08-30T18:12:18.813459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Guest Dancer: Pikachu! SNAP13 – Topps Pokémon Johto Series 1 – 2001",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475108982",
       "funnet": "2026-08-30T16:42:18.004554+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidorino - Aquapolis - Pokemon",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475108860",
-      "funnet": "2026-08-30T16:42:16.945654+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
