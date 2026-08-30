@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-30T08:18:19.958296+00:00",
+  "sist_sjekket": "2026-08-30T08:20:27.270364+00:00",
   "funn": [
+    {
+      "tittel": "Master Ball Holo kort, Gem 3",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461905076",
+      "funnet": "2026-08-30T08:20:27.268249+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Single Meowth kort, Gem Pack Vol 3",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461904810",
+      "funnet": "2026-08-30T08:20:26.407898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Disney Lorcana Aladdin kort",
+      "pris": 72,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475027493",
+      "funnet": "2026-08-30T08:20:25.509115+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Darkrai promo fra 2009",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475026384",
+      "funnet": "2026-08-30T08:20:24.619199+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 500,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475012284",
       "funnet": "2026-08-30T00:30:38.068889+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard V 018/159 Crown Zenith – ISA 9 Mint",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475012286",
-      "funnet": "2026-08-30T00:28:20.042949+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "EP11 Charmander – The Stray Pokémon – Pokémon Topps Series 2 – 2000",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475012283",
-      "funnet": "2026-08-30T00:26:15.218925+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SELGER FOTBALLKORT! TA KONTAKT",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474624401",
-      "funnet": "2026-08-30T00:24:15.580323+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-08-30T00:22:15.670115+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
