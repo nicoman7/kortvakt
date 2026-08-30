@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T13:50:21.961926+00:00",
+  "sist_sjekket": "2026-08-30T13:52:20.851213+00:00",
   "funn": [
+    {
+      "tittel": "Perm med diverse kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475081060",
+      "funnet": "2026-08-30T13:52:20.849329+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort gengar",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475082062",
+      "funnet": "2026-08-30T13:52:19.915434+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling selges",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475059611",
       "funnet": "2026-08-30T11:42:17.586417+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort  4 Mimikyu-kort - fri frakt med Fiks ferdig",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475058972",
-      "funnet": "2026-08-30T11:40:22.329315+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Digimon samlekort 1999",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475057450",
-      "funnet": "2026-08-30T11:38:15.957848+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
