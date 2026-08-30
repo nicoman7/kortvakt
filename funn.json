@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T14:28:21.473772+00:00",
+  "sist_sjekket": "2026-08-30T14:30:38.210141+00:00",
   "funn": [
+    {
+      "tittel": "Topps Lamine Yamal 100 club fotballkort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475088577",
+      "funnet": "2026-08-30T14:30:38.208470+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon pakker med kun Holos",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475087862",
+      "funnet": "2026-08-30T14:30:37.631473+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samling med V, VMAX og fulle art-kort",
       "pris": 123,
@@ -1182,22 +1198,6 @@
       "pris": 1400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475062631",
       "funnet": "2026-08-30T11:58:20.338474+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Desmond Bane rookie basketballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475061802",
-      "funnet": "2026-08-30T11:58:19.460065+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dialga LV.X holografisk",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474980688",
-      "funnet": "2026-08-30T11:58:18.550398+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
