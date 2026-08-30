@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T00:38:13.827821+00:00",
+  "sist_sjekket": "2026-08-30T00:40:25.428361+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474493546",
+      "funnet": "2026-08-30T00:40:25.426187+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "EP13 Mystery at the Lighthouse – Pokémon Topps Series 2 – 2000",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468553043",
       "funnet": "2026-08-29T20:34:21.293240+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dratini #26 Pokemon Base Set",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475004493",
-      "funnet": "2026-08-29T20:34:20.283739+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
