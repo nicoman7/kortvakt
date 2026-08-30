@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T14:52:18.303169+00:00",
+  "sist_sjekket": "2026-08-30T14:54:17.069527+00:00",
   "funn": [
+    {
+      "tittel": "Mange ATEEZ albumer (flere sider)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475086706",
+      "funnet": "2026-08-30T14:54:17.067750+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Psyduck, Pikachu og Pichu samlekort pakke",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475093052",
+      "funnet": "2026-08-30T14:54:16.764032+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474978482",
       "funnet": "2026-08-30T12:12:16.236265+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holo pokemón kort (BUD)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460976545",
-      "funnet": "2026-08-30T12:08:24.239939+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Latios - holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474978817",
-      "funnet": "2026-08-30T12:08:22.936196+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
