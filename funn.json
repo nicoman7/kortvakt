@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T16:38:18.578230+00:00",
+  "sist_sjekket": "2026-08-30T16:40:26.130382+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475107263",
+      "funnet": "2026-08-30T16:40:26.128769+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Manchester City bunke",
+      "pris": 360,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475108449",
+      "funnet": "2026-08-30T16:40:25.365267+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FIFA World Class offisielt klistremerke album selges!",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475085410",
       "funnet": "2026-08-30T14:08:18.045830+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ulike Vintage Pokémon Kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475073131",
-      "funnet": "2026-08-30T14:08:17.678451+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Charizard EX japansk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475085741",
-      "funnet": "2026-08-30T14:08:17.285724+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
