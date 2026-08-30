@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T06:02:17.245563+00:00",
+  "sist_sjekket": "2026-08-30T06:04:14.935047+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475015782",
+      "funnet": "2026-08-30T06:04:14.932921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475007477",
       "funnet": "2026-08-29T21:32:20.570386+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling - Unown Neo  Discovery En",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475007129",
-      "funnet": "2026-08-29T21:32:19.986381+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
