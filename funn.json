@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T15:50:24.415963+00:00",
+  "sist_sjekket": "2026-08-30T15:52:16.939903+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475101124",
+      "funnet": "2026-08-30T15:52:16.937970+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Lugia VSTAR 202/195 Secret Rare Silver Tempest kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475101525",
+      "funnet": "2026-08-30T15:52:16.352430+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cornerstone Mask Ogerpon ex #58 Pokemon Prismatic Evolutions",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-08-30T12:46:16.265018+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort , alle er Holo selges samlet",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475069917",
-      "funnet": "2026-08-30T12:42:18.583036+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Poliwrath 9/75 Neo Discovery Holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463017411",
-      "funnet": "2026-08-30T12:40:23.676945+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
