@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T15:14:16.955412+00:00",
+  "sist_sjekket": "2026-08-30T15:16:16.587139+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-08-30T15:16:16.585363+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sjeldne pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474493546",
+      "funnet": "2026-08-30T15:16:15.877996+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gx, ex, vmax, v, store kort",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475065731",
       "funnet": "2026-08-30T12:18:17.102621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474976905",
-      "funnet": "2026-08-30T12:18:16.876835+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475065633",
-      "funnet": "2026-08-30T12:18:16.301848+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
