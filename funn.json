@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T06:28:14.154413+00:00",
+  "sist_sjekket": "2026-08-30T06:30:37.250909+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475017105",
+      "funnet": "2026-08-30T06:30:37.248989+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Houndstone EX Box.",
       "pris": 775,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475007924",
       "funnet": "2026-08-29T21:38:24.686990+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa - Wild Jungle - 2024-25 Topps Chrome Bundesliga",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468555273",
-      "funnet": "2026-08-29T21:38:24.294567+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
