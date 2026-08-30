@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T21:04:22.738805+00:00",
+  "sist_sjekket": "2026-08-30T21:06:21.840416+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome UCC 25-26 Chelsea, Atletico & Inter Base Pakke",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475141706",
+      "funnet": "2026-08-30T21:06:21.838772+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon gradert/sealed/single",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472961715",
+      "funnet": "2026-08-30T21:06:20.916348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering samling med kort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-30T19:28:16.101841+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Borussia Dortmund fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475132053",
-      "funnet": "2026-08-30T19:26:17.695729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - engelsk & japansk",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
-      "funnet": "2026-08-30T19:24:24.723050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
