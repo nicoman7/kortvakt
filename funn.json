@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T20:36:15.484253+00:00",
+  "sist_sjekket": "2026-08-30T20:38:18.365452+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Dragonite V kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475139416",
+      "funnet": "2026-08-30T20:38:18.363736+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rose #71 Pokemon Shining Fates",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/323220590",
+      "funnet": "2026-08-30T20:38:17.393673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort bundle - celebrations",
       "pris": 140,
@@ -1182,22 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475129532",
       "funnet": "2026-08-30T19:00:48.808109+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475129089",
-      "funnet": "2026-08-30T18:58:15.855893+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Golbat Air Slash",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475129293",
-      "funnet": "2026-08-30T18:58:15.286813+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
