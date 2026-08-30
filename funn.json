@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T12:20:30.836316+00:00",
+  "sist_sjekket": "2026-08-30T12:22:15.702072+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-30T12:22:15.700238+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mega Lopunny & Jigglypuff GX Tag Team 216/236",
       "pris": 1499,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475045738",
       "funnet": "2026-08-30T10:22:16.472920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon go kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475045678",
-      "funnet": "2026-08-30T10:22:15.608302+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
