@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T06:24:13.732897+00:00",
+  "sist_sjekket": "2026-08-30T06:26:15.134660+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Houndstone EX Box.",
+      "pris": 775,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468406961",
+      "funnet": "2026-08-30T06:26:15.132920+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "TCG Pokemon Enhanced 2-pack blister. Vilebloom pack x2",
       "pris": 349,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468555273",
       "funnet": "2026-08-29T21:38:24.294567+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL VM 26 kort selges/byttes. Oppdatert liste 30-08-2026",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475007945",
-      "funnet": "2026-08-29T21:38:23.495871+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
