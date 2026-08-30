@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-30T09:44:16.995987+00:00",
+  "sist_sjekket": "2026-08-30T09:46:19.800223+00:00",
   "funn": [
+    {
+      "tittel": "One Piece 32x sr kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475031797",
+      "funnet": "2026-08-30T09:46:19.798380+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Radiant Hisuian Sneasler 123/196 - Pokemon Lost Origin",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475039749",
+      "funnet": "2026-08-30T09:46:18.836763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-30T09:46:18.018463+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Centiskorch VMAX 034/189 - Pokemon Darkness Ablaze",
       "pris": 39,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475018804",
       "funnet": "2026-08-30T07:00:51.568249+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon tom (long stem pack) boosterpakke fra base set med Charizard🔥 motiv",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475017994",
-      "funnet": "2026-08-30T07:00:50.688611+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – samling med 8 kort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475018606",
-      "funnet": "2026-08-30T06:54:18.623039+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortspill kinesisk kortboks",
-      "pris": 189,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475018550",
-      "funnet": "2026-08-30T06:54:17.768923+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
