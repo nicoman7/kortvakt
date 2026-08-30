@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T14:48:21.689523+00:00",
+  "sist_sjekket": "2026-08-30T14:50:27.375082+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475092462",
+      "funnet": "2026-08-30T14:50:27.373122+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pio Esposito RC youthquake /99 topps chrome",
       "pris": 220,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474978817",
       "funnet": "2026-08-30T12:08:22.936196+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ja Morant NBA samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475064277",
-      "funnet": "2026-08-30T12:08:22.405857+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
