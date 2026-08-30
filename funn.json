@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T08:16:17.078987+00:00",
+  "sist_sjekket": "2026-08-30T08:18:19.958296+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475024949",
+      "funnet": "2026-08-30T08:18:19.956670+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Disney Lorcana Lilo kort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475027258",
+      "funnet": "2026-08-30T08:18:19.060962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana Dumbo kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-08-30T00:22:15.670115+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex 006/165 Pokémon 151 Japanese – TAG 10",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475012106",
-      "funnet": "2026-08-30T00:12:17.333444+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard - Pokemon GO (PGO)",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472341435",
-      "funnet": "2026-08-30T00:04:16.329270+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
