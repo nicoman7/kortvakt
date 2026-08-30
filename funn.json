@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T13:48:18.821026+00:00",
+  "sist_sjekket": "2026-08-30T13:50:21.961926+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475079969",
+      "funnet": "2026-08-30T13:50:21.959914+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League fotballkort lot – Gravenberch, Estevão, Vidic m.fl.",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475057450",
       "funnet": "2026-08-30T11:38:15.957848+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 57/108 (EX Power Keepers, 2007)",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475058699",
-      "funnet": "2026-08-30T11:38:15.253282+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
