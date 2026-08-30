@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-30T14:06:17.359306+00:00",
+  "sist_sjekket": "2026-08-30T14:08:18.432707+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Samling 30/40/50kr per stk",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475084255",
+      "funnet": "2026-08-30T14:08:18.430904+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Prizm Global Reach Antonio Nusa fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475085410",
+      "funnet": "2026-08-30T14:08:18.045830+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ulike Vintage Pokémon Kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475073131",
+      "funnet": "2026-08-30T14:08:17.678451+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mega Charizard EX japansk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475085741",
+      "funnet": "2026-08-30T14:08:17.285724+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax FC Barcelona kortpakke Messi og Xavi",
       "pris": 750,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475059118",
       "funnet": "2026-08-30T11:50:27.074185+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort bunt med ulike kort og typer",
-      "pris": 820,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475060122",
-      "funnet": "2026-08-30T11:50:26.654916+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldne pokemonkort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474493546",
-      "funnet": "2026-08-30T11:50:25.811932+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Ex 057/191",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475060870",
-      "funnet": "2026-08-30T11:48:16.709377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Magby Mysterious Treasures (88) Reverse Holofoil",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451434449",
-      "funnet": "2026-08-30T11:46:20.676190+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
