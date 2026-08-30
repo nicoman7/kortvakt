@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T05:48:29.311526+00:00",
+  "sist_sjekket": "2026-08-30T05:50:25.581602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475014865",
+      "funnet": "2026-08-30T05:50:25.579663+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon gradert/sealed/single",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475007129",
       "funnet": "2026-08-29T21:32:19.986381+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort fra diverse sett",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475007552",
-      "funnet": "2026-08-29T21:32:19.304409+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
