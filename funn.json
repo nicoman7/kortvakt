@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-30T06:18:14.028759+00:00",
+  "sist_sjekket": "2026-08-30T06:20:24.402334+00:00",
   "funn": [
+    {
+      "tittel": "TCG Pokemon Enhanced 2-pack blister. Vilebloom pack x2",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468410366",
+      "funnet": "2026-08-30T06:20:24.400360+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon TCG Bloodmoon Ursaluna EX Box",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468409340",
+      "funnet": "2026-08-30T06:20:23.696826+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2022 Extra Sticker Vinícius Júnior Brasil",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474935567",
+      "funnet": "2026-08-30T06:20:23.108947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Turbo Attax Official Formula 1 Trading Card Game 2022",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475007945",
       "funnet": "2026-08-29T21:38:23.495871+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling 143 stk Obs teksten er på Spansk",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475008084",
-      "funnet": "2026-08-29T21:38:22.606519+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Collection Series 2",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475007845",
-      "funnet": "2026-08-29T21:38:22.248596+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Mewtwo EX, Gardevoir m.m.",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475007876",
-      "funnet": "2026-08-29T21:34:14.265649+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
