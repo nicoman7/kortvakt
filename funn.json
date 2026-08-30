@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T07:24:16.132832+00:00",
+  "sist_sjekket": "2026-08-30T07:26:16.610843+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Haunter fra 2010",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475020807",
+      "funnet": "2026-08-30T07:26:16.609391+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Match Attax limited edition",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475021262",
+      "funnet": "2026-08-30T07:26:15.773058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Martin Ødegaard, The Arsenal Insert Topps Chrome",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-29T22:24:17.705921+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samlekort, fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/250077884",
-      "funnet": "2026-08-29T22:24:17.145411+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475008698",
-      "funnet": "2026-08-29T22:24:16.552153+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
