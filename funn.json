@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T22:36:18.457384+00:00",
+  "sist_sjekket": "2026-08-30T22:38:17.238253+00:00",
   "funn": [
+    {
+      "tittel": "Mimikyu samling",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475145602",
+      "funnet": "2026-08-30T22:38:17.236107+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu selges samlet💛",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475137925",
       "funnet": "2026-08-30T20:18:21.196860+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ninetales",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475137717",
-      "funnet": "2026-08-30T20:18:20.776388+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
