@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T12:30:46.214607+00:00",
+  "sist_sjekket": "2026-08-30T12:32:19.357856+00:00",
   "funn": [
+    {
+      "tittel": "Fotball-kort. Vil du kjøpe?",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/207201486",
+      "funnet": "2026-08-30T12:32:19.356418+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo 70 HP",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475008968",
+      "funnet": "2026-08-30T12:32:18.433321+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Adrenalyn World Cup 2018 Russia Tin NORDIC fotballkort samlerkort",
       "pris": 289,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475049619",
       "funnet": "2026-08-30T10:44:19.520551+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eredivisie fotballkort samling Nederland 15 uåpnede pakker",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475049732",
-      "funnet": "2026-08-30T10:44:18.526891+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Squirtle 2023 SV2a japansk Art Rare PSA 10",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475048542",
-      "funnet": "2026-08-30T10:40:22.374385+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
