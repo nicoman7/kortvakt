@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T08:30:35.718175+00:00",
+  "sist_sjekket": "2026-08-30T08:32:18.361261+00:00",
   "funn": [
+    {
+      "tittel": "Arsenal fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475029090",
+      "funnet": "2026-08-30T08:32:18.359043+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor Mega Lucario ex samlerplakat (Pokémon TCG: Ascended Heroes)",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475012505",
       "funnet": "2026-08-30T01:14:19.234304+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pinsir δ 9/101 – EX Dragon Frontiers – Rare – 2006",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475012503",
-      "funnet": "2026-08-30T01:10:29.558584+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
