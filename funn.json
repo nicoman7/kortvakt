@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-30T02:06:21.309426+00:00",
+  "sist_sjekket": "2026-08-30T02:08:18.214447+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-30T02:08:18.212660+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Uåpnet Upper Deck Baseball 1993 Series One – 15 kort",
       "pris": 69,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475005311",
       "funnet": "2026-08-29T20:46:19.301055+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eevee GX pokemon kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475004877",
-      "funnet": "2026-08-29T20:44:20.895926+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
