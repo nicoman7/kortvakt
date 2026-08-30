@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-30T10:10:27.995784+00:00",
+  "sist_sjekket": "2026-08-30T10:12:26.377861+00:00",
   "funn": [
+    {
+      "tittel": "Søte pokemon kort m fri frakt",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475043955",
+      "funnet": "2026-08-30T10:12:26.376473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort samling – ca. 200 kort – holo/reverse holo",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475043939",
+      "funnet": "2026-08-30T10:12:25.558316+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Rayquaza EX samlekort holo",
       "pris": 900,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/397277735",
       "funnet": "2026-08-30T07:58:17.994633+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Reverse Pokeball - Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/397278428",
-      "funnet": "2026-08-30T07:58:17.631090+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475022981",
-      "funnet": "2026-08-30T07:56:13.974907+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
