@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T13:48:21.404781+00:00",
+  "sist_sjekket": "2026-08-31T13:50:26.854997+00:00",
   "funn": [
+    {
+      "tittel": "John arne Riise  kort. Liverpool",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/387272457",
+      "funnet": "2026-08-31T13:50:26.852756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Wonderkids Max Dowman Arsenal",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475185070",
       "funnet": "2026-08-31T11:24:18.280190+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
-      "pris": 1111,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
-      "funnet": "2026-08-31T11:24:17.240258+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
