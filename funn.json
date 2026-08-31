@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T13:56:17.407706+00:00",
+  "sist_sjekket": "2026-08-31T13:58:16.630283+00:00",
   "funn": [
+    {
+      "tittel": "Topps Gabriel Martinelli Arsenal FC",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475201725",
+      "funnet": "2026-08-31T13:58:16.628252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Ousmane Dembélé",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475185050",
       "funnet": "2026-08-31T11:30:41.331398+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-08-31T11:26:20.713940+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
