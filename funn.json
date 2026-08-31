@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-31T09:52:28.488131+00:00",
+  "sist_sjekket": "2026-08-31T09:54:16.670764+00:00",
   "funn": [
+    {
+      "tittel": "Staryu 118/091 – Paldean Fates – Shiny Rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475175228",
+      "funnet": "2026-08-31T09:54:16.668884+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Toxel 140/091 – Paldean Fates – Shiny Rare",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475175441",
+      "funnet": "2026-08-31T09:54:16.240161+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wugtrio 122/091 – Paldean Fates – Shiny Rare",
       "pris": 60,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468639703",
       "funnet": "2026-08-30T23:12:15.975918+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon kort GX/EX/Mega/Vmax og full art",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474702361",
-      "funnet": "2026-08-30T23:10:21.522912+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raikou 22/64 – Neo Revelation – Rare – WOTC – 2001",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475146323",
-      "funnet": "2026-08-30T23:02:20.848264+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
