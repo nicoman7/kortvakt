@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-31T20:32:18.055164+00:00",
+  "sist_sjekket": "2026-08-31T20:34:17.104383+00:00",
   "funn": [
+    {
+      "tittel": "Simisear VSTAR #GG37 Pokemon Crown Zenith",
+      "pris": 390,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475218740",
+      "funnet": "2026-08-31T20:34:17.101303+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon fossil vintage",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475244710",
+      "funnet": "2026-08-31T20:34:16.425124+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-08-31T20:34:15.796961+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG kort",
       "pris": 350,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-31T18:34:18.857487+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Regigigas Reverse Holo Pokemon Stormfront",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475232943",
-      "funnet": "2026-08-31T18:34:18.181709+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Zygarde",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475232840",
-      "funnet": "2026-08-31T18:34:17.884222+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lugia holo japansk kort CGC 7.5",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475232903",
-      "funnet": "2026-08-31T18:34:17.212933+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
