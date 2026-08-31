@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T06:20:22.975916+00:00",
+  "sist_sjekket": "2026-08-31T06:22:15.034983+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475156409",
+      "funnet": "2026-08-31T06:22:15.033540+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arsenal fotballkort - Merlins Premier Gold 99 - Kvantumsrabatt",
       "pris": 55,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475140762",
       "funnet": "2026-08-30T20:52:17.142834+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Patrick Bamford 42/299 Yellow sparkle #130 Topps Premier League 2025/26",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/443421222",
-      "funnet": "2026-08-30T20:52:16.742968+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
