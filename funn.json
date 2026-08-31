@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T05:54:15.213163+00:00",
+  "sist_sjekket": "2026-08-31T05:56:15.261365+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475155051",
+      "funnet": "2026-08-31T05:56:15.259366+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort boosterpakker Chaos Rising og Pitch Black blisterpakker",
       "pris": 478,
@@ -1190,14 +1198,6 @@
       "pris": 59,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475140214",
       "funnet": "2026-08-30T20:46:20.956045+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gem Pack Vol.5 Cetita 27/087 Art Rare Holo CGC 9",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475140368",
-      "funnet": "2026-08-30T20:46:20.462239+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
