@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-31T16:34:17.023232+00:00",
+  "sist_sjekket": "2026-08-31T16:36:16.224340+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475218120",
+      "funnet": "2026-08-31T16:36:16.222378+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Disney Lorcana samling – Shimmering Skies & Into the Inklands + 12-lommers perm",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475217377",
+      "funnet": "2026-08-31T16:36:15.636123+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lesserafim pureflow album",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475219674",
+      "funnet": "2026-08-31T16:36:15.005736+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pureflow album",
       "pris": 125,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-31T13:24:17.159729+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Calyrex VMAX FA/HR samlekort 2021 PSA 10",
-      "pris": 420,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475198000",
-      "funnet": "2026-08-31T13:20:26.736318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon EX Mawile Reverse Foil kort 2007 PSA-slab",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475197561",
-      "funnet": "2026-08-31T13:18:14.491748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling med kortperm og diverse kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475197472",
-      "funnet": "2026-08-31T13:16:18.555012+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
