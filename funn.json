@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T04:58:16.948826+00:00",
+  "sist_sjekket": "2026-08-31T05:00:51.018454+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Growlithe og Perrin sir selges",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475149292",
+      "funnet": "2026-08-31T05:00:51.016384+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Star Wars Trading Card Game (ubrukte kort)",
       "pris": 130,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-30T20:44:16.799476+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard V samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475139973",
-      "funnet": "2026-08-30T20:42:17.577557+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
