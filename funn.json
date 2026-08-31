@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T02:10:22.925661+00:00",
+  "sist_sjekket": "2026-08-31T02:12:15.123207+00:00",
   "funn": [
+    {
+      "tittel": "SELGER FOTBALLKORT! TA KONTAKT",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474624401",
+      "funnet": "2026-08-31T02:12:15.121365+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon samle pakke",
       "pris": 1800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475139930",
       "funnet": "2026-08-30T20:40:26.440272+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dragonite VSTAR kort mildly played",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475139854",
-      "funnet": "2026-08-30T20:40:25.860074+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
