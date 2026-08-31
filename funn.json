@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T21:56:23.921490+00:00",
+  "sist_sjekket": "2026-08-31T21:58:16.892964+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Pokémon kort GX/EX/Mega/Vmax og full art",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474702361",
+      "funnet": "2026-08-31T21:58:16.891171+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Adaman #153/128 SR Pokemon Chinese CS5bC",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-31T19:26:17.727901+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon TCG: Forskjellige sjeldne kort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475237914",
-      "funnet": "2026-08-31T19:26:17.115821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
