@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T00:04:14.266884+00:00",
+  "sist_sjekket": "2026-08-31T00:06:14.862280+00:00",
   "funn": [
+    {
+      "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
+      "pris": 1111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
+      "funnet": "2026-08-31T00:06:14.860458+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mystery packs 16 stk. mulighet for GOD PACK!",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-30T20:38:18.363736+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rose #71 Pokemon Shining Fates",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/323220590",
-      "funnet": "2026-08-30T20:38:17.393673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
