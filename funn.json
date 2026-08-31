@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-08-31T20:30:42.753830+00:00",
+  "sist_sjekket": "2026-08-31T20:32:18.055164+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475244633",
+      "funnet": "2026-08-31T20:32:18.053333+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mew Ex [Metal] #205 Pokemon Scarlet & Violet 151",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475244621",
+      "funnet": "2026-08-31T20:32:17.395439+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlemappper til kort 10,5 x 8,5 cm",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475244631",
+      "funnet": "2026-08-31T20:32:16.758388+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 31/8",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-08-31T20:32:15.897318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort til Johan",
       "pris": 590,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-08-31T18:34:17.212933+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu ex 122/106 - Japansk Super Electric Breaker – CGC Pristine 10",
-      "pris": 1399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475232650",
-      "funnet": "2026-08-31T18:30:43.625162+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Phantasmal Flames Elite Trainer Box",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475231552",
-      "funnet": "2026-08-31T18:28:16.291483+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn fotballkort Russia 2018",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461654936",
-      "funnet": "2026-08-31T18:24:15.984392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Breakpoint TCG",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475231103",
-      "funnet": "2026-08-31T18:22:18.883178+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
