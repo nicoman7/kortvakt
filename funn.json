@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T14:02:19.506540+00:00",
+  "sist_sjekket": "2026-08-31T14:04:21.528215+00:00",
   "funn": [
+    {
+      "tittel": "Panini Petar Sučić Master Rookie f",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475202447",
+      "funnet": "2026-08-31T14:04:21.526111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Latias EX HP 280 —300 + FIFA 365 Collector’s album",
       "pris": 120,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475186236",
       "funnet": "2026-08-31T11:36:15.482035+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pro Precision Robbie Fowler Liverpool FC samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475186001",
-      "funnet": "2026-08-31T11:34:18.332356+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
