@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T13:14:16.156235+00:00",
+  "sist_sjekket": "2026-08-31T13:16:18.556746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med kortperm og diverse kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475197472",
+      "funnet": "2026-08-31T13:16:18.555012+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Melony Crown Zenith Galarian Gallery holo kort CCG 10",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475180279",
       "funnet": "2026-08-31T10:42:18.290060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468419072",
-      "funnet": "2026-08-31T10:42:17.371659+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
