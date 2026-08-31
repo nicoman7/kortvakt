@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T22:28:19.624902+00:00",
+  "sist_sjekket": "2026-08-31T22:30:37.498827+00:00",
   "funn": [
+    {
+      "tittel": "Japanske Pokemon Kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475249635",
+      "funnet": "2026-08-31T22:30:37.496804+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "PSA 10 Mega Charizard X ex #023 Ultra-Premium Collection 2025 – GEM MINT",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475238989",
       "funnet": "2026-08-31T19:30:39.688243+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 3 Gen 3",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475238920",
-      "funnet": "2026-08-31T19:30:38.868632+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
