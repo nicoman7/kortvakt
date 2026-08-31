@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T09:04:16.255968+00:00",
+  "sist_sjekket": "2026-08-31T09:06:16.520543+00:00",
   "funn": [
+    {
+      "tittel": "Charmander #10 Topps selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475170496",
+      "funnet": "2026-08-31T09:06:16.518422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana kort – Madam Mim – Out of the Broom Closet",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/420470757",
       "funnet": "2026-08-30T22:22:21.431383+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reuniclus #212 - Pokemon Black Bolt White Flare Promo",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475145215",
-      "funnet": "2026-08-30T22:22:20.538779+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
