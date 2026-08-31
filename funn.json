@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-31T14:18:18.256805+00:00",
+  "sist_sjekket": "2026-08-31T14:20:25.519911+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ETBs og Bundle selges",
+      "pris": 1050,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475203368",
+      "funnet": "2026-08-31T14:20:25.517875+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard ex Super-Premium Collection – Sealed",
+      "pris": 1599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475203971",
+      "funnet": "2026-08-31T14:20:24.742098+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
       "pris": 123,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-31T11:44:15.761764+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mewtwo Pokémon kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466500613",
-      "funnet": "2026-08-31T11:44:15.112126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TAG team Pokémon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466504001",
-      "funnet": "2026-08-31T11:44:14.537020+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
