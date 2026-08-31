@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-31T22:56:19.818001+00:00",
+  "sist_sjekket": "2026-08-31T22:58:21.119777+00:00",
   "funn": [
+    {
+      "tittel": "Weavile [Reverse Holo] #74 Pokemon Ultra Prism",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424317723",
+      "funnet": "2026-08-31T22:58:21.117907+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sneasel [Reverse Holo] #60 Pokemon Steam Siege",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/377926881",
+      "funnet": "2026-08-31T22:58:20.291739+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Trubbish [Reverse Holo] #110 Pokemon Vivid Voltage",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424318794",
+      "funnet": "2026-08-31T22:58:19.429165+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aggron #123 Holo Pokemon Darkness Ablaze",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-08-31T19:32:19.190171+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Pansear",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475239216",
-      "funnet": "2026-08-31T19:32:18.850182+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perfect Order Booster Bundle",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475239176",
-      "funnet": "2026-08-31T19:32:18.218066+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Vulpix samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475239259",
-      "funnet": "2026-08-31T19:32:17.524829+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
