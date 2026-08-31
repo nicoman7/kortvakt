@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T04:46:15.941818+00:00",
+  "sist_sjekket": "2026-08-31T04:48:17.626944+00:00",
   "funn": [
+    {
+      "tittel": "Star Wars Trading Card Game (ubrukte kort)",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/423301294",
+      "funnet": "2026-08-31T04:48:17.624976+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Lillie’s Full Force 230/236",
       "pris": 1700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-30T20:42:17.577557+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Select Paolo Banchero rookie kort Orlando Magic PRIZM",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475139990",
-      "funnet": "2026-08-30T20:42:16.722032+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
