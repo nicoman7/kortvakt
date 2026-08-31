@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-08-31T12:42:17.726408+00:00",
+  "sist_sjekket": "2026-08-31T12:44:19.626101+00:00",
   "funn": [
+    {
+      "tittel": "Dartrix #SV3 Pokemon Hidden Fates",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475187476",
+      "funnet": "2026-08-31T12:44:19.624370+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Blissey",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475194338",
+      "funnet": "2026-08-31T12:44:19.146738+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Chikorita",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475194440",
+      "funnet": "2026-08-31T12:44:18.249743+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort – liten samling med 5 kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475194197",
+      "funnet": "2026-08-31T12:44:17.839853+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon gradert/sealed/single",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472961715",
+      "funnet": "2026-08-31T12:44:16.928752+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Garchomp #SV40 Pokemon Hidden Fates",
       "pris": 100,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-08-31T09:28:16.906316+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Alakazam holo base sett 1/102",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475170409",
-      "funnet": "2026-08-31T09:26:17.025223+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NFL Tom Brady Super Bowl MVPs samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475171968",
-      "funnet": "2026-08-31T09:26:16.624299+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ron Mercer refractor basketballkort - Bowman’s Best «Best Picks»",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475172423",
-      "funnet": "2026-08-31T09:26:16.192163+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Brandon Boston Jr. nummerert rookie basketballkort - Elite",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474538419",
-      "funnet": "2026-08-31T09:20:26.723926+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers + Album",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-08-31T09:20:26.428922+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
