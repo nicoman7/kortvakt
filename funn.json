@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T05:16:16.271545+00:00",
+  "sist_sjekket": "2026-08-31T05:18:23.780608+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475149758",
+      "funnet": "2026-08-31T05:18:23.778715+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Growlithe og Perrin sir selges",
       "pris": 1750,
@@ -1190,14 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475140220",
       "funnet": "2026-08-30T20:44:17.380851+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Gradert / Raw",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474430236",
-      "funnet": "2026-08-30T20:44:16.799476+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
