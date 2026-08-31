@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T18:42:17.376819+00:00",
+  "sist_sjekket": "2026-08-31T18:44:18.929800+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon holo kort fra ulike sett",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475233853",
+      "funnet": "2026-08-31T18:44:18.928181+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Team of the Season fotballkort Harry Kane 2/99",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-31T16:38:16.121870+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475218120",
-      "funnet": "2026-08-31T16:36:16.222378+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
