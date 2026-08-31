@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T21:28:18.073170+00:00",
+  "sist_sjekket": "2026-08-31T21:30:38.757999+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475247938",
+      "funnet": "2026-08-31T21:30:38.755938+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475237298",
       "funnet": "2026-08-31T19:14:15.917130+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan's Ho-Oh Ex #230 Pokemon Destined Rivals",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475236681",
-      "funnet": "2026-08-31T19:10:24.768268+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
