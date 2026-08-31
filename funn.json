@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T13:52:19.712694+00:00",
+  "sist_sjekket": "2026-08-31T13:54:17.838388+00:00",
   "funn": [
+    {
+      "tittel": "Panini Ousmane Dembélé",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475201525",
+      "funnet": "2026-08-31T13:54:17.836268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Masse Pokémon kort 5kr/stk",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
       "funnet": "2026-08-31T11:26:20.713940+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enamorus #180 Pokemon Twilight Masquerade PSA 10",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475185032",
-      "funnet": "2026-08-31T11:24:20.531123+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
