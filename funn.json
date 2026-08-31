@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-08-31T16:32:20.599753+00:00",
+  "sist_sjekket": "2026-08-31T16:34:17.023232+00:00",
   "funn": [
+    {
+      "tittel": "Pureflow album",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475219096",
+      "funnet": "2026-08-31T16:34:17.021370+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Yu-Gi-Oh samling med monsterkort i perm",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475216387",
+      "funnet": "2026-08-31T16:34:16.599005+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Kazuha pureflow album",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475219423",
+      "funnet": "2026-08-31T16:34:15.661456+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary - First Partner Vol.1 (Simplified Chinese)",
       "pris": 1600,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475197472",
       "funnet": "2026-08-31T13:16:18.555012+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Melony Crown Zenith Galarian Gallery holo kort CCG 10",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475197343",
-      "funnet": "2026-08-31T13:14:16.154571+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dodrio #200 Pokemon Paldean Fates",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475188986",
-      "funnet": "2026-08-31T13:14:15.584362+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pelipper #204 Pokemon Paldean Fates",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475189152",
-      "funnet": "2026-08-31T13:12:19.388721+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
