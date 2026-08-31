@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-08-31T18:38:19.414874+00:00",
+  "sist_sjekket": "2026-08-31T18:40:25.579317+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Deoxys Temple of Anger 1st Edition PSA 8",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475233407",
+      "funnet": "2026-08-31T18:40:25.577514+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Kabutops Reverse Holo Pokemon Majestic Dawn",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475233743",
+      "funnet": "2026-08-31T18:40:25.200932+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kangashkhan Reverse Holo Pokemon Majestic Dawn",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-08-31T16:36:15.005736+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pureflow album",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475219096",
-      "funnet": "2026-08-31T16:34:17.021370+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh samling med monsterkort i perm",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475216387",
-      "funnet": "2026-08-31T16:34:16.599005+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
