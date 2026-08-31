@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-08-31T00:16:18.205902+00:00",
+  "sist_sjekket": "2026-08-31T00:18:15.332435+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Prismatic Booster Bundle",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475147406",
+      "funnet": "2026-08-31T00:18:15.330285+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ettertraktete PSA-graderte Charizard Pokemonkort vurderes solgt",
       "pris": 1111,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-08-30T20:40:25.513595+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dragonite V kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475139416",
-      "funnet": "2026-08-30T20:38:18.363736+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
