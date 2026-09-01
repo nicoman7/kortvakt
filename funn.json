@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T10:34:16.447986+00:00",
+  "sist_sjekket": "2026-09-01T10:36:16.713746+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 173/165",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475279073",
+      "funnet": "2026-09-01T10:36:16.711716+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mystery Pack – Pikachu/Charizard chase – min. verdi 900 kr",
       "pris": 1199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475260847",
       "funnet": "2026-09-01T07:06:21.243780+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard kort Pokémon GO holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475260721",
-      "funnet": "2026-09-01T07:06:20.393449+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
