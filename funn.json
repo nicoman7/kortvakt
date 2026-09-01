@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T19:56:18.424837+00:00",
+  "sist_sjekket": "2026-09-01T19:58:20.739625+00:00",
   "funn": [
+    {
+      "tittel": "SELGER FOTBALLKORT! TA KONTAKT",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474624401",
+      "funnet": "2026-09-01T19:58:20.738066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Sett av Vulpix og Ninetales",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468559647",
       "funnet": "2026-09-01T18:44:25.742027+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clefairy illustration rare",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468560380",
-      "funnet": "2026-09-01T18:44:24.945650+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
