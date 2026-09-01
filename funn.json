@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T16:54:20.047780+00:00",
+  "sist_sjekket": "2026-09-01T16:56:18.415228+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475313928",
+      "funnet": "2026-09-01T16:56:18.413329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Alakazam ex 201/165 – Special Illustration Rare – 151",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475313757",
+      "funnet": "2026-09-01T16:56:17.941212+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-01T13:46:15.615031+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Tera Gyarados ex gullkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475296154",
-      "funnet": "2026-09-01T13:42:21.558848+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gyarados 11/144 Skyridge, non holo",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475294886",
-      "funnet": "2026-09-01T13:40:25.144447+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
