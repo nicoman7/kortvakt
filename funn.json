@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-01T15:26:21.878402+00:00",
+  "sist_sjekket": "2026-09-01T15:28:22.425105+00:00",
   "funn": [
+    {
+      "tittel": "Yu-Gi-Oh kort Rescue Rabbit og Creepy Coney",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475304429",
+      "funnet": "2026-09-01T15:28:22.423234+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome Sapphire 25-26 Tijjani Reijnders",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475305397",
+      "funnet": "2026-09-01T15:28:21.376063+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the gathing kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475299574",
+      "funnet": "2026-09-01T15:28:20.466721+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Bulbasaur pokemonkort",
       "pris": 850,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-01T12:14:19.519001+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-01T12:14:18.681209+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Panini Prizm FIFA Gonzalo Garcia Prizm Real Madrid",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475288015",
-      "funnet": "2026-09-01T12:12:17.415126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GO / STRAY KIDS FANS GLOBAL VIDEO CALL KORT",
-      "pris": 38,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475287191",
-      "funnet": "2026-09-01T12:12:16.846562+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
