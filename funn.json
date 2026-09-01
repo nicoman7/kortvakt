@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T09:10:34.315762+00:00",
+  "sist_sjekket": "2026-09-01T09:12:19.383414+00:00",
   "funn": [
+    {
+      "tittel": "Panini LIV Golf",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475270915",
+      "funnet": "2026-09-01T09:12:19.381255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Brentford samlekort",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475252811",
       "funnet": "2026-09-01T04:20:24.750551+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Lorcana kortpakke – 17 glinsende Foils inkl super rare",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475251672",
-      "funnet": "2026-09-01T02:48:15.588601+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
