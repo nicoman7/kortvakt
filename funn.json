@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T06:56:20.964874+00:00",
+  "sist_sjekket": "2026-09-01T06:58:21.221089+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Audino Black Bolt",
+      "pris": 430,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475247542",
+      "funnet": "2026-09-01T06:58:21.219232+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Rotom ex #126 Pokemon Phantasmal Flames",
       "pris": 220,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475244986",
       "funnet": "2026-08-31T20:36:15.986142+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Simisear VSTAR #GG37 Pokemon Crown Zenith",
-      "pris": 390,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475218740",
-      "funnet": "2026-08-31T20:34:17.101303+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
