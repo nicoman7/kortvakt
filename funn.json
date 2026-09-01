@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T16:40:26.216488+00:00",
+  "sist_sjekket": "2026-09-01T16:42:18.918938+00:00",
   "funn": [
+    {
+      "tittel": "Skeledirge ex 087/073 SR - Pokemon Japanese Triplet Beat",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475312039",
+      "funnet": "2026-09-01T16:42:18.916812+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Sett av Galarian Articuno, Zapdos, and Moltres",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-01T13:24:17.462946+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mega Lopunny EX",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475294390",
-      "funnet": "2026-09-01T13:22:18.246705+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
