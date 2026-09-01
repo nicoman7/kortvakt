@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T21:34:14.768537+00:00",
+  "sist_sjekket": "2026-09-01T21:36:19.241184+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort/ Zlatan Ibrahimovic/ 2 stk / samleobjekt",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475337554",
+      "funnet": "2026-09-01T21:36:19.239215+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kortlot Ditto Pikachu og Squirtle m.fl.",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446571021",
       "funnet": "2026-09-01T19:12:19.589316+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446577582",
-      "funnet": "2026-09-01T19:12:19.219547+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
