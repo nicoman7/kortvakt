@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T22:04:14.145350+00:00",
+  "sist_sjekket": "2026-09-01T22:06:27.548946+00:00",
   "funn": [
+    {
+      "tittel": "Mega Evolution Single Kort Salg",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475332602",
+      "funnet": "2026-09-01T22:06:27.547096+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - Sett av Meowth & Persian",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 1999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475327546",
       "funnet": "2026-09-01T19:14:23.004251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475285715",
-      "funnet": "2026-09-01T19:14:21.918606+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
