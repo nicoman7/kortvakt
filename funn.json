@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-01T11:18:18.505599+00:00",
+  "sist_sjekket": "2026-09-01T11:20:37.263145+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort (ishockey kort)",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475282505",
+      "funnet": "2026-09-01T11:20:37.261629+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort av Neymar Jr. selges!  Nummerert 68/99",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475281432",
+      "funnet": "2026-09-01T11:20:36.897999+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps fotballkort Jean-Philippe Mateta Crystal Palace",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475283239",
+      "funnet": "2026-09-01T11:20:36.474843+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon energy kort, selges samlet, 500+ kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475283107",
+      "funnet": "2026-09-01T11:20:36.166143+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Match Attax Adam Wharton Clutch Kids kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475283129",
+      "funnet": "2026-09-01T11:20:35.639031+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Pro Precision Patrick Bamford Leeds United fotballkort",
       "pris": 30,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-09-01T07:28:16.510456+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Leaf Glory of the Game Match Ball Jorginho autografkort 4/7",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475262124",
-      "funnet": "2026-09-01T07:26:20.507033+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Full Force Ola Aina Nottingham Forest Premier League kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475262126",
-      "funnet": "2026-09-01T07:26:19.891476+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 1995 4/102",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442313336",
-      "funnet": "2026-09-01T07:26:19.298376+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Umbreon GX holo sun and moon base set",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475262131",
-      "funnet": "2026-09-01T07:24:16.565285+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mew holografisk fates collide",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475262253",
-      "funnet": "2026-09-01T07:24:16.153268+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
