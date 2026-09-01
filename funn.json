@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T08:14:16.330449+00:00",
+  "sist_sjekket": "2026-09-01T08:16:16.385641+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon promo's",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475263036",
+      "funnet": "2026-09-01T08:16:16.383706+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Full Samling WORLD CUP 26 Panini Stickers + Album",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475250192",
       "funnet": "2026-08-31T23:10:23.382366+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Garbodor [Reverse Holo] #111 Pokemon Vivid Voltage",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/424406401",
-      "funnet": "2026-08-31T23:08:18.234302+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
