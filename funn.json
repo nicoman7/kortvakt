@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T04:56:14.647946+00:00",
+  "sist_sjekket": "2026-09-01T04:59:35.714930+00:00",
   "funn": [
+    {
+      "tittel": "Palafin kort - etter avtale",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475253555",
+      "funnet": "2026-09-01T04:59:35.712876+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering kortsamling med deckbox og sleeves",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474939462",
       "funnet": "2026-08-31T20:08:21.688915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo V SWSH229",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475242533",
-      "funnet": "2026-08-31T20:08:21.277763+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
