@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T13:16:15.732506+00:00",
+  "sist_sjekket": "2026-09-01T13:18:21.391051+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Latias EX",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475293616",
+      "funnet": "2026-09-01T13:18:21.389120+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2 kortpermer og en bunke pokemon kort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475278072",
       "funnet": "2026-09-01T10:24:21.560058+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Mikel Arteta Arsenal Champions League kort 11/75",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475277849",
-      "funnet": "2026-09-01T10:22:17.352717+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
