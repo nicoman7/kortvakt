@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-01T10:18:27.666675+00:00",
+  "sist_sjekket": "2026-09-01T10:20:26.515576+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Thievul Evolving Skies (105) Reverse Holo",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475277550",
+      "funnet": "2026-09-01T10:20:26.513685+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Zygarde Evolving Skies (118) Holofoil",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475277749",
+      "funnet": "2026-09-01T10:20:26.245611+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Raichu Evolving Skies (50) Holofoil",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475277670",
+      "funnet": "2026-09-01T10:20:25.979292+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Whimsicott Vivid Voltage (76)",
       "pris": 4,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-01T06:58:21.219232+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rotom ex #126 Pokemon Phantasmal Flames",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475218162",
-      "funnet": "2026-09-01T06:56:20.962885+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Dugtrio #239 Pokemon Ascended Heroes",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475218651",
-      "funnet": "2026-09-01T06:56:20.720518+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Suicune V #GG38 Pokemon Crown Zenith",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475218581",
-      "funnet": "2026-09-01T06:56:20.282672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
