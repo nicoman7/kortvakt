@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T22:30:40.672665+00:00",
+  "sist_sjekket": "2026-09-01T22:32:15.200777+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461039740",
+      "funnet": "2026-09-01T22:32:15.199033+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Ny fra pakke",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468642038",
       "funnet": "2026-09-01T19:18:21.295122+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Iono, PSA gradert 9, Pokemon.",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468580513",
-      "funnet": "2026-09-01T19:18:20.850894+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
