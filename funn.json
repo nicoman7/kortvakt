@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T15:42:23.036270+00:00",
+  "sist_sjekket": "2026-09-01T15:44:20.094989+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling Pokémon kort med permer og metallbokser",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475305751",
+      "funnet": "2026-09-01T15:44:20.093177+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "PANINI EFL PRESTIGE 2026 ALEX GILBEY MILTON KEYNES DONS FAN FAVOURITES",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474624401",
       "funnet": "2026-09-01T12:36:15.717650+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Binder/perm til samlekort - til toploadere",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475289696",
-      "funnet": "2026-09-01T12:34:15.886360+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
