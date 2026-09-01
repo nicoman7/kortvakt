@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T21:04:17.653352+00:00",
+  "sist_sjekket": "2026-09-01T21:06:31.127272+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kortsamling selges – EX, Mega EX, IR/AR, japanske og engelske kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475328662",
+      "funnet": "2026-09-01T21:06:31.125473+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Wesley Sneijder Auto /75 – Topps Chrome UEFA 2025/26 Inter",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475336616",
+      "funnet": "2026-09-01T21:06:30.224591+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pau Cubarsí Purple /75 – Topps Chrome UEFA 2025/26 Barcelona",
       "pris": 449,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471918425",
       "funnet": "2026-09-01T19:08:17.241677+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Haunter 35/92 Reverse Holo Stamped EX Legend Maker Pokemon  2006",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474014507",
-      "funnet": "2026-09-01T19:08:16.624950+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Phantasmal Flames",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473237042",
-      "funnet": "2026-09-01T19:08:16.017664+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
