@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T10:38:18.854005+00:00",
+  "sist_sjekket": "2026-09-01T10:40:29.049545+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475277287",
+      "funnet": "2026-09-01T10:40:29.047678+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-09-01T10:40:28.010171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Greninja GX Premium Collection samleboks",
       "pris": 1100,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475260945",
       "funnet": "2026-09-01T07:08:17.232197+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort First Partner promosett 3 kort Paldea",
-      "pris": 325,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475260949",
-      "funnet": "2026-09-01T07:08:16.599178+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first partner Hoenn region",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475164903",
-      "funnet": "2026-09-01T07:08:15.983383+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
