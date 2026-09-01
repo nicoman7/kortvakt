@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T13:44:14.866590+00:00",
+  "sist_sjekket": "2026-09-01T13:46:15.617164+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475296168",
+      "funnet": "2026-09-01T13:46:15.615031+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Tera Gyarados ex gullkort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475280805",
       "funnet": "2026-09-01T10:58:17.542651+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samleperm med kort",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475280972",
-      "funnet": "2026-09-01T10:58:16.949379+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
