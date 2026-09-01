@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T17:56:24.462812+00:00",
+  "sist_sjekket": "2026-09-01T17:58:16.286006+00:00",
   "funn": [
+    {
+      "tittel": "Shanks SR One piece samlekort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475320288",
+      "funnet": "2026-09-01T17:58:16.284002+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Top Class Rainbow Master Unai Simón fotballkort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475320429",
+      "funnet": "2026-09-01T17:58:15.678390+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Top Class fotballkort Leroy Sané Rainbow Master Tyskland",
       "pris": 49,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475305397",
       "funnet": "2026-09-01T15:28:21.376063+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the gathing kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475299574",
-      "funnet": "2026-09-01T15:28:20.466721+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bulbasaur pokemonkort",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475302990",
-      "funnet": "2026-09-01T15:26:21.876759+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
