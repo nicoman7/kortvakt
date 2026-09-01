@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T04:18:25.102946+00:00",
+  "sist_sjekket": "2026-09-01T04:20:24.752896+00:00",
   "funn": [
+    {
+      "tittel": "Gamle antikke kortstokker",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475252811",
+      "funnet": "2026-09-01T04:20:24.750551+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana kortpakke – 17 glinsende Foils inkl super rare",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-08-31T20:08:20.839715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rocket's Scizor EX #101 Pokemon Team Rocket Returns",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474900396",
-      "funnet": "2026-08-31T20:06:25.980927+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
