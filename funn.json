@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T10:28:16.569054+00:00",
+  "sist_sjekket": "2026-09-01T10:30:38.086508+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Center Tohoku special box",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475278770",
+      "funnet": "2026-09-01T10:30:38.084606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Signerte Fotballkort selges samlet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475278406",
+      "funnet": "2026-09-01T10:30:37.839710+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Magic: The Gathering kortsamling – diverse rare/mythic og legendary creatures",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475260669",
       "funnet": "2026-09-01T07:06:19.581900+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax Robert Lewandowski Hero FC Barcelona kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475260662",
-      "funnet": "2026-09-01T07:04:15.688605+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Nico González Manchester City samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475260564",
-      "funnet": "2026-09-01T07:02:16.184118+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
