@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-01T15:24:16.525230+00:00",
+  "sist_sjekket": "2026-09-01T15:26:21.878402+00:00",
   "funn": [
+    {
+      "tittel": "Bulbasaur pokemonkort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475302990",
+      "funnet": "2026-09-01T15:26:21.876759+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-09-01T15:26:20.864551+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Sapphire 25-26 Savinho",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-01T12:12:16.846562+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gem pack vol 5 Pikachu masterball",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475287666",
-      "funnet": "2026-09-01T12:10:27.023593+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475287486",
-      "funnet": "2026-09-01T12:08:17.279387+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
