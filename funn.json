@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T00:28:21.131460+00:00",
+  "sist_sjekket": "2026-09-01T00:30:38.077526+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Jynx fra base set",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475251177",
+      "funnet": "2026-09-01T00:30:38.076287+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pikachu McDonald’s promo kort PSA 10",
       "pris": 900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474620342",
       "funnet": "2026-08-31T20:04:18.135393+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort / vintage",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474794625",
-      "funnet": "2026-08-31T20:02:16.151070+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
