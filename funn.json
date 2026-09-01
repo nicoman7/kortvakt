@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T12:48:17.523494+00:00",
+  "sist_sjekket": "2026-09-01T12:50:25.615713+00:00",
   "funn": [
+    {
+      "tittel": "Stor Pokémon samling selges",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475291072",
+      "funnet": "2026-09-01T12:50:25.613866+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort- 5kr per!",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475273601",
       "funnet": "2026-09-01T09:40:24.376899+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pro Partnership Ryan Gravenberch / Alexis Mac Allister Liverpool kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475274111",
-      "funnet": "2026-09-01T09:40:23.409131+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
