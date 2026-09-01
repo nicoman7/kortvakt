@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T15:00:53.679461+00:00",
+  "sist_sjekket": "2026-09-01T15:02:18.734368+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Litleo AR jp mega synphonia",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475302859",
+      "funnet": "2026-09-01T15:02:18.732486+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Prizm World Cup - Messi, Yamal, Mbappe, Haaland og Maradona",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-09-01T12:02:20.227144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Skyridge",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475286886",
-      "funnet": "2026-09-01T12:00:53.395726+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
