@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T18:38:16.137519+00:00",
+  "sist_sjekket": "2026-09-01T18:40:24.610426+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort enkeltvis - diverse sett",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475323735",
+      "funnet": "2026-09-01T18:40:24.608601+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Servine japansk Pokémon kort Nihil zero",
       "pris": 16,
@@ -1190,14 +1198,6 @@
       "pris": 1900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475310321",
       "funnet": "2026-09-01T16:34:22.202875+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort ca 500 kort med metallbokser. Engelske fra 2014-2026",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475309191",
-      "funnet": "2026-09-01T16:34:21.798165+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
