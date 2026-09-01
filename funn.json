@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-01T11:42:17.716179+00:00",
+  "sist_sjekket": "2026-09-01T11:44:24.157683+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lillie's Cutiefly Journey Together (66)",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475285292",
+      "funnet": "2026-09-01T11:44:24.155909+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort av Lionel Messi selges!  Nummerert 57/99",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-01T08:16:16.383706+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Samling WORLD CUP 26 Panini Stickers + Album",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473044781",
-      "funnet": "2026-09-01T08:12:20.915180+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
