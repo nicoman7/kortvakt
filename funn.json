@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T04:12:20.414765+00:00",
+  "sist_sjekket": "2026-09-02T04:14:15.707607+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-02T04:14:15.705510+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort lot – V og full art samlekort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475331125",
       "funnet": "2026-09-01T19:48:21.516890+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Call of Legends Reverse Foil #20 Rayquaza HOLO R – GRADE 6.5",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475331023",
-      "funnet": "2026-09-01T19:48:20.630512+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
