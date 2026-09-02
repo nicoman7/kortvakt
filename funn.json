@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T02:38:25.862869+00:00",
+  "sist_sjekket": "2026-09-02T02:40:23.640516+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort Eiscue EX",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475341179",
+      "funnet": "2026-09-02T02:40:23.638647+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Forrothorn full art",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475330605",
       "funnet": "2026-09-01T19:42:20.329186+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-01T19:42:19.861657+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
