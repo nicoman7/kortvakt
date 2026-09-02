@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T18:34:19.057283+00:00",
+  "sist_sjekket": "2026-09-02T18:36:19.915170+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax fotballkort Europa League",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475411160",
+      "funnet": "2026-09-02T18:36:19.913817+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Romain Esse  Rookie /199 Crystal Palace fotballkort",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-02T16:56:21.949006+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1141 pokemon kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475397333",
-      "funnet": "2026-09-02T16:56:20.974763+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
