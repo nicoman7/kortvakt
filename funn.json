@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T04:50:26.230179+00:00",
+  "sist_sjekket": "2026-09-02T04:52:20.128097+00:00",
   "funn": [
+    {
+      "tittel": "ALF samlekort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441831370",
+      "funnet": "2026-09-02T04:52:20.125921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Beauty and the Beast samlepakke med samleobjekter",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 3,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475331331",
       "funnet": "2026-09-01T19:50:34.221265+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kjøp Bjarte Fotballkort 01.09.26",
-      "pris": 590,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475331399",
-      "funnet": "2026-09-01T19:50:33.299429+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
