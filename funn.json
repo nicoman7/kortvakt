@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T06:46:29.006785+00:00",
+  "sist_sjekket": "2026-09-02T06:48:16.118018+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup 2026 stickers",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475346421",
+      "funnet": "2026-09-02T06:48:16.115998+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL Premier League 2025 fotballkort",
       "pris": 3,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475329664",
       "funnet": "2026-09-01T20:16:17.340849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pawmi phantasmal flames",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475333452",
-      "funnet": "2026-09-01T20:16:16.648592+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
