@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-02T15:40:26.548764+00:00",
+  "sist_sjekket": "2026-09-02T15:42:23.376944+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits!",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475392930",
+      "funnet": "2026-09-02T15:42:23.375333+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling Pokémon kort GX/EX/Mega/Vmax og full art",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474702361",
+      "funnet": "2026-09-02T15:42:22.294966+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475381715",
       "funnet": "2026-09-02T13:22:21.272792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Pristine Jorrel Hato #65 Chelsea Refractor",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381971",
-      "funnet": "2026-09-02T13:22:20.374548+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Team Rocket Elite Trainer Box samleboks",
-      "pris": 1899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381742",
-      "funnet": "2026-09-02T13:22:19.447509+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
