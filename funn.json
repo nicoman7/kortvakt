@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T21:12:17.028998+00:00",
+  "sist_sjekket": "2026-09-02T21:14:16.105918+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475422748",
+      "funnet": "2026-09-02T21:14:16.103790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "6 stk Pokémon Shikishi Art Boards – Series 4 – Pikachu, Umbreon, Articuno m.fl.",
       "pris": 950,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/472771211",
       "funnet": "2026-09-02T19:10:29.786855+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Feraligatr holo",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474988736",
-      "funnet": "2026-09-02T19:10:28.842428+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
