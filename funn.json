@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T04:48:18.356513+00:00",
+  "sist_sjekket": "2026-09-02T04:50:26.230179+00:00",
   "funn": [
+    {
+      "tittel": "Disney Beauty and the Beast samlepakke med samleobjekter",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441832119",
+      "funnet": "2026-09-02T04:50:26.228194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ditto Squirtle",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475331399",
       "funnet": "2026-09-01T19:50:33.299429+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Greninja Holo fra Detective Pikachu",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475331068",
-      "funnet": "2026-09-01T19:48:24.207170+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
