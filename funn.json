@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T15:36:20.338054+00:00",
+  "sist_sjekket": "2026-09-02T15:38:16.211302+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu samling",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475394051",
+      "funnet": "2026-09-02T15:38:16.209507+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini VM 2026 Fotballkort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475381543",
       "funnet": "2026-09-02T13:20:23.966520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger et flott Liverpool FC-lot med 11 fotballkort fra Topps.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381071",
-      "funnet": "2026-09-02T13:18:19.582885+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
