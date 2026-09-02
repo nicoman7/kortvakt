@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T02:50:26.339446+00:00",
+  "sist_sjekket": "2026-09-02T02:52:17.731626+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Sylveon Holo promo",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475341219",
+      "funnet": "2026-09-02T02:52:17.729784+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Jolteon promo",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475330608",
       "funnet": "2026-09-01T19:42:22.959284+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475330621",
-      "funnet": "2026-09-01T19:42:22.605700+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
