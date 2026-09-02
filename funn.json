@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-02T19:44:28.954185+00:00",
+  "sist_sjekket": "2026-09-02T19:46:14.973484+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468457876",
+      "funnet": "2026-09-02T19:46:14.971503+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395211766",
+      "funnet": "2026-09-02T19:46:14.671597+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Nidoran♀ 60 HP Base Set",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475417324",
+      "funnet": "2026-09-02T19:46:14.406327+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Hypno 51/149 Sun & Moon",
       "pris": 70,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475411393",
       "funnet": "2026-09-02T18:32:16.888837+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lanturn Blinding Beam Electro Ball",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475411208",
-      "funnet": "2026-09-02T18:30:41.636444+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor Pokemon samling – Vintage / EX Era / Delta Species / Charizard 🔥",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
-      "funnet": "2026-09-02T18:30:40.686466+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475411037",
-      "funnet": "2026-09-02T18:28:18.976532+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
