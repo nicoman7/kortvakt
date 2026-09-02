@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T20:46:22.464757+00:00",
+  "sist_sjekket": "2026-09-02T20:48:15.585854+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-02T20:48:15.583807+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kyogre Mega Evolution (34) Holofoil",
       "pris": 4,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-02T19:02:14.617019+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Retro, sjeldne fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/368513755",
-      "funnet": "2026-09-02T19:00:53.727293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
