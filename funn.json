@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T16:38:19.309172+00:00",
+  "sist_sjekket": "2026-09-02T16:40:31.225521+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475399734",
+      "funnet": "2026-09-02T16:40:31.223440+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Erika's Dragonair",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475386959",
       "funnet": "2026-09-02T14:18:18.548203+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup 26 Oppdatert 01.09  Stort utvalg og konkurransedyktige priser",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474852660",
-      "funnet": "2026-09-02T14:18:17.745042+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
