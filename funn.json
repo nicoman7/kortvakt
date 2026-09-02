@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-02T15:38:16.211302+00:00",
+  "sist_sjekket": "2026-09-02T15:40:26.548764+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475394108",
+      "funnet": "2026-09-02T15:40:26.547088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gyarados Holo Rare",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475393474",
+      "funnet": "2026-09-02T15:40:25.767969+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pikachu samling",
       "pris": 700,
@@ -1182,22 +1198,6 @@
       "pris": 1899,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475381742",
       "funnet": "2026-09-02T13:22:19.447509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Simisear #100 Pokemon Japanese White Flare",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381448",
-      "funnet": "2026-09-02T13:20:24.564877+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Horsea og Seadra samlekort – 6 kort vann-type",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381543",
-      "funnet": "2026-09-02T13:20:23.966520+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
