@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-02T11:34:20.565575+00:00",
+  "sist_sjekket": "2026-09-02T11:36:17.190668+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort Aipom - Phantasmal flames",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475371883",
+      "funnet": "2026-09-02T11:36:17.188800+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Palkia EX Team Plasma",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475371623",
+      "funnet": "2026-09-02T11:36:16.512566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-09-02T11:36:16.246916+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Azelf, Uxie og Mesprit samlekort - 6 kort",
       "pris": 45,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-02T08:14:18.747197+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-02T08:14:18.396949+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gem Pack Holo samling (kinesisk)",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475352611",
-      "funnet": "2026-09-02T08:10:30.426999+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Storm Emeralda 112/076 Zinnia's Trust (JP)",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475352703",
-      "funnet": "2026-09-02T08:10:29.375703+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
