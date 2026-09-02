@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T18:04:18.461281+00:00",
+  "sist_sjekket": "2026-09-02T18:06:20.887146+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475406019",
+      "funnet": "2026-09-02T18:06:20.885219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Salvage uncommon Riftbound samlekort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475308949",
       "funnet": "2026-09-02T16:08:28.727791+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mega evoultion perfect order",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475394791",
-      "funnet": "2026-09-02T16:08:27.776977+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
