@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-02T20:28:20.683386+00:00",
+  "sist_sjekket": "2026-09-02T20:30:37.086942+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Arbok",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475420586",
+      "funnet": "2026-09-02T20:30:37.085314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort – XY Evolutions 2016 – holo/reverse holo + secret rare",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475419896",
+      "funnet": "2026-09-02T20:30:36.723254+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Impidimp kort – Single Strike",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475412929",
       "funnet": "2026-09-02T18:52:19.813076+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Duraludon 130 HP",
-      "pris": 44,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475412421",
-      "funnet": "2026-09-02T18:50:26.157714+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort selges hbo over",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475412290",
-      "funnet": "2026-09-02T18:50:25.891800+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
