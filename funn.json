@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T06:28:18.075659+00:00",
+  "sist_sjekket": "2026-09-02T06:30:51.390999+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon | Chaos Rising | Froakie, Frogadier og Greninja",
+      "pris": 475,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475345626",
+      "funnet": "2026-09-02T06:30:51.389281+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SELGER FOTBALLKORT! TA KONTAKT",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-01T20:12:18.837849+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475332567",
-      "funnet": "2026-09-01T20:12:18.030295+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
