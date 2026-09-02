@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-02T19:20:26.767274+00:00",
+  "sist_sjekket": "2026-09-02T19:22:17.715062+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Bouffalant 120 HP",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475415853",
+      "funnet": "2026-09-02T19:22:17.713121+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Bouffalant 120 HP",
+      "pris": 41,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475415900",
+      "funnet": "2026-09-02T19:22:17.452508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Skwovet 137/264",
       "pris": 41,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475408662",
       "funnet": "2026-09-02T18:08:19.699319+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Nosepass",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475408876",
-      "funnet": "2026-09-02T18:08:19.114452+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475408199",
-      "funnet": "2026-09-02T18:08:18.514489+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
