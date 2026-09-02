@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-02T12:26:16.464118+00:00",
+  "sist_sjekket": "2026-09-02T12:28:18.779431+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475376741",
+      "funnet": "2026-09-02T12:28:18.777502+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon trick or trade 2024 booster pakker",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475360811",
       "funnet": "2026-09-02T09:48:16.596549+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort bunt / lot 100 stk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475359989",
-      "funnet": "2026-09-02T09:46:15.512652+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
