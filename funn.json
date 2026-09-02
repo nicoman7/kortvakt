@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-02T19:26:23.578903+00:00",
+  "sist_sjekket": "2026-09-02T19:28:15.871024+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Vmax",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475415655",
+      "funnet": "2026-09-02T19:28:15.869107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UEFA 2025/26 – 315 basekort + perm",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475415739",
+      "funnet": "2026-09-02T19:28:15.355760+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Swablu Surprise Attack",
       "pris": 41,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475409573",
       "funnet": "2026-09-02T18:16:22.744974+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Gold UCC 25-26 Leonardo Spinazzola/99",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475409510",
-      "funnet": "2026-09-02T18:16:22.337137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "25-26 Topps Finest UEFA Reigan Heskey Finest Showman",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475408740",
-      "funnet": "2026-09-02T18:16:22.009274+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
