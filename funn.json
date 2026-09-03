@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-03T14:50:27.696975+00:00",
+  "sist_sjekket": "2026-09-03T14:52:19.971412+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Eevee",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475473003",
+      "funnet": "2026-09-03T14:52:19.969793+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Vaporeon holo samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475472926",
+      "funnet": "2026-09-03T14:52:19.026565+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Espurr og Meowstic",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475473063",
+      "funnet": "2026-09-03T14:52:18.662713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort pakke med diverse kort",
       "pris": 250,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475455154",
       "funnet": "2026-09-03T11:46:16.999829+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460741771",
-      "funnet": "2026-09-03T11:46:16.295212+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Japansk Team Rocket's Spidops MEGA Dream ex (16) Energy Symbol",
-      "pris": 9,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475454960",
-      "funnet": "2026-09-03T11:44:18.304608+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Azumarill Team Rocket Returns holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475454941",
-      "funnet": "2026-09-03T11:44:18.054771+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
