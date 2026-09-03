@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T17:02:19.505124+00:00",
+  "sist_sjekket": "2026-09-03T17:04:18.505990+00:00",
   "funn": [
+    {
+      "tittel": "KeyForge samling med spillekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475484338",
+      "funnet": "2026-09-03T17:04:18.503848+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rasmus Højlund - 2025-26 Topps Gold UCC - Current Stars",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
       "funnet": "2026-09-03T14:14:19.853840+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-09-03T14:12:24.607466+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
