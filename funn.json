@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T11:28:19.298131+00:00",
+  "sist_sjekket": "2026-09-03T11:30:49.677840+00:00",
   "funn": [
+    {
+      "tittel": "Computer Search #71 Pokemon Base Set",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475453842",
+      "funnet": "2026-09-03T11:30:49.676512+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fairy kort | pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475453363",
+      "funnet": "2026-09-03T11:30:49.312392+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Super Energy Removal #79 Pokemon Base Set",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-03T07:00:51.625031+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Eevee - Black Star Promo - Pokemon",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475431552",
-      "funnet": "2026-09-03T06:58:17.311731+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hit kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/393448929",
-      "funnet": "2026-09-03T06:54:55.427310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
