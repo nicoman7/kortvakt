@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T14:46:20.048181+00:00",
+  "sist_sjekket": "2026-09-03T14:48:15.229769+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort gis bort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475472350",
+      "funnet": "2026-09-03T14:48:15.227567+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-09-03T14:48:14.625673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MTG: 1x Void Winnower (MYTHIC RARE - Battle for Zendikar / Eldrazi Staple) ✨🌌👁️💎",
       "pris": 179,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475455169",
       "funnet": "2026-09-03T11:44:16.095610+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lugia EX samlekort holografisk kom med bud",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457482968",
-      "funnet": "2026-09-03T11:40:25.320480+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Hoppip Team Rocket Returns holo kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475454724",
-      "funnet": "2026-09-03T11:40:24.667141+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
