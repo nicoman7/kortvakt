@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-03T11:30:49.677840+00:00",
+  "sist_sjekket": "2026-09-03T11:32:21.623302+00:00",
   "funn": [
+    {
+      "tittel": "Panini monopoly USA dame kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475454022",
+      "funnet": "2026-09-03T11:32:21.621368+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Japansk Lillie's Determination MEGA Dream ex (175)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475453959",
+      "funnet": "2026-09-03T11:32:21.116687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
+      "funnet": "2026-09-03T11:32:20.293282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Computer Search #71 Pokemon Base Set",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-03T07:12:25.645740+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 2026 kort - selge/bytte",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475430966",
-      "funnet": "2026-09-03T07:02:17.039315+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Pokemon Destined Rivals Elite Trainer Box",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475415802",
-      "funnet": "2026-09-03T07:00:52.004731+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 mini tins",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475431306",
-      "funnet": "2026-09-03T07:00:51.625031+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
