@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T16:26:19.358488+00:00",
+  "sist_sjekket": "2026-09-03T16:28:24.933844+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort fra 96-01",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475480673",
+      "funnet": "2026-09-03T16:28:24.931760+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Leafeon V japansk",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475466294",
       "funnet": "2026-09-03T13:36:16.302747+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo & Mew GX Tag Team",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475465968",
-      "funnet": "2026-09-03T13:34:26.061273+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
