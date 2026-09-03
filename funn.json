@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T20:22:21.058009+00:00",
+  "sist_sjekket": "2026-09-03T20:24:19.459605+00:00",
   "funn": [
+    {
+      "tittel": "Tottenham Hotspur – samlekortramme med MagCase | Spurs",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475501401",
+      "funnet": "2026-09-03T20:24:19.457888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Chelsea / Stamford Bridge samlekortramme med MagCase",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475501479",
+      "funnet": "2026-09-03T20:24:18.368054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard ex #228 Pokemon Obsidian Flames – BGS 9 med subgrades: 9/9.5/9/10",
       "pris": 750,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-03T19:10:32.023500+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort – Bouffalant 140/193 (Japansk)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475489919",
-      "funnet": "2026-09-03T19:10:31.703649+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Yamper holo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475495933",
-      "funnet": "2026-09-03T19:10:31.443482+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
