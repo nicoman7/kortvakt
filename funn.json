@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T21:02:14.779894+00:00",
+  "sist_sjekket": "2026-09-03T21:04:19.026290+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475503437",
+      "funnet": "2026-09-03T21:04:19.024581+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Charmander og Blaine's Charmander",
       "pris": 950,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475489006",
       "funnet": "2026-09-03T19:22:16.995170+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Wally’s Compassion 060/063 (Japansk)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475489335",
-      "funnet": "2026-09-03T19:20:25.462740+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
