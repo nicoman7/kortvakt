@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T15:44:14.325631+00:00",
+  "sist_sjekket": "2026-09-03T15:46:19.370454+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475477095",
+      "funnet": "2026-09-03T15:46:19.368649+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Max Dowman Arsenal fotballkort Champions League",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475477575",
+      "funnet": "2026-09-03T15:46:18.427171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Cosmic Eclipse boosterpakker",
       "pris": 900,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475457153",
       "funnet": "2026-09-03T12:06:15.625781+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PANINI EFL PRESTIGE 2026 JADEN HESKEY SHEFFIELD WEDNESDAY",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475457119",
-      "funnet": "2026-09-03T12:04:18.660211+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 084 Mega Pitch Black - 40 pakker bulk (uten hits)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475456857",
-      "funnet": "2026-09-03T12:02:15.754494+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
