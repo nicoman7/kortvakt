@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T13:38:16.969221+00:00",
+  "sist_sjekket": "2026-09-03T13:40:26.407068+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475466467",
+      "funnet": "2026-09-03T13:40:26.405268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 1 og 3",
       "pris": 460,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475442521",
       "funnet": "2026-09-03T09:24:18.915753+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps UEFA Club Competitions Eduardo Felicissimo Rookie RC Base 60",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475442686",
-      "funnet": "2026-09-03T09:24:18.254848+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
