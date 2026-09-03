@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T23:54:51.802368+00:00",
+  "sist_sjekket": "2026-09-03T23:56:20.476718+00:00",
   "funn": [
+    {
+      "tittel": "Signerte fotballkort – Haaland, Maldini, Kroos, Bale m.fl. – fra 150 kr",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475507534",
+      "funnet": "2026-09-03T23:56:20.475159+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Tinkaton EX, M Blastoise EX, Froakie og Ho-Oh EX",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475507530",
+      "funnet": "2026-09-03T23:56:19.587722+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon bulk - 190 kort",
       "pris": 250,
@@ -1182,22 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475499158",
       "funnet": "2026-09-03T19:50:27.336167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dream Ball Trainer-kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475499170",
-      "funnet": "2026-09-03T19:50:26.542821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Full Heal Trainer-kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475499203",
-      "funnet": "2026-09-03T19:50:25.688282+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
