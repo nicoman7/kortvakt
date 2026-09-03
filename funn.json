@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T15:30:44.040812+00:00",
+  "sist_sjekket": "2026-09-03T15:32:19.987710+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475476341",
+      "funnet": "2026-09-03T15:32:19.985891+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Charmander og Charmeleon kort – samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475476459",
+      "funnet": "2026-09-03T15:32:19.109362+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering kort – Fanatic of Rhonas #152",
       "pris": 178,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475456093",
       "funnet": "2026-09-03T11:54:16.840151+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort blandet lot",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458444055",
-      "funnet": "2026-09-03T11:52:56.945436+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort M Mewtwo EX",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475456056",
-      "funnet": "2026-09-03T11:52:55.989525+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
