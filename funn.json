@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-03T17:38:20.826532+00:00",
+  "sist_sjekket": "2026-09-03T17:40:29.168230+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475487398",
+      "funnet": "2026-09-03T17:40:29.166780+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Trainer Copycat",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475487426",
+      "funnet": "2026-09-03T17:40:28.332600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Relicanth 0707/07 Triple Rare (RRR) Gem Pack 4 NM",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475488081",
+      "funnet": "2026-09-03T17:40:27.906394+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana kort – 6stk",
       "pris": 15,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475476459",
       "funnet": "2026-09-03T15:32:19.109362+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort – Fanatic of Rhonas #152",
-      "pris": 178,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475476257",
-      "funnet": "2026-09-03T15:30:44.039250+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UEFA Euro 2024 autografkort Bruno Fernandes Portugal",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475476107",
-      "funnet": "2026-09-03T15:30:43.071488+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Tyranitar GX samlekort CGC 10",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475476078",
-      "funnet": "2026-09-03T15:28:18.467990+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
