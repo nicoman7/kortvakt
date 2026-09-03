@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T08:44:15.638750+00:00",
+  "sist_sjekket": "2026-09-03T08:46:17.336755+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-03T08:46:17.334705+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Sceptile-EX (XY: Ancient Origins, 2015) - Ultra Rare #7/98 🌿✨",
       "pris": 159,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471920433",
       "funnet": "2026-09-02T21:04:15.577189+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece custom magazine kort - Luffy, Sanji og Zorro",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468347204",
-      "funnet": "2026-09-02T21:00:58.345721+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
