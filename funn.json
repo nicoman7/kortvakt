@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T12:58:16.617813+00:00",
+  "sist_sjekket": "2026-09-03T13:00:56.104224+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort (Topps) vurderes solgt",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475461299",
+      "funnet": "2026-09-03T13:00:56.102524+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort GX/V – Meowth, Beedrill, Alcremie og Krookodile",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475461925",
+      "funnet": "2026-09-03T13:00:55.787782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kortmappe med 4 jumbo-kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475439443",
       "funnet": "2026-09-03T08:48:18.026796+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-03T08:46:17.334705+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon: Sceptile-EX (XY: Ancient Origins, 2015) - Ultra Rare #7/98 🌿✨",
-      "pris": 159,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475438573",
-      "funnet": "2026-09-03T08:44:15.636719+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
