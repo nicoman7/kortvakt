@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-03T18:30:39.656231+00:00",
+  "sist_sjekket": "2026-09-03T18:32:19.093685+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475492802",
+      "funnet": "2026-09-03T18:32:19.091776+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manectric 089/084 Illustration Rare (IR) Pitch Black NM",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475492851",
+      "funnet": "2026-09-03T18:32:18.673365+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps pristine autograf Welbeck",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475492560",
+      "funnet": "2026-09-03T18:32:17.842128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manectric 089/084 Illustration Rare (IR) Pitch Black NM",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475492668",
+      "funnet": "2026-09-03T18:32:17.066456+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 fotballkort",
       "pris": 250,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-03T16:54:25.296294+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leter etter Garchomp kort IKKE TIL SALGS",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474967894",
-      "funnet": "2026-09-03T16:48:15.035047+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dragonite EX MAR",
-      "pris": 360,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475482624",
-      "funnet": "2026-09-03T16:46:20.998091+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Sharpedo EX PSA 10 spesial illustrasjon, skjeldent kort",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475482022",
-      "funnet": "2026-09-03T16:46:19.886468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mid-era Pokemon-kort, (2004-2006)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475482527",
-      "funnet": "2026-09-03T16:44:16.914423+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
