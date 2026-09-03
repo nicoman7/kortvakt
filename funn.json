@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-03T07:12:25.647728+00:00",
+  "sist_sjekket": "2026-09-03T07:14:57.071023+00:00",
   "funn": [
+    {
+      "tittel": "Panini xl adrenalyn vm 2026",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475113450",
+      "funnet": "2026-09-03T07:14:57.069030+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling VM-kort Panini Adrenalyn XL selges - Over 300 unike kort i perm",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475418803",
       "funnet": "2026-09-02T20:02:19.432714+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard VMAX Promo kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475418257",
-      "funnet": "2026-09-02T20:00:48.250888+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
