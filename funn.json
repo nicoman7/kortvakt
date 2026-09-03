@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-03T11:54:17.691232+00:00",
+  "sist_sjekket": "2026-09-03T11:56:20.204832+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu kom med bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457483508",
+      "funnet": "2026-09-03T11:56:20.203271+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Trevenant & Dusknoir GX Tag Team",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475456185",
+      "funnet": "2026-09-03T11:56:19.837052+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Jigglypuff samlekort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475436864",
       "funnet": "2026-09-03T08:14:24.446938+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe fotballkort selges!  Nummerert 18/99",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475436314",
-      "funnet": "2026-09-03T08:10:24.176294+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2 stk Liverpool / Anfield samlekortrammer – stående + liggende – selges samlet",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475436064",
-      "funnet": "2026-09-03T08:04:17.644543+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
