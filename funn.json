@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T21:46:15.526530+00:00",
+  "sist_sjekket": "2026-09-04T21:48:16.703348+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort 1999-2024 Til Salgs",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475577591",
+      "funnet": "2026-09-04T21:48:16.701573+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Golden Ballers Panini Adrenalyn 2026 til salgs",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475565490",
       "funnet": "2026-09-04T18:28:19.362377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zweilous #143 - Pokemon japansk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475567959",
-      "funnet": "2026-09-04T18:28:18.387427+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
