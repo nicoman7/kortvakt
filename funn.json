@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T07:12:18.822087+00:00",
+  "sist_sjekket": "2026-09-04T07:14:19.492967+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475514140",
+      "funnet": "2026-09-04T07:14:19.491087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475514055",
+      "funnet": "2026-09-04T07:14:19.117355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebrations",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475502785",
       "funnet": "2026-09-03T20:52:21.373931+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scoop Up #107 Pokemon Base Set 2",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475502617",
-      "funnet": "2026-09-03T20:48:21.082738+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Eternos 22 630",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475502642",
-      "funnet": "2026-09-03T20:48:20.155866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
