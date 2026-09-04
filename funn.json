@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T10:20:21.645719+00:00",
+  "sist_sjekket": "2026-09-04T10:22:16.932430+00:00",
   "funn": [
+    {
+      "tittel": "Selger en samling med 67 Harry Potter Evolution Trading Cards fra Panini",
+      "pris": 845,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475528150",
+      "funnet": "2026-09-04T10:22:16.930415+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort mappe med EX / GX / V / japanske kort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-03T23:56:19.587722+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon bulk - 190 kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475507084",
-      "funnet": "2026-09-03T23:48:16.493691+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
