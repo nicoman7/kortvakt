@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-04T17:22:14.391128+00:00",
+  "sist_sjekket": "2026-09-04T17:24:19.470570+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort Red collection",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469273548",
+      "funnet": "2026-09-04T17:24:19.468872+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - DEOXYS",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475563248",
+      "funnet": "2026-09-04T17:24:18.612709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Golduck  Reverse holo Aquapolis",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475563144",
+      "funnet": "2026-09-04T17:24:17.729214+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Jolteon Call of Legends",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475549863",
       "funnet": "2026-09-04T14:38:33.453789+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clefairy 086/080 Psa10 Pokemon",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475545599",
-      "funnet": "2026-09-04T14:38:30.742604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Ben Beckman samlekort japansk OP09-009",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475549693",
-      "funnet": "2026-09-04T14:36:19.446653+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece samlekort Charlotte Katakuri japansk OP",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475549425",
-      "funnet": "2026-09-04T14:34:18.506639+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
