@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T16:52:14.282616+00:00",
+  "sist_sjekket": "2026-09-04T16:54:18.507012+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475560872",
+      "funnet": "2026-09-04T16:54:18.504984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pene Pokémon-kort (Illustration Rare / ex / GX) – Ønsker bud",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475546262",
       "funnet": "2026-09-04T14:18:21.621175+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Flygon reverse holo",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475548152",
-      "funnet": "2026-09-04T14:18:20.835056+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
