@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T19:38:16.032118+00:00",
+  "sist_sjekket": "2026-09-04T19:40:22.586508+00:00",
   "funn": [
+    {
+      "tittel": "SELGER FOTBALLKORT FOR BRA PRIS",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475567807",
+      "funnet": "2026-09-04T19:40:22.584207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Jynx 18/147 Aquapolis reverse holo 2002",
       "pris": 149,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475558748",
       "funnet": "2026-09-04T16:28:17.877629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - TEAM MAGMA & AQUA",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475558773",
-      "funnet": "2026-09-04T16:28:17.077939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
