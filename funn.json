@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T05:44:18.243378+00:00",
+  "sist_sjekket": "2026-09-04T05:46:19.183455+00:00",
   "funn": [
+    {
+      "tittel": "Div fotballkort fra Panini og Topps",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475510264",
+      "funnet": "2026-09-04T05:46:19.181392+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 3,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475501146",
       "funnet": "2026-09-03T20:18:23.439350+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lamine Yamal #19 / Barcelona – eksklusiv samlekortramme med MagCase",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475501044",
-      "funnet": "2026-09-03T20:18:22.681442+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
