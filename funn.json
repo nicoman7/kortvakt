@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T19:24:21.844370+00:00",
+  "sist_sjekket": "2026-09-04T19:26:22.153222+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Golem 5/97 Dragon holo 2003",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475571735",
+      "funnet": "2026-09-04T19:26:22.151445+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort - Cynthia",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475571986",
+      "funnet": "2026-09-04T19:26:21.251909+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ursaring Reverse Holo Pokemonkort",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475558694",
       "funnet": "2026-09-04T16:26:21.599613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475558446",
-      "funnet": "2026-09-04T16:24:19.003765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475558557",
-      "funnet": "2026-09-04T16:24:18.342384+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
