@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T19:02:18.333453+00:00",
+  "sist_sjekket": "2026-09-04T19:04:17.429139+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Flareon Nidoqueen Houndoom Jumpluff Nidoqueen",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474504611",
+      "funnet": "2026-09-04T19:04:17.427395+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Mega Dream Booster Boks - FRAKT INKLUDERT!",
+      "pris": 1399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/440240117",
+      "funnet": "2026-09-04T19:04:16.603613+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Armarouge #86 - Pokemon",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-04T15:46:19.637297+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort VMAX/Full Art",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475555018",
-      "funnet": "2026-09-04T15:46:18.813275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Magikarp 64/107 ex deoxys",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475554870",
-      "funnet": "2026-09-04T15:40:26.763210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
