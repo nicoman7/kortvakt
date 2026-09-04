@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T18:36:15.327003+00:00",
+  "sist_sjekket": "2026-09-04T18:38:19.022526+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex Asc 057/217",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475568538",
+      "funnet": "2026-09-04T18:38:19.020684+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stort utvalg Vm 2026 fotballkort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475491232",
+      "funnet": "2026-09-04T18:38:18.510612+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA World Cup samlekort",
       "pris": 212,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475554483",
       "funnet": "2026-09-04T15:36:23.414245+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Psyduck Lv.19 kort 87/127 platinum",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475554620",
-      "funnet": "2026-09-04T15:36:22.567380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Growlithe 68/105 neo destiny",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475554305",
-      "funnet": "2026-09-04T15:34:14.722613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
