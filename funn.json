@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-04T16:46:18.761776+00:00",
+  "sist_sjekket": "2026-09-04T16:48:21.059765+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475560112",
+      "funnet": "2026-09-04T16:48:21.057924+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475560407",
+      "funnet": "2026-09-04T16:48:20.156833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475560254",
+      "funnet": "2026-09-04T16:48:19.766273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Radiant Charizard",
       "pris": 180,
@@ -1174,30 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475547067",
       "funnet": "2026-09-04T14:08:19.516757+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-09-04T14:08:18.622475+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Topps Match Attax 2025(Main + Extras) fotballkort!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475414498",
-      "funnet": "2026-09-04T14:04:18.213319+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475546641",
-      "funnet": "2026-09-04T14:02:17.322186+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
