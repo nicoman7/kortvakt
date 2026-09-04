@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T15:26:17.574308+00:00",
+  "sist_sjekket": "2026-09-04T15:28:18.335835+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort i perm",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475553995",
+      "funnet": "2026-09-04T15:28:18.333959+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Card - Grimmsnarl VMAX (115/189) - Darkness Ablaze ⭐🃏",
       "pris": 59,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-04T12:24:18.719670+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Litleo 139/132 Illustration Rare (IR) Mega Evolution NM",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475538515",
-      "funnet": "2026-09-04T12:20:29.370030+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
