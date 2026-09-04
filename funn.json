@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T19:08:19.726064+00:00",
+  "sist_sjekket": "2026-09-04T19:10:26.091872+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 100+ bunker",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461293962",
+      "funnet": "2026-09-04T19:10:26.090000+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Arceus #AR4 Pokemon Arceus",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474183963",
+      "funnet": "2026-09-04T19:10:25.266127+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Skyla Trainer Supporter holo",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-04T15:58:16.283228+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega Charizard x ex 023 promo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475555864",
-      "funnet": "2026-09-04T15:58:15.706384+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jamal Musiala Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/398617877",
-      "funnet": "2026-09-04T15:58:15.143245+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
