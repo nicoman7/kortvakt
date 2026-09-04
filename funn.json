@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T09:26:22.393709+00:00",
+  "sist_sjekket": "2026-09-04T09:28:17.884050+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hits",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475523737",
+      "funnet": "2026-09-04T09:28:17.882053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Shining Fates Elite Trainer Box",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475523630",
+      "funnet": "2026-09-04T09:28:17.058602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oracle of the Witch orakelkort med guidebok",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475505734",
       "funnet": "2026-09-03T22:14:18.924410+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Charizard 8stk, selges samlet!",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475505450",
-      "funnet": "2026-09-03T22:06:16.013868+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex SAR 234/193 (Mega Dream ex / Japansk)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475505468",
-      "funnet": "2026-09-03T22:06:15.701096+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
