@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T14:00:50.934332+00:00",
+  "sist_sjekket": "2026-09-04T14:02:17.323890+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475546641",
+      "funnet": "2026-09-04T14:02:17.322186+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MTG: 1x Stoneforge Mystic (RARE - Worldwake / Equipment & Commander Staple) ✨🤍🗡️💎",
       "pris": 189,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475530728",
       "funnet": "2026-09-04T10:50:24.233861+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Weedle reverse holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475530768",
-      "funnet": "2026-09-04T10:50:23.365664+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
