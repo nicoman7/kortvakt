@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T16:00:50.125150+00:00",
+  "sist_sjekket": "2026-09-04T16:02:16.193182+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475556940",
+      "funnet": "2026-09-04T16:02:16.191456+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Bulbasaur 133/132",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475556032",
+      "funnet": "2026-09-04T16:02:15.841182+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Hop's Zacian ex 186/159",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475541551",
       "funnet": "2026-09-04T12:56:18.312415+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wisdom Mike Wonderkids  Rookie Bayern München Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475541326",
-      "funnet": "2026-09-04T12:54:18.542595+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Misdreavus Silver Tempest (63)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475541417",
-      "funnet": "2026-09-04T12:54:17.949196+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
