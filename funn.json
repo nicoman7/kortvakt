@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T14:02:17.323890+00:00",
+  "sist_sjekket": "2026-09-04T14:04:18.214847+00:00",
   "funn": [
+    {
+      "tittel": "Selger Topps Match Attax 2025(Main + Extras) fotballkort!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475414498",
+      "funnet": "2026-09-04T14:04:18.213319+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475530944",
       "funnet": "2026-09-04T10:52:17.483805+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rust Syndicate Grunt 112/084 Ultra Rare (UR) Pitch Black NM",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475530728",
-      "funnet": "2026-09-04T10:50:24.233861+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
