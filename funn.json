@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-04T15:12:20.743537+00:00",
+  "sist_sjekket": "2026-09-04T15:14:16.805015+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges – enkeltkort eller flere",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475552341",
+      "funnet": "2026-09-04T15:14:16.803104+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Jeremie Frimpong /99 – Liverpool – Topps Carnaval 2025/26",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475552462",
+      "funnet": "2026-09-04T15:14:16.197079+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
+      "funnet": "2026-09-04T15:14:15.578233+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Golden Ballers Panini Adrenalyn 2026 til salgs",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475537638",
       "funnet": "2026-09-04T12:10:26.747869+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling med diverse kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475537298",
-      "funnet": "2026-09-04T12:10:26.312968+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-09-04T12:08:17.928621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa Topps Chrome Youthquake RC /99 – Club Brugge – Norge",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475536659",
-      "funnet": "2026-09-04T12:06:30.826395+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
