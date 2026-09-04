@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T10:34:20.094512+00:00",
+  "sist_sjekket": "2026-09-04T10:36:17.853102+00:00",
   "funn": [
+    {
+      "tittel": "POKOMEN KORT",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475529420",
+      "funnet": "2026-09-04T10:36:17.851203+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Illustration Collection Series 1 samleboks",
       "pris": 1050,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475507566",
       "funnet": "2026-09-04T00:04:15.577843+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Signerte fotballkort – Haaland, Maldini, Kroos, Bale m.fl. – fra 150 kr",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475507534",
-      "funnet": "2026-09-03T23:56:20.475159+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
