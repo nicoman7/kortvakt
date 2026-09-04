@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-04T15:16:20.599357+00:00",
+  "sist_sjekket": "2026-09-04T15:18:19.683790+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort pakke 10 stk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475552918",
+      "funnet": "2026-09-04T15:18:19.681459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475552360",
+      "funnet": "2026-09-04T15:18:18.953204+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Baby Eif (kinesisk) pakker",
+      "pris": 18,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/430019639",
+      "funnet": "2026-09-04T15:18:18.543385+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger 12 flotte pokemon kort!",
       "pris": 800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475537467",
       "funnet": "2026-09-04T12:10:30.237131+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon energikort bunt",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475537415",
-      "funnet": "2026-09-04T12:10:29.251953+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chespin 087/086 Illustration Rare (IR) Chaos Rising NM",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475537419",
-      "funnet": "2026-09-04T12:10:28.445568+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cresselia 071/064 Illustration Rare (IR) Shrouded Fable NM",
-      "pris": 265,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475537643",
-      "funnet": "2026-09-04T12:10:27.567881+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
