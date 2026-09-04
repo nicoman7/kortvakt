@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T15:28:18.335835+00:00",
+  "sist_sjekket": "2026-09-04T15:30:45.322284+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475553720",
+      "funnet": "2026-09-04T15:30:45.320444+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475553383",
+      "funnet": "2026-09-04T15:30:44.937839+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort i perm",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-04T12:26:15.746337+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 03.09!)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
-      "funnet": "2026-09-04T12:26:14.886860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon First Partner Illustration Collection Series 1 samlebokser",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475538750",
-      "funnet": "2026-09-04T12:24:18.719670+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
