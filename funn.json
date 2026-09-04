@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T07:46:18.353331+00:00",
+  "sist_sjekket": "2026-09-04T07:48:13.670094+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475516178",
+      "funnet": "2026-09-04T07:48:13.668141+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Perrin #209/167 Pokemon",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 225,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475503621",
       "funnet": "2026-09-03T21:08:14.086447+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Phantasmal Flames Elite Trainer Box – Sealed",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475503601",
-      "funnet": "2026-09-03T21:06:20.909980+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
