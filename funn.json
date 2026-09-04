@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T21:36:14.664321+00:00",
+  "sist_sjekket": "2026-09-04T21:38:16.372951+00:00",
   "funn": [
+    {
+      "tittel": "Spille kort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/285064430",
+      "funnet": "2026-09-04T21:38:16.370929+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort CGC/PSA gradert Charizard, Mimikyu og Hawlucha",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475567849",
       "funnet": "2026-09-04T18:28:17.313159+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Milotic Holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475567843",
-      "funnet": "2026-09-04T18:28:16.358436+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
