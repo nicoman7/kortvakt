@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-04T15:44:15.240704+00:00",
+  "sist_sjekket": "2026-09-04T15:46:19.638925+00:00",
   "funn": [
+    {
+      "tittel": "Masse japanske ARs",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475554817",
+      "funnet": "2026-09-04T15:46:19.637297+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon samlekort VMAX/Full Art",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475555018",
+      "funnet": "2026-09-04T15:46:18.813275+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Magikarp 64/107 ex deoxys",
       "pris": 69,
@@ -1182,22 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475539803",
       "funnet": "2026-09-04T12:40:40.203965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mark Brooks Gold Wave Autograph AA-MB 29/50 2025 Topps Chrome Marvel",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475539869",
-      "funnet": "2026-09-04T12:40:39.854055+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🏀Dallas Mavericks – eksklusiv ramme til NBA-samlekort | Magcase",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475540237",
-      "funnet": "2026-09-04T12:40:39.027135+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
