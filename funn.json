@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T11:10:23.048451+00:00",
+  "sist_sjekket": "2026-09-04T11:12:17.587800+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Darkness Ablaze Booster Pack",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475532501",
+      "funnet": "2026-09-04T11:12:17.585831+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Alakazam ex 215/091 Shiny Ultra Rare (SUR) Paldean Fates NM",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475506219",
       "funnet": "2026-09-04T06:10:21.644322+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lagserien fotballkort Tottenham Hotspur 1979/80",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475511076",
-      "funnet": "2026-09-04T06:08:18.817135+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
