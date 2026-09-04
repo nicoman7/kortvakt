@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-04T07:14:19.492967+00:00",
+  "sist_sjekket": "2026-09-04T07:16:15.691014+00:00",
   "funn": [
+    {
+      "tittel": "2 pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475514209",
+      "funnet": "2026-09-04T07:16:15.688776+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475503006",
       "funnet": "2026-09-03T20:52:21.792267+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Erika & Larry Collections – Sealed",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475502785",
-      "funnet": "2026-09-03T20:52:21.373931+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
