@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T09:14:18.064709+00:00",
+  "sist_sjekket": "2026-09-05T09:16:28.046859+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Gengar holo samlekort 5/92",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475595702",
+      "funnet": "2026-09-05T09:16:28.044800+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Espeon Delta Species holo 4/113",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475574624",
       "funnet": "2026-09-04T20:12:18.736357+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gardevoir holo lost thunder",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475574542",
-      "funnet": "2026-09-04T20:10:23.855211+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
