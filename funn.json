@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-05T10:48:17.905393+00:00",
+  "sist_sjekket": "2026-09-05T10:50:25.005023+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon XY Evolution",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404217590",
+      "funnet": "2026-09-05T10:50:25.003074+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Prismatic Evolutions mini tin samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475605488",
+      "funnet": "2026-09-05T10:50:24.246728+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort fra 2002–2003 – Aquapolis, Sandstorm, Dragon, Ruby & Sapphire",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/403753669",
+      "funnet": "2026-09-05T10:50:23.501433+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA VM samlekort",
       "pris": 5,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/436908643",
       "funnet": "2026-09-04T21:06:19.660980+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Necrozma V holo battle styles",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475577167",
-      "funnet": "2026-09-04T21:06:18.780124+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Aggron EX holo primal clash",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475577053",
-      "funnet": "2026-09-04T21:04:17.133683+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Sett av Duskull & Dusclops & Dusknoir Japansk",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475577038",
-      "funnet": "2026-09-04T21:04:16.716189+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
