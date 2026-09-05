@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T09:06:15.869709+00:00",
+  "sist_sjekket": "2026-09-05T09:08:17.950506+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Feraligatr EX samlekort  103/115",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475594920",
+      "funnet": "2026-09-05T09:08:17.948696+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Ditto Delta Species kort – 5 stk",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475574412",
       "funnet": "2026-09-04T20:06:17.067345+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Espurr holografisk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475574445",
-      "funnet": "2026-09-04T20:06:16.250255+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
