@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T06:04:18.605762+00:00",
+  "sist_sjekket": "2026-09-05T06:06:16.331752+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mysterybox",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475583450",
+      "funnet": "2026-09-05T06:06:16.329777+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mysterybox",
       "pris": 70,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-04T19:22:18.854194+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort \"Team Rocket\" - blandet lot",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475571574",
-      "funnet": "2026-09-04T19:22:18.087605+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
