@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T12:12:18.596493+00:00",
+  "sist_sjekket": "2026-09-05T12:14:18.011455+00:00",
   "funn": [
+    {
+      "tittel": "Desmond Bane Basketballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/319068958",
+      "funnet": "2026-09-05T12:14:18.009585+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Shinx SH12 shiny",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475615433",
+      "funnet": "2026-09-05T12:14:17.273070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gallade V - Black Star Promo - Pokemon",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
       "funnet": "2026-09-05T03:02:14.630208+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 051/162 - Cosmo Holo",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475581607",
-      "funnet": "2026-09-05T03:00:49.396902+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon keychains med kort.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475581547",
-      "funnet": "2026-09-05T02:36:17.083091+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
