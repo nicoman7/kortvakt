@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T19:34:20.544734+00:00",
+  "sist_sjekket": "2026-09-05T19:36:21.059533+00:00",
   "funn": [
+    {
+      "tittel": "Marvel samlekort",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475657643",
+      "funnet": "2026-09-05T19:36:21.057611+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flotte Pokémon-kort selges (Fezandipiti ex Full Art m.fl.) – Ønsker bud",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475645613",
       "funnet": "2026-09-05T17:08:20.218415+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ultra Pro Vivid 12-Pocket Zippered PRO-Binder / Album Red selges",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475643844",
-      "funnet": "2026-09-05T17:08:19.348104+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
