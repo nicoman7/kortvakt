@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T10:52:21.001520+00:00",
+  "sist_sjekket": "2026-09-05T10:54:18.203333+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/430085450",
+      "funnet": "2026-09-05T10:54:18.201636+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Mewtwo EX kort",
+      "pris": 119,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475606553",
+      "funnet": "2026-09-05T10:54:17.895011+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Trainer kort",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 549,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475577293",
       "funnet": "2026-09-04T21:08:17.984190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 4.9",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-09-04T21:08:17.116136+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Limited Edition 19/50 – innrammet Topps-kort 🇳🇴⚽",
-      "pris": 1190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475577152",
-      "funnet": "2026-09-04T21:06:20.069198+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
