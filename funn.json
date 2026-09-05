@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T20:00:44.998854+00:00",
+  "sist_sjekket": "2026-09-05T20:02:17.043850+00:00",
   "funn": [
+    {
+      "tittel": "ASS Sjørøvere Alle Barns Firkort kortspill",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475659255",
+      "funnet": "2026-09-05T20:02:17.041697+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Scarlet & Violet Journey Together boosterpakke kortspill",
       "pris": 129,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475645899",
       "funnet": "2026-09-05T17:14:18.013268+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Damm mini firkort- racerbiler",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453351499",
-      "funnet": "2026-09-05T17:14:17.556597+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
