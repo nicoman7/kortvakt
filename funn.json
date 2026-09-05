@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T17:14:18.345180+00:00",
+  "sist_sjekket": "2026-09-05T17:16:17.644445+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort – landslagsspillere",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475646340",
+      "funnet": "2026-09-05T17:16:17.642627+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort samling",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475540634",
       "funnet": "2026-09-05T13:18:15.288990+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Raichu",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475623106",
-      "funnet": "2026-09-05T13:18:14.576554+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
