@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T09:18:24.503856+00:00",
+  "sist_sjekket": "2026-09-05T09:20:21.945999+00:00",
   "funn": [
+    {
+      "tittel": "Ca 190 forskjellige kort i samme årgang selges",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475595266",
+      "funnet": "2026-09-05T09:20:21.943881+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gengar holo samlekort 5/92",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475574798",
       "funnet": "2026-09-04T20:14:17.219631+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega M Gardevoir EX 156 FULL ART primal clash",
-      "pris": 820,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475574624",
-      "funnet": "2026-09-04T20:12:18.736357+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
