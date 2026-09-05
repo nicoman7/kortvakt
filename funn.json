@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T15:14:17.770768+00:00",
+  "sist_sjekket": "2026-09-05T15:16:17.165644+00:00",
   "funn": [
+    {
+      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 03.09!)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
+      "funnet": "2026-09-05T15:16:17.163752+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Psyduck japansk holo selges billig",
       "pris": 199,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T10:54:18.201636+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mewtwo EX kort",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475606553",
-      "funnet": "2026-09-05T10:54:17.895011+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
