@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T16:04:15.255345+00:00",
+  "sist_sjekket": "2026-09-05T16:06:16.269701+00:00",
   "funn": [
+    {
+      "tittel": "Buggy SR One piece samlekort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475640265",
+      "funnet": "2026-09-05T16:06:16.268054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Universal Waite Tarot – tarotkort på tysk",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475609306",
       "funnet": "2026-09-05T11:22:18.011656+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Snorlax promo SWSH119",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475610029",
-      "funnet": "2026-09-05T11:22:17.123469+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
