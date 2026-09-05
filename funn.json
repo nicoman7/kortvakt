@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T10:14:14.857161+00:00",
+  "sist_sjekket": "2026-09-05T10:16:16.731908+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort | Team Magma's Houndoom 10/95",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475602352",
+      "funnet": "2026-09-05T10:16:16.730032+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ny Pokemon Toploader samleperm",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475602529",
+      "funnet": "2026-09-05T10:16:15.970281+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort | Vintage bulk",
       "pris": 250,
@@ -1182,22 +1198,6 @@
       "pris": 899,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475575489",
       "funnet": "2026-09-04T20:28:22.274456+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Serperior holo legendary treasures",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475575543",
-      "funnet": "2026-09-04T20:28:21.402955+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-09-04T20:26:17.792761+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
