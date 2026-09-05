@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T13:44:18.127709+00:00",
+  "sist_sjekket": "2026-09-05T13:46:15.005784+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ultra Ball - brilliant stars",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475625809",
+      "funnet": "2026-09-05T13:46:15.003941+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort samling",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475624265",
+      "funnet": "2026-09-05T13:46:14.416046+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Hero’s Cape - temporal forces",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-05T09:02:20.291209+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Premier League 26/27 (Flagship Edition)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475594062",
-      "funnet": "2026-09-05T09:02:19.469270+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475593976",
-      "funnet": "2026-09-05T08:58:16.346995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
