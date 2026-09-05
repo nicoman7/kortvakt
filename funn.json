@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T19:28:15.411766+00:00",
+  "sist_sjekket": "2026-09-05T19:30:37.506149+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475657251",
+      "funnet": "2026-09-05T19:30:37.503952+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Iris's Fighting Spirit #292",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/463671707",
       "funnet": "2026-09-05T17:08:17.571612+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Biler . Damm firkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463672634",
-      "funnet": "2026-09-05T17:08:16.478725+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
