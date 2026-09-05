@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T16:12:16.796374+00:00",
+  "sist_sjekket": "2026-09-05T16:14:18.086503+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 151 til salgs",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475640784",
+      "funnet": "2026-09-05T16:14:18.084687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece Card Game, EB02 OG NOE ANDRE SERIER LOT PÅ 10 KORT, Engelsk",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475609518",
       "funnet": "2026-09-05T11:26:15.642060+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Morpeko VMAX samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475610098",
-      "funnet": "2026-09-05T11:22:19.254780+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
