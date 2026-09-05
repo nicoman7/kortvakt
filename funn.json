@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T21:28:15.554276+00:00",
+  "sist_sjekket": "2026-09-05T21:30:34.174188+00:00",
   "funn": [
+    {
+      "tittel": "Leaf Nikola Jokic signert basketkort 06/10",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475663094",
+      "funnet": "2026-09-05T21:30:34.172561+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort: Buizel (2008, fra adventskalender)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464930376",
+      "funnet": "2026-09-05T21:30:33.803342+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort  Forskjellige TOPPS kort, clear charizard mm.",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-05T17:42:20.117107+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475647756",
-      "funnet": "2026-09-05T17:42:19.207666+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475648344",
-      "funnet": "2026-09-05T17:38:16.581741+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
