@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T12:46:15.683010+00:00",
+  "sist_sjekket": "2026-09-05T12:48:15.189076+00:00",
   "funn": [
+    {
+      "tittel": "Kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475619257",
+      "funnet": "2026-09-05T12:48:15.187222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup samlebokser og kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
+      "funnet": "2026-09-05T12:48:14.802608+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon | Uåpnet promokort | Eevee og Zekrom",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475583928",
       "funnet": "2026-09-05T06:20:23.818469+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cyrano #230/191 trainer pokemon",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475583552",
-      "funnet": "2026-09-05T06:10:21.339609+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mysterybox",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475583450",
-      "funnet": "2026-09-05T06:06:16.329777+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
