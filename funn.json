@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T17:10:22.746059+00:00",
+  "sist_sjekket": "2026-09-05T17:12:53.451794+00:00",
   "funn": [
+    {
+      "tittel": "Super Trumf firkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463300892",
+      "funnet": "2026-09-05T17:12:53.449664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Bubbel Mew",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475642124",
+      "funnet": "2026-09-05T17:12:52.202217+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - WOOPER (REVERSE HOLO)",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475540572",
       "funnet": "2026-09-05T13:10:28.170919+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holo Cranidos #43 Pokemon Mysterious Treasures Kort år 2007 Vintage",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475540661",
-      "funnet": "2026-09-05T13:10:27.763900+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Jigglypuff",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475621784",
-      "funnet": "2026-09-05T13:10:26.829924+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
