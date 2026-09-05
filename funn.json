@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T10:06:17.939467+00:00",
+  "sist_sjekket": "2026-09-05T10:08:19.743222+00:00",
   "funn": [
+    {
+      "tittel": "Masse ex kort og noen aspec",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475601206",
+      "funnet": "2026-09-05T10:08:19.741480+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling fotballkort Panini Adrenalyn XL Limited Edition",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475601701",
+      "funnet": "2026-09-05T10:08:19.400677+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort samling Panini / diverse spillere",
       "pris": 340,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475575298",
       "funnet": "2026-09-04T20:22:17.923366+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Hawlucha EX furious fists",
-      "pris": 165,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475575146",
-      "funnet": "2026-09-04T20:20:37.966694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lucario holo sun and moon promo SM54",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475575080",
-      "funnet": "2026-09-04T20:18:19.599935+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
