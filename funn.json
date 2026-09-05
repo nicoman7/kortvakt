@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T18:02:15.152773+00:00",
+  "sist_sjekket": "2026-09-05T18:04:16.075890+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Wobbuffet generations",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475650455",
+      "funnet": "2026-09-05T18:04:16.073725+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort Erling Haaland Roots",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T14:38:18.677897+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Prismatic Evolutions ETB",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475630548",
-      "funnet": "2026-09-05T14:32:15.368259+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
