@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T20:18:16.555652+00:00",
+  "sist_sjekket": "2026-09-05T20:20:21.999867+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475660114",
+      "funnet": "2026-09-05T20:20:21.997932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arceus VSTAR #GG70 Pokemon Crown Zenith",
       "pris": 1850,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475647167",
       "funnet": "2026-09-05T17:26:14.496297+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Sett av Magmortar & Electivire Japansk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475647230",
-      "funnet": "2026-09-05T17:26:14.228580+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
