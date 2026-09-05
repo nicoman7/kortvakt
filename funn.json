@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T21:26:15.872448+00:00",
+  "sist_sjekket": "2026-09-05T21:28:15.554276+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort  Forskjellige TOPPS kort, clear charizard mm.",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475661924",
+      "funnet": "2026-09-05T21:28:15.552302+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland GIANT holografisk (3 kort)",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T17:38:16.581741+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475648310",
-      "funnet": "2026-09-05T17:38:15.732628+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
