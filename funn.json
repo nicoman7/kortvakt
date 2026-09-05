@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T13:00:50.364197+00:00",
+  "sist_sjekket": "2026-09-05T13:02:15.922272+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Slowbro holo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475620683",
+      "funnet": "2026-09-05T13:02:15.920405+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kort",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T06:22:18.338645+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Diverse fotball kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475583928",
-      "funnet": "2026-09-05T06:20:23.818469+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
