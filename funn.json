@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T10:16:16.731908+00:00",
+  "sist_sjekket": "2026-09-05T10:18:16.578532+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475602395",
+      "funnet": "2026-09-05T10:18:16.576819+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort | Magmar ex 100/109",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475602673",
+      "funnet": "2026-09-05T10:18:15.720952+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort | Team Magma's Houndoom 10/95",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475575643",
       "funnet": "2026-09-04T20:30:36.465588+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 03.09!)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
-      "funnet": "2026-09-04T20:30:35.895758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "319 stk Panini FIFA 365 Adrenalyn XL 2026.",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475575489",
-      "funnet": "2026-09-04T20:28:22.274456+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
