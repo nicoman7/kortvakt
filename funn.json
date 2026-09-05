@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T15:18:18.847404+00:00",
+  "sist_sjekket": "2026-09-05T15:20:25.070521+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokémon-kort 1999 – Base Set, Jungle & Fossil – 20 kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475635045",
+      "funnet": "2026-09-05T15:20:25.068676+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 03.09!)",
       "pris": 3,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T10:58:12.678824+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430085450",
-      "funnet": "2026-09-05T10:54:18.201636+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
