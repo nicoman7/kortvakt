@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T14:22:13.561871+00:00",
+  "sist_sjekket": "2026-09-05T14:24:16.271176+00:00",
   "funn": [
+    {
+      "tittel": "Stor kolleksjon av gamle pokemon kort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475629281",
+      "funnet": "2026-09-05T14:24:16.269384+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fennel #166 Pokemon Japanese Black Bolt",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475469820",
+      "funnet": "2026-09-05T14:24:15.704071+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Budew #196 Pokemon Japanese Mega Dream ex",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-05T10:16:16.730032+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ny Pokemon Toploader samleperm",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602529",
-      "funnet": "2026-09-05T10:16:15.970281+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort | Vintage bulk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602110",
-      "funnet": "2026-09-05T10:14:14.854930+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
