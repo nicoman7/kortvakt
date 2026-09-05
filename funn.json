@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-05T12:20:23.872534+00:00",
+  "sist_sjekket": "2026-09-05T12:22:14.656521+00:00",
   "funn": [
+    {
+      "tittel": "selger 2 pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475616518",
+      "funnet": "2026-09-05T12:22:14.654477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 klistremerke",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467512126",
+      "funnet": "2026-09-05T12:22:14.397383+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu V - Black Star Promo - Pokemon",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475616866",
+      "funnet": "2026-09-05T12:22:14.088310+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Merlin Pl 25-26 Cody Gakpo Refractor",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
       "funnet": "2026-09-05T05:48:19.168058+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-09-05T05:44:13.487962+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu samling + div promo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475582103",
-      "funnet": "2026-09-05T05:08:14.266018+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475582054",
-      "funnet": "2026-09-05T04:54:17.074954+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
