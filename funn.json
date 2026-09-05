@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T09:36:16.850426+00:00",
+  "sist_sjekket": "2026-09-05T09:38:17.336655+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemon kort selges.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475597591",
+      "funnet": "2026-09-05T09:38:17.334873+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-04T20:18:18.457211+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kangaskhan EX box 2 stk",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475575072",
-      "funnet": "2026-09-04T20:18:17.671907+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
