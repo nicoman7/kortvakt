@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T15:00:51.351788+00:00",
+  "sist_sjekket": "2026-09-05T15:02:52.544149+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475633628",
+      "funnet": "2026-09-05T15:02:52.542294+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA Hoops Basketballkort Samling",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/451534951",
       "funnet": "2026-09-05T10:48:17.118434+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Serperior EX 003/086 Black Bolt",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475606117",
-      "funnet": "2026-09-05T10:48:16.192861+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
