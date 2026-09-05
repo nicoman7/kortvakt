@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T04:52:18.461541+00:00",
+  "sist_sjekket": "2026-09-05T04:54:17.076804+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475582054",
+      "funnet": "2026-09-05T04:54:17.074954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Froslass ex 265/217 – Special Illustration Rare",
       "pris": 125,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475571370",
       "funnet": "2026-09-04T19:18:16.192953+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wooper Pokemonkort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475571417",
-      "funnet": "2026-09-04T19:18:15.609362+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
