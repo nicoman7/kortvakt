@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T09:26:15.929450+00:00",
+  "sist_sjekket": "2026-09-05T09:28:17.092627+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser - Gratis Frakt",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-09-05T09:28:17.090710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Squadzone fotballkort samling. Komplett 24 kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-04T20:18:17.671907+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotballkort samling",
-      "pris": 380,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475574566",
-      "funnet": "2026-09-04T20:16:18.299053+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
