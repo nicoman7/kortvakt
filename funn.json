@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T14:08:16.381922+00:00",
+  "sist_sjekket": "2026-09-05T14:10:22.221553+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet lot",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475628241",
+      "funnet": "2026-09-05T14:10:22.219487+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Machamp holo 8/102",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475598921",
       "funnet": "2026-09-05T09:42:17.886661+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemon kort selges.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475597591",
-      "funnet": "2026-09-05T09:38:17.334873+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
