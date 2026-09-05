@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T06:02:15.943588+00:00",
+  "sist_sjekket": "2026-09-05T06:04:18.605762+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mysterybox",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475583385",
+      "funnet": "2026-09-05T06:04:18.603945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort mysterybox",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475583356",
+      "funnet": "2026-09-05T06:04:18.205421+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mysterybox med pokecoin",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475571574",
       "funnet": "2026-09-04T19:22:18.087605+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wooper Pokemonkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475571551",
-      "funnet": "2026-09-04T19:22:17.328599+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misdreavus Reverse Holo Pokemonkort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475571691",
-      "funnet": "2026-09-04T19:22:16.931176+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
