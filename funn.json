@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T08:56:16.188169+00:00",
+  "sist_sjekket": "2026-09-05T08:58:16.349024+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475593976",
+      "funnet": "2026-09-05T08:58:16.346995+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mega evolution pitch black",
       "pris": 650,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475574045",
       "funnet": "2026-09-04T20:02:17.901933+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Azumarill alpha primal clash holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475574135",
-      "funnet": "2026-09-04T20:02:17.480880+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
