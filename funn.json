@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T14:00:46.665166+00:00",
+  "sist_sjekket": "2026-09-05T14:02:15.461543+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Yanmega ex #3 - Destined Rivals",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475627003",
+      "funnet": "2026-09-05T14:02:15.459713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – ceruledge 224/208 kinesisk",
       "pris": 160,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-05T09:20:21.943881+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gengar holo samlekort 5/92",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475595702",
-      "funnet": "2026-09-05T09:16:28.044800+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
