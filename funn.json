@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T14:28:14.519804+00:00",
+  "sist_sjekket": "2026-09-05T14:30:39.840071+00:00",
   "funn": [
+    {
+      "tittel": "Panini Extra Sticker Cody Gakpo Silver🥈",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475630084",
+      "funnet": "2026-09-05T14:30:39.838389+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-05T14:30:39.461762+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG – Destined Rivals, Ascended Heroes, Chaos Rising + mer – fra 499 kr",
       "pris": 499,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-05T10:22:20.796730+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602395",
-      "funnet": "2026-09-05T10:18:16.576819+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort | Magmar ex 100/109",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602673",
-      "funnet": "2026-09-05T10:18:15.720952+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
