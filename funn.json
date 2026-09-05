@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-05T17:36:17.069378+00:00",
+  "sist_sjekket": "2026-09-05T17:38:16.583572+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475648344",
+      "funnet": "2026-09-05T17:38:16.581741+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475648310",
+      "funnet": "2026-09-05T17:38:15.732628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Siphoning Strike epic Riftbound samlekort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475627212",
       "funnet": "2026-09-05T14:04:19.445062+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Yanmega ex #3 - Destined Rivals",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475627003",
-      "funnet": "2026-09-05T14:02:15.459713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – ceruledge 224/208 kinesisk",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475627002",
-      "funnet": "2026-09-05T14:00:46.663444+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
