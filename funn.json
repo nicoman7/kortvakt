@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T06:00:45.942662+00:00",
+  "sist_sjekket": "2026-09-05T06:02:15.943588+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mysterybox med pokecoin",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475583288",
+      "funnet": "2026-09-05T06:02:15.941477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup samlebokser og kort",
       "pris": 2,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475571691",
       "funnet": "2026-09-04T19:22:16.931176+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475571499",
-      "funnet": "2026-09-04T19:20:24.129316+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
