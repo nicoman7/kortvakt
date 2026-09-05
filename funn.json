@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T16:18:16.240786+00:00",
+  "sist_sjekket": "2026-09-05T16:20:26.415267+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort VM 2026 - Salg og bytte (oppdatert 29.08.)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474550756",
+      "funnet": "2026-09-05T16:20:26.413236+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Flying Hearts Tarot – sjelden tysk tarotkortstokk fra 1988",
       "pris": 1300,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475610212",
       "funnet": "2026-09-05T11:30:36.726573+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gloom reverse hidden legends yuka morii",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475610468",
-      "funnet": "2026-09-05T11:26:15.946113+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
