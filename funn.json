@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-05T08:16:14.271039+00:00",
+  "sist_sjekket": "2026-09-05T08:18:19.860963+00:00",
   "funn": [
+    {
+      "tittel": "Yuka Morii Ditto fra Pokemon Delta Species",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475217569",
+      "funnet": "2026-09-05T08:18:19.859070+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Perm til FIFA World cup 2026 Adrenalyn XL (nordic edition)",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 649,
       "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
       "funnet": "2026-09-04T19:56:18.232534+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort diverse spillere-samlet verdi cirka 1000kr ifølge spoly",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475573587",
-      "funnet": "2026-09-04T19:52:16.984222+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
