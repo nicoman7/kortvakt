@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T07:20:20.756269+00:00",
+  "sist_sjekket": "2026-09-06T07:22:15.833909+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475675337",
+      "funnet": "2026-09-06T07:22:15.832000+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gengar ex 104/162 Double Rare (RR) Temporal Forces NM",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474938605",
       "funnet": "2026-09-05T19:10:24.202176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bytte Panini vm stickers",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475655475",
-      "funnet": "2026-09-05T19:10:23.386721+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
