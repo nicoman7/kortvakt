@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T11:44:15.181693+00:00",
+  "sist_sjekket": "2026-09-06T11:46:17.243775+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling selges billig samlet",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475706631",
+      "funnet": "2026-09-06T11:46:17.241827+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475706560",
+      "funnet": "2026-09-06T11:46:16.436991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475666121",
       "funnet": "2026-09-06T00:26:17.589666+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort MorpekoEX versjon 117/084",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475666058",
-      "funnet": "2026-09-06T00:22:50.496006+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL til salgs. Oppdatert 5.9",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-09-06T00:16:17.165861+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
