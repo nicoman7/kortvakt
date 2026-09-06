@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T10:50:20.979073+00:00",
+  "sist_sjekket": "2026-09-06T10:52:15.431521+00:00",
   "funn": [
+    {
+      "tittel": "🃏 Pokémon EX-kort - Stor samling – 5/10/15/20kr per kort!",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475698032",
+      "funnet": "2026-09-06T10:52:15.429832+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort selges",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475663708",
       "funnet": "2026-09-05T21:48:15.940997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Sett av Charcadet, Armarouge, og Ceruledge Japansk",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475663719",
-      "funnet": "2026-09-05T21:48:15.556916+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
