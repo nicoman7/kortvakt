@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-06T08:16:14.296883+00:00",
+  "sist_sjekket": "2026-09-06T08:18:16.099326+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679621",
+      "funnet": "2026-09-06T08:18:16.097511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679714",
+      "funnet": "2026-09-06T08:18:15.298212+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Iron Boulder 071/142 Holofoil Rare (R) Prize Pack Series One NM",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679682",
+      "funnet": "2026-09-06T08:18:14.653304+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473816178",
       "funnet": "2026-09-05T19:16:30.604080+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Tinkaton Ex Paldea Evolved",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473256174",
-      "funnet": "2026-09-05T19:16:30.265223+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mini Tins med kort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475279610",
-      "funnet": "2026-09-05T19:16:29.458080+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega charizard x Ex phantasmal flames 109/094",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473153745",
-      "funnet": "2026-09-05T19:16:29.127720+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
