@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T07:52:15.717429+00:00",
+  "sist_sjekket": "2026-09-06T07:54:13.945868+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475677502",
+      "funnet": "2026-09-06T07:54:13.943618+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475677676",
+      "funnet": "2026-09-06T07:54:13.630451+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yveltal 046/072 Amazing Rare (AR) Shining Fates NM",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 139,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470543928",
       "funnet": "2026-09-05T19:16:18.139021+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Froslass 1207/07 Triple Rare (RRR) Gem Pack 4 NM",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656310",
-      "funnet": "2026-09-05T19:16:17.219360+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Piplup #098/094 Pokemon Phantasmal Flames CGC Pristine 10",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474032916",
-      "funnet": "2026-09-05T19:12:23.532109+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
