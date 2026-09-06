@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T08:08:17.620052+00:00",
+  "sist_sjekket": "2026-09-06T08:10:39.972686+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679002",
+      "funnet": "2026-09-06T08:10:39.970796+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 062/193 Reverse Holofoil Common (C) Paldea Evolved NM",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474510684",
       "funnet": "2026-09-05T19:16:27.113543+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Black Gold Autographs Matteo Darmian 14/25 Italia",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470654455",
-      "funnet": "2026-09-05T19:16:22.391081+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
