@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T20:02:18.175689+00:00",
+  "sist_sjekket": "2026-09-06T20:04:15.797555+00:00",
   "funn": [
+    {
+      "tittel": "Veldig stor samling med fotballkort gi bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475768625",
+      "funnet": "2026-09-06T20:04:15.796007+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Magic The Gathering King T’Challa og Black Panther kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475770101",
+      "funnet": "2026-09-06T20:04:15.137237+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Pignite 030/217 (Energy Symbol Pattern)",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475711128",
       "funnet": "2026-09-06T17:52:15.732096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard VMAX",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475755640",
-      "funnet": "2026-09-06T17:48:15.656660+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Groudon 108/217 (Energy Symbol Pattern)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475711194",
-      "funnet": "2026-09-06T17:48:14.907338+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
