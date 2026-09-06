@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T19:32:18.883052+00:00",
+  "sist_sjekket": "2026-09-06T19:34:14.541428+00:00",
   "funn": [
+    {
+      "tittel": "EX SAMLING - SELGES SAMLET",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475767454",
+      "funnet": "2026-09-06T19:34:14.539238+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece Card Game samlekort OP06-006",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475753859",
       "funnet": "2026-09-06T17:30:39.320573+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax perm fotballkort Premier League 2010-2011",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460445966",
-      "funnet": "2026-09-06T17:30:38.489292+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
