@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T10:42:15.444127+00:00",
+  "sist_sjekket": "2026-09-06T10:44:18.906022+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475697258",
+      "funnet": "2026-09-06T10:44:18.904353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort 5+1",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475663359",
       "funnet": "2026-09-05T21:38:14.945560+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leaf The 4 Legends baseballkort med autografer",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475663305",
-      "funnet": "2026-09-05T21:36:16.461166+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
