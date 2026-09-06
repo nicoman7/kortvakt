@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T21:12:16.120829+00:00",
+  "sist_sjekket": "2026-09-06T21:14:15.823417+00:00",
   "funn": [
+    {
+      "tittel": "Topps kort",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475774411",
+      "funnet": "2026-09-06T21:14:15.821633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Pawniard 146/217 (Energy Symbol Pattern)",
       "pris": 18,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475760560",
       "funnet": "2026-09-06T18:28:16.349405+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu V kort holo 170/185",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467514117",
-      "funnet": "2026-09-06T18:28:15.636672+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
