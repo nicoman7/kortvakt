@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T08:14:14.300393+00:00",
+  "sist_sjekket": "2026-09-06T08:16:14.296883+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679488",
+      "funnet": "2026-09-06T08:16:14.295015+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473153745",
       "funnet": "2026-09-05T19:16:29.127720+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort- Bisharp 143/086 fra Black bolt",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656220",
-      "funnet": "2026-09-05T19:16:28.160370+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
