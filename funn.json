@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T14:04:14.900235+00:00",
+  "sist_sjekket": "2026-09-06T14:06:15.579463+00:00",
   "funn": [
+    {
+      "tittel": "FASTPRIS binder salg | Pokémonkort Eng/JP/CN",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475725649",
+      "funnet": "2026-09-06T14:06:15.577549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Booster Bundle",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475700119",
       "funnet": "2026-09-06T11:08:23.141314+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Abra - 151 - Pokemon",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475700346",
-      "funnet": "2026-09-06T11:08:22.280711+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
