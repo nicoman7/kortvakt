@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-06T09:08:17.069391+00:00",
+  "sist_sjekket": "2026-09-06T09:10:23.454759+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475685185",
+      "funnet": "2026-09-06T09:10:23.452801+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Brazilian Artist Richarlison kort Champions League Tottenham",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475685552",
+      "funnet": "2026-09-06T09:10:22.615669+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475685617",
+      "funnet": "2026-09-06T09:10:22.201881+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/462221988",
       "funnet": "2026-09-05T19:20:24.796662+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-09-05T19:20:24.253701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex 183/165",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656380",
-      "funnet": "2026-09-05T19:18:17.676382+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magneton 0307/05 Art Rare (AR) Gem Pack 5 NM",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656398",
-      "funnet": "2026-09-05T19:18:16.702496+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
