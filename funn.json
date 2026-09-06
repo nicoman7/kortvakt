@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T17:32:36.143703+00:00",
+  "sist_sjekket": "2026-09-06T17:34:15.954999+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon trade",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475754249",
+      "funnet": "2026-09-06T17:34:15.953027+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA fotballkort samling – spesial- og limited edition kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475753887",
+      "funnet": "2026-09-06T17:34:15.261058+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Victini Illustration Collection samleboks",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475715277",
       "funnet": "2026-09-06T14:50:34.869290+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Original Pokemon TCG ToySite Ho-Oh Album/Binder",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475717117",
-      "funnet": "2026-09-06T14:50:34.241116+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon lamincards 5 stk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475717697",
-      "funnet": "2026-09-06T14:50:33.956845+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
