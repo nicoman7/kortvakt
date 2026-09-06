@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T10:48:15.440474+00:00",
+  "sist_sjekket": "2026-09-06T10:50:20.979073+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475698325",
+      "funnet": "2026-09-06T10:50:20.977137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ursaluna V - Silver Tempest - Pokemon",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475663719",
       "funnet": "2026-09-05T21:48:15.556916+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Cooper Flagg Dallas Mavericks basketkort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475663605",
-      "funnet": "2026-09-05T21:46:14.462086+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
