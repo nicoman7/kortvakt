@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T15:50:22.534941+00:00",
+  "sist_sjekket": "2026-09-06T15:52:15.254907+00:00",
   "funn": [
+    {
+      "tittel": "Snorlax samling japanske og engelske",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475741126",
+      "funnet": "2026-09-06T15:52:15.253134+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt - Pokemon pakke selges samlet. Pitch Black + Perfect Order + mer",
       "pris": 95,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475724243",
       "funnet": "2026-09-06T13:56:15.073865+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort VMAX japansk - 2 stk holografiske",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475725952",
-      "funnet": "2026-09-06T13:56:14.486094+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
