@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T19:42:17.408239+00:00",
+  "sist_sjekket": "2026-09-06T19:44:17.279354+00:00",
   "funn": [
+    {
+      "tittel": "Kort til Hanna",
+      "pris": 46,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475768562",
+      "funnet": "2026-09-06T19:44:17.277300+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Drampa V - Brilliant Stars - Pokemon",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475768533",
+      "funnet": "2026-09-06T19:44:16.654304+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex 044/193 RR jap",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475753887",
       "funnet": "2026-09-06T17:34:15.261058+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Victini Illustration Collection samleboks",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460620029",
-      "funnet": "2026-09-06T17:32:36.142153+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax fotballkort samling",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460446471",
-      "funnet": "2026-09-06T17:32:35.540007+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
