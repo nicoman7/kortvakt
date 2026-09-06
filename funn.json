@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T17:54:16.447784+00:00",
+  "sist_sjekket": "2026-09-06T17:56:17.093534+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475757289",
+      "funnet": "2026-09-06T17:56:17.091327+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FC Barcelona samlekortramme – Camp Nou | Eksklusivt design 🔵🔴⚽ Billig!",
       "pris": 249,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475620672",
       "funnet": "2026-09-06T14:54:18.207874+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graded pokemonkort japansk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470153920",
-      "funnet": "2026-09-06T14:54:17.798212+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
