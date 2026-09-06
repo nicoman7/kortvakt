@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T08:12:14.016331+00:00",
+  "sist_sjekket": "2026-09-06T08:14:14.300393+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679252",
+      "funnet": "2026-09-06T08:14:14.298202+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475656220",
       "funnet": "2026-09-05T19:16:28.160370+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Lucas Paquetá autograph kort 156/199 West Ham Premier League",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474510684",
-      "funnet": "2026-09-05T19:16:27.113543+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
