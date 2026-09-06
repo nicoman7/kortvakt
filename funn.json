@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-09-06T19:04:18.694020+00:00",
+  "sist_sjekket": "2026-09-06T19:06:27.364037+00:00",
   "funn": [
+    {
+      "tittel": "OVERSIZED pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475042440",
+      "funnet": "2026-09-06T19:06:27.362335+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Go",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474709343",
+      "funnet": "2026-09-06T19:06:26.549035+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med EX og holo kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469801785",
+      "funnet": "2026-09-06T19:06:26.170057+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Bundle: Pokemon First Partner Illustration Collection Series 1 og 2",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469422440",
+      "funnet": "2026-09-06T19:06:25.763994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ulike kort fra Pokémon Sword & Shield Vivid Voltage",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475764511",
+      "funnet": "2026-09-06T19:06:25.019962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon energy kort, over 800 kort i veldig god stand",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475764195",
+      "funnet": "2026-09-06T19:06:24.630875+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "BILLIG Pokemon kort med gode hits",
       "pris": 599,
@@ -1151,54 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475745471",
       "funnet": "2026-09-06T16:24:17.180414+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Blastoise japansk PSA 10 samlekort",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475745586",
-      "funnet": "2026-09-06T16:24:16.798666+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Hypno holo fossil 8/62",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475744956",
-      "funnet": "2026-09-06T16:22:18.924141+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Engelske, 300 kort fra 2004-2026.",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475744933",
-      "funnet": "2026-09-06T16:22:18.227629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Søte gamle pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475744510",
-      "funnet": "2026-09-06T16:22:17.572758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Poliwrath holo 13/102",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475743960",
-      "funnet": "2026-09-06T16:22:16.858601+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard VMAX kort PSA 10",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475745210",
-      "funnet": "2026-09-06T16:22:15.959588+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
