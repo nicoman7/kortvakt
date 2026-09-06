@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T17:20:23.518582+00:00",
+  "sist_sjekket": "2026-09-06T17:22:16.516193+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Poké Pad - Ascended Heroes",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475753000",
+      "funnet": "2026-09-06T17:22:16.514085+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage Pokémon Topps-kort (2000/2001) – Topps Chrome & Johto Series",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475609827",
       "funnet": "2026-09-06T14:50:25.653407+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Pitch Black - hits og ekstra kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475654091",
-      "funnet": "2026-09-06T14:48:46.198015+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
