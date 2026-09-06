@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T15:38:17.175596+00:00",
+  "sist_sjekket": "2026-09-06T15:40:22.864343+00:00",
   "funn": [
+    {
+      "tittel": "Vulpix-samling",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475739526",
+      "funnet": "2026-09-06T15:40:22.862369+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon pakker, stor packrate.",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475738101",
+      "funnet": "2026-09-06T15:40:22.187774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Minun og Plusle holo selges",
       "pris": 170,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475722093",
       "funnet": "2026-09-06T13:32:15.661445+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Hawlucha ex #229 Pokemon Japanese Mega Dream ex",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475721653",
-      "funnet": "2026-09-06T13:30:36.282349+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dusclops #69 Pokemon Shrouded Fable",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475721413",
-      "funnet": "2026-09-06T13:28:18.043353+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
