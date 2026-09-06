@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T07:32:23.929983+00:00",
+  "sist_sjekket": "2026-09-06T07:34:16.762579+00:00",
   "funn": [
+    {
+      "tittel": "Dodrio 200/091 Shiny Rare (SR) Paldean Fates NM",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475676148",
+      "funnet": "2026-09-06T07:34:16.761207+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kingambit 187/091 Shiny Rare (SR) Paldean Fates NM",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475656019",
       "funnet": "2026-09-05T19:12:20.416187+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656055",
-      "funnet": "2026-09-05T19:12:19.974404+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
