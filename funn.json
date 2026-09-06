@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-06T18:04:22.663869+00:00",
+  "sist_sjekket": "2026-09-06T18:06:16.342584+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475758528",
+      "funnet": "2026-09-06T18:06:16.340621+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Mega Meganium ex 010/217 (Holo)",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475735948",
+      "funnet": "2026-09-06T18:06:15.744955+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475758400",
+      "funnet": "2026-09-06T18:06:15.408484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Glastrier 054/217 (Friend Ball)",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475735831",
+      "funnet": "2026-09-06T18:06:14.825975+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475673573",
       "funnet": "2026-09-06T15:00:57.382460+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew - Celebrations - Pokemon",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475675757",
-      "funnet": "2026-09-06T15:00:57.111495+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475677106",
-      "funnet": "2026-09-06T15:00:56.860351+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475678867",
-      "funnet": "2026-09-06T15:00:56.279885+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kyogre 021/072 Amazing Rare (AR) Shining Fates NM",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475677288",
-      "funnet": "2026-09-06T15:00:55.972870+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
