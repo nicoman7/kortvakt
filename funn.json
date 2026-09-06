@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T18:58:17.537533+00:00",
+  "sist_sjekket": "2026-09-06T19:00:55.393001+00:00",
   "funn": [
+    {
+      "tittel": "fotball kort",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475758588",
+      "funnet": "2026-09-06T19:00:55.391458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Diverse eldre kort (generasjon 3)",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475735402",
       "funnet": "2026-09-06T16:10:59.676002+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse full art Trainers Pokemon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475736862",
-      "funnet": "2026-09-06T16:10:58.801725+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
