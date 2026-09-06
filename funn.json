@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T07:24:14.656363+00:00",
+  "sist_sjekket": "2026-09-06T07:26:18.148239+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort bunt",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475675605",
+      "funnet": "2026-09-06T07:26:18.146476+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Annihilape 171/091 Shiny Rare (SR) Paldean Fates NM",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475675677",
+      "funnet": "2026-09-06T07:26:17.275593+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lucario 174/091 Shiny Rare (SR) Paldean Fates NM",
       "pris": 235,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474156982",
       "funnet": "2026-09-05T19:12:19.104690+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort- Litwick 101/086 fra White Flare",
-      "pris": 365,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475655730",
-      "funnet": "2026-09-05T19:12:18.024388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Greninja EX Black Star Promo kort CGC 10",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470597428",
-      "funnet": "2026-09-05T19:10:25.147224+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
