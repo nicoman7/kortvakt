@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T08:04:20.026616+00:00",
+  "sist_sjekket": "2026-09-06T08:06:25.005287+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475678715",
+      "funnet": "2026-09-06T08:06:25.003677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470431308",
       "funnet": "2026-09-05T19:16:21.579860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Superstars Relic Card Jacob Ramsey Aston Villa /99",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470258390",
-      "funnet": "2026-09-05T19:16:20.688964+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
