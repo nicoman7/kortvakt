@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-06T23:38:24.015236+00:00",
+  "sist_sjekket": "2026-09-06T23:40:24.619161+00:00",
   "funn": [
+    {
+      "tittel": "Topps NBA Hoops Hard Wired Cooper Flagg basketkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475777654",
+      "funnet": "2026-09-06T23:40:24.617571+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps chrome update Cooper Flagg rookie",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475777686",
+      "funnet": "2026-09-06T23:40:23.603814+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kort fra 2016",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-06T19:02:17.174572+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Sealed Pokémon Promo kort - Ylveltal 088/132 Mega Evolution Stamped promo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475295116",
-      "funnet": "2026-09-06T19:02:16.754766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Mega Lucario EX 160/132",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474194460",
-      "funnet": "2026-09-06T19:02:16.064860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
