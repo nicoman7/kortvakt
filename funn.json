@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T08:18:16.099326+00:00",
+  "sist_sjekket": "2026-09-06T08:20:21.295776+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Eevee 224",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475679753",
+      "funnet": "2026-09-06T08:20:21.293657+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475282267",
       "funnet": "2026-09-05T19:16:31.003933+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Wo-Chien ex SIR",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473816178",
-      "funnet": "2026-09-05T19:16:30.604080+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
