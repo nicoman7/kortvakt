@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-06T07:58:17.784158+00:00",
+  "sist_sjekket": "2026-09-06T08:00:45.783181+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475678154",
+      "funnet": "2026-09-06T08:00:45.781583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gengar 094/165 Holofoil Rare (R) Scarlet & Violet 151 NM",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/472216860",
       "funnet": "2026-09-05T19:16:19.438096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm Ben White Arsenal fotballkort 10/10",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470623390",
-      "funnet": "2026-09-05T19:16:19.039128+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
