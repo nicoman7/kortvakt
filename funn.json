@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T00:18:17.539305+00:00",
+  "sist_sjekket": "2026-09-07T00:20:23.378972+00:00",
   "funn": [
+    {
+      "tittel": "Gyarados EX #XY106 Pokemon Promo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475777945",
+      "funnet": "2026-09-07T00:20:23.377003+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gastly #80 Pokemon Japanese Wild Force",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-06T19:06:26.170057+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bundle: Pokemon First Partner Illustration Collection Series 1 og 2",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469422440",
-      "funnet": "2026-09-06T19:06:25.763994+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
