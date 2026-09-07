@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T10:34:17.534388+00:00",
+  "sist_sjekket": "2026-09-07T10:36:14.859140+00:00",
   "funn": [
+    {
+      "tittel": "Eternos Panini 629",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475801628",
+      "funnet": "2026-09-07T10:36:14.856889+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Shining Lugia kort / NM",
       "pris": 1900,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475759320",
       "funnet": "2026-09-07T07:34:50.037726+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "9 pokemon flix-pix kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475760144",
-      "funnet": "2026-09-07T07:34:46.582101+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
