@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T16:10:21.302140+00:00",
+  "sist_sjekket": "2026-09-07T16:12:18.993464+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling – diverse kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475833151",
+      "funnet": "2026-09-07T16:12:18.991816+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Hawlucha ex #229 Pokemon Japanese Mega Dream ex",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475833854",
+      "funnet": "2026-09-07T16:12:18.393091+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thievul #89 Pokemon Japanese Abyss Eye",
       "pris": 35,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475819857",
       "funnet": "2026-09-07T13:52:14.286476+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475820386",
-      "funnet": "2026-09-07T13:50:24.825917+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Seismitoad EX #106/111 Pokemon kort (Furious Fists)",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475820161",
-      "funnet": "2026-09-07T13:50:24.546499+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
