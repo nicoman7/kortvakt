@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T18:24:16.739087+00:00",
+  "sist_sjekket": "2026-09-07T18:26:19.270525+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotballkort pakke 25",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475848089",
+      "funnet": "2026-09-07T18:26:19.268609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Fotballkort pakke 26",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475848171",
+      "funnet": "2026-09-07T18:26:18.488377+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Fotballkort pakke 24",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475836345",
       "funnet": "2026-09-07T16:36:17.039956+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Skarmory EX #80 Pokemon XY",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475835628",
-      "funnet": "2026-09-07T16:30:40.050480+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlepakke– blandet parti",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475834719",
-      "funnet": "2026-09-07T16:30:39.695451+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
