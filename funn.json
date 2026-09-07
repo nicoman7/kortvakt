@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T16:42:14.497421+00:00",
+  "sist_sjekket": "2026-09-07T16:44:17.066247+00:00",
   "funn": [
+    {
+      "tittel": "Mew #11 Pokemon Celebrations",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475837182",
+      "funnet": "2026-09-07T16:44:17.064403+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu [2026 Pokemon Day] #51 Pokemon Temporal Forces",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475837051",
+      "funnet": "2026-09-07T16:44:16.079627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ninetales V #26 Pokemon Rebel Clash",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T14:34:14.756216+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sona crystal rose alternate art Riftbound samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475824366",
-      "funnet": "2026-09-07T14:34:14.348155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475823473",
-      "funnet": "2026-09-07T14:30:39.295622+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
