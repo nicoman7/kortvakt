@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T18:22:23.151158+00:00",
+  "sist_sjekket": "2026-09-07T18:24:16.739087+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotballkort pakke 24",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475847762",
+      "funnet": "2026-09-07T18:24:16.737222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Fotballkort pakke 23",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475834719",
       "funnet": "2026-09-07T16:30:39.695451+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475835324",
-      "funnet": "2026-09-07T16:30:39.271333+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
