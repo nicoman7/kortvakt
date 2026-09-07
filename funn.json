@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T12:56:16.910734+00:00",
+  "sist_sjekket": "2026-09-07T12:58:16.176676+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mystery packs",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475814742",
+      "funnet": "2026-09-07T12:58:16.174986+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort EX/GX/V/Vmax",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475815579",
+      "funnet": "2026-09-07T12:58:15.564380+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Borsalino Super Rare - EB04-058 - JP - Egghead Crisis - One Piece TCG",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475696817",
       "funnet": "2026-09-07T07:50:29.348860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kingler Vmax - Brilliant Stars - Pokemon",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475698926",
-      "funnet": "2026-09-07T07:50:28.878102+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rotom V - Black Star Promo - Pokemon",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475698420",
-      "funnet": "2026-09-07T07:50:28.193929+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
