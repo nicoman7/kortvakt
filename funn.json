@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T12:58:16.176676+00:00",
+  "sist_sjekket": "2026-09-07T13:00:51.379743+00:00",
   "funn": [
+    {
+      "tittel": "3 sett 4kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475815095",
+      "funnet": "2026-09-07T13:00:51.377972+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - Mentors & Learners",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475757291",
+      "funnet": "2026-09-07T13:00:50.790869+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rare Candy #175/132 MEG Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475815593",
+      "funnet": "2026-09-07T13:00:50.513271+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mystery packs",
       "pris": 120,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475735905",
       "funnet": "2026-09-07T07:52:19.469473+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse full art promo Pokemon kort selges",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475737456",
-      "funnet": "2026-09-07T07:52:18.396328+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling – holo og vanlige kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475693291",
-      "funnet": "2026-09-07T07:50:29.682207+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mimikyu V - Brilliant Stars - Pokemon",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475696817",
-      "funnet": "2026-09-07T07:50:29.348860+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
