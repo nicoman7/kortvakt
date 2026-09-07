@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-07T17:58:17.206098+00:00",
+  "sist_sjekket": "2026-09-07T18:00:55.683544+00:00",
   "funn": [
+    {
+      "tittel": "Topps Fotballkort pakke 5",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475843101",
+      "funnet": "2026-09-07T18:00:55.681872+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Tropius EX Deoxys Rev holo stamped",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475845276",
+      "funnet": "2026-09-07T18:00:54.669136+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Pikachu holo",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475845373",
+      "funnet": "2026-09-07T18:00:53.798423+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-09-07T18:00:52.956635+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling Pokémon kort med japanske holo-kort",
       "pris": 999,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-07T15:58:17.066470+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Watchog",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475832267",
-      "funnet": "2026-09-07T15:58:16.381481+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dragonite GX holografisk kort",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475831707",
-      "funnet": "2026-09-07T15:54:24.031257+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masquerain #77 Pokemon Japanese Storm Emeralda",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475831729",
-      "funnet": "2026-09-07T15:54:23.182456+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #SWSH039 Pokemon Promo",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475831981",
-      "funnet": "2026-09-07T15:54:22.197437+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
