@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T22:22:14.234041+00:00",
+  "sist_sjekket": "2026-09-07T22:24:15.320678+00:00",
   "funn": [
+    {
+      "tittel": "Jynx 36/83 – Generations – Rare – 2016",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863018",
+      "funnet": "2026-09-07T22:24:15.318865+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Weepinbell #65 Pokemon Aquapolis",
       "pris": 125,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-07T19:18:17.305628+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liten cute/søt samling 25stk kort",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475852501",
-      "funnet": "2026-09-07T19:18:16.715567+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
