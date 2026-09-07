@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T10:40:21.637738+00:00",
+  "sist_sjekket": "2026-09-07T10:42:24.602008+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475801693",
+      "funnet": "2026-09-07T10:42:24.600783+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Scarlet & Violet Journey Together Elite Trainer Box",
       "pris": 1400,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475756569",
       "funnet": "2026-09-07T07:35:00.601595+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Top class Premier League samlekort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475757074",
-      "funnet": "2026-09-07T07:34:57.200420+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
