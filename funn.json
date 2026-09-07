@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T00:54:14.325806+00:00",
+  "sist_sjekket": "2026-09-07T00:56:14.829741+00:00",
   "funn": [
+    {
+      "tittel": "M Venusaur EX #100 Pokemon Evolutions",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475778115",
+      "funnet": "2026-09-07T00:56:14.828007+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Radiant Charizard, Blastoise & Venusaur - Chinese Exclusives",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-06T19:08:18.306673+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raw - Diverse kort - Gi bud - Gratis frakt!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473556050",
-      "funnet": "2026-09-06T19:08:17.639699+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
