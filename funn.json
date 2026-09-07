@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T10:20:23.941658+00:00",
+  "sist_sjekket": "2026-09-07T10:22:16.006119+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475800394",
+      "funnet": "2026-09-07T10:22:16.004078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Neo Discovery 2001 – 25 vintagekort",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475799646",
+      "funnet": "2026-09-07T10:22:15.304046+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Ousmane Dembélé Frankrike",
       "pris": 450,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475656866",
       "funnet": "2026-09-07T07:32:48.320166+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Froslass 1207/07 Triple Rare (RRR) Gem Pack 4 NM",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656102",
-      "funnet": "2026-09-07T07:32:47.953400+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eldre vintage pokemonkort selges. Base jungle , fossil,",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656236",
-      "funnet": "2026-09-07T07:32:47.083870+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
