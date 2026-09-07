@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T15:50:24.194956+00:00",
+  "sist_sjekket": "2026-09-07T15:52:14.516179+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #61 Pokemon Undaunted (LP)",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475831619",
+      "funnet": "2026-09-07T15:52:14.514360+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort - Mega Hawlucha ex 094/193 RR",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475831810",
+      "funnet": "2026-09-07T15:52:14.169438+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Energy Switch holografisk kort 107/084",
       "pris": 60,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475816367",
       "funnet": "2026-09-07T13:08:15.315047+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475816133",
-      "funnet": "2026-09-07T13:04:19.401983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Slowbro japansk holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466773365",
-      "funnet": "2026-09-07T13:04:18.491937+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
