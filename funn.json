@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T00:48:15.608682+00:00",
+  "sist_sjekket": "2026-09-07T00:50:21.371082+00:00",
   "funn": [
+    {
+      "tittel": "Radiant Charizard, Blastoise & Venusaur - Chinese Exclusives",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475778074",
+      "funnet": "2026-09-07T00:50:21.369007+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamle pokemon kort",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-06T19:08:17.639699+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini sjeldne fotballkort - 5 stk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463499927",
-      "funnet": "2026-09-06T19:08:16.903521+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
