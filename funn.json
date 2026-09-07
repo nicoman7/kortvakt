@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T13:48:20.698629+00:00",
+  "sist_sjekket": "2026-09-07T13:50:24.827727+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475820386",
+      "funnet": "2026-09-07T13:50:24.825917+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Seismitoad EX #106/111 Pokemon kort (Furious Fists)",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475820161",
+      "funnet": "2026-09-07T13:50:24.546499+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon det offisielle magazinet",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475790498",
       "funnet": "2026-09-07T09:14:15.206566+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "‼️ POKEMON TCG DECKS 🌟💫‼️",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
-      "funnet": "2026-09-07T09:10:26.277588+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup samlebokser og kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
-      "funnet": "2026-09-07T09:08:13.764421+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
