@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T08:16:22.126057+00:00",
+  "sist_sjekket": "2026-09-07T08:18:17.246895+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789594",
+      "funnet": "2026-09-07T08:18:17.245110+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789491",
+      "funnet": "2026-09-07T08:18:16.480748+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 170,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475778744",
       "funnet": "2026-09-07T03:58:25.446417+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
-      "funnet": "2026-09-07T03:58:24.442129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delibird 21/109 Ex Team Rocket Returns Pokemon Kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778737",
-      "funnet": "2026-09-07T03:56:14.264912+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
