@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T17:24:15.547102+00:00",
+  "sist_sjekket": "2026-09-07T17:26:16.084187+00:00",
   "funn": [
+    {
+      "tittel": "Panini VM-2026 Coca-cola",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475840215",
+      "funnet": "2026-09-07T17:26:16.082228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort lot – Charizard, Giratina m.m. – holo/EX/V",
+      "pris": 215,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475841394",
+      "funnet": "2026-09-07T17:26:15.658315+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tapu Bulu GX #130/147 Pokemon kort (Burning Shadows)",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475841746",
+      "funnet": "2026-09-07T17:26:15.285450+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
       "pris": 3,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475829011",
       "funnet": "2026-09-07T15:24:21.350736+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Collection 2026 Series 1 boosterpakke",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475828643",
-      "funnet": "2026-09-07T15:24:20.441753+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon  kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475828970",
-      "funnet": "2026-09-07T15:24:20.036489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475828842",
-      "funnet": "2026-09-07T15:22:21.372061+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
