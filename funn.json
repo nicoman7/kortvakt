@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T07:16:21.246918+00:00",
+  "sist_sjekket": "2026-09-07T07:18:18.182569+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon FULL ARTS selges samlet. Kom med bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475784877",
+      "funnet": "2026-09-07T07:18:18.180881+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Duelmaster kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468469580",
       "funnet": "2026-09-06T21:30:35.987199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort. Topps Collector’s Corner Messi FC Barcelona",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468470697",
-      "funnet": "2026-09-06T21:30:35.146590+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
