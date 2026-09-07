@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T08:22:15.907175+00:00",
+  "sist_sjekket": "2026-09-07T08:24:18.939736+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475790077",
+      "funnet": "2026-09-07T08:24:18.937808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789977",
+      "funnet": "2026-09-07T08:24:18.001984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Pokemon samling – Vintage / EX Era / Delta Species / Charizard 🔥",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
+      "funnet": "2026-09-07T08:24:17.596120+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475778639",
       "funnet": "2026-09-07T04:52:22.091169+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sableye XY92 X & Y Promo Pokemon Kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778700",
-      "funnet": "2026-09-07T04:52:21.737296+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scizor Ex 119/122 XY Breakpoint Pokemon Kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778704",
-      "funnet": "2026-09-07T04:52:20.859392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling med graderte kort og holo-kort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778787",
-      "funnet": "2026-09-07T04:10:21.552659+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
