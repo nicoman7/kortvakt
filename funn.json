@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T09:46:15.626739+00:00",
+  "sist_sjekket": "2026-09-07T09:48:25.122479+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, Pokemon Card",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/405141195",
+      "funnet": "2026-09-07T09:48:25.120795+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Disney samlekort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475665145",
       "funnet": "2026-09-07T07:32:37.716727+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ninetales 19/108",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475666025",
-      "funnet": "2026-09-07T07:32:37.362509+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
