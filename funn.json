@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T23:08:17.361191+00:00",
+  "sist_sjekket": "2026-09-07T23:10:27.119036+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Raikou 55/162 samlekort",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863690",
+      "funnet": "2026-09-07T23:10:27.117383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
+      "funnet": "2026-09-07T23:10:26.681095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mewtwo 059/159 Reverse Holo samlekort",
       "pris": 119,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T19:42:21.586845+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rattata #128 Pokemon Expedition",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475855246",
-      "funnet": "2026-09-07T19:42:20.680563+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Khedira 99/ signert fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475854917",
-      "funnet": "2026-09-07T19:40:22.340478+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
