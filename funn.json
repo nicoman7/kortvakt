@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T11:06:17.948302+00:00",
+  "sist_sjekket": "2026-09-07T11:08:14.404647+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475804347",
+      "funnet": "2026-09-07T11:08:14.402836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort samling limited edition",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475804572",
+      "funnet": "2026-09-07T11:08:14.128080+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling Duel Masters-kort (53 stk) fra 2004–2005",
       "pris": 370,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475753949",
       "funnet": "2026-09-07T07:35:21.778514+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Jirachi RCT3/RC32",
-      "pris": 138,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475754596",
-      "funnet": "2026-09-07T07:35:18.383827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - N’s Zekrom Promo Ascended Heroes",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475754258",
-      "funnet": "2026-09-07T07:35:14.563947+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
