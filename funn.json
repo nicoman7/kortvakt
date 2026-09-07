@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T14:56:15.831882+00:00",
+  "sist_sjekket": "2026-09-07T14:58:15.101751+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475826446",
+      "funnet": "2026-09-07T14:58:15.099739+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 1400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475802022",
       "funnet": "2026-09-07T10:40:21.635770+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Street Fighter II Turbo og The New Challengers samlekort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475801414",
-      "funnet": "2026-09-07T10:38:21.432908+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
