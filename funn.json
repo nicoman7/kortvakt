@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T15:16:17.989884+00:00",
+  "sist_sjekket": "2026-09-07T15:18:22.441409+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441087550",
+      "funnet": "2026-09-07T15:18:22.439766+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475828498",
+      "funnet": "2026-09-07T15:18:22.048018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #SWSH234 Pokemon Promo",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475828384",
+      "funnet": "2026-09-07T15:18:21.265040+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA basketballkort 2024/2025",
       "pris": 55,
@@ -1174,30 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475809979",
       "funnet": "2026-09-07T12:04:14.287496+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamegenic Casual Album 24-Pocket",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475809373",
-      "funnet": "2026-09-07T12:00:54.839748+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini vm kort XXL",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475809736",
-      "funnet": "2026-09-07T12:00:53.996387+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Bandai Dragon Ball Super Cross Spirits booster box samlekort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475809525",
-      "funnet": "2026-09-07T11:58:20.628314+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
