@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T20:40:22.693916+00:00",
+  "sist_sjekket": "2026-09-07T20:42:18.110445+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Misdreavus - Ascended Heroes",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475859281",
+      "funnet": "2026-09-07T20:42:18.109089+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Charizard ex 183/165 – Scarlet & Violet 151 –",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475859426",
+      "funnet": "2026-09-07T20:42:17.172185+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yamato rare foil One piece samlekort",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T18:34:17.519063+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu VMAX 265/S-P – CoroCoro",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475848733",
-      "funnet": "2026-09-07T18:34:17.161543+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Sprigatito ex  251/217 - Ascended Heroes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475848892",
-      "funnet": "2026-09-07T18:34:16.794947+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
