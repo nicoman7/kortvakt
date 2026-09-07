@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-07T13:02:20.554504+00:00",
+  "sist_sjekket": "2026-09-07T13:04:19.403691+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475816133",
+      "funnet": "2026-09-07T13:04:19.401983+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Slowbro japansk holo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466773365",
+      "funnet": "2026-09-07T13:04:18.491937+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - Skylights (Uooer Deck 1993/94)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475815253",
+      "funnet": "2026-09-07T13:04:17.532559+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475816166",
+      "funnet": "2026-09-07T13:04:17.052661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard Celebrations PSA 9",
       "pris": 1900,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475769065",
       "funnet": "2026-09-07T07:58:16.692681+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort – Winter Soldier, Icy Assassin",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475769281",
-      "funnet": "2026-09-07T07:58:16.029410+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "League of Legends Elder Dragon samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475770942",
-      "funnet": "2026-09-07T07:58:15.419429+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits, Holo & Ex. Kyogre",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475739418",
-      "funnet": "2026-09-07T07:54:17.804429+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - CUBONE (REVERSE HOLO)",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475743226",
-      "funnet": "2026-09-07T07:54:17.166425+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
