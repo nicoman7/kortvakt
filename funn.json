@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T23:14:15.405273+00:00",
+  "sist_sjekket": "2026-09-07T23:16:15.601636+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Aggron 123/189 samlekort",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863769",
+      "funnet": "2026-09-07T23:16:15.599773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863770",
+      "funnet": "2026-09-07T23:16:15.244012+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Khvicha Kvaratskhelia",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863773",
+      "funnet": "2026-09-07T23:16:14.659567+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tyranitar 088/189 Reverse Holo samlekort",
       "pris": 79,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-07T19:56:17.719830+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 890,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475856411",
-      "funnet": "2026-09-07T19:56:16.832906+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2 momentum kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475856092",
-      "funnet": "2026-09-07T19:52:16.097798+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort japansk full arts",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475855807",
-      "funnet": "2026-09-07T19:52:15.357136+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
