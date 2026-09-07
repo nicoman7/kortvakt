@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T10:58:19.186100+00:00",
+  "sist_sjekket": "2026-09-07T11:00:56.059589+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475804297",
+      "funnet": "2026-09-07T11:00:56.057768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort japansk/asiatisk samling EX holografisk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475804089",
+      "funnet": "2026-09-07T11:00:55.195904+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 1100,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475755784",
       "funnet": "2026-09-07T07:35:07.395159+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Ascended Heroes Deluxe Pin Collection Promo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475755618",
-      "funnet": "2026-09-07T07:35:04.009689+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Squirtle 83/112 DMG",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475756569",
-      "funnet": "2026-09-07T07:35:00.601595+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
