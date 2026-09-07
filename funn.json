@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T22:20:26.639444+00:00",
+  "sist_sjekket": "2026-09-07T22:22:14.234041+00:00",
   "funn": [
+    {
+      "tittel": "Weepinbell #65 Pokemon Aquapolis",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475862977",
+      "funnet": "2026-09-07T22:22:14.232233+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dugtrio 39/83 – Generations – Rare – 2016",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475863001",
+      "funnet": "2026-09-07T22:22:13.971408+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 28/73 – Shining Legends – 2017 – Kagemaru Himeno",
       "pris": 45,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T19:18:16.715567+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Carol Danvers #172 Spider-Web Refractor 094/399 – 2025 Topps Chrome Marvel",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475853357",
-      "funnet": "2026-09-07T19:18:16.086335+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Pitch Black - Mega Excadrill ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475852907",
-      "funnet": "2026-09-07T19:16:16.023723+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
