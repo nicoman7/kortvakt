@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T08:42:16.743727+00:00",
+  "sist_sjekket": "2026-09-07T08:44:17.769989+00:00",
   "funn": [
+    {
+      "tittel": "Vintage samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475791626",
+      "funnet": "2026-09-07T08:44:17.768145+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Darkrai GX og Morpeko GX",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475783258",
       "funnet": "2026-09-07T06:46:14.048194+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hvit samleperm for pokemonkort med plastlommer",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475783014",
-      "funnet": "2026-09-07T06:38:17.004499+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
