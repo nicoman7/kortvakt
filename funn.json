@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T02:56:18.779829+00:00",
+  "sist_sjekket": "2026-09-07T02:58:15.941048+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475778490",
+      "funnet": "2026-09-07T02:58:15.939025+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – diverse eldre kort (generasjon 1)",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475771205",
       "funnet": "2026-09-06T20:22:15.742552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - N’s Zekrom Ascended Heroes Promo",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475771391",
-      "funnet": "2026-09-06T20:22:15.167593+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
