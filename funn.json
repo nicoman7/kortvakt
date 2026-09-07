@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T11:52:15.977914+00:00",
+  "sist_sjekket": "2026-09-07T11:54:16.404284+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475809026",
+      "funnet": "2026-09-07T11:54:16.402507+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Holo Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475796621",
+      "funnet": "2026-09-07T11:54:16.136469+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Display",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475778064",
       "funnet": "2026-09-07T07:36:37.509602+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Edgecombe refractor",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475777704",
-      "funnet": "2026-09-07T07:36:33.710198+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slowbro Holo 13/155 Ex Unseen Forces Pokemon Card",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778659",
-      "funnet": "2026-09-07T07:36:30.285797+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
