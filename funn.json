@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T09:20:24.846566+00:00",
+  "sist_sjekket": "2026-09-07T09:22:18.556697+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard X EX",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475794439",
+      "funnet": "2026-09-07T09:22:18.555236+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
+      "funnet": "2026-09-07T09:22:17.667996+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Magic: The Gathering-samling (1994–2000) med Demonic Tutor.",
       "pris": 950,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T07:18:18.180881+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Duelmaster kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/323798819",
-      "funnet": "2026-09-07T07:08:18.763770+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lugia GX holografisk kort - Ultra Rare!",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475781749",
-      "funnet": "2026-09-07T07:06:16.527641+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
