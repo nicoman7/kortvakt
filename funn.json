@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T22:06:16.208987+00:00",
+  "sist_sjekket": "2026-09-07T22:08:14.361300+00:00",
   "funn": [
+    {
+      "tittel": "Pidgeot #24 Pokemon Jungle",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475862679",
+      "funnet": "2026-09-07T22:08:14.359505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hitmontop [Reverse Holo] #82 Pokemon Aquapolis",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475862660",
+      "funnet": "2026-09-07T22:08:14.101417+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nidorino #55 Pokemon Aquapolis",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475862715",
+      "funnet": "2026-09-07T22:08:13.538671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Onix #98 Pokemon Aquapolis",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475210527",
       "funnet": "2026-09-07T19:14:26.763939+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - POP series",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405278266",
-      "funnet": "2026-09-07T19:14:26.062319+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mega Venusaur EX samlekort",
-      "pris": 1450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381215",
-      "funnet": "2026-09-07T19:14:25.257410+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra Pitch Black - Rampardos ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475852795",
-      "funnet": "2026-09-07T19:14:24.925970+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
