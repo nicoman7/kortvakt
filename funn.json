@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T03:22:16.068232+00:00",
+  "sist_sjekket": "2026-09-07T03:24:14.715125+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort V og VMAX kinesiske",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475778596",
+      "funnet": "2026-09-07T03:24:14.713674+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Kinesisk",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475772174",
       "funnet": "2026-09-06T20:36:19.152589+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 151 japansk PSA 10",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475772146",
-      "funnet": "2026-09-06T20:32:13.665380+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
