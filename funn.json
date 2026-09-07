@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T09:44:21.056631+00:00",
+  "sist_sjekket": "2026-09-07T09:46:15.626739+00:00",
   "funn": [
+    {
+      "tittel": "Disney samlekort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/432684035",
+      "funnet": "2026-09-07T09:46:15.625187+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Butterfree 3/147 – Burning Shadows – Rare – 2017",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475796986",
+      "funnet": "2026-09-07T09:46:14.819126+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mewtwo V Swsh229",
       "pris": 90,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475666025",
       "funnet": "2026-09-07T07:32:37.362509+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Omanyte 60/92",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475666035",
-      "funnet": "2026-09-07T07:32:36.435310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Aipom 34/115",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475665914",
-      "funnet": "2026-09-07T07:32:35.576300+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
