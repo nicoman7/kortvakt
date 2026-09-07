@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T19:40:22.342415+00:00",
+  "sist_sjekket": "2026-09-07T19:42:21.588434+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475855023",
+      "funnet": "2026-09-07T19:42:21.586845+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rattata #128 Pokemon Expedition",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475855246",
+      "funnet": "2026-09-07T19:42:20.680563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Khedira 99/ signert fotballkort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475846847",
       "funnet": "2026-09-07T18:14:24.495241+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Storm Emeralda - Booster Box (Gratis frakt)",
-      "pris": 1399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475846406",
-      "funnet": "2026-09-07T18:14:23.702626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Unown Hidden Power",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475846563",
-      "funnet": "2026-09-07T18:14:22.868277+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
