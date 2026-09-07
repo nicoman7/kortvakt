@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-07T14:26:15.127997+00:00",
+  "sist_sjekket": "2026-09-07T14:28:17.864600+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - perm med masse forskjellig selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475822922",
+      "funnet": "2026-09-07T14:28:17.862807+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Pokemon samling – Vintage / EX Era / Delta Species / Charizard 🔥",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
+      "funnet": "2026-09-07T14:28:17.035229+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T09:52:18.607504+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Parti med fotballkort. 119 stykk glins/holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475397697",
-      "funnet": "2026-09-07T09:52:17.698107+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, Pokemon Card",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/405141195",
-      "funnet": "2026-09-07T09:48:25.120795+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
