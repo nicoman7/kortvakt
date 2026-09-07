@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T01:14:13.223727+00:00",
+  "sist_sjekket": "2026-09-07T01:16:18.910635+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex XY84",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475778172",
+      "funnet": "2026-09-07T01:16:18.908797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "M Venusaur EX #100 Pokemon Evolutions",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475759205",
       "funnet": "2026-09-06T19:08:18.636274+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon - Graderte kort kr. 100,- pr stk med gratis frakt eller alle for 599,-",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471706109",
-      "funnet": "2026-09-06T19:08:18.306673+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
