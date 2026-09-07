@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T15:28:15.757666+00:00",
+  "sist_sjekket": "2026-09-07T15:30:38.286032+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475829513",
+      "funnet": "2026-09-07T15:30:38.284246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475829391",
+      "funnet": "2026-09-07T15:30:37.608555+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu [Paldea] #27 Pokemon Promo",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475828660",
+      "funnet": "2026-09-07T15:30:36.902186+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 30,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475813044",
       "funnet": "2026-09-07T12:36:20.490734+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shuriken Flip epic Riftbound samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475813152",
-      "funnet": "2026-09-07T12:36:19.695092+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Flygon ex holo (EX Legend maker) Ultra rare 87/92, TCG 2006 kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445029925",
-      "funnet": "2026-09-07T12:32:18.253161+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Jolteon ex holo (EX Delta Species) Ultra Rare 109/113, TCG 2005 kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445028918",
-      "funnet": "2026-09-07T12:32:17.822062+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
