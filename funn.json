@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-07T08:14:17.326035+00:00",
+  "sist_sjekket": "2026-09-07T08:16:22.126057+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789269",
+      "funnet": "2026-09-07T08:16:22.124591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon bundles/pakker",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789052",
+      "funnet": "2026-09-07T08:16:21.618369+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475789395",
+      "funnet": "2026-09-07T08:16:21.209622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Destined Rivals - Elite Trainer Box",
       "pris": 1699,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475778737",
       "funnet": "2026-09-07T03:56:14.264912+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax 051 Promo Pokemon Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778718",
-      "funnet": "2026-09-07T03:54:17.704490+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sylveon GX 073/114 GX Battle Boost Pokemon Kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778712",
-      "funnet": "2026-09-07T03:52:16.879917+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar 40/111 Rising Rivals Reverse Holo Pokemon Kort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475778649",
-      "funnet": "2026-09-07T03:40:22.203372+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
