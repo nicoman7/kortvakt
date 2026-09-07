@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-07T13:10:22.697730+00:00",
+  "sist_sjekket": "2026-09-07T13:12:20.367784+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475816770",
+      "funnet": "2026-09-07T13:12:20.366058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Sableye EX Deoxys",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475789395",
       "funnet": "2026-09-07T08:16:21.209622+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals - Elite Trainer Box",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475789183",
-      "funnet": "2026-09-07T08:12:19.652988+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
