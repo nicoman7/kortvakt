@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T09:14:15.780580+00:00",
+  "sist_sjekket": "2026-09-08T09:16:19.945705+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter Trading Card Game samling",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475879784",
+      "funnet": "2026-09-08T09:16:19.944130+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nummererte fotballkort selges! Messi, Yamal, Ronaldinho...",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 140,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475862778",
       "funnet": "2026-09-07T22:14:23.249673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Growlithe #62 Pokemon Skyridge",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475862730",
-      "funnet": "2026-09-07T22:12:22.191821+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
