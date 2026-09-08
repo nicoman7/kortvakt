@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T13:02:19.057467+00:00",
+  "sist_sjekket": "2026-09-08T13:04:29.810459+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Squirtle PSA 9",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475900899",
+      "funnet": "2026-09-08T13:04:29.808466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Greninja EX kort PSA 9",
       "pris": 1150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-08T09:06:16.224690+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort - selges separat eller i bulk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475856957",
-      "funnet": "2026-09-08T09:06:15.528506+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
