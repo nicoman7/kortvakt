@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T05:34:15.208775+00:00",
+  "sist_sjekket": "2026-09-08T05:36:20.680715+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475866514",
+      "funnet": "2026-09-08T05:36:20.679070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Team Rocket's Mewtwo EX",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860694",
       "funnet": "2026-09-07T21:04:18.501685+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Marill - Ascended Heroes",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860660",
-      "funnet": "2026-09-07T21:04:17.655860+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
