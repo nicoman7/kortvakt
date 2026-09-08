@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T14:02:18.132689+00:00",
+  "sist_sjekket": "2026-09-08T14:04:19.640594+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475905985",
+      "funnet": "2026-09-08T14:04:19.639005+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Skyridge fra barndommen",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475906015",
+      "funnet": "2026-09-08T14:04:18.704472+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽ Ryan Gravenberch – Liverpool FC – Topps Carnaval 2025/26 ✨.",
       "pris": 69,
@@ -1182,22 +1198,6 @@
       "pris": 59,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475884041",
       "funnet": "2026-09-08T10:08:16.644121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥Pokemon Mega Evolution Mini Tin🔥",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475884646",
-      "funnet": "2026-09-08T10:08:16.066230+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits fra ulike serier.",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475465847",
-      "funnet": "2026-09-08T10:08:15.732805+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
