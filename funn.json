@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T13:30:54.959414+00:00",
+  "sist_sjekket": "2026-09-08T13:32:18.915535+00:00",
   "funn": [
+    {
+      "tittel": "Leafeon 24/100 Holo Rare",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475895281",
+      "funnet": "2026-09-08T13:32:18.913710+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome nummerert Martinelli/De Jong",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475903109",
+      "funnet": "2026-09-08T13:32:18.003966+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mismagius 10/130 Holo Rare",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-08T09:40:26.201637+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Zacian 100/094 - Pitch Black",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475881929",
-      "funnet": "2026-09-08T09:40:25.379400+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Messi + Cristiano Ronaldo Golden Baller fotballkort (WC26)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475880817",
-      "funnet": "2026-09-08T09:36:17.258594+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
