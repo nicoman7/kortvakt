@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-08T16:22:18.667143+00:00",
+  "sist_sjekket": "2026-09-08T16:24:21.402887+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475918539",
+      "funnet": "2026-09-08T16:24:21.400863+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rare Candy #88",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475918504",
+      "funnet": "2026-09-08T16:24:20.668614+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mega Symphonia singles",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475917993",
+      "funnet": "2026-09-08T16:24:19.933614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Extra Sticker Luis Díaz",
       "pris": 350,
@@ -1174,30 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475904959",
       "funnet": "2026-09-08T13:54:20.399543+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse gamle Firkort..... spillekort,,,bil,båt, motorsykkel og Emil",
-      "pris": 1075,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475904441",
-      "funnet": "2026-09-08T13:54:19.491201+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Temporal Breach rare foil Riftbound samlekort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475905344",
-      "funnet": "2026-09-08T13:54:18.525294+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shanks SR One piece samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475905091",
-      "funnet": "2026-09-08T13:50:26.830721+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
