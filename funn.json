@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T23:28:19.021011+00:00",
+  "sist_sjekket": "2026-09-08T23:30:38.318995+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits av full art items, SIR, IR, ace spec, shinies",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475945575",
+      "funnet": "2026-09-08T23:30:38.317248+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lickitung #90 Pokemon Aquapolis",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-08T19:20:31.887559+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier Gold 2001 Fotballkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475935667",
-      "funnet": "2026-09-08T19:20:31.090718+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
