@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-08T16:48:19.307690+00:00",
+  "sist_sjekket": "2026-09-08T16:50:24.576945+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475920955",
+      "funnet": "2026-09-08T16:50:24.574936+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Dragonite ex samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475921056",
+      "funnet": "2026-09-08T16:50:24.238034+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo, Torterra, Infernape",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475920728",
+      "funnet": "2026-09-08T16:50:23.678435+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Stray kids pob fotokort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475921037",
+      "funnet": "2026-09-08T16:50:23.063314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 1/99",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475920788",
+      "funnet": "2026-09-08T16:50:22.466863+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gyarados holo kort",
       "pris": 1,
@@ -1158,46 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475908597",
       "funnet": "2026-09-08T14:34:19.292047+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Malo Gusto Aqua Sparkle /499 – Topps Premier League 2026/27",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475908639",
-      "funnet": "2026-09-08T14:34:18.423720+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Virgil van Dijk /40 Futera Liverpool Fotballkort",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475908112",
-      "funnet": "2026-09-08T14:30:44.614324+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Conor Bradley /26 Futera Liverpool Fotballkort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475908296",
-      "funnet": "2026-09-08T14:30:43.637101+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG tilbehør",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475907909",
-      "funnet": "2026-09-08T14:28:18.153753+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carlos Baleba Green Auto /99 – Topps Premier League 2026/27",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475907959",
-      "funnet": "2026-09-08T14:28:17.461696+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
