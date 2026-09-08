@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T09:40:27.262385+00:00",
+  "sist_sjekket": "2026-09-08T09:42:18.334266+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475882197",
+      "funnet": "2026-09-08T09:42:18.332339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA-gradert Pokemonkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475881265",
+      "funnet": "2026-09-08T09:42:17.965463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Aurorus 092/88 - Perfect Order",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475476939",
       "funnet": "2026-09-07T22:40:22.642220+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Donphan #21 Pokemon Neo Genesis",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863186",
-      "funnet": "2026-09-07T22:38:20.130278+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "624 Trophy Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863223",
-      "funnet": "2026-09-07T22:38:19.212894+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
