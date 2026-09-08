@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T06:18:24.730506+00:00",
+  "sist_sjekket": "2026-09-08T06:20:23.293688+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges samlet",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475868028",
+      "funnet": "2026-09-08T06:20:23.291584+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "#14 Pokémon Holo – Delcatty & Floatzel GL – selges samlet",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860913",
       "funnet": "2026-09-07T21:10:25.561076+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hitmonchan #7 Pokemon Base Set",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860956",
-      "funnet": "2026-09-07T21:10:25.211449+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
