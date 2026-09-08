@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T13:04:29.810459+00:00",
+  "sist_sjekket": "2026-09-08T13:06:17.136861+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475901276",
+      "funnet": "2026-09-08T13:06:17.135024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort vintage lot",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475469838",
+      "funnet": "2026-09-08T13:06:16.666836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Squirtle PSA 9",
       "pris": 1400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475879784",
       "funnet": "2026-09-08T09:16:19.944130+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummererte fotballkort selges! Messi, Yamal, Ronaldinho...",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475876960",
-      "funnet": "2026-09-08T09:08:13.749018+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475879026",
-      "funnet": "2026-09-08T09:06:16.224690+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
