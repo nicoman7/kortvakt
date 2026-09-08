@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T21:14:17.612554+00:00",
+  "sist_sjekket": "2026-09-08T21:16:15.645128+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468144096",
+      "funnet": "2026-09-08T21:16:15.643194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon kort",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 28,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475933393",
       "funnet": "2026-09-08T18:56:18.408048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mimikyu ex promo pokemon kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475933420",
-      "funnet": "2026-09-08T18:56:17.669109+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
