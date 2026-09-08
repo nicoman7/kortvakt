@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T13:28:16.758397+00:00",
+  "sist_sjekket": "2026-09-08T13:30:54.959414+00:00",
   "funn": [
+    {
+      "tittel": "Mismagius 10/130 Holo Rare",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475895419",
+      "funnet": "2026-09-08T13:30:54.957912+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling nummererte fotballkort fra Futera Liverpool 1998",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475902882",
+      "funnet": "2026-09-08T13:30:54.582785+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu V 170/185",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-08T09:36:17.258594+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Magic: The Gathering Windswift Slice instantkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475881317",
-      "funnet": "2026-09-08T09:36:16.656355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pakke med eldre NHL Ishockeykort (1991–1995) – Flere stjerner og spesialkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475880442",
-      "funnet": "2026-09-08T09:32:19.228662+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
