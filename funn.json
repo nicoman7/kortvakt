@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T06:00:53.634813+00:00",
+  "sist_sjekket": "2026-09-08T06:02:15.192443+00:00",
   "funn": [
+    {
+      "tittel": "Panini klistermerker - VM Italia 90",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860371",
+      "funnet": "2026-09-08T06:02:15.190372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Celesteela og Enhanced Hammer, league & Championships cards",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475397697",
       "funnet": "2026-09-07T21:06:17.511408+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Vikavolt - Ascended Heroes",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860515",
-      "funnet": "2026-09-07T21:04:20.647888+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
