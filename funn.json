@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-08T17:44:18.175045+00:00",
+  "sist_sjekket": "2026-09-08T17:46:25.843950+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon vintage permer",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475926708",
+      "funnet": "2026-09-08T17:46:25.842008+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Blastoise holo 2/102",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475926468",
+      "funnet": "2026-09-08T17:46:25.509946+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charmander - Base Set - Pokemon",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475926631",
+      "funnet": "2026-09-08T17:46:25.133658+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magnemite - Base Set - Pokemon",
       "pris": 15,
@@ -1174,30 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475910974",
       "funnet": "2026-09-08T15:10:28.532072+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tepig #96 Pokemon White Flare",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475909298",
-      "funnet": "2026-09-08T15:10:28.264929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam EX #190 Pokemon Japanese Scarlet & Violet 151",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475909266",
-      "funnet": "2026-09-08T15:10:27.991709+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gallade #57 Pokemon Japanese Dream League",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475909286",
-      "funnet": "2026-09-08T15:10:27.398141+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
