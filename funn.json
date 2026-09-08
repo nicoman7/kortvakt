@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T09:34:14.810967+00:00",
+  "sist_sjekket": "2026-09-08T09:36:17.260556+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Messi + Cristiano Ronaldo Golden Baller fotballkort (WC26)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475880817",
+      "funnet": "2026-09-08T09:36:17.258594+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Magic: The Gathering Windswift Slice instantkort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475881317",
+      "funnet": "2026-09-08T09:36:16.656355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pakke med eldre NHL Ishockeykort (1991–1995) – Flere stjerner og spesialkort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475491959",
       "funnet": "2026-09-07T22:34:14.192059+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-09-07T22:32:14.054464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bellsprout #45 Pokemon Aquapolis",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863152",
-      "funnet": "2026-09-07T22:32:13.796259+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
