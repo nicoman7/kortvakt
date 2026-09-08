@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T02:10:21.899771+00:00",
+  "sist_sjekket": "2026-09-08T02:12:17.828081+00:00",
   "funn": [
+    {
+      "tittel": "Zangoose Pokemonkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475864795",
+      "funnet": "2026-09-08T02:12:17.826341+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Feebas Reverse Holo Pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475864800",
+      "funnet": "2026-09-08T02:12:16.870650+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Plusle & Minun Pokemonkort",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860179",
       "funnet": "2026-09-07T20:54:17.407453+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tyrogue #63 Pokemon Aquapolis",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860039",
-      "funnet": "2026-09-07T20:54:16.429943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Water Cube 01 #140 Pokemon Aquapolis",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475859853",
-      "funnet": "2026-09-07T20:50:27.783991+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
