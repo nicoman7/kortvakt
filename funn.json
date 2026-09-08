@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T07:34:17.366969+00:00",
+  "sist_sjekket": "2026-09-08T07:36:15.711508+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474449826",
+      "funnet": "2026-09-08T07:36:15.709578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu Crown Zenith 160/159 gradert kort 9.5",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475872175",
+      "funnet": "2026-09-08T07:36:14.994153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Misty’s Psyduck 2019 CCG 9.5",
       "pris": 850,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-09-07T21:30:36.168242+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Richard Rios RC Benfica",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475861547",
-      "funnet": "2026-09-07T21:28:20.183959+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Mega Diancie - Ascended Heroes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475861508",
-      "funnet": "2026-09-07T21:28:19.222612+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
