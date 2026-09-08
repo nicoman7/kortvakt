@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T03:48:18.298057+00:00",
+  "sist_sjekket": "2026-09-08T03:50:23.290798+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-08T03:50:23.289174+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Official thai pokemon kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860155",
       "funnet": "2026-09-07T20:58:20.174913+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Victreebel #42 Pokemon Aquapolis",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860308",
-      "funnet": "2026-09-07T20:58:19.288845+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
