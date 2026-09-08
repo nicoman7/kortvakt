@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T05:18:16.312295+00:00",
+  "sist_sjekket": "2026-09-08T05:20:30.208837+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475866082",
+      "funnet": "2026-09-08T05:20:30.206756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One piece kort bulk",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860629",
       "funnet": "2026-09-07T21:04:16.793705+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Scorbunny - Ascended Heroes",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860383",
-      "funnet": "2026-09-07T21:00:50.881619+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
