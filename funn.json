@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T12:22:16.234323+00:00",
+  "sist_sjekket": "2026-09-08T12:24:16.206005+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Wailord",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468641695",
+      "funnet": "2026-09-08T12:24:16.204058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Heliolisk",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475872267",
       "funnet": "2026-09-08T07:44:21.266824+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024 Pokémon SFA EN Persian Illustration Rare PSA 9",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475872811",
-      "funnet": "2026-09-08T07:44:20.363074+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
