@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T23:22:14.231239+00:00",
+  "sist_sjekket": "2026-09-08T23:24:14.699345+00:00",
   "funn": [
+    {
+      "tittel": "Lickitung #90 Pokemon Aquapolis",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475945498",
+      "funnet": "2026-09-08T23:24:14.697350+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Birthday Pikachu TCG",
       "pris": 330,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-08T19:20:31.090718+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort – stort blandet parti",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475935181",
-      "funnet": "2026-09-08T19:20:30.192161+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
