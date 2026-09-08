@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T13:42:22.526690+00:00",
+  "sist_sjekket": "2026-09-08T13:44:19.283431+00:00",
   "funn": [
+    {
+      "tittel": "Vaporeon 19/115 Holo Rare",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475893262",
+      "funnet": "2026-09-08T13:44:19.281983+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boing fotballkort. Messi, Rooney, Özil, Agger, Pazzini og Riise",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475882692",
       "funnet": "2026-09-08T09:46:16.121603+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon live kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475882421",
-      "funnet": "2026-09-08T09:44:23.721905+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
