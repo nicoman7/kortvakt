@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T16:58:25.099781+00:00",
+  "sist_sjekket": "2026-09-08T17:00:53.922868+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475922043",
+      "funnet": "2026-09-08T17:00:53.920771+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "33 Vintage Holo JP pokemon-kort (Gengar, Dragonite, Mew mv.)",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475542058",
+      "funnet": "2026-09-08T17:00:53.651594+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ukebladet Hjemmets Stjerneparade (1958) – Samling m/ ELVIS og samlemappe!",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 1199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475909315",
       "funnet": "2026-09-08T14:44:21.166453+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475909563",
-      "funnet": "2026-09-08T14:44:20.336839+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "italian brainrot kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475909174",
-      "funnet": "2026-09-08T14:44:19.501061+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
