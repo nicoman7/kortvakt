@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-08T13:26:15.489064+00:00",
+  "sist_sjekket": "2026-09-08T13:28:16.758397+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu V 170/185",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475896332",
+      "funnet": "2026-09-08T13:28:16.756516+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 94/123",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475895842",
+      "funnet": "2026-09-08T13:28:16.055829+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 70/100",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475896125",
+      "funnet": "2026-09-08T13:28:15.578785+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 70/100",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475895949",
+      "funnet": "2026-09-08T13:28:14.824502+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling nummererte kort fra Futera Manchester United 1998",
       "pris": 900,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475880442",
       "funnet": "2026-09-08T09:32:19.228662+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort – Gwaihir, Greatest of the Eagles #417",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475864291",
-      "funnet": "2026-09-08T09:32:18.867277+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Greninja Ex Premium Collection Fabrikk forseglet",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475881152",
-      "funnet": "2026-09-08T09:32:17.886204+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard kort 120 HP holografisk stort kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475880660",
-      "funnet": "2026-09-08T09:28:17.156792+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Charizard",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475880088",
-      "funnet": "2026-09-08T09:20:25.675923+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
