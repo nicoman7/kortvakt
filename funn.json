@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T01:16:26.539783+00:00",
+  "sist_sjekket": "2026-09-08T01:18:17.591088+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dondozo TCG",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475864607",
+      "funnet": "2026-09-08T01:18:17.589668+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Pokemon samling – Vintage / EX Era / Delta Species / Charizard 🔥",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
+      "funnet": "2026-09-08T01:18:16.841449+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Shining Rayquaza holo",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-07T20:46:15.705334+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Dreepy - Ascended Heroes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475859826",
-      "funnet": "2026-09-07T20:46:15.225712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Misdreavus - Ascended Heroes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475859281",
-      "funnet": "2026-09-07T20:42:18.109089+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
