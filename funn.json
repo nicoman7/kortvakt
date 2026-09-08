@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T11:34:19.111939+00:00",
+  "sist_sjekket": "2026-09-08T11:36:47.566565+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome UCC 25-26 Joao Neves PSG",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475892759",
+      "funnet": "2026-09-08T11:36:47.564710+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #70 Pokemon Neo Genesis",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475892863",
+      "funnet": "2026-09-08T11:36:46.659934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hitmontop #82 Pokemon Aquapolis",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-08T04:46:18.250575+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-09-08T04:08:27.059866+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-08T03:50:23.289174+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
