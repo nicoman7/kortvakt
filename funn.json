@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-08T09:18:14.689662+00:00",
+  "sist_sjekket": "2026-09-08T09:20:25.677497+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Charizard",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475880088",
+      "funnet": "2026-09-08T09:20:25.675923+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard V stort kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475879746",
+      "funnet": "2026-09-08T09:20:24.875446+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 58/102",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475880351",
+      "funnet": "2026-09-08T09:20:24.482145+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon:  Gastly – 1st Edition",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475880411",
+      "funnet": "2026-09-08T09:20:23.932318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Detective Pikachu samlemappe med kort",
       "pris": 500,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475863064",
       "funnet": "2026-09-07T22:26:17.631669+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Growlithe #80 Pokemon Aquapolis",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863068",
-      "funnet": "2026-09-07T22:26:16.725980+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jynx 36/83 – Generations – Rare – 2016",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863018",
-      "funnet": "2026-09-07T22:24:15.318865+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Weepinbell #65 Pokemon Aquapolis",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475862977",
-      "funnet": "2026-09-07T22:22:14.232233+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dugtrio 39/83 – Generations – Rare – 2016",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475863001",
-      "funnet": "2026-09-07T22:22:13.971408+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
