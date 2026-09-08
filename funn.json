@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-08T16:02:19.181631+00:00",
+  "sist_sjekket": "2026-09-08T16:04:24.095053+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med Ex,promo etc.",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475916140",
+      "funnet": "2026-09-08T16:04:24.092872+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Sharpedo EX PSA 10 spesial illustrasjon, skjeldent kort",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475896332",
       "funnet": "2026-09-08T13:28:16.756516+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 94/123",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475895842",
-      "funnet": "2026-09-08T13:28:16.055829+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
