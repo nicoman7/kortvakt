@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T19:22:18.703081+00:00",
+  "sist_sjekket": "2026-09-08T19:24:17.874861+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter samlekort hologram",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/422226090",
+      "funnet": "2026-09-08T19:24:17.872574+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu VMax #SWSH286 Pokemon Promo",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475935069",
+      "funnet": "2026-09-08T19:24:16.937679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon hits fra ulike serier.",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475926468",
       "funnet": "2026-09-08T17:46:25.509946+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charmander - Base Set - Pokemon",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475926631",
-      "funnet": "2026-09-08T17:46:25.133658+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magnemite - Base Set - Pokemon",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475926422",
-      "funnet": "2026-09-08T17:44:18.173332+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
