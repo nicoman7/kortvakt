@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T17:46:25.843950+00:00",
+  "sist_sjekket": "2026-09-08T17:48:17.884478+00:00",
   "funn": [
+    {
+      "tittel": "Caterpie - Neo Discovery - Pokemon",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475926936",
+      "funnet": "2026-09-08T17:48:17.882678+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rhydon - Jungle - Pokemon",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475926802",
+      "funnet": "2026-09-08T17:48:17.104388+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon vintage permer",
       "pris": 1234,
@@ -1182,22 +1198,6 @@
       "pris": 4,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475911623",
       "funnet": "2026-09-08T15:14:17.969087+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort blandet bunke",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475911506",
-      "funnet": "2026-09-08T15:14:17.547625+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Super Skills Competition '96 samlekort boosterpakker",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475910974",
-      "funnet": "2026-09-08T15:10:28.532072+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
