@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-08T12:58:17.081769+00:00",
+  "sist_sjekket": "2026-09-08T13:00:58.594384+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Greninja EX kort PSA 9",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475900720",
+      "funnet": "2026-09-08T13:00:58.592755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475900759",
+      "funnet": "2026-09-08T13:00:58.164959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cetitan ex - 065/182 - Pokemon kort",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-08T09:06:15.528506+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stort vintage salg av Pokemon Holo/Rare/Japansk (Fastpris)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475878513",
-      "funnet": "2026-09-08T09:00:52.158230+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters samling WOTC (2005)",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475878504",
-      "funnet": "2026-09-08T09:00:51.148079+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
