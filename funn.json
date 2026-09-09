@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T11:14:16.089340+00:00",
+  "sist_sjekket": "2026-09-09T11:16:17.499669+00:00",
   "funn": [
+    {
+      "tittel": "Sandile 135/086",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475969643",
+      "funnet": "2026-09-09T11:16:17.497823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 25th anniversary holo Japansk",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475969262",
+      "funnet": "2026-09-09T11:16:16.947259+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Palpitoad 104/086",
       "pris": 105,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-09T05:58:18.320621+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – diverse holo og full art",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475947580",
-      "funnet": "2026-09-09T05:06:21.380099+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – diverse kort selges enkeltvis",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475947534",
-      "funnet": "2026-09-09T05:00:48.973156+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
