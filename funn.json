@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T21:14:16.760955+00:00",
+  "sist_sjekket": "2026-09-09T21:16:19.774521+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476015108",
+      "funnet": "2026-09-09T21:16:19.772622+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon promo selges",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 179,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476007481",
       "funnet": "2026-09-09T19:10:25.475777+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select Prizm fotballkort Fernando Torres Liverpool autograf",
-      "pris": 1599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466293236",
-      "funnet": "2026-09-09T19:10:24.547319+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
