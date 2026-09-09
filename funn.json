@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:46:17.897465+00:00",
+  "sist_sjekket": "2026-09-09T17:48:25.063341+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000738",
+      "funnet": "2026-09-09T17:48:25.061922+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Phanpy 77/123 - Pokemon HeartGold & SoulSilver",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000731",
+      "funnet": "2026-09-09T17:48:24.685320+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475985898",
       "funnet": "2026-09-09T14:52:22.303838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black ETB . Forseglet\nElite Trainer B",
-      "pris": 1490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985470",
-      "funnet": "2026-09-09T14:48:20.317758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkoet - Fredrik Aursnes Benfica kort med draktbit - Panini Select FIFA",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985682",
-      "funnet": "2026-09-09T14:48:19.443607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
