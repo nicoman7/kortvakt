@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T17:48:25.063341+00:00",
+  "sist_sjekket": "2026-09-09T17:50:24.955350+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000953",
+      "funnet": "2026-09-09T17:50:24.953380+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Metal Energy 120/123 - Pokemon Mysterious Treasures",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000872",
+      "funnet": "2026-09-09T17:50:24.031210+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon mystery pakker 40stk.GOD PACKS! GRADERTE KORT. Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475251214",
+      "funnet": "2026-09-09T17:50:22.953746+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1174,30 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475985986",
       "funnet": "2026-09-09T14:54:18.781185+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Lionel Messi samlekort Argentina Topps Inception",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986076",
-      "funnet": "2026-09-09T14:54:18.083071+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ronaldinho Showmen Barcelona  fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986018",
-      "funnet": "2026-09-09T14:52:22.693774+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Gerd Müller FC Bayern München Topps Inception",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985898",
-      "funnet": "2026-09-09T14:52:22.303838+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
