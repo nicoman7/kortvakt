@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T10:54:15.548324+00:00",
+  "sist_sjekket": "2026-09-09T10:56:16.002432+00:00",
   "funn": [
+    {
+      "tittel": "Piplup 239/236",
+      "pris": 580,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475968215",
+      "funnet": "2026-09-09T10:56:16.000410+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Victini 208",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475946242",
       "funnet": "2026-09-09T00:02:23.102377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kangaskhan #88 Pokemon Aquapolis",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475945837",
-      "funnet": "2026-09-08T23:54:15.737366+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
