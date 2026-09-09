@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T13:10:29.350965+00:00",
+  "sist_sjekket": "2026-09-09T13:12:22.514289+00:00",
   "funn": [
+    {
+      "tittel": "Kecleon #118 Pokemon Japanese Super Electric Breaker",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475978511",
+      "funnet": "2026-09-09T13:12:22.512353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-09T13:12:21.579881+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dudunsparce ex #178 Pokemon Journey Together",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-09T10:48:19.783583+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort - samlekort selges",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475967569",
-      "funnet": "2026-09-09T10:48:19.046262+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Charcadet 022 promo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475967671",
-      "funnet": "2026-09-09T10:48:18.650742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
