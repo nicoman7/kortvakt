@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T10:20:25.424848+00:00",
+  "sist_sjekket": "2026-09-09T10:22:24.729258+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mega Froslass EX",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475965802",
+      "funnet": "2026-09-09T10:22:24.727270+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Galatasaray samlekortramme /99 – eksklusiv 13x18 | FrameYourCard 🔥⚽",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475944290",
       "funnet": "2026-09-08T21:58:16.939219+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Snorlax holo 11/64 - Fossil",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475944333",
-      "funnet": "2026-09-08T21:58:16.357061+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
