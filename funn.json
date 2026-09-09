@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:38:21.286014+00:00",
+  "sist_sjekket": "2026-09-09T17:40:24.569628+00:00",
   "funn": [
+    {
+      "tittel": "Infernape pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000110",
+      "funnet": "2026-09-09T17:40:24.567859+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort / samleobjekt",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475999964",
+      "funnet": "2026-09-09T17:40:23.922202+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Alessia Russo – Arsenal – Topps Chrome Green Refractor /99",
       "pris": 339,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475983816",
       "funnet": "2026-09-09T14:26:18.579650+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Venusaur",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475983927",
-      "funnet": "2026-09-09T14:26:17.929032+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort ASC",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475984215",
-      "funnet": "2026-09-09T14:26:17.267258+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
