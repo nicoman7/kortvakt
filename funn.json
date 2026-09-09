@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T04:54:18.591515+00:00",
+  "sist_sjekket": "2026-09-09T04:56:17.446220+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mega Darkrai EX",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475947463",
+      "funnet": "2026-09-09T04:56:17.444446+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "‼️ POKEMON TCG DECKS 🌟💫‼️",
       "pris": 649,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475936346",
       "funnet": "2026-09-08T19:32:19.768210+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Miracle Energy holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475936570",
-      "funnet": "2026-09-08T19:32:18.905187+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
