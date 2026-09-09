@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T17:04:16.608539+00:00",
+  "sist_sjekket": "2026-09-09T17:06:16.738875+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475996755",
+      "funnet": "2026-09-09T17:06:16.736774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dragonair 150/236 - Pokemon Unified Minds",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475996884",
+      "funnet": "2026-09-09T17:06:16.089542+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Venusaur EX kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475997098",
+      "funnet": "2026-09-09T17:06:15.797050+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jigglypuff 067/189 - Pokemon Darkness Ablaze",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475978840",
       "funnet": "2026-09-09T13:46:18.700422+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Zacian Amazing Rare TCG",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475981295",
-      "funnet": "2026-09-09T13:46:17.910956+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chespin Chaos Rising Illustration Rare 087/086",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475978866",
-      "funnet": "2026-09-09T13:44:19.106842+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort perm med en av de beste kortene",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468273278",
-      "funnet": "2026-09-09T13:44:18.530983+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
