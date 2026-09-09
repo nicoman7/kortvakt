@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T18:54:15.297538+00:00",
+  "sist_sjekket": "2026-09-09T18:56:14.836544+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort med permbok",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476006440",
+      "funnet": "2026-09-09T18:56:14.834560+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Frigibax #131 Pokemon Chinese CSV3C",
       "pris": 85,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475993073",
       "funnet": "2026-09-09T16:24:20.447001+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Generations Blastoise art",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475993210",
-      "funnet": "2026-09-09T16:24:19.320805+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
