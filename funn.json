@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T18:36:18.778324+00:00",
+  "sist_sjekket": "2026-09-09T18:38:17.702353+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476005070",
+      "funnet": "2026-09-09T18:38:17.700447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA World Cup samlebokser og kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
+      "funnet": "2026-09-09T18:38:17.240643+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Chandelure VMAX Gold Secret Rare CCG 9.5",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475991298",
       "funnet": "2026-09-09T16:04:21.204564+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475423899",
-      "funnet": "2026-09-09T16:02:18.904362+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beartic #110 Pokemon Black Bolt",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475991073",
-      "funnet": "2026-09-09T16:00:58.140166+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
