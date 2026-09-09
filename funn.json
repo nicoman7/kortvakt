@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-09T11:08:22.199195+00:00",
+  "sist_sjekket": "2026-09-09T11:10:28.170487+00:00",
   "funn": [
+    {
+      "tittel": "Deuddigon 151/086",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475969358",
+      "funnet": "2026-09-09T11:10:28.168940+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #18 [Cosmo Holo] Pokemon Trick or Trade 2024",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475968663",
+      "funnet": "2026-09-09T11:10:27.401864+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Krookodile 137/086",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475969269",
+      "funnet": "2026-09-09T11:10:26.572145+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Pokemon samling – Vintage / EX Era / Delta Species / Charizard 🔥",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473821047",
+      "funnet": "2026-09-09T11:10:25.752895+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Keldeo EX 167/068",
       "pris": 710,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-09T04:56:17.444446+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "‼️ POKEMON TCG DECKS 🌟💫‼️",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
-      "funnet": "2026-09-09T04:32:16.401706+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Blastoise ex samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475947221",
-      "funnet": "2026-09-09T04:24:15.872486+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - japanske kort.",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475947172",
-      "funnet": "2026-09-09T04:16:14.460923+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div. Nba kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/431609008",
-      "funnet": "2026-09-09T04:14:16.801039+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
