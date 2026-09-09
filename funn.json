@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:44:18.535677+00:00",
+  "sist_sjekket": "2026-09-09T17:46:17.897465+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000573",
+      "funnet": "2026-09-09T17:46:17.895527+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Sandshrew 82/113 - Pokemon Delta Species",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000466",
+      "funnet": "2026-09-09T17:46:17.122393+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leah Williamson – Arsenal – Topps Chrome UWCL Pulsar Refractor",
       "pris": 69,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475985682",
       "funnet": "2026-09-09T14:48:19.443607+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Martin Ødegaard Arsenal Topps Inception",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985787",
-      "funnet": "2026-09-09T14:48:18.624429+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkorr Ryan Giggs Manchester United samlekort - Topps Last Dance",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985595",
-      "funnet": "2026-09-09T14:46:23.001125+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
