@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T15:32:16.109054+00:00",
+  "sist_sjekket": "2026-09-09T15:34:17.839019+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475989058",
+      "funnet": "2026-09-09T15:34:17.836825+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-09T12:46:15.049643+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Quaxly [Stars] #503 Pokemon Chinese Gem Pack",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475976437",
-      "funnet": "2026-09-09T12:46:14.781946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
