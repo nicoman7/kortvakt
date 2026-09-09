@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T09:00:49.154754+00:00",
+  "sist_sjekket": "2026-09-09T09:02:17.881716+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475959469",
+      "funnet": "2026-09-09T09:02:17.880031+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/458570030",
       "funnet": "2026-09-08T20:41:33.076367+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex SVP 196 – Black Star Promo – 2025",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475941211",
-      "funnet": "2026-09-08T20:36:15.304486+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
