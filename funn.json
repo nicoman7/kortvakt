@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T10:56:16.002432+00:00",
+  "sist_sjekket": "2026-09-09T10:58:20.140983+00:00",
   "funn": [
+    {
+      "tittel": "Maushold 226/193",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475968328",
+      "funnet": "2026-09-09T10:58:20.139242+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Piplup 239/236",
       "pris": 580,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475946260",
       "funnet": "2026-09-09T00:04:16.150719+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magnemite #91 Pokemon Aquapolis",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475946242",
-      "funnet": "2026-09-09T00:02:23.102377+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
