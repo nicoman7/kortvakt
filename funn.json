@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T15:14:23.699313+00:00",
+  "sist_sjekket": "2026-09-09T15:16:17.514218+00:00",
   "funn": [
+    {
+      "tittel": "2 pokemon bokser/ uten kort/ samleobjekt",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475987622",
+      "funnet": "2026-09-09T15:16:17.512287+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Diverse eldre Pokemon samlekort byttes!",
       "pris": 123,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-09-09T12:42:17.429659+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Entei [Holo] #19 Pokemon Evolving Skies",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475976114",
-      "funnet": "2026-09-09T12:40:27.057195+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
