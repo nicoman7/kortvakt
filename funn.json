@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-09T17:58:14.558802+00:00",
+  "sist_sjekket": "2026-09-09T18:00:52.147213+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001844",
+      "funnet": "2026-09-09T18:00:52.145307+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Stina Blackstenius – Arsenal – Topps Chrome Blue Refractor ✨",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001766",
+      "funnet": "2026-09-09T18:00:51.739019+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Premier League Jean-Philippe Mateta autografkort 15/25",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001604",
+      "funnet": "2026-09-09T18:00:51.119763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "75 stk Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000939",
+      "funnet": "2026-09-09T18:00:50.440702+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475986600",
       "funnet": "2026-09-09T15:02:19.129048+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Lionel Messi #CH-3 gradert 9 Topps Argentina Campeón",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986423",
-      "funnet": "2026-09-09T15:02:18.738027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Haaland, Griezmann og Ronaldinho showmen Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986456",
-      "funnet": "2026-09-09T15:00:57.272117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mini-tin insert",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986397",
-      "funnet": "2026-09-09T15:00:56.540676+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-09-09T15:00:55.640085+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
