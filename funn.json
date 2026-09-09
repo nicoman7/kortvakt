@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T05:56:28.683503+00:00",
+  "sist_sjekket": "2026-09-09T05:58:18.322456+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475948715",
+      "funnet": "2026-09-09T05:58:18.320621+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – diverse holo og full art",
       "pris": 55,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475936424",
       "funnet": "2026-09-08T19:36:18.736049+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Magnemite 26/75 Neo Discovery",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475936712",
-      "funnet": "2026-09-08T19:34:16.558183+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
