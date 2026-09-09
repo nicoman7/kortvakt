@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:40:24.569628+00:00",
+  "sist_sjekket": "2026-09-09T17:42:16.573556+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000164",
+      "funnet": "2026-09-09T17:42:16.571718+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pinsir & skarmory CBB4C 250kr selges samlet",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476000051",
+      "funnet": "2026-09-09T17:42:16.215219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Infernape pokemon",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475984806",
       "funnet": "2026-09-09T14:38:17.377920+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥 STOR POKÉMON VINTAGE SAMLING TIL SALGS! 🔥",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475649160",
-      "funnet": "2026-09-09T14:36:20.417650+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽ Arsenal – Stina Blackstenius Topps Chrome Green /99 – 66/99",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475983816",
-      "funnet": "2026-09-09T14:26:18.579650+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
