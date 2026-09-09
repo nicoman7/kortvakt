@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T09:10:24.903449+00:00",
+  "sist_sjekket": "2026-09-09T09:12:19.444157+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475960400",
+      "funnet": "2026-09-09T09:12:19.442740+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 899,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475896562",
       "funnet": "2026-09-08T21:08:18.075121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Sharpedo EX PSA 10 spesial illustrasjon, skjeldent kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475482022",
-      "funnet": "2026-09-08T21:08:17.070814+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
