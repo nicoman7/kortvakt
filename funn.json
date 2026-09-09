@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T09:06:18.131667+00:00",
+  "sist_sjekket": "2026-09-09T09:08:15.664441+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475960249",
+      "funnet": "2026-09-09T09:08:15.662227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Paldea Evolved",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475935685",
       "funnet": "2026-09-08T21:00:49.559697+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475423899",
-      "funnet": "2026-09-08T20:58:15.457454+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
