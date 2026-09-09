@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T17:54:16.474639+00:00",
+  "sist_sjekket": "2026-09-09T17:56:18.299420+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001534",
+      "funnet": "2026-09-09T17:56:18.297367+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Steffen Iversen samle kort Rosenborg og Norge",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-09-09T15:00:55.640085+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Showmen Fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986337",
-      "funnet": "2026-09-09T14:58:19.265756+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
