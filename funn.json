@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T12:04:19.613580+00:00",
+  "sist_sjekket": "2026-09-09T12:06:19.373642+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #35 PSA 10",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475973508",
+      "funnet": "2026-09-09T12:06:19.371890+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Aerodactyl 15/64 – Neo Revelation – Rare – WOTC – 2001",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475973440",
+      "funnet": "2026-09-09T12:06:19.013439+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Hits",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475423899",
+      "funnet": "2026-09-09T12:06:18.140910+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Treecko 70/106 - Pokemon Emerald",
       "pris": 35,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475958185",
       "funnet": "2026-09-09T08:44:16.828427+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu [Holo] #28 Pokemon Go",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475957948",
-      "funnet": "2026-09-09T08:44:16.322768+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Poke Kid #173 Pokemon Sword & Shield",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475957646",
-      "funnet": "2026-09-09T08:38:17.992192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #49 Pokemon Silver Tempest",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475957376",
-      "funnet": "2026-09-09T08:34:18.904864+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
