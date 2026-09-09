@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T03:12:19.507457+00:00",
+  "sist_sjekket": "2026-09-09T03:14:17.232781+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ice Rider Calyrex TCG",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475946894",
+      "funnet": "2026-09-09T03:14:17.230747+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu Snowflake Mark TCG",
       "pris": 430,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-08T19:30:39.486866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier Gold 2006 Fotballkort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475936507",
-      "funnet": "2026-09-08T19:30:39.207123+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
