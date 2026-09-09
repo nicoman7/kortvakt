@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T08:58:15.878757+00:00",
+  "sist_sjekket": "2026-09-09T09:00:49.154754+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475959496",
+      "funnet": "2026-09-09T09:00:49.152579+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475941211",
       "funnet": "2026-09-08T20:36:15.304486+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stufful 154/132 – Mega Evolution – Illustration Rare – 2025",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475941240",
-      "funnet": "2026-09-08T20:36:14.898713+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
