@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T21:08:18.251282+00:00",
+  "sist_sjekket": "2026-09-09T21:10:24.973050+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon promo selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476014973",
+      "funnet": "2026-09-09T21:10:24.971487+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Noctowl - 138/193 - Holo Rare - Pokemon M2a Mega Dream ex",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466293236",
       "funnet": "2026-09-09T19:10:24.547319+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TAG 10 Gumshoos 153/132 Illustration Rare (IR) Mega Evolution NM",
-      "pris": 620,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475647984",
-      "funnet": "2026-09-09T19:08:22.761547+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
