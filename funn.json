@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T11:12:17.905332+00:00",
+  "sist_sjekket": "2026-09-09T11:14:16.089340+00:00",
   "funn": [
+    {
+      "tittel": "Palpitoad 104/086",
+      "pris": 105,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475969463",
+      "funnet": "2026-09-09T11:14:16.087431+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Deuddigon 151/086",
       "pris": 230,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475947534",
       "funnet": "2026-09-09T05:00:48.973156+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mega Darkrai EX",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475947463",
-      "funnet": "2026-09-09T04:56:17.444446+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
