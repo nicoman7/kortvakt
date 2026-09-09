@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:10:23.033429+00:00",
+  "sist_sjekket": "2026-09-09T17:12:19.112194+00:00",
   "funn": [
+    {
+      "tittel": "Wings of the Captain/ japansk versjon/ spillekort/ samleobjekt",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475997412",
+      "funnet": "2026-09-09T17:12:19.110401+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Energy kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475997502",
+      "funnet": "2026-09-09T17:12:17.936635+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Munchlax 68/100 - Pokemon Majestic Dawn",
       "pris": 139,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475981151",
       "funnet": "2026-09-09T13:50:23.861323+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Druddigon reverse holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475981605",
-      "funnet": "2026-09-09T13:50:23.605853+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard ex Super Premium Collection",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475979071",
-      "funnet": "2026-09-09T13:46:20.342025+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
