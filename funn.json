@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T18:58:15.844367+00:00",
+  "sist_sjekket": "2026-09-09T19:00:52.815323+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bunke",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476006868",
+      "funnet": "2026-09-09T19:00:52.813315+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort med metallboks",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476006746",
+      "funnet": "2026-09-09T19:00:52.188162+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475993392",
       "funnet": "2026-09-09T16:28:23.145422+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters DM-05 er Survivors of the Megapocalypse diverse kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475993704",
-      "funnet": "2026-09-09T16:28:22.775332+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort vintage lot",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475469838",
-      "funnet": "2026-09-09T16:28:22.396534+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
