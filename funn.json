@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T03:08:18.931889+00:00",
+  "sist_sjekket": "2026-09-09T03:10:26.613370+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu Snowflake Mark TCG",
+      "pris": 430,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475946856",
+      "funnet": "2026-09-09T03:10:26.611707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Rare Candy TCG",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475946867",
+      "funnet": "2026-09-09T03:10:25.753448+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "ETBs fra case (Pokemon go)",
       "pris": 1900,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-08T19:30:39.207123+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL. Oppdatert 6.9",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-09-08T19:30:38.630935+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu V #SWSH061 Pokemon Promo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475936334",
-      "funnet": "2026-09-08T19:28:25.315096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
