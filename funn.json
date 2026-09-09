@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T17:50:24.955350+00:00",
+  "sist_sjekket": "2026-09-09T17:52:19.479984+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001113",
+      "funnet": "2026-09-09T17:52:19.478255+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Finest diverse",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476001131",
+      "funnet": "2026-09-09T17:52:18.536801+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort/ samleobjekt",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475986210",
       "funnet": "2026-09-09T14:56:17.289225+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Griezmann Showmen  Atletico Madrid Fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475986152",
-      "funnet": "2026-09-09T14:56:15.950016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475985986",
-      "funnet": "2026-09-09T14:54:18.781185+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
