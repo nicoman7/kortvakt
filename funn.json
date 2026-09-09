@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T19:46:17.125422+00:00",
+  "sist_sjekket": "2026-09-09T19:48:36.579327+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010658",
+      "funnet": "2026-09-09T19:48:36.577699+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Phantasmal Flames Booster Packs",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010571",
+      "funnet": "2026-09-09T19:48:35.786837+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Destined Rivals Elite Trainer Box",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010000",
+      "funnet": "2026-09-09T19:48:35.372080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 Booster Packs",
       "pris": 360,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476000592",
       "funnet": "2026-09-09T18:08:17.136250+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "31 ulike Pokémon Jungle kort – WOTC – pene kort!",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476002092",
-      "funnet": "2026-09-09T18:08:16.539578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476002539",
-      "funnet": "2026-09-09T18:08:15.868513+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Wooper 71/75 - Pokemon Neo Discovery",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476002099",
-      "funnet": "2026-09-09T18:02:28.509402+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
