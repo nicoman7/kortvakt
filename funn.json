@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T14:20:27.455690+00:00",
+  "sist_sjekket": "2026-09-09T14:22:21.014692+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort trainer's",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475983413",
+      "funnet": "2026-09-09T14:22:21.012782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475973508",
       "funnet": "2026-09-09T12:06:19.371890+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aerodactyl 15/64 – Neo Revelation – Rare – WOTC – 2001",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475973440",
-      "funnet": "2026-09-09T12:06:19.013439+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
