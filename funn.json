@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T19:48:36.579327+00:00",
+  "sist_sjekket": "2026-09-09T19:50:26.697693+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010632",
+      "funnet": "2026-09-09T19:50:26.695864+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010871",
+      "funnet": "2026-09-09T19:50:25.840644+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476010776",
+      "funnet": "2026-09-09T19:50:24.848432+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476003021",
       "funnet": "2026-09-09T18:16:16.650858+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clefairy 50/83 - Pokemon Generations",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476002427",
-      "funnet": "2026-09-09T18:08:18.128251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kim Little – Arsenal – Topps Chrome Blue Refractor ✨",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476002044",
-      "funnet": "2026-09-09T18:08:17.515067+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celtics - Topps Chrome Update",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476000592",
-      "funnet": "2026-09-09T18:08:17.136250+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
