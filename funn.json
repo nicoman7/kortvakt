@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T15:26:24.117435+00:00",
+  "sist_sjekket": "2026-09-09T15:28:16.969221+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering (MTG) kort – selges enkeltvis eller samlet",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475345587",
+      "funnet": "2026-09-09T15:28:16.967447+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "33 Vintage Holo JP pokemon-kort (Gengar, Dragonite, Mew mv.)",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475542058",
+      "funnet": "2026-09-09T15:28:16.167515+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475976256",
       "funnet": "2026-09-09T12:42:22.224424+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Victini PSA 9 - Pokemon promo 208",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457976764",
-      "funnet": "2026-09-09T12:42:21.902664+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Fotballkort Jørgen Strand Larsen Crystal Palace",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475976293",
-      "funnet": "2026-09-09T12:42:21.055890+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
