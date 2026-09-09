@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T16:00:58.142190+00:00",
+  "sist_sjekket": "2026-09-09T16:02:18.906130+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hits",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475423899",
+      "funnet": "2026-09-09T16:02:18.904362+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Beartic #110 Pokemon Black Bolt",
       "pris": 130,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475977519",
       "funnet": "2026-09-09T12:58:16.215181+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hisuian Lilligant V #17 Pokemon Astral Radiance",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475977389",
-      "funnet": "2026-09-09T12:56:19.049859+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
