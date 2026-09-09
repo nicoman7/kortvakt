@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-09T13:58:14.036842+00:00",
+  "sist_sjekket": "2026-09-09T14:00:52.428143+00:00",
   "funn": [
+    {
+      "tittel": "One piece kort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475981297",
+      "funnet": "2026-09-09T14:00:52.426177+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Leafeon 005/131 Holo Rare Prismatic Evolutions Pokemon Reverse Holo",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464856002",
+      "funnet": "2026-09-09T14:00:51.700742+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One piece - Kort og Don fra 3rd anniversary set",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475981714",
+      "funnet": "2026-09-09T14:00:50.821860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort blandet lot",
       "pris": 45,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467692430",
       "funnet": "2026-09-09T11:50:24.595970+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Latias ex Double Rare ME01: Mega Evolution 100/132",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463428860",
-      "funnet": "2026-09-09T11:48:29.627066+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dreepy - 158/217 (Quick Ball) 158/217 ME: Ascended Heroes Pokemon Common Holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463656817",
-      "funnet": "2026-09-09T11:44:19.228449+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle fotballkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475971934",
-      "funnet": "2026-09-09T11:44:18.354672+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
