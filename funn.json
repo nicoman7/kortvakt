@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T20:06:31.220966+00:00",
+  "sist_sjekket": "2026-09-09T20:08:17.153939+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling fotballkort selges rimelig! (Masse spesialkort)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475634060",
+      "funnet": "2026-09-09T20:08:17.152077+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort (phantasmal flames)",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476003870",
       "funnet": "2026-09-09T18:26:15.676234+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort salg - Litten Illustration Rare",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475857429",
-      "funnet": "2026-09-09T18:26:14.998000+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
