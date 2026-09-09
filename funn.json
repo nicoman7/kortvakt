@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T09:08:15.664441+00:00",
+  "sist_sjekket": "2026-09-09T09:10:24.903449+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475960330",
+      "funnet": "2026-09-09T09:10:24.901312+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2 marvel kort Attila kjøp",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475960372",
+      "funnet": "2026-09-09T09:10:24.506463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475482022",
       "funnet": "2026-09-08T21:08:17.070814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perm med masse gamle & nye Pokemonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602476",
-      "funnet": "2026-09-08T21:06:17.426059+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Remoraid #105 Pokemon Aquapolis",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475935685",
-      "funnet": "2026-09-08T21:00:49.559697+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
