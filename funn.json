@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-09T09:58:16.019937+00:00",
+  "sist_sjekket": "2026-09-09T10:00:54.450983+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort vm 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475964147",
+      "funnet": "2026-09-09T10:00:54.449135+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Marnie’s Grimmsnarl Ex PSA 10",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475964238",
+      "funnet": "2026-09-09T10:00:53.473256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Candice #204/195 rainbow Pokemon",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475938326",
       "funnet": "2026-09-08T21:46:14.932060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ancient Mew",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475943930",
-      "funnet": "2026-09-08T21:44:21.838413+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
-      "funnet": "2026-09-08T21:44:21.100779+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
