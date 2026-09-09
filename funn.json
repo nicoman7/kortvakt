@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-09T22:54:13.675723+00:00",
+  "sist_sjekket": "2026-09-09T22:56:17.960876+00:00",
   "funn": [
+    {
+      "tittel": "Mar-Vell #135 40/80 – 2026 Topps Chrome Marvel",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476017066",
+      "funnet": "2026-09-09T22:56:17.958989+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Angel #186 69/75 Purple Shimmer Refractor – 2025 Topps Chrome Marvel",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-09T19:20:28.895317+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gyarados holo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468531814",
-      "funnet": "2026-09-09T19:20:28.027408+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
