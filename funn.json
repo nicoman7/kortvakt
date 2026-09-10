@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T08:28:18.644354+00:00",
+  "sist_sjekket": "2026-09-10T08:30:35.851382+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476031793",
+      "funnet": "2026-09-10T08:30:35.850100+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel Masters - Ethel, Star Sea Elemental (2/55) - Very Rare",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476032174",
+      "funnet": "2026-09-10T08:30:35.508254+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🫟Pokémon kort – Pokémon Lightning Energy kort (2011)🫟",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476011726",
       "funnet": "2026-09-09T20:16:24.399359+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chilling Reign Booster Pack Art set",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012276",
-      "funnet": "2026-09-09T20:16:23.463030+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Darkrai GX SV70/SV94 - Hidden fates",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012269",
-      "funnet": "2026-09-09T20:16:22.524655+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
