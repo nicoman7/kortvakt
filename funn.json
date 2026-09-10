@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T13:52:17.347141+00:00",
+  "sist_sjekket": "2026-09-10T13:54:20.840093+00:00",
   "funn": [
+    {
+      "tittel": "Selger eldre pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476058417",
+      "funnet": "2026-09-10T13:54:20.838023+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Morpeko ex #117 Pokemon Pitch Black SIR",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476041680",
       "funnet": "2026-09-10T10:28:19.904807+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket’s Mewtwo GX Box samleboks",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476041603",
-      "funnet": "2026-09-10T10:28:18.997554+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
