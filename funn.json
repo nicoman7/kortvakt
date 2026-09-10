@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T19:56:15.496417+00:00",
+  "sist_sjekket": "2026-09-10T19:58:53.476747+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner Serie 1 Bytte mot Serie 2",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476086104",
+      "funnet": "2026-09-10T19:58:53.474921+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Destined Rivals ETB",
       "pris": 1699,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T18:12:20.989494+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476078433",
-      "funnet": "2026-09-10T18:12:20.658681+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
