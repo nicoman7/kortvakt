@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-10T18:10:22.788289+00:00",
+  "sist_sjekket": "2026-09-10T18:12:20.991267+00:00",
   "funn": [
+    {
+      "tittel": "2026 Panini Prizm FIFA World Cup – Mega Box",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476077925",
+      "funnet": "2026-09-10T18:12:20.989494+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476078433",
+      "funnet": "2026-09-10T18:12:20.658681+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Starmie 64/102 - Pokemon Base Set",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476078517",
+      "funnet": "2026-09-10T18:12:19.578724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Necrozma [Holo] 101/236 - Pokemon Unified Minds",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476078657",
+      "funnet": "2026-09-10T18:12:18.671944+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling fotballkort selges rimelig! (Masse spesialkort)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475634060",
+      "funnet": "2026-09-10T18:12:17.518591+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Unown [G] 57/106 - Pokemon Great Encounters",
       "pris": 79,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-09-10T16:14:27.597818+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Base Set, Jungle, Fossil - Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/435848270",
-      "funnet": "2026-09-10T16:14:26.679151+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemonkort - twilight masquerade",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476069075",
-      "funnet": "2026-09-10T16:14:25.718173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling med 9 kort selges samlet",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476068885",
-      "funnet": "2026-09-10T16:14:24.868682+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Wattrel - twilight masquerade",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476068835",
-      "funnet": "2026-09-10T16:12:21.130117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liam Lawson 2022 Topps Chrome F1 Gradert kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476067840",
-      "funnet": "2026-09-10T16:12:20.433585+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
