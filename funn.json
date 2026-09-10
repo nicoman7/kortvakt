@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T16:40:23.431099+00:00",
+  "sist_sjekket": "2026-09-10T16:42:15.878489+00:00",
   "funn": [
+    {
+      "tittel": "Pokmeon kort charizard tins selges samlet",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476071403",
+      "funnet": "2026-09-10T16:42:15.876450+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Vileplume holo NM",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T13:32:17.878036+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "41 stk topp Match Attax 24/25 fotballkort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419487422",
-      "funnet": "2026-09-10T13:32:16.928549+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
