@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-10T18:44:14.828174+00:00",
+  "sist_sjekket": "2026-09-10T18:46:17.120191+00:00",
   "funn": [
+    {
+      "tittel": "Flareon H7 Skyridge Holo Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476080552",
+      "funnet": "2026-09-10T18:46:17.118485+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Zekrom EX holo",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081216",
+      "funnet": "2026-09-10T18:46:16.385072+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mimikyu V #24 Pokemon Chinese CS4.5C",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081316",
+      "funnet": "2026-09-10T18:46:15.541134+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling selges samlet",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081139",
+      "funnet": "2026-09-10T18:46:15.144291+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Virizion EX holografisk",
       "pris": 350,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-10T17:18:22.319914+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort holografiske / foil kort",
-      "pris": 1111,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074201",
-      "funnet": "2026-09-10T17:18:21.397079+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Grimer / Muk japansk holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074294",
-      "funnet": "2026-09-10T17:18:20.515763+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074308",
-      "funnet": "2026-09-10T17:18:20.138261+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2026 Topps Finest Uefa Champions Marquinhos Blue Common /200",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074305",
-      "funnet": "2026-09-10T17:18:19.217644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
