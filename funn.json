@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T19:00:54.797790+00:00",
+  "sist_sjekket": "2026-09-10T19:02:17.568998+00:00",
   "funn": [
+    {
+      "tittel": "Dedenne Pokémon kort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476082433",
+      "funnet": "2026-09-10T19:02:17.567222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon First Partner Series 2",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472614120",
+      "funnet": "2026-09-10T19:02:17.147078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "33 Vintage Holo JP pokemon-kort (Gengar, Dragonite, Mew mv.)",
       "pris": 140,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T17:30:39.033565+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "CGC 10 Lugia V Pokémon-kort Paradigm Trigger japansk holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476075247",
-      "funnet": "2026-09-10T17:30:38.775938+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476075383",
-      "funnet": "2026-09-10T17:30:38.199220+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
