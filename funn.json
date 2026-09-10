@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T14:56:21.397786+00:00",
+  "sist_sjekket": "2026-09-10T14:58:24.195690+00:00",
   "funn": [
+    {
+      "tittel": "Liten pokemon samling selges, Umbreon, Espeon , Mew etc.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476063019",
+      "funnet": "2026-09-10T14:58:24.194584+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Psyduck #44 Pokemon Team Magma & Team Aqua",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476063149",
+      "funnet": "2026-09-10T14:58:23.288957+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "33 Vintage Holo JP pokemon-kort (Gengar, Dragonite, Mew mv.)",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475542058",
+      "funnet": "2026-09-10T14:58:22.824437+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Warren Zaire-Emery 2025-26 Topps Finest UEFA Blue Refractor Auto /150",
       "pris": 200,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476049710",
       "funnet": "2026-09-10T12:04:21.121026+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽ Aston Villa – Ollie Watkins /75 – Topps Carnaval Brazil 2025/26 Purple Samba",
-      "pris": 179,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048688",
-      "funnet": "2026-09-10T12:00:52.030534+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476049250",
-      "funnet": "2026-09-10T12:00:51.141436+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Heliolisk Twilight Masquerade Illustration Rare 177/167",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048713",
-      "funnet": "2026-09-10T11:56:21.874422+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
