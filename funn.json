@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T12:50:28.944842+00:00",
+  "sist_sjekket": "2026-09-10T12:52:18.339751+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Japansk Turtonator Paradise Dragona (44)",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476053865",
+      "funnet": "2026-09-10T12:52:18.338172+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps João Fonseca tenniskort RC Rookie Card /50",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476053802",
+      "funnet": "2026-09-10T12:52:17.556135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Florges EX full art",
       "pris": 1100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T08:58:14.385430+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dark Golbat [Reverse Holo] #34 Pokemon Team Rocket Returns",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476034458",
-      "funnet": "2026-09-10T08:56:18.865500+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Energy",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476034479",
-      "funnet": "2026-09-10T08:56:18.500095+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
