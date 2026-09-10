@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T23:28:15.708714+00:00",
+  "sist_sjekket": "2026-09-10T23:30:37.495107+00:00",
   "funn": [
+    {
+      "tittel": "Signerte fotballbilder Rosenborg",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476092369",
+      "funnet": "2026-09-10T23:30:37.493111+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Eevee  173 – Prismatic Evolutions Promo  SEALED",
       "pris": 449,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/440889245",
       "funnet": "2026-09-10T19:14:26.928688+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Diverse AR kort Japansk 2",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438747736",
-      "funnet": "2026-09-10T19:14:26.124484+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
