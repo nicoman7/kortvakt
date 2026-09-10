@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T22:54:14.740030+00:00",
+  "sist_sjekket": "2026-09-10T22:56:15.195084+00:00",
   "funn": [
+    {
+      "tittel": "Smurfer - samlekort fra pastillesker",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/318153354",
+      "funnet": "2026-09-10T22:56:15.193188+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort fra Plasma Freeze/Team Plasma (2013) FASTPRIS!",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 11,
       "lenke": "https://www.finn.no/recommerce/forsale/item/468554255",
       "funnet": "2026-09-10T19:14:24.723101+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling: 100% glinsende / holo (Gengar, Xerneas, Aurorus) 200cards",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470061809",
-      "funnet": "2026-09-10T19:14:23.922186+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
