@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T06:50:28.116412+00:00",
+  "sist_sjekket": "2026-09-10T06:52:19.391306+00:00",
   "funn": [
+    {
+      "tittel": "To komplett Magic-kortsett, svart + rødt",
+      "pris": 644,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476025490",
+      "funnet": "2026-09-10T06:52:19.389964+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort – Vaporeon, Goldeen, Mega Chandelure ex, Klinklang & Hydreigon BREAK",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476009792",
       "funnet": "2026-09-09T19:42:27.507672+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard V kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476009509",
-      "funnet": "2026-09-09T19:42:27.077276+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
