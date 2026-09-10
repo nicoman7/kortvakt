@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T20:54:19.751864+00:00",
+  "sist_sjekket": "2026-09-10T20:56:21.116451+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476089260",
+      "funnet": "2026-09-10T20:56:21.114858+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Rayquaza holografisk",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476089241",
+      "funnet": "2026-09-10T20:56:20.717005+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort CGC Pristine  10 og 10mnt – 4 slabs",
       "pris": 1600,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T18:48:17.557415+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Attacking Trio samlekort Luis Suárez Neymar Jr Messi",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475964604",
-      "funnet": "2026-09-10T18:48:16.921848+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flareon H7 Skyridge Holo Pokemonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476080552",
-      "funnet": "2026-09-10T18:46:17.118485+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
