@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T21:48:20.864136+00:00",
+  "sist_sjekket": "2026-09-10T21:50:24.378418+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Yamper",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476091138",
+      "funnet": "2026-09-10T21:50:24.376784+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "IK Start fotballkort samling",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476082433",
       "funnet": "2026-09-10T19:02:17.567222+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472614120",
-      "funnet": "2026-09-10T19:02:17.147078+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
