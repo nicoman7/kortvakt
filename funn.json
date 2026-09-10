@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-10T18:24:17.634634+00:00",
+  "sist_sjekket": "2026-09-10T18:26:20.572120+00:00",
   "funn": [
+    {
+      "tittel": "Samling telekort. 46TELEKORT",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/327594488",
+      "funnet": "2026-09-10T18:26:20.570433+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #35/108 Pokemon kort (Evoloutions)",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476079541",
+      "funnet": "2026-09-10T18:26:19.461059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lairon #20 Pokemon Team Magma & Team Aqua",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476079688",
+      "funnet": "2026-09-10T18:26:19.058958+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sandshrew 96/123 - Pokemon Mysterious Treasures",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476079751",
+      "funnet": "2026-09-10T18:26:18.206786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Regieleki VMAX Rainbow v Max full art",
       "pris": 90,
@@ -1166,38 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476072415",
       "funnet": "2026-09-10T16:56:22.475647+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Spearow holo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476072358",
-      "funnet": "2026-09-10T16:56:22.049829+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - AQUAPOLIS",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476072032",
-      "funnet": "2026-09-10T16:50:22.496395+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clefable holo 1999",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476071781",
-      "funnet": "2026-09-10T16:48:17.108310+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Raichu holo Base set 1999",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476070992",
-      "funnet": "2026-09-10T16:44:14.491232+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
