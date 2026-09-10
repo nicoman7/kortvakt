@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T15:50:26.667718+00:00",
+  "sist_sjekket": "2026-09-10T15:52:23.054028+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067205",
+      "funnet": "2026-09-10T15:52:23.051798+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476054241",
       "funnet": "2026-09-10T12:58:16.718912+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aura Reading Cards kortstokk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476053902",
-      "funnet": "2026-09-10T12:58:16.298161+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
