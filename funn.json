@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T18:50:23.027537+00:00",
+  "sist_sjekket": "2026-09-10T18:52:19.653546+00:00",
   "funn": [
+    {
+      "tittel": "Dewgong H6 Holo Skyridge Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081467",
+      "funnet": "2026-09-10T18:52:19.651637+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yamask #119 Pokemon Japanese White Flare",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T17:24:16.643375+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Haunter japansk holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074571",
-      "funnet": "2026-09-10T17:22:16.766598+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
