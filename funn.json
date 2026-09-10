@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T11:32:14.998004+00:00",
+  "sist_sjekket": "2026-09-10T11:34:18.263377+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476046260",
+      "funnet": "2026-09-10T11:34:18.261720+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Alolan Vulpix VSTAR Silver Tempest Ultra Rare 034/195",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476012156",
       "funnet": "2026-09-10T06:12:18.232715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Chandelure EX 115",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476023875",
-      "funnet": "2026-09-10T06:12:17.848487+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
