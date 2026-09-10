@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T18:48:18.697971+00:00",
+  "sist_sjekket": "2026-09-10T18:50:23.027537+00:00",
   "funn": [
+    {
+      "tittel": "Yamask #119 Pokemon Japanese White Flare",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081580",
+      "funnet": "2026-09-10T18:50:23.025897+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo EX holo",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081626",
+      "funnet": "2026-09-10T18:50:22.421796+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Toxicroak EX samlekort",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T17:22:16.766598+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Birthday Pikachu samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074522",
-      "funnet": "2026-09-10T17:22:16.181014+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Nummererte Daka Liverpool-kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457718496",
-      "funnet": "2026-09-10T17:20:26.944718+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
