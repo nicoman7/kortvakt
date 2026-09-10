@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T08:56:18.867351+00:00",
+  "sist_sjekket": "2026-09-10T08:58:14.387433+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort – liten samling med reverse holos",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476034079",
+      "funnet": "2026-09-10T08:58:14.385430+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Dark Golbat [Reverse Holo] #34 Pokemon Team Rocket Returns",
       "pris": 249,
@@ -1190,14 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
       "funnet": "2026-09-09T20:28:18.364646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon XY Ancient Origins Booster Pack",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012753",
-      "funnet": "2026-09-09T20:26:27.670948+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
