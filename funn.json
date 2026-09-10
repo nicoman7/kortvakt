@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T15:46:16.101567+00:00",
+  "sist_sjekket": "2026-09-10T15:48:19.430836+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067021",
+      "funnet": "2026-09-10T15:48:19.429111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med esker og tilbehør",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476066922",
+      "funnet": "2026-09-10T15:48:18.563576+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon tcg kort Pitch Black Booster Bundle med 6 booster packs ny sealed",
       "pris": 750,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476053998",
       "funnet": "2026-09-10T12:54:22.747239+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slowpoke samling (1999-2023)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475720795",
-      "funnet": "2026-09-10T12:54:21.729704+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Ace Bailey RC Utah Jazz basketkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476053899",
-      "funnet": "2026-09-10T12:54:21.296123+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
