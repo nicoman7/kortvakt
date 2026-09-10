@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T08:00:47.200255+00:00",
+  "sist_sjekket": "2026-09-10T08:02:15.754169+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pitch Black",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476029858",
+      "funnet": "2026-09-10T08:02:15.752431+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny og ubrukt Pokémon TCG tinboks med Mega Charizard Y EX",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-09T20:06:31.219291+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundles",
-      "pris": 1190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476011793",
-      "funnet": "2026-09-09T20:06:30.345152+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
