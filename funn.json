@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T11:04:16.672613+00:00",
+  "sist_sjekket": "2026-09-10T11:06:22.175007+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Moderne hits til salg, Charizard, IR, SIR!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476044240",
+      "funnet": "2026-09-10T11:06:22.173219+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémonkort – 15 kr/stk ⭐",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476044660",
+      "funnet": "2026-09-10T11:06:21.801078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Originale fotballkort fra VM 1994 (USA 94) – 16 kort samlet",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476043623",
+      "funnet": "2026-09-10T11:06:20.966046+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort – 10 kr/stk ⭐",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-09-09T23:42:20.464300+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Marvel – 4 nummererte kort /150 og /199",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476017298",
-      "funnet": "2026-09-09T23:26:14.511989+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-09T23:26:14.143141+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Knull #129 18/250 – 2025 Topps Chrome Marvel",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476017227",
-      "funnet": "2026-09-09T23:18:19.794314+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
