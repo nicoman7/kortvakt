@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-10T16:12:21.131559+00:00",
+  "sist_sjekket": "2026-09-10T16:14:27.599632+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Arcanine 15/100",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476068768",
+      "funnet": "2026-09-10T16:14:27.597818+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Base Set, Jungle, Fossil - Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/435848270",
+      "funnet": "2026-09-10T16:14:26.679151+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemonkort - twilight masquerade",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476069075",
+      "funnet": "2026-09-10T16:14:25.718173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med 9 kort selges samlet",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476068885",
+      "funnet": "2026-09-10T16:14:24.868682+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Wattrel - twilight masquerade",
       "pris": 70,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476055653",
       "funnet": "2026-09-10T13:20:09.146631+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Quaxwell Paradise Dragona (14)",
-      "pris": 17,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476055360",
-      "funnet": "2026-09-10T13:14:18.659217+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Espeon GX kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054174",
-      "funnet": "2026-09-10T13:14:18.323519+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Quaquaval Paradise Dragona (15)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476055495",
-      "funnet": "2026-09-10T13:14:17.337778+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Landorus Paradise Dragona (30) Holofoil",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476055100",
-      "funnet": "2026-09-10T13:12:20.512317+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
