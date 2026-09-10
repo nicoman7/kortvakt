@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T14:22:17.446857+00:00",
+  "sist_sjekket": "2026-09-10T14:24:18.433856+00:00",
   "funn": [
+    {
+      "tittel": "Pichu 20/100 Pokemon Ex Sandstorm MP/MP",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476060588",
+      "funnet": "2026-09-10T14:24:18.432143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard EX",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476060761",
+      "funnet": "2026-09-10T14:24:17.622878+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Scyther ex 102/109 Holo",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476060648",
+      "funnet": "2026-09-10T14:24:17.194681+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC Dean Huijsen Real Madrid Chrome Autographs #CA-DH /199 Auto",
       "pris": 185,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-10T11:38:17.911529+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476046260",
-      "funnet": "2026-09-10T11:34:18.261720+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alolan Vulpix VSTAR Silver Tempest Ultra Rare 034/195",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476045846",
-      "funnet": "2026-09-10T11:30:45.696812+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Druddigon Silver Tempest Trainer Gallery Ultra Rare TG09/TG30",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476045808",
-      "funnet": "2026-09-10T11:30:45.254328+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
