@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T16:02:17.436786+00:00",
+  "sist_sjekket": "2026-09-10T16:04:15.712994+00:00",
   "funn": [
+    {
+      "tittel": "Mimikyu samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067738",
+      "funnet": "2026-09-10T16:04:15.711391+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering - 102 kort - nesten ingen duplikater",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476068106",
+      "funnet": "2026-09-10T16:04:15.002665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Unown (A) - EX Unseen Forces - A/28 - Holo Rare. HP",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476054814",
       "funnet": "2026-09-10T13:06:22.014440+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Eevee 101a SVP Holofoil Promo kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054653",
-      "funnet": "2026-09-10T13:06:21.092992+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort lot - Gyarados & Magikarp - 9 kort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054327",
-      "funnet": "2026-09-10T13:04:19.181137+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
