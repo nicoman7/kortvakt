@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T15:56:18.157751+00:00",
+  "sist_sjekket": "2026-09-10T15:58:36.657922+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067598",
+      "funnet": "2026-09-10T15:58:36.656000+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Disney Lorcana - 95 kort - nesten ingen duplikater",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067506",
+      "funnet": "2026-09-10T15:58:36.305528+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse Pokemon Kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476068013",
+      "funnet": "2026-09-10T15:58:35.421295+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476054651",
       "funnet": "2026-09-10T13:04:17.503601+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Dialga Paradise Dragona (42) Holofoil",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054448",
-      "funnet": "2026-09-10T13:00:53.424714+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Altaria Paradise Dragona (41)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054095",
-      "funnet": "2026-09-10T12:58:17.619473+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Palkia Paradise Dragona (43) Holofoil",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054241",
-      "funnet": "2026-09-10T12:58:16.718912+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
