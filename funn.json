@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T08:02:15.754169+00:00",
+  "sist_sjekket": "2026-09-10T08:04:20.845287+00:00",
   "funn": [
+    {
+      "tittel": "Ferran Torres FC Barcelona fotballkort 03/05",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476030322",
+      "funnet": "2026-09-10T08:04:20.843522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pitch Black",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-09T20:08:17.152077+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort (phantasmal flames)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476011589",
-      "funnet": "2026-09-09T20:06:31.219291+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
