@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T20:22:18.681034+00:00",
+  "sist_sjekket": "2026-09-10T20:24:18.621635+00:00",
   "funn": [
+    {
+      "tittel": "Politoed #7 HG & SS Psa 8 - Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476087780",
+      "funnet": "2026-09-10T20:24:18.619755+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Dark Dragonite #22 Pokemon Team Rocket",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-09-10T18:30:39.948859+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Crystal Gathering Binder Set - Sylveon",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079784",
-      "funnet": "2026-09-10T18:28:20.733571+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
