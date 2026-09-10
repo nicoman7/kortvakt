@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-10T18:46:17.120191+00:00",
+  "sist_sjekket": "2026-09-10T18:48:18.697971+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Toxicroak EX samlekort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081458",
+      "funnet": "2026-09-10T18:48:18.695763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort samling i album",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081275",
+      "funnet": "2026-09-10T18:48:18.451666+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Shadow Rider Calyrex VMAX",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476081569",
+      "funnet": "2026-09-10T18:48:17.841177+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Harry Kane Panini Donruss Optic FIFA fotballkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475971725",
+      "funnet": "2026-09-10T18:48:17.557415+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Attacking Trio samlekort Luis Suárez Neymar Jr Messi",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475964604",
+      "funnet": "2026-09-10T18:48:16.921848+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flareon H7 Skyridge Holo Pokemonkort",
       "pris": null,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-09-10T17:20:26.944718+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074484",
-      "funnet": "2026-09-10T17:20:26.363300+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort samling – EX, GX og trenerkort",
-      "pris": 757,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074285",
-      "funnet": "2026-09-10T17:20:25.719924+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mew japansk holografisk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074445",
-      "funnet": "2026-09-10T17:20:25.445976+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Lapras holo kort japansk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074384",
-      "funnet": "2026-09-10T17:20:24.882245+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476074211",
-      "funnet": "2026-09-10T17:18:22.319914+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
