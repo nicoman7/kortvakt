@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-10T20:10:25.399451+00:00",
+  "sist_sjekket": "2026-09-10T20:12:23.490440+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476087175",
+      "funnet": "2026-09-10T20:12:23.488561+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Hitmontop 102/217",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476086909",
+      "funnet": "2026-09-10T20:12:22.513999+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Salazzle 035/217",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476086965",
+      "funnet": "2026-09-10T20:12:21.498168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – Rolycoly 118/217",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476087267",
+      "funnet": "2026-09-10T20:12:20.541916+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-10T20:12:19.516085+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Salandit 034/217",
       "pris": 5,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476079751",
       "funnet": "2026-09-10T18:26:18.206786+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Regieleki VMAX Rainbow v Max full art",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079271",
-      "funnet": "2026-09-10T18:24:17.632772+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Claydol [Reverse Holo] #8 Pokemon Team Magma & Team Aqua",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079419",
-      "funnet": "2026-09-10T18:24:17.246888+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zangoose #23 Pokemon Team Magma & Team Aqua",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079555",
-      "funnet": "2026-09-10T18:24:16.876573+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Poliwag 75/112 - Pokemon Fire Red & Leaf Green",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079318",
-      "funnet": "2026-09-10T18:22:15.955454+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Schemer [Reverse Holo] #69 Pokemon Team Magma & Team Aqua",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476079334",
-      "funnet": "2026-09-10T18:22:15.377357+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
