@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T10:38:14.154178+00:00",
+  "sist_sjekket": "2026-09-10T10:40:24.027401+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 680,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476041803",
+      "funnet": "2026-09-10T10:40:24.025405+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel Masters King Benthos holo 2/55 - Very rare",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476041665",
+      "funnet": "2026-09-10T10:40:23.701131+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Perm med masse gamle & nye Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475602476",
+      "funnet": "2026-09-10T10:40:23.028023+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Max Dowman Topps Chrome Arsenal 14/75",
       "pris": 750,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476017066",
       "funnet": "2026-09-09T22:56:17.958989+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Angel #186 69/75 Purple Shimmer Refractor – 2025 Topps Chrome Marvel",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476017016",
-      "funnet": "2026-09-09T22:50:22.641801+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sergeant Calhoun #111 32/199 – 2026 Topps Disney",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476016961",
-      "funnet": "2026-09-09T22:44:16.519523+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ariel NPL-3 Illuminated Neon Lights – 2026 Topps Disney Neon",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476016928",
-      "funnet": "2026-09-09T22:42:15.444521+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
