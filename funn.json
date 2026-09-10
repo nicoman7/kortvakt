@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T15:48:19.430836+00:00",
+  "sist_sjekket": "2026-09-10T15:50:26.667718+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067119",
+      "funnet": "2026-09-10T15:50:26.665641+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Heliolisk - twilight masquerade",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476067141",
+      "funnet": "2026-09-10T15:50:25.700917+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476053902",
       "funnet": "2026-09-10T12:58:16.298161+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Hoops Udonis Haslem Miami Heat signert basketkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476054205",
-      "funnet": "2026-09-10T12:58:15.258197+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Gholdengo Paradise Dragona (38)",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476053998",
-      "funnet": "2026-09-10T12:54:22.747239+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
