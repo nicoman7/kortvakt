@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T22:02:15.355139+00:00",
+  "sist_sjekket": "2026-09-10T22:04:16.823274+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dedenne",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476091486",
+      "funnet": "2026-09-10T22:04:16.821849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Lono’s Killowattrel",
       "pris": 59,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/393448929",
       "funnet": "2026-09-10T19:08:22.872494+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "32 stk pokemonkort samlet",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447397091",
-      "funnet": "2026-09-10T19:08:21.895468+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
