@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T21:50:24.378418+00:00",
+  "sist_sjekket": "2026-09-10T21:52:15.813478+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Obsidian Flames 3 Pack Triple Blister",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476091028",
+      "funnet": "2026-09-10T21:52:15.811596+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Yamper",
       "pris": 49,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476082505",
       "funnet": "2026-09-10T19:04:14.426084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dedenne Pokémon kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476082433",
-      "funnet": "2026-09-10T19:02:17.567222+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
