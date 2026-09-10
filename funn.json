@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T19:02:17.568998+00:00",
+  "sist_sjekket": "2026-09-10T19:04:14.428111+00:00",
   "funn": [
+    {
+      "tittel": "712 Pokémon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476082505",
+      "funnet": "2026-09-10T19:04:14.426084+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dedenne Pokémon kort",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T17:30:39.613164+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lt. Surge's Raticate #53 Pokemon Gym Challenge",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476075132",
-      "funnet": "2026-09-10T17:30:39.033565+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
