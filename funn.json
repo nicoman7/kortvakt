@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T07:02:15.845282+00:00",
+  "sist_sjekket": "2026-09-10T07:04:17.327621+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476026339",
+      "funnet": "2026-09-10T07:04:17.325614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Manectric illlustration",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476010571",
       "funnet": "2026-09-09T19:48:35.786837+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Elite Trainer Box",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476010000",
-      "funnet": "2026-09-09T19:48:35.372080+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
