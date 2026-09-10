@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-10T08:36:17.607922+00:00",
+  "sist_sjekket": "2026-09-10T08:38:16.095166+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476032786",
+      "funnet": "2026-09-10T08:38:16.093416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kyogre #15 Pokemon Emerald",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476032897",
+      "funnet": "2026-09-10T08:38:15.815156+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Holo Charmander 4/18 – Detective Pikachu – 2019",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476033009",
+      "funnet": "2026-09-10T08:38:15.221884+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dratini #52 Pokemon Team Rocket Returns",
       "pris": 25,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476012544",
       "funnet": "2026-09-09T20:21:02.799073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hidden Fates Booster Pack",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012517",
-      "funnet": "2026-09-09T20:21:02.101326+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon McDonald's 2025 Booster Pack",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012444",
-      "funnet": "2026-09-09T20:18:18.988875+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Cheren - Ascended Heroes",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476012454",
-      "funnet": "2026-09-09T20:18:17.917891+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
