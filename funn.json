@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-10T15:20:29.128490+00:00",
+  "sist_sjekket": "2026-09-10T15:22:21.475864+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 055/190 - Shiny Treasure ex",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476065033",
+      "funnet": "2026-09-10T15:22:21.474269+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling fotballkort selges rimelig! (Masse spesialkort)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475634060",
+      "funnet": "2026-09-10T15:22:21.041566+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Birthday Pikachu 50 HP Black Star",
       "pris": 2000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T12:50:28.943173+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Japansk Latios Paradise Dragona (020)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476053694",
-      "funnet": "2026-09-10T12:50:28.422552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon XY Evolutions",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476052880",
-      "funnet": "2026-09-10T12:50:28.044416+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
