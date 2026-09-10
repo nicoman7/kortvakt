@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-10T11:50:24.426037+00:00",
+  "sist_sjekket": "2026-09-10T11:52:19.908377+00:00",
   "funn": [
+    {
+      "tittel": "Panini AdrenalynXL VM 2026 fotballkort (oppdatert 06.09!)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474758597",
+      "funnet": "2026-09-10T11:52:19.906305+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Lugia V 22/25 - 25th celebrations",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T07:32:19.332729+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476027145",
-      "funnet": "2026-09-10T07:18:17.064766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
