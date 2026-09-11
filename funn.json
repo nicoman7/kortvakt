@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T07:56:16.564219+00:00",
+  "sist_sjekket": "2026-09-11T07:58:17.841409+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort energy samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/453446537",
+      "funnet": "2026-09-11T07:58:17.839395+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Snorlax holo, jungle, NM",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476101899",
+      "funnet": "2026-09-11T07:58:17.214072+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary samlekort / boosterpakke",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T20:24:18.619755+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dark Dragonite #22 Pokemon Team Rocket",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476087703",
-      "funnet": "2026-09-10T20:22:18.679341+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476087680",
-      "funnet": "2026-09-10T20:22:17.873188+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
