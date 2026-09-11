@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T06:02:27.120908+00:00",
+  "sist_sjekket": "2026-09-11T06:04:17.932359+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476095784",
+      "funnet": "2026-09-11T06:04:17.930294+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort med metallkort og eske",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 179,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476085298",
       "funnet": "2026-09-10T19:46:17.896986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragon Ball – japanske SR & Alt Art kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476085540",
-      "funnet": "2026-09-10T19:46:17.294558+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
