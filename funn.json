@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-11T18:20:27.194618+00:00",
+  "sist_sjekket": "2026-09-11T18:22:15.038859+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476150298",
+      "funnet": "2026-09-11T18:22:15.037039+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Leafeon - Black Star Promo - Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476151174",
+      "funnet": "2026-09-11T18:22:14.390184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vaporeon - Black Star Promo - Pokemon",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476151259",
+      "funnet": "2026-09-11T18:22:13.999237+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leafeon - Black Star Promo - Pokemon",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-11T15:04:15.759297+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥 STOR POKÉMON VINTAGE SAMLING TIL SALGS! 🔥",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475649160",
-      "funnet": "2026-09-11T15:00:57.607211+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perm med masse gamle & nye Pokemonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475602476",
-      "funnet": "2026-09-11T14:56:16.018609+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "KPOP Demon Hunters-kort / stickers",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476134870",
-      "funnet": "2026-09-11T14:54:21.016940+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
