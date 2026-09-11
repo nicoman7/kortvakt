@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T09:46:14.242488+00:00",
+  "sist_sjekket": "2026-09-11T09:48:16.860585+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner Illustration Collection Series 1",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476110617",
+      "funnet": "2026-09-11T09:48:16.858910+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Obsidian Flames blister",
       "pris": 420,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-10T21:52:15.811596+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Yamper",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476091138",
-      "funnet": "2026-09-10T21:50:24.376784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
