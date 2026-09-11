@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T09:02:14.290090+00:00",
+  "sist_sjekket": "2026-09-11T09:04:17.471259+00:00",
   "funn": [
+    {
+      "tittel": "Cristiano Ronaldo samlekort (Al Nassr)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476107010",
+      "funnet": "2026-09-11T09:04:17.469496+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samling. 200+ kort med mange ex/gx",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476106858",
+      "funnet": "2026-09-11T09:04:16.694399+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps 1977-78 fotballkort samling selges. 263 av 330",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-09-10T21:18:16.199609+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Diancie EX",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476089962",
-      "funnet": "2026-09-10T21:12:17.994601+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Gardevoir EX holo japansk",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476089782",
-      "funnet": "2026-09-10T21:10:25.985926+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
