@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T07:36:19.451558+00:00",
+  "sist_sjekket": "2026-09-11T07:38:14.833154+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Feebas - Surging Sparks",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476100474",
+      "funnet": "2026-09-11T07:38:14.831051+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon diverse booster packs",
       "pris": 299,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476087267",
       "funnet": "2026-09-10T20:12:20.541916+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-10T20:12:19.516085+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
