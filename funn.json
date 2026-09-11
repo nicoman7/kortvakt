@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T18:54:15.733128+00:00",
+  "sist_sjekket": "2026-09-11T18:56:16.181121+00:00",
   "funn": [
+    {
+      "tittel": "Bellibolt Ex #237 - Pokemon Paldea Evolved",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476153576",
+      "funnet": "2026-09-11T18:56:16.179128+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort Bendit landslagsspillere Norge",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-11T15:30:38.383492+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Limited Edition XXL kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476137275",
-      "funnet": "2026-09-11T15:28:18.106398+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
