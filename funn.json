@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T05:06:15.326520+00:00",
+  "sist_sjekket": "2026-09-11T05:08:13.861487+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Eevee - Terastal Festival",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476094249",
+      "funnet": "2026-09-11T05:08:13.859943+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Iron Hands - Terastal Festival",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476084945",
       "funnet": "2026-09-10T19:34:15.110396+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort Surfer japansk SAR",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476084754",
-      "funnet": "2026-09-10T19:32:19.159935+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
