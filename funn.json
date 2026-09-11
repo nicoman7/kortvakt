@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-11T16:04:16.087744+00:00",
+  "sist_sjekket": "2026-09-11T16:06:18.892460+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortpakke – Swirlix, Mareep, Drifloon, Kakuna og Ninetales",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476140269",
+      "funnet": "2026-09-11T16:06:18.890471+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Jacinthe, Tarragon og Salazzle",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476140702",
+      "funnet": "2026-09-11T16:06:18.553238+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 054/049",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476140306",
+      "funnet": "2026-09-11T16:06:18.276645+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samleperm",
       "pris": 300,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-11T12:20:23.269697+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Staryu Delta Species",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122728",
-      "funnet": "2026-09-11T12:16:25.480020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Adrenalyn XL Road to World Cup kort Lamine Yamal Spania",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122651",
-      "funnet": "2026-09-11T12:16:24.783784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Shelgon Delta Species holo",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122827",
-      "funnet": "2026-09-11T12:16:24.024103+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
