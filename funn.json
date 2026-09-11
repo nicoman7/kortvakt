@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T20:42:19.283578+00:00",
+  "sist_sjekket": "2026-09-11T20:44:14.294036+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Libre 14/33 Promo LP",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476159298",
+      "funnet": "2026-09-11T20:44:14.291977+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gouging Fire ex - sv5K - 093/071 SAR - Japansk Pokemon Kort",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-11T18:46:16.941716+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mega Venusaur EX japansk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476152834",
-      "funnet": "2026-09-11T18:46:16.661364+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
