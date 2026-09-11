@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T14:46:18.074569+00:00",
+  "sist_sjekket": "2026-09-11T14:48:23.662156+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476134918",
+      "funnet": "2026-09-11T14:48:23.660300+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Scizor Ex 119/122 XY Breakpoint Pokemon Kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476134860",
+      "funnet": "2026-09-11T14:48:22.696736+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pachirisu - 1st Edition - DP4 - Japansk Pokemon Kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476115281",
       "funnet": "2026-09-11T10:44:15.429209+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort – blandet lot med flere holo og rare kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476115413",
-      "funnet": "2026-09-11T10:44:14.808781+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-11T10:44:14.225296+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
