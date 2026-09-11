@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T15:04:15.761005+00:00",
+  "sist_sjekket": "2026-09-11T15:06:24.071334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Dream EX - Booster Box (Gratis frakt)",
+      "pris": 1349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475235853",
+      "funnet": "2026-09-11T15:06:24.069450+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-11T11:10:24.634341+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – diverse hits",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476117118",
-      "funnet": "2026-09-11T11:06:16.902303+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
