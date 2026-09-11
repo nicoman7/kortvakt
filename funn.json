@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T15:28:18.107944+00:00",
+  "sist_sjekket": "2026-09-11T15:30:38.750345+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort – Psychic type",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476137845",
+      "funnet": "2026-09-11T15:30:38.748781+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort – Energy",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476137944",
+      "funnet": "2026-09-11T15:30:38.383492+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Limited Edition XXL kort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476121963",
       "funnet": "2026-09-11T12:06:22.616703+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Nidoking holo",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476121762",
-      "funnet": "2026-09-11T12:02:16.385729+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery packs",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476121599",
-      "funnet": "2026-09-11T12:02:16.042476+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
