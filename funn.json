@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T17:36:14.746918+00:00",
+  "sist_sjekket": "2026-09-11T17:38:14.943612+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476143016",
+      "funnet": "2026-09-11T17:38:14.941589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling fotballkort selges rimelig! (Masse spesialkort)",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476131923",
       "funnet": "2026-09-11T14:32:15.082252+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Magikarp & Wailord GX Tag Team kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476133349",
-      "funnet": "2026-09-11T14:30:40.253128+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
