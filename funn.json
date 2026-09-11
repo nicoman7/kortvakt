@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T15:58:18.588739+00:00",
+  "sist_sjekket": "2026-09-11T16:00:54.145668+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleperm",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476140262",
+      "funnet": "2026-09-11T16:00:54.143480+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Galar Starters",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476122827",
       "funnet": "2026-09-11T12:16:24.024103+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Pokemon Day 2026",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122946",
-      "funnet": "2026-09-11T12:16:23.268877+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
