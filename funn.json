@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T04:54:14.877274+00:00",
+  "sist_sjekket": "2026-09-11T04:56:14.878518+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Teal Mask Ogerpon - Terastal Festival",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476094081",
+      "funnet": "2026-09-11T04:56:14.876242+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "HOLO Dark Magneton #11 Pokemon Team Rocket",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476084496",
       "funnet": "2026-09-10T19:28:15.740207+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu promokort",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476084366",
-      "funnet": "2026-09-10T19:26:15.866143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
