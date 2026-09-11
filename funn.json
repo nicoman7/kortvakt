@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T13:36:14.366948+00:00",
+  "sist_sjekket": "2026-09-11T13:38:18.566905+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476129400",
+      "funnet": "2026-09-11T13:38:18.564915+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Espeon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476129530",
+      "funnet": "2026-09-11T13:38:17.695653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PIKACHU",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 260,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476106853",
       "funnet": "2026-09-11T09:00:55.679199+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Giovanni #238 Pokemon Destined Rivals",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476106204",
-      "funnet": "2026-09-11T08:56:16.905753+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Max Verstappen – 2x Topps NOW F1 | Eksklusiv Red Bull 20x20 samlekortramme 🏁",
-      "pris": 849,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476101626",
-      "funnet": "2026-09-11T08:56:16.492849+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
