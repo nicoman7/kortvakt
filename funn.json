@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T15:02:14.900663+00:00",
+  "sist_sjekket": "2026-09-11T15:04:15.761005+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476135542",
+      "funnet": "2026-09-11T15:04:15.759297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🔥 STOR POKÉMON VINTAGE SAMLING TIL SALGS! 🔥",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-11T11:06:16.902303+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "topps Chrome Marvel  Spider-Man refractor",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476115524",
-      "funnet": "2026-09-11T11:00:47.443521+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
