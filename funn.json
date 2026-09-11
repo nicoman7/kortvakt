@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T10:08:21.696965+00:00",
+  "sist_sjekket": "2026-09-11T10:10:24.218676+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ex",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476111825",
+      "funnet": "2026-09-11T10:10:24.216369+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort EX fra Black bolt",
       "pris": 130,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476091440",
       "funnet": "2026-09-10T22:06:18.868633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Appletun",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476091526",
-      "funnet": "2026-09-10T22:06:18.054111+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
