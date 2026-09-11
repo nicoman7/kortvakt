@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T18:18:19.498984+00:00",
+  "sist_sjekket": "2026-09-11T18:20:27.194618+00:00",
   "funn": [
+    {
+      "tittel": "Leafeon - Black Star Promo - Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476151012",
+      "funnet": "2026-09-11T18:20:27.192808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sylveon - Black Star Promo - Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476151111",
+      "funnet": "2026-09-11T18:20:26.414543+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 499,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-11T14:54:21.016940+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476134918",
-      "funnet": "2026-09-11T14:48:23.660300+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scizor Ex 119/122 XY Breakpoint Pokemon Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476134860",
-      "funnet": "2026-09-11T14:48:22.696736+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
