@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-11T16:40:25.715409+00:00",
+  "sist_sjekket": "2026-09-11T16:42:16.533301+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn xl VM 2026 Badge",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476143556",
+      "funnet": "2026-09-11T16:42:16.531294+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Manchester City Pakke",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476143641",
+      "funnet": "2026-09-11T16:42:16.181217+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MTG Magic the Gathering kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476143786",
+      "funnet": "2026-09-11T16:42:15.606363+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 1 og 3",
       "pris": 470,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476107946",
       "funnet": "2026-09-11T13:18:15.200804+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "RESERVERT - 4 AR pokemon kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476127629",
-      "funnet": "2026-09-11T13:16:17.869500+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gradert",
-      "pris": 11,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476126803",
-      "funnet": "2026-09-11T13:12:16.167755+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Album for pokemonkort (360 lommer)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476127168",
-      "funnet": "2026-09-11T13:10:24.779020+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
