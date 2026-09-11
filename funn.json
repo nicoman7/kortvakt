@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-11T12:34:14.784358+00:00",
+  "sist_sjekket": "2026-09-11T12:36:19.950670+00:00",
   "funn": [
+    {
+      "tittel": "topps Chrome Disney pakke",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476123610",
+      "funnet": "2026-09-11T12:36:19.949456+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL FIFA World Cup Russia 2018 samlekortalbum",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476124224",
+      "funnet": "2026-09-11T12:36:19.141267+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSA 10 Pokémon Mega Charizard EX kort",
+      "pris": 1599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476124318",
+      "funnet": "2026-09-11T12:36:18.270187+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Charmander Bulbasaur Squirtle",
       "pris": 800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476102116",
       "funnet": "2026-09-11T08:00:58.055578+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wolverhampton - fotballkort fra 1970-tallet",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/421659309",
-      "funnet": "2026-09-11T08:00:57.278981+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "QPR - 10 stk fotballkort 1970/tallet Queens Park Rangers",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/421658522",
-      "funnet": "2026-09-11T08:00:56.455462+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort energy samling",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453446537",
-      "funnet": "2026-09-11T07:58:17.839395+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
