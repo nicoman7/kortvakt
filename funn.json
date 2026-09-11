@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T19:28:16.960510+00:00",
+  "sist_sjekket": "2026-09-11T19:30:42.893841+00:00",
   "funn": [
+    {
+      "tittel": "Metal Energy 80/90 - Pokemon Undaunted",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476155500",
+      "funnet": "2026-09-11T19:30:42.892098+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Energy Restore [Reverse Holo] 106/130 - Pokemon Diamond & Pearl",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476155610",
+      "funnet": "2026-09-11T19:30:42.026092+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Mawile EX - Promo - 186/XY-P - Japansk Pokemon Kort",
       "pris": 350,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-11T16:42:15.606363+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Collection Series 1 og 3",
-      "pris": 470,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476143191",
-      "funnet": "2026-09-11T16:36:17.364210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn xl 2026 VM kort (xxl)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476142843",
-      "funnet": "2026-09-11T16:36:16.386722+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
