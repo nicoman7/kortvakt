@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T08:44:14.367175+00:00",
+  "sist_sjekket": "2026-09-11T08:46:18.581294+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-11T08:46:18.579950+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Near Mint Dark Charizard #21 Pokemon Team Rocket",
       "pris": 2000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476088886",
       "funnet": "2026-09-10T20:46:15.478127+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup samlebokser og kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
-      "funnet": "2026-09-10T20:46:14.772801+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
