@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T18:52:17.879704+00:00",
+  "sist_sjekket": "2026-09-11T18:54:15.733128+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort Bendit landslagsspillere Norge",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476153330",
+      "funnet": "2026-09-11T18:54:15.731346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Monster World samlekort spillkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476153451",
+      "funnet": "2026-09-11T18:54:14.894508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Rayquaza Ex #58 - Pokemon Japanese Storm Emeralda",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-11T15:28:18.106398+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "9 stk masterball kort for 100kr",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476137561",
-      "funnet": "2026-09-11T15:28:17.419765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort LIMITED EDTIONS",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476137563",
-      "funnet": "2026-09-11T15:28:16.829024+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
