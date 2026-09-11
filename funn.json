@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-11T16:18:17.605302+00:00",
+  "sist_sjekket": "2026-09-11T16:20:30.308677+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort – Trainerkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476141979",
+      "funnet": "2026-09-11T16:20:30.307492+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort: Toppspillere fra Champions League kvinner! #2",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476141149",
+      "funnet": "2026-09-11T16:20:29.188752+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mimikyu - Ascended Heroes - Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476141939",
+      "funnet": "2026-09-11T16:20:28.236422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage perm til Pokemon",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476141738",
+      "funnet": "2026-09-11T16:20:27.464828+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Insert Pakke",
       "pris": 85,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476123728",
       "funnet": "2026-09-11T12:28:21.042551+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney samlekort japansk kortstokk / kortpakke",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122028",
-      "funnet": "2026-09-11T12:28:20.616578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Morpeko VMAX metallkort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476123322",
-      "funnet": "2026-09-11T12:26:20.667776+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Latios og Latias",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476123500",
-      "funnet": "2026-09-11T12:26:19.752739+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "topps Chrome Marvel samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476123336",
-      "funnet": "2026-09-11T12:26:18.876220+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
