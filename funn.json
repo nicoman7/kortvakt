@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T17:42:17.534549+00:00",
+  "sist_sjekket": "2026-09-11T17:44:18.203033+00:00",
   "funn": [
+    {
+      "tittel": "Samling pokemonkort selges",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476147487",
+      "funnet": "2026-09-11T17:44:18.201168+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Shrouded Fable Pokemonkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476147547",
+      "funnet": "2026-09-11T17:44:17.291058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Meowth 71 med holon phantoms stamp (DMG)",
       "pris": 450,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476134143",
       "funnet": "2026-09-11T14:40:24.969186+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon kort – Grass type kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476134034",
-      "funnet": "2026-09-11T14:38:18.170446+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort – Fighting type",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476133870",
-      "funnet": "2026-09-11T14:38:17.332845+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
