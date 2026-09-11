@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T13:10:24.781181+00:00",
+  "sist_sjekket": "2026-09-11T13:12:16.169803+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Gradert",
+      "pris": 11,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476126803",
+      "funnet": "2026-09-11T13:12:16.167755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Album for pokemonkort (360 lommer)",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476102744",
       "funnet": "2026-09-11T08:08:20.968199+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage julekort med søt jente - \"Gledelig Jul\" - Ubrukt",
-      "pris": 18,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476101751",
-      "funnet": "2026-09-11T08:06:18.272829+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
