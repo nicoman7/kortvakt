@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-11T21:50:26.632280+00:00",
+  "sist_sjekket": "2026-09-11T21:52:16.196228+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-11T21:52:16.194623+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mantyke - sv3a - 064/062 AR - Japansk Pokemon Kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476155689",
       "funnet": "2026-09-11T19:32:18.498928+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Metal Energy 80/90 - Pokemon Undaunted",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476155500",
-      "funnet": "2026-09-11T19:30:42.892098+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
