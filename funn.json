@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T17:32:17.162343+00:00",
+  "sist_sjekket": "2026-09-11T17:34:16.329252+00:00",
   "funn": [
+    {
+      "tittel": "Selger disse 4 samlet (se tilstand)",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476147311",
+      "funnet": "2026-09-11T17:34:16.327616+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Pikachu EX, Galvantula EX og Glaceon EX",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476146849",
+      "funnet": "2026-09-11T17:34:16.056779+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Evolving Skies",
       "pris": 140,
@@ -1182,22 +1198,6 @@
       "pris": 429,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476132399",
       "funnet": "2026-09-11T14:24:15.273433+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew - CPs - 016/036 - Japansk Pokemon Kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476108252",
-      "funnet": "2026-09-11T14:24:14.536090+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gem 2 kinesisk",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476132566",
-      "funnet": "2026-09-11T14:20:25.333928+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
