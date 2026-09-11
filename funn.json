@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-11T08:12:13.681686+00:00",
+  "sist_sjekket": "2026-09-11T08:14:20.075343+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476103039",
+      "funnet": "2026-09-11T08:14:20.073283+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu SWSH153 - Black Star Promos",
+      "pris": 515,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476103262",
+      "funnet": "2026-09-11T08:14:19.288188+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "HOLO Rocket's Sneak Attack #16 Pokemon Team Rocket  Near Mint",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-10T20:34:14.261071+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Mightyena 129/217",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476088214",
-      "funnet": "2026-09-10T20:32:20.374190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raichu #10 HG & SS Psa 8 - Pokemon",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476088073",
-      "funnet": "2026-09-10T20:32:19.605347+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
