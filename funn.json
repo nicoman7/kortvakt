@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-11T13:32:17.327310+00:00",
+  "sist_sjekket": "2026-09-11T13:34:14.610621+00:00",
   "funn": [
+    {
+      "tittel": "PIKACHU",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476127535",
+      "funnet": "2026-09-11T13:34:14.608827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic The Gathering 🧙 ♂️ The Hobbit Gift Bundle 🎁 Sealed/forseglet",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476128505",
+      "funnet": "2026-09-11T13:34:14.332589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476129172",
+      "funnet": "2026-09-11T13:34:14.054516+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon mystery packs 40stk.GOD PACKS! GRADERTE KORT. Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475251214",
+      "funnet": "2026-09-11T13:34:13.793832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Glaceon 1st Edition - DP4 - DPBP# 161 - Japansk Pokemon Kort",
       "pris": 450,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476101626",
       "funnet": "2026-09-11T08:56:16.492849+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Card Game Sabo OP03-123 SR kort gi bud",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476105789",
-      "funnet": "2026-09-11T08:52:17.986838+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lorcana kort selges samlet",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476105948",
-      "funnet": "2026-09-11T08:52:17.075324+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-perm med 46 kort (Galar Starters Ultra PRO) – Perfekt for nybegynnere!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476105339",
-      "funnet": "2026-09-11T08:48:20.884323+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-11T08:46:18.579950+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
