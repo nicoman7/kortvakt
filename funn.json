@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-12T17:16:16.964576+00:00",
+  "sist_sjekket": "2026-09-12T17:18:18.577306+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476234933",
+      "funnet": "2026-09-12T17:18:18.575558+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort 🌑Houndour🌑 59/97 Dragon Reverse Holo 2003",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476234971",
+      "funnet": "2026-09-12T17:18:17.774351+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476231882",
+      "funnet": "2026-09-12T17:18:16.920889+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hockeykort (NHL) — Edmonton Oilers",
       "pris": 140,
@@ -1174,30 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476215310",
       "funnet": "2026-09-12T13:56:14.082232+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pedri 100 Club fotballkort FC Barcelona",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476215775",
-      "funnet": "2026-09-12T13:54:17.319386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Elite Trainer Box",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476215552",
-      "funnet": "2026-09-12T13:54:16.477071+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Supersamling fotballkort Messi, Ronaldo, Bellingham, Mbappe, Yamal",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476214346",
-      "funnet": "2026-09-12T13:50:23.771623+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
