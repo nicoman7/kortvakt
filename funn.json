@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T11:36:19.040098+00:00",
+  "sist_sjekket": "2026-09-12T11:38:16.413149+00:00",
   "funn": [
+    {
+      "tittel": "Marc Cucurella fotballkort Baang! 1/2",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476200409",
+      "funnet": "2026-09-12T11:38:16.411662+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-12T11:38:15.631696+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clefable 5/130 Base Set 2 Holo Pokémon-kort 2000",
       "pris": 249,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-12T09:11:00.916312+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort blandet lot",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455457973",
-      "funnet": "2026-09-12T09:11:00.116304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holo Meganium #26 Pokemon HeartGold & SoulSilver Kort år 2010",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476179119",
-      "funnet": "2026-09-12T09:08:16.218979+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
