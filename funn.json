@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T14:42:16.319361+00:00",
+  "sist_sjekket": "2026-09-12T14:44:17.350190+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne kort selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476220031",
+      "funnet": "2026-09-12T14:44:17.348133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Venusaur holo 15/102 base",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476204186",
       "funnet": "2026-09-12T12:10:24.816367+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – japansk Cubone og Dragonite holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476201886",
-      "funnet": "2026-09-12T12:08:23.222905+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
