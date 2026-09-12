@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T15:10:23.625035+00:00",
+  "sist_sjekket": "2026-09-12T15:12:16.909913+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon kort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476222643",
+      "funnet": "2026-09-12T15:12:16.908042+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort pakker 🔥 50 kort + 3 hit for kun 99 kr!",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-09-12T15:12:15.953150+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Tyrunt kort",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-09-12T12:44:14.698198+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan basketballkort -  Air of Greatness",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476207740",
-      "funnet": "2026-09-12T12:42:15.482973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Aquapolis – 37 vintage kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476206508",
-      "funnet": "2026-09-12T12:38:17.463442+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
