@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-12T14:20:25.796088+00:00",
+  "sist_sjekket": "2026-09-12T14:22:17.556592+00:00",
   "funn": [
+    {
+      "tittel": "Greninja ex 106/167 METALLKORT",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476217579",
+      "funnet": "2026-09-12T14:22:17.555158+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Modric Euro 2024 Topps Match Attax",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476218705",
+      "funnet": "2026-09-12T14:22:17.236331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sjeldne kort selges",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476218468",
+      "funnet": "2026-09-12T14:22:16.220160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gvardilo Euro 2024 Topps Match Attax",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-12T11:48:16.731756+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort boosterbokser og Elite Trainer Box",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476201016",
-      "funnet": "2026-09-12T11:46:15.107738+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scolipede - Promo - 093/BW-P - Japansk Pokemon Kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476195033",
-      "funnet": "2026-09-12T11:46:14.478160+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wild Card Comix Baang! Ryan Giggs Winger kort 2/5",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476200975",
-      "funnet": "2026-09-12T11:44:15.202813+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
