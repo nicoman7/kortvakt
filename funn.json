@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-12T17:14:15.879776+00:00",
+  "sist_sjekket": "2026-09-12T17:16:16.964576+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort (NHL) — Edmonton Oilers",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476232781",
+      "funnet": "2026-09-12T17:16:16.962906+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Blaziken Topps Advanced",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476234862",
+      "funnet": "2026-09-12T17:16:16.546111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hatterene - Crown Zenith - Pokemon",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476234602",
+      "funnet": "2026-09-12T17:16:15.678661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort 🔮Wobbuffet🔮 26/100 Sandstorm 2003",
       "pris": 259,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476214346",
       "funnet": "2026-09-12T13:50:23.771623+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-12T13:50:23.480006+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first Partner gen  7",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476215068",
-      "funnet": "2026-09-12T13:48:18.168584+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-09-12T13:48:17.323914+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
