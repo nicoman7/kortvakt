@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T07:00:55.730952+00:00",
+  "sist_sjekket": "2026-09-12T07:02:20.923310+00:00",
   "funn": [
+    {
+      "tittel": "Selger samlet!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476173264",
+      "funnet": "2026-09-12T07:02:20.921414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Dream ex - 5 Kr Pr Kort",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476154187",
       "funnet": "2026-09-11T21:20:26.755521+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Forest of Vitality 109/088 Ultra Rare (UR) Perfect Order NM",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476160631",
-      "funnet": "2026-09-11T21:20:25.885243+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
