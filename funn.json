@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T08:40:21.673926+00:00",
+  "sist_sjekket": "2026-09-12T08:42:15.864338+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort i tinnboks",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476180655",
+      "funnet": "2026-09-12T08:42:15.862266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – 9,4 kg japanske bulk-kort (nyere sett)",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-09-11T21:46:15.196228+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gengar ex #230 Pokemon Mega Dream ex – Japansk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476161413",
-      "funnet": "2026-09-11T21:42:19.596754+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
