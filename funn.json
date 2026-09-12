@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-12T08:04:15.244134+00:00",
+  "sist_sjekket": "2026-09-12T08:06:15.472849+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476177770",
+      "funnet": "2026-09-12T08:06:15.471032+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476177732",
+      "funnet": "2026-09-12T08:06:14.822794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Full EX samling. Engelsk + Japansk. Pokemon kort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476080414",
+      "funnet": "2026-09-12T08:06:14.248555+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Gengar EX, Mega Attack Rare",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476177688",
+      "funnet": "2026-09-12T08:06:13.626207+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NHL samlekortrammer – bytt kort enkelt | FrameYourCard™ fra 299 kr 🏒",
       "pris": 299,
@@ -1166,38 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476161133",
       "funnet": "2026-09-11T21:34:17.138210+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Engelsk JTG EX Pokemon selges samlet",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476161126",
-      "funnet": "2026-09-11T21:34:16.881729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 15 Trainer Kort TCG Sword & Shield + Scarlet & Violet",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476161104",
-      "funnet": "2026-09-11T21:34:16.573399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moltres - Promo - 277/SM-P - Japansk Pokemon Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476154364",
-      "funnet": "2026-09-11T21:34:15.929374+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Rainbow Rare Support TCG",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476161017",
-      "funnet": "2026-09-11T21:30:41.968628+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
