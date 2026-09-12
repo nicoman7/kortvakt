@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-12T11:20:24.256447+00:00",
+  "sist_sjekket": "2026-09-12T11:22:24.198321+00:00",
   "funn": [
+    {
+      "tittel": "Ulike Ex, V og andre kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476198169",
+      "funnet": "2026-09-12T11:22:24.196671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Druddigon - s8b - 209/184 CHR - Japansk Pokemon Kort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476194209",
+      "funnet": "2026-09-12T11:22:22.920468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece Yamato OP01-121 SR kort",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476197876",
+      "funnet": "2026-09-12T11:22:21.533736+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Noctowl 40/144 Skyridge 2003",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476198477",
+      "funnet": "2026-09-12T11:22:20.181284+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Parasect - s10a - 072/071 CHR - Japansk Pokemon Kort",
       "pris": 100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-12T08:06:15.471032+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476177732",
-      "funnet": "2026-09-12T08:06:14.822794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full EX samling. Engelsk + Japansk. Pokemon kort",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476080414",
-      "funnet": "2026-09-12T08:06:14.248555+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gengar EX, Mega Attack Rare",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476177688",
-      "funnet": "2026-09-12T08:06:13.626207+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NHL samlekortrammer – bytt kort enkelt | FrameYourCard™ fra 299 kr 🏒",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476176345",
-      "funnet": "2026-09-12T08:02:15.619031+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
