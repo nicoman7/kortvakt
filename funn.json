@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T09:26:16.205028+00:00",
+  "sist_sjekket": "2026-09-12T09:28:16.789039+00:00",
   "funn": [
+    {
+      "tittel": "Yuka Morii pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476177405",
+      "funnet": "2026-09-12T09:28:16.787430+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476178036",
+      "funnet": "2026-09-12T09:28:15.984709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Misty & Psyduck japansk CGC 10",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476162155",
       "funnet": "2026-09-11T22:20:25.956964+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Deoxys VMAX - s12a - 222/172 SAR - Japansk Pokemon Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476155073",
-      "funnet": "2026-09-11T22:12:16.053344+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Orbeetle VMAX - s8b - 215/184 CSR - Japansk Pokemon Kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476154976",
-      "funnet": "2026-09-11T22:10:28.458686+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
