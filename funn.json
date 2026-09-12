@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T18:50:29.814222+00:00",
+  "sist_sjekket": "2026-09-12T18:52:18.251437+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Eevee og Eeveelutions samling, reverse Holo",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476242052",
+      "funnet": "2026-09-12T18:52:18.250339+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bologna FC fotballkort bunke",
       "pris": 125,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T17:18:17.774351+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476231882",
-      "funnet": "2026-09-12T17:18:16.920889+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
