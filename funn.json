@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-12T18:40:29.075712+00:00",
+  "sist_sjekket": "2026-09-12T18:42:21.222518+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476241348",
+      "funnet": "2026-09-12T18:42:21.221076+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Vintage Onix #65 Pokemon Unseen Forces Kort år 2005",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476239572",
+      "funnet": "2026-09-12T18:42:20.465863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tohoku's Pikachu #260/SV-P",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476241354",
+      "funnet": "2026-09-12T18:42:19.647837+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Spinda - 065/083 - Undone Seal - Japansk Pokemon Kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476237203",
+      "funnet": "2026-09-12T18:42:18.794137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Seedot #61 Pokemon Legend Maker Yuka Morii Kort år 2006",
       "pris": 45,
@@ -1166,38 +1198,6 @@
       "pris": 375,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476233981",
       "funnet": "2026-09-12T17:06:16.443052+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragonair 14/97 – EX Dragon – Rare – 2003",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476233852",
-      "funnet": "2026-09-12T17:04:15.981129+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Energy Switch [Reverse Holo] 61/83 - Pokemon Generations",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476233894",
-      "funnet": "2026-09-12T17:04:15.681371+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-09-12T17:04:14.951016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arcanine 15/100 – EX Sandstorm – Rare – 2003",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476233744",
-      "funnet": "2026-09-12T17:02:15.052444+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
