@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T20:24:29.589154+00:00",
+  "sist_sjekket": "2026-09-12T20:26:17.780643+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473807762",
+      "funnet": "2026-09-12T20:26:17.778625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stort utvalg VM Kort Panini Adrenalyn XL. Oppdatert 12.9",
       "pris": 2,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476240868",
       "funnet": "2026-09-12T18:36:20.582865+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-09-12T18:36:20.202181+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
