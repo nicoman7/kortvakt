@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T07:42:16.697016+00:00",
+  "sist_sjekket": "2026-09-12T07:44:15.566947+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling AR,SR, osv",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476175798",
+      "funnet": "2026-09-12T07:44:15.565175+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Corocoro Pikachu med digital magasin",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476161064",
       "funnet": "2026-09-11T21:30:38.012790+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tool Scrapper 115/086 Ultra Rare (UR) Chaos Rising NM",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476160928",
-      "funnet": "2026-09-11T21:28:14.835292+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
