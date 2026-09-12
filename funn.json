@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-12T15:50:23.293785+00:00",
+  "sist_sjekket": "2026-09-12T15:52:16.479243+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Zubat 117/144 Skyridge 2003",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476227609",
+      "funnet": "2026-09-12T15:52:16.477780+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort - bunter med diverse kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476227403",
+      "funnet": "2026-09-12T15:52:15.880132+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Machoke No. 067 Vending Series 3 - Japansk Pokemon Kort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476227145",
+      "funnet": "2026-09-12T15:52:15.601346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gladion’s Final Battle Trainer SIR 118/084",
       "pris": 350,
@@ -1174,30 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476210649",
       "funnet": "2026-09-12T13:06:15.715499+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidoqueen 22/144 – Skyridge – Rare – Mitsuhiro Arita – 2003",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476210598",
-      "funnet": "2026-09-12T13:06:15.144034+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magcargo 18/144 – Skyridge – Rare – WOTC 2003",
-      "pris": 235,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476210376",
-      "funnet": "2026-09-12T13:04:15.738951+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam - Black Star Promo - Pokemon",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476210407",
-      "funnet": "2026-09-12T13:04:15.045908+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
