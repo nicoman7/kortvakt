@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T17:26:19.248762+00:00",
+  "sist_sjekket": "2026-09-12T17:28:17.557762+00:00",
   "funn": [
+    {
+      "tittel": "Michael Ballack VM 2006 fotballkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476234043",
+      "funnet": "2026-09-12T17:28:17.556176+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort ⚡️Magneton⚡️17/97 Dragon Reverse Holo 2003",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476235906",
+      "funnet": "2026-09-12T17:28:17.222250+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémonkort 🌑Mightyena🌑 10/109 Ruby & Sapphire Holo (Swirl) 2003",
       "pris": 149,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476217298",
       "funnet": "2026-09-12T14:12:15.699355+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Real Madrid – Jude Bellingham Topps Built A Baller",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476217239",
-      "funnet": "2026-09-12T14:08:15.166074+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Water Energy #103 Holo Rare",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476216988",
-      "funnet": "2026-09-12T14:06:24.605933+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
