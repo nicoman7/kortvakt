@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T10:30:40.735163+00:00",
+  "sist_sjekket": "2026-09-12T10:32:14.934128+00:00",
   "funn": [
+    {
+      "tittel": "Rarecandy reverse holo",
+      "pris": 14,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476192437",
+      "funnet": "2026-09-12T10:32:14.932404+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Holo Regirock EX #98 Vintage Pokemon Hidden Legends Kort år 2004",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476165022",
       "funnet": "2026-09-12T05:00:50.959135+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise ex 009/165 Double Rare (RR) Scarlet & Violet: 151 NM",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476165033",
-      "funnet": "2026-09-12T05:00:50.195906+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
