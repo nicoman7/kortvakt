@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T20:48:15.557366+00:00",
+  "sist_sjekket": "2026-09-12T20:50:23.892236+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort- Garbodor 141/086 White Flare",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248408",
+      "funnet": "2026-09-12T20:50:23.890256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Greavard ex Art Rare holo japansk CGC 10",
       "pris": 870,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T18:38:51.958700+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476241127",
-      "funnet": "2026-09-12T18:38:51.321966+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
