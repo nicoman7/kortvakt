@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T08:44:15.232430+00:00",
+  "sist_sjekket": "2026-09-12T08:46:14.855892+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu promo!",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476180799",
+      "funnet": "2026-09-12T08:46:14.854070+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball samlekort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476181139",
+      "funnet": "2026-09-12T08:46:14.578592+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort i tinnboks",
       "pris": 110,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476154603",
       "funnet": "2026-09-11T21:46:16.101648+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arceus V - Promo - 267/S-P - Japansk Pokemon Kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476154643",
-      "funnet": "2026-09-11T21:46:15.758911+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-09-11T21:46:15.196228+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
