@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T22:08:18.518353+00:00",
+  "sist_sjekket": "2026-09-12T22:11:02.563201+00:00",
   "funn": [
+    {
+      "tittel": "Professor Oak - Classic Collection - Pokemon",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476251360",
+      "funnet": "2026-09-12T22:11:02.561330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Nurse - Classic Collection - Pokemon",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476251302",
+      "funnet": "2026-09-12T22:11:01.951386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vileplume - s9a - 003/067 R - Japansk Pokemon Kort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476244420",
       "funnet": "2026-09-12T19:32:32.802478+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Electrike 196/182 – Destined Rivals – Illustration Rare – 2025",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476244370",
-      "funnet": "2026-09-12T19:32:32.014338+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters - Samling",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476244287",
-      "funnet": "2026-09-12T19:32:31.199319+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
