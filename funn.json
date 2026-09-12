@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T21:00:54.244539+00:00",
+  "sist_sjekket": "2026-09-12T21:02:16.500420+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Fan Club - Classic Collection - Pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248967",
+      "funnet": "2026-09-12T21:02:16.498731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charmander [Reverse Holo] #49 Pokemon Crystal Guardians",
+      "pris": 529,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248960",
+      "funnet": "2026-09-12T21:02:15.930665+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MTG: 1x Marionette Master (KALADESH - Rare Black Artifact & Servo Staple) 🖤⚙️✨💎",
       "pris": 19,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-12T18:40:28.202309+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dedenne 093/088 Pokemon Perfect Order 2026",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476241250",
-      "funnet": "2026-09-12T18:40:27.305344+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japanske hits fra Mew 151",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476120916",
-      "funnet": "2026-09-12T18:40:25.996971+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
