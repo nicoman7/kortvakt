@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T15:14:18.598989+00:00",
+  "sist_sjekket": "2026-09-12T15:16:15.369278+00:00",
   "funn": [
+    {
+      "tittel": "Hockeykort (NHL) — San Jose Sharks",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476222432",
+      "funnet": "2026-09-12T15:16:15.367642+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Crystal Palace – Jørgen Strand Larsen Topps Premier League Foil 🇳🇴",
       "pris": 49,
@@ -1190,14 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476208055",
       "funnet": "2026-09-12T12:46:26.894449+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjeldne kort selges",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476207920",
-      "funnet": "2026-09-12T12:46:26.026140+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
