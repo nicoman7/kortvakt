@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T16:50:25.841303+00:00",
+  "sist_sjekket": "2026-09-12T16:52:20.230197+00:00",
   "funn": [
+    {
+      "tittel": "Disney samlekort Weiss Schwarz kortpakke",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476207500",
+      "funnet": "2026-09-12T16:52:20.228192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Altaria #2 Holo Glins Pokemon EX Triumphant Kort 2010",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476232871",
+      "funnet": "2026-09-12T16:52:19.345585+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ninja Spinner kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476202355",
       "funnet": "2026-09-12T13:26:24.017293+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort selges samlet",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476211841",
-      "funnet": "2026-09-12T13:26:23.111643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black – hits og div ex",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475374745",
-      "funnet": "2026-09-12T13:26:22.225852+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
