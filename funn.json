@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-12T21:22:17.289059+00:00",
+  "sist_sjekket": "2026-09-12T21:24:21.801378+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476249891",
+      "funnet": "2026-09-12T21:24:21.799289+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Emolga - sm8a - 009/052 C - Japansk Pokemon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476237060",
+      "funnet": "2026-09-12T21:24:21.082627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Umbreon GX kort 80/145",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476249913",
+      "funnet": "2026-09-12T21:24:20.656608+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476249938",
+      "funnet": "2026-09-12T21:24:20.326283+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Drowzee holografisk kort 210/198",
       "pris": 700,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476242546",
       "funnet": "2026-09-12T19:00:52.322610+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Enhanced Hammer og Celesteela + 3 pins",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476242511",
-      "funnet": "2026-09-12T19:00:51.935064+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Clefairy og Chansey samlekort pakke",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476242336",
-      "funnet": "2026-09-12T18:58:18.641282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 samlekort Neymar Jr og Barcelona angrepstrio",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476109009",
-      "funnet": "2026-09-12T18:58:17.811949+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sheffield United FC fotballkort bunke",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476242325",
-      "funnet": "2026-09-12T18:58:17.428182+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
