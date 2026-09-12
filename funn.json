@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-12T21:02:16.500420+00:00",
+  "sist_sjekket": "2026-09-12T21:04:19.449866+00:00",
   "funn": [
+    {
+      "tittel": "Registeel EX #99 Pokemon Hidden Legends",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248907",
+      "funnet": "2026-09-12T21:04:19.447962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Unown samling - Pokemon TCG",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248771",
+      "funnet": "2026-09-12T21:04:18.598903+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Venusaur EX #13 Pokemon Promo",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476248857",
+      "funnet": "2026-09-12T21:04:17.740730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Fan Club - Classic Collection - Pokemon",
       "pris": 40,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-12T18:42:19.647837+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spinda - 065/083 - Undone Seal - Japansk Pokemon Kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476237203",
-      "funnet": "2026-09-12T18:42:18.794137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Seedot #61 Pokemon Legend Maker Yuka Morii Kort år 2006",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476239672",
-      "funnet": "2026-09-12T18:40:29.073792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476241213",
-      "funnet": "2026-09-12T18:40:28.202309+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
