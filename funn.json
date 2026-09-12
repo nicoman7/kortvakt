@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T15:20:27.720858+00:00",
+  "sist_sjekket": "2026-09-12T15:22:16.354643+00:00",
   "funn": [
+    {
+      "tittel": "Ditto Pikachu / Charmander + Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476224590",
+      "funnet": "2026-09-12T15:22:16.353206+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-12T15:22:15.960045+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Cubone Topps holo",
       "pris": 195,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476206958",
       "funnet": "2026-09-12T12:48:54.263041+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "HELT UÅPNET Pokemon TCG Samlepakke – 9x Uåpnede Booster + Gengar + Tilbehør",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476206648",
-      "funnet": "2026-09-12T12:48:53.533097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan basketballkort - 1999 Upper Deck «High Class»",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476208348",
-      "funnet": "2026-09-12T12:48:53.255877+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
