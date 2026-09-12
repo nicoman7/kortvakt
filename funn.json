@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-09-12T09:58:15.024800+00:00",
+  "sist_sjekket": "2026-09-12T10:00:52.887762+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort",
+      "pris": 377,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476188871",
+      "funnet": "2026-09-12T10:00:52.886067+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Umbreon VMAX samlekort spansk",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476188955",
+      "funnet": "2026-09-12T10:00:52.259984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Japansk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476188811",
+      "funnet": "2026-09-12T10:00:51.689549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes | Hits & promos",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476188953",
+      "funnet": "2026-09-12T10:00:51.287702+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-12T10:00:50.702194+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1158,46 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476164006",
       "funnet": "2026-09-12T01:20:29.844011+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scyther 10/64 Holo Rare (R) Jungle NM",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476163986",
-      "funnet": "2026-09-12T01:14:17.274013+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Blaine's Ninetales [1st Edition] 21/132 Rare (R) Gym Challenge NM",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476163976",
-      "funnet": "2026-09-12T01:12:14.318539+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Groudon 14/106 Rare (R) EX Emerald NM",
-      "pris": 165,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476163944",
-      "funnet": "2026-09-12T01:00:50.918159+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lucario 64/99 Holo Rare (R) Next Destinies NM",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476163904",
-      "funnet": "2026-09-12T00:54:24.814569+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rayquaza 22/107 Rare (R) EX Deoxys NM",
-      "pris": 410,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476163891",
-      "funnet": "2026-09-12T00:48:16.567753+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
