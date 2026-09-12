@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T20:36:13.627858+00:00",
+  "sist_sjekket": "2026-09-12T20:38:16.046768+00:00",
   "funn": [
+    {
+      "tittel": "LUXRAY#27 HOLO RARE",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476247867",
+      "funnet": "2026-09-12T20:38:16.044944+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlinger",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T18:38:51.079279+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476241027",
-      "funnet": "2026-09-12T18:38:50.399959+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
