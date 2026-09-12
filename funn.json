@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-12T18:30:41.042978+00:00",
+  "sist_sjekket": "2026-09-12T18:32:18.688977+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort/ samleobjekt",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476240708",
+      "funnet": "2026-09-12T18:32:18.687210+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "lillie’s Ribombee 164/159 Pokemon Journey Together 2025",
+      "pris": 109,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476240738",
+      "funnet": "2026-09-12T18:32:17.919444+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fletchling 1st Edition - CP3 - 030/032 C - Japansk Pokemon Kort",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476178477",
       "funnet": "2026-09-12T16:20:29.470364+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Numel #5 Pokemon Kort år 2004 Yuka Morii",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476179016",
-      "funnet": "2026-09-12T16:16:16.634260+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reshiram & Charizard GX TAG TEAM Mint",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476229778",
-      "funnet": "2026-09-12T16:14:17.945293+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
