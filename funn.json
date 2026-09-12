@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-12T21:34:18.972792+00:00",
+  "sist_sjekket": "2026-09-12T21:36:15.317022+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476250303",
+      "funnet": "2026-09-12T21:36:15.315015+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu RC29/RC32 – Generations 2016",
       "pris": 1490,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475853564",
       "funnet": "2026-09-12T19:14:20.711406+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ac Monaco fotballkort bunke",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476243082",
-      "funnet": "2026-09-12T19:10:24.948604+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
