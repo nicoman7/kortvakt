@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T22:32:50.002696+00:00",
+  "sist_sjekket": "2026-09-14T22:34:18.814617+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
+      "funnet": "2026-09-14T22:34:18.812931+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Select Visionary Bruno Fernandes (Case Hit) 2024/2025",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 719,
       "lenke": "https://www.finn.no/recommerce/forsale/item/458044466",
       "funnet": "2026-09-14T19:40:31.462052+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "ACE 7 NM Rhyperior Lv.x DP29 Black Star Promo - Pokemon Fall Collector's Tin",
-      "pris": 629,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458047684",
-      "funnet": "2026-09-14T19:40:30.570840+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
