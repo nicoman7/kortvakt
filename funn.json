@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T06:06:16.586830+00:00",
+  "sist_sjekket": "2026-09-14T06:08:17.188868+00:00",
   "funn": [
+    {
+      "tittel": "fotballkort (1999/2000) – Merlin's Premier Gold",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476368350",
+      "funnet": "2026-09-14T06:08:17.186653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "#37 – M Gardevoir EX RC31/RC32 – Full Art Ultra Rare – Generations – 2016",
       "pris": 1290,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T21:26:16.978403+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 152,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476249991",
-      "funnet": "2026-09-12T21:26:16.368764+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
