@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T18:50:24.767768+00:00",
+  "sist_sjekket": "2026-09-14T18:52:17.869467+00:00",
   "funn": [
+    {
+      "tittel": "Pitch Black & Chaos Rising kort",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476431527",
+      "funnet": "2026-09-14T18:52:17.867823+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Leafeon #7/111 (Furios Fists) Pokemon kort",
+      "pris": 135,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476433269",
+      "funnet": "2026-09-14T18:52:16.972184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini USA 94 klistremerkealbum – 331/444 (74,5%), med Maradona m.fl.",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476331609",
       "funnet": "2026-09-14T17:04:20.104230+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rapidash - sv2a - 078/165 U - Japansk Pokemon Kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476351294",
-      "funnet": "2026-09-14T17:04:19.221245+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Weezing #199 Pokemon Destined Rivals",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476332538",
-      "funnet": "2026-09-14T17:04:18.602583+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
