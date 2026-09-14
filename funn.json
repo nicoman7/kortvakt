@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T11:46:19.289786+00:00",
+  "sist_sjekket": "2026-09-14T11:48:16.248030+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort 30/40/50 kr – Kvantumsrabatt 🔥",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476393402",
+      "funnet": "2026-09-14T11:48:16.246172+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Jumpluff 11/132 Holo Rare (R) Secret Wonders HP",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476394117",
+      "funnet": "2026-09-14T11:48:15.639456+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mawile 9/100 Holo Rare (R) EX Crystal Guardians LP",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476362466",
       "funnet": "2026-09-14T05:26:14.453453+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort fifa world cup Russia 2018",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451766380",
-      "funnet": "2026-09-14T05:22:16.000100+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort VM 2008 Russia Power 4 og Scandinavian Star",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451842728",
-      "funnet": "2026-09-14T05:22:15.625736+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
