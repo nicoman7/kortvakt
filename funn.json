@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-14T10:10:33.873937+00:00",
+  "sist_sjekket": "2026-09-14T10:12:19.218295+00:00",
   "funn": [
+    {
+      "tittel": "France 98 offisielt lisensiert fotballkort-album",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476385194",
+      "funnet": "2026-09-14T10:12:19.216874+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Morepeko kort lot – 5 kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476385010",
+      "funnet": "2026-09-14T10:12:18.368666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Binder for samlekort",
+      "pris": 239,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476385280",
+      "funnet": "2026-09-14T10:12:17.554350+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Meowth EX promokort holo",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476384664",
+      "funnet": "2026-09-14T10:12:16.698670+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlealbum med fotballkort Premier League og tippeligaen 90 tallet.",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-13T22:52:17.061242+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-13T22:52:16.464366+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket's Houndour Destined Rivals (37) Reverse Holo",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476359669",
-      "funnet": "2026-09-13T22:50:22.360931+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Atlético Madrid – Antoine Griezmann Kings of Europe – Topps Champions League",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476355605",
-      "funnet": "2026-09-13T22:32:49.418824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu EX Promo💛",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476355761",
-      "funnet": "2026-09-13T22:32:49.054546+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
