@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-14T18:12:23.947710+00:00",
+  "sist_sjekket": "2026-09-14T18:14:20.314985+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476429734",
+      "funnet": "2026-09-14T18:14:20.313191+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Natu & Bouffalant - EBB - Japansk Pokemon Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476379638",
+      "funnet": "2026-09-14T18:14:19.547585+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Dark Golbat [1st Edition] #7",
+      "pris": 1650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476429343",
+      "funnet": "2026-09-14T18:14:19.203382+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Reshiram & Charizard GX #20",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476429757",
+      "funnet": "2026-09-14T18:14:18.400987+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Farfetch'd - sv2a - 083/165 C - Japansk Pokemon Kort",
       "pris": 50,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476418204",
       "funnet": "2026-09-14T16:14:20.370477+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Eevee",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476417881",
-      "funnet": "2026-09-14T16:12:22.228119+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Growlithe #68 Pokemon Neo Destiny",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476418061",
-      "funnet": "2026-09-14T16:12:21.306965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort WOTC – Base Set, Jungle, Fossil, Team Rocket, Neo – Plukk og miks",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475970776",
-      "funnet": "2026-09-14T16:12:20.386670+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ASC 055/217 common",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476417849",
-      "funnet": "2026-09-14T16:11:01.973967+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
