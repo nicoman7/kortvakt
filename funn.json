@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T13:24:18.314819+00:00",
+  "sist_sjekket": "2026-09-14T13:26:16.494402+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex 028/131",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476401346",
+      "funnet": "2026-09-14T13:26:16.492363+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476403151",
+      "funnet": "2026-09-14T13:26:15.731891+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard GX - Pokemon SM211",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476381986",
       "funnet": "2026-09-14T09:38:16.069238+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - SV: 151 - Bulk - EX / Reverse",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476376931",
-      "funnet": "2026-09-14T09:34:16.332662+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riftbound Seal of Discord epic samlekort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476381179",
-      "funnet": "2026-09-14T09:26:20.736857+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
