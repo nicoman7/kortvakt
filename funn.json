@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T01:00:49.132870+00:00",
+  "sist_sjekket": "2026-09-14T01:02:21.022045+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-14T01:02:21.020181+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flygon ex 94/108 — EX Power Keepers 2007 — Ultra Rare",
       "pris": 749,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476248408",
       "funnet": "2026-09-12T20:50:23.890256+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Greavard ex Art Rare holo japansk CGC 10",
-      "pris": 870,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465593541",
-      "funnet": "2026-09-12T20:40:23.833384+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
