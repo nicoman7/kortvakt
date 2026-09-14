@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T14:18:29.104588+00:00",
+  "sist_sjekket": "2026-09-14T14:20:27.601334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-14T14:20:27.599534+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 900,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476389243",
       "funnet": "2026-09-14T10:58:14.397469+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon XY96 ACE Gradert kort",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476387738",
-      "funnet": "2026-09-14T10:56:18.907315+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
