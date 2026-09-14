@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T11:06:17.418343+00:00",
+  "sist_sjekket": "2026-09-14T11:08:16.636797+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – bunt med 10 kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476390193",
+      "funnet": "2026-09-14T11:08:16.635061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ultra Pro Collector Album - Samleperm / Ringperm 3 ringer",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476361088",
       "funnet": "2026-09-14T01:04:21.520474+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-14T01:02:21.020181+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
