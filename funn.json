@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T21:34:17.470424+00:00",
+  "sist_sjekket": "2026-09-14T21:36:14.687604+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-14T21:36:14.685795+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo samlekort Manchester United",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-14T19:34:27.196460+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "FIFA 365 2026, 80 kort, Leão, Mané, Hakimi, Gallagher, Gull-logoer m.fl.",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476436923",
-      "funnet": "2026-09-14T19:34:26.843595+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
