@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T22:54:15.825377+00:00",
+  "sist_sjekket": "2026-09-14T22:56:14.802724+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476445491",
+      "funnet": "2026-09-14T22:56:14.800861+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu japansk samlekort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476437888",
       "funnet": "2026-09-14T19:42:18.943664+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Golbat #24 Pokemon Team Rocket",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476437931",
-      "funnet": "2026-09-14T19:42:18.062269+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
