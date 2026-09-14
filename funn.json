@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T23:22:26.304053+00:00",
+  "sist_sjekket": "2026-09-14T23:24:16.267319+00:00",
   "funn": [
+    {
+      "tittel": "Captain Pikachu #701 Pokemon Chinese Gem Pack",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476445758",
+      "funnet": "2026-09-14T23:24:16.265179+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Top Class Premier League fotballkort samling",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-14T19:44:15.302588+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Banette, Mightyena & Jirachi holo 🌟",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476437455",
-      "funnet": "2026-09-14T19:42:21.595694+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
