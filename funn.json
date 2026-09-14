@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T06:30:44.293452+00:00",
+  "sist_sjekket": "2026-09-14T06:32:17.217227+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476361241",
+      "funnet": "2026-09-14T06:32:17.215731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon Center Pitch Black ETB",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476360049",
+      "funnet": "2026-09-14T06:32:16.239554+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed Magneton #159 Pokemon Promo",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-12T21:30:40.159373+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon GO Pikachu Buddy Bolt samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475928498",
-      "funnet": "2026-09-12T21:30:39.814486+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega evolution pitch black kort pakke selges (35kort).",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476249909",
-      "funnet": "2026-09-12T21:28:19.834291+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
