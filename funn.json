@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T05:52:18.718004+00:00",
+  "sist_sjekket": "2026-09-14T05:54:18.091464+00:00",
   "funn": [
+    {
+      "tittel": "Ipswich - 28 stk fotballkort / 70 tallet",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445792578",
+      "funnet": "2026-09-14T05:54:18.089348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sunderland - 12 stk fotballkort / 70 tallet. Kjøper betaler frakt.",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T21:26:14.794898+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476249891",
-      "funnet": "2026-09-12T21:24:21.799289+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
