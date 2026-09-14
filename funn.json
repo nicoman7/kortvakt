@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T10:06:19.354199+00:00",
+  "sist_sjekket": "2026-09-14T10:08:15.604274+00:00",
   "funn": [
+    {
+      "tittel": "Samlealbum med fotballkort Premier League og tippeligaen 90 tallet.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476384907",
+      "funnet": "2026-09-14T10:08:15.602280+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu og Pichu samlekort – 5 kort",
       "pris": 80,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-13T22:32:49.054546+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Abyss Eye - Booster Box (Gratis frakt)",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475236302",
-      "funnet": "2026-09-13T22:32:48.152761+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
