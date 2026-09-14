@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-14T15:04:17.388849+00:00",
+  "sist_sjekket": "2026-09-14T15:06:21.472344+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476411933",
+      "funnet": "2026-09-14T15:06:21.470376+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "reservert kort",
+      "pris": 240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476411908",
+      "funnet": "2026-09-14T15:06:20.661790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Leafeon VMAX samlekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476411920",
+      "funnet": "2026-09-14T15:06:20.272464+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Golurk #123 Pokemon Black Bolt",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476333094",
+      "funnet": "2026-09-14T15:06:19.488641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "TOPPS Pidgeot nr. 18",
       "pris": 20,
@@ -1166,38 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476395234",
       "funnet": "2026-09-14T12:00:59.691274+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Steelix EX kort – Big Bang Horn",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476395117",
-      "funnet": "2026-09-14T12:00:58.867811+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Machamp 50/101 Reverse Holofoil Rare (R) Plasma Blast MP",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476395006",
-      "funnet": "2026-09-14T11:58:17.639841+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Full Heal - Expedition - Pokemon",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476394308",
-      "funnet": "2026-09-14T11:58:17.001924+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pelipper 19/109 Reverse Holofoil Rare (R) EX Ruby & Sapphire MP",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476394434",
-      "funnet": "2026-09-14T11:54:18.018296+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
