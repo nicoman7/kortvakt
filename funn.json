@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T07:20:25.004793+00:00",
+  "sist_sjekket": "2026-09-14T07:22:19.804771+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Twilight Masquerade - Bulk - EX / Reverse",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476369980",
+      "funnet": "2026-09-14T07:22:19.802822+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon GO Pikachu Buddy Bolt samlekort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-12T21:30:43.451254+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476250091",
-      "funnet": "2026-09-12T21:30:42.618308+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
