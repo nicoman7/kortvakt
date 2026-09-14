@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-14T11:34:16.412575+00:00",
+  "sist_sjekket": "2026-09-14T11:36:17.337695+00:00",
   "funn": [
+    {
+      "tittel": "Mesprit 14/123 Holo Rare (R) Mysterious Treasures HP",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476392862",
+      "funnet": "2026-09-14T11:36:17.336117+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Electivire 3/130 Holo Rare (R) Diamond & Pearl HP",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476362188",
       "funnet": "2026-09-14T05:06:16.231214+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Dragonite 2/146",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476361879",
-      "funnet": "2026-09-14T04:40:22.552064+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
