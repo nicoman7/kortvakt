@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T05:14:17.285486+00:00",
+  "sist_sjekket": "2026-09-14T05:16:17.794315+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Fifa 2020 Fans’ Favourite",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452266138",
+      "funnet": "2026-09-14T05:16:17.792611+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort world cup France 2019 Women",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452257774",
+      "funnet": "2026-09-14T05:16:16.990103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Blaziken 1/106 — EX Emerald 2005 — Holo Rare",
       "pris": 499,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475999753",
       "funnet": "2026-09-12T21:16:19.121706+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wartortle #1 Pokemon 2000 Topps TV Sticker",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476249231",
-      "funnet": "2026-09-12T21:14:22.284925+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Poliwhirl #3 Pokemon 2000 Topps TV Sticker",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476249299",
-      "funnet": "2026-09-12T21:14:21.345639+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
