@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-14T12:50:25.665236+00:00",
+  "sist_sjekket": "2026-09-14T12:52:16.947134+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon tcg mini tin & bunker",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/430760410",
+      "funnet": "2026-09-14T12:52:16.945452+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Masse Pokemonkort.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/213311344",
+      "funnet": "2026-09-14T12:52:16.218942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kylian Mbappé Golden Baller fotballkort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476400032",
+      "funnet": "2026-09-14T12:52:15.738422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Kyogre EX holo",
       "pris": 550,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476376911",
       "funnet": "2026-09-14T08:34:24.520729+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andreas Christensen fotballkort 30/99 Futera Heritage Barcelona BCH06",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476377021",
-      "funnet": "2026-09-14T08:34:23.731733+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Chrome Star Wars Value Box",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476376865",
-      "funnet": "2026-09-14T08:34:22.774992+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "JALEN GREEN 2025-26 TOPPS CHROME UPDATE HAVOC MARKS /75 AUTO PURPLE REFRACTOR",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476377099",
-      "funnet": "2026-09-14T08:34:22.388668+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
