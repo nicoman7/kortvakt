@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-14T10:46:16.530390+00:00",
+  "sist_sjekket": "2026-09-14T10:48:16.513082+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort- Squirtle hp60",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476387366",
+      "funnet": "2026-09-14T10:48:16.511135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fennekin 080 Sealed Promo - Gratis Frakt - Pokemon Kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476388375",
+      "funnet": "2026-09-14T10:48:15.910449+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Articuno 1/100 — DP Majestic Dawn 2008 — Holo Rare",
       "pris": 349,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476360781",
       "funnet": "2026-09-14T00:08:15.120180+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu japansk samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475895212",
-      "funnet": "2026-09-14T00:06:16.838985+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Dragonite 15/109 — EX Team Rocket Returns 2004 — Holo Rare",
-      "pris": 749,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476360784",
-      "funnet": "2026-09-14T00:02:15.450171+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
