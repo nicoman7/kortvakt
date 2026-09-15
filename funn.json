@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T22:00:51.465764+00:00",
+  "sist_sjekket": "2026-09-15T22:02:15.306533+00:00",
   "funn": [
+    {
+      "tittel": "Match Attax fotballkort Premier League samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476525391",
+      "funnet": "2026-09-15T22:02:15.304428+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
+      "funnet": "2026-09-15T22:02:14.681939+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Match Attax fotballkort – Premier League spesialkort",
       "pris": 299,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476001614",
       "funnet": "2026-09-15T19:06:15.627650+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon: Pikachu #124 [Reverse Holo] – Expedition",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475635425",
-      "funnet": "2026-09-15T19:04:19.584506+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon 19/115 Holo Rare",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475893262",
-      "funnet": "2026-09-15T19:04:18.726787+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
