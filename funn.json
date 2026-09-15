@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T12:48:15.279882+00:00",
+  "sist_sjekket": "2026-09-15T12:51:34.549188+00:00",
   "funn": [
+    {
+      "tittel": "Crawdaunt #13 Pokemon Dragon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476480033",
+      "funnet": "2026-09-15T12:51:34.547537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
+      "funnet": "2026-09-15T12:51:34.231761+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Ninjask #65 & Shedininja #72 Selges samlet",
       "pris": 69,
@@ -1182,22 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476468194",
       "funnet": "2026-09-15T10:38:16.359699+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard samlekort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476468463",
-      "funnet": "2026-09-15T10:38:15.793004+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage Kort (Oppdater og lagt til mer)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
-      "funnet": "2026-09-15T10:38:15.317008+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
