@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T12:12:20.839795+00:00",
+  "sist_sjekket": "2026-09-15T12:14:18.095557+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Mega Charizard X EX 109/094",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476477967",
+      "funnet": "2026-09-15T12:14:18.093821+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gengar EX samlekort holo",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476477793",
+      "funnet": "2026-09-15T12:14:17.169117+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kieran 206/167 – Twilight Masquerade – Full Art Ultra Rare",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-15T09:38:17.491901+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Altaria RC24/RC32",
-      "pris": 230,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476461982",
-      "funnet": "2026-09-15T09:36:16.431479+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort vm 2026",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476462460",
-      "funnet": "2026-09-15T09:32:16.496018+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
