@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-15T09:04:17.708553+00:00",
+  "sist_sjekket": "2026-09-15T09:06:16.355014+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med graderte kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476460204",
+      "funnet": "2026-09-15T09:06:16.353037+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mesprit Full Art holo",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476460260",
+      "funnet": "2026-09-15T09:06:15.986376+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Kingdra GX Rainbow Secret Rare kort – gradert prestine 10",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476460411",
+      "funnet": "2026-09-15T09:06:15.611718+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Togetic 16/111 holo",
       "pris": 300,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476442173",
       "funnet": "2026-09-14T20:54:19.952537+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Popplio 045 MEP Mega Evolution Promo kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476442381",
-      "funnet": "2026-09-14T20:54:19.536601+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Allen Iverson basketballkort - 99/00 Showcase",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476442291",
-      "funnet": "2026-09-14T20:54:19.162874+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Allen Iverson rookie basketballkort -1996/97",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476442217",
-      "funnet": "2026-09-14T20:50:25.898943+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
