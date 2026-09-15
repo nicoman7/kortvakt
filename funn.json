@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T05:18:20.079893+00:00",
+  "sist_sjekket": "2026-09-15T05:21:00.466213+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Manchester United",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/440541585",
+      "funnet": "2026-09-15T05:21:00.464268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering kort – Mana Drain",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476438862",
       "funnet": "2026-09-14T19:54:18.646007+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-14T19:54:17.777315+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
