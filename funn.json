@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T12:04:17.347565+00:00",
+  "sist_sjekket": "2026-09-15T12:06:20.342474+00:00",
   "funn": [
+    {
+      "tittel": "Donruss Soccer Mini lot, 3 landslagskort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476477050",
+      "funnet": "2026-09-15T12:06:20.340500+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort - Bud ønskes",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476039428",
+      "funnet": "2026-09-15T12:06:19.370400+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Bundesliga Mini-lot, 5 kort m/ 2x Rookie Cards",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 449,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476462243",
       "funnet": "2026-09-15T09:28:20.210502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex xy121 promo",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476462242",
-      "funnet": "2026-09-15T09:28:19.779570+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sealed Snorlax #51 Pokemon Promo",
-      "pris": 459,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476461922",
-      "funnet": "2026-09-15T09:24:18.357413+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
