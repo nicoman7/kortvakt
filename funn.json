@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T17:06:15.423751+00:00",
+  "sist_sjekket": "2026-09-15T17:08:15.278129+00:00",
   "funn": [
+    {
+      "tittel": "Selger diverse pokemon kort fra forskjellige tider",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476493300",
+      "funnet": "2026-09-15T17:08:15.276059+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hydrapple ex 011/131 – Double Rare - prismatic evolutions",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476490035",
       "funnet": "2026-09-15T14:28:15.448491+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Mega Gengar EX japanske – 3 stk",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476490239",
-      "funnet": "2026-09-15T14:28:15.133973+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
