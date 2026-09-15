@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T15:18:15.106947+00:00",
+  "sist_sjekket": "2026-09-15T15:20:29.336499+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
+      "funnet": "2026-09-15T15:20:29.334879+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Destined Rivals Elite Trainer Box",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476481990",
       "funnet": "2026-09-15T12:56:16.979956+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lotad [Reverse Holo] #66 Pokemon Sandstorm",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476481747",
-      "funnet": "2026-09-15T12:54:15.826526+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
