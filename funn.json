@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T12:10:24.768210+00:00",
+  "sist_sjekket": "2026-09-15T12:12:20.839795+00:00",
   "funn": [
+    {
+      "tittel": "Kieran 206/167 – Twilight Masquerade – Full Art Ultra Rare",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476477808",
+      "funnet": "2026-09-15T12:12:20.838021+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "23 pokemonkort Holo",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476477601",
+      "funnet": "2026-09-15T12:12:19.997267+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Donruss Soccer Mini lot, 3 landslagskort",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-15T09:32:16.496018+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samling fotballkort med autografer og patchkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476462300",
-      "funnet": "2026-09-15T09:30:37.144493+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Start Deck 100 kortstokk japansk",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476462243",
-      "funnet": "2026-09-15T09:28:20.210502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
