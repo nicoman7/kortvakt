@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T20:30:40.408290+00:00",
+  "sist_sjekket": "2026-09-15T20:32:54.524264+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Bud ønskes",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476039428",
+      "funnet": "2026-09-15T20:32:54.522494+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon GX kort Charizard, Dragonite og Sylveon",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476504437",
       "funnet": "2026-09-15T18:04:17.129952+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – 3 unova starters",
-      "pris": 320,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476509798",
-      "funnet": "2026-09-15T18:04:16.716427+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
