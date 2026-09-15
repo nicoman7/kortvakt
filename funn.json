@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T09:14:19.617509+00:00",
+  "sist_sjekket": "2026-09-15T09:16:15.215353+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476461076",
+      "funnet": "2026-09-15T09:16:15.213633+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Tohoku's Pikachu Promo",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476461208",
+      "funnet": "2026-09-15T09:16:14.930876+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard, Charmeleon og Charmander samling – graded kort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476442735",
       "funnet": "2026-09-14T21:04:18.211167+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Lorcana Bulk - Set 6: Azurite Sea - 2 fulle bokser med kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476441936",
-      "funnet": "2026-09-14T21:04:17.342446+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select Diogo Costa Road to FIFA World Cup 2022 kort til KUN 03/10",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476442450",
-      "funnet": "2026-09-14T21:00:51.647449+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
