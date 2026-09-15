@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T16:34:23.815542+00:00",
+  "sist_sjekket": "2026-09-15T16:36:18.774814+00:00",
   "funn": [
+    {
+      "tittel": "Nummerert fotballkort av Buffon selges!",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476500471",
+      "funnet": "2026-09-15T16:36:18.773268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Tarountula #199 Pokemon Scarlet & Violet",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476441149",
+      "funnet": "2026-09-15T16:36:17.761601+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spidops ex #243 Pokemon Scarlet & Violet",
       "pris": 140,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-15T14:02:20.477253+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med One Piece samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476485095",
-      "funnet": "2026-09-15T14:02:19.827821+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gamle pokemon kort.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476437674",
-      "funnet": "2026-09-15T14:02:19.226201+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
