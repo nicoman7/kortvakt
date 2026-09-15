@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T17:20:24.550289+00:00",
+  "sist_sjekket": "2026-09-15T17:22:24.892963+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon  Team rocket Dark serie",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476505430",
+      "funnet": "2026-09-15T17:22:24.891361+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA 365 Adrenalyn FC Barcelona kort Lamine Yamal, Koundé og Olmo",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
       "funnet": "2026-09-15T14:32:17.867060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Desiré Doué /99 Topps Finest PSG Champions League",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476490236",
-      "funnet": "2026-09-15T14:30:39.696797+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
