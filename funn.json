@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T15:10:23.755862+00:00",
+  "sist_sjekket": "2026-09-15T15:12:21.855884+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – CCG 10 Eevee og japanske kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476492931",
+      "funnet": "2026-09-15T15:12:21.853759+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard 4/100 og 6/165 selges",
       "pris": 111,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T12:51:34.231761+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ninjask #65 & Shedininja #72 Selges samlet",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476481214",
-      "funnet": "2026-09-15T12:48:15.278027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
