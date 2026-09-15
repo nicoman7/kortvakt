@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T17:46:24.254112+00:00",
+  "sist_sjekket": "2026-09-15T17:48:19.858120+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Bud ønskes",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476039428",
+      "funnet": "2026-09-15T17:48:19.856923+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Selges: Magic: The Gathering – The Hobbit Gift Bundle (Uåpnet/Sealed)",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476493269",
       "funnet": "2026-09-15T15:06:20.620922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glaceon #23/116 (Plasma Freeze) Vintage Pokemon kort",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476493035",
-      "funnet": "2026-09-15T15:04:19.316987+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
