@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T09:30:37.146742+00:00",
+  "sist_sjekket": "2026-09-15T09:32:16.497749+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort vm 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476462460",
+      "funnet": "2026-09-15T09:32:16.496018+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Samling fotballkort med autografer og patchkort",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476444138",
       "funnet": "2026-09-14T21:44:23.967859+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Zeraora EX sir 114/084",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476439449",
-      "funnet": "2026-09-14T21:40:23.208178+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
