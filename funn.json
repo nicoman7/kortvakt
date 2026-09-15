@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T09:50:24.635458+00:00",
+  "sist_sjekket": "2026-09-15T09:52:18.301374+00:00",
   "funn": [
+    {
+      "tittel": "Glass Trumpet 260/217 – Ascended Heroes – Ultra Rare",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476464264",
+      "funnet": "2026-09-15T09:52:18.299528+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rammstein kortstokk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468297952",
+      "funnet": "2026-09-15T09:52:17.497827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort BGS 9.5 Squirtle IR (Steller Crown)",
       "pris": 1699,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-14T22:10:24.252565+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort Articuno #2 Fossil Gradert 7 NM",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476444595",
-      "funnet": "2026-09-14T22:08:17.446510+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage Kort Fra Diverse sett",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
-      "funnet": "2026-09-14T21:58:17.892770+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
