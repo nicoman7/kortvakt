@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T19:36:14.832994+00:00",
+  "sist_sjekket": "2026-09-15T19:38:15.962978+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476517944",
+      "funnet": "2026-09-15T19:38:15.960746+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Michael Jordan basketballkort - 1989/90 North Carolina Finest",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476517073",
+      "funnet": "2026-09-15T19:38:15.376254+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL. Stort utvalg VM Kort! Oppdatert 15.9",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476333346",
       "funnet": "2026-09-15T16:50:27.388271+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Lapras  + Lapras ex - pokemon kort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476501550",
-      "funnet": "2026-09-15T16:48:52.158879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard X ex #109 Pokemon Phantasmal Flames",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476501441",
-      "funnet": "2026-09-15T16:48:51.393592+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
