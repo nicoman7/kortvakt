@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T18:14:17.321718+00:00",
+  "sist_sjekket": "2026-09-15T18:16:17.055086+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med masse vintage kort",
+      "pris": 1666,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476510816",
+      "funnet": "2026-09-15T18:16:17.052684+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
+      "funnet": "2026-09-15T18:16:16.422340+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Houndstone #73 | Mega Symphonia - Gradert",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476494791",
       "funnet": "2026-09-15T15:32:19.768325+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snover #140 Pokemon Mega Evolution",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476440678",
-      "funnet": "2026-09-15T15:30:39.680871+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Frogadier #89 Illustration Rare",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476494954",
-      "funnet": "2026-09-15T15:30:39.184365+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
