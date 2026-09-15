@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T15:12:21.855884+00:00",
+  "sist_sjekket": "2026-09-15T15:14:17.371249+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – blandede kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476493359",
+      "funnet": "2026-09-15T15:14:17.369228+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – CCG 10 Eevee og japanske kort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T12:51:34.547537+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
-      "funnet": "2026-09-15T12:51:34.231761+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
