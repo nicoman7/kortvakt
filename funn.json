@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-15T11:02:26.948457+00:00",
+  "sist_sjekket": "2026-09-15T11:04:20.054610+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476277989",
+      "funnet": "2026-09-15T11:04:20.053504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Bulk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476470482",
+      "funnet": "2026-09-15T11:04:19.268694+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eviolite [Reverse Holo] #91 Pokemon Noble Victories",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476470682",
+      "funnet": "2026-09-15T11:04:18.505155+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Claw Fossil [Reverse Holo] #90 Pokemon Sandstorm",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476470833",
+      "funnet": "2026-09-15T11:04:17.777064+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hooligans Jim & Cas [Reverse Holo] #95 Pokemon Dark Explorers",
       "pris": 50,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476443054",
       "funnet": "2026-09-15T06:48:16.378418+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50:- per stk for 151  Baby Shiny Pokemon #Chinese151",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476450666",
-      "funnet": "2026-09-15T06:48:15.712342+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-15T06:46:17.180033+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Basketballkort fra 90-tallet",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476450339",
-      "funnet": "2026-09-15T06:40:26.468853+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diogo Jota Liverpool – Topps Premier League Pink /399 – 047/399",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476449089",
-      "funnet": "2026-09-15T06:20:21.682892+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
