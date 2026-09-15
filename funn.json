@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T18:38:19.410687+00:00",
+  "sist_sjekket": "2026-09-15T18:40:28.777309+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort til Salgs! Holo, Ex, Gx, Osv...",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476512817",
+      "funnet": "2026-09-15T18:40:28.775438+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Maushold Holo (sv4a 318) - Japansk Pokemon kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 190,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476440897",
       "funnet": "2026-09-15T15:44:15.563870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth #106 Pokemon Phantasmal Flames",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476440747",
-      "funnet": "2026-09-15T15:42:21.910711+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
