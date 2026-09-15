@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T12:42:19.944153+00:00",
+  "sist_sjekket": "2026-09-15T12:44:16.015623+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476480958",
+      "funnet": "2026-09-15T12:44:16.014399+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Smeargle #73",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476481027",
+      "funnet": "2026-09-15T12:44:15.222397+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Dedenne #85",
       "pris": 59,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476468173",
       "funnet": "2026-09-15T10:36:29.238005+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #87 Pokemon Base Set 2",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476468316",
-      "funnet": "2026-09-15T10:36:28.750033+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476468373",
-      "funnet": "2026-09-15T10:36:24.258411+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
