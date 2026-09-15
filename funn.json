@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-15T20:50:21.901857+00:00",
+  "sist_sjekket": "2026-09-15T20:52:15.292833+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon AR Hits (japansk)",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476522812",
+      "funnet": "2026-09-15T20:52:15.291158+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Mega Dream EX - Booster Box (Gratis frakt)",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475235853",
+      "funnet": "2026-09-15T20:52:14.688469+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476511971",
       "funnet": "2026-09-15T18:26:15.043640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Umbreon VMAX Galarian Gallery samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476511949",
-      "funnet": "2026-09-15T18:26:14.418658+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals ETB SEALED",
-      "pris": 1349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476502206",
-      "funnet": "2026-09-15T18:22:17.509927+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
