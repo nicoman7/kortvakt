@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T22:28:14.903854+00:00",
+  "sist_sjekket": "2026-09-15T22:30:37.567953+00:00",
   "funn": [
+    {
+      "tittel": "Night Stretcher Hyper Rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476525938",
+      "funnet": "2026-09-15T22:30:37.566176+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Argentina Team Set – 27 nummererte kort /25 – /199",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T19:14:16.331756+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samling med kortperm",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472747598",
-      "funnet": "2026-09-15T19:10:30.318697+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
