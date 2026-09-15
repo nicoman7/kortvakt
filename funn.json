@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T02:14:14.681450+00:00",
+  "sist_sjekket": "2026-09-15T02:16:16.336130+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Bud ønskes",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476039428",
+      "funnet": "2026-09-15T02:16:16.334171+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mega charizard ex pokemon kort",
       "pris": 599,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476438377",
       "funnet": "2026-09-14T19:50:26.288149+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sawsbuck - s6H - 006/070 U - Japansk Pokemon Kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476411442",
-      "funnet": "2026-09-14T19:50:25.959093+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
