@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T15:16:17.472383+00:00",
+  "sist_sjekket": "2026-09-15T15:18:15.106947+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Destined Rivals Elite Trainer Box",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476493893",
+      "funnet": "2026-09-15T15:18:15.105085+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort og sealed boosters – Celebrations, Magneton, Snorlax ++",
       "pris": 955,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T12:54:15.826526+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon -  White Flare ETB",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476481735",
-      "funnet": "2026-09-15T12:52:18.075283+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
