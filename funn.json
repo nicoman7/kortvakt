@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T22:32:15.889061+00:00",
+  "sist_sjekket": "2026-09-15T22:34:14.286924+00:00",
   "funn": [
+    {
+      "tittel": "Stoutland 248/236 Secret Rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476526028",
+      "funnet": "2026-09-15T22:34:14.285091+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Night Stretcher Hyper Rare",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T19:14:17.207436+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon Kort !",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465974616",
-      "funnet": "2026-09-15T19:14:16.331756+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
