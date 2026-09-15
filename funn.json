@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-15T10:20:21.780834+00:00",
+  "sist_sjekket": "2026-09-15T10:22:15.920930+00:00",
   "funn": [
+    {
+      "tittel": "Gamle vintage fotballkort selges!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/408843296",
+      "funnet": "2026-09-15T10:22:15.918892+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Panini FIFA World Cup Brasil XL samlekort med metallboks",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476445678",
       "funnet": "2026-09-14T23:18:16.312324+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476445491",
-      "funnet": "2026-09-14T22:56:14.800861+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
