@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-16T08:16:20.518132+00:00",
+  "sist_sjekket": "2026-09-16T08:18:18.116202+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476537700",
+      "funnet": "2026-09-16T08:18:18.114292+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Murkrow - sm2+ - 035/049 - Japansk Pokemon Kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476523191",
+      "funnet": "2026-09-16T08:18:17.290939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mudkip #26 Pokemon Japanese Premium Champion Pack",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 550,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476520731",
       "funnet": "2026-09-15T20:16:22.145965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcus Rashford  - England  - Fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476520969",
-      "funnet": "2026-09-15T20:16:21.261210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marcus Rashford- Manchester United- Fotballkort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476520706",
-      "funnet": "2026-09-15T20:14:18.506515+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
