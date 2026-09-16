@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-16T19:42:24.191225+00:00",
+  "sist_sjekket": "2026-09-16T19:44:18.974999+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort  random",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465660863",
+      "funnet": "2026-09-16T19:44:18.973240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Store pokemon kort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476596571",
+      "funnet": "2026-09-16T19:44:17.818339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard Holo 5/18 Detective Pikachu Pokemon Kort",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476596468",
+      "funnet": "2026-09-16T19:44:16.865890+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Scizor Ex 119/122 XY Breakpoint Pokemon Kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476596648",
+      "funnet": "2026-09-16T19:44:16.417647+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pau Cubarsí Barcelona fotballkort 60/60",
       "pris": 250,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-16T17:54:14.939563+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Quaxly - PALen 050/193 - Pokemon Kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476582743",
-      "funnet": "2026-09-16T17:54:14.313323+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #018",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476587238",
-      "funnet": "2026-09-16T17:52:20.619482+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier league fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476587083",
-      "funnet": "2026-09-16T17:52:19.707230+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magikarp - PALen 042/193 - Pokemon Kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476577211",
-      "funnet": "2026-09-16T17:52:18.730729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
