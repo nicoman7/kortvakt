@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T07:12:14.722933+00:00",
+  "sist_sjekket": "2026-09-16T07:14:15.176980+00:00",
   "funn": [
+    {
+      "tittel": "Avtalt annonse(pokemon kort)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476533422",
+      "funnet": "2026-09-16T07:14:15.175009+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax 24/25",
       "pris": 899,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-15T19:38:15.960746+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Michael Jordan basketballkort - 1989/90 North Carolina Finest",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476517073",
-      "funnet": "2026-09-15T19:38:15.376254+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
