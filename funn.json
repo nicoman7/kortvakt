@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T04:56:14.399796+00:00",
+  "sist_sjekket": "2026-09-16T04:58:15.000195+00:00",
   "funn": [
+    {
+      "tittel": "Lot Liverpool samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476528510",
+      "funnet": "2026-09-16T04:58:14.998055+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Charizard X EX 109/094 - Phantasmal Flames",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
       "funnet": "2026-09-15T19:22:17.319870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps. Star Wars. Journey to Star Wars, Rise of Skywalker. Samlekort.",
-      "pris": 310,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/399738026",
-      "funnet": "2026-09-15T19:20:58.582473+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
