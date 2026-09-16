@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T04:58:15.000195+00:00",
+  "sist_sjekket": "2026-09-16T05:00:47.941269+00:00",
   "funn": [
+    {
+      "tittel": "selger noen kort til markedspris",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476528530",
+      "funnet": "2026-09-16T05:00:47.939289+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lot Liverpool samlekort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476517063",
       "funnet": "2026-09-15T19:24:17.397279+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage Kort (Oppdater og lagt til mer)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
-      "funnet": "2026-09-15T19:22:17.319870+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
