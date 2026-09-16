@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T19:10:26.537029+00:00",
+  "sist_sjekket": "2026-09-16T19:12:15.546697+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-samling selges billig",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476594000",
+      "funnet": "2026-09-16T19:12:15.545296+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon boks – Over 500 kort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476581568",
       "funnet": "2026-09-16T16:50:58.979145+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ninetales #13 Pokemon Base Set 2",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476581334",
-      "funnet": "2026-09-16T16:48:17.392359+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
