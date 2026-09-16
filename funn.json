@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T15:40:31.256163+00:00",
+  "sist_sjekket": "2026-09-16T15:42:15.993090+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-16T15:42:15.991106+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Leafeon VSTAR #269/SV-P Promo",
       "pris": 49,
@@ -1190,14 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476564317",
       "funnet": "2026-09-16T13:28:16.638142+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NIDOQUEEN #43 HOLO RARE",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476564128",
-      "funnet": "2026-09-16T13:28:15.785367+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
