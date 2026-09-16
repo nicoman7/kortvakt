@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-16T15:08:16.519609+00:00",
+  "sist_sjekket": "2026-09-16T15:10:26.838736+00:00",
   "funn": [
+    {
+      "tittel": "Dual Masters Samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476572569",
+      "funnet": "2026-09-16T15:10:26.836896+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Steelix 4 LV.X",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476572781",
+      "funnet": "2026-09-16T15:10:26.555993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gengar EX kort – Beckett BGS 9",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471949266",
       "funnet": "2026-09-16T11:52:19.630969+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kobe Bryant rookie basketballkort - Z-Force!!",
-      "pris": 580,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476556134",
-      "funnet": "2026-09-16T11:52:18.835127+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japanske Pokémon-kort – energi og figurkort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476555852",
-      "funnet": "2026-09-16T11:50:24.636635+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
