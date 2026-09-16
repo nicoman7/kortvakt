@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-16T09:08:18.944868+00:00",
+  "sist_sjekket": "2026-09-16T09:10:24.845196+00:00",
   "funn": [
+    {
+      "tittel": "Honedge - s5l - 051/070 C - Japansk Pokemon Kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476523984",
+      "funnet": "2026-09-16T09:10:24.843590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling blandede kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476542043",
+      "funnet": "2026-09-16T09:10:24.148239+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Metagross - sv5M - 048/071 U - Japansk Pokemon Kort",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-15T22:02:14.681939+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Match Attax fotballkort – Premier League spesialkort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476525331",
-      "funnet": "2026-09-15T21:58:15.677801+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Energy Switch #103 Pokemon Japanese Abyss Eye",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476525379",
-      "funnet": "2026-09-15T21:58:14.900898+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
