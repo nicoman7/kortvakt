@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T14:08:22.004475+00:00",
+  "sist_sjekket": "2026-09-16T14:10:23.991308+00:00",
   "funn": [
+    {
+      "tittel": "Snorunt - sm12 - 017/095 C - Japansk Pokemon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476524624",
+      "funnet": "2026-09-16T14:10:23.989257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Slither Wing #74",
       "pris": 45,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-16T10:16:24.112796+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
-      "funnet": "2026-09-16T10:16:23.272926+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
