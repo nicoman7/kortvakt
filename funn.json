@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-16T09:10:24.845196+00:00",
+  "sist_sjekket": "2026-09-16T09:12:16.921466+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Journey Together Elite Trainer Box samleboks",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476542430",
+      "funnet": "2026-09-16T09:12:16.919731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-09-16T09:12:16.573611+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Honedge - s5l - 051/070 C - Japansk Pokemon Kort",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-15T22:06:15.077925+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax fotballkort Premier League samling",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476525391",
-      "funnet": "2026-09-15T22:02:15.304428+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
-      "funnet": "2026-09-15T22:02:14.681939+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
