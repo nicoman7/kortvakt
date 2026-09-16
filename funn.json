@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-16T08:54:22.933303+00:00",
+  "sist_sjekket": "2026-09-16T08:56:16.526379+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Newcastle United",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/440542300",
+      "funnet": "2026-09-16T08:56:16.524375+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Martin Zubimendi fotballkort game worn patch nummerert 05/09",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476540814",
+      "funnet": "2026-09-16T08:56:16.052818+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Deino - sv1a - 057/073 C - Japansk Pokemon Kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476523837",
+      "funnet": "2026-09-16T08:56:15.585385+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zorua - sm8b - 069/150 - Japansk Pokemon Kort",
       "pris": 80,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476524524",
       "funnet": "2026-09-15T21:30:36.199841+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome UCC#PP-29 Folarin Balogun Power Players Aqua #/199",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476524551",
-      "funnet": "2026-09-15T21:30:35.597941+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heracross genesis japanese cgc 8.5 pokemon kort",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438259826",
-      "funnet": "2026-09-15T21:28:16.012153+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Simplicidad UCC 25-26 Tijjani Reijnders Manchester City",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476524321",
-      "funnet": "2026-09-15T21:22:14.866806+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
