@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-16T17:43:00.567041+00:00",
+  "sist_sjekket": "2026-09-16T17:44:18.299054+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399362119",
+      "funnet": "2026-09-16T17:44:18.297289+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/399368384",
+      "funnet": "2026-09-16T17:44:17.976628+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotball- og pokemon kort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476586492",
+      "funnet": "2026-09-16T17:44:17.299775+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/259508052",
+      "funnet": "2026-09-16T17:44:16.567570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner - Paldea",
       "pris": 300,
@@ -1166,38 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
       "funnet": "2026-09-16T15:22:17.462396+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Floette ex #101 Pokemon Chaos Rising",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476565193",
-      "funnet": "2026-09-16T15:20:29.662725+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Slowbro EX GX 330 HP",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476572794",
-      "funnet": "2026-09-16T15:20:28.653157+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ampharos #90 Pokemon Chaos Rising",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476565177",
-      "funnet": "2026-09-16T15:20:27.868712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crustle #186 Pokemon Destined Rivals",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476565033",
-      "funnet": "2026-09-16T15:20:27.066709+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
