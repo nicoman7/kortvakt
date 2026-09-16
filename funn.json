@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-16T19:32:16.657475+00:00",
+  "sist_sjekket": "2026-09-16T19:34:18.512126+00:00",
   "funn": [
+    {
+      "tittel": "Nidoking #31 Pokemon Legendary Collection",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476595749",
+      "funnet": "2026-09-16T19:34:18.510165+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pikachu McDonald’s Promo japansk CGC 10",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476595795",
+      "funnet": "2026-09-16T19:34:17.872716+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-16T19:34:17.161743+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Komplett sett norske Hero-kort - Adrenalyn XL World Cup 2026",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-16T17:48:18.304123+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon- og fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476586976",
-      "funnet": "2026-09-16T17:48:17.417226+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort V/EX/GX blandet lot",
-      "pris": 1950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476586496",
-      "funnet": "2026-09-16T17:46:15.535169+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/399362119",
-      "funnet": "2026-09-16T17:44:18.297289+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
