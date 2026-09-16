@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-16T00:00:47.923830+00:00",
+  "sist_sjekket": "2026-09-16T00:02:16.581487+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard EX fra 151",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476527285",
+      "funnet": "2026-09-16T00:02:16.579769+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "8 Fotballkort VM 2026 Limited Edition (Yamal, Raphiniha m.fl)",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471294280",
       "funnet": "2026-09-15T19:20:52.913185+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bruno Fernandes-Topps Chrome Premier League 2025-26",
-      "pris": 425,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459215701",
-      "funnet": "2026-09-15T19:20:52.084065+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
