@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-17T15:38:16.221184+00:00",
+  "sist_sjekket": "2026-09-17T15:41:00.414967+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476653004",
+      "funnet": "2026-09-17T15:41:00.413414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon mini tinns med tilfeldig bulk!",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476651864",
+      "funnet": "2026-09-17T15:40:59.749221+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon N's Reshiram Ascended Heroes (154) Energy Symbol",
+      "pris": 7,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476652850",
+      "funnet": "2026-09-17T15:40:59.337044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu ex 150/128 SIR – 30th Celebration",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476652827",
+      "funnet": "2026-09-17T15:40:58.718865+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Match Attax Eco Pack samlekort 2025/26",
       "pris": 85,
@@ -1166,38 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476631702",
       "funnet": "2026-09-17T11:50:27.125713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 30/128 - 30th celebration",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476631518",
-      "funnet": "2026-09-17T11:48:16.276959+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar VMAX Single Strike kort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476631362",
-      "funnet": "2026-09-17T11:48:15.651229+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Greninja EX Box",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476631096",
-      "funnet": "2026-09-17T11:48:15.028502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 37/128 - 30th celebration",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476631381",
-      "funnet": "2026-09-17T11:46:15.222937+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
