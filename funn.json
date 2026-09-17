@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T16:26:16.249036+00:00",
+  "sist_sjekket": "2026-09-17T16:28:15.215757+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – Pikachu spesialkort / promosamling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476653515",
+      "funnet": "2026-09-17T16:28:15.214262+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Articuno IR #161/159 JTG EN 2025 Pokemon",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T12:36:18.803583+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Diverse hits fra 30th celebration",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476637168",
-      "funnet": "2026-09-17T12:32:17.424572+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
