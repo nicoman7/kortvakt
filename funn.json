@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T12:24:24.255547+00:00",
+  "sist_sjekket": "2026-09-17T12:26:16.587704+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476636429",
+      "funnet": "2026-09-17T12:26:16.586018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "*reservert* 1000 Pokémon kort med 100 holos🤩",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476636647",
+      "funnet": "2026-09-17T12:26:15.977546+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mewtwo promo, NM",
       "pris": 450,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476537969",
       "funnet": "2026-09-17T07:26:15.386741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Poliwrath holo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476610821",
-      "funnet": "2026-09-17T07:22:17.266133+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse hits fra Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476537600",
-      "funnet": "2026-09-17T07:22:16.442657+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
