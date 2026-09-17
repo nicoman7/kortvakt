@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T13:30:37.978231+00:00",
+  "sist_sjekket": "2026-09-17T13:32:15.743316+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476641226",
+      "funnet": "2026-09-17T13:32:15.741453+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Elite Trainer Box 30th Celebration",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476642451",
+      "funnet": "2026-09-17T13:32:15.012207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "eevee og eeveelutions-kort",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-17T09:08:54.671666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort lot – diverse full art / trainer galleri",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476617824",
-      "funnet": "2026-09-17T09:04:15.268241+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476050754",
-      "funnet": "2026-09-17T09:04:14.508995+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
