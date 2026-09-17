@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T09:16:14.358224+00:00",
+  "sist_sjekket": "2026-09-17T09:18:15.199001+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476618986",
+      "funnet": "2026-09-17T09:18:15.197579+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Stor bunke Pokémon-kort og samlekort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476597937",
       "funnet": "2026-09-16T20:04:19.016081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage Kort (Oppdater og lagt til mer)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476048792",
-      "funnet": "2026-09-16T20:02:16.749699+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
