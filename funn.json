@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T05:30:37.777349+00:00",
+  "sist_sjekket": "2026-09-17T05:32:50.339505+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476606724",
+      "funnet": "2026-09-17T05:32:50.337405+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser",
       "pris": 850,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476594993",
       "funnet": "2026-09-16T19:28:19.022425+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Storm emeralda binding kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476595025",
-      "funnet": "2026-09-16T19:28:18.079633+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
