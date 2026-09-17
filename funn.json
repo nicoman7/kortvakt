@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T14:16:15.648885+00:00",
+  "sist_sjekket": "2026-09-17T14:18:19.689459+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Destined Rivals boosterpakker",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476646304",
+      "funnet": "2026-09-17T14:18:19.687598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Jynx EX japansk holografisk",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476646430",
+      "funnet": "2026-09-17T14:18:18.783836+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Surging Sparks boosterpakker",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-17T09:38:18.957539+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Black bolt Pokemon ex kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476541430",
-      "funnet": "2026-09-17T09:38:18.136755+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "White flare Pokeball Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476541192",
-      "funnet": "2026-09-17T09:36:17.769618+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
