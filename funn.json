@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T21:16:18.112867+00:00",
+  "sist_sjekket": "2026-09-17T21:18:17.050109+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Sylveon ex Box",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476677275",
+      "funnet": "2026-09-17T21:18:17.048198+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "del 1 magic the gathering samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476676854",
+      "funnet": "2026-09-17T21:18:16.682653+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Collection samleboks",
       "pris": 1999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476666793",
       "funnet": "2026-09-17T18:42:15.667820+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Cynthia's Gabite - energy symbol",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476668083",
-      "funnet": "2026-09-17T18:42:14.964358+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Ditto, Machamp, Dark Gyarados, Zapdos m.m.",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476667674",
-      "funnet": "2026-09-17T18:40:24.253833+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
