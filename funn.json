@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T18:50:26.466551+00:00",
+  "sist_sjekket": "2026-09-17T18:52:25.017143+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonsamling i binder selges",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476668541",
+      "funnet": "2026-09-17T18:52:25.015276+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Ditto (Pikachu) 39/113 – EX Delta Species 2005",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476668840",
+      "funnet": "2026-09-17T18:52:23.700755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Star Wars Han Solo samlekort.",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476653221",
       "funnet": "2026-09-17T15:44:22.520108+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon N's Reshiram Ascended Heroes (154) Holofoil",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476653245",
-      "funnet": "2026-09-17T15:44:22.119749+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X EX kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476653075",
-      "funnet": "2026-09-17T15:42:19.387459+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
