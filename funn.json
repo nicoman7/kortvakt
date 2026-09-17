@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T10:20:25.515626+00:00",
+  "sist_sjekket": "2026-09-17T10:22:20.497772+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort i perm",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476623833",
+      "funnet": "2026-09-17T10:22:20.496016+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "3x Topps Gold Lion (Max Dowman, Cole Palmer, Florian Wirtz)",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-16T21:10:24.103670+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "K-pop fotokort / photocard Lee Know",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476601522",
-      "funnet": "2026-09-16T21:10:23.554595+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
