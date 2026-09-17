@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T23:04:15.721692+00:00",
+  "sist_sjekket": "2026-09-17T23:06:16.704065+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort lot",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476679506",
+      "funnet": "2026-09-17T23:06:16.701931+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - Ex & LV.X kort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476669110",
       "funnet": "2026-09-17T18:58:18.753913+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters Rothus, the Traveler samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459260201",
-      "funnet": "2026-09-17T18:56:16.535660+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
