@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T20:58:16.934139+00:00",
+  "sist_sjekket": "2026-09-17T21:00:50.820321+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon trainers",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476676745",
+      "funnet": "2026-09-17T21:00:50.818460+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort pitch black",
       "pris": 2,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476253160",
       "funnet": "2026-09-17T18:40:22.990524+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Martin Ødegaard the arsenal fotballkort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476667799",
-      "funnet": "2026-09-17T18:38:16.594336+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
