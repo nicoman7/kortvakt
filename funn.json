@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-17T14:32:17.275178+00:00",
+  "sist_sjekket": "2026-09-17T14:34:16.608312+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Flareon og Jolteon",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476647660",
+      "funnet": "2026-09-17T14:34:16.606392+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mega Zeraora EX kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476647592",
+      "funnet": "2026-09-17T14:34:15.980592+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Mew og Mewtwo samlekort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476647788",
+      "funnet": "2026-09-17T14:34:15.275768+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Meowth kort – spesialillustrasjon med Pikachu",
       "pris": 650,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476616772",
       "funnet": "2026-09-17T09:50:26.429520+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Eden Hazard Chelsea FC fotballkort 68/75",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476621352",
-      "funnet": "2026-09-17T09:50:25.407506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Gardevoir ex 178/143",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476621246",
-      "funnet": "2026-09-17T09:48:20.739193+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "League of Legends samlekort Leona overnumbered",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476621294",
-      "funnet": "2026-09-17T09:48:19.877471+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
