@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T11:08:15.668460+00:00",
+  "sist_sjekket": "2026-09-17T11:10:24.158167+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Capsakid #207",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476628184",
+      "funnet": "2026-09-17T11:10:24.156458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Anniversary Div. Sealed.",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476627150",
+      "funnet": "2026-09-17T11:10:23.471042+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Rayquaza VMAX kort CGC 10",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-16T21:58:15.191464+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Murkrow - PALen 131/193 - Pokemon Kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476576807",
-      "funnet": "2026-09-16T21:54:16.950306+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Maschiff - PALen 141/193 - Pokemon Kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476575755",
-      "funnet": "2026-09-16T21:52:15.324442+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
