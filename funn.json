@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-17T18:18:15.380141+00:00",
+  "sist_sjekket": "2026-09-17T18:20:26.760314+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Kingambit - Energy symbol",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476666480",
+      "funnet": "2026-09-17T18:20:26.758126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Bayleef - Friend ball",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476666396",
+      "funnet": "2026-09-17T18:20:25.887527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Antonio Nusa Topps Chrome rookie",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476666079",
+      "funnet": "2026-09-17T18:20:25.338779+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ethan's Slugma - Pokéball symbol",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-17T15:10:36.356310+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Sylveon GX kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476650493",
-      "funnet": "2026-09-17T15:10:36.020381+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu Rumble",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476650508",
-      "funnet": "2026-09-17T15:10:35.117168+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Goldeen Prismatic Evolutions (20) Reverse Holo",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476650203",
-      "funnet": "2026-09-17T15:06:15.290596+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
