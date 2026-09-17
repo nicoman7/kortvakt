@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T20:48:17.039375+00:00",
+  "sist_sjekket": "2026-09-17T20:50:26.417586+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475705028",
+      "funnet": "2026-09-17T20:50:26.415703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-09-17T20:50:25.330920+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manchester United – Shea Lacey Future Stars #18 – Topps Premier League 2026/27",
       "pris": 49,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/459072936",
       "funnet": "2026-09-17T18:36:17.771866+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Masters Hide and Seek samle kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459074036",
-      "funnet": "2026-09-17T18:36:17.000538+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Espathra kort - cosmos holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476667698",
-      "funnet": "2026-09-17T18:36:16.574265+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
