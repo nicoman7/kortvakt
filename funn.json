@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T17:06:17.890307+00:00",
+  "sist_sjekket": "2026-09-17T17:08:16.213648+00:00",
   "funn": [
+    {
+      "tittel": "Panini Select Kylian Mbappé EM 2020",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476660706",
+      "funnet": "2026-09-17T17:08:16.211758+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476660341",
+      "funnet": "2026-09-17T17:08:15.333421+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Le Sserafim Sakura Target Exclusive Fotokort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476645954",
       "funnet": "2026-09-17T14:16:15.647045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Top loader perm/binder til samlekort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476645761",
-      "funnet": "2026-09-17T14:10:26.573025+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Palossand EX #123",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476644950",
-      "funnet": "2026-09-17T14:08:17.813322+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
