@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T21:18:17.050109+00:00",
+  "sist_sjekket": "2026-09-17T21:20:21.481901+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-17T21:20:21.480097+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Sylveon ex Box",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476668209",
       "funnet": "2026-09-17T18:42:16.285633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Elite Trainer Box",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476666793",
-      "funnet": "2026-09-17T18:42:15.667820+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
