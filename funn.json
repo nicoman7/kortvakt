@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T10:36:16.087314+00:00",
+  "sist_sjekket": "2026-09-17T10:38:14.923024+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter samlede kort / samlekort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476625292",
+      "funnet": "2026-09-17T10:38:14.921148+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon GO bok med tips og triks",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476602097",
       "funnet": "2026-09-16T21:26:14.982703+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Monopoly Prizm Harry Kane Blue Parallel",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476602138",
-      "funnet": "2026-09-16T21:26:14.537932+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
