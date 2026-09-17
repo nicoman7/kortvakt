@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T16:16:28.339493+00:00",
+  "sist_sjekket": "2026-09-17T16:19:59.281419+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kortbunke med samlemappe",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476656020",
+      "funnet": "2026-09-17T16:19:59.279675+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Film & TV stjerneserie HB 1 samlekort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-09-17T12:28:14.974667+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476636429",
-      "funnet": "2026-09-17T12:26:16.586018+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
