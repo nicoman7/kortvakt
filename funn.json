@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T10:10:23.863262+00:00",
+  "sist_sjekket": "2026-09-17T10:12:17.807362+00:00",
   "funn": [
+    {
+      "tittel": "3x Topps Gold Lion (Max Dowman, Cole Palmer, Florian Wirtz)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476623096",
+      "funnet": "2026-09-17T10:12:17.805496+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nummerert fotballkort av Zidane selges!",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476617856",
+      "funnet": "2026-09-17T10:12:17.186912+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Krabby kort 40 HP",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-16T21:10:23.554595+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini fotballkort - Cristiano Ronaldo 2006🇵🇹",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476601461",
-      "funnet": "2026-09-16T21:08:15.714468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort common/uncommon",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476600979",
-      "funnet": "2026-09-16T21:08:15.315739+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
