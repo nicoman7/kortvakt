@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T14:02:20.094162+00:00",
+  "sist_sjekket": "2026-09-17T14:04:17.772280+00:00",
   "funn": [
+    {
+      "tittel": "Rosa perm/binder for samlekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476645186",
+      "funnet": "2026-09-17T14:04:17.770676+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort World Cup USA 94 Upper Deck",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T09:22:16.269552+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps fotballkort Premier League Bundle - 50 cards 110kr",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476619208",
-      "funnet": "2026-09-17T09:22:15.649997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
