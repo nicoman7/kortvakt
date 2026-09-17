@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T18:20:26.760314+00:00",
+  "sist_sjekket": "2026-09-17T18:22:20.199131+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – vintage kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476666375",
+      "funnet": "2026-09-17T18:22:20.197447+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Team Rocket’s Spidops - R symbol",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476666565",
+      "funnet": "2026-09-17T18:22:19.405358+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Kingambit - Energy symbol",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-17T15:10:37.127506+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Seaking Prismatic Evolutions (21) Reverse Holo",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476650472",
-      "funnet": "2026-09-17T15:10:36.717928+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk kun holo/reverse holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476650434",
-      "funnet": "2026-09-17T15:10:36.356310+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
