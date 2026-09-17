@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T08:42:17.452393+00:00",
+  "sist_sjekket": "2026-09-17T08:44:16.418238+00:00",
   "funn": [
+    {
+      "tittel": "High end PSA/CGC graderte kort | Skyridge - Aquapolis - Call of legends",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470545974",
+      "funnet": "2026-09-17T08:44:16.416314+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Prismatic  evolution Pokemon ex kort",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476594098",
       "funnet": "2026-09-16T19:58:32.012654+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Richard Verschoor Topps Chrome F1 Green RayWave /99 – CGC 8",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476597331",
-      "funnet": "2026-09-16T19:56:26.765690+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
