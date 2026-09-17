@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T21:44:13.863142+00:00",
+  "sist_sjekket": "2026-09-17T21:46:16.626060+00:00",
   "funn": [
+    {
+      "tittel": "Selger en stor samling Pokémon-kort samlet.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476677072",
+      "funnet": "2026-09-17T21:46:16.624112+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Shiny Treasure EX - Booster Box (Gratis frakt)",
       "pris": 1849,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476668609",
       "funnet": "2026-09-17T18:48:15.084656+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rolycoly - energy symbol",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476668463",
-      "funnet": "2026-09-17T18:46:18.907553+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
