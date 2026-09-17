@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T17:32:19.173307+00:00",
+  "sist_sjekket": "2026-09-17T17:34:17.803439+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-17T17:34:17.801750+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlepermer for kort",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476646865",
       "funnet": "2026-09-17T14:30:42.121641+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL VM 2018. Over 180 forskjellige kort i perm selges",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476646784",
-      "funnet": "2026-09-17T14:30:41.488363+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
