@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T15:56:16.380378+00:00",
+  "sist_sjekket": "2026-09-17T15:58:16.334705+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mew ex (gull metall)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476654383",
+      "funnet": "2026-09-17T15:58:16.333130+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gothitelle - PALen 092/193 - Pokemon Kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476578633",
+      "funnet": "2026-09-17T15:58:15.706056+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dachsbun - PAFen 039/091 - Pokemon Kort",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476635083",
       "funnet": "2026-09-17T12:10:37.306888+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hop’s Zacian ex 176/159 – Journey Together – Ultra Rare Full Art",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476635013",
-      "funnet": "2026-09-17T12:10:36.521213+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Metagross Delta Species holo samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476635100",
-      "funnet": "2026-09-17T12:10:35.786408+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
