@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T17:18:14.421890+00:00",
+  "sist_sjekket": "2026-09-17T17:20:36.298552+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlepermer for kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476661185",
+      "funnet": "2026-09-17T17:20:36.297234+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476646784",
       "funnet": "2026-09-17T14:30:41.488363+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Galarian Cursola V #103",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476647039",
-      "funnet": "2026-09-17T14:30:40.746063+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
