@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T23:10:25.585499+00:00",
+  "sist_sjekket": "2026-09-17T23:12:17.871985+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Blastoise 2/127 Holo -NM/LP",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476679504",
+      "funnet": "2026-09-17T23:12:17.870197+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 4 kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T18:58:20.286562+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Holo Absol kort",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476669412",
-      "funnet": "2026-09-17T18:58:19.529390+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
