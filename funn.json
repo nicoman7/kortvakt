@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-17T10:50:23.433355+00:00",
+  "sist_sjekket": "2026-09-17T10:52:14.674833+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon. tar imot bud. Pikachu, Mewtwo m.m.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476626780",
+      "funnet": "2026-09-17T10:52:14.673050+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Kingambit #294",
       "pris": 39,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476602427",
       "funnet": "2026-09-16T21:36:18.551461+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Steven Gerrard & Stevie G Topps Liverpool /25",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476602188",
-      "funnet": "2026-09-16T21:36:18.028250+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
