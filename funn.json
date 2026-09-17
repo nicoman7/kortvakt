@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-17T09:20:24.483577+00:00",
+  "sist_sjekket": "2026-09-17T09:22:16.271493+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476619305",
+      "funnet": "2026-09-17T09:22:16.269552+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps fotballkort Premier League Bundle - 50 cards 110kr",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476619208",
+      "funnet": "2026-09-17T09:22:15.649997+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort VM 2026",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476596356",
       "funnet": "2026-09-16T20:12:18.328770+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Lorcana kortpakker Mickey Mouse",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476598093",
-      "funnet": "2026-09-16T20:08:18.459552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Lights Out F1 McLaren Powertrain Gold /50",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476597937",
-      "funnet": "2026-09-16T20:04:19.016081+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
