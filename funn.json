@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-18T05:38:14.234107+00:00",
+  "sist_sjekket": "2026-09-18T05:40:27.362312+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon : 5 ETB'er fulle av bulk kort !",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476199745",
+      "funnet": "2026-09-18T05:40:27.360533+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Trainer secret rare",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476682414",
+      "funnet": "2026-09-18T05:40:26.914411+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mewtwo ex pokemon 30th celebation",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476682480",
+      "funnet": "2026-09-18T05:40:26.062925+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard EX",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476682440",
+      "funnet": "2026-09-18T05:40:25.687170+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-17T19:18:15.038250+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended heroes base settV- og full art-kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476326587",
-      "funnet": "2026-09-17T19:14:21.230909+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG First Partner Illustration Collection Series 3 samlebokser",
-      "pris": 579,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474215396",
-      "funnet": "2026-09-17T19:14:20.601027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended heroes  base Mastersett påbegynt",
-      "pris": 1450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472066439",
-      "funnet": "2026-09-17T19:14:19.916123+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Team Rocket Elite Trainer Box samleboks",
-      "pris": 1899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475381742",
-      "funnet": "2026-09-17T19:14:19.618633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
