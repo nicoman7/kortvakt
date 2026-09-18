@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T15:04:19.096187+00:00",
+  "sist_sjekket": "2026-09-18T15:06:15.000274+00:00",
   "funn": [
+    {
+      "tittel": "Koraidon ex - Jumbo kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476724808",
+      "funnet": "2026-09-18T15:06:14.998526+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476724162",
+      "funnet": "2026-09-18T15:06:14.615636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 30th Celebration",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476712600",
       "funnet": "2026-09-18T12:44:17.945529+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476712682",
-      "funnet": "2026-09-18T12:44:17.204551+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Champions League fotball 2013/2014 blå og hvit",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476712587",
-      "funnet": "2026-09-18T12:44:16.514409+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
