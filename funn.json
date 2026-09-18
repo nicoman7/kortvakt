@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T08:42:13.808857+00:00",
+  "sist_sjekket": "2026-09-18T08:44:14.389550+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476688712",
+      "funnet": "2026-09-18T08:44:14.388086+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling gamle fotballkort. Over 420 kort fra 70 tallet selges.",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476674273",
       "funnet": "2026-09-17T20:16:17.674155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary bulk med terninger",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476674785",
-      "funnet": "2026-09-17T20:16:16.897810+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
