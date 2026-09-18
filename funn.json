@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T15:38:22.214204+00:00",
+  "sist_sjekket": "2026-09-18T15:40:23.602986+00:00",
   "funn": [
+    {
+      "tittel": "Mange Topps fotballkort fra årets sesong",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451443246",
+      "funnet": "2026-09-18T15:40:23.601531+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse Pokemon-kort selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476727563",
+      "funnet": "2026-09-18T15:40:22.975386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League 2026 parallellkort",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476715184",
       "funnet": "2026-09-18T13:12:17.823528+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charizard G LV.X samlekort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476714947",
-      "funnet": "2026-09-18T13:10:38.259121+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – brann-type samlekort pakke",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476714866",
-      "funnet": "2026-09-18T13:10:37.885222+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
