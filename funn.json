@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T09:02:16.594711+00:00",
+  "sist_sjekket": "2026-09-18T09:04:14.874359+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476692849",
+      "funnet": "2026-09-18T09:04:14.872641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort til Carsten",
       "pris": 347,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476259722",
       "funnet": "2026-09-17T20:22:14.550321+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions boosterpakker",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476674896",
-      "funnet": "2026-09-17T20:18:17.212109+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
