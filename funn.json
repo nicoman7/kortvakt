@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T11:38:15.972372+00:00",
+  "sist_sjekket": "2026-09-18T11:40:27.146921+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476706882",
+      "funnet": "2026-09-18T11:40:27.145406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Lamine Yamal – Topps Finest – 3 kort",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476682440",
       "funnet": "2026-09-18T05:40:25.687170+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476681430",
-      "funnet": "2026-09-18T04:42:17.003885+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
