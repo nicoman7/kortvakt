@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T16:02:18.830273+00:00",
+  "sist_sjekket": "2026-09-18T16:04:15.891706+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476729286",
+      "funnet": "2026-09-18T16:04:15.890100+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Celebrations Greninja EX Box samleboks",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476729510",
+      "funnet": "2026-09-18T16:04:15.263386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Kabutops ex samlekort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476729576",
+      "funnet": "2026-09-18T16:04:14.626491+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 1499,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-18T13:38:16.791977+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fulham – Josh King Future Stars #12 – Topps Premier League 2026/27",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476709813",
-      "funnet": "2026-09-18T13:38:16.104833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Larvitar Holo Topps  246",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476717079",
-      "funnet": "2026-09-18T13:36:15.487251+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – samling med Psychic-type kort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476717040",
-      "funnet": "2026-09-18T13:34:38.383851+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
