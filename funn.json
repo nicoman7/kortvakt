@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T20:18:16.458583+00:00",
+  "sist_sjekket": "2026-09-18T20:20:26.541377+00:00",
   "funn": [
+    {
+      "tittel": "Zekrom [Holo] 010/025 - Pokemon Celebrations",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476746901",
+      "funnet": "2026-09-18T20:20:26.540128+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hits med pokemon kort",
       "pris": 123,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T18:48:16.608033+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Roserade TG02/TG30 – Lost Origin (Trainer Gallery Character Rare)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476741574",
-      "funnet": "2026-09-18T18:48:16.201529+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
