@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T20:04:18.370387+00:00",
+  "sist_sjekket": "2026-09-18T20:06:14.601526+00:00",
   "funn": [
+    {
+      "tittel": "Flaaffy 42/123 - Pokemon HeartGold & SoulSilver",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476746362",
+      "funnet": "2026-09-18T20:06:14.599750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Azumarill 77/114 - Pokemon Steam Siege",
       "pris": 29,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476740859",
       "funnet": "2026-09-18T18:36:19.224167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Binder for samlekort",
-      "pris": 239,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476740981",
-      "funnet": "2026-09-18T18:36:18.616245+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
