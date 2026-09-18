@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-18T12:58:18.550477+00:00",
+  "sist_sjekket": "2026-09-18T13:00:52.355895+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samling med trener- og itemkort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476713888",
+      "funnet": "2026-09-18T13:00:52.354474+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Animals of the World samlebokser med klistremerker",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476713988",
+      "funnet": "2026-09-18T13:00:51.980020+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sjeldent Arsenal kort selges.",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463368831",
+      "funnet": "2026-09-18T13:00:51.156824+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sylveon ex SAR (130/103) – Japansk Pokémon-kort | Mint / Near Mint",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476713936",
+      "funnet": "2026-09-18T13:00:50.792964+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary Alolan Exeggutor 129/128",
       "pris": 550,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476691083",
       "funnet": "2026-09-18T08:30:38.160651+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG - Unova trio fra First Partner Illustration Series 2",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468510020",
-      "funnet": "2026-09-18T08:24:18.486658+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th anniversary hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476690631",
-      "funnet": "2026-09-18T08:24:17.719300+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476690119",
-      "funnet": "2026-09-18T08:20:25.696703+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "80 fotballkort. Salah, Rodry++",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476690027",
-      "funnet": "2026-09-18T08:20:25.419754+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
