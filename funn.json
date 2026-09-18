@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T13:16:20.588624+00:00",
+  "sist_sjekket": "2026-09-18T13:18:18.176976+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – eventyr- og fe-type samlekort, 9 stk",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476715694",
+      "funnet": "2026-09-18T13:18:18.175516+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Trainer Switch holografisk kort",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476693848",
       "funnet": "2026-09-18T09:14:18.212846+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon GX kort samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476694623",
-      "funnet": "2026-09-18T09:14:17.255800+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
