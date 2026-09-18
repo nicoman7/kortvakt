@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T13:38:17.468017+00:00",
+  "sist_sjekket": "2026-09-18T13:40:25.072427+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Energy kort – blandet pakke",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476717576",
+      "funnet": "2026-09-18T13:40:25.070598+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Chandelure 43/119 Holo – Phantom Forces – 2014",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476717734",
+      "funnet": "2026-09-18T13:40:24.693877+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bulk med Pokemon kort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476696827",
       "funnet": "2026-09-18T09:46:19.304792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals, 4-art sett",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476696759",
-      "funnet": "2026-09-18T09:46:18.909931+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476696995",
-      "funnet": "2026-09-18T09:46:18.088808+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
