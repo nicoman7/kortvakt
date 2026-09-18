@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T16:00:51.742150+00:00",
+  "sist_sjekket": "2026-09-18T16:02:18.830273+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476729373",
+      "funnet": "2026-09-18T16:02:18.828722+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Sylveon EX Box samleboks",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476729221",
+      "funnet": "2026-09-18T16:02:18.360661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-18T16:02:18.007949+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 1999,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-18T13:34:38.383851+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon tin, 30th. Selges samlet.",
-      "pris": 1389,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476716688",
-      "funnet": "2026-09-18T13:32:20.815860+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Larvitar Topps  246",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476716853",
-      "funnet": "2026-09-18T13:32:19.719713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: bytte mot 30th",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476716964",
-      "funnet": "2026-09-18T13:32:18.914830+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
