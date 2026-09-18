@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T09:52:13.121436+00:00",
+  "sist_sjekket": "2026-09-18T09:54:22.224361+00:00",
   "funn": [
+    {
+      "tittel": "Rosa TCG album",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476697425",
+      "funnet": "2026-09-18T09:54:22.222702+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th produkter",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476697419",
+      "funnet": "2026-09-18T09:54:21.502961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG - Pokemon 30th Celebration ETB",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476697647",
+      "funnet": "2026-09-18T09:54:21.127028+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Dustox #195",
       "pris": 29,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-17T21:24:17.191232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "del 2 magic the gathering samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677379",
-      "funnet": "2026-09-17T21:24:16.365746+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-17T21:20:21.480097+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Sylveon ex Box",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677275",
-      "funnet": "2026-09-17T21:18:17.048198+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
