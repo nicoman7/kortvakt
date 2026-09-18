@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T13:08:26.154465+00:00",
+  "sist_sjekket": "2026-09-18T13:10:38.260553+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard G LV.X samlekort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476714947",
+      "funnet": "2026-09-18T13:10:38.259121+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort – brann-type samlekort pakke",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476714866",
+      "funnet": "2026-09-18T13:10:37.885222+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort venusaur Xy123",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476692952",
       "funnet": "2026-09-18T08:54:21.019252+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th year anniversry",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476692354",
-      "funnet": "2026-09-18T08:48:16.904353+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476688712",
-      "funnet": "2026-09-18T08:44:14.388086+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
