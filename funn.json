@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T06:42:18.445070+00:00",
+  "sist_sjekket": "2026-09-18T06:44:17.607476+00:00",
   "funn": [
+    {
+      "tittel": "Topps Premier League 2026",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476684423",
+      "funnet": "2026-09-18T06:44:17.605469+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eternos Panini Set",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T19:34:16.528621+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "54 pokemon kort – selges samlet eller enkeltvis",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476671803",
-      "funnet": "2026-09-17T19:34:15.907621+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
