@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T18:54:15.129915+00:00",
+  "sist_sjekket": "2026-09-18T18:56:17.116480+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476742048",
+      "funnet": "2026-09-18T18:56:17.114941+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gengar 094/165 – Pokémon 151 (Rare Holo – Tomokazu Komiya)",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476742093",
+      "funnet": "2026-09-18T18:56:16.347865+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard pokemonkort",
       "pris": 649,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476733104",
       "funnet": "2026-09-18T16:50:25.723835+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Azurill (JP) 054/076 - Pokemon Storm Emeralda",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476732918",
-      "funnet": "2026-09-18T16:48:15.712352+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidoran (JP) 041/076 - Pokemon Storm Emeralda",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476732720",
-      "funnet": "2026-09-18T16:46:17.456098+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
