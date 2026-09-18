@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T06:40:26.326690+00:00",
+  "sist_sjekket": "2026-09-18T06:42:18.445070+00:00",
   "funn": [
+    {
+      "tittel": "Eternos Panini Set",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476684304",
+      "funnet": "2026-09-18T06:42:18.442954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort N Trainer Supporter full art",
       "pris": 999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T19:34:15.907621+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Match Attax samling fotballkort Premier League og Champions League",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476671687",
-      "funnet": "2026-09-17T19:32:19.894827+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
