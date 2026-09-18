@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T22:28:16.887731+00:00",
+  "sist_sjekket": "2026-09-18T22:30:35.506651+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Slowbro 14/112. Gi bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476750880",
+      "funnet": "2026-09-18T22:30:35.504877+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon M Slowbro EX kort BGS 8.5",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476745229",
       "funnet": "2026-09-18T19:46:18.995936+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GIGABULK Pokemon SR’s i Japansk 50stk",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476744923",
-      "funnet": "2026-09-18T19:44:19.314501+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
