@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T20:38:18.015611+00:00",
+  "sist_sjekket": "2026-09-18T20:40:23.431359+00:00",
   "funn": [
+    {
+      "tittel": "Prinplup 44/100 - Pokemon Majestic Dawn",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476747763",
+      "funnet": "2026-09-18T20:40:23.429365+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Joltik 33/98 - Pokemon Emerging Powers",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T19:08:17.682833+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotball kort mappe",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469551005",
-      "funnet": "2026-09-18T19:08:16.846695+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
