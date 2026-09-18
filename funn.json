@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T10:08:18.579882+00:00",
+  "sist_sjekket": "2026-09-18T10:10:25.072374+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476698107",
+      "funnet": "2026-09-18T10:10:25.070527+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pikachu VMAX samleboks",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476698821",
+      "funnet": "2026-09-18T10:10:24.686645+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hits fra Pokemon 30th Celebration",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476698483",
+      "funnet": "2026-09-18T10:10:23.893977+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser",
       "pris": 850,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-17T21:40:24.328779+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "del 4 magic the gathering samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677783",
-      "funnet": "2026-09-17T21:32:22.329172+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - 30th anniversary hits",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677486",
-      "funnet": "2026-09-17T21:28:18.882972+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "del 3 magic the gathering samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677622",
-      "funnet": "2026-09-17T21:28:18.513302+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
