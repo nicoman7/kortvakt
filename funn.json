@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T13:56:18.706594+00:00",
+  "sist_sjekket": "2026-09-18T13:58:14.878471+00:00",
   "funn": [
+    {
+      "tittel": "30th Anniversary Pikachu",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476719446",
+      "funnet": "2026-09-18T13:58:14.876726+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Poliwrath samlekort",
       "pris": 1099,
@@ -1190,14 +1198,6 @@
       "pris": 1800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476701591",
       "funnet": "2026-09-18T10:38:17.889532+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box 25th Anniversary samleboks",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476701123",
-      "funnet": "2026-09-18T10:34:54.152008+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
