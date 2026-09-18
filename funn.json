@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T04:40:25.681190+00:00",
+  "sist_sjekket": "2026-09-18T04:42:17.005844+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476681430",
+      "funnet": "2026-09-18T04:42:17.003885+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 1899,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475381742",
       "funnet": "2026-09-17T19:14:19.618633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon First Partner Illustration Collection Series 2 samlekort",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471898712",
-      "funnet": "2026-09-17T19:14:19.266381+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
