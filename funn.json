@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T09:48:17.326449+00:00",
+  "sist_sjekket": "2026-09-18T09:50:24.643503+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dustox #195",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476697413",
+      "funnet": "2026-09-18T09:50:24.641841+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration booster box og premium deck",
+      "pris": 1990,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476695824",
+      "funnet": "2026-09-18T09:50:23.710726+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Garganacl #70",
       "pris": 29,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-17T21:18:17.048198+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "del 1 magic the gathering samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476676854",
-      "funnet": "2026-09-17T21:18:16.682653+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Collection samleboks",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476677169",
-      "funnet": "2026-09-17T21:16:18.110870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
