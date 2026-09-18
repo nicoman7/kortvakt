@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T16:40:24.214732+00:00",
+  "sist_sjekket": "2026-09-18T16:42:14.745845+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon slabs til salgs",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476731581",
+      "funnet": "2026-09-18T16:42:14.744132+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Sean Steur Ajax",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476732545",
+      "funnet": "2026-09-18T16:42:14.448446+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kinesisk Trainer Gallery",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476719224",
       "funnet": "2026-09-18T14:00:53.709678+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Misty's Psyduck #255",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476719237",
-      "funnet": "2026-09-18T14:00:52.982512+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Espeon ex 070/128 Double Rare Holo fra 30th Celebration",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476719986",
-      "funnet": "2026-09-18T14:00:52.293726+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
