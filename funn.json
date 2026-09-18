@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T10:52:14.934651+00:00",
+  "sist_sjekket": "2026-09-18T10:54:15.262377+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 30th anniversary",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476702660",
+      "funnet": "2026-09-18T10:54:15.260469+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th Celebration perm, Pikachu-kort, ex & tilbehør",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T23:10:25.583292+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort lot",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476679506",
-      "funnet": "2026-09-17T23:06:16.701931+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
