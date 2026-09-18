@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T10:12:14.918907+00:00",
+  "sist_sjekket": "2026-09-18T10:14:15.343002+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Zekrom holografisk",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476699322",
+      "funnet": "2026-09-18T10:14:15.341228+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Samlekort",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-17T21:42:15.045547+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Zeraora EX holografisk",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476678041",
-      "funnet": "2026-09-17T21:40:24.328779+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
