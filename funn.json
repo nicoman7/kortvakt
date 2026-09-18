@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T20:16:18.196580+00:00",
+  "sist_sjekket": "2026-09-18T20:18:16.458583+00:00",
   "funn": [
+    {
+      "tittel": "Hits med pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476746456",
+      "funnet": "2026-09-18T20:18:16.456884+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Jigglypuff 65/124 - Pokemon Fates Collide",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476746830",
+      "funnet": "2026-09-18T20:18:15.830685+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL. Stort utvalg VM Kort! Oppdatert 18.9",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-09-18T20:18:15.542252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Electrode [Reverse Holo] 22/108 - Pokemon Roaring Skies",
       "pris": 39,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476741574",
       "funnet": "2026-09-18T18:48:16.201529+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle fotball kort 123 stk.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476741045",
-      "funnet": "2026-09-18T18:44:19.749190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heatmor 104/086 – White Flare (Illustration Rare Full-Art)",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476741369",
-      "funnet": "2026-09-18T18:44:18.926199+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling pokemon",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476740799",
-      "funnet": "2026-09-18T18:44:18.592256+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
