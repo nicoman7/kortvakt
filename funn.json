@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-18T13:32:20.817884+00:00",
+  "sist_sjekket": "2026-09-18T13:34:38.385646+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samling med Psychic-type kort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476717040",
+      "funnet": "2026-09-18T13:34:38.383851+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon tin, 30th. Selges samlet.",
       "pris": 1389,
@@ -1190,14 +1198,6 @@
       "pris": 1250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476695184",
       "funnet": "2026-09-18T09:34:20.627345+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Clampearl #102",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476696103",
-      "funnet": "2026-09-18T09:34:19.931501+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
