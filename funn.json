@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-18T18:46:14.873351+00:00",
+  "sist_sjekket": "2026-09-18T18:48:16.609846+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476741107",
+      "funnet": "2026-09-18T18:48:16.608033+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Roserade TG02/TG30 – Lost Origin (Trainer Gallery Character Rare)",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476741574",
+      "funnet": "2026-09-18T18:48:16.201529+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamle fotball kort 123 stk.",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476732329",
       "funnet": "2026-09-18T16:40:24.212884+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax GX holografisk kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476732282",
-      "funnet": "2026-09-18T16:40:23.788729+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Elliott Anderson",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476732382",
-      "funnet": "2026-09-18T16:40:23.140543+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
