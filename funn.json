@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T21:38:15.029806+00:00",
+  "sist_sjekket": "2026-09-18T21:40:33.156435+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling – blandet",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463712547",
+      "funnet": "2026-09-18T21:40:33.155047+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration boosterpakker med Eevee-kort og mynt",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476749769",
+      "funnet": "2026-09-18T21:40:32.799326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "VINTAGE pokemonkort!!",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/461428934",
+      "funnet": "2026-09-18T21:40:31.918259+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Pikachu kort",
       "pris": 400,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476744338",
       "funnet": "2026-09-18T19:30:39.808016+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Detective Pikachu samlekort PSA-slab",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476259722",
-      "funnet": "2026-09-18T19:30:39.031389+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 047/128 – 25/30 30th Celebration",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476744016",
-      "funnet": "2026-09-18T19:28:26.352845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Emolga #49/113 (Legendary Treasures) Vintage Pokemon kort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476744126",
-      "funnet": "2026-09-18T19:28:25.954972+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
