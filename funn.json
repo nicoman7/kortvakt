@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-18T09:22:15.509156+00:00",
+  "sist_sjekket": "2026-09-18T09:24:19.422423+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort blandet lot",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476695095",
+      "funnet": "2026-09-18T09:24:19.420797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Houndour #115",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476695235",
+      "funnet": "2026-09-18T09:24:19.033201+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Delibird #74",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476695358",
+      "funnet": "2026-09-18T09:24:18.039724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "OP13 Sabo 3rd Anniversary leader kort",
       "pris": 1800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-09-17T20:38:15.080604+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte fotballkort PSA",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476675588",
-      "funnet": "2026-09-17T20:34:18.911707+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "💎Custom Mystery Pokemon 💎",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476675634",
-      "funnet": "2026-09-17T20:34:18.115001+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th celebration pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476658753",
-      "funnet": "2026-09-17T20:34:17.107564+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
