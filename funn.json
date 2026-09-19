@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T14:50:24.189600+00:00",
+  "sist_sjekket": "2026-09-19T14:52:19.166871+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, pokemon trader reverse",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476804446",
+      "funnet": "2026-09-19T14:52:19.165615+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-19T14:52:18.811996+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort (JP)– Cynthia’s Gabite 089/193 (Energy Symbol Pattern)",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476793808",
       "funnet": "2026-09-19T13:16:17.616180+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Rose Shiny Star V (178)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476793765",
-      "funnet": "2026-09-19T13:16:16.557743+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476793837",
-      "funnet": "2026-09-19T13:16:15.760170+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
