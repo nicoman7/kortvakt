@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T10:28:14.113265+00:00",
+  "sist_sjekket": "2026-09-19T10:30:34.836173+00:00",
   "funn": [
+    {
+      "tittel": "Fans ver m/ Minsung fotokort",
+      "pris": 379,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476773830",
+      "funnet": "2026-09-19T10:30:34.834693+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Salamence EX 320 HP",
       "pris": 490,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T07:34:16.145679+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charizard VSTAR  PSA 10",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476758006",
-      "funnet": "2026-09-19T07:26:17.157977+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
