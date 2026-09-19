@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T16:40:23.773965+00:00",
+  "sist_sjekket": "2026-09-19T16:42:51.397089+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476815175",
+      "funnet": "2026-09-19T16:42:51.395426+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-09-19T16:42:51.079821+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magikarp 19/98 - Pokemon Ancient Origins",
       "pris": 29,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476804861",
       "funnet": "2026-09-19T14:56:17.033693+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kyurem 116/203 – Evolving Skies – Holo Rare",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476805220",
-      "funnet": "2026-09-19T14:56:16.143301+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon UPC og ETB",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476804751",
-      "funnet": "2026-09-19T14:54:52.077366+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
