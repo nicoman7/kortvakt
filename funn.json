@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-19T20:24:16.524660+00:00",
+  "sist_sjekket": "2026-09-19T20:26:19.319505+00:00",
   "funn": [
+    {
+      "tittel": "NHL Hockeykort – Toronto Maple Leafs",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476830662",
+      "funnet": "2026-09-19T20:26:19.317784+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon binder med 540 lommer",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476830587",
+      "funnet": "2026-09-19T20:26:18.421424+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Umbreon V #100 – VMAX Climax – Japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476830901",
+      "funnet": "2026-09-19T20:26:18.081415+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage japanske pokemon kort selges enkeltvis",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476825739",
       "funnet": "2026-09-19T19:04:18.152374+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hvit ramme til samlekort / Pokémon-kort med plass til 8 kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475872283",
-      "funnet": "2026-09-19T19:04:17.830569+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam lv.47 #2/123 Reversed Holo (Mysterious Treasures) Vintage Pokemon kort",
-      "pris": 345,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476429103",
-      "funnet": "2026-09-19T19:04:17.044689+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024 Pokémon SFA EN Persian Illustration Rare PSA 9",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475872811",
-      "funnet": "2026-09-19T19:04:16.268566+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
