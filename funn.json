@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-19T09:44:16.487258+00:00",
+  "sist_sjekket": "2026-09-19T09:46:15.310554+00:00",
   "funn": [
+    {
+      "tittel": "Mykhailo Mudryk RC Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476770019",
+      "funnet": "2026-09-19T09:46:15.308860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon 2-pack Blister",
+      "pris": 649,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476769234",
+      "funnet": "2026-09-19T09:46:14.858151+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Pokemon 30th Celebration Poster Collection",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476769750",
+      "funnet": "2026-09-19T09:46:14.420636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Enzo Fernandez RC Fotballkort",
       "pris": 75,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-18T23:14:20.136047+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026 - Base, Inserts & Parallels",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476745954",
-      "funnet": "2026-09-18T23:00:48.613984+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Beast Mode Josh King samlekort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476751351",
-      "funnet": "2026-09-18T22:58:18.823665+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Poster Collection samleboks",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476751366",
-      "funnet": "2026-09-18T22:58:18.043240+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
