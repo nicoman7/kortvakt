@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T07:48:15.307130+00:00",
+  "sist_sjekket": "2026-09-19T07:50:22.909870+00:00",
   "funn": [
+    {
+      "tittel": "Jamal Musiala Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476759708",
+      "funnet": "2026-09-19T07:50:22.908143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476759638",
+      "funnet": "2026-09-19T07:50:22.588995+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Eduardo Camavinga Fotballkort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476747629",
       "funnet": "2026-09-18T20:42:24.694443+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Portugal Cristiano Ronaldo samlekort EM 2004",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747788",
-      "funnet": "2026-09-18T20:42:23.847429+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort (brukt) kr 150.- inkludert frakt!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747776",
-      "funnet": "2026-09-18T20:42:23.422492+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
