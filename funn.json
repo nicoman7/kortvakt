@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T07:12:24.804640+00:00",
+  "sist_sjekket": "2026-09-19T07:14:17.732792+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling med Charizard, Mew, Eevee. Gi bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476757276",
+      "funnet": "2026-09-19T07:14:17.730838+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gwynn #111 Pokemon Japanese Abyss Eye",
       "pris": 180,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476747265",
       "funnet": "2026-09-18T20:30:38.948069+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Metapod 2/149 (Yuka Morii) - Pokemon Sun & Moon",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747367",
-      "funnet": "2026-09-18T20:30:38.363044+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
