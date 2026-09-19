@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T10:56:21.108255+00:00",
+  "sist_sjekket": "2026-09-19T10:58:15.473920+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Cleffa #202 Obsidian Flames IR",
+      "pris": 370,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476778156",
+      "funnet": "2026-09-19T10:58:15.471724+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Rockets Moltres",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476761319",
       "funnet": "2026-09-19T08:12:18.960289+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Jordan basketballkort Hardwood Leader Classic NBA",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476761377",
-      "funnet": "2026-09-19T08:12:18.321150+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
