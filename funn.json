@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T16:34:16.032425+00:00",
+  "sist_sjekket": "2026-09-19T16:36:18.322730+00:00",
   "funn": [
+    {
+      "tittel": "Alolan Meowth 78/149 - Pokemon Sun & Moon",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476814775",
+      "funnet": "2026-09-19T16:36:18.320941+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse kort fra pokemon samlingen selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476814879",
+      "funnet": "2026-09-19T16:36:17.397806+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Snorunt 47/236 - Pokemon Cosmic Eclipse",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-19T14:48:14.959112+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
-      "funnet": "2026-09-19T14:48:14.686951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo 29/110 legendary",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476803580",
-      "funnet": "2026-09-19T14:44:18.295082+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
