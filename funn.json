@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T08:18:17.120979+00:00",
+  "sist_sjekket": "2026-09-19T08:20:23.886562+00:00",
   "funn": [
+    {
+      "tittel": "The Gathering kortpakke - samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476761738",
+      "funnet": "2026-09-19T08:20:23.884863+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kortsamling over 500 kort – Holo Reverse Holo (Gratis Frakt)",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 380,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476748153",
       "funnet": "2026-09-18T20:52:24.809097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vulpix 14/108 - Pokemon Evolutions",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476748234",
-      "funnet": "2026-09-18T20:52:24.434336+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
