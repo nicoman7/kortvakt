@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T05:42:17.164272+00:00",
+  "sist_sjekket": "2026-09-19T05:44:50.815937+00:00",
   "funn": [
+    {
+      "tittel": "Panini fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476113150",
+      "funnet": "2026-09-19T05:44:50.814141+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration - Zapdos, Articuno & Moltres",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476754186",
+      "funnet": "2026-09-19T05:44:50.510445+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL. Stort utvalg VM Kort! Oppdatert 18.9",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476747031",
       "funnet": "2026-09-18T20:24:17.472943+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome Womens UEFA UCL #IL-16 Romee Leuchter",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747084",
-      "funnet": "2026-09-18T20:24:16.699691+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zekrom [Holo] 010/025 - Pokemon Celebrations",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476746901",
-      "funnet": "2026-09-18T20:20:26.540128+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
