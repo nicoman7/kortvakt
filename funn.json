@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T00:02:17.031650+00:00",
+  "sist_sjekket": "2026-09-19T00:04:18.741100+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468421164",
+      "funnet": "2026-09-19T00:04:18.739188+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476745850",
       "funnet": "2026-09-18T19:58:17.231794+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Galvantula 42/114 - Pokemon Steam Siege",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476745854",
-      "funnet": "2026-09-18T19:58:16.551276+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
