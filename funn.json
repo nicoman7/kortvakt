@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T14:52:19.166871+00:00",
+  "sist_sjekket": "2026-09-19T14:54:52.079176+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon UPC og ETB",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476804751",
+      "funnet": "2026-09-19T14:54:52.077366+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - 30th Celebration Elite Trainer Box",
+      "pris": 1849,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476804388",
+      "funnet": "2026-09-19T14:54:51.475785+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort, pokemon trader reverse",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476793776",
       "funnet": "2026-09-19T13:16:18.607283+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476794017",
-      "funnet": "2026-09-19T13:16:17.944416+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Cole Palmer Chelsea",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476793808",
-      "funnet": "2026-09-19T13:16:17.616180+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
