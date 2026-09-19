@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T05:48:22.505888+00:00",
+  "sist_sjekket": "2026-09-19T05:50:25.405474+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon selges samlet !",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476754334",
+      "funnet": "2026-09-19T05:50:25.404007+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort Premier League 25/26",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T20:26:15.184990+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476746864",
-      "funnet": "2026-09-18T20:26:14.561514+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
