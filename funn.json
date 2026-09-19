@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T09:42:52.721866+00:00",
+  "sist_sjekket": "2026-09-19T09:44:16.487258+00:00",
   "funn": [
+    {
+      "tittel": "Enzo Fernandez RC Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476758962",
+      "funnet": "2026-09-19T09:44:16.485520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Chaos Rising ETB (2Stk)",
       "pris": 975,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T22:58:18.043240+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Eevee blisterpakke med kort og boosterpakker",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476751345",
-      "funnet": "2026-09-18T22:54:14.866191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
