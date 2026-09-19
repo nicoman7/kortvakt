@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T07:02:14.916959+00:00",
+  "sist_sjekket": "2026-09-19T07:04:19.064943+00:00",
   "funn": [
+    {
+      "tittel": "Mye forskjellig type Pokémon kort selges. Gi bud",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476752614",
+      "funnet": "2026-09-19T07:04:19.063162+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Celebrations 25th Anniversary Eevee blisterpakke reservert",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476756944",
+      "funnet": "2026-09-19T07:04:18.086132+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary hvit/gull.   (Bytte)",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476747146",
       "funnet": "2026-09-18T20:30:37.765032+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-18T20:30:37.498253+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Prismatic Evolution SPC - 15 pakker",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747107",
-      "funnet": "2026-09-18T20:28:15.732661+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
