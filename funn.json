@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T07:56:14.827215+00:00",
+  "sist_sjekket": "2026-09-19T07:58:17.167597+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476760199",
+      "funnet": "2026-09-19T07:58:17.165685+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "4 stk. Pokemon kort",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476760085",
+      "funnet": "2026-09-19T07:58:16.392773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jamal Musiala Fotballkort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 59,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476747830",
       "funnet": "2026-09-18T20:42:26.637368+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon #10 Holo - Pokemon",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747282",
-      "funnet": "2026-09-18T20:42:25.568364+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Div Pokemon Kort fra 2017",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747629",
-      "funnet": "2026-09-18T20:42:24.694443+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
