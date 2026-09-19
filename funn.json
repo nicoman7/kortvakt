@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T14:12:15.753147+00:00",
+  "sist_sjekket": "2026-09-19T14:14:14.620629+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476800911",
+      "funnet": "2026-09-19T14:14:14.618618+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Trainer pakke selges samlet",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475251214",
       "funnet": "2026-09-19T12:36:14.352176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Declan Rice Stars of the Premier League SPL1 fra Topps League 2026/27 ✨⚽",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476788438",
-      "funnet": "2026-09-19T12:34:16.656858+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
