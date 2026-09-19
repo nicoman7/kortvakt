@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T09:26:16.395630+00:00",
+  "sist_sjekket": "2026-09-19T09:28:16.090676+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration",
+      "pris": 549,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476767936",
+      "funnet": "2026-09-19T09:28:16.088589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th – Elite Trainer Box (ETB) EX-bokser og Tin-bokser",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T22:30:35.504877+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon M Slowbro EX kort BGS 8.5",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476750847",
-      "funnet": "2026-09-18T22:26:18.141476+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
