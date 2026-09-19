@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T22:26:14.900328+00:00",
+  "sist_sjekket": "2026-09-19T22:28:16.097004+00:00",
   "funn": [
+    {
+      "tittel": "Eeveelutions CSV95.C pokemon kort selges samlet",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476835032",
+      "funnet": "2026-09-19T22:28:16.095802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Drifloon Illustration Rare (IR) fra Pokémon TCG: 30th Celebration",
       "pris": 125,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T19:52:16.628762+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gengar EX #34/119 Pokemon kort (Phantom Forces)",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828841",
-      "funnet": "2026-09-19T19:52:15.760969+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
