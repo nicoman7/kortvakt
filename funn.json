@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T23:32:14.479772+00:00",
+  "sist_sjekket": "2026-09-19T23:34:17.204885+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard V kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476836395",
+      "funnet": "2026-09-19T23:34:17.203061+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 023/128 – 01/30 – 30th Celebration",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T20:02:34.225352+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th 2-pack blister x2",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468816389",
-      "funnet": "2026-09-19T20:02:33.598686+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
