@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T01:34:17.731216+00:00",
+  "sist_sjekket": "2026-09-19T01:36:15.077347+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-19T01:36:15.075619+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Trainers (ENG, JP, CN)",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476746147",
       "funnet": "2026-09-18T20:04:18.369344+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Magikarp ex 203/193 illustrasjonskort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476746226",
-      "funnet": "2026-09-18T20:04:17.613381+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
