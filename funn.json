@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-19T16:32:14.822209+00:00",
+  "sist_sjekket": "2026-09-19T16:34:16.032425+00:00",
   "funn": [
+    {
+      "tittel": "Snorunt 47/236 - Pokemon Cosmic Eclipse",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476814668",
+      "funnet": "2026-09-19T16:34:16.030645+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon tilbehør - Tins",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476814450",
+      "funnet": "2026-09-19T16:34:15.339639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Selger en rekke sjeldne Vintage Pokemonkort!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476465342",
+      "funnet": "2026-09-19T16:34:14.955081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magikarp [Reverse Holo] 19/98 - Pokemon Ancient Origins",
       "pris": 75,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-19T14:44:18.295082+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Venusaur VMAX",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476803725",
-      "funnet": "2026-09-19T14:44:17.466083+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte Digimon Kort Til Salgs",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476803789",
-      "funnet": "2026-09-19T14:44:16.617858+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Promo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476803454",
-      "funnet": "2026-09-19T14:42:18.490733+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
