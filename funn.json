@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T22:18:14.768744+00:00",
+  "sist_sjekket": "2026-09-19T22:20:21.149385+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - 30th etb",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476834942",
+      "funnet": "2026-09-19T22:20:21.147449+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Panini Select Serie A Mezzanine Red and Green Prizm Ivan Ilić #162",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T19:48:23.156443+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Farget parallellkort Jesse Derry 19/99 - Topps Premier League 2026/27",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828596",
-      "funnet": "2026-09-19T19:48:22.330222+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
