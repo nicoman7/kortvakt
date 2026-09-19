@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T05:46:16.782371+00:00",
+  "sist_sjekket": "2026-09-19T05:48:22.505888+00:00",
   "funn": [
+    {
+      "tittel": "Topps fotballkort Premier League 25/26",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476754123",
+      "funnet": "2026-09-19T05:48:22.504299+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-18T20:26:14.561514+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Kabutops 39/124 - Pokemon Fates Collide",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747031",
-      "funnet": "2026-09-18T20:24:17.472943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
