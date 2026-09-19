@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T20:38:17.739086+00:00",
+  "sist_sjekket": "2026-09-19T20:40:25.432841+00:00",
   "funn": [
+    {
+      "tittel": "TOPPS UCC FLAGSHIP 2025/2026 - BASE kort 5,-",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476830973",
+      "funnet": "2026-09-19T20:40:25.430967+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Energy kort – Fire, Grass, Water og Fighting",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476826319",
       "funnet": "2026-09-19T19:12:19.775159+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle engelske fotballkort selges!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476826354",
-      "funnet": "2026-09-19T19:12:18.825770+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
