@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T16:18:15.025105+00:00",
+  "sist_sjekket": "2026-09-19T16:20:26.595601+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476813394",
+      "funnet": "2026-09-19T16:20:26.594219+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-09-19T16:20:25.763385+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flying the Flag Thomas-Asante FF25 - Topps Premier League 2026/27",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476802874",
       "funnet": "2026-09-19T14:36:22.644461+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu V japansk promo 227/S-P",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476802950",
-      "funnet": "2026-09-19T14:36:22.300067+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gholdengo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476803060",
-      "funnet": "2026-09-19T14:36:21.361990+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
