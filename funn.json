@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-19T17:34:15.297265+00:00",
+  "sist_sjekket": "2026-09-19T17:36:18.996864+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476819718",
+      "funnet": "2026-09-19T17:36:18.994879+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mega Charizard EX og Voltorb EX",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476809198",
       "funnet": "2026-09-19T15:36:16.176146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Booster Boks og Bundle Display Til Salgs",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476808919",
-      "funnet": "2026-09-19T15:36:15.489936+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
