@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-19T19:46:17.479996+00:00",
+  "sist_sjekket": "2026-09-19T19:48:23.157964+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476828583",
+      "funnet": "2026-09-19T19:48:23.156443+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Farget parallellkort Jesse Derry 19/99 - Topps Premier League 2026/27",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476828596",
+      "funnet": "2026-09-19T19:48:22.330222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Farget parallellkort SPL 18 Bryan Mbeumo - 90/499",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476828672",
+      "funnet": "2026-09-19T19:48:21.276674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration PIKACHU  KORT 8 stk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476827070",
+      "funnet": "2026-09-19T19:48:20.344888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Farget parallellkort Jordan Henderson 369/499 - Topps Premier League 2026/27",
       "pris": 100,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476823250",
       "funnet": "2026-09-19T18:22:15.974283+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #43/95 Pokemon kort (EX Team Magma vs Team Aqua)",
-      "pris": 145,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476823131",
-      "funnet": "2026-09-19T18:20:21.406245+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The Gilded Tarot – Ciro Marchetti – komplett sett med bok og 78 kort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476823029",
-      "funnet": "2026-09-19T18:20:21.085689+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #57/108 Pokemon kort (EX Power Keepers)",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476822870",
-      "funnet": "2026-09-19T18:18:15.740905+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #79/110 Pokemon kort (EX Holon Phantoms)",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476823019",
-      "funnet": "2026-09-19T18:18:14.934182+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
