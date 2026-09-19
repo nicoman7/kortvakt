@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-19T22:20:21.149385+00:00",
+  "sist_sjekket": "2026-09-19T22:23:24.902102+00:00",
   "funn": [
+    {
+      "tittel": "Binder med plass til 1280 kort",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475358345",
+      "funnet": "2026-09-19T22:23:24.900429+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2025-26 Panini Select Serie A Soccer Gennaro Borrelli Terrace Silver Prizm",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476834979",
+      "funnet": "2026-09-19T22:23:24.281184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Gold UCC 25-26 Marc Guiu Chelsea",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476835020",
+      "funnet": "2026-09-19T22:23:23.997338+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - 30th etb",
       "pris": 2000,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-19T19:50:26.454044+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Blaziken ex holo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828777",
-      "funnet": "2026-09-19T19:50:25.511622+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon perm med diverse vintage",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828794",
-      "funnet": "2026-09-19T19:50:24.631575+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828583",
-      "funnet": "2026-09-19T19:48:23.156443+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
