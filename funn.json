@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-19T20:52:22.499944+00:00",
+  "sist_sjekket": "2026-09-19T20:54:15.784676+00:00",
   "funn": [
+    {
+      "tittel": "TOPPS UCC FLAGSHIP 2025/2026 - BASE kort 5,-",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476831980",
+      "funnet": "2026-09-19T20:54:15.782744+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gladion's Showdown #109 – Pokemon Abyss Eye – Japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476832173",
+      "funnet": "2026-09-19T20:54:14.865798+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Sylveon EX box",
       "pris": 749,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-19T19:16:20.916085+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort Prismatic Evolution ETB",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460963537",
-      "funnet": "2026-09-19T19:16:20.045433+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort 1998-2000.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472320221",
-      "funnet": "2026-09-19T19:16:19.124605+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
