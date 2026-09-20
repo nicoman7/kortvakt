@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T12:16:13.889299+00:00",
+  "sist_sjekket": "2026-09-20T12:18:17.661569+00:00",
   "funn": [
+    {
+      "tittel": "2006-2007 Pokemon m/ prisliste",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464059231",
+      "funnet": "2026-09-20T12:18:17.659795+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG – 250 UBRUKTE kodekort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476860671",
       "funnet": "2026-09-20T10:10:25.640150+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MEGA FROSLASS EX #36 HOLO DOUBLE RARE",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476860316",
-      "funnet": "2026-09-20T10:10:24.839936+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
