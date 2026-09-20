@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T02:04:15.809359+00:00",
+  "sist_sjekket": "2026-09-20T02:06:16.452576+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-20T02:06:16.450734+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu Full art",
       "pris": 1400,
@@ -1190,14 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/420969113",
       "funnet": "2026-09-19T20:24:14.621236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSG – Kvaratskhelia Platinum Pull Limited Edition PL7 – Topps",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476830597",
-      "funnet": "2026-09-19T20:24:14.096552+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
