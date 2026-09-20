@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T19:48:19.806955+00:00",
+  "sist_sjekket": "2026-09-20T19:50:24.165115+00:00",
   "funn": [
+    {
+      "tittel": "Ruffian Ultra Rare",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476939295",
+      "funnet": "2026-09-20T19:50:24.162891+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Champions League fotballkort Haaland, Pedri og Romero",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476938816",
+      "funnet": "2026-09-20T19:50:23.786143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 starter pokemon PSA9 (japanske)",
       "pris": 700,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-20T17:40:26.406054+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476925932",
-      "funnet": "2026-09-20T17:40:25.537268+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Pikachu VMAX (holo)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476926118",
-      "funnet": "2026-09-20T17:40:24.589705+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
