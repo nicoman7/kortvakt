@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T00:14:16.077876+00:00",
+  "sist_sjekket": "2026-09-20T00:16:19.491949+00:00",
   "funn": [
+    {
+      "tittel": "Skyridge Kort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476836721",
+      "funnet": "2026-09-20T00:16:19.490232+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mewtwo GX",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T20:08:14.122917+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "M Slowbro EX #27/108 Pokemon kort (Evoloutions)",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476829564",
-      "funnet": "2026-09-19T20:06:15.617742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
