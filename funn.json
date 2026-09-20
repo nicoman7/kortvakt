@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T10:34:15.932116+00:00",
+  "sist_sjekket": "2026-09-20T10:36:14.538028+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering - The Hobbit kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476861569",
+      "funnet": "2026-09-20T10:36:14.536270+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "ARCHALUDON EX #122 HOLO DOUBLE RARE",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476849266",
       "funnet": "2026-09-20T08:38:17.105035+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476848821",
-      "funnet": "2026-09-20T08:34:16.826479+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
