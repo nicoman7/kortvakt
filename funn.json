@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T01:04:14.753958+00:00",
+  "sist_sjekket": "2026-09-20T01:06:20.239968+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu VMAX 044",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476836923",
+      "funnet": "2026-09-20T01:06:20.238133+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Detective Pikachu kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
       "funnet": "2026-09-19T20:14:14.071053+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Deck Build Box japansk",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476829929",
-      "funnet": "2026-09-19T20:12:22.244843+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
