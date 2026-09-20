@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T21:22:16.247426+00:00",
+  "sist_sjekket": "2026-09-20T21:24:16.738767+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476945020",
+      "funnet": "2026-09-20T21:24:16.736788+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Gold Paul Wanner autografkort 74/75",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476930825",
       "funnet": "2026-09-20T18:26:16.694398+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Collection Series 3",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476931317",
-      "funnet": "2026-09-20T18:26:15.635643+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
