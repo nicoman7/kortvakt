@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T15:42:22.238696+00:00",
+  "sist_sjekket": "2026-09-20T15:44:23.750154+00:00",
   "funn": [
+    {
+      "tittel": "Marill samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476911279",
+      "funnet": "2026-09-20T15:44:23.748794+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling med fotballkort Adrenalyn Premier League 2024 og 2023",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476911516",
+      "funnet": "2026-09-20T15:44:23.014187+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Rayquaza VMAX Rapid Strike kort",
       "pris": 340,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-09-20T13:36:17.127321+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort bulk",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476892368",
-      "funnet": "2026-09-20T13:34:14.780441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu kort 30th anniversary",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476892610",
-      "funnet": "2026-09-20T13:32:16.798663+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
