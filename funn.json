@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T08:26:20.641373+00:00",
+  "sist_sjekket": "2026-09-20T08:28:18.904143+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476848072",
+      "funnet": "2026-09-20T08:28:18.902750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Online kodekort bunke",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462834371",
+      "funnet": "2026-09-20T08:28:18.067660+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort etter avtale 30th",
       "pris": 575,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476833504",
       "funnet": "2026-09-19T21:30:35.307761+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shining lugia pokemon kort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471939702",
-      "funnet": "2026-09-19T21:30:34.694035+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotballkort Martin Ødegaard og Harry Kane Limited Edition",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476833297",
-      "funnet": "2026-09-19T21:28:19.427985+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
