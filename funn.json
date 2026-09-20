@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T09:40:27.262582+00:00",
+  "sist_sjekket": "2026-09-20T09:42:15.669635+00:00",
   "funn": [
+    {
+      "tittel": "Psyduck 16/122 - Pokemon BREAKpoint",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476857075",
+      "funnet": "2026-09-20T09:42:15.668055+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "100 Pokemon-kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476857124",
+      "funnet": "2026-09-20T09:42:14.982129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon \"pogs\", uåpnet",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-20T05:16:17.223113+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlinger",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
-      "funnet": "2026-09-20T02:06:16.450734+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu Full art",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476836996",
-      "funnet": "2026-09-20T01:40:23.754769+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
