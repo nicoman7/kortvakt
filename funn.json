@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T13:00:48.342387+00:00",
+  "sist_sjekket": "2026-09-20T13:02:15.480207+00:00",
   "funn": [
+    {
+      "tittel": "Samling med telefonkort , er nok flere hundre kort i esken",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476885597",
+      "funnet": "2026-09-20T13:02:15.478461+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Promo",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476888289",
+      "funnet": "2026-09-20T13:02:14.861689+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters samlekort, 51 stk - Gi Bud!",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476866087",
       "funnet": "2026-09-20T10:46:17.738655+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort bulks",
-      "pris": 365,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476865457",
-      "funnet": "2026-09-20T10:46:16.822023+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-09-20T10:46:15.954054+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
