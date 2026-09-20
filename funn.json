@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T00:46:14.601119+00:00",
+  "sist_sjekket": "2026-09-20T00:48:21.230477+00:00",
   "funn": [
+    {
+      "tittel": "One Pice kort rett fra pakke",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476836861",
+      "funnet": "2026-09-20T00:48:21.228516+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Lycanroc GX",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476830038",
       "funnet": "2026-09-19T20:12:20.511354+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort 🐉 Charizard ⭐️holo⭐️ 143/147",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476829909",
-      "funnet": "2026-09-19T20:12:19.622024+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
