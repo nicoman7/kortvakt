@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T08:30:36.129453+00:00",
+  "sist_sjekket": "2026-09-20T08:32:21.894625+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling nr 2",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476848607",
+      "funnet": "2026-09-20T08:32:21.892424+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1999-2004)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-09-20T08:32:21.088434+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ralts",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476828155",
       "funnet": "2026-09-19T21:36:18.620701+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Pikachu 040/128 fra 30th Celebration - 18/30 fra Pikachu settet",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476833600",
-      "funnet": "2026-09-19T21:34:19.032924+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 041/128 fra 30th Celebration - 19/30 fra Pikachu settet",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476833670",
-      "funnet": "2026-09-19T21:34:18.080969+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
