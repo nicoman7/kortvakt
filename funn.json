@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T00:20:28.595974+00:00",
+  "sist_sjekket": "2026-09-20T00:22:18.831560+00:00",
   "funn": [
+    {
+      "tittel": "Jolteon 20/64 - Jungle - Pokémon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476836760",
+      "funnet": "2026-09-20T00:22:18.830219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Skyridge Kort til salgs",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-19T20:08:14.817655+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage pokemonkort-pakker (åpnet) selges billig",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476829779",
-      "funnet": "2026-09-19T20:08:14.122917+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
