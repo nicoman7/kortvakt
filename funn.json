@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-20T11:20:23.540772+00:00",
+  "sist_sjekket": "2026-09-20T11:22:16.920922+00:00",
   "funn": [
+    {
+      "tittel": "Paolo Maldini Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476872183",
+      "funnet": "2026-09-20T11:22:16.919447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "David Trezeguet Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476871960",
+      "funnet": "2026-09-20T11:22:16.068273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort i metallboks",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463646474",
+      "funnet": "2026-09-20T11:22:15.570712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Francesco Totti Fotballkort",
       "pris": 75,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-20T09:28:20.467739+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blaziken Holo rare med Swirl 3/109 2004 vintage pokemon",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476676336",
-      "funnet": "2026-09-20T09:28:19.600248+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage The Stairs of Gold Tarot – Tavaglione ca. 1979 – komplett samlerstokk",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476855064",
-      "funnet": "2026-09-20T09:28:18.785492+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering kort – staple singles",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476855171",
-      "funnet": "2026-09-20T09:28:17.759492+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
