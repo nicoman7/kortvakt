@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T12:32:14.068313+00:00",
+  "sist_sjekket": "2026-09-20T12:34:17.554678+00:00",
   "funn": [
+    {
+      "tittel": "TXT D'icon fotokort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476882801",
+      "funnet": "2026-09-20T12:34:17.552987+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort til Salgs",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476334591",
+      "funnet": "2026-09-20T12:34:16.705977+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – fairy",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476861905",
       "funnet": "2026-09-20T10:18:19.248080+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Walking Wake ex #178 Pokemon Prismatic Evolutions",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476861914",
-      "funnet": "2026-09-20T10:18:18.461156+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topsun Pokemonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476591157",
-      "funnet": "2026-09-20T10:18:18.102751+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
