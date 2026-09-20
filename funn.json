@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T19:54:14.931048+00:00",
+  "sist_sjekket": "2026-09-20T19:56:15.268519+00:00",
   "funn": [
+    {
+      "tittel": "Flere One Piece Kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476939064",
+      "funnet": "2026-09-20T19:56:15.266794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Gastly Temporal Forces illustration  Rare",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476939081",
+      "funnet": "2026-09-20T19:56:14.550294+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Elder pokemonkort - Topps",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-20T17:44:19.719757+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Komplett Pokemon 151 Japansk Non-holo Pakke",
-      "pris": 590,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476926542",
-      "funnet": "2026-09-20T17:44:18.670610+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett Pokemon 151 Engelsk Non-holo Pakke",
-      "pris": 890,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476925868",
-      "funnet": "2026-09-20T17:42:16.958731+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
