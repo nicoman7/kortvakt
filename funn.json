@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T12:40:23.110104+00:00",
+  "sist_sjekket": "2026-09-20T12:42:16.282497+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Jp",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476883893",
+      "funnet": "2026-09-20T12:42:16.280428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sunderland fotballkort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-09-20T10:28:14.768192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mew VMAX Fusion Strike",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476862711",
-      "funnet": "2026-09-20T10:24:16.467661+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
