@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T08:42:26.433669+00:00",
+  "sist_sjekket": "2026-09-20T08:44:17.536457+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling nr 3",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476849839",
+      "funnet": "2026-09-20T08:44:17.534498+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Celebrations - Lance's Charizard V",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476833819",
       "funnet": "2026-09-19T21:40:24.736727+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Wimpod holo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476833877",
-      "funnet": "2026-09-19T21:40:23.891266+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
