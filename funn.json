@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T20:58:14.693014+00:00",
+  "sist_sjekket": "2026-09-20T21:00:47.028052+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-09-20T21:00:47.026316+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dedenne #85 - Pokemon Nihil Zero PSA 10",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-20T18:16:18.750682+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hockeykort (ishockey kort)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476929920",
-      "funnet": "2026-09-20T18:16:18.357159+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
