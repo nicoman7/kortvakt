@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T09:54:16.473984+00:00",
+  "sist_sjekket": "2026-09-20T09:56:14.672476+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling, litt diverse",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476858019",
+      "funnet": "2026-09-20T09:56:14.670746+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wild Wisdom of the Faery Oracle – Lucy Cavendish – 47 kort + guidebok",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476858753",
+      "funnet": "2026-09-20T09:56:14.015681+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spheal 46/160 - Pokemon Primal Clash",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 670,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476841519",
       "funnet": "2026-09-20T07:02:17.551405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Ash's Pikachu sm110",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476841399",
-      "funnet": "2026-09-20T07:00:49.124027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Pikachu 51 - CGC 10",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476841282",
-      "funnet": "2026-09-20T06:58:14.776940+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
