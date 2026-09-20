@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T07:30:36.110645+00:00",
+  "sist_sjekket": "2026-09-20T07:32:14.847779+00:00",
   "funn": [
+    {
+      "tittel": "Div moderne holos",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476843273",
+      "funnet": "2026-09-20T07:32:14.846241+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Salg!!! Pokemon kort pakker 🔥 50 kort + 3 hit for kun 99 kr!",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476832173",
       "funnet": "2026-09-19T20:54:14.865798+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Sylveon EX box",
-      "pris": 749,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476831378",
-      "funnet": "2026-09-19T20:52:22.498127+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
