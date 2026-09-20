@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-20T08:32:21.894625+00:00",
+  "sist_sjekket": "2026-09-20T08:34:16.828166+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476848821",
+      "funnet": "2026-09-20T08:34:16.826479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling nr 2",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476833779",
       "funnet": "2026-09-19T21:38:14.134993+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Charizard #4 holo – Team Rocket – GRATIS FRAKT",
-      "pris": 1799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476828155",
-      "funnet": "2026-09-19T21:36:18.620701+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
