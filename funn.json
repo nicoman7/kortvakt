@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-20T06:34:15.178658+00:00",
+  "sist_sjekket": "2026-09-20T06:36:14.931513+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges samlet 1100 kr",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476840124",
+      "funnet": "2026-09-20T06:36:14.929871+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nacli #176 Pokemon Paldean Fates",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476840173",
+      "funnet": "2026-09-20T06:36:14.526983+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th anniversary Celebrations, Destined Rivals ETB, First Partner 1 og 3",
       "pris": 465,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-19T20:28:15.474542+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON BULK PAKKER🔥",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476253160",
-      "funnet": "2026-09-19T20:28:14.924114+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NHL Hockeykort – Toronto Maple Leafs",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476830662",
-      "funnet": "2026-09-19T20:26:19.317784+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
