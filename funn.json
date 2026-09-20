@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-20T17:26:20.154807+00:00",
+  "sist_sjekket": "2026-09-20T17:28:17.990301+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476924836",
+      "funnet": "2026-09-20T17:28:17.988886+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Sableye V",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476924703",
+      "funnet": "2026-09-20T17:28:17.150330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "100 Graderte Pokemonkort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476624259",
+      "funnet": "2026-09-20T17:28:16.341140+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mega Absol ex Japansk",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-20T16:24:16.919557+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-09-20T16:24:16.503732+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dark Tyranitar kort holo (svært skadet)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476916488",
-      "funnet": "2026-09-20T16:22:17.586000+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ex kort - pris per stk",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476916445",
-      "funnet": "2026-09-20T16:22:17.156931+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
