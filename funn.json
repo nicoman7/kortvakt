@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-21T12:54:17.212543+00:00",
+  "sist_sjekket": "2026-09-21T12:56:16.567453+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476989278",
+      "funnet": "2026-09-21T12:56:16.565689+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort : 50 stk - miks 5",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476971860",
       "funnet": "2026-09-21T09:48:16.890725+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alolan Sandslash 20/145 - Pokemon Guardians Rising",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476971987",
-      "funnet": "2026-09-21T09:48:16.457149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
