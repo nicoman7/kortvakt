@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-21T22:26:17.277490+00:00",
+  "sist_sjekket": "2026-09-21T22:28:16.518074+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Sword&Shield Pikachu Holo Card CSMC S-Chinese Edition 013/012",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477032963",
+      "funnet": "2026-09-21T22:28:16.516124+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonkort (fra 90-tallet til 2008)",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T19:48:22.632061+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - 30th anniversary",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477026229",
-      "funnet": "2026-09-21T19:48:22.230301+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
