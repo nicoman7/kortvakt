@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T22:14:16.446988+00:00",
+  "sist_sjekket": "2026-09-21T22:16:16.904395+00:00",
   "funn": [
+    {
+      "tittel": "Chaos Rising Kort selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477032621",
+      "funnet": "2026-09-21T22:16:16.902642+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Squirtle #170 – Pokemon Scarlet & Violet 151 – Koreansk",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477032766",
+      "funnet": "2026-09-21T22:16:15.976566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flying Pikachu V #023/028 – Pokemon 25th Anniversary – Kinesisk",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477026073",
       "funnet": "2026-09-21T19:46:17.591388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu fra 30th Celebration - 03/30 fra Pikachu settet",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477026021",
-      "funnet": "2026-09-21T19:44:16.303129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Collection Series 1 samleboks",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477025955",
-      "funnet": "2026-09-21T19:44:16.032900+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
