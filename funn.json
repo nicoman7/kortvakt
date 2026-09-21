@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-21T00:54:15.217043+00:00",
+  "sist_sjekket": "2026-09-21T00:56:15.878399+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476948255",
+      "funnet": "2026-09-21T00:56:15.876756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser",
       "pris": 850,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476934080",
       "funnet": "2026-09-20T18:54:14.835442+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Alexis Mac Allister Argentina nummerert /199",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476933844",
-      "funnet": "2026-09-20T18:50:22.959137+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
