@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T20:08:19.069907+00:00",
+  "sist_sjekket": "2026-09-21T20:10:27.609416+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration ETB",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477027776",
+      "funnet": "2026-09-21T20:10:27.607759+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu EX pokemon kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477027828",
+      "funnet": "2026-09-21T20:10:26.732874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini WC 2026 - Eternos 628",
       "pris": 700,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477023091",
       "funnet": "2026-09-21T19:10:23.931456+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling med 9 kort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477022621",
-      "funnet": "2026-09-21T19:04:18.908056+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 signatur gullkort kickerz",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477022653",
-      "funnet": "2026-09-21T19:04:18.303583+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
