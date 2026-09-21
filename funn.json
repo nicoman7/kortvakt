@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T09:06:18.421416+00:00",
+  "sist_sjekket": "2026-09-21T09:08:18.947961+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Greninja GX Box 30th Anniversary samleboks",
+      "pris": 690,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476968340",
+      "funnet": "2026-09-21T09:08:18.946099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling boostere",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476968374",
+      "funnet": "2026-09-21T09:08:18.103023+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kommo-o 143/128 pokemon tcg kort 30th Celebration",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-20T20:52:15.421577+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flygon #101 - Pokemon Phantasmal Flames PSA 10",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476943457",
-      "funnet": "2026-09-20T20:48:16.609058+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crystal Lugia 149/147 Pokemon 30th Celebration",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476943323",
-      "funnet": "2026-09-20T20:48:16.256936+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
