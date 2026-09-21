@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T20:36:19.848136+00:00",
+  "sist_sjekket": "2026-09-21T20:38:17.995415+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu rare kort, 30th anniversary",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477029169",
+      "funnet": "2026-09-21T20:38:17.993600+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Greninja EX box",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477029550",
+      "funnet": "2026-09-21T20:38:17.330256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – Charmander og Charmeleon samling",
       "pris": 750,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475725639",
       "funnet": "2026-09-21T19:18:27.629853+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lautaro Martinez /50 Auto | 2025-26 Topps Simplicidad UCC Inter Milan Argentina",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476111157",
-      "funnet": "2026-09-21T19:18:26.939689+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Filippo Inzaghi auto /150 Topps Chrome UCC 25-26",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472616256",
-      "funnet": "2026-09-21T19:18:26.215268+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
