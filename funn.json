@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T21:36:17.981049+00:00",
+  "sist_sjekket": "2026-09-21T21:38:16.828439+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon til SALGS!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477031872",
+      "funnet": "2026-09-21T21:38:16.826732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topsun Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476591157",
+      "funnet": "2026-09-21T21:38:16.136010+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Suicune 30/122 – BREAKpoint – Holo Rare",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-21T19:34:18.476335+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Raikou 30th",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477025222",
-      "funnet": "2026-09-21T19:34:17.511044+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort selges",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477024064",
-      "funnet": "2026-09-21T19:34:16.602632+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
