@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-21T15:28:17.456780+00:00",
+  "sist_sjekket": "2026-09-21T15:30:43.113061+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/320929671",
+      "funnet": "2026-09-21T15:30:43.111273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - JUMBOKORT (RESERVERT)",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477002576",
+      "funnet": "2026-09-21T15:30:42.310727+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome F1 2025 Pakke",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477002489",
+      "funnet": "2026-09-21T15:30:41.350068+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Marshall Munetsi Nummerert Forballkort",
       "pris": 50,
@@ -1174,30 +1198,6 @@
       "pris": 1699,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476989649",
       "funnet": "2026-09-21T13:02:19.213577+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Ange-Yoan Bonny UEFA Champions League",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476989989",
-      "funnet": "2026-09-21T13:02:18.345915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476989278",
-      "funnet": "2026-09-21T12:56:16.565689+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort : 50 stk - miks 5",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476989286",
-      "funnet": "2026-09-21T12:54:17.210829+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
