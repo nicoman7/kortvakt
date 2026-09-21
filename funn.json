@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-21T12:44:17.088941+00:00",
+  "sist_sjekket": "2026-09-21T12:46:20.706883+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476988441",
+      "funnet": "2026-09-21T12:46:20.704895+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps 2007 lot, 61 kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476970960",
       "funnet": "2026-09-21T09:38:18.904877+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 30th anniversary set",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476957727",
-      "funnet": "2026-09-21T09:38:18.484299+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
