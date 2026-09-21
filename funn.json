@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T14:18:16.578941+00:00",
+  "sist_sjekket": "2026-09-21T14:20:26.382281+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476996302",
+      "funnet": "2026-09-21T14:20:26.380477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Mime Jr. Shiny rare",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476996453",
+      "funnet": "2026-09-21T14:20:25.650293+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Spark Plugs Ángel Di María Juventus kort 84/99",
       "pris": 650,
@@ -1182,22 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476978450",
       "funnet": "2026-09-21T11:02:15.939775+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary ETB, Greninja EX Box og Sylveon EX Box",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476978235",
-      "funnet": "2026-09-21T11:02:15.252430+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Greninja EX 20th Anniversary samleboks",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476978429",
-      "funnet": "2026-09-21T11:00:51.637650+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
