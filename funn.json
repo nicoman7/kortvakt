@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-21T19:24:16.942621+00:00",
+  "sist_sjekket": "2026-09-21T19:26:19.509361+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – Feraligatr",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477024485",
+      "funnet": "2026-09-21T19:26:19.507499+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort bunt med diverse kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477024442",
+      "funnet": "2026-09-21T19:26:18.589775+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-09-21T19:26:18.222914+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "28 stk pokemonkort samlet",
       "pris": 250,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477016983",
       "funnet": "2026-09-21T18:00:56.576158+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm National Landmarks Vini Jr fotballkort Brasil SSP",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477017042",
-      "funnet": "2026-09-21T18:00:56.109698+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charmander #168 Pokemon Scarlet & Violet 151  PSA 9  1500kr",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477017040",
-      "funnet": "2026-09-21T18:00:55.289170+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemln Kommo-o 143/128 30th Illustration rare",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477016444",
-      "funnet": "2026-09-21T17:56:19.843274+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
