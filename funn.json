@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-21T01:46:14.470743+00:00",
+  "sist_sjekket": "2026-09-21T01:48:16.149350+00:00",
   "funn": [
+    {
+      "tittel": "Panini og Topps bulk 2025/2026",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476948406",
+      "funnet": "2026-09-21T01:48:16.147440+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort – diverse EX, promos og holo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476948399",
+      "funnet": "2026-09-21T01:48:15.490291+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 fotballkort – samlekort lot med stjerner",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474250510",
       "funnet": "2026-09-20T19:06:21.049531+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 30th anniversary",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476935472",
-      "funnet": "2026-09-20T19:06:20.170124+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling PSA/CGC graderte kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476933788",
-      "funnet": "2026-09-20T19:06:19.062104+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
