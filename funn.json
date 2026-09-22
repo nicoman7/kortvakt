@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-22T11:16:18.641453+00:00",
+  "sist_sjekket": "2026-09-22T11:18:18.100896+00:00",
   "funn": [
+    {
+      "tittel": "Salvage Riftbound samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477058790",
+      "funnet": "2026-09-22T11:18:18.098886+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477058491",
+      "funnet": "2026-09-22T11:18:17.823285+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort - Dark Haunter - Neo Destiny",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477032764",
+      "funnet": "2026-09-22T11:18:17.216237+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th etb",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477057570",
+      "funnet": "2026-09-22T11:18:16.612838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ditto",
       "pris": 350,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477046021",
       "funnet": "2026-09-22T08:44:14.997454+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30 Celebration kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477045496",
-      "funnet": "2026-09-22T08:44:14.286473+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ivysaur samling – Base Set, EX & Erika’s Ivysaur",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477046004",
-      "funnet": "2026-09-22T08:42:15.052071+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Butterfree samling – Jungle, Neo Discovery & Expedition",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477045710",
-      "funnet": "2026-09-22T08:40:23.591431+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Bulbasaur samling – Vintage",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477045477",
-      "funnet": "2026-09-22T08:38:16.509627+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
