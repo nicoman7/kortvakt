@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T15:14:21.047781+00:00",
+  "sist_sjekket": "2026-09-22T15:16:18.082147+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Latias EX #75",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477079189",
+      "funnet": "2026-09-22T15:16:18.080392+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th anniversary",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T12:26:16.931928+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh! samling med blandede kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461368729",
-      "funnet": "2026-09-22T12:22:18.712041+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
