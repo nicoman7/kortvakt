@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-22T18:08:17.374962+00:00",
+  "sist_sjekket": "2026-09-22T18:10:30.408451+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Gengar",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477094543",
+      "funnet": "2026-09-22T18:10:30.406719+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Swirlix RC19/RC32 Holo kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477094455",
+      "funnet": "2026-09-22T18:10:29.414525+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling Pokémon-kort japansk",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477094479",
+      "funnet": "2026-09-22T18:10:28.473461+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort reshiram",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477094661",
+      "funnet": "2026-09-22T18:10:27.480365+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Magearna EX GX holografisk samlekort",
       "pris": 2000,
@@ -1166,38 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477086491",
       "funnet": "2026-09-22T16:44:16.753113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "100 Graderte Pokemonkort 🔥",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476624259",
-      "funnet": "2026-09-22T16:44:15.929516+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alolan Sandlash - Pokemon SM127",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477086724",
-      "funnet": "2026-09-22T16:42:20.923551+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lucario LV.X holografisk",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477087691",
-      "funnet": "2026-09-22T16:42:19.931832+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Kortstativ / displaystativ for Pokémon-kort og samlekort",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477086282",
-      "funnet": "2026-09-22T16:40:27.815143+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
