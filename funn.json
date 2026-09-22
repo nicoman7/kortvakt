@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T08:58:18.913985+00:00",
+  "sist_sjekket": "2026-09-22T09:00:51.966531+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 30th celebration pokemon",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477047011",
+      "funnet": "2026-09-22T09:00:51.964771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th ETB",
       "pris": 1800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T22:22:20.447985+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Premium akryl display -p pokemon booster bundle <2025",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464140532",
-      "funnet": "2026-09-21T22:20:23.487624+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
