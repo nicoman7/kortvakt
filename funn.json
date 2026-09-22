@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T10:36:20.413972+00:00",
+  "sist_sjekket": "2026-09-22T10:38:16.547137+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th boosterpakker selges",
+      "pris": 179,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477054964",
+      "funnet": "2026-09-22T10:38:16.544772+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 39 17/30 30th Celebration",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T07:36:20.141102+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon zekrom 031 sealed promokort",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477040994",
-      "funnet": "2026-09-22T07:32:18.164508+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
