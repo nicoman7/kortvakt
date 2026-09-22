@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T15:42:23.319593+00:00",
+  "sist_sjekket": "2026-09-22T15:44:18.453846+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Arceus Vstar",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477081370",
+      "funnet": "2026-09-22T15:44:18.451872+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard holo kort 4/102 120 HP",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477081457",
+      "funnet": "2026-09-22T15:44:18.098945+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Surfing Pikachu psa 10",
       "pris": 950,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477068085",
       "funnet": "2026-09-22T13:00:53.372271+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary – Fastpris per kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477067803",
-      "funnet": "2026-09-22T13:00:53.034616+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Charizard/Blazikan/Grovyle",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/235525727",
-      "funnet": "2026-09-22T12:58:17.397097+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
