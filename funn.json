@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T07:38:16.852378+00:00",
+  "sist_sjekket": "2026-09-22T07:40:22.661119+00:00",
   "funn": [
+    {
+      "tittel": "Selger en rekke sjeldne Vintage Pokemonkort!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476465342",
+      "funnet": "2026-09-22T07:40:22.659135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebration sealed binder collection box",
       "pris": 1299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T20:58:19.407359+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB SEALED!",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477030265",
-      "funnet": "2026-09-21T20:54:21.581711+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
