@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T07:20:25.591974+00:00",
+  "sist_sjekket": "2026-09-22T07:22:18.056340+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration Elite trainer box (sealed)",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477029906",
+      "funnet": "2026-09-22T07:22:18.054714+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon petilil 091/086 cgc 10",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477040445",
+      "funnet": "2026-09-22T07:22:17.664677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Basic Holo Energy kort.",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-21T20:42:19.224465+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex #149 Pokemon 30th Celebration",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477028731",
-      "funnet": "2026-09-21T20:42:18.542995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu rare kort, 30th anniversary",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477029169",
-      "funnet": "2026-09-21T20:38:17.993600+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
