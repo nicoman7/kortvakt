@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T07:36:21.075075+00:00",
+  "sist_sjekket": "2026-09-22T07:38:16.852378+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration sealed binder collection box",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477030326",
+      "funnet": "2026-09-22T07:38:16.850695+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu ex Day SIR 30th 149/128",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T20:54:21.581711+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "NBA Fleer Ultra - Michael Olowokandi LA Clippers basketballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477030002",
-      "funnet": "2026-09-21T20:52:21.708546+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
