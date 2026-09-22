@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T18:32:15.790888+00:00",
+  "sist_sjekket": "2026-09-22T18:34:19.760135+00:00",
   "funn": [
+    {
+      "tittel": "Jérémy Jacquet RC #161 – Liverpool – Topps Premier League",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477096498",
+      "funnet": "2026-09-22T18:34:19.758760+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo holo, 51/108.",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477096367",
+      "funnet": "2026-09-22T18:34:18.993256+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard EX holografisk kort 12/108.",
       "pris": 140,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-22T17:00:54.903494+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tangrowth LV.X kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477086461",
-      "funnet": "2026-09-22T17:00:54.156442+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Regigigas LV.X holografisk",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477087409",
-      "funnet": "2026-09-22T17:00:53.811824+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
