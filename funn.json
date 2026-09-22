@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T06:04:18.223696+00:00",
+  "sist_sjekket": "2026-09-22T06:06:19.202418+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477036771",
+      "funnet": "2026-09-22T06:06:19.200427+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed promo samling",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T20:12:15.160374+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477027776",
-      "funnet": "2026-09-21T20:10:27.607759+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
