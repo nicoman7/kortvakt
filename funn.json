@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T20:54:18.557097+00:00",
+  "sist_sjekket": "2026-09-22T20:56:24.590084+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vintage",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477106779",
+      "funnet": "2026-09-22T20:56:24.588198+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "100 Graderte Pokemonkort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476624259",
+      "funnet": "2026-09-22T20:56:23.751163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Skarmory EX fra Nihil Zero",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477097552",
       "funnet": "2026-09-22T18:46:17.453186+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Poster Collection samlebokser",
-      "pris": 525,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477097515",
-      "funnet": "2026-09-22T18:44:17.639242+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Reshiram holo fra 2016, #63.",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477097122",
-      "funnet": "2026-09-22T18:44:17.254829+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
