@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T07:18:15.645416+00:00",
+  "sist_sjekket": "2026-09-22T07:20:25.591974+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Basic Holo Energy kort.",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476958720",
+      "funnet": "2026-09-22T07:20:25.590187+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Bulbasaur 037 cgc 10",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T20:38:17.993600+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Greninja EX box",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477029550",
-      "funnet": "2026-09-21T20:38:17.330256+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
