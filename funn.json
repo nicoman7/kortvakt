@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-22T08:26:15.970589+00:00",
+  "sist_sjekket": "2026-09-22T08:28:15.365504+00:00",
   "funn": [
+    {
+      "tittel": "Topps F1 Turbo Attax 2025 – Sergio Pérez & Valtteri Bottas – Cadillac",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477044714",
+      "funnet": "2026-09-22T08:28:15.363807+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gallade 84/162 – BREAKthrough – Holo Rare",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477044827",
+      "funnet": "2026-09-22T08:28:14.667973+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps F1 Turbo Attax 2025 – Carlos Sainz & Alex Albon – Williams",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477044830",
+      "funnet": "2026-09-22T08:28:14.397416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps F1 Turbo Attax 2025 – Nico Hülkenberg & Gabriel Bortoleto – Audi",
       "pris": 299,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-21T21:54:16.437209+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-09-21T21:54:16.124510+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shiny Treasure EX - Booster Box (Gratis frakt)",
-      "pris": 1849,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475231193",
-      "funnet": "2026-09-21T21:48:16.344542+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Rayquaza GX kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477032144",
-      "funnet": "2026-09-21T21:48:15.646485+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
