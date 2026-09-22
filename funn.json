@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T08:50:22.474860+00:00",
+  "sist_sjekket": "2026-09-22T08:52:16.266678+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlinger",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/474084298",
+      "funnet": "2026-09-22T08:52:16.265022+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG 30th Anniversary Celebrations - Sylveon EX Box",
       "pris": 799,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-21T22:16:16.902642+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Squirtle #170 – Pokemon Scarlet & Violet 151 – Koreansk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477032766",
-      "funnet": "2026-09-21T22:16:15.976566+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
