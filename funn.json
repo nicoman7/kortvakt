@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-22T14:20:28.174657+00:00",
+  "sist_sjekket": "2026-09-22T14:22:19.514273+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon GO Radiant Charizard NM",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477074630",
+      "funnet": "2026-09-22T14:22:19.512476+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Celebi Amazing Rare Vivid Voltage",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477074832",
+      "funnet": "2026-09-22T14:22:19.192092+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration ETB",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477074709",
+      "funnet": "2026-09-22T14:22:18.312437+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477013006",
+      "funnet": "2026-09-22T14:22:17.813684+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration EX box - Greninja & Sylveon",
       "pris": 750,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-22T11:40:26.273797+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ditto (Pikachu) Yuka Morii",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477060157",
-      "funnet": "2026-09-22T11:40:25.653231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Giratina V 130/196 - Pokemon Lost Origin",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477060648",
-      "funnet": "2026-09-22T11:40:25.357127+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glaceon V 038/159 - Pokemon Crown Zenith",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477060629",
-      "funnet": "2026-09-22T11:38:18.135379+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Basketball kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477060285",
-      "funnet": "2026-09-22T11:38:17.264981+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
