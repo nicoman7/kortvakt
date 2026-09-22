@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T20:20:22.611112+00:00",
+  "sist_sjekket": "2026-09-22T20:22:18.015412+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mega Darkrai EX",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477104670",
+      "funnet": "2026-09-22T20:22:18.014258+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Trainer Ball kort 7 stk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477104981",
+      "funnet": "2026-09-22T20:22:17.171450+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "UNO All Wild My Hero Academia kortspill",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477094479",
       "funnet": "2026-09-22T18:10:28.473461+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort reshiram",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094661",
-      "funnet": "2026-09-22T18:10:27.480365+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Magearna EX GX holografisk samlekort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094268",
-      "funnet": "2026-09-22T18:08:17.372963+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
