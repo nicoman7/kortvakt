@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T23:02:14.731052+00:00",
+  "sist_sjekket": "2026-09-22T23:04:20.209975+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort boldore",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477109984",
+      "funnet": "2026-09-22T23:04:20.208341+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Larvesta holo",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477109979",
+      "funnet": "2026-09-22T23:04:19.323878+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Primarina holografisk kort",
       "pris": 79,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477103705",
       "funnet": "2026-09-22T20:02:38.438798+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Naganadel & Guzzlord GX #37 – Pokemon CSM2.5C – Kinesisk",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477103669",
-      "funnet": "2026-09-22T20:02:37.832429+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(Mega Charizard Limited Edition & Gold Edition)",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477103565",
-      "funnet": "2026-09-22T20:02:37.548553+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
