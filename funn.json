@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T18:58:24.735937+00:00",
+  "sist_sjekket": "2026-09-22T19:00:56.048875+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration - Galarian Meowth #141",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477098525",
+      "funnet": "2026-09-22T19:00:56.047350+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard V Black Star Promo SWSH050 – JGGC grade 9",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T17:12:21.841702+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo LV.X holografisk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477089230",
-      "funnet": "2026-09-22T17:10:28.920177+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
