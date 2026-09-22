@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T22:48:19.557169+00:00",
+  "sist_sjekket": "2026-09-22T22:50:24.777222+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477109781",
+      "funnet": "2026-09-22T22:50:24.775293+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477109800",
+      "funnet": "2026-09-22T22:50:23.847632+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort",
       "pris": 59,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477102757",
       "funnet": "2026-09-22T19:48:15.056818+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Trainer Spark Pokémon GO kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477102562",
-      "funnet": "2026-09-22T19:46:27.256102+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu PROMO",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477102639",
-      "funnet": "2026-09-22T19:46:26.412886+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
