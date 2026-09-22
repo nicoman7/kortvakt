@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T20:26:14.693469+00:00",
+  "sist_sjekket": "2026-09-22T20:28:15.542499+00:00",
   "funn": [
+    {
+      "tittel": "Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465779644",
+      "funnet": "2026-09-22T20:28:15.540870+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Recycle Energy (holo)",
       "pris": 160,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T18:12:17.961640+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Gengar",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094543",
-      "funnet": "2026-09-22T18:10:30.406719+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
