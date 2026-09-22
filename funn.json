@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T12:02:18.335939+00:00",
+  "sist_sjekket": "2026-09-22T12:04:17.197620+00:00",
   "funn": [
+    {
+      "tittel": "50kr per Pikachu samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477063077",
+      "funnet": "2026-09-22T12:04:17.195700+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort mappe med diverse EX/GX kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477062764",
+      "funnet": "2026-09-22T12:04:16.805303+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Team Rocket Mimikyu holo",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 749,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477053364",
       "funnet": "2026-09-22T10:16:21.322083+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trick or Trade BOOster bundle",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/433462868",
-      "funnet": "2026-09-22T10:16:20.458672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Greninja EX Box 20th Anniversary samleboks",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477053246",
-      "funnet": "2026-09-22T10:14:21.034994+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
