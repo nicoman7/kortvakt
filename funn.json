@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T11:14:18.464467+00:00",
+  "sist_sjekket": "2026-09-22T11:16:18.641453+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ditto",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477058566",
+      "funnet": "2026-09-22T11:16:18.639611+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-09-22T11:16:17.826235+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tool & Stadium TCG bundle",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477045477",
       "funnet": "2026-09-22T08:38:16.509627+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th ex box & tin",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477045558",
-      "funnet": "2026-09-22T08:38:15.669667+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Vince carter fleer ultra gold medallion ssp basketballkort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477045266",
-      "funnet": "2026-09-22T08:36:24.371774+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
