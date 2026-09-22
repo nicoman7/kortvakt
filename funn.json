@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T14:16:16.973209+00:00",
+  "sist_sjekket": "2026-09-22T14:18:51.193939+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration EX box - Greninja & Sylveon",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477074402",
+      "funnet": "2026-09-22T14:18:51.192221+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu VMAX G-Max Volt Tackle",
       "pris": 105,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T11:38:17.264981+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "2x Pokemon 30th Celebration ETB",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477060421",
-      "funnet": "2026-09-22T11:36:19.788188+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
