@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T08:36:24.373575+00:00",
+  "sist_sjekket": "2026-09-22T08:38:16.511310+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Bulbasaur samling – Vintage",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477045477",
+      "funnet": "2026-09-22T08:38:16.509627+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th ex box & tin",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477045558",
+      "funnet": "2026-09-22T08:38:15.669667+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vince carter fleer ultra gold medallion ssp basketballkort",
       "pris": 900,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477032554",
       "funnet": "2026-09-21T22:06:17.333582+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ascended Heroes Booster bundles",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477032428",
-      "funnet": "2026-09-21T22:04:14.914160+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration binder/ perm",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477032470",
-      "funnet": "2026-09-21T22:04:14.310223+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
