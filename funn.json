@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-22T11:26:24.503262+00:00",
+  "sist_sjekket": "2026-09-22T11:28:19.487454+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration 2-Pack Blister - Eevee",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477059691",
+      "funnet": "2026-09-22T11:28:19.485734+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu 30 th celebration kort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477059722",
+      "funnet": "2026-09-22T11:28:19.037561+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Elite Trainer Box - LES BESKRIVELSEN",
+      "pris": 1899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477059688",
+      "funnet": "2026-09-22T11:28:18.549627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Goldeen holo",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477048488",
       "funnet": "2026-09-22T09:24:17.490359+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Squirtle samling – Base Set + 2x Expedition + EX",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477049016",
-      "funnet": "2026-09-22T09:22:18.546053+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th celebration pokemon2",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477048670",
-      "funnet": "2026-09-22T09:20:30.160997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Weedle samling – Base Set, Neo Discovery, EX vintage",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477048644",
-      "funnet": "2026-09-22T09:18:17.853800+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
