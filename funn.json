@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T20:24:20.381370+00:00",
+  "sist_sjekket": "2026-09-22T20:26:14.693469+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Recycle Energy (holo)",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477034292",
+      "funnet": "2026-09-22T20:26:14.692071+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ceruledge EX fra Mega Dream EX",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477105279",
+      "funnet": "2026-09-22T20:26:14.032185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Darkrai EX",
       "pris": 1500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-22T18:10:30.406719+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Swirlix RC19/RC32 Holo kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094455",
-      "funnet": "2026-09-22T18:10:29.414525+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Pokémon-kort japansk",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094479",
-      "funnet": "2026-09-22T18:10:28.473461+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
