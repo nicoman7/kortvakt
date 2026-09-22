@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-22T21:16:19.869118+00:00",
+  "sist_sjekket": "2026-09-22T21:18:15.918779+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477107552",
+      "funnet": "2026-09-22T21:18:15.916927+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Bellsprout kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477107584",
+      "funnet": "2026-09-22T21:18:15.299107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Fuecoco GX SIR holo 147/128",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477107498",
+      "funnet": "2026-09-22T21:18:14.593524+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Venomoth holo",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477099134",
       "funnet": "2026-09-22T19:04:49.311858+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pitch black",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477096985",
-      "funnet": "2026-09-22T19:02:23.240430+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Primarina GX Rainbow Rare kort holo, fra 2017, #149.",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477098754",
-      "funnet": "2026-09-22T19:02:22.277644+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 ekstra klistremerke Raúl Jiménez",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477098935",
-      "funnet": "2026-09-22T19:02:21.368387+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
