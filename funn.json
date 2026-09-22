@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T06:18:16.083253+00:00",
+  "sist_sjekket": "2026-09-22T06:20:24.642692+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477037180",
+      "funnet": "2026-09-22T06:20:24.641497+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu rare pokemon kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477037250",
+      "funnet": "2026-09-22T06:20:23.858855+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebrations ETB, Tin, EX og Destined Rivals ETB, BILLIGST PÅ FINN?",
       "pris": 375,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477028213",
       "funnet": "2026-09-21T20:16:15.185977+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL. Stort utvalg VM Kort! Oppdatert 21.9",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-09-21T20:16:14.803920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sylveon EX Pokemon kort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477028034",
-      "funnet": "2026-09-21T20:12:17.337263+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
