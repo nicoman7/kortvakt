@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T22:00:55.804591+00:00",
+  "sist_sjekket": "2026-09-22T22:02:15.022829+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX 054/128 30th",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477108956",
+      "funnet": "2026-09-22T22:02:15.021297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Raichu GX japansk holo-kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477108996",
+      "funnet": "2026-09-22T22:02:14.619980+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Galarian Meowth #141 – Pokemon 30th Celebration",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474042449",
       "funnet": "2026-09-22T19:14:30.328950+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(50% ) Pokemon Blastoise VINTAGE 2006/2007 gratis frakt",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475868342",
-      "funnet": "2026-09-22T19:14:29.912961+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Poliwrath reverse holo Unseen Forces",
-      "pris": 1280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475945653",
-      "funnet": "2026-09-22T19:14:29.026933+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
