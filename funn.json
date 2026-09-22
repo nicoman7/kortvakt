@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T20:04:19.470642+00:00",
+  "sist_sjekket": "2026-09-22T20:06:14.952318+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th etb",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477103890",
+      "funnet": "2026-09-22T20:06:14.950562+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Binder Collection",
       "pris": 1400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477094170",
       "funnet": "2026-09-22T18:06:16.419758+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Emboar 27/113 Holo kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477093966",
-      "funnet": "2026-09-22T18:04:20.603854+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
