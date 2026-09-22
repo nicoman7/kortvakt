@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T04:36:15.817536+00:00",
+  "sist_sjekket": "2026-09-22T04:38:15.998344+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477035188",
+      "funnet": "2026-09-22T04:38:15.996236+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Full Art",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477013124",
       "funnet": "2026-09-21T20:08:16.753236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Koffing og Igglybuff",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477027668",
-      "funnet": "2026-09-21T20:06:20.538187+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
