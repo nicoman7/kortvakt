@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T05:44:18.823608+00:00",
+  "sist_sjekket": "2026-09-22T05:46:14.735701+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration boosterpakke med Eevee promo-kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477036195",
+      "funnet": "2026-09-22T05:46:14.733812+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration boosterpakke samlekort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477036183",
+      "funnet": "2026-09-22T05:46:14.121408+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Jp",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477027653",
       "funnet": "2026-09-21T20:08:19.068181+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu rare pokemon kort",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477027732",
-      "funnet": "2026-09-21T20:08:18.318579+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jirachi EX special illustration rare 155/128 30th Celebration Pokémon",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477027357",
-      "funnet": "2026-09-21T20:08:17.567328+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
