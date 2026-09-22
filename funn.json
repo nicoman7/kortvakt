@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-22T16:40:27.817151+00:00",
+  "sist_sjekket": "2026-09-22T16:42:20.925121+00:00",
   "funn": [
+    {
+      "tittel": "Alolan Sandlash - Pokemon SM127",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477086724",
+      "funnet": "2026-09-22T16:42:20.923551+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Lucario LV.X holografisk",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477087691",
+      "funnet": "2026-09-22T16:42:19.931832+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Kortstativ / displaystativ for Pokémon-kort og samlekort",
       "pris": 79,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-22T14:22:18.312437+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477013006",
-      "funnet": "2026-09-22T14:22:17.813684+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration EX box - Greninja & Sylveon",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477074402",
-      "funnet": "2026-09-22T14:18:51.192221+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
