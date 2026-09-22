@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T20:14:14.503497+00:00",
+  "sist_sjekket": "2026-09-22T20:16:20.361002+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer Ball kort 8 stk",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477104627",
+      "funnet": "2026-09-22T20:16:20.359238+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Sword & Shield Darkness Ablaze og Rebel Clash 2 Pack Blister forseglet",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T18:08:16.632678+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Shaymin X samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477094242",
-      "funnet": "2026-09-22T18:06:17.302825+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
