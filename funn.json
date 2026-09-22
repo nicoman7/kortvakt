@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T21:36:15.572380+00:00",
+  "sist_sjekket": "2026-09-22T21:38:17.394963+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ex Box 30th Celebration - Sylveon",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477108293",
+      "funnet": "2026-09-22T21:38:17.392742+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mew V Fusion Strike 251/264",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476424861",
       "funnet": "2026-09-22T19:10:32.650429+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON TCG Ulike Rares fra 2004-2014",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464930633",
-      "funnet": "2026-09-22T19:10:31.731614+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
