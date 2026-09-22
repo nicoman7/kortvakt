@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-22T12:48:15.125545+00:00",
+  "sist_sjekket": "2026-09-22T12:50:25.805065+00:00",
   "funn": [
+    {
+      "tittel": "Charizard base set 4/102",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477066268",
+      "funnet": "2026-09-22T12:50:25.803351+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "diverse pokemon og one piece tcg",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T10:44:17.521613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Galarian Meowth, Alolan Meowth og Meowth selges samlet",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477055288",
-      "funnet": "2026-09-22T10:44:16.726693+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
