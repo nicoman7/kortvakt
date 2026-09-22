@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-22T17:42:23.315855+00:00",
+  "sist_sjekket": "2026-09-22T17:44:19.064355+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chromium fotballkort Erling Haaland Manchester City  /99",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477092328",
+      "funnet": "2026-09-22T17:44:19.062430+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Barcelona Lionel  Messi fotballkort, limited edition /99",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477092201",
+      "funnet": "2026-09-22T17:44:18.425351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Kobbie Mainoo autograph kort Manchester United /75",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477092245",
+      "funnet": "2026-09-22T17:44:17.836593+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort Amine Adli nummerert /499",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-22T16:20:28.520483+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ninetales holografisk",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477084315",
-      "funnet": "2026-09-22T16:18:17.296790+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Suicune holo",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477084616",
-      "funnet": "2026-09-22T16:18:16.958718+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Typhlosion samlekort holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477084472",
-      "funnet": "2026-09-22T16:18:16.551372+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
