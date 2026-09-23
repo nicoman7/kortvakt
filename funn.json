@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-23T06:02:19.033124+00:00",
+  "sist_sjekket": "2026-09-23T06:04:15.768319+00:00",
   "funn": [
+    {
+      "tittel": "Galarian Meowth 141/128 – Illustration Rare – Pokémon 30th Celebration",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477109993",
+      "funnet": "2026-09-23T06:04:15.766680+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Elite Trainer Box - Sealed",
       "pris": 1999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-22T21:02:19.793400+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477106779",
-      "funnet": "2026-09-22T20:56:24.588198+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
