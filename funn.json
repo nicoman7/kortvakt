@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T22:32:21.122506+00:00",
+  "sist_sjekket": "2026-09-23T22:34:16.824540+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/380521049",
+      "funnet": "2026-09-23T22:34:16.822630+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Adrenalyn XL FIFA fotballkort–over 300 kort Limited, Gold, Master Rookie",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476816583",
+      "funnet": "2026-09-23T22:34:15.822817+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gengar holo 30 anniversary",
       "pris": 1100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477175907",
       "funnet": "2026-09-23T19:18:27.936053+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-09-23T19:18:27.211338+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stray Kids fotokort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470732287",
-      "funnet": "2026-09-23T19:16:19.776455+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
