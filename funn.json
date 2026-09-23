@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T18:20:28.807587+00:00",
+  "sist_sjekket": "2026-09-23T18:22:16.458438+00:00",
   "funn": [
+    {
+      "tittel": "One piece samlekort selges samlet",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477171462",
+      "funnet": "2026-09-23T18:22:16.456464+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topsun Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476591157",
+      "funnet": "2026-09-23T18:22:16.125633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - FERALIGATR (HOLO)",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477156153",
       "funnet": "2026-09-23T16:18:17.711915+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morten Thorsby Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477161117",
-      "funnet": "2026-09-23T16:18:16.983271+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Magikarp & Gyarados Pikachu holo",
-      "pris": 970,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477160894",
-      "funnet": "2026-09-23T16:18:16.725290+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
