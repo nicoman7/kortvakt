@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T08:26:16.152467+00:00",
+  "sist_sjekket": "2026-09-23T08:28:20.697426+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration Zapdos",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477121116",
+      "funnet": "2026-09-23T08:28:20.695808+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Kun 100kr pr kort!!",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477120017",
+      "funnet": "2026-09-23T08:28:19.981073+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Bobb Auto /25 - Topps Chrome UCC 2024/25",
       "pris": 899,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477108959",
       "funnet": "2026-09-22T22:10:24.632479+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 149 SIR 30th Celebration",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477109041",
-      "funnet": "2026-09-22T22:06:17.187305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon Ex #176 - Pokemon Prismatic Evolutions UPC Promo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477109027",
-      "funnet": "2026-09-22T22:06:16.535836+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
