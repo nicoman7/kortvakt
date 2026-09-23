@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-23T10:28:18.968638+00:00",
+  "sist_sjekket": "2026-09-23T10:30:37.888784+00:00",
   "funn": [
+    {
+      "tittel": "Flere pakker med poker kort...samlerobjekter",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477131464",
+      "funnet": "2026-09-23T10:30:37.886872+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Anniversary Greninja EX Box og Sylveon EX Box samling",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477110855",
       "funnet": "2026-09-23T00:12:18.092950+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rotom 197 Destined Rivals Illustration Rare",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477110865",
-      "funnet": "2026-09-23T00:12:17.479809+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
