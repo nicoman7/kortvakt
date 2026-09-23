@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T19:40:29.948166+00:00",
+  "sist_sjekket": "2026-09-23T19:42:15.522483+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477177317",
+      "funnet": "2026-09-23T19:42:15.520490+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jack Rudoni #266 – Coventry City – Blue Voltage – Topps 26/27",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477177485",
+      "funnet": "2026-09-23T19:42:14.932237+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Blastoise holo DPBP#009 PROMO 2007",
       "pris": 800,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-23T18:00:50.667914+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th celebration ETB",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477169017",
-      "funnet": "2026-09-23T18:00:50.006882+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "CHARIZARD SAMLING",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475145836",
-      "funnet": "2026-09-23T18:00:49.702748+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
