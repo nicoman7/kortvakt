@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-23T21:18:16.685026+00:00",
+  "sist_sjekket": "2026-09-23T21:20:23.303148+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Greninja GX Box samleboks",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477183016",
+      "funnet": "2026-09-23T21:20:23.301959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Reservert pokemon kort",
       "pris": 109,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-23T19:10:24.349517+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Lucario VSTAR #SWSH291 Promo NM Forseglet",
-      "pris": 329,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477174612",
-      "funnet": "2026-09-23T19:06:20.170288+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
