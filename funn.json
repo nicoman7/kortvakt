@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T18:30:38.860192+00:00",
+  "sist_sjekket": "2026-09-23T18:32:52.771007+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477172289",
+      "funnet": "2026-09-23T18:32:52.769230+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort mappe med ulike kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477172263",
+      "funnet": "2026-09-23T18:32:52.010225+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Star Wars Rogue One – Sticker Starterpack fra Topps (Disney)",
       "pris": 560,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477161218",
       "funnet": "2026-09-23T16:20:31.555831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB",
-      "pris": 1740,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477161073",
-      "funnet": "2026-09-23T16:20:30.782390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "#1 Pokémon Legendary Collection 2002 – 5 vintagekort",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477160163",
-      "funnet": "2026-09-23T16:20:30.368100+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
