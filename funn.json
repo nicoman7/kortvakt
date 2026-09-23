@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-23T12:32:27.483031+00:00",
+  "sist_sjekket": "2026-09-23T12:34:20.772275+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Anniversary ETB",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477142334",
+      "funnet": "2026-09-23T12:34:20.770695+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Pikachu",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477142376",
+      "funnet": "2026-09-23T12:34:19.966421+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard EX kort holografisk",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477124295",
       "funnet": "2026-09-23T09:04:16.726367+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ex Box 30th Celebration - Greninja",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477124155",
-      "funnet": "2026-09-23T09:02:22.363892+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black boosterpakker",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476818506",
-      "funnet": "2026-09-23T09:00:51.374245+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
