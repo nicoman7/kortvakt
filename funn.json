@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T11:34:17.819070+00:00",
+  "sist_sjekket": "2026-09-24T11:36:20.526985+00:00",
   "funn": [
+    {
+      "tittel": "Boks med fotballkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477208634",
+      "funnet": "2026-09-24T11:36:20.524918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON 30th ETB",
       "pris": 2000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477190642",
       "funnet": "2026-09-24T07:04:17.918326+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Raikou Amazing Rare PSA 10",
-      "pris": 1550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477190545",
-      "funnet": "2026-09-24T07:00:51.001933+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
