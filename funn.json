@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T16:00:56.951748+00:00",
+  "sist_sjekket": "2026-09-24T16:02:22.061631+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477230296",
+      "funnet": "2026-09-24T16:02:22.059827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ralts samling",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 330,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477218548",
       "funnet": "2026-09-24T13:20:33.073451+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Landon Emenalo RC #97 – Chelsea – Topps Premier League 26/27",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477218695",
-      "funnet": "2026-09-24T13:20:32.339930+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
