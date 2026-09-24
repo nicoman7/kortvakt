@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T16:04:15.705414+00:00",
+  "sist_sjekket": "2026-09-24T16:06:34.870084+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon EX kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477230491",
+      "funnet": "2026-09-24T16:06:34.868641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Promo",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477230838",
+      "funnet": "2026-09-24T16:06:34.085661+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Elite Trainer Box",
       "pris": 2000,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477218530",
       "funnet": "2026-09-24T13:22:17.017840+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "To eldre premier league fotballkort pakker fra 96/98",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477218808",
-      "funnet": "2026-09-24T13:22:16.660905+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort! Mye forskjellig japansk bulk selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476870543",
-      "funnet": "2026-09-24T13:22:16.387761+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
