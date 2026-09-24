@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T13:46:18.819571+00:00",
+  "sist_sjekket": "2026-09-24T13:48:15.852894+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Xerneas EX kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477220808",
+      "funnet": "2026-09-24T13:48:15.851087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flott Jack Rudoni Stars of the Premier League SPL24 fra Topps  League 2026/27.",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-24T11:02:19.397003+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse moderne EX-kort - NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477208046",
-      "funnet": "2026-09-24T11:02:18.511881+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
