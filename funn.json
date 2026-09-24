@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T06:52:15.728031+00:00",
+  "sist_sjekket": "2026-09-24T06:54:16.733935+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Castform kortpakke – Holon’s Castform og Rain Castform",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477190131",
+      "funnet": "2026-09-24T06:54:16.732060+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-23T20:44:25.219355+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th celebration enkeltkort",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477180616",
-      "funnet": "2026-09-23T20:42:15.689159+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
