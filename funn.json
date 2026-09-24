@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-24T16:36:15.024902+00:00",
+  "sist_sjekket": "2026-09-24T16:38:16.151939+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-24T16:38:16.150241+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Acerola's Mischief 180/217 Uncommon Ascended Heroes Pokemon",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477233136",
+      "funnet": "2026-09-24T16:38:15.596614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort 70 og 80 tallet",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232979",
+      "funnet": "2026-09-24T16:38:15.228952+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu Thunder Wave / Iron Tail",
       "pris": 1800,
@@ -1174,30 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477223249",
       "funnet": "2026-09-24T14:22:21.991289+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL Limited Edition-kort Sergio Agüero Manchester City",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477223434",
-      "funnet": "2026-09-24T14:22:21.095405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 210,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477223229",
-      "funnet": "2026-09-24T14:20:26.085983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort promo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477222699",
-      "funnet": "2026-09-24T14:18:16.824963+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
