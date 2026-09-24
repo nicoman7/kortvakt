@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T21:42:15.001751+00:00",
+  "sist_sjekket": "2026-09-24T21:44:15.908510+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort med prisliste - Grass",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476823095",
+      "funnet": "2026-09-24T21:44:15.906905+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Midnight UFC kort 04/99 Nursulton Ruziboev",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477245913",
       "funnet": "2026-09-24T19:46:30.414921+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scyther [1st Edition] #26 Pokemon Jungle",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477246077",
-      "funnet": "2026-09-24T19:46:30.076548+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
