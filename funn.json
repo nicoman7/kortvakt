@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T22:04:14.574611+00:00",
+  "sist_sjekket": "2026-09-24T22:06:16.566547+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort fra 1999",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477250962",
+      "funnet": "2026-09-24T22:06:16.564370+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA fotballkort–over 300 kort Limited, Gold, Master Rookie",
       "pris": 123,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
       "funnet": "2026-09-24T20:02:18.812440+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebrations binder",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477246405",
-      "funnet": "2026-09-24T20:00:53.167520+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
