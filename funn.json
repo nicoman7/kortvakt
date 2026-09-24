@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T07:20:23.678723+00:00",
+  "sist_sjekket": "2026-09-24T07:22:16.375543+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Bulk",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477191661",
+      "funnet": "2026-09-24T07:22:16.373515+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort VINTAGE/JAPANSK/ENGELSK",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-23T20:54:20.307524+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Greninja EX Box og Sylveon EX Box samlebokser pris per",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477181928",
-      "funnet": "2026-09-23T20:54:19.511123+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
