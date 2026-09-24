@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T15:10:24.236516+00:00",
+  "sist_sjekket": "2026-09-24T15:12:17.175186+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th ex bokser x 6",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477226717",
+      "funnet": "2026-09-24T15:12:17.174052+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gyarados EX (Full Art) BREAKpoint Ultra Rare 114",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477224346",
+      "funnet": "2026-09-24T15:12:16.438618+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort VM 2026 Panini X Kayou",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477216028",
       "funnet": "2026-09-24T12:44:15.685504+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu rare pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477215969",
-      "funnet": "2026-09-24T12:44:15.245780+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu rare Pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477215577",
-      "funnet": "2026-09-24T12:42:19.293551+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
