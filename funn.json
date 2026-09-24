@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T22:18:17.336928+00:00",
+  "sist_sjekket": "2026-09-24T22:20:24.728674+00:00",
   "funn": [
+    {
+      "tittel": "Masse pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477251315",
+      "funnet": "2026-09-24T22:20:24.727008+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477251251",
+      "funnet": "2026-09-24T22:20:23.847883+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Series 1–3 samlebokser",
       "pris": 123,
@@ -1182,22 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477246916",
       "funnet": "2026-09-24T20:04:22.988529+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kortmapper",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477246929",
-      "funnet": "2026-09-24T20:04:22.037738+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Cosmic Nba Basketball Kort - 10 kr pr stk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477246675",
-      "funnet": "2026-09-24T20:04:21.650621+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
