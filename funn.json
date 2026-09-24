@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T08:46:22.358331+00:00",
+  "sist_sjekket": "2026-09-24T08:48:17.237407+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon KORT SAMLING BULK - gratis frakt",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477197584",
+      "funnet": "2026-09-24T08:48:17.235286+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort 30 anniversary",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477183105",
       "funnet": "2026-09-23T21:26:17.815904+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Diverse Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477182901",
-      "funnet": "2026-09-23T21:24:16.390681+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
