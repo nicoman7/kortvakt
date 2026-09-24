@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T06:18:15.802551+00:00",
+  "sist_sjekket": "2026-09-24T06:20:31.684859+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Deerling Kinesisk gem 4 Stars",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477188916",
+      "funnet": "2026-09-24T06:20:31.683534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charmeleon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477188969",
+      "funnet": "2026-09-24T06:20:30.936615+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration boosterpakker med Eevee promo-kort",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-23T20:12:15.818221+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mew EX , 30th",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477179554",
-      "funnet": "2026-09-23T20:10:27.497289+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Nest Ball trenerkort gold scarlet and violet base set",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477179507",
-      "funnet": "2026-09-23T20:10:26.763642+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
