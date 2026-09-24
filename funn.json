@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T17:16:20.097513+00:00",
+  "sist_sjekket": "2026-09-24T17:18:18.531191+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON - DARK SANDSLASH (REV. HOLO)",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477236187",
+      "funnet": "2026-09-24T17:18:18.529259+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jérémy Jacquet RC 75/99 – Liverpool – Green Parallel – Topps 26/27",
       "pris": 449,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-24T15:14:16.284908+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th ex bokser x 6",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477226717",
-      "funnet": "2026-09-24T15:12:17.174052+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
