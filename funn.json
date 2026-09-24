@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T03:24:15.460007+00:00",
+  "sist_sjekket": "2026-09-24T03:26:15.096714+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon | Pikachu fra 30th | MINT | For deg som mangler!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477186449",
+      "funnet": "2026-09-24T03:26:15.094745+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "N’s Zoroark JTG 189/159 Gold / hyper rare",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477186488",
+      "funnet": "2026-09-24T03:26:14.651331+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cinderace Ex SSP 163 Blackstar Promo/ hyper rare gold card",
       "pris": 249,
@@ -1182,22 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477177316",
       "funnet": "2026-09-23T19:44:21.341848+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rayquaza Holo 2008 DPBP#442 PROMO",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477177596",
-      "funnet": "2026-09-23T19:44:20.452537+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 30th",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477177651",
-      "funnet": "2026-09-23T19:44:19.572327+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
