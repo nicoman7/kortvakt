@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T22:32:14.153121+00:00",
+  "sist_sjekket": "2026-09-24T22:34:16.297420+00:00",
   "funn": [
+    {
+      "tittel": "Div Japanske hits, se bilder for pris per kort. AR, EX, Full Art etc.",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477251632",
+      "funnet": "2026-09-24T22:34:16.295526+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Charizard VSTAR SWSH BSP #262 PSA 9 samlekort",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477247148",
       "funnet": "2026-09-24T20:06:21.532257+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Scyther - Neo Destiny",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477034147",
-      "funnet": "2026-09-24T20:06:20.931341+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
