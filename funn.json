@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T09:48:16.864803+00:00",
+  "sist_sjekket": "2026-09-24T09:51:02.143774+00:00",
   "funn": [
+    {
+      "tittel": "Telekort fra utland selges samlet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477201089",
+      "funnet": "2026-09-24T09:51:02.142040+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Martin Ødegaard signert fotballkort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477202328",
+      "funnet": "2026-09-24T09:51:01.217625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu samlekort 30 celebration",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-09-23T23:10:25.005394+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gengar ex 269/217 (Ascended Heroes)",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476525803",
-      "funnet": "2026-09-23T22:58:16.534814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration Chaser cards",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477184972",
-      "funnet": "2026-09-23T22:52:14.402405+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
