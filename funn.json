@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T06:50:25.576397+00:00",
+  "sist_sjekket": "2026-09-24T06:52:15.728031+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419968019",
+      "funnet": "2026-09-24T06:52:15.726301+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gamle pokemonkort",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-23T20:42:15.689159+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "10 på topp. Pakker med norske fotballkort fra 1971.",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477181049",
-      "funnet": "2026-09-23T20:42:15.358118+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
