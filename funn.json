@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T11:30:38.004113+00:00",
+  "sist_sjekket": "2026-09-24T11:32:16.138487+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort-Mega Zygarde ex (Prize Pack)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477209279",
+      "funnet": "2026-09-24T11:32:16.136677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Sylveon Tin Box",
+      "pris": 749,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477209757",
+      "funnet": "2026-09-24T11:32:15.474841+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Elite Trainer Box Mega Evolution Chaos Rising samleboks",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-24T06:56:23.650082+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Castform kortpakke – Holon’s Castform og Rain Castform",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477190131",
-      "funnet": "2026-09-24T06:54:16.732060+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419968019",
-      "funnet": "2026-09-24T06:52:15.726301+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
