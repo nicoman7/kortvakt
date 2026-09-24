@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T11:26:16.960702+00:00",
+  "sist_sjekket": "2026-09-24T11:28:52.066714+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Elite Trainer Box Mega Evolution Chaos Rising samleboks",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477209223",
+      "funnet": "2026-09-24T11:28:52.065131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Eduardo Felicissimo RC Sporting",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477209347",
+      "funnet": "2026-09-24T11:28:51.382172+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort-Kleavor VStar",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-24T06:52:15.726301+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gamle pokemonkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477189781",
-      "funnet": "2026-09-24T06:50:25.575021+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo holo promo sealed",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477190119",
-      "funnet": "2026-09-24T06:50:24.822523+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
