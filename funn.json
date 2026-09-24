@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-24T08:48:17.237407+00:00",
+  "sist_sjekket": "2026-09-24T08:50:27.301253+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling BULK gratis frakt",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477197718",
+      "funnet": "2026-09-24T08:50:27.299418+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling BULK",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477197784",
+      "funnet": "2026-09-24T08:50:26.635900+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling BULK gratis frakt",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477197651",
+      "funnet": "2026-09-24T08:50:25.841284+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon KORT SAMLING BULK - gratis frakt",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-09-23T21:30:37.152204+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration Fuecoco EX 147/128",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477183254",
-      "funnet": "2026-09-23T21:30:36.388778+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "SamlingPokémon-samlekort",
-      "pris": 1850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477183234",
-      "funnet": "2026-09-23T21:28:14.693706+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration Articuno",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477183105",
-      "funnet": "2026-09-23T21:26:17.815904+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
