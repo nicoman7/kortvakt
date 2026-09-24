@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T08:44:53.803916+00:00",
+  "sist_sjekket": "2026-09-24T08:46:22.358331+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 30 anniversary",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477197178",
+      "funnet": "2026-09-24T08:46:22.356740+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration pakke med kort og boosterpakker",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-23T21:24:16.390681+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Rayquaza EX kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477182821",
-      "funnet": "2026-09-23T21:24:15.792511+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
