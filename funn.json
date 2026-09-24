@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-24T18:14:16.995367+00:00",
+  "sist_sjekket": "2026-09-24T18:16:19.945693+00:00",
   "funn": [
+    {
+      "tittel": "STRAY KIDS FOTOKORT",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477240110",
+      "funnet": "2026-09-24T18:16:19.943882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gengar ex #90 Pokemon 30th Celebration",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477240026",
+      "funnet": "2026-09-24T18:16:19.086918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "STRAY KIDS THIS&THAT FOTOKORT",
+      "pris": 44,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477240271",
+      "funnet": "2026-09-24T18:16:18.643669+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Paradox Rift",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477227751",
       "funnet": "2026-09-24T16:30:42.315641+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slowpoke #80 Pokemon Fire Red & Leaf Green",
-      "pris": 189,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477231514",
-      "funnet": "2026-09-24T16:26:19.957215+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "109/128 Salamence EX Pokemon 30th anniversary",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477170468",
-      "funnet": "2026-09-24T16:26:19.061743+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Light Wigglytuff #54 Pokemon Neo Destiny",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477231556",
-      "funnet": "2026-09-24T16:26:18.661684+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
