@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-24T12:22:18.348358+00:00",
+  "sist_sjekket": "2026-09-24T12:24:15.666323+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468453793",
+      "funnet": "2026-09-24T12:24:15.664228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration samling bokser og boosterpakker",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477197584",
       "funnet": "2026-09-24T08:48:17.235286+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30 anniversary",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477197178",
-      "funnet": "2026-09-24T08:46:22.356740+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
