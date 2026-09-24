@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-24T23:42:15.668057+00:00",
+  "sist_sjekket": "2026-09-24T23:44:20.319445+00:00",
   "funn": [
+    {
+      "tittel": "Skrotfot: UNO Flip! Samlekort Anime",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477252142",
+      "funnet": "2026-09-24T23:44:20.317650+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th Celebration ETB",
+      "pris": 1798,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477252146",
+      "funnet": "2026-09-24T23:44:19.440477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Custom nerds toploadere med mengder pokemon kort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477247775",
       "funnet": "2026-09-24T20:18:18.671012+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL. Stort utvalg VM Kort! Oppdatert 21.9",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-09-24T20:18:17.989144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu samlekort Base Set",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477247502",
-      "funnet": "2026-09-24T20:16:20.994071+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
