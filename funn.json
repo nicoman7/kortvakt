@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T22:46:16.179616+00:00",
+  "sist_sjekket": "2026-09-25T22:48:15.533838+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Mew 025/025",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477312912",
+      "funnet": "2026-09-25T22:48:15.532559+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pitch Black boosterpakker",
       "pris": 89,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-25T19:10:30.870269+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477306098",
-      "funnet": "2026-09-25T19:10:30.529055+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
