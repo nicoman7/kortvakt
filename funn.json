@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-25T07:58:15.192818+00:00",
+  "sist_sjekket": "2026-09-25T08:00:53.934611+00:00",
   "funn": [
+    {
+      "tittel": "Paras [1st Edition] #59 Pokemon Jungle",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477259829",
+      "funnet": "2026-09-25T08:00:53.932920+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Swinub [1st Edition] #57 Pokemon Neo Revelation",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477259903",
+      "funnet": "2026-09-25T08:00:53.330630+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Horsea - Aquapolis",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477033229",
+      "funnet": "2026-09-25T08:00:52.764038+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu EX 30th anniversary SIR",
+      "pris": 1199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477259739",
+      "funnet": "2026-09-25T08:00:52.030918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-24T21:48:19.523639+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 5/18",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250938",
-      "funnet": "2026-09-24T21:48:18.758774+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Maushold Super Electric Breaker (92)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250414",
-      "funnet": "2026-09-24T21:46:52.944082+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Lights Out Isack Hadjar Oracle Red Bull Racing kort 08/25",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250811",
-      "funnet": "2026-09-24T21:46:52.530669+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort med prisliste - Grass",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476823095",
-      "funnet": "2026-09-24T21:44:15.906905+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
