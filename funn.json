@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T15:36:18.942806+00:00",
+  "sist_sjekket": "2026-09-25T15:38:16.710209+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477292476",
+      "funnet": "2026-09-25T15:38:16.708109+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Mew GX holografisk",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477282162",
       "funnet": "2026-09-25T13:10:32.879622+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Xerneas #91 - Chaos Rising | Pokemon",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477276620",
-      "funnet": "2026-09-25T13:10:32.134937+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
