@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T12:40:26.541908+00:00",
+  "sist_sjekket": "2026-09-25T12:42:18.466584+00:00",
   "funn": [
+    {
+      "tittel": "Leicester fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477278995",
+      "funnet": "2026-09-25T12:42:18.464743+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Messi Pelé Ronaldo Nazário – Leaf Triple Legends – 3 Legender",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477279968",
+      "funnet": "2026-09-25T12:42:17.585396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Mason Greenwood Jumbo Swatch – Panini Select Ligue 1 – Marseille",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477265349",
       "funnet": "2026-09-25T09:26:21.542919+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Keldeo ex 030/086 – White Flare – Double Rare",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477265363",
-      "funnet": "2026-09-25T09:26:20.737057+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dondozo ex 066/182 – Destined Rivals – Double Rare",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477265499",
-      "funnet": "2026-09-25T09:26:19.876891+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
