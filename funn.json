@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T21:34:15.620187+00:00",
+  "sist_sjekket": "2026-09-25T21:36:16.488813+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra 30th celebration",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477311758",
+      "funnet": "2026-09-25T21:36:16.487004+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort reservert til Joakim",
+      "pris": 265,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477311797",
+      "funnet": "2026-09-25T21:36:15.688545+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Anniversary – Pikachu (051/128 / 29/30)",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-25T19:02:18.885594+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Black Bolt",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477305269",
-      "funnet": "2026-09-25T19:01:01.764264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration ETB",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477305469",
-      "funnet": "2026-09-25T19:01:00.849611+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
