@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T15:06:17.238648+00:00",
+  "sist_sjekket": "2026-09-25T15:08:19.232784+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration - Diverse produkter",
+      "pris": 649,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477290355",
+      "funnet": "2026-09-25T15:08:19.230878+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Manchester United lot",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477062365",
+      "funnet": "2026-09-25T15:08:18.604899+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon GX kort– 12 kort i plastlommer",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477277693",
       "funnet": "2026-09-25T13:04:15.445639+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hearthflame Mask Ogerpon ex #192 - Twilight Masquerade | Pokemon",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477277614",
-      "funnet": "2026-09-25T13:04:15.171249+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Abomasnow ex 157/132 – Mega Evolution – Ultra Rare Full Art",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477281532",
-      "funnet": "2026-09-25T13:02:20.001807+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
