@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-25T03:26:25.198053+00:00",
+  "sist_sjekket": "2026-09-25T03:28:21.875527+00:00",
   "funn": [
+    {
+      "tittel": "HOLO Pidgeot #8 Pokemon Jungle",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477253130",
+      "funnet": "2026-09-25T03:28:21.873638+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Full Heal Energy [1st Edition] #81 Pokemon Team Rocket",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477253139",
+      "funnet": "2026-09-25T03:28:20.879530+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Poliwag [1st Edition] #62 Pokemon Neo Discovery",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477253134",
+      "funnet": "2026-09-25T03:28:20.036961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Beedrill #17 Pokemon Base Set",
       "pris": 150,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-09-24T20:54:16.697421+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Rayquaza 153/217 (Holo)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477248737",
-      "funnet": "2026-09-24T20:52:19.216580+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "HOLO Flareon #3 Pokemon Jungle",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477249129",
-      "funnet": "2026-09-24T20:52:18.296323+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Team Rocket’s Mimikyu 097/217",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477248746",
-      "funnet": "2026-09-24T20:52:17.333608+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
