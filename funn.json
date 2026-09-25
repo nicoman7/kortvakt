@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T06:26:15.966475+00:00",
+  "sist_sjekket": "2026-09-25T06:28:16.170686+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 24",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477255370",
+      "funnet": "2026-09-25T06:28:16.168628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt, 30th Anniversary boosterpakker med Eevee-kort",
       "pris": 550,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477249578",
       "funnet": "2026-09-24T21:10:25.566399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Breeder #105 Pokemon Base Set 2",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477249856",
-      "funnet": "2026-09-24T21:10:24.835625+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
