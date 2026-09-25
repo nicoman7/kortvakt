@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T10:14:19.169112+00:00",
+  "sist_sjekket": "2026-09-25T10:16:16.597111+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477268621",
+      "funnet": "2026-09-25T10:16:16.595262+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Poliwrath #15 Pokemon Base Set 2",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477269078",
+      "funnet": "2026-09-25T10:16:15.936423+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "HOLO Chansey #3 Pokemon Base Set 2",
       "pris": 350,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477259589",
       "funnet": "2026-09-25T07:58:15.190805+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Lugia 149/147",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477259118",
-      "funnet": "2026-09-25T07:52:15.365861+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort vurderes solgt.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477258120",
-      "funnet": "2026-09-25T07:38:14.097050+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
