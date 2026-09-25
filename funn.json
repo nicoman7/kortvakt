@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T16:06:19.713145+00:00",
+  "sist_sjekket": "2026-09-25T16:08:55.567416+00:00",
   "funn": [
+    {
+      "tittel": "STOR FOTBALLKORT-LOT SELGES!",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477295088",
+      "funnet": "2026-09-25T16:08:55.565599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse Pokémon kort!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477290995",
+      "funnet": "2026-09-25T16:08:55.174426+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon TCG: Pikachu - Black Star Promo #27",
       "pris": 600,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477275305",
       "funnet": "2026-09-25T13:16:25.167350+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477282093",
-      "funnet": "2026-09-25T13:16:24.832809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Riolu 010 sealed promo",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477282671",
-      "funnet": "2026-09-25T13:16:24.400096+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
