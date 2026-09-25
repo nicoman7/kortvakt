@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T06:52:16.751941+00:00",
+  "sist_sjekket": "2026-09-25T06:54:14.999100+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477256219",
+      "funnet": "2026-09-25T06:54:14.997060+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Buneary og Lopunny samling - 12 kort",
       "pris": 85,
@@ -1190,14 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477249983",
       "funnet": "2026-09-24T21:18:17.232871+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra 30th Celebration - Espeon ex",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250137",
-      "funnet": "2026-09-24T21:18:16.577640+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
