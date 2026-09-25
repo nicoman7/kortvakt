@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T10:06:19.684267+00:00",
+  "sist_sjekket": "2026-09-25T10:08:16.484405+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Rumble Bastiodon samlekort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477268353",
+      "funnet": "2026-09-25T10:08:16.482450+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "HOLO Blastoise #2 Pokemon Base Set 2 God Stand",
       "pris": 1400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477034123",
       "funnet": "2026-09-25T07:36:16.863672+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Pikachu, trenerkort og energi",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477257630",
-      "funnet": "2026-09-25T07:24:23.465324+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
