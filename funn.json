@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T08:20:31.497607+00:00",
+  "sist_sjekket": "2026-09-25T08:22:16.307607+00:00",
   "funn": [
+    {
+      "tittel": "Porygon #48 Pokemon Team Rocket",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477261244",
+      "funnet": "2026-09-25T08:22:16.306167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Galarian Zigzagoon 130/217 Pokemon Ascended Heroes Common NM",
       "pris": 2,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-24T22:34:16.295526+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Charizard VSTAR SWSH BSP #262 PSA 9 samlekort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477251510",
-      "funnet": "2026-09-24T22:26:24.247232+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
