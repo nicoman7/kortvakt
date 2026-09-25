@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T11:50:22.758465+00:00",
+  "sist_sjekket": "2026-09-25T11:52:18.732132+00:00",
   "funn": [
+    {
+      "tittel": "Gratis frakt - Pokemon Chilling Reign pakke selges samlet",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477275950",
+      "funnet": "2026-09-25T11:52:18.730162+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bryan Mbeumo 083/150 – Manchester United – Blue Shimmer – Topps 26/27",
       "pris": 349,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-25T09:04:51.959837+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Here Comes the Squirtle Squad #EP12 Pokemon 2000 Topps TV",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477263635",
-      "funnet": "2026-09-25T09:02:16.485155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
