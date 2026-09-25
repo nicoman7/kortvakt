@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T08:54:15.874862+00:00",
+  "sist_sjekket": "2026-09-25T08:56:16.371820+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477262865",
+      "funnet": "2026-09-25T08:56:16.369968+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Legends #1 Pokemon 1999 Topps Movie",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477263354",
+      "funnet": "2026-09-25T08:56:15.767988+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew #151 Pokemon Burger King",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477252967",
       "funnet": "2026-09-25T02:34:15.384020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Recycle Energy #105 Pokemon Neo Genesis",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477252957",
-      "funnet": "2026-09-25T02:30:39.640047+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rainbow Energy #80 Pokemon Team Rocket",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477252953",
-      "funnet": "2026-09-25T02:30:39.369136+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
