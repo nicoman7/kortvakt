@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T07:56:13.734590+00:00",
+  "sist_sjekket": "2026-09-25T07:58:15.192818+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477259589",
+      "funnet": "2026-09-25T07:58:15.190805+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Lugia 149/147",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-24T21:44:15.906905+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Midnight UFC kort 04/99 Nursulton Ruziboev",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250689",
-      "funnet": "2026-09-24T21:40:23.032634+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
