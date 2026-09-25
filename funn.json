@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-25T02:44:18.990568+00:00",
+  "sist_sjekket": "2026-09-25T02:46:12.797407+00:00",
   "funn": [
+    {
+      "tittel": "Gengar #20 Pokemon Fossil",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477253002",
+      "funnet": "2026-09-25T02:46:12.796026+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dark Hypno #26 Pokemon Team Rocket",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477253005",
+      "funnet": "2026-09-25T02:46:12.466769+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Murkrow [1st Edition] #24 Pokemon Neo Genesis",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477248341",
       "funnet": "2026-09-24T20:32:18.536632+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venomoth #13 Pokemon Jungle",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477248414",
-      "funnet": "2026-09-24T20:32:18.094859+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Victreebel #14 Pokemon Jungle",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477248346",
-      "funnet": "2026-09-24T20:32:17.659058+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
