@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-25T09:02:16.486857+00:00",
+  "sist_sjekket": "2026-09-25T09:04:51.961865+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort vm 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477263749",
+      "funnet": "2026-09-25T09:04:51.959837+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Here Comes the Squirtle Squad #EP12 Pokemon 2000 Topps TV",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477252997",
       "funnet": "2026-09-25T02:44:18.988774+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blaine's Ninetales [1st Edition] #21 Pokemon Gym Challenge",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477252980",
-      "funnet": "2026-09-25T02:40:26.237963+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
