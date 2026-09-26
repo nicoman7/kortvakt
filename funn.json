@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-26T07:08:15.001740+00:00",
+  "sist_sjekket": "2026-09-26T07:10:26.454602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477318104",
+      "funnet": "2026-09-26T07:10:26.453303+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon JP Hits",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477317868",
+      "funnet": "2026-09-26T07:10:25.653164+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu EX #053",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477305784",
       "funnet": "2026-09-25T19:28:59.900611+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokemon-kort selges",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477306811",
-      "funnet": "2026-09-25T19:26:22.846228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA World Cup fotballkort samling",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477306494",
-      "funnet": "2026-09-25T19:26:22.022370+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
