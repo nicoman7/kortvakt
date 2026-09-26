@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T20:18:17.019193+00:00",
+  "sist_sjekket": "2026-09-26T20:20:24.684085+00:00",
   "funn": [
+    {
+      "tittel": "Sunderland – John O’Shea – 8 Bit Ballers 8B20 – Topps 26/27",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477380348",
+      "funnet": "2026-09-26T20:20:24.682580+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arsenal – Thierry Henry – Gold Lion GL3 – Topps 2026/27",
       "pris": 89,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-26T18:24:16.826365+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Generation og xy samling selges samlet.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477374058",
-      "funnet": "2026-09-26T18:20:59.332934+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
