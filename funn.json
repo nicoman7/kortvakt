@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T06:56:16.140915+00:00",
+  "sist_sjekket": "2026-09-26T06:58:13.490890+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX - Promo XY121",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477317779",
+      "funnet": "2026-09-26T06:58:13.489480+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 260,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477306710",
       "funnet": "2026-09-25T19:26:21.652623+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokemon-kort fra EX-serien selges",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477306874",
-      "funnet": "2026-09-25T19:26:20.863063+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
