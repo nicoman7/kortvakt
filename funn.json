@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T07:04:13.839130+00:00",
+  "sist_sjekket": "2026-09-26T07:06:18.309952+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX #053",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477317906",
+      "funnet": "2026-09-26T07:06:18.308114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard EX - Promo XY121",
       "pris": 2000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477306494",
       "funnet": "2026-09-25T19:26:22.022370+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon Bundle Articuno Moltres Zapdos samlekort",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477306710",
-      "funnet": "2026-09-25T19:26:21.652623+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
