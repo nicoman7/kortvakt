@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T17:34:16.456499+00:00",
+  "sist_sjekket": "2026-09-26T17:36:14.158663+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477371694",
+      "funnet": "2026-09-26T17:36:14.156790+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo EX kort",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477358509",
       "funnet": "2026-09-26T15:40:22.905278+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Galarian Moltres #SWSH284 Pokemon Promo",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477358487",
-      "funnet": "2026-09-26T15:40:22.651811+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
