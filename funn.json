@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-26T18:18:55.824681+00:00",
+  "sist_sjekket": "2026-09-26T18:20:59.334636+00:00",
   "funn": [
+    {
+      "tittel": "Generation og xy samling selges samlet.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477374058",
+      "funnet": "2026-09-26T18:20:59.332934+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Brave Bangle fra Pitch Black",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477374544",
+      "funnet": "2026-09-26T18:20:59.023882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Yveltal EX japansk kort fra Nihil Zero",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477366369",
       "funnet": "2026-09-26T16:22:13.933226+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zapdos IR 133 Pokemon 30th Celebration",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477366197",
-      "funnet": "2026-09-26T16:20:26.879196+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon-kort (1999–2003) | Legendary Collection Reverse Holo, Base Set",
-      "pris": 1650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477364367",
-      "funnet": "2026-09-26T16:20:26.087856+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
