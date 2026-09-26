@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T22:44:16.171424+00:00",
+  "sist_sjekket": "2026-09-26T22:46:17.043472+00:00",
   "funn": [
+    {
+      "tittel": "Selger et sjeldent flott Messi gullkort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477384472",
+      "funnet": "2026-09-26T22:46:17.041404+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ninetales holografisk samlekort",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 1499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477377773",
       "funnet": "2026-09-26T19:22:20.608196+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Evolving Skies Sleeved Booster Pack",
-      "pris": 959,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477377792",
-      "funnet": "2026-09-26T19:22:19.774810+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
