@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-26T03:00:50.916731+00:00",
+  "sist_sjekket": "2026-09-26T03:02:14.313378+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477314358",
+      "funnet": "2026-09-26T03:02:14.311389+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome update Anthony edwards /50 auto",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/473317575",
       "funnet": "2026-09-25T19:16:18.371143+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon White Flare",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477305933",
-      "funnet": "2026-09-25T19:16:17.520508+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
