@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-26T18:12:17.361575+00:00",
+  "sist_sjekket": "2026-09-26T18:14:18.926512+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bulk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477374263",
+      "funnet": "2026-09-26T18:14:18.924771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-09-26T18:14:17.926799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Flagship Inserts",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-26T16:18:20.896458+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary etb",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477366370",
-      "funnet": "2026-09-26T16:18:20.065986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu EX samlekort 30th celebration",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477365922",
-      "funnet": "2026-09-26T16:18:19.100898+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
