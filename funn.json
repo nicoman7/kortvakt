@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T16:10:25.234646+00:00",
+  "sist_sjekket": "2026-09-27T16:12:16.056036+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu rare pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477451587",
+      "funnet": "2026-09-27T16:12:16.054196+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Kieran Trainer holo #218",
       "pris": 280,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-27T13:44:16.852606+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort-Rayquaza V",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477433215",
-      "funnet": "2026-09-27T13:40:25.318735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
