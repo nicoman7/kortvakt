@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-27T13:30:40.379654+00:00",
+  "sist_sjekket": "2026-09-27T13:32:16.768946+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Scarlet and Violet , Quaxly, Floatzel og Energy-kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477432116",
+      "funnet": "2026-09-27T13:32:16.767262+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort-Master Ball",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477432244",
+      "funnet": "2026-09-27T13:32:16.152131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece Card Game Black Maria (SR) OP08-074 kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477432126",
+      "funnet": "2026-09-27T13:32:15.513492+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort-Palafin",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477414226",
       "funnet": "2026-09-27T11:24:15.530561+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477413867",
-      "funnet": "2026-09-27T11:18:16.526943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon permer",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477414065",
-      "funnet": "2026-09-27T11:18:16.148021+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477413498",
-      "funnet": "2026-09-27T11:16:16.452606+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
