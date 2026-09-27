@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T18:10:21.625880+00:00",
+  "sist_sjekket": "2026-09-27T18:12:16.597344+00:00",
   "funn": [
+    {
+      "tittel": "Manchester United fotball Kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477460188",
+      "funnet": "2026-09-27T18:12:16.595707+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Topps Gengar #94 Foil – vintage TV Animation Edition",
+      "pris": 749,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477463603",
+      "funnet": "2026-09-27T18:12:16.279259+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort M Charizard EX Mega Evolution holo",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477452006",
       "funnet": "2026-09-27T16:18:18.114063+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Premier League Bryan Mbeumo autograph kort Manchester United",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477374707",
-      "funnet": "2026-09-27T16:18:17.522852+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 stk Progress Day rare foil Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477452230",
-      "funnet": "2026-09-27T16:18:16.945041+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
