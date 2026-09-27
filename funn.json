@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T05:32:17.323831+00:00",
+  "sist_sjekket": "2026-09-27T05:34:18.043561+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort! Mye forskjellig japansk bulk selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476870543",
+      "funnet": "2026-09-27T05:34:18.041741+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "624 Trophy Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": 499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-26T20:28:17.844674+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pakke med fire fotballkort - Ronaldo og Messi",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455821714",
-      "funnet": "2026-09-26T20:28:17.099015+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
