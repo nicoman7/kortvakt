@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T16:30:37.751600+00:00",
+  "sist_sjekket": "2026-09-27T16:32:16.217400+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th hits",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477453131",
+      "funnet": "2026-09-27T16:32:16.215410+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477453700",
+      "funnet": "2026-09-27T16:32:15.650774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu Pokémon GO",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477233164",
       "funnet": "2026-09-27T14:22:18.827054+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hitmonchan Base Set (Unlimited) Holo Rare #7/102",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477233942",
-      "funnet": "2026-09-27T14:22:17.785611+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Rayquaza C LV.X holo",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477216995",
-      "funnet": "2026-09-27T14:20:23.951907+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
