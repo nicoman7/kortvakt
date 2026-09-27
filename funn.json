@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T16:26:16.945809+00:00",
+  "sist_sjekket": "2026-09-27T16:28:17.038167+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477453062",
+      "funnet": "2026-09-27T16:28:17.036495+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tideturner rare foil Riftbound samlekort",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
       "funnet": "2026-09-27T14:20:22.450852+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Inception Fotballkort – 5 nummererte – Gavi, McTominay med flere",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477437357",
-      "funnet": "2026-09-27T14:14:17.909743+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
