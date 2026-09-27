@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T11:56:15.951167+00:00",
+  "sist_sjekket": "2026-09-27T11:58:15.962406+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477419459",
+      "funnet": "2026-09-27T11:58:15.960531+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477396831",
       "funnet": "2026-09-27T08:58:16.184654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon boosterpakker",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477396663",
-      "funnet": "2026-09-27T08:58:15.907305+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
