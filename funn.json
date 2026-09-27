@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T10:18:16.680292+00:00",
+  "sist_sjekket": "2026-09-27T10:20:22.406469+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits langt under markedspris",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477406172",
+      "funnet": "2026-09-27T10:20:22.404761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 74/112 – EX FireRed & LeafGreen 2004 – vintage Pokémonkort",
+      "pris": 139,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477406490",
+      "funnet": "2026-09-27T10:20:21.844195+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Serena & Braixen PSA 10  Incandescent Arcana",
       "pris": 650,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468231509",
       "funnet": "2026-09-27T07:30:35.263421+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA basketkort samling – Shaquille O’Neal m.fl.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477390355",
-      "funnet": "2026-09-27T07:30:34.689078+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Hannah Montana Panini fotokort-album og fotokort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468266252",
-      "funnet": "2026-09-27T07:28:15.832224+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
