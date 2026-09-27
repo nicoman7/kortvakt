@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T20:56:16.459850+00:00",
+  "sist_sjekket": "2026-09-27T20:58:25.612986+00:00",
   "funn": [
+    {
+      "tittel": "Eevee kort!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477474958",
+      "funnet": "2026-09-27T20:58:25.611607+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Kabutops ex",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477475604",
+      "funnet": "2026-09-27T20:58:24.824337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX (opptil 3!) Pokemon pakker med 50 kort for kun 99 kr!\"",
       "pris": 99,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474122146",
       "funnet": "2026-09-27T19:18:17.784311+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ho-Oh V",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477468884",
-      "funnet": "2026-09-27T19:18:17.108150+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Venomoth holo Jungle 1999, NM",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476120573",
-      "funnet": "2026-09-27T19:18:16.515466+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
