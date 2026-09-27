@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T11:50:34.930008+00:00",
+  "sist_sjekket": "2026-09-27T11:52:17.999162+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort Italia",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477417182",
+      "funnet": "2026-09-27T11:52:17.997086+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vault X Exo-Tec Zip Binder kortperm rød 9-pocket",
       "pris": 620,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477396587",
       "funnet": "2026-09-27T08:52:15.300833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trading Card Game Online kodekort og kortlot",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459621132",
-      "funnet": "2026-09-27T08:50:22.584059+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
