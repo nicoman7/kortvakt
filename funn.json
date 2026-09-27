@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T22:10:23.830472+00:00",
+  "sist_sjekket": "2026-09-27T22:12:16.610497+00:00",
   "funn": [
+    {
+      "tittel": "Charizard Ex #162 Pokemon CN",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477477765",
+      "funnet": "2026-09-27T22:12:16.608651+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort - vintage",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477477741",
+      "funnet": "2026-09-27T22:12:16.216923+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – Caterpie, Spearow, Horsea, Mankey m.fl.",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477470480",
       "funnet": "2026-09-27T19:40:22.016506+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Koffing 58/82 - Pokemon Team Rocket",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477470768",
-      "funnet": "2026-09-27T19:38:13.501774+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Magikarp - EX Team Rocket Returns",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477470868",
-      "funnet": "2026-09-27T19:38:13.263092+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
