@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T20:30:38.566671+00:00",
+  "sist_sjekket": "2026-09-27T20:32:16.412729+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-27T20:32:16.410946+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Paul Merson Retro Threads RT-1 – Arsenal – Topps 2026/27",
       "pris": 49,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477020358",
       "funnet": "2026-09-27T19:14:20.389536+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebrations Cards, Rare cards, Singles, Div kort, Pikachu",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477181594",
-      "funnet": "2026-09-27T19:14:19.632521+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
