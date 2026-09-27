@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T05:56:14.882996+00:00",
+  "sist_sjekket": "2026-09-27T05:58:14.399500+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477387401",
+      "funnet": "2026-09-27T05:58:14.397446+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Finest UCC 25-26 Inter Milan Duo Pakke",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477380904",
       "funnet": "2026-09-26T20:30:42.772217+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dewgong #97 - Pokemon Phantasmal Flames",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477380799",
-      "funnet": "2026-09-26T20:30:41.955836+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
