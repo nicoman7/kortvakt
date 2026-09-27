@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T11:14:18.628067+00:00",
+  "sist_sjekket": "2026-09-27T11:16:16.454422+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477413498",
+      "funnet": "2026-09-27T11:16:16.452606+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse pokemon EX kort (JPN)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477413488",
+      "funnet": "2026-09-27T11:16:16.074779+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477394703",
       "funnet": "2026-09-27T08:34:21.591960+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – claydol",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477394804",
-      "funnet": "2026-09-27T08:34:20.910392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – frogadier - chaos rising",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477053202",
-      "funnet": "2026-09-27T08:34:20.164104+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
