@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T16:56:16.901203+00:00",
+  "sist_sjekket": "2026-09-27T16:58:15.634435+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th etb",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477456402",
+      "funnet": "2026-09-27T16:58:15.632451+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Disney Hannah Montana The Movie Panini album stickers (klistremerker)",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477302042",
       "funnet": "2026-09-27T14:32:18.854351+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rampardos GL Rising Rivals Holo Rare #11/111",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477300302",
-      "funnet": "2026-09-27T14:32:18.185259+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
