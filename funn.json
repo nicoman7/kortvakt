@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T11:16:16.454422+00:00",
+  "sist_sjekket": "2026-09-27T11:18:16.528237+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477413867",
+      "funnet": "2026-09-27T11:18:16.526943+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon permer",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477414065",
+      "funnet": "2026-09-27T11:18:16.148021+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476945173",
       "funnet": "2026-09-27T08:36:14.377671+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration booster packs GRATIS FRAKT",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477394547",
-      "funnet": "2026-09-27T08:34:21.976052+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scraggy  140/28 Pokemon 30th Celebration selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477394703",
-      "funnet": "2026-09-27T08:34:21.591960+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
