@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-27T12:30:41.214485+00:00",
+  "sist_sjekket": "2026-09-27T12:32:18.468187+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477424001",
+      "funnet": "2026-09-27T12:32:18.466301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Prestige EFL Luton Town Duo Pakke",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477400009",
       "funnet": "2026-09-27T09:30:33.724263+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort! Mye forskjellig japansk bulk selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476870543",
-      "funnet": "2026-09-27T09:30:33.453048+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
