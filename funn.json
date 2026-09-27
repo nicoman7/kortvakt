@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T12:32:18.468187+00:00",
+  "sist_sjekket": "2026-09-27T12:34:17.252513+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - diverse",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477424343",
+      "funnet": "2026-09-27T12:34:17.250731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort 30th Celebration!",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477423401",
+      "funnet": "2026-09-27T12:34:16.184438+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477400405",
       "funnet": "2026-09-27T09:30:34.631870+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort med permer og kortbunker",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477400011",
-      "funnet": "2026-09-27T09:30:34.022308+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebrations IR-prmo-bulk",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477400009",
-      "funnet": "2026-09-27T09:30:33.724263+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
