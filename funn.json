@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T18:00:50.606437+00:00",
+  "sist_sjekket": "2026-09-28T18:02:19.548831+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Froslass Lv.44 holo",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477536835",
+      "funnet": "2026-09-28T18:02:19.546750+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Froslass LV.X holo",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477525821",
       "funnet": "2026-09-28T16:00:57.929565+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlekort Album selges med One Piece kort inni! Samlet!",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477524180",
-      "funnet": "2026-09-28T15:58:18.338221+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
