@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T20:42:19.953538+00:00",
+  "sist_sjekket": "2026-09-28T20:44:29.055282+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mewtwo 56 Brilliant Stars Promo",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477548565",
+      "funnet": "2026-09-28T20:44:29.053544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon - Pikachu #51 | Temporal Forces - Gradert",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-28T19:18:19.887559+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Turtwig LV.10 60 HP",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477543234",
-      "funnet": "2026-09-28T19:18:19.467990+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
