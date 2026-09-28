@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T04:54:51.851682+00:00",
+  "sist_sjekket": "2026-09-28T04:56:16.712280+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477480412",
+      "funnet": "2026-09-28T04:56:16.710360+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotokort / fotoprint med koreanske motiver",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477472696",
       "funnet": "2026-09-27T20:04:15.420472+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spinarak [Reverse Holo] 006/078, Yuka Morii - Pokemon GO",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477472450",
-      "funnet": "2026-09-27T20:02:15.252185+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
