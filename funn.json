@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T05:06:14.677382+00:00",
+  "sist_sjekket": "2026-09-28T05:08:14.527921+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477480513",
+      "funnet": "2026-09-28T05:08:14.525838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/454978992",
       "funnet": "2026-09-27T20:04:17.297072+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reggie Miller basketballkort – samling med 5 kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477472428",
-      "funnet": "2026-09-27T20:04:16.476673+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
