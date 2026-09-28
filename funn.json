@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T07:02:16.085046+00:00",
+  "sist_sjekket": "2026-09-28T07:04:15.224116+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Phantasmal Flames Booster Bundles",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477483168",
+      "funnet": "2026-09-28T07:04:15.222313+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Charizard TG03, Pokemon kort",
       "pris": 735,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477477425",
       "funnet": "2026-09-27T21:56:16.762367+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med 25 eldre bilder, Trondheim",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461461671",
-      "funnet": "2026-09-27T21:52:14.838774+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
