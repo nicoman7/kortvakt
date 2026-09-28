@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-28T11:48:17.036654+00:00",
+  "sist_sjekket": "2026-09-28T11:50:24.225915+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Scrafty",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477504185",
+      "funnet": "2026-09-28T11:50:24.223967+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477504113",
+      "funnet": "2026-09-28T11:50:23.601707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome F1 Pakke",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477504222",
+      "funnet": "2026-09-28T11:50:23.285547+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Wailord",
       "pris": 150,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477489420",
       "funnet": "2026-09-28T08:50:26.503806+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rattata [Reverse Holo] 019/165 - Pokemon Scarlet & Violet 151",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477489412",
-      "funnet": "2026-09-28T08:50:26.119781+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thievul 092/084 – Pitch Black – Illustration Rare",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477489478",
-      "funnet": "2026-09-28T08:50:25.493546+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Pokemonkort samling selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477489132",
-      "funnet": "2026-09-28T08:48:18.729007+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
