@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T14:02:19.834897+00:00",
+  "sist_sjekket": "2026-09-28T14:04:18.276344+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477515947",
+      "funnet": "2026-09-28T14:04:18.273581+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ninetales",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-28T12:14:17.457647+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS PREMIER LEAUGE KORT 26/27 - NITRO BOOST",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477505859",
-      "funnet": "2026-09-28T12:12:19.127092+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
