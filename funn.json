@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T11:36:18.030681+00:00",
+  "sist_sjekket": "2026-09-28T11:38:22.312158+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 master set incomplete",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477502472",
+      "funnet": "2026-09-28T11:38:22.310405+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort Ninetales Bright Look Hexed Flame",
       "pris": 199,
@@ -1190,14 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477488771",
       "funnet": "2026-09-28T08:42:18.865721+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 30th",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477488782",
-      "funnet": "2026-09-28T08:42:18.096576+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
