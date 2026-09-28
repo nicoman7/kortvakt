@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T10:04:19.850514+00:00",
+  "sist_sjekket": "2026-09-28T10:06:17.011625+00:00",
   "funn": [
+    {
+      "tittel": "Panini Mohamed Salah Golden Baller",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477495162",
+      "funnet": "2026-09-28T10:06:17.009536+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary Sylveon EX Box og Greninja EX Box",
       "pris": 650,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477486278",
       "funnet": "2026-09-28T08:04:20.329302+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kadabra [Reverse Holo] 064/165 - Pokemon Scarlet & Violet 151",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477486197",
-      "funnet": "2026-09-28T08:04:19.488076+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
