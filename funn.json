@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T18:40:26.115239+00:00",
+  "sist_sjekket": "2026-09-28T18:42:19.593965+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #79",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477540389",
+      "funnet": "2026-09-28T18:42:19.591775+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling",
       "pris": 950,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477530477",
       "funnet": "2026-09-28T16:50:30.378803+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Charmander, Arcanine m.m. – 8 stk",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477529328",
-      "funnet": "2026-09-28T16:50:29.492565+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
