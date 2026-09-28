@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T21:26:16.202862+00:00",
+  "sist_sjekket": "2026-09-28T21:28:18.841159+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-28T21:28:18.839615+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Disney Hannah Montana The Movie Panini album stickers (klistremerker)",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477544499",
       "funnet": "2026-09-28T19:34:18.049288+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Full Arts, Hits osv!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477541343",
-      "funnet": "2026-09-28T19:34:17.697264+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
