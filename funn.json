@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T00:00:47.398081+00:00",
+  "sist_sjekket": "2026-09-28T00:02:17.856037+00:00",
   "funn": [
+    {
+      "tittel": "Bulk med Pokèball og Master ball kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477479142",
+      "funnet": "2026-09-28T00:02:17.854372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "84 Graderte Pokemonkort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477006290",
+      "funnet": "2026-09-28T00:02:16.981961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Pikachu TG05/ TG30",
       "pris": 680,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-27T19:56:26.408281+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - EXP.ALL - Neo Destiny 1st Edition",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477472211",
-      "funnet": "2026-09-27T19:56:25.514810+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th Anniversary holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477471991",
-      "funnet": "2026-09-27T19:56:24.641909+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
