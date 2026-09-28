@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T15:04:20.205522+00:00",
+  "sist_sjekket": "2026-09-28T15:06:19.505455+00:00",
   "funn": [
+    {
+      "tittel": "Telekort",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477518972",
+      "funnet": "2026-09-28T15:06:19.503719+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "150 pokemon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477521053",
+      "funnet": "2026-09-28T15:06:18.639845+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Morpeko 206/182 Illustration Rare – Paradox Rift – NM/Mint",
       "pris": 599,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477511384",
       "funnet": "2026-09-28T13:12:20.133893+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Rabsca",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477511487",
-      "funnet": "2026-09-28T13:12:19.805864+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Julian Alvarez autografkort Global Attraction /50",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477511346",
-      "funnet": "2026-09-28T13:12:19.446496+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
