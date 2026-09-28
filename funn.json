@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T19:42:21.463817+00:00",
+  "sist_sjekket": "2026-09-28T19:44:15.166240+00:00",
   "funn": [
+    {
+      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
+      "funnet": "2026-09-28T19:44:15.164497+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dragonite V [Jumbo] SWSH154 - Pokemon Black Star-Promokort",
       "pris": 89,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-28T18:18:18.073917+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Cranidos nivå 24 kort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477538215",
-      "funnet": "2026-09-28T18:16:28.934301+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
