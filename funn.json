@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T14:22:18.128346+00:00",
+  "sist_sjekket": "2026-09-28T14:24:17.402450+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-28T14:24:17.400877+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Flaaffy reverse holo fra Pokemon Steam Siege",
       "pris": 15,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477509965",
       "funnet": "2026-09-28T12:54:20.493158+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Entei Holo 2001 PSA 9",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477509529",
-      "funnet": "2026-09-28T12:54:19.421272+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
