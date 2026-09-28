@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T12:46:22.206726+00:00",
+  "sist_sjekket": "2026-09-28T12:48:25.622137+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-28T12:48:25.620705+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Fossil 1st Edition 1999 – 6 kort – NM/M",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477493266",
       "funnet": "2026-09-28T09:42:20.164141+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Cobalion 64/86",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464475068",
-      "funnet": "2026-09-28T09:42:19.799988+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
