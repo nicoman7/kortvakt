@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-27T23:58:14.097829+00:00",
+  "sist_sjekket": "2026-09-28T00:00:47.398081+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Pikachu TG05/ TG30",
+      "pris": 680,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477479116",
+      "funnet": "2026-09-28T00:00:47.396418+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Articuno 132/128 – 30th Anniversary – Secret Rare",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477479124",
+      "funnet": "2026-09-28T00:00:47.120539+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Inception Lamine Yamal",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-27T19:56:24.641909+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort - Quagsire - EX Dragon Frontiers",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477471997",
-      "funnet": "2026-09-27T19:54:17.980809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 stk King’s Edict rare foil Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477471988",
-      "funnet": "2026-09-27T19:54:17.187811+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
