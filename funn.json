@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T12:20:25.292616+00:00",
+  "sist_sjekket": "2026-09-28T12:22:22.367078+00:00",
   "funn": [
+    {
+      "tittel": "TOPPS PREMIER LEAUGE 26/27 - ON FIRE",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477506784",
+      "funnet": "2026-09-28T12:22:22.365642+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Lillie’s Determination Trainer",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477492487",
       "funnet": "2026-09-28T09:32:15.778555+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Baltoy reverse holo 32/95",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477492599",
-      "funnet": "2026-09-28T09:32:15.153090+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
