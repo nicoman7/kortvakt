@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T20:44:29.055282+00:00",
+  "sist_sjekket": "2026-09-28T20:46:19.200392+00:00",
   "funn": [
+    {
+      "tittel": "Antonio Nusa - Leipzig - Fotballkort - Bundesliga",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477548972",
+      "funnet": "2026-09-28T20:46:19.198865+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wilfried Gnonto blå 099/150 | Leeds United | Topps 26/27",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477548710",
+      "funnet": "2026-09-28T20:46:18.486353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Mewtwo 56 Brilliant Stars Promo",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-28T19:18:21.751620+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu GX [Jumbo Oversized] SM232 - Pokemon Black Star-promokort",
-      "pris": 105,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477543192",
-      "funnet": "2026-09-28T19:18:20.825928+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragon Ball Kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477542954",
-      "funnet": "2026-09-28T19:18:19.887559+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
