@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T21:00:50.517400+00:00",
+  "sist_sjekket": "2026-09-28T21:02:50.564980+00:00",
   "funn": [
+    {
+      "tittel": "Mewtwo Futuristic Rare",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445029300",
+      "funnet": "2026-09-28T21:02:50.563106+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-09-28T21:02:49.993456+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon-30th celebrations pikachu",
       "pris": 299,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477543719",
       "funnet": "2026-09-28T19:24:17.048948+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477543684",
-      "funnet": "2026-09-28T19:24:16.677448+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Galarian Sirfetch’d V [Jumbo] SWSH043 - Pokemon Black Star-Promokort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477543827",
-      "funnet": "2026-09-28T19:24:15.781807+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
