@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T07:20:23.780419+00:00",
+  "sist_sjekket": "2026-09-28T07:22:17.462531+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 042/128 - Pokemon 30th Celebration",
+      "pris": 13,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477483922",
+      "funnet": "2026-09-28T07:22:17.460636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu ex 054/128 og Sylveon ex 071/128",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477483988",
+      "funnet": "2026-09-28T07:22:17.066887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 045/128 - Pokemon 30th Celebration",
       "pris": 12,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-27T22:12:16.216923+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort – Caterpie, Spearow, Horsea, Mankey m.fl.",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477477521",
-      "funnet": "2026-09-27T22:02:18.125049+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax GX #SM05 Pokemon Promo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477477538",
-      "funnet": "2026-09-27T22:02:17.727899+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
