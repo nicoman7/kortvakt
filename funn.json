@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T15:14:15.539968+00:00",
+  "sist_sjekket": "2026-09-28T15:16:19.374023+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges individuelt eller samlede. Frakt betales ekstra",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477516735",
+      "funnet": "2026-09-28T15:16:19.372398+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Chimecho 179/167 Illustration Rare – Twilight Masquerade – NM/Mint",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477521810",
+      "funnet": "2026-09-28T15:16:18.663143+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Slither Wing 203/182 Illustration Rare – Paradox Rift – NM/Mint",
       "pris": 99,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477509920",
       "funnet": "2026-09-28T13:14:20.297953+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Panini Prizm World Cup Ruben Vargas",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477511727",
-      "funnet": "2026-09-28T13:14:19.907176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Milotic 12/101 – EX Hidden Legends – Holo Rare – 2004",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477508783",
-      "funnet": "2026-09-28T13:14:19.185272+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
