@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-28T15:34:25.371498+00:00",
+  "sist_sjekket": "2026-09-28T15:36:20.253160+00:00",
   "funn": [
+    {
+      "tittel": "34 stk Pikachu fra 30th celebrations (samlet, 25 kr pr stk)",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477523250",
+      "funnet": "2026-09-28T15:36:20.251259+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece tcg samlekort – Silvers Rayleigh og flere kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477290275",
+      "funnet": "2026-09-28T15:36:19.470648+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spider-Man samle kort Miles Morales og Pavitr Prabhakar",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477512822",
       "funnet": "2026-09-28T13:28:26.896019+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alakazam 2/123 – Mysterious Treasures – Holo Rare – 2007",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477512608",
-      "funnet": "2026-09-28T13:28:25.357706+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ampharos 1/147 – Aquapolis – Reverse Holo Rare – e-Reader – 2003",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477512832",
-      "funnet": "2026-09-28T13:28:25.088123+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
