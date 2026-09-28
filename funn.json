@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T03:28:15.283232+00:00",
+  "sist_sjekket": "2026-09-28T03:30:41.421698+00:00",
   "funn": [
+    {
+      "tittel": "Fotokort / fotoprint med koreanske motiver",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477479781",
+      "funnet": "2026-09-28T03:30:41.419794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu Thunder Wave / Iron Tail",
       "pris": 1800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477472450",
       "funnet": "2026-09-27T20:02:15.252185+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Decidueye ex",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477472566",
-      "funnet": "2026-09-27T20:02:14.962945+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
