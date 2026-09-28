@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-28T05:02:22.836445+00:00",
+  "sist_sjekket": "2026-09-28T05:04:14.599109+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477480498",
+      "funnet": "2026-09-28T05:04:14.597092+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477472428",
       "funnet": "2026-09-27T20:04:16.476673+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Regice [Reverse Holo] 24/98 - Pokemon Ancient Origins",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477472696",
-      "funnet": "2026-09-27T20:04:15.420472+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
