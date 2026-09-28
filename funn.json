@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-28T17:38:22.608444+00:00",
+  "sist_sjekket": "2026-09-28T17:40:24.324674+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Dark Celebi 70 HP",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477534935",
+      "funnet": "2026-09-28T17:40:24.322802+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Eevee 50 HP",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477535050",
+      "funnet": "2026-09-28T17:40:23.606719+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "RONALD HOLLAND II 2025-26 TOPPS CHROME BLACK REFRACTOR /299 #24 PISTONS",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477535181",
+      "funnet": "2026-09-28T17:40:22.906444+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pinsir Jungle 60 HP",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477522298",
       "funnet": "2026-09-28T15:26:19.225700+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mew kort 30th Celebration",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477522561",
-      "funnet": "2026-09-28T15:26:18.494281+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Sylveon EX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477522798",
-      "funnet": "2026-09-28T15:26:17.777016+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "9 Pokémon ex / Ultra Rare / AR / SAR-kort – NM/Mint",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477522836",
-      "funnet": "2026-09-28T15:26:17.387492+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
