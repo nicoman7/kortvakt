@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T13:32:15.738023+00:00",
+  "sist_sjekket": "2026-09-29T13:34:20.540297+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort samling i pose",
+      "pris": 1199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477587924",
+      "funnet": "2026-09-29T13:34:20.538764+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Zigzagoon holo",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477588142",
+      "funnet": "2026-09-29T13:34:19.862796+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Scramble Energy spesial energikort",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477578052",
       "funnet": "2026-09-29T11:34:21.316538+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort japansk - trevenant mega dream ex",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477578163",
-      "funnet": "2026-09-29T11:34:20.867632+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Topps #86 Seel",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477578212",
-      "funnet": "2026-09-29T11:34:20.453609+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
