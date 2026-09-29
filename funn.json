@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-29T10:06:17.185598+00:00",
+  "sist_sjekket": "2026-09-29T10:08:18.746169+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Anniversary",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477571045",
+      "funnet": "2026-09-29T10:08:18.745058+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini fotballkort Lamine Yamal Fan Favourite",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477571271",
+      "funnet": "2026-09-29T10:08:17.965898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini golden baller kort med Harry Kane",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477571149",
+      "funnet": "2026-09-29T10:08:17.090745+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-09-29T10:08:16.671099+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn 2026 eternos kort",
       "pris": 500,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477561443",
       "funnet": "2026-09-29T07:48:23.260050+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Articuno 132 og Zapdos 133 selges samlet",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477561467",
-      "funnet": "2026-09-29T07:48:22.962870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fan Rotom japansk holo mega dream ex",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477561547",
-      "funnet": "2026-09-29T07:48:22.631457+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu V japansk PSA 10",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477561145",
-      "funnet": "2026-09-29T07:46:19.215989+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon M Mewtwo EX kort 63/162 holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477561329",
-      "funnet": "2026-09-29T07:46:18.402072+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
