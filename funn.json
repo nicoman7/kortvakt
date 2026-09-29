@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-29T16:56:22.818772+00:00",
+  "sist_sjekket": "2026-09-29T16:58:17.333117+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477602609",
+      "funnet": "2026-09-29T16:58:17.331092+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG: Mewtwo #56 Pokemon Expedition",
       "pris": 550,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477594209",
       "funnet": "2026-09-29T14:48:18.905525+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Professor's Research",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477594146",
-      "funnet": "2026-09-29T14:48:18.483200+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
