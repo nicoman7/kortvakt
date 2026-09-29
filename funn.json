@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-29T06:32:14.949056+00:00",
+  "sist_sjekket": "2026-09-29T06:34:22.121060+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477558056",
+      "funnet": "2026-09-29T06:34:22.119099+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477546983",
       "funnet": "2026-09-28T20:10:25.543298+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Egg Incubator Gold Secret Rare + Vanlig Trainer-kort ✨",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477546332",
-      "funnet": "2026-09-28T20:10:24.993329+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
