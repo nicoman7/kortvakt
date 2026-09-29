@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T19:24:17.892210+00:00",
+  "sist_sjekket": "2026-09-29T19:26:19.356405+00:00",
   "funn": [
+    {
+      "tittel": "Telekort: Coca-Cola nr 4 Australia",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/373775897",
+      "funnet": "2026-09-29T19:26:19.354782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Black Star Promos - Pokemon kort",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477615588",
+      "funnet": "2026-09-29T19:26:18.541036+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Telenor N-200 Moskus telefonkort 40 units",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477604710",
       "funnet": "2026-09-29T17:26:17.530680+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Palkia & Dialga LEGEND holo 101/102",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477604568",
-      "funnet": "2026-09-29T17:26:17.013382+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra 30th Celebration - Pikachu",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477604357",
-      "funnet": "2026-09-29T17:24:18.785197+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
