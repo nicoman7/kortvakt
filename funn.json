@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T06:26:16.053347+00:00",
+  "sist_sjekket": "2026-09-29T06:28:16.208152+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477557808",
+      "funnet": "2026-09-29T06:28:16.206180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu EX (30th anniversery)",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477557758",
+      "funnet": "2026-09-29T06:28:15.415498+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "#39 Pokémon Generations 2016 – 6 kort – Raskt salg",
       "pris": 220,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477546332",
       "funnet": "2026-09-28T20:10:24.993329+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th Celebration",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477547027",
-      "funnet": "2026-09-28T20:10:24.657399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th Celebration",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477547095",
-      "funnet": "2026-09-28T20:10:23.919870+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
