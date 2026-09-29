@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T14:24:20.493178+00:00",
+  "sist_sjekket": "2026-09-29T14:26:18.926355+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Magikarp holo",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477592587",
+      "funnet": "2026-09-29T14:26:18.924904+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Latias δ Delta Species holo 8/113",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477592596",
+      "funnet": "2026-09-29T14:26:18.355495+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yveltal BREAK 66/114 & Omastar BREAK 19/124. Pokemon kort",
       "pris": 49,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-29T12:46:16.431567+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort PSA-gradert Hitmonchan og Plasma Box EX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477583885",
-      "funnet": "2026-09-29T12:46:15.828399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
-      "funnet": "2026-09-29T12:46:15.236960+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
