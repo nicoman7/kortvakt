@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-29T12:44:22.571109+00:00",
+  "sist_sjekket": "2026-09-29T12:46:16.433429+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort bunt",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477584021",
+      "funnet": "2026-09-29T12:46:16.431567+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort PSA-gradert Hitmonchan og Plasma Box EX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477583885",
+      "funnet": "2026-09-29T12:46:15.828399+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
+      "funnet": "2026-09-29T12:46:15.236960+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Garbage Pail Kids Chrome – 2021 Blaster Box – uåpnet",
       "pris": 499,
@@ -1174,30 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477575597",
       "funnet": "2026-09-29T11:06:15.765648+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Booster Bundle",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477575720",
-      "funnet": "2026-09-29T11:06:15.413278+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort ambipom japansk holo inferno x",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477575835",
-      "funnet": "2026-09-29T11:06:14.843155+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salamence ex 187/159  – Special Illustration Rare – 2025 – Tsuyoshi Nagano",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477575393",
-      "funnet": "2026-09-29T11:04:16.617143+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
