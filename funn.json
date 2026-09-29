@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-29T06:58:13.568934+00:00",
+  "sist_sjekket": "2026-09-29T07:01:00.334695+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon deal",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477559027",
+      "funnet": "2026-09-29T07:01:00.333101+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort m/ prisliste",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477546939",
       "funnet": "2026-09-28T20:14:19.891717+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scarlet & Violet: Destined Rivals Elite Trainer Box (ETB)",
-      "pris": 1490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477546276",
-      "funnet": "2026-09-28T20:12:28.893211+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
