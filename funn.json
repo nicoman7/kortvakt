@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T06:50:26.519830+00:00",
+  "sist_sjekket": "2026-09-29T06:52:20.473035+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort m/ prisliste",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473508913",
+      "funnet": "2026-09-29T06:52:20.471021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort m/ prisliste",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473508002",
+      "funnet": "2026-09-29T06:52:20.025480+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort fra Jungle 1999",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477546276",
       "funnet": "2026-09-28T20:12:28.893211+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th Celebration",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477547138",
-      "funnet": "2026-09-28T20:12:28.042494+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Appletun japansk holo paradise dragona",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477547104",
-      "funnet": "2026-09-28T20:12:27.193243+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
