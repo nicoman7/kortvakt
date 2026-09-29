@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-29T09:54:17.678304+00:00",
+  "sist_sjekket": "2026-09-29T09:56:52.773942+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon produkter selges!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477569887",
+      "funnet": "2026-09-29T09:56:52.772306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Master Rookie fotballkort Andreas Schjelderup",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477570347",
+      "funnet": "2026-09-29T09:56:52.458858+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Scandinavian Star kort – Alexander Sørloth",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477570263",
+      "funnet": "2026-09-29T09:56:51.842386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 025/128 - 30th celebration",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477560659",
       "funnet": "2026-09-29T07:34:21.238451+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Spearow japansk holo mega brave",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477560717",
-      "funnet": "2026-09-29T07:34:20.335080+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Delibird japansk holo mega symphonia",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477560551",
-      "funnet": "2026-09-29T07:32:25.648103+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lugia holo topps",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477560534",
-      "funnet": "2026-09-29T07:32:24.797870+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
