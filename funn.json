@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-29T15:48:16.234696+00:00",
+  "sist_sjekket": "2026-09-29T15:50:30.079796+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477598591",
+      "funnet": "2026-09-29T15:50:30.078112+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "350+ Pokemon energikort",
       "pris": 89,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477591673",
       "funnet": "2026-09-29T14:12:19.335742+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – EX, GX og spesialkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477591638",
-      "funnet": "2026-09-29T14:12:18.459713+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
