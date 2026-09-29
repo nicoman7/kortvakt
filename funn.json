@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-29T08:30:40.393268+00:00",
+  "sist_sjekket": "2026-09-29T08:32:18.721740+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon - Ex kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477564140",
+      "funnet": "2026-09-29T08:32:18.719761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon vintage fra Base,  og Fossil",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-28T21:32:20.285234+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - masse sjeldent objekter!",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
-      "funnet": "2026-09-28T21:28:18.839615+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
