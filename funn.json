@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T19:42:22.870960+00:00",
+  "sist_sjekket": "2026-09-29T19:44:23.668026+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477616584",
+      "funnet": "2026-09-29T19:44:23.666630+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu XY89 Promo",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477617267",
+      "funnet": "2026-09-29T19:44:22.777960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Articuno holo kort",
       "pris": 160,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477605804",
       "funnet": "2026-09-29T17:38:25.498415+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, ca 300 rare shiny (holo/rev holo)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477605673",
-      "funnet": "2026-09-29T17:38:24.566689+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Trainer Lotion Potion 122/130 – Base Set 2 – 2000 – Keiji Kinebuchi",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477605830",
-      "funnet": "2026-09-29T17:38:23.622094+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
