@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-29T20:58:17.894130+00:00",
+  "sist_sjekket": "2026-09-29T21:00:53.680142+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges - nyere hits",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477621402",
+      "funnet": "2026-09-29T21:00:53.678487+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Jirachi EX 155/128",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477621433",
+      "funnet": "2026-09-29T21:00:53.102521+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2 Ascended Heroes booster bundles! Selges samlet!",
       "pris": 1850,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-29T18:50:24.832914+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar 94/102 pokemon 30th anniversary",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477612890",
-      "funnet": "2026-09-29T18:48:17.034530+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Vintage Bulk 175 stk - Gi Bud!",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477608041",
-      "funnet": "2026-09-29T18:46:18.081614+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
