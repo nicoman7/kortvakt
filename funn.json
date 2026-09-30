@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T20:06:22.853021+00:00",
+  "sist_sjekket": "2026-09-30T20:08:17.355399+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort 1999+",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685813",
+      "funnet": "2026-09-30T20:08:17.353505+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort reservert til pwilliam",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477686136",
+      "funnet": "2026-09-30T20:08:17.007737+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL VM Kort! Stort utvalg! Oppdatert 26.9",
       "pris": 2,
@@ -1182,22 +1198,6 @@
       "pris": 649,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477681104",
       "funnet": "2026-09-30T18:58:18.767172+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Machamp [Reverse Holo] #9 Pokemon Hidden Legends",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681558",
-      "funnet": "2026-09-30T18:58:18.040989+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Flashfire",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681528",
-      "funnet": "2026-09-30T18:58:17.468947+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
