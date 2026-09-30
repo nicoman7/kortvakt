@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T15:56:17.061531+00:00",
+  "sist_sjekket": "2026-09-30T15:58:19.035651+00:00",
   "funn": [
+    {
+      "tittel": "Charizard V 018/159",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477667829",
+      "funnet": "2026-09-30T15:58:19.033448+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega charizard X ex 013/094",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477655842",
       "funnet": "2026-09-30T13:14:19.065043+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Electrode vintage Pokemon-kort",
-      "pris": 155,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477655492",
-      "funnet": "2026-09-30T13:12:20.355190+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
