@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-30T14:10:27.188764+00:00",
+  "sist_sjekket": "2026-09-30T14:12:17.612957+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort sleeves (pris per stk)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660066",
+      "funnet": "2026-09-30T14:12:17.610893+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th Anniversary Tin-bokser med kort pris per",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660283",
+      "funnet": "2026-09-30T14:12:17.320354+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Binder Collection samleboks",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660342",
+      "funnet": "2026-09-30T14:12:16.672827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🌟Pakker med ekstra mye glins! 10 holo + 1 ex-kort!🌟",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477647873",
       "funnet": "2026-09-30T11:38:19.284072+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Elite Trainer Box (ETB) - Astral Radiance",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477648127",
-      "funnet": "2026-09-30T11:38:18.409340+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - masse sjeldent objekter!",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
-      "funnet": "2026-09-30T11:38:17.512672+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon journey together",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477647980",
-      "funnet": "2026-09-30T11:36:16.946049+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
