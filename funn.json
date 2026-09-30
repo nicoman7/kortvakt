@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T09:40:23.453166+00:00",
+  "sist_sjekket": "2026-09-30T09:42:15.965427+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-09-30T09:42:15.963470+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Elite Trainer Box (ETB) - Darkness Ablaze",
       "pris": 1800,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477625479",
       "funnet": "2026-09-30T04:24:16.690592+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "41 sowsow Pokémon TCG Art Kort - selges samlet!!",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477625468",
-      "funnet": "2026-09-30T04:24:16.461189+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
