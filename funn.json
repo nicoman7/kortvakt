@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T10:50:25.702627+00:00",
+  "sist_sjekket": "2026-09-30T10:52:15.992143+00:00",
   "funn": [
+    {
+      "tittel": "Stor Pokemon Bulk til gi bort pris",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477641261",
+      "funnet": "2026-09-30T10:52:15.990204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Elite Trainer Box (ETB) - Phantasmal Flames",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477632534",
       "funnet": "2026-09-30T08:18:18.487081+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pakker med ekstra mye glins! 10 holo + 1 ex-kort!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-09-30T08:18:17.654960+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
