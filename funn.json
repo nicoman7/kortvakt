@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T12:04:17.984619+00:00",
+  "sist_sjekket": "2026-09-30T12:06:18.061445+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477650152",
+      "funnet": "2026-09-30T12:06:18.059861+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra pitch black , ca 350 kort",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477098022",
       "funnet": "2026-09-30T09:30:37.887599+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trading Card Game metallboks med kort",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477636868",
-      "funnet": "2026-09-30T09:26:21.042491+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
