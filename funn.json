@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-30T17:48:21.022828+00:00",
+  "sist_sjekket": "2026-09-30T17:50:25.695867+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort – samlekortpakke",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477675283",
+      "funnet": "2026-09-30T17:50:25.694204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jolteon v swsh183 promo kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477676397",
+      "funnet": "2026-09-30T17:50:25.093927+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Naveen #112 Ultra Rare",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477676110",
+      "funnet": "2026-09-30T17:50:24.801615+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jolteon vmax swsh184 promo kort",
       "pris": 700,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477665938",
       "funnet": "2026-09-30T15:46:20.147499+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gem packs vol.6 booster box Pokemon kinesisk",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477666470",
-      "funnet": "2026-09-30T15:46:19.349605+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Celebrations",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477664723",
-      "funnet": "2026-09-30T15:46:18.646950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Lionel Messi Limited Edition Gold",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477667054",
-      "funnet": "2026-09-30T15:46:18.271274+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
