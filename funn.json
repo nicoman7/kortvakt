@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T21:38:17.286259+00:00",
+  "sist_sjekket": "2026-09-30T21:40:25.314791+00:00",
   "funn": [
+    {
+      "tittel": "Topps Premier League fotballkort O’Reilly Manchester City 28/50",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477689717",
+      "funnet": "2026-09-30T21:40:25.312970+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 Tins (2 pakker)",
       "pris": 649,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T19:16:32.636245+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dream EX japanske boosterbokser",
-      "pris": 1098,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477231855",
-      "funnet": "2026-09-30T19:16:31.823334+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
