@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T21:48:17.377038+00:00",
+  "sist_sjekket": "2026-09-30T21:50:24.135493+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon lot",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477689889",
+      "funnet": "2026-09-30T21:50:24.133769+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse kort selges one piece",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477681017",
       "funnet": "2026-09-30T19:16:35.250358+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon boks – Over 500 kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475854302",
-      "funnet": "2026-09-30T19:16:34.762129+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
