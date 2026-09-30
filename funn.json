@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-30T19:58:27.094713+00:00",
+  "sist_sjekket": "2026-09-30T20:00:50.616107+00:00",
   "funn": [
+    {
+      "tittel": "V Pokemon Kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685437",
+      "funnet": "2026-09-30T20:00:50.614395+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mega Eelektross EX #225",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685454",
+      "funnet": "2026-09-30T20:00:49.736190+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ex Pokemon Kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685549",
+      "funnet": "2026-09-30T20:00:49.370227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med tilbehør",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685564",
+      "funnet": "2026-09-30T20:00:48.936832+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort og tilbehør ( fri frakt )",
       "pris": 250,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477680596",
       "funnet": "2026-09-30T18:50:25.513710+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kommo-O #143 Pokemon 30th Celebration",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477680940",
-      "funnet": "2026-09-30T18:50:25.074930+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kangaskhan holo 5/64 Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681046",
-      "funnet": "2026-09-30T18:50:24.406234+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Banette ex 85/92 Legend Maker",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477680774",
-      "funnet": "2026-09-30T18:48:19.717907+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Hannah Montana The Movie Panini album stickers (klistremerker)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468266964",
-      "funnet": "2026-09-30T18:48:19.141903+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
