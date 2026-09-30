@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T00:48:19.547068+00:00",
+  "sist_sjekket": "2026-09-30T00:50:21.867969+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-09-30T00:50:21.866612+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Jolteon 26/111 – Rising Rivals 2009 – Rare",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477618525",
       "funnet": "2026-09-29T20:00:55.225978+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Hypno holo",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477618602",
-      "funnet": "2026-09-29T20:00:54.802571+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
