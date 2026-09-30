@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T15:14:19.297242+00:00",
+  "sist_sjekket": "2026-09-30T15:16:17.414062+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Drifloon 136/128",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477664770",
+      "funnet": "2026-09-30T15:16:17.412428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Togekiss 235/217 – Ascended Heroes – Illustration Rare",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477664778",
+      "funnet": "2026-09-30T15:16:17.091057+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Chandelure 137/128",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-30T12:26:22.053660+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th celebration",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477651250",
-      "funnet": "2026-09-30T12:24:16.653794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Zacian Zamazenta vs Eternatus spesialdeck japansk",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477651928",
-      "funnet": "2026-09-30T12:24:15.920649+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
