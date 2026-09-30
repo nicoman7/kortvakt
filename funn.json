@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T12:46:18.780240+00:00",
+  "sist_sjekket": "2026-09-30T12:48:17.220228+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – blandet samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477653766",
+      "funnet": "2026-09-30T12:48:17.218652+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "pokemon kort samling (Astral Radiance)",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477653091",
+      "funnet": "2026-09-30T12:48:16.505287+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nidoking vintage Pokemon-kort",
       "pris": 220,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477640885",
       "funnet": "2026-09-30T10:10:23.211579+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM klistremerker 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477638905",
-      "funnet": "2026-09-30T10:08:16.771457+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulk ca. 2300 pokemon kort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477635224",
-      "funnet": "2026-09-30T10:04:17.744667+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
