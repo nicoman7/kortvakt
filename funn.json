@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T20:24:17.259030+00:00",
+  "sist_sjekket": "2026-09-30T20:26:15.666483+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-09-30T20:26:15.664190+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Ascended heroes hits",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T19:10:24.425151+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon #10 Holo - Pokemon",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476747282",
-      "funnet": "2026-09-30T19:10:23.767782+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
