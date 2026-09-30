@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T14:48:16.849284+00:00",
+  "sist_sjekket": "2026-09-30T14:50:27.376821+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-30T14:50:27.375128+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477649758",
       "funnet": "2026-09-30T11:56:17.087104+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps NFL Flagship Football 2026 Kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477649765",
-      "funnet": "2026-09-30T11:56:16.690760+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
