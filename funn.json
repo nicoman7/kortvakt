@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T06:26:23.097722+00:00",
+  "sist_sjekket": "2026-09-30T06:28:15.924120+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon : Mye forskjellig Pokemonkort selges !",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477626886",
+      "funnet": "2026-09-30T06:28:15.921835+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "David De Gea og Wayne Rooney graderte fotballkort",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477619930",
       "funnet": "2026-09-29T20:24:19.928942+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Suicune V 200/198 Secret Rare",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477619650",
-      "funnet": "2026-09-29T20:22:15.704585+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
