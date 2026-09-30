@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T15:38:21.859490+00:00",
+  "sist_sjekket": "2026-09-30T15:40:24.119595+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477666453",
+      "funnet": "2026-09-30T15:40:24.118355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Gengar ex 125/217 – Ascended Heroes – Double Rare",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477654656",
       "funnet": "2026-09-30T12:58:17.147817+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zapdos vintage Pokemon-kort",
-      "pris": 310,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477654585",
-      "funnet": "2026-09-30T12:58:16.410605+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
