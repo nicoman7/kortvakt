@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-30T20:02:21.316157+00:00",
+  "sist_sjekket": "2026-09-30T20:04:22.862288+00:00",
   "funn": [
+    {
+      "tittel": "fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/327351102",
+      "funnet": "2026-09-30T20:04:22.860570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Japansk Pokémon-kortpakke – Mirror Holo + SR Energy – NM",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685782",
+      "funnet": "2026-09-30T20:04:22.069355+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "fotball",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/327347896",
+      "funnet": "2026-09-30T20:04:21.677224+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard 30th Celebration",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477685918",
+      "funnet": "2026-09-30T20:04:20.729614+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske Pokemon Kort",
       "pris": 10,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477681463",
       "funnet": "2026-09-30T18:58:17.156828+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ditto Squirtle Reverse Holo 40/113",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681439",
-      "funnet": "2026-09-30T18:58:16.866570+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Shining Celebi japansk holo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681336",
-      "funnet": "2026-09-30T18:56:23.461277+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "single pokemon kort fra Pokemon 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477678971",
-      "funnet": "2026-09-30T18:56:22.616373+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Ancient Origins",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477681371",
-      "funnet": "2026-09-30T18:56:22.130625+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
