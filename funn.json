@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T08:50:25.144668+00:00",
+  "sist_sjekket": "2026-09-30T08:52:16.395116+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477634948",
+      "funnet": "2026-09-30T08:52:16.393235+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Shuckle kort fra Mega evolution",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477624597",
       "funnet": "2026-09-29T23:42:19.267632+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hosea Samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477624565",
-      "funnet": "2026-09-29T23:42:18.507504+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
