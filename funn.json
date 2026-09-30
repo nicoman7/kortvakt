@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T19:30:38.822968+00:00",
+  "sist_sjekket": "2026-09-30T19:32:18.388283+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon kort TOPPS",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477683847",
+      "funnet": "2026-09-30T19:32:18.386838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard δ 4/100 – EX Crystal Guardians | Reverse Holo",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477683802",
+      "funnet": "2026-09-30T19:32:17.456007+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex #54 Pokemon 30th Celebration",
       "pris": 60,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-09-30T18:28:18.979156+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard GX SM195 Promo",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477679159",
-      "funnet": "2026-09-30T18:28:18.591545+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Beedrill H4/H32 Skyridge Holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477679256",
-      "funnet": "2026-09-30T18:28:17.835249+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
