@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T18:30:46.854674+00:00",
+  "sist_sjekket": "2026-09-30T18:32:17.260119+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-09-30T18:32:17.258178+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Sword & Shield Brilliant Stars boosterpakker x 3",
       "pris": 660,
@@ -1190,14 +1198,6 @@
       "pris": 1699,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477670362",
       "funnet": "2026-09-30T16:32:15.060333+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SJELDEN!!! Pokémon Palafin ex Box samleboks",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477669903",
-      "funnet": "2026-09-30T16:30:48.005906+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
