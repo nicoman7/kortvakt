@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-30T13:04:16.715019+00:00",
+  "sist_sjekket": "2026-09-30T13:06:17.562124+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477655102",
+      "funnet": "2026-09-30T13:06:17.560383+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Star Wars Chrome Samlekort Bulk 26 Stk - Hux, Maz, The Client",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477654961",
+      "funnet": "2026-09-30T13:06:16.693690+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Squirtle 170/165 – Pokémon 151 – Art Rare – Japansk",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477655202",
+      "funnet": "2026-09-30T13:06:16.194456+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebrations Elite Trainer Box 30 års jubileum",
       "pris": 1950,
@@ -1174,30 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477642788",
       "funnet": "2026-09-30T10:34:19.539921+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Flutter Mane",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477642547",
-      "funnet": "2026-09-30T10:32:21.546046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Sandygast #75",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477642673",
-      "funnet": "2026-09-30T10:32:20.487876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hisuian Goodra #196",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477642403",
-      "funnet": "2026-09-30T10:30:41.911018+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
