@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T21:46:17.197283+00:00",
+  "sist_sjekket": "2026-09-30T21:48:17.377038+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-09-30T21:48:17.375402+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Gold Lion fotballkort Willian og Henry",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475854302",
       "funnet": "2026-09-30T19:16:34.762129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon boks – Over 500 kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475854709",
-      "funnet": "2026-09-30T19:16:34.330197+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
