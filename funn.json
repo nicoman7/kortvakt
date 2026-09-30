@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T17:16:19.754018+00:00",
+  "sist_sjekket": "2026-09-30T17:18:18.004133+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-09-30T17:18:18.002076+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling med fotballkort i plastmapper",
       "pris": 699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477664641",
       "funnet": "2026-09-30T15:14:19.295417+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
-      "funnet": "2026-09-30T15:14:18.975391+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
