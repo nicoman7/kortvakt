@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-09-30T10:34:20.375498+00:00",
+  "sist_sjekket": "2026-09-30T10:36:22.832720+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kodekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477642727",
+      "funnet": "2026-09-30T10:36:22.830800+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokedex & Masterset Pokemon 1999-2025",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/451036283",
+      "funnet": "2026-09-30T10:36:22.457510+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Skyridge Holos m/ prisliste",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456168362",
+      "funnet": "2026-09-30T10:36:22.062086+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Disney Hannah Montana The Movie Panini album stickers (klistremerker)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468266964",
+      "funnet": "2026-09-30T10:36:21.148842+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Pokemon kort hits",
       "pris": 500,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-09-30T08:10:22.552070+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Alakazam holo 1/102 Base",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477631898",
-      "funnet": "2026-09-30T08:08:18.574303+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477631351",
-      "funnet": "2026-09-30T08:02:14.922707+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
-      "funnet": "2026-09-30T08:02:14.686082+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - engelsk & japansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
-      "funnet": "2026-09-30T07:52:14.785986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
