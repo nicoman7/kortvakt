@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T17:10:25.186658+00:00",
+  "sist_sjekket": "2026-09-30T17:12:25.187488+00:00",
   "funn": [
+    {
+      "tittel": "Latias Holo Kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477673494",
+      "funnet": "2026-09-30T17:12:25.185862+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort samling – landslagsspillere i album",
       "pris": 599,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477663573",
       "funnet": "2026-09-30T15:06:25.639326+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Holo & Reverseholo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477663762",
-      "funnet": "2026-09-30T15:06:24.860369+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
