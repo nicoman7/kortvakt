@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T12:16:19.538639+00:00",
+  "sist_sjekket": "2026-09-30T12:20:26.248865+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477651432",
+      "funnet": "2026-09-30T12:20:26.246786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Anniversary Poster Collection med kort",
       "pris": 599,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T09:44:16.192471+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
-      "funnet": "2026-09-30T09:42:15.963470+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
