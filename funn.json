@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T03:42:14.937095+00:00",
+  "sist_sjekket": "2026-09-30T03:44:14.188013+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477625296",
+      "funnet": "2026-09-30T03:44:14.185945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX (opptil 3!) Pokemon pakker med 50 kort for kun 99 kr!\"",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477618439",
       "funnet": "2026-09-29T20:00:56.940278+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Blastoise holo Team Rocket",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477618471",
-      "funnet": "2026-09-29T20:00:56.524835+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
