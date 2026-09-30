@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-30T11:40:22.307994+00:00",
+  "sist_sjekket": "2026-09-30T11:42:21.851283+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling (Pokemon Go)",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477647780",
+      "funnet": "2026-09-30T11:42:21.849788+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Perm med HITS!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477648286",
+      "funnet": "2026-09-30T11:42:20.986195+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "FotballkortTopps Chrome UCC 25/26",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477257049",
+      "funnet": "2026-09-30T11:42:20.600664+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ambipom Phantomail illustrasjonskort CGC 10",
       "pris": 700,
@@ -1174,30 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477634065",
       "funnet": "2026-09-30T08:40:25.495368+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort-25kr per hit!",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477633904",
-      "funnet": "2026-09-30T08:40:25.118062+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjelden Liverpool samler gjenstand",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477633947",
-      "funnet": "2026-09-30T08:38:17.371008+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjelden Arsenal samlegjenstan",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477633477",
-      "funnet": "2026-09-30T08:38:16.620607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
