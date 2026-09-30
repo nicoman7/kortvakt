@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T18:16:19.273096+00:00",
+  "sist_sjekket": "2026-09-30T18:18:21.423563+00:00",
   "funn": [
+    {
+      "tittel": "Pelé fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477678335",
+      "funnet": "2026-09-30T18:18:21.422263+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diego Maradona fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477678509",
+      "funnet": "2026-09-30T18:18:21.031202+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Machamp Holo Pokemon",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 290,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477666878",
       "funnet": "2026-09-30T16:10:30.959314+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mindsplitter rare foil Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477668793",
-      "funnet": "2026-09-30T16:10:30.601696+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon 151 pokeballs",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477668717",
-      "funnet": "2026-09-30T16:10:29.722617+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
