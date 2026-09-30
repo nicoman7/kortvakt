@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T14:42:18.287915+00:00",
+  "sist_sjekket": "2026-09-30T14:44:23.990852+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon nøkkelring Pikachu og Glaceon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477662391",
+      "funnet": "2026-09-30T14:44:23.989174+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Destined Rivals og 30 TH anniversary pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477662083",
+      "funnet": "2026-09-30T14:44:23.063707+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon nøkkelring Pikachu og Delibird",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477649621",
       "funnet": "2026-09-30T11:54:17.628334+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece tcg samlekort – Silvers Rayleigh og flere kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477290275",
-      "funnet": "2026-09-30T11:54:16.748973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dark Tyranitar kort holo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477649174",
-      "funnet": "2026-09-30T11:50:27.528768+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
