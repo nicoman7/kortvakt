@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T23:08:15.890136+00:00",
+  "sist_sjekket": "2026-09-30T23:10:24.461549+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Prismatic Evolutions Booster Bundle",
+      "pris": 1199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477690925",
+      "funnet": "2026-09-30T23:10:24.460376+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🧡 Eksklusiv Flareon Binder – 480 kort",
       "pris": 399,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474145251",
       "funnet": "2026-09-30T19:22:16.621639+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30 Celebration Sylveon EX Box",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477476446",
-      "funnet": "2026-09-30T19:20:31.634455+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
