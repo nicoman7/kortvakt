@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T05:02:14.288213+00:00",
+  "sist_sjekket": "2026-09-30T05:04:18.627400+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX 151 CGC 8.5",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477625708",
+      "funnet": "2026-09-30T05:04:18.625863+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard VMAX  CGC 8",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-29T20:16:16.137481+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477619395",
-      "funnet": "2026-09-29T20:16:15.767173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
