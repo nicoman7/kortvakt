@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T14:18:21.675243+00:00",
+  "sist_sjekket": "2026-09-30T14:20:26.390030+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort (2011-2012)",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660794",
+      "funnet": "2026-09-30T14:20:26.388320+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "One Piece manga samling OP17 sleeved helt ny pris per",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660822",
+      "funnet": "2026-09-30T14:20:26.085951+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra eldre serier , 80 stk",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477648432",
       "funnet": "2026-09-30T11:40:22.049664+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Besrtic #114 Black Bolt japansk",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477648294",
-      "funnet": "2026-09-30T11:40:21.790534+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pansage #89 Black Bolt japansk",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477648144",
-      "funnet": "2026-09-30T11:38:21.770499+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
