@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T23:52:13.385697+00:00",
+  "sist_sjekket": "2026-09-30T23:54:16.131807+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – blandet",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477691162",
+      "funnet": "2026-09-30T23:54:16.130050+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Andreas Schjelderup RC fotballkort - nummerert /275",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477691308",
+      "funnet": "2026-09-30T23:54:15.421968+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Andreas Schjelderup RC fotballkort - Under 21",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477682999",
       "funnet": "2026-09-30T19:24:19.854177+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort til salgs – Auto - Nummererte - Patch",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470743632",
-      "funnet": "2026-09-30T19:24:19.408020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini sjeldne fotballkort - 5 stk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463499927",
-      "funnet": "2026-09-30T19:24:18.621193+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
