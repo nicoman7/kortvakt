@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-09-30T16:56:17.782620+00:00",
+  "sist_sjekket": "2026-09-30T16:58:20.240704+00:00",
   "funn": [
+    {
+      "tittel": "Bulk japanske kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477672316",
+      "funnet": "2026-09-30T16:58:20.238964+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini fotballkort album – landslagsspillere",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477672439",
+      "funnet": "2026-09-30T16:58:19.336959+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon: Articuno 132/128 – 30th Celebration Illustration Rare (Near Mint)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477672467",
+      "funnet": "2026-09-30T16:58:18.434885+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Gholdengo 142/128 – 30th Celebration Illustration Rare (Near Mint)",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477663946",
       "funnet": "2026-09-30T15:04:19.554282+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Watchog 097/086 – Chaos Rising – Illustration Rare",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477663872",
-      "funnet": "2026-09-30T15:04:18.832072+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort - blandet lot",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477663952",
-      "funnet": "2026-09-30T15:04:18.054340+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "150 Pokémon energikort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477663552",
-      "funnet": "2026-09-30T15:00:53.946242+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
