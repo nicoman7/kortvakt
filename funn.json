@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T10:56:15.788709+00:00",
+  "sist_sjekket": "2026-09-30T10:58:17.898942+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration Sylveon ex Box",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477644957",
+      "funnet": "2026-09-30T10:58:17.897326+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th celebration Greninja ex Box",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477644773",
+      "funnet": "2026-09-30T10:58:17.565092+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th celebration Pokemon kort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477632679",
       "funnet": "2026-09-30T08:20:24.310176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort Messi & Ronaldinho 2005/2006",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403199091",
-      "funnet": "2026-09-30T08:18:20.361554+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu swsh153 promo Pokémon",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477632513",
-      "funnet": "2026-09-30T08:18:19.366142+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
