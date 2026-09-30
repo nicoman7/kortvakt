@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T08:14:20.893486+00:00",
+  "sist_sjekket": "2026-09-30T08:16:17.273874+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477632431",
+      "funnet": "2026-09-30T08:16:17.272662+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Dragonite 19/62 Fossil",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477621200",
       "funnet": "2026-09-29T20:54:18.166286+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary trade",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477618380",
-      "funnet": "2026-09-29T20:54:17.360081+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
