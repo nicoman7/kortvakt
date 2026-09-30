@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-09-30T16:12:19.585822+00:00",
+  "sist_sjekket": "2026-09-30T16:14:19.181648+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon japansk og engelsk",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477668707",
+      "funnet": "2026-09-30T16:14:19.179673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-09-30T16:14:18.278408+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hypno 19/106 – Great Encounters – Rare – 2008",
       "pris": 45,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477658004",
       "funnet": "2026-09-30T13:46:19.008375+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 026/128, 30th Celebration🟡",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477658137",
-      "funnet": "2026-09-30T13:46:18.164949+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Klinklang 147/086 – White Flare – Art Rare – Japansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477657335",
-      "funnet": "2026-09-30T13:44:17.720077+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
