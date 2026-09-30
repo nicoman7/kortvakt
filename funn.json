@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-09-30T14:14:18.608839+00:00",
+  "sist_sjekket": "2026-09-30T14:16:18.327144+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort (2008)",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477660108",
+      "funnet": "2026-09-30T14:16:18.325941+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort sleeves (pris per stk)",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477648268",
       "funnet": "2026-09-30T11:38:20.121918+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Eevee, Espeon & Umbreon Master Ball Holo!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477647873",
-      "funnet": "2026-09-30T11:38:19.284072+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
