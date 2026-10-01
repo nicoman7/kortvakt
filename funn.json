@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T18:02:18.907990+00:00",
+  "sist_sjekket": "2026-10-01T18:04:21.903401+00:00",
   "funn": [
+    {
+      "tittel": "Umbreon XY96 Promo (NM) - Pokemon",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477744973",
+      "funnet": "2026-10-01T18:04:21.901355+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort Manchester United RC – JJ Gabriel, Lammens & Zidane Iqbal",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 729,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477734612",
       "funnet": "2026-10-01T15:42:22.207865+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Vibes Kort fra Topps Flagship 26/27",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477734175",
-      "funnet": "2026-10-01T15:42:21.782469+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
