@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T14:10:33.087226+00:00",
+  "sist_sjekket": "2026-10-01T14:12:26.588205+00:00",
   "funn": [
+    {
+      "tittel": "Oscar Bobb fotballkort - Topps Merlin",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477727395",
+      "funnet": "2026-10-01T14:12:26.586441+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477727396",
+      "funnet": "2026-10-01T14:12:25.838405+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5x Sealed Pokemon 30th Celebration ETB",
       "pris": 1899,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-01T10:24:18.694979+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax 25/26 - bunke med ca 100 kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477708460",
-      "funnet": "2026-10-01T10:24:18.053023+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokeball tin selges samlet",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477708565",
-      "funnet": "2026-10-01T10:24:17.365835+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
