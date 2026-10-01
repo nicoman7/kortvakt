@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-01T17:00:54.812596+00:00",
+  "sist_sjekket": "2026-10-01T17:02:18.755449+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon: Pikachu 25/30 – 30th Celebration",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477740858",
+      "funnet": "2026-10-01T17:02:18.753660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mystery pokemon binder",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477740628",
+      "funnet": "2026-10-01T17:02:18.182102+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Trading Card Game samleboks 30th Anniversary",
+      "pris": 775,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477740833",
+      "funnet": "2026-10-01T17:02:17.623814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon: Pikachu 18/30 – 30th Celebration",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477740705",
+      "funnet": "2026-10-01T17:02:17.369790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Pikachu 29/30 – 30th Celebration",
       "pris": 35,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-01T14:24:23.315351+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Nosepass 25/110 EX Holon Phantoms",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477728782",
-      "funnet": "2026-10-01T14:24:22.564395+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Seel 44/214 Unbroken Bonds (holo)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477728700",
-      "funnet": "2026-10-01T14:24:21.606716+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rosa/blå parallellkort Topps PL 2026/27",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477728641",
-      "funnet": "2026-10-01T14:24:21.274803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477728529",
-      "funnet": "2026-10-01T14:24:20.475249+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
