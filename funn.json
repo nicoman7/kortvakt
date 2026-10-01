@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T09:46:16.438722+00:00",
+  "sist_sjekket": "2026-10-01T09:48:16.533485+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477705894",
+      "funnet": "2026-10-01T09:48:16.531563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece tcg samlekort – Silvers Rayleigh og flere kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477688911",
       "funnet": "2026-09-30T21:12:14.796292+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon div kort",
-      "pris": 265,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477688783",
-      "funnet": "2026-09-30T21:08:16.791251+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
