@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T15:01:01.029749+00:00",
+  "sist_sjekket": "2026-10-01T15:02:21.067943+00:00",
   "funn": [
+    {
+      "tittel": "Grønn samleperm med 360 plastlommer",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477731048",
+      "funnet": "2026-10-01T15:02:21.066314+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gul samleperm med 360 plastlommer",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477730852",
+      "funnet": "2026-10-01T15:02:20.223337+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Expedition Pichu 22/165 swirl",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477719364",
       "funnet": "2026-10-01T12:36:21.192635+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Bulbasaur 1/18 Detective Pikachu (holo)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477719436",
-      "funnet": "2026-10-01T12:36:20.351539+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Granbull 91/149 Sun & Moon (holo)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477719634",
-      "funnet": "2026-10-01T12:36:19.515661+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
