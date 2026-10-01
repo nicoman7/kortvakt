@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T18:26:19.567502+00:00",
+  "sist_sjekket": "2026-10-01T18:28:16.874192+00:00",
   "funn": [
+    {
+      "tittel": "Mark Viduka – Panini VM 2006 (Australia)",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477746510",
+      "funnet": "2026-10-01T18:28:16.872664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-10-01T18:28:16.122710+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Pitch Black m/Charizard tinnboks",
       "pris": 449,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-01T16:22:19.531994+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu Base Set",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477737548",
-      "funnet": "2026-10-01T16:20:28.057659+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eevee #11 (WoTC promo) i NM/LP - Pokemon",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477737525",
-      "funnet": "2026-10-01T16:20:27.048574+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
