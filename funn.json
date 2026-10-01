@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T11:12:18.143287+00:00",
+  "sist_sjekket": "2026-10-01T11:14:20.644498+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - masse sjeldent objekter!",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
+      "funnet": "2026-10-01T11:14:20.642798+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477691374",
       "funnet": "2026-10-01T00:10:22.622223+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex #126/103 SAR – Pokemon 30th Celebration – Japansk",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477691366",
-      "funnet": "2026-10-01T00:08:20.652666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
