@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T09:36:16.461014+00:00",
+  "sist_sjekket": "2026-10-01T09:38:18.030359+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477704849",
+      "funnet": "2026-10-01T09:38:18.028600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL VM Kort! Stort utvalg! Oppdatert 26.9",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-10-01T09:38:17.214383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th anniversary kort",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477688295",
       "funnet": "2026-09-30T20:56:16.427119+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477688275",
-      "funnet": "2026-09-30T20:54:17.461130+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration – Pikachu #09 (Rare)",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477688038",
-      "funnet": "2026-09-30T20:50:25.334598+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
