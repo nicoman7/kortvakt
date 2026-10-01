@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T14:28:17.497521+00:00",
+  "sist_sjekket": "2026-10-01T14:30:47.312212+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477728938",
+      "funnet": "2026-10-01T14:30:47.310427+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ethan Ampadu Stars of the Premier League SPL15 fra Topps League 2026/27 ✨⚽",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477729093",
+      "funnet": "2026-10-01T14:30:46.738944+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Phil Foden Stars of the Premier League SPL18 fra Topps League 2026/27 ✨⚽",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 1555,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477715163",
       "funnet": "2026-10-01T11:48:19.811281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Evolutions, liten samlepakke",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477715256",
-      "funnet": "2026-10-01T11:48:19.412910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon e-series, priser i beskrivelse.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477408998",
-      "funnet": "2026-10-01T11:42:15.840567+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
