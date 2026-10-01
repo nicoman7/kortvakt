@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T08:06:38.670471+00:00",
+  "sist_sjekket": "2026-10-01T08:08:15.746178+00:00",
   "funn": [
+    {
+      "tittel": "signerte Arsenal-kort – Bergkamp, Van Persie, Touré, Adebayor + Henry",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477698915",
+      "funnet": "2026-10-01T08:08:15.744883+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort lot – 4 autografer + nummererte kort – Arsenal, Barcelona m.m.",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T20:08:17.353505+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort reservert til pwilliam",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477686136",
-      "funnet": "2026-09-30T20:08:17.007737+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
