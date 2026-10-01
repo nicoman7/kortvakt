@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T08:30:40.230220+00:00",
+  "sist_sjekket": "2026-10-01T08:32:18.678917+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon : Evolving Skies Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477700473",
+      "funnet": "2026-10-01T08:32:18.677018+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th celebration Dark Tyranitar 144/103 japansk",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477686820",
       "funnet": "2026-09-30T20:20:24.680066+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – 3x Unown",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/461923213",
-      "funnet": "2026-09-30T20:20:24.188136+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
