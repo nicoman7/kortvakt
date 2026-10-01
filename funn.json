@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T07:28:21.399065+00:00",
+  "sist_sjekket": "2026-10-01T07:30:36.603309+00:00",
   "funn": [
+    {
+      "tittel": "Thomas Partey Autograf /150 – Topps Finest UCL – PSA 9",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477696730",
+      "funnet": "2026-10-01T07:30:36.602101+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "30th Celebration Pokemonkort",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477685564",
       "funnet": "2026-09-30T20:00:48.936832+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og tilbehør ( fri frakt )",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477685359",
-      "funnet": "2026-09-30T19:56:16.710389+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
