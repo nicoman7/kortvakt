@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-01T16:18:17.184045+00:00",
+  "sist_sjekket": "2026-10-01T16:20:28.059829+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Pikachu Base Set",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477737548",
+      "funnet": "2026-10-01T16:20:28.057659+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eevee #11 (WoTC promo) i NM/LP - Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477737525",
+      "funnet": "2026-10-01T16:20:27.048574+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Lennart Karl RC /99  Bayern München",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477737508",
+      "funnet": "2026-10-01T16:20:26.524093+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Kobbie Mainoo AUTO /125 – Topps Merlin Manchester United",
       "pris": 450,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477725381",
       "funnet": "2026-10-01T13:44:19.260433+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Akira Egawa",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477725077",
-      "funnet": "2026-10-01T13:42:22.319379+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Bronzor #74 sowsow",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477725187",
-      "funnet": "2026-10-01T13:42:21.971776+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ultra Pro samlealbum med fotballkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477725217",
-      "funnet": "2026-10-01T13:42:21.102293+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
