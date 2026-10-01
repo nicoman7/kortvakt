@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T21:52:15.870055+00:00",
+  "sist_sjekket": "2026-10-01T21:54:20.996082+00:00",
   "funn": [
+    {
+      "tittel": "Leafeon #43 - Pokemon",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477757249",
+      "funnet": "2026-10-01T21:54:20.994478+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-10-01T21:54:20.246902+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Zapdos 133/128 – 30th Celebration Illustration Rare (Near Mint)",
       "pris": 250,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-01T19:28:30.439296+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummerert /94 Tani Oluwaseyi Canada fotballkort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477750678",
-      "funnet": "2026-10-01T19:28:29.909304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary celebrations, Crystal Lugia",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477749096",
-      "funnet": "2026-10-01T19:28:28.962093+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
