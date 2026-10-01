@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T14:38:22.339379+00:00",
+  "sist_sjekket": "2026-10-01T14:40:25.806914+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-10-01T14:40:25.805187+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Beast Mode Estevao BM8 Topps PL 2026/27",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477717864",
       "funnet": "2026-10-01T12:18:18.297345+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hippowdon LV.X Pokémon-kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477717978",
-      "funnet": "2026-10-01T12:18:17.547455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
