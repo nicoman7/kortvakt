@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-01T14:14:18.728816+00:00",
+  "sist_sjekket": "2026-10-01T14:16:23.469696+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477728007",
+      "funnet": "2026-10-01T14:16:23.468328+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Martin Ødegaard fotballkort - Topps Merlin",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477728052",
+      "funnet": "2026-10-01T14:16:23.085275+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rosa/blå parallellkort Topps PL 2026/27",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477728165",
+      "funnet": "2026-10-01T14:16:22.204009+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - engelsk & japansk",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477708862",
       "funnet": "2026-10-01T10:28:17.513414+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vintage og moderne singles/hits | Rayquaza, Tyranitar, Charizard etc",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477708355",
-      "funnet": "2026-10-01T10:28:16.741358+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon bulk-lotter (SWSH / SV / ME) – 100 til 2500 kort, fast pris",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477708067",
-      "funnet": "2026-10-01T10:28:16.437839+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Umbreon masterball",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477708511",
-      "funnet": "2026-10-01T10:26:15.324741+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
