@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T11:28:18.707698+00:00",
+  "sist_sjekket": "2026-10-01T11:30:41.247311+00:00",
   "funn": [
+    {
+      "tittel": "Masterset Pokemon 30th Celebration",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477712458",
+      "funnet": "2026-10-01T11:30:41.245602+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th celebration ETB, poster, ex box og tin",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477691009",
       "funnet": "2026-10-01T01:06:15.605480+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pakker med ekstra mye glins! 10 holo + 1 ex-kort garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-10-01T01:02:17.401500+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
