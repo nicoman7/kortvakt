@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T12:20:26.126743+00:00",
+  "sist_sjekket": "2026-10-01T12:22:18.849143+00:00",
   "funn": [
+    {
+      "tittel": "Snorlax samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477518349",
+      "funnet": "2026-10-01T12:22:18.847469+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Masse forskjellige pokemon illustration rares",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477718151",
+      "funnet": "2026-10-01T12:22:18.301201+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Box (CH)",
       "pris": 1900,
@@ -1182,22 +1198,6 @@
       "pris": 900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477695344",
       "funnet": "2026-10-01T07:14:15.654910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, 90 kort , følger med coins",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477695738",
-      "funnet": "2026-10-01T07:12:16.037343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "birthday Pikachu",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477695552",
-      "funnet": "2026-10-01T07:06:17.207197+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
