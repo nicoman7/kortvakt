@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T20:56:17.477196+00:00",
+  "sist_sjekket": "2026-10-01T20:58:16.051789+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 30C 023/128",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477755621",
+      "funnet": "2026-10-01T20:58:16.050337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Ronaldo Showboat Real Madrid kort",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/463669296",
       "funnet": "2026-10-01T19:08:19.584248+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hobbiten Gift bundle",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477749412",
-      "funnet": "2026-10-01T19:08:19.131231+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
