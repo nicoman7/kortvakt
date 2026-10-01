@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T10:34:17.719487+00:00",
+  "sist_sjekket": "2026-10-01T10:36:17.449168+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon-kort",
+      "pris": 880,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477708341",
+      "funnet": "2026-10-01T10:36:17.447028+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manchester United fotballkort samling 1997-1999",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T23:18:18.283850+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Prismatic Evolutions Booster Bundle",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477690925",
-      "funnet": "2026-09-30T23:10:24.460376+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
