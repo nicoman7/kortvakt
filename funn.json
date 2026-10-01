@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T06:40:21.954822+00:00",
+  "sist_sjekket": "2026-10-01T06:42:22.340055+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortsamling i samleperm",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477694467",
+      "funnet": "2026-10-01T06:42:22.338452+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th Celebration Pokemonkort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477232779",
       "funnet": "2026-09-30T19:44:15.546439+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Magneton holo kort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477684375",
-      "funnet": "2026-09-30T19:42:52.220555+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
