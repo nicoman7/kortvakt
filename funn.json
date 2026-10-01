@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T07:04:27.111028+00:00",
+  "sist_sjekket": "2026-10-01T07:06:17.209210+00:00",
   "funn": [
+    {
+      "tittel": "birthday Pikachu",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477695552",
+      "funnet": "2026-10-01T07:06:17.207197+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon graderte kort selges",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477677718",
       "funnet": "2026-09-30T19:46:17.070015+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
-      "funnet": "2026-09-30T19:46:16.399725+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
