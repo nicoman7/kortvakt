@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T08:56:16.111686+00:00",
+  "sist_sjekket": "2026-10-01T08:58:19.518300+00:00",
   "funn": [
+    {
+      "tittel": "Mew ex 066/128 Double Rare",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477692856",
+      "funnet": "2026-10-01T08:58:19.516219+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex 053/128 Double Rare",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T20:28:17.913866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
-      "funnet": "2026-09-30T20:26:15.664190+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
