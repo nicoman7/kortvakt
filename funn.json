@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T09:48:16.533485+00:00",
+  "sist_sjekket": "2026-10-01T09:50:25.132844+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu V",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477706009",
+      "funnet": "2026-10-01T09:50:25.131646+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Arceus AR7, Arcanine og Espeon",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477705648",
+      "funnet": "2026-10-01T09:50:24.285239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477688602",
       "funnet": "2026-09-30T21:14:17.843515+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Alolan Dugtrio #116",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477689003",
-      "funnet": "2026-09-30T21:14:17.081311+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Magnezone #193",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477688911",
-      "funnet": "2026-09-30T21:12:14.796292+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
