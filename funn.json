@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-01T20:06:16.683173+00:00",
+  "sist_sjekket": "2026-10-01T20:08:18.051945+00:00",
   "funn": [
+    {
+      "tittel": "Pakke Samlekort Ole Magnus",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477752538",
+      "funnet": "2026-10-01T20:08:18.050075+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-10-01T20:08:17.184156+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mario Balotelli Manchester City | Remember the Name | Topps 26/27",
       "pris": 69,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477747090",
       "funnet": "2026-10-01T18:30:42.880920+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Formel 1 kort -stor lot",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477747036",
-      "funnet": "2026-10-01T18:30:42.235785+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mark Viduka – Panini VM 2006 (Australia)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477746510",
-      "funnet": "2026-10-01T18:28:16.872664+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
