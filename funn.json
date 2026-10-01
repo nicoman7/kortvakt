@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T08:12:19.791502+00:00",
+  "sist_sjekket": "2026-10-01T08:14:16.770481+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu fra 30th celebration settet (pris per stk)",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477697354",
+      "funnet": "2026-10-01T08:14:16.769333+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "signerte Arsenal-kort – Bergkamp, Van Persie, Touré, Adebayor + Henry",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-09-30T20:10:23.533605+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort 1999+",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477685813",
-      "funnet": "2026-09-30T20:08:17.353505+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
