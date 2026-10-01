@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-01T11:40:23.527256+00:00",
+  "sist_sjekket": "2026-10-01T11:42:15.842216+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon e-series, priser i beskrivelse.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477408998",
+      "funnet": "2026-10-01T11:42:15.840567+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Blister 2 pack",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/452715299",
       "funnet": "2026-10-01T05:04:22.377859+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Topps Premier League Flagship 26/27",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477692058",
-      "funnet": "2026-10-01T03:56:16.521173+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
