@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T16:12:19.603219+00:00",
+  "sist_sjekket": "2026-10-02T16:14:22.866471+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu fra 30th celebration",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477804844",
+      "funnet": "2026-10-02T16:14:22.864542+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini España World Cup 82 klistremerkealbum, komplett",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477804395",
+      "funnet": "2026-10-02T16:14:21.953550+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger VM 2026 Fotballkort!",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T14:26:16.244057+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse kort selges one piece",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
-      "funnet": "2026-10-02T14:24:16.090068+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Darkrai & Cresselia Legend #100 Pokemon 30th Celebration",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796293",
-      "funnet": "2026-10-02T14:22:18.321877+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
