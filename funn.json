@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T12:44:19.074264+00:00",
+  "sist_sjekket": "2026-10-02T12:46:17.695287+00:00",
   "funn": [
+    {
+      "tittel": "gem 6 kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477608035",
+      "funnet": "2026-10-02T12:46:17.693145+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration booster bundle + First Partner 2: Selges samlet",
       "pris": 1150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477780273",
       "funnet": "2026-10-02T11:14:17.538463+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Borussia Dortmund Pakke",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477780051",
-      "funnet": "2026-10-02T11:10:25.334372+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
