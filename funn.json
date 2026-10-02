@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T08:42:15.432601+00:00",
+  "sist_sjekket": "2026-10-02T08:44:19.247828+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Magikarp 30th",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477768490",
+      "funnet": "2026-10-02T08:44:19.245771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle",
+      "pris": 1049,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477768384",
+      "funnet": "2026-10-02T08:44:18.480665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Div pokemonkort selges",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-01T22:30:41.612264+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu SAR fra 30th collection",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477758087",
-      "funnet": "2026-10-01T22:30:40.770396+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon Jumbo Kort/Boxtopper",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477758071",
-      "funnet": "2026-10-01T22:30:39.905845+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
