@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T21:40:23.714988+00:00",
+  "sist_sjekket": "2026-10-02T21:42:16.058206+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon base samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477822749",
+      "funnet": "2026-10-02T21:42:16.056544+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Dragapult EX",
       "pris": 120,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-02T19:38:14.487787+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gratis frakt - Pokemon pakke selges samlet",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477817419",
-      "funnet": "2026-10-02T19:36:18.505348+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
