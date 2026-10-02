@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T05:42:16.530069+00:00",
+  "sist_sjekket": "2026-10-02T05:44:14.995381+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477760747",
+      "funnet": "2026-10-02T05:44:14.993334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zehahahahaha manga event One piece samlekort",
       "pris": 900,
@@ -1190,14 +1198,6 @@
       "pris": 85,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477756023",
       "funnet": "2026-10-01T21:08:39.340266+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner 3 Kalos Gen 6",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477756098",
-      "funnet": "2026-10-01T21:08:38.751849+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
