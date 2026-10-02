@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T20:34:18.162550+00:00",
+  "sist_sjekket": "2026-10-02T20:36:17.577727+00:00",
   "funn": [
+    {
+      "tittel": "Flere hundre fotballkort + uåpnet pakker",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477818524",
+      "funnet": "2026-10-02T20:36:17.575942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tag Team GX kort – Pikachu & Zekrom japansk 30th celebration",
       "pris": 490,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477619930",
       "funnet": "2026-10-02T19:06:20.400114+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kortsamling 1200+ kort – Holo Reverse Holo + Celebrations UPC",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477412602",
-      "funnet": "2026-10-02T19:06:19.968599+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
