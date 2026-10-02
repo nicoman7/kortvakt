@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T09:34:20.299236+00:00",
+  "sist_sjekket": "2026-10-02T09:36:16.852194+00:00",
   "funn": [
+    {
+      "tittel": "Samling med Formel 2-3 10 year celebration",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477772362",
+      "funnet": "2026-10-02T09:36:16.850760+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "F1 samlekort Charles Leclerc",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477772496",
+      "funnet": "2026-10-02T09:36:16.066934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Formel 1 samlekort – Liam Lawson",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-01T23:58:16.937202+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Palkia #147/103 – Pokemon 30th Celebration – Kinesisk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477759049",
-      "funnet": "2026-10-01T23:56:15.894731+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
-      "funnet": "2026-10-01T23:52:18.003920+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
