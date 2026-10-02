@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T13:44:16.992390+00:00",
+  "sist_sjekket": "2026-10-02T13:46:16.017084+00:00",
   "funn": [
+    {
+      "tittel": "NBA kort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/384320689",
+      "funnet": "2026-10-02T13:46:16.015337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477793302",
+      "funnet": "2026-10-02T13:46:15.609007+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Match Attax Topps Samling for salg",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477782530",
       "funnet": "2026-10-02T11:38:14.271037+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026/27 Flagship Edition base",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477782275",
-      "funnet": "2026-10-02T11:36:17.908484+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration booster bundle",
-      "pris": 995,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477782400",
-      "funnet": "2026-10-02T11:36:17.357763+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
