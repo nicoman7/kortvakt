@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T23:04:15.368630+00:00",
+  "sist_sjekket": "2026-10-02T23:06:15.911892+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – 1st edition",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477824300",
+      "funnet": "2026-10-02T23:06:15.910038+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Argentina fotballkort – Enzo Fernandez, Alexis Mac Allister,Romero m.m",
       "pris": 79,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477820543",
       "funnet": "2026-10-02T20:40:28.086050+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortsamling i perm",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477820733",
-      "funnet": "2026-10-02T20:40:27.290557+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
