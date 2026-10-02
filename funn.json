@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T18:56:15.865846+00:00",
+  "sist_sjekket": "2026-10-02T18:58:14.991918+00:00",
   "funn": [
+    {
+      "tittel": "Arjen Robben Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815420",
+      "funnet": "2026-10-02T18:58:14.990006+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mohamed Salah Fotballkort",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-02T16:42:19.618318+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Pikachu with Grey Felt Hat PSA 9",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806882",
-      "funnet": "2026-10-02T16:42:19.033843+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
