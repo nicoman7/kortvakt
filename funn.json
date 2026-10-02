@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T16:26:17.387955+00:00",
+  "sist_sjekket": "2026-10-02T16:28:16.542626+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 027/128",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477805618",
+      "funnet": "2026-10-02T16:28:16.540960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 028/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477805790",
+      "funnet": "2026-10-02T16:28:15.917598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA 365 2021 samlekort. 68 forskjellige kort i perm selges",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T14:34:16.468686+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Delibird japansk holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477797203",
-      "funnet": "2026-10-02T14:30:39.558401+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto (Squirtle) [Reverse Holo] #64 Fra Pokemon Delta Species Vurderes Solgt!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796704",
-      "funnet": "2026-10-02T14:28:22.278630+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
