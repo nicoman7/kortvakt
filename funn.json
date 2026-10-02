@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T14:14:17.764945+00:00",
+  "sist_sjekket": "2026-10-02T14:16:15.955191+00:00",
   "funn": [
+    {
+      "tittel": "Over 300 Pokémon kort!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477795133",
+      "funnet": "2026-10-02T14:16:15.953255+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Neymar og Olise fotballkort",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-02T11:58:17.675411+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mew Reverse Holo 15/132",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477783809",
-      "funnet": "2026-10-02T11:54:15.483689+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
