@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T09:54:14.709360+00:00",
+  "sist_sjekket": "2026-10-02T09:56:15.316879+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-10-02T09:56:15.315107+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Dugtrio 19/102 + Diglett 47/102",
       "pris": 180,
@@ -1190,14 +1198,6 @@
       "pris": 8,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477200376",
       "funnet": "2026-10-02T01:36:14.626657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Kort Tyrunt Promo Perfect Order",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477759400",
-      "funnet": "2026-10-02T01:32:18.952413+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
