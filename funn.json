@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-02T16:42:20.844459+00:00",
+  "sist_sjekket": "2026-10-02T16:44:17.639764+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 044/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477807106",
+      "funnet": "2026-10-02T16:44:17.638088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - CHARIZARD (TOPPS)",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477807115",
+      "funnet": "2026-10-02T16:44:16.834795+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-10-02T16:44:16.457726+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mew ex 30th anniversary",
       "pris": 1500,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477798016",
       "funnet": "2026-10-02T14:42:16.693037+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 051 (29/30)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477798201",
-      "funnet": "2026-10-02T14:42:16.028653+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Super rare Duel Masters vintage kort",
-      "pris": 1950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477798008",
-      "funnet": "2026-10-02T14:40:28.339115+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 051 (29/30)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477798047",
-      "funnet": "2026-10-02T14:40:27.962993+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
