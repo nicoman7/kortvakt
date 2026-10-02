@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T19:14:37.253804+00:00",
+  "sist_sjekket": "2026-10-02T19:16:17.339285+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-10-02T19:16:17.337115+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemonsamling - Pitch Black",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477809498",
       "funnet": "2026-10-02T17:20:26.415158+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marshadow Reverse holo, med nydelig Pikachu i front",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477808744",
-      "funnet": "2026-10-02T17:20:26.021081+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
