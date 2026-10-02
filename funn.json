@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T23:54:14.608077+00:00",
+  "sist_sjekket": "2026-10-02T23:56:16.841042+00:00",
   "funn": [
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-10-02T23:56:16.839146+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "McDonalds Happy Meal 2023 Pokemon Cards 1-12 SET SEALED!",
       "pris": 1499,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477820845",
       "funnet": "2026-10-02T20:46:18.442603+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Bulbasaur AR Redusert pris / små skader",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477821004",
-      "funnet": "2026-10-02T20:46:18.068235+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
