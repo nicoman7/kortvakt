@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-02T18:26:16.946189+00:00",
+  "sist_sjekket": "2026-10-02T18:28:17.311226+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Diamond&Pearl",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/246029027",
+      "funnet": "2026-10-02T18:28:17.309306+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Virgil van Dijk Liverpool – Topps Premier League 2026/27 foil-parallell",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477813648",
+      "funnet": "2026-10-02T18:28:16.723104+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Forskjellige polemonkort - åpen for trades",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477813117",
+      "funnet": "2026-10-02T18:28:16.392271+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu EX 054/128",
       "pris": 15,
@@ -1174,30 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-02T16:20:27.934551+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gwynn 109/084 Ultra Rare Selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477805137",
-      "funnet": "2026-10-02T16:18:19.835633+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, 30th celebration",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477805064",
-      "funnet": "2026-10-02T16:16:17.860925+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu fra 30th celebration",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477804844",
-      "funnet": "2026-10-02T16:14:22.864542+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
