@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T16:10:25.072756+00:00",
+  "sist_sjekket": "2026-10-02T16:12:19.603219+00:00",
   "funn": [
+    {
+      "tittel": "Selger VM 2026 Fotballkort!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477803771",
+      "funnet": "2026-10-02T16:12:19.601189+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telenor Telekort 28 stk",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/328253019",
+      "funnet": "2026-10-02T16:12:19.142264+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th kort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T14:22:18.321877+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Magikarp 203/193 30 år Jubi",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796586",
-      "funnet": "2026-10-02T14:22:17.429729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30th Celebration booster bundle",
-      "pris": 1349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796312",
-      "funnet": "2026-10-02T14:20:34.078643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
