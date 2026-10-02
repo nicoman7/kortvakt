@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-02T17:32:17.793753+00:00",
+  "sist_sjekket": "2026-10-02T17:34:21.153045+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 028 (12/30) USGMEN (JP)",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477810516",
+      "funnet": "2026-10-02T17:34:21.151748+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini adrenalyn XL fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477810483",
+      "funnet": "2026-10-02T17:34:20.443484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard luftes for salg",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477810533",
+      "funnet": "2026-10-02T17:34:20.060916+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
       "pris": 900,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/468266964",
       "funnet": "2026-10-02T15:12:19.347361+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Jirachi EX Celebrations full art 30th",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477800085",
-      "funnet": "2026-10-02T15:10:29.959298+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 034 (12/30) USGMEN",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477800245",
-      "funnet": "2026-10-02T15:10:29.103652+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration booster pakker kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477800275",
-      "funnet": "2026-10-02T15:10:28.203254+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
