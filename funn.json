@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T22:52:25.588498+00:00",
+  "sist_sjekket": "2026-10-02T22:54:18.390175+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477326432",
+      "funnet": "2026-10-02T22:54:18.388255+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort – japansk full art supporter",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477820256",
       "funnet": "2026-10-02T20:32:19.788998+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rocket’s Persian ex 116/115 2005 - Pokemon",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477820385",
-      "funnet": "2026-10-02T20:32:18.942631+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
