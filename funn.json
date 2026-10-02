@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-02T18:54:18.391003+00:00",
+  "sist_sjekket": "2026-10-02T18:56:15.865846+00:00",
   "funn": [
+    {
+      "tittel": "Mohamed Salah Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815354",
+      "funnet": "2026-10-02T18:56:15.864185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Santos Panini VM 2006",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815217",
+      "funnet": "2026-10-02T18:56:15.305314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️Fotballkort selges! Auto, Patch, Nummererte ,Case Hits ,SP og Lots",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-10-02T18:56:14.584544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor bunke Pokemon-kort",
       "pris": 300,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-02T16:42:19.033843+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu 040/128",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806866",
-      "funnet": "2026-10-02T16:42:18.338548+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 036/128",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806766",
-      "funnet": "2026-10-02T16:42:17.764697+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 043/128",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806958",
-      "funnet": "2026-10-02T16:42:17.216891+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
