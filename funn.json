@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T18:20:26.077019+00:00",
+  "sist_sjekket": "2026-10-02T18:22:17.363037+00:00",
   "funn": [
+    {
+      "tittel": "Tyler Dibling Everton 096/399 – Topps Pink Sparkle 2026/27",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477813407",
+      "funnet": "2026-10-02T18:22:17.360836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Scizor ex 108/115 fra 30th Celebration",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477813247",
+      "funnet": "2026-10-02T18:22:16.682593+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Shaun Wright-Phillips Manchester City – Topps Retro Threads 2026/27",
       "pris": 59,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T16:02:17.744318+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort samling EX GX V holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477804022",
-      "funnet": "2026-10-02T16:02:17.093951+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration mew ex SIR #152",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477803855",
-      "funnet": "2026-10-02T16:00:53.036407+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
