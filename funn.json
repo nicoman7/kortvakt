@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T19:42:20.835626+00:00",
+  "sist_sjekket": "2026-10-02T19:44:25.055425+00:00",
   "funn": [
+    {
+      "tittel": "Stern John Panini VM 2006",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477817867",
+      "funnet": "2026-10-02T19:44:25.053961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon team rocket non-holo",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477817852",
+      "funnet": "2026-10-02T19:44:24.730147+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Kingdra ex+ Seadra + Horsea",
       "pris": 1200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T18:24:18.439731+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Tyler Dibling Everton 096/399 – Topps Pink Sparkle 2026/27",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477813407",
-      "funnet": "2026-10-02T18:22:17.360836+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scizor ex 108/115 fra 30th Celebration",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477813247",
-      "funnet": "2026-10-02T18:22:16.682593+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
