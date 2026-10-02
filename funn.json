@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T20:52:15.217023+00:00",
+  "sist_sjekket": "2026-10-02T20:54:15.628178+00:00",
   "funn": [
+    {
+      "tittel": "Bedrift-salg av pokemonkort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477821250",
+      "funnet": "2026-10-02T20:54:15.626776+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort 🐕 🦺 Team Magma’s Houndoom 🌟Holo🌟 10/95",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477821106",
+      "funnet": "2026-10-02T20:54:15.205347+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Shiftry LV.X 120 HP",
       "pris": 75,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473832074",
       "funnet": "2026-10-02T19:10:36.259377+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gratis Frakt, Pokemon Scarlet & Violet Stellar Miracle boosterboks japansk",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477005480",
-      "funnet": "2026-10-02T19:10:35.466825+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rio Ngumoha Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477816143",
-      "funnet": "2026-10-02T19:10:34.660029+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
