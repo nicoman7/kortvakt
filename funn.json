@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T08:40:23.430815+00:00",
+  "sist_sjekket": "2026-10-02T08:42:15.432601+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477610041",
+      "funnet": "2026-10-02T08:42:15.430602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th tins",
       "pris": 1600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-01T22:30:39.905845+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Zapdos #108/103 AR – Pokemon 30th Celebration – Kinesisk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477758074",
-      "funnet": "2026-10-01T22:28:18.445730+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
