@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T11:06:20.330049+00:00",
+  "sist_sjekket": "2026-10-02T11:08:17.870572+00:00",
   "funn": [
+    {
+      "tittel": "Topps Finest UCC 25-26 Lois Openda Refractor",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477779941",
+      "funnet": "2026-10-02T11:08:17.868734+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Juventus Refractor Pakke",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477779804",
+      "funnet": "2026-10-02T11:08:17.468579+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - 30th booster bundle & Minitin",
       "pris": 1500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-02T08:16:19.280524+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Komplett jungle pokemon common/uncommons",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477763175",
-      "funnet": "2026-10-02T08:16:18.394174+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort  - ETB med nyere bulk ++",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477766420",
-      "funnet": "2026-10-02T08:14:17.801126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
