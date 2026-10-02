@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-02T18:58:14.991918+00:00",
+  "sist_sjekket": "2026-10-02T19:00:54.951996+00:00",
   "funn": [
+    {
+      "tittel": "Eberechi Eze Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815705",
+      "funnet": "2026-10-02T19:00:54.950529+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sol Campbell Panini VM 2006",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815443",
+      "funnet": "2026-10-02T19:00:54.138876+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Virgil Van Dijk Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477815632",
+      "funnet": "2026-10-02T19:00:53.715341+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arjen Robben Fotballkort",
       "pris": 75,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-02T16:44:16.457726+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mew ex 30th anniversary",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806722",
-      "funnet": "2026-10-02T16:42:20.842830+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black ETB Sealed",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806857",
-      "funnet": "2026-10-02T16:42:20.197054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - FIRE RED",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477806034",
-      "funnet": "2026-10-02T16:42:19.618318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
