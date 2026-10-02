@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T13:36:17.602220+00:00",
+  "sist_sjekket": "2026-10-02T13:38:17.008596+00:00",
   "funn": [
+    {
+      "tittel": "Gratis Frakt, 30th Pokemon minitins",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477792701",
+      "funnet": "2026-10-02T13:38:17.006583+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "WOTC Black Star Promos – Vintage Pokemon kort",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-02T11:36:16.015452+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu DP16 – Promo 2007 Diamond & Pearl",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477782331",
-      "funnet": "2026-10-02T11:36:15.769342+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
