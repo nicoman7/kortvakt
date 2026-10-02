@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-02T09:32:23.194599+00:00",
+  "sist_sjekket": "2026-10-02T09:34:20.299236+00:00",
   "funn": [
+    {
+      "tittel": "Formel 1 samlekort – Liam Lawson",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477772229",
+      "funnet": "2026-10-02T09:34:20.297641+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Trader 77/102 rare base set 1999",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477772242",
+      "funnet": "2026-10-02T09:34:19.401746+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fortnite kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477772172",
+      "funnet": "2026-10-02T09:34:18.405171+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ulike fotballkort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477771495",
+      "funnet": "2026-10-02T09:34:17.574149+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "F1 samlekort Oscar Piastri – McLaren kortpakke",
       "pris": 399,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-01T23:52:18.003920+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Diverse kort selges one piece",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
-      "funnet": "2026-10-01T23:50:24.183126+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-01T23:42:17.126702+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummerert /15 Lucas Paqueta West Ham United fotballkort",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477758979",
-      "funnet": "2026-10-01T23:41:00.229598+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andreas Schjelderup RC fotballkort - Topps Chrome",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477758965",
-      "funnet": "2026-10-01T23:38:16.176700+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
