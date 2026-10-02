@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-02T19:20:31.951224+00:00",
+  "sist_sjekket": "2026-10-02T19:22:18.357741+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort 100stk",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477031885",
+      "funnet": "2026-10-02T19:22:18.355900+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG – Sowsow Lot – 18 kort – Pokémon TCG",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-02T17:34:20.060916+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477810397",
-      "funnet": "2026-10-02T17:32:17.791722+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
