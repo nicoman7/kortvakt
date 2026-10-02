@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-02T12:34:24.064704+00:00",
+  "sist_sjekket": "2026-10-02T12:36:16.133105+00:00",
   "funn": [
+    {
+      "tittel": "Topps Gold Vault Argentina fotballkort – Di María, Crespo, Dybala, Mascherano",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477787471",
+      "funnet": "2026-10-02T12:36:16.131220+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "charmander 008 pokemon go!",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477786064",
+      "funnet": "2026-10-02T12:36:15.763502+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gratis Frakt, Pokemon 30th Celebration Booster Bundle kortpakke",
       "pris": 890,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
       "funnet": "2026-10-02T11:04:17.571668+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Paris Saint-Germain Pakke",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477779371",
-      "funnet": "2026-10-02T11:00:53.894286+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Finest UCC 25-26 Warren Zaire-Emery Refractor",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477779250",
-      "funnet": "2026-10-02T11:00:53.031576+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
