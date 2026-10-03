@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-03T14:40:25.268529+00:00",
+  "sist_sjekket": "2026-10-03T14:42:18.427348+00:00",
   "funn": [
+    {
+      "tittel": "Comedian Pikachu #407",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477872012",
+      "funnet": "2026-10-03T14:42:18.425493+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Japansk",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477872547",
+      "funnet": "2026-10-03T14:42:17.491671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Riolu Ascended Heroes (112) Friend Ball",
       "pris": 4,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-03T13:14:16.750918+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Khvicha Kvaratskhelia-PSG-Topps Finest Prized Footballers-2025/26",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477862933",
-      "funnet": "2026-10-03T13:14:16.194484+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon permer",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477862835",
-      "funnet": "2026-10-03T13:14:15.546524+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
