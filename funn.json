@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-10-03T15:28:18.862582+00:00",
+  "sist_sjekket": "2026-10-03T15:30:42.128799+00:00",
   "funn": [
+    {
+      "tittel": "The Pink Panther - samling kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/446677943",
+      "funnet": "2026-10-03T15:30:42.126894+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling holo/EX",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477877071",
+      "funnet": "2026-10-03T15:30:41.220131+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Metagross Delta Species holo kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477877110",
+      "funnet": "2026-10-03T15:30:40.332718+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Karthus rare foil Riftbound samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477876920",
+      "funnet": "2026-10-03T15:30:39.965875+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477877157",
+      "funnet": "2026-10-03T15:30:39.102048+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort playmat x2",
       "pris": 200,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477866179",
       "funnet": "2026-10-03T14:02:23.666552+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zacian V #TG21 Pokemon Astral Radiance",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477866133",
-      "funnet": "2026-10-03T14:02:22.915570+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon White Flare, Black Bolt ETBer",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477865912",
-      "funnet": "2026-10-03T14:02:22.611630+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort fra gem 5 å 6       alle disse er stemplet kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477863464",
-      "funnet": "2026-10-03T14:02:22.229137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Gastly #50 Pokemon Base Set Kort år 1999",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477866795",
-      "funnet": "2026-10-03T14:02:21.535015+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Scarlet & Violet 151 samleperm for kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477868221",
-      "funnet": "2026-10-03T14:02:20.812138+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
