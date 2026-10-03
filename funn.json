@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-03T15:08:17.879509+00:00",
+  "sist_sjekket": "2026-10-03T15:10:24.428184+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Samling Gi Bud",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477874952",
+      "funnet": "2026-10-03T15:10:24.426864+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th celebration ETB",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477875252",
+      "funnet": "2026-10-03T15:10:24.097578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-10-03T15:10:23.299618+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Greninja BREAK - Jp",
       "pris": 120,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477865406",
       "funnet": "2026-10-03T13:42:16.068465+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Gardevoir EX japansk",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477866079",
-      "funnet": "2026-10-03T13:42:15.489744+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MOISÉS CAICEDO 2025-26 TOPPS PRISTINE GENERATIONAL REFRACTOR #G-1 CHELSEA",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477866065",
-      "funnet": "2026-10-03T13:42:14.917341+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Refractor Tyrique George Chelsea",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477865631",
-      "funnet": "2026-10-03T13:38:14.885034+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
