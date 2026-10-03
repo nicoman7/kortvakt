@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T18:40:26.658566+00:00",
+  "sist_sjekket": "2026-10-03T18:42:15.985915+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu - Ascended Heroes - Pokemon",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477890295",
+      "funnet": "2026-10-03T18:42:15.983756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gastly - Ascended Heroes - Pokemon",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-03T16:52:23.671413+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Brute Bonnet japansk",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477883884",
-      "funnet": "2026-10-03T16:52:22.983072+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
