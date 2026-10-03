@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T11:14:31.176125+00:00",
+  "sist_sjekket": "2026-10-03T11:16:16.097992+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 030/128 - 08/30",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477849975",
+      "funnet": "2026-10-03T11:16:16.096319+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 045/128 - 23/30",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477838584",
       "funnet": "2026-10-03T09:26:21.410766+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG samling",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477837428",
-      "funnet": "2026-10-03T09:26:20.510338+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
