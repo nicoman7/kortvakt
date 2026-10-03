@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T21:20:22.629616+00:00",
+  "sist_sjekket": "2026-10-03T21:22:15.782176+00:00",
   "funn": [
+    {
+      "tittel": "ETB med nyere bulk - ca 500 kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477897912",
+      "funnet": "2026-10-03T21:22:15.780166+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gem pack 3 stamped+EX Pokemon kort",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475752308",
       "funnet": "2026-10-03T19:08:18.654248+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Topps Clear Card #PC3 / #06 Charizard (2000)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475683939",
-      "funnet": "2026-10-03T19:08:18.366550+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
