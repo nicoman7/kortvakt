@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T18:02:15.746158+00:00",
+  "sist_sjekket": "2026-10-03T18:04:15.578125+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 5 Hit Mystery Packs",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477886040",
+      "funnet": "2026-10-03T18:04:15.576757+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SV06.5  Shrouded Fable Single Kort Salg - SFA",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477882098",
       "funnet": "2026-10-03T16:30:40.919021+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Tyranitar",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881950",
-      "funnet": "2026-10-03T16:30:40.025014+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
