@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T11:40:24.218064+00:00",
+  "sist_sjekket": "2026-10-03T11:42:17.662811+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard GX samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477852855",
+      "funnet": "2026-10-03T11:42:17.661248+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Phantasmal Flames Bulk med Holo og Rev Holo",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-03T09:52:17.614556+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Chespin #58",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477840556",
-      "funnet": "2026-10-03T09:52:16.772056+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
