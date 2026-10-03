@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-03T09:34:16.635190+00:00",
+  "sist_sjekket": "2026-10-03T09:36:18.635626+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477839080",
+      "funnet": "2026-10-03T09:36:18.633751+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse pokemon kort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477838160",
+      "funnet": "2026-10-03T09:36:17.755087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu RC29/RC32",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477839543",
+      "funnet": "2026-10-03T09:36:16.864869+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ethan's Typhlosion - Destined Rivals - Pokemon",
       "pris": 15,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-03T00:04:16.971582+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Boundaries crossed",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477824724",
-      "funnet": "2026-10-03T00:04:16.624286+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "RESERVERT Pokemon kort – 3 stk samlekort",
-      "pris": 48,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477824950",
-      "funnet": "2026-10-03T00:04:16.244899+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse kort selges one piece",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
-      "funnet": "2026-10-02T23:56:16.839146+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
