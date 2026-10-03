@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T22:28:15.763907+00:00",
+  "sist_sjekket": "2026-10-03T22:30:36.865998+00:00",
   "funn": [
+    {
+      "tittel": "Charizard V (JP) SR 102/100",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477899573",
+      "funnet": "2026-10-03T22:30:36.864185+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bastiodon 093/084 Illustration Rare – Pokémon Pitch Black 2026",
       "pris": 79,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-03T19:10:26.992019+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Utvalgte Pokémon hits selges – NM/Mint - Illustration Rare (IR)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464252951",
-      "funnet": "2026-10-03T19:10:26.409790+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
