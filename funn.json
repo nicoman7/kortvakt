@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T15:54:15.972332+00:00",
+  "sist_sjekket": "2026-10-03T15:56:20.190202+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477879450",
+      "funnet": "2026-10-03T15:56:20.188352+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebration 30th Booster bundle",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477869725",
       "funnet": "2026-10-03T14:14:16.752412+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Armarouge #203 Pokemon Scarlet & Violet",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477865378",
-      "funnet": "2026-10-03T14:14:16.101487+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
