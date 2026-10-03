@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T09:12:13.598241+00:00",
+  "sist_sjekket": "2026-10-03T09:14:17.470992+00:00",
   "funn": [
+    {
+      "tittel": "Sealed, Vanlige kort, og Graderte slabs. Selger enkelt",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477200376",
+      "funnet": "2026-10-03T09:14:17.468908+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Mega Evolution (2025) Komplett EX samling. 10/10.",
       "pris": 225,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-02T22:54:18.388255+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort – japansk full art supporter",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477824140",
-      "funnet": "2026-10-02T22:50:25.121713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
