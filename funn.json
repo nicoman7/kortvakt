@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T09:44:18.462344+00:00",
+  "sist_sjekket": "2026-10-03T09:46:17.512630+00:00",
   "funn": [
+    {
+      "tittel": "Etb med gamle kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477840413",
+      "funnet": "2026-10-03T09:46:17.510707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "400 stk Pokemonkort",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477825279",
       "funnet": "2026-10-03T01:24:14.132681+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Marvel – Red Hulk's Press Conference",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477825267",
-      "funnet": "2026-10-03T01:22:15.393900+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
