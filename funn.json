@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T19:38:18.507216+00:00",
+  "sist_sjekket": "2026-10-03T19:40:24.573935+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon kort selges billig",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477893520",
+      "funnet": "2026-10-03T19:40:24.571815+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 89,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477031885",
       "funnet": "2026-10-03T17:42:15.542192+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cody Gakpo Nummerert Auto Fotballkort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477886998",
-      "funnet": "2026-10-03T17:40:22.496675+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
