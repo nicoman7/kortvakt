@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T17:56:15.003468+00:00",
+  "sist_sjekket": "2026-10-03T17:58:16.045367+00:00",
   "funn": [
+    {
+      "tittel": "Graderte Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477887856",
+      "funnet": "2026-10-03T17:58:16.043763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini VM 2026 Argentina eternos nr 628",
       "pris": 550,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477881867",
       "funnet": "2026-10-03T16:28:16.486639+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummerert Federico Valverde RC - Panini Obsidian",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881608",
-      "funnet": "2026-10-03T16:28:15.928384+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
