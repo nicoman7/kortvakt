@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T23:20:22.159006+00:00",
+  "sist_sjekket": "2026-10-03T23:22:19.042249+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477900372",
+      "funnet": "2026-10-03T23:22:19.040404+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Wurmple reverse holo DMG",
       "pris": 55,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/458319043",
       "funnet": "2026-10-03T19:16:23.471508+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Merlin's Premier Gold 2000 – komplett samling / Master Set ⚽️",
-      "pris": 1995,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474159578",
-      "funnet": "2026-10-03T19:16:22.548580+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
