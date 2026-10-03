@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-03T17:48:17.528893+00:00",
+  "sist_sjekket": "2026-10-03T17:50:26.666274+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu 30th Celebration- samling selges",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477886777",
+      "funnet": "2026-10-03T17:50:26.664545+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477887312",
+      "funnet": "2026-10-03T17:50:25.884876+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Tangela - Aquapolis - Pokemon",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477887619",
+      "funnet": "2026-10-03T17:50:25.045412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon stativ for samlekort / graded cards",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477647804",
+      "funnet": "2026-10-03T17:50:24.206105+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Amad Pink Voltage | Manchester United | Topps Premier League 2026/27",
       "pris": 39,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477881358",
       "funnet": "2026-10-03T16:24:13.701584+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Cradily Reverse Holo kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881353",
-      "funnet": "2026-10-03T16:22:18.524917+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ursaring holo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881457",
-      "funnet": "2026-10-03T16:22:17.674683+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dustox holografisk samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881055",
-      "funnet": "2026-10-03T16:20:26.219557+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - 6",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881155",
-      "funnet": "2026-10-03T16:20:25.386598+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
