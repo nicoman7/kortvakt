@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-03T11:02:15.481879+00:00",
+  "sist_sjekket": "2026-10-03T11:04:17.248327+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th",
+      "pris": 740,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477841056",
+      "funnet": "2026-10-03T11:04:17.246482+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-03T11:04:16.185588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Morpeko 135/128 30th celebration",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477200376",
       "funnet": "2026-10-03T09:14:17.468908+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Evolution (2025) Komplett EX samling. 10/10.",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477836349",
-      "funnet": "2026-10-03T09:10:24.970413+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Teenage Mutant Ninja Turtles Official Trading Card Game kortsamling",
-      "pris": 480,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477837038",
-      "funnet": "2026-10-03T09:10:24.728041+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
