@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T05:28:20.610086+00:00",
+  "sist_sjekket": "2026-10-03T05:30:37.630746+00:00",
   "funn": [
+    {
+      "tittel": "Premier league 98 kort selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/452312356",
+      "funnet": "2026-10-03T05:30:37.629145+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
       "pris": 1100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477822230",
       "funnet": "2026-10-02T21:20:25.436472+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Penny Trainer",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477822124",
-      "funnet": "2026-10-02T21:18:17.103994+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
