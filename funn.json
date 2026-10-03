@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-03T10:10:22.087663+00:00",
+  "sist_sjekket": "2026-10-03T10:12:14.932145+00:00",
   "funn": [
+    {
+      "tittel": "Attax kort",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477843333",
+      "funnet": "2026-10-03T10:12:14.930317+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse kort selges one piece",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477375562",
+      "funnet": "2026-10-03T10:12:14.588380+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Latias EX #220",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477825850",
       "funnet": "2026-10-03T04:24:13.622053+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon stativ for samlekort / graded cards",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477647804",
-      "funnet": "2026-10-03T03:08:15.043376+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fortnite samlekort blandet motiv series 1",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460656589",
-      "funnet": "2026-10-03T02:08:15.855406+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
