@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-03T12:36:20.108714+00:00",
+  "sist_sjekket": "2026-10-03T12:38:16.790379+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 5kr marked",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477858352",
+      "funnet": "2026-10-03T12:38:16.788574+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "5x Roy Keane fotballkort – Manchester United-legende",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477845789",
       "funnet": "2026-10-03T10:36:16.515548+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Roy Keane Manchester United – Ikonisk 90-talls \"Premier Gold\" samlekort!",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/443836113",
-      "funnet": "2026-10-03T10:36:16.138646+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
