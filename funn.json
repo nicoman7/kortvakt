@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-04T21:30:37.650033+00:00",
+  "sist_sjekket": "2026-10-04T21:32:16.804634+00:00",
   "funn": [
+    {
+      "tittel": "Meget lavt nummerert fotballkort med patch. Pau Cubarsí FC Barcelona",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477996505",
+      "funnet": "2026-10-04T21:32:16.802829+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Psyduck kort 16/122",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T19:20:29.589315+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort - Yuka Morii, Ditto 63/113 Pikachu",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474299402",
-      "funnet": "2026-10-04T19:20:28.736269+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
