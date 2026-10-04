@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T15:14:16.431600+00:00",
+  "sist_sjekket": "2026-10-04T15:16:18.763393+00:00",
   "funn": [
+    {
+      "tittel": "Topps Flagship Premier League 2026/27 - Bytt og salg - Nitro Boost",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477963294",
+      "funnet": "2026-10-04T15:16:18.761686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Eevee kortbeskyttere / sleeves",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477963235",
+      "funnet": "2026-10-04T15:16:18.000329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Giovanni",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477949434",
       "funnet": "2026-10-04T13:36:19.555749+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Bundesliga 25-26 Mohammed Amoura Wolfsburg",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477949655",
-      "funnet": "2026-10-04T13:36:18.667189+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps CL 24/25 Paris Saint-Germain ̀Logo Crystal",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477949405",
-      "funnet": "2026-10-04T13:34:14.457598+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
