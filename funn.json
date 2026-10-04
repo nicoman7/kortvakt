@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-04T08:36:16.629565+00:00",
+  "sist_sjekket": "2026-10-04T08:38:18.506890+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort selges - kom med bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458532097",
+      "funnet": "2026-10-04T08:38:18.505200+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Ex",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-03T23:14:16.618457+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Igglybuff reverse holo DMG",
-      "pris": 109,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477900297",
-      "funnet": "2026-10-03T23:12:21.563061+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
