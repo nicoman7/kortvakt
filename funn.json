@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-04T15:24:15.551607+00:00",
+  "sist_sjekket": "2026-10-04T15:26:17.122046+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Jirachi ex 155/128 selges",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477964594",
+      "funnet": "2026-10-04T15:26:17.120444+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Fuecoco ex 147/128",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T13:44:19.013053+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu #3/30 - 30th Celebration (2 stk)",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477950706",
-      "funnet": "2026-10-04T13:44:18.251669+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
