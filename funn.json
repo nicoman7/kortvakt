@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-04T07:10:26.297152+00:00",
+  "sist_sjekket": "2026-10-04T07:12:15.615427+00:00",
   "funn": [
+    {
+      "tittel": "Lamine Yamal Fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477904568",
+      "funnet": "2026-10-04T07:12:15.613503+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sindre Walle Egeli RC Fotballkort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-03T21:30:37.695824+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477898153",
-      "funnet": "2026-10-03T21:28:18.758561+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
