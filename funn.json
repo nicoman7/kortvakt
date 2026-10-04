@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-04T16:04:19.257125+00:00",
+  "sist_sjekket": "2026-10-04T16:06:52.397964+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477968845",
+      "funnet": "2026-10-04T16:06:52.395965+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Magic the Gathering Exhibition Tidecaller kort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477969785",
+      "funnet": "2026-10-04T16:06:51.734591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pitch Black Bulk ✨ 70+ kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477969577",
+      "funnet": "2026-10-04T16:06:51.434830+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic The Gathering Practiced Offense sorcery-kort",
       "pris": 40,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477955299",
       "funnet": "2026-10-04T14:26:15.649027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Groudon og Kyogre kortmappe liten",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477956398",
-      "funnet": "2026-10-04T14:24:19.523719+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration samlekort pakker og sett",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477955957",
-      "funnet": "2026-10-04T14:22:17.559437+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon stativ for samlekort / graded cards",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477647804",
-      "funnet": "2026-10-04T14:22:16.736582+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
