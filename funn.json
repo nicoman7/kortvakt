@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T07:04:16.677847+00:00",
+  "sist_sjekket": "2026-10-04T07:06:17.140509+00:00",
   "funn": [
+    {
+      "tittel": "Lautaro Martinez Nummerert Fotballkort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477904364",
+      "funnet": "2026-10-04T07:06:17.139230+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lautaro Martinez Nummerert Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477904314",
+      "funnet": "2026-10-04T07:06:16.429674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Formel 1 samlekort La Monumental",
       "pris": 249,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-03T21:14:18.515061+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salg Topps Flagship Premier League 2026/27",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477886633",
-      "funnet": "2026-10-03T21:14:17.722648+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "149/128 pikachu ex",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477897618",
-      "funnet": "2026-10-03T21:14:16.875158+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
