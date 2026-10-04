@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T08:18:17.655641+00:00",
+  "sist_sjekket": "2026-10-04T08:20:29.020726+00:00",
   "funn": [
+    {
+      "tittel": "Tomokazu Komiya kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477908302",
+      "funnet": "2026-10-04T08:20:29.018988+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Torchic #56",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477908472",
+      "funnet": "2026-10-04T08:20:28.128330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Treeko #55",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477900017",
       "funnet": "2026-10-03T22:54:16.592502+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Misty holo 30th NM",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477899986",
-      "funnet": "2026-10-03T22:52:17.081655+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling gamle Tiedemanns idretts kort svart-hvitt",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477899900",
-      "funnet": "2026-10-03T22:52:16.444064+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
