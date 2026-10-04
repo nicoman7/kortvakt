@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T14:46:18.354017+00:00",
+  "sist_sjekket": "2026-10-04T14:48:16.553487+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477958962",
+      "funnet": "2026-10-04T14:48:16.551562+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Growlithe kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477959751",
+      "funnet": "2026-10-04T14:48:16.319612+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Melmetal Venusaur Mewtwo deck pakker",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 950,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477942369",
       "funnet": "2026-10-04T12:44:17.505556+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graveler - Fossil - Pokemon",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477941960",
-      "funnet": "2026-10-04T12:44:16.670393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riftbound Spiritforged - Div. Epic / Showcase kort - Kinesisk",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477939155",
-      "funnet": "2026-10-04T12:42:16.090912+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
