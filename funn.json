@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T07:06:17.140509+00:00",
+  "sist_sjekket": "2026-10-04T07:08:15.240523+00:00",
   "funn": [
+    {
+      "tittel": "Cristian Romero Nummerert Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477904403",
+      "funnet": "2026-10-04T07:08:15.239336+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rodrigo De Paul Nummerert Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477904442",
+      "funnet": "2026-10-04T07:08:14.843375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lautaro Martinez Nummerert Fotballkort",
       "pris": 125,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477897848",
       "funnet": "2026-10-03T21:18:13.894825+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Abyss Eye - Booster Box (Gratis frakt)",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475236302",
-      "funnet": "2026-10-03T21:16:15.518664+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu ex 149/128 Sir 30th anniversary",
-      "pris": 725,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477897537",
-      "funnet": "2026-10-03T21:14:18.515061+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
