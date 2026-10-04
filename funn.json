@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-04T15:12:16.135029+00:00",
+  "sist_sjekket": "2026-10-04T15:14:16.431600+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Giovanni",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477908926",
+      "funnet": "2026-10-04T15:14:16.430054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Anze Kopitar - LA Kings - Hockey - Ishockey kort - NHL",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477963163",
+      "funnet": "2026-10-04T15:14:15.824511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GARANTERT EX (opptil 3!) Pokemon pakker med 50 kort for kun 99 kr!\"",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-04T15:14:15.555709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon My first battle Pikachu deck",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-04T13:34:14.457598+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG samlebokser metallbokser (tomme)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477948781",
-      "funnet": "2026-10-04T13:30:37.905741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax 25/26 – Gianluigi Donnarumma 100 Club (#460)",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477949291",
-      "funnet": "2026-10-04T13:30:37.245617+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Mini-tin (Sealed)",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477946963",
-      "funnet": "2026-10-04T13:28:17.255218+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
