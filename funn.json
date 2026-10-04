@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-04T17:30:43.451598+00:00",
+  "sist_sjekket": "2026-10-04T17:32:16.944721+00:00",
   "funn": [
+    {
+      "tittel": "POKEMONKORT PAKKER! 💎 GARANTERT HIT💎",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
+      "funnet": "2026-10-04T17:32:16.943004+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Olaf Hoffsbakken Gjøvik 1908 - 1986 Samlekort Portrett 1935 med autograf Ski",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T16:12:16.276844+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477968845",
-      "funnet": "2026-10-04T16:06:52.395965+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
