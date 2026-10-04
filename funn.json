@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-04T11:58:21.531896+00:00",
+  "sist_sjekket": "2026-10-04T12:00:57.821744+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477936098",
+      "funnet": "2026-10-04T12:00:57.819774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon gullkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477936134",
+      "funnet": "2026-10-04T12:00:56.989346+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Brian Madjo RC #46 – Aston Villa – Topps Premier League 26/27",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477935812",
+      "funnet": "2026-10-04T12:00:56.090718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Fomantis holo",
       "pris": 30,
@@ -1174,30 +1198,6 @@
       "pris": 990,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477919463",
       "funnet": "2026-10-04T10:10:26.721673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "092/086 Claydol Illustration Rare CRI",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477919912",
-      "funnet": "2026-10-04T10:10:26.330589+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-04T10:10:25.868046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 3 pk blister",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477919918",
-      "funnet": "2026-10-04T10:08:16.954615+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
