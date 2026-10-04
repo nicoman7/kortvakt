@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-04T14:00:48.763541+00:00",
+  "sist_sjekket": "2026-10-04T14:02:17.904937+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477952133",
+      "funnet": "2026-10-04T14:02:17.903280+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu #28/30 - 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477953651",
+      "funnet": "2026-10-04T14:02:17.052794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu #21/30 - 30th Celebration (2 stk)",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477953354",
+      "funnet": "2026-10-04T14:02:16.102141+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Gengar EX Metalboks",
       "pris": 299,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477919398",
       "funnet": "2026-10-04T12:10:23.530996+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Premier League",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477937576",
-      "funnet": "2026-10-04T12:10:23.100717+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon-samling – EX Delta Species, Holon Phantoms, Aquapolis m.m.",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477932617",
-      "funnet": "2026-10-04T12:08:19.100992+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Tauros holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477937308",
-      "funnet": "2026-10-04T12:08:18.339680+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
