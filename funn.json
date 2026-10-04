@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-04T17:02:20.523736+00:00",
+  "sist_sjekket": "2026-10-04T17:04:16.155711+00:00",
   "funn": [
+    {
+      "tittel": "NHL Young Guns – 20 kort – Kaprizov, Slafkovsky, Boldy, Seider m.fl.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477960683",
+      "funnet": "2026-10-04T17:04:16.154133+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Robert Lewandowski – Hat-Trick Hero #256 (Topps Match Attax Extra)",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477976296",
+      "funnet": "2026-10-04T17:04:15.816256+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon moltres 130/128",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477976228",
+      "funnet": "2026-10-04T17:04:15.533358+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Snom #73",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477976209",
+      "funnet": "2026-10-04T17:04:15.272886+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pakker med 150 Pokémonkort selges!",
       "pris": 160,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477965207",
       "funnet": "2026-10-04T15:30:45.387125+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Jirachi ex 155/128 selges",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477964594",
-      "funnet": "2026-10-04T15:26:17.120444+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Fuecoco ex 147/128",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477964379",
-      "funnet": "2026-10-04T15:24:15.549710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Arceus –selges samlet",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477963722",
-      "funnet": "2026-10-04T15:22:17.231520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477963740",
-      "funnet": "2026-10-04T15:22:16.915466+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
