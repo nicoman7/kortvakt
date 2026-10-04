@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-04T12:24:17.602815+00:00",
+  "sist_sjekket": "2026-10-04T12:26:15.477000+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477939832",
+      "funnet": "2026-10-04T12:26:15.474949+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samlekort",
+      "pris": 234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477940082",
+      "funnet": "2026-10-04T12:26:15.204506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling – 8 kort fra 2010",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477939929",
+      "funnet": "2026-10-04T12:26:14.615091+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kylian Mbappé – Panini FIFA 365 (2026) – Fans' Favourite",
       "pris": 30,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477925289",
       "funnet": "2026-10-04T10:48:20.580111+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Chimchar samlekort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477925250",
-      "funnet": "2026-10-04T10:48:20.226488+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kortmappe - en del kort 2020+",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477925291",
-      "funnet": "2026-10-04T10:48:19.312690+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort fra eldre sett",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477925430",
-      "funnet": "2026-10-04T10:48:18.399359+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
