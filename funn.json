@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T08:44:17.136580+00:00",
+  "sist_sjekket": "2026-10-04T08:46:19.311107+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med kort og metallbokser.",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477910574",
+      "funnet": "2026-10-04T08:46:19.309348+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Elvis samlekort fra stjernepose 80-tallet",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/309816273",
+      "funnet": "2026-10-04T08:46:18.920081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort poser fra 90-tallet",
       "pris": 90,
@@ -1182,22 +1198,6 @@
       "pris": 639,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477900403",
       "funnet": "2026-10-03T23:24:19.311908+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477900372",
-      "funnet": "2026-10-03T23:22:19.040404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Wurmple reverse holo DMG",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477900376",
-      "funnet": "2026-10-03T23:18:16.260349+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
