@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T01:28:15.878759+00:00",
+  "sist_sjekket": "2026-10-05T01:30:38.157796+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477999217",
+      "funnet": "2026-10-05T01:30:38.156287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Double Colorless Energy 124/130 – Base Set 2 – engelsk Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477999231",
+      "funnet": "2026-10-05T01:30:37.290619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Japanske Booster Bokser",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477992655",
       "funnet": "2026-10-04T20:10:27.890481+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort M Heracross EX Mega Heracross EX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992591",
-      "funnet": "2026-10-04T20:10:27.060330+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Kyogre EX holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992754",
-      "funnet": "2026-10-04T20:10:26.290099+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
