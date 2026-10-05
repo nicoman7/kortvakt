@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-05T16:18:19.832967+00:00",
+  "sist_sjekket": "2026-10-05T16:20:26.089033+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478046903",
+      "funnet": "2026-10-05T16:20:26.086959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Pikachu SM157 promokort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478047088",
+      "funnet": "2026-10-05T16:20:25.753324+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon stativ for samlekort / graded cards",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477647804",
+      "funnet": "2026-10-05T16:20:25.402139+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Excadill 246/236",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478036125",
       "funnet": "2026-10-05T14:18:20.240369+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "4x Pokémon Illustration Rares (Engelsk)",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478036133",
-      "funnet": "2026-10-05T14:16:18.311014+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mapper til pokemon-kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478036270",
-      "funnet": "2026-10-05T14:16:17.595518+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Kingdra Crystal holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478036139",
-      "funnet": "2026-10-05T14:16:17.179436+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
