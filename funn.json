@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T00:12:17.131858+00:00",
+  "sist_sjekket": "2026-10-05T00:14:18.160924+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – base set / vintage",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477998991",
+      "funnet": "2026-10-05T00:14:18.158977+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gem Pack Vol. 2 bulk",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T20:04:23.371542+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mark Bosnich International Masters Fotballkort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/328077675",
-      "funnet": "2026-10-04T20:04:23.026639+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
