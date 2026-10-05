@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T11:24:19.093057+00:00",
+  "sist_sjekket": "2026-10-05T11:26:17.624571+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th tin",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478021527",
+      "funnet": "2026-10-05T11:26:17.622609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra 30th",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478021441",
+      "funnet": "2026-10-05T11:26:16.850399+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Flareon",
       "pris": 39,
@@ -1182,22 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478010693",
       "funnet": "2026-10-05T09:20:26.301320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Golden Baller #3 Mohamed Salah (Fotballkort)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478010515",
-      "funnet": "2026-10-05T09:18:16.282002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Håndmalt pokemon slowpoke/Psyduck binder",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478010555",
-      "funnet": "2026-10-05T09:18:15.585763+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
