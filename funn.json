@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T10:34:16.407148+00:00",
+  "sist_sjekket": "2026-10-05T10:36:18.420249+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Sliggoo holo 095/066",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478016755",
+      "funnet": "2026-10-05T10:36:18.418701+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana Samlekort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478004350",
       "funnet": "2026-10-05T07:46:51.770308+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Psa slabs",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467666814",
-      "funnet": "2026-10-05T07:42:15.506044+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
