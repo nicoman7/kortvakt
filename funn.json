@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T07:16:15.575660+00:00",
+  "sist_sjekket": "2026-10-05T07:18:21.918999+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon go ETB",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478003099",
+      "funnet": "2026-10-05T07:18:21.917219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle kortpakke",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478003328",
+      "funnet": "2026-10-05T07:18:21.347026+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Ascended Heroes Booster Packs",
       "pris": 245,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477995363",
       "funnet": "2026-10-04T21:04:14.346047+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Venusaur EX kort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477995103",
-      "funnet": "2026-10-04T20:58:17.522671+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Greinja EX, Horsea m.m.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477546757",
-      "funnet": "2026-10-04T20:54:19.826953+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
