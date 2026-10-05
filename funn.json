@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-04T23:58:16.134184+00:00",
+  "sist_sjekket": "2026-10-05T00:00:55.486213+00:00",
   "funn": [
+    {
+      "tittel": "ash's pikachu",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477998923",
+      "funnet": "2026-10-05T00:00:55.484529+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Magikarp - Skyridge samlekort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477998920",
+      "funnet": "2026-10-05T00:00:55.165602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Squirtle 68/82 – Team Rocket Unlimited – engelsk Pokémonkort",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-04T20:04:20.456510+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Bulbasaur, Ivysaur, Venusaur fra Shining Legends",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992294",
-      "funnet": "2026-10-04T20:04:19.565132+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Primal Groudon EX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992440",
-      "funnet": "2026-10-04T20:04:19.185535+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
