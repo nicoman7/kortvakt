@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T18:20:23.775715+00:00",
+  "sist_sjekket": "2026-10-05T18:22:16.897823+00:00",
   "funn": [
+    {
+      "tittel": "liten samling Pokemonkort",
+      "pris": 53,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478057521",
+      "funnet": "2026-10-05T18:22:16.896303+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Drapion 097/088 - Perfect order",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478048199",
       "funnet": "2026-10-05T16:34:19.224361+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard GX sm211",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478048345",
-      "funnet": "2026-10-05T16:34:18.524843+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
