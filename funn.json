@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T10:32:19.593202+00:00",
+  "sist_sjekket": "2026-10-05T10:34:16.407148+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana Samlekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478016504",
+      "funnet": "2026-10-05T10:34:16.406030+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Fomantis full art holo kort 085/084",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478016689",
+      "funnet": "2026-10-05T10:34:15.395709+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zekrom #114 Pokemon Black & White",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-05T07:42:15.506044+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon PSA/CGC graderte kort selges",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463066237",
-      "funnet": "2026-10-05T07:38:17.799272+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations 30th Anniversary booster bundle og Mewtwo Mini Tin",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478003961",
-      "funnet": "2026-10-05T07:36:15.426872+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
