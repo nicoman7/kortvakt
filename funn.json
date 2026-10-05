@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T10:00:51.604744+00:00",
+  "sist_sjekket": "2026-10-05T10:02:18.226515+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
+      "funnet": "2026-10-05T10:02:18.225211+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ampharos EX #89 Pokemon Dragon",
       "pris": 950,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477999217",
       "funnet": "2026-10-05T01:30:38.156287+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Double Colorless Energy 124/130 – Base Set 2 – engelsk Pokémonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477999231",
-      "funnet": "2026-10-05T01:30:37.290619+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
