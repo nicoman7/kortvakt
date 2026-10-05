@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T09:18:16.283725+00:00",
+  "sist_sjekket": "2026-10-05T09:20:26.302820+00:00",
   "funn": [
+    {
+      "tittel": "Håndmalt pokemon cubone binder",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478010693",
+      "funnet": "2026-10-05T09:20:26.301320+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Golden Baller #3 Mohamed Salah (Fotballkort)",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477997505",
       "funnet": "2026-10-04T22:08:16.494492+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/450496888",
-      "funnet": "2026-10-04T22:04:16.205936+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
