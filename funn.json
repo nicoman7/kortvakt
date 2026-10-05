@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-05T15:48:18.287047+00:00",
+  "sist_sjekket": "2026-10-05T15:50:29.877035+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478044134",
+      "funnet": "2026-10-05T15:50:29.875229+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – 4 kort mørk type",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478044943",
+      "funnet": "2026-10-05T15:50:29.050857+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pascal Struijk Aqua Parallel – Leeds United – Topps Premier League 26/27",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478043963",
+      "funnet": "2026-10-05T15:50:28.177410+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mew EX #152/128 - Pokemon 30th: Celebration",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478043955",
+      "funnet": "2026-10-05T15:50:27.328897+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Copperajah + japansk kort",
       "pris": 20,
@@ -1166,38 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478034202",
       "funnet": "2026-10-05T13:54:17.313765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu kort – 9 samlekort",
-      "pris": 630,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478034098",
-      "funnet": "2026-10-05T13:54:16.576399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration ex box",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478034225",
-      "funnet": "2026-10-05T13:54:15.816815+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Fomantis Reverse Holo 085/084⭐️",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478034243",
-      "funnet": "2026-10-05T13:52:19.437371+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nye og gamle Pokémon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478033590",
-      "funnet": "2026-10-05T13:52:18.544720+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
