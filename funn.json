@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-05T11:04:18.808438+00:00",
+  "sist_sjekket": "2026-10-05T11:06:20.894899+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478019041",
+      "funnet": "2026-10-05T11:06:20.893527+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu #60 Pokemon Jungle",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478016988",
+      "funnet": "2026-10-05T11:06:20.543396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 033/128, 30th Celebration🟡",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478019446",
+      "funnet": "2026-10-05T11:06:19.713851+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Syk Collection Selges (Sealed,Gradert) Se alle Bilder",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477608617",
+      "funnet": "2026-10-05T11:06:18.857680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th (liten bulk)",
       "pris": 5,
@@ -1166,38 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478008193",
       "funnet": "2026-10-05T08:46:19.676269+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – Pikachu 30th collection",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478007770",
-      "funnet": "2026-10-05T08:44:15.330317+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wailord EX #100 Pokemon Sandstorm",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478007935",
-      "funnet": "2026-10-05T08:42:18.389621+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟GARANTERT EX + 10 GLINS! 50 kort i hver pakke🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-10-05T08:34:15.109501+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aerodactyl EX #94 Pokemon Sandstorm",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478006983",
-      "funnet": "2026-10-05T08:30:40.592091+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
