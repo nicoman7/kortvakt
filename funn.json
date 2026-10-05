@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-05T06:18:15.551891+00:00",
+  "sist_sjekket": "2026-10-05T06:20:26.403239+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 Mini Tin",
+      "pris": 849,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478001327",
+      "funnet": "2026-10-05T06:20:26.402073+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Destined Rivals Booster Bundle",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478001341",
+      "funnet": "2026-10-05T06:20:25.470693+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Donruss FIFA The Beautiful Game fotballkort Brad Friedel autograf",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478001355",
+      "funnet": "2026-10-05T06:20:24.970016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Booster Bundle",
       "pris": 1399,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-04T20:22:15.905977+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Francesco Totti - Chrome X (CX08) | Topps Match Attax Extra 2026",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477993393",
-      "funnet": "2026-10-04T20:22:15.255960+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard EX holografisk kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477993454",
-      "funnet": "2026-10-04T20:22:14.486801+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon-kort Lugia BREAK holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477993228",
-      "funnet": "2026-10-04T20:20:26.493565+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
