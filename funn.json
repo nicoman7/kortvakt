@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T07:40:24.089359+00:00",
+  "sist_sjekket": "2026-10-05T07:42:15.507435+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Psa slabs",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467666814",
+      "funnet": "2026-10-05T07:42:15.506044+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon PSA/CGC graderte kort selges",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476945173",
       "funnet": "2026-10-04T21:16:17.069393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Elite Trainer Box",
-      "pris": 1999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477995655",
-      "funnet": "2026-10-04T21:14:15.521030+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
