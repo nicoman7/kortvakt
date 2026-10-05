@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T17:42:53.496618+00:00",
+  "sist_sjekket": "2026-10-05T17:44:17.387882+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-10-05T17:44:17.386717+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Sylveon GX kort",
       "pris": 120,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-05T15:52:16.054556+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard EX",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478044134",
-      "funnet": "2026-10-05T15:50:29.875229+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
