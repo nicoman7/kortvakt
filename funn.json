@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-05T23:20:27.466630+00:00",
+  "sist_sjekket": "2026-10-05T23:22:19.449252+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Master Rookie samling",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478071083",
+      "funnet": "2026-10-05T23:22:19.447581+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Ex #150 Pokemon 30th Celebration",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478071100",
+      "funnet": "2026-10-05T23:22:18.785866+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Scizor Ex #108 Pokemon 30th Celebration",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478071256",
+      "funnet": "2026-10-05T23:22:18.086270+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-05T19:51:10.504858+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Booster Packs",
-      "pris": 109,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478062333",
-      "funnet": "2026-10-05T19:29:10.002520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Scarlet & Violet 151 - bulk",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478062322",
-      "funnet": "2026-10-05T19:29:09.622598+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478062389",
-      "funnet": "2026-10-05T19:29:08.702393+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
