@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T14:28:17.333510+00:00",
+  "sist_sjekket": "2026-10-05T14:30:42.997022+00:00",
   "funn": [
+    {
+      "tittel": "Magic: The Gathering – samling med eldre kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478036453",
+      "funnet": "2026-10-05T14:30:42.995652+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ascended heroes bulk kort, ca 3kg",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-05T12:28:16.707567+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
-      "funnet": "2026-10-05T12:28:16.036303+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
