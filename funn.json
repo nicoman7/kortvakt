@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T10:52:16.243374+00:00",
+  "sist_sjekket": "2026-10-05T10:54:17.544869+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort bulk",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478018499",
+      "funnet": "2026-10-05T10:54:17.543238+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pikachu batik shirt 101 psa 9",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478006349",
       "funnet": "2026-10-05T08:20:23.130608+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Absol EX #92 Pokemon Power Keepers",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478006471",
-      "funnet": "2026-10-05T08:20:22.465048+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
