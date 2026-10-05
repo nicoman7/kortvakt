@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T14:40:28.511819+00:00",
+  "sist_sjekket": "2026-10-05T14:42:16.298965+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Boosterpacks (Japansk)",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478037090",
+      "funnet": "2026-10-05T14:42:16.297135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Chandelure Illustration Rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478038310",
+      "funnet": "2026-10-05T14:42:15.949746+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Toxtricity illustration rare",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-05T12:48:22.670221+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Swampert #13 Pokemon Ruby & Sapphire",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478028277",
-      "funnet": "2026-10-05T12:44:18.116022+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations – Pikachu V & VMAX",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478026932",
-      "funnet": "2026-10-05T12:44:17.790217+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
