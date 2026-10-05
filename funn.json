@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T02:32:15.008241+00:00",
+  "sist_sjekket": "2026-10-05T02:34:17.175809+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemonkort selger",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477999410",
+      "funnet": "2026-10-05T02:34:17.173421+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
       "pris": 63,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T20:12:17.737250+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mohamed Salah /25 Fotballkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/317461271",
-      "funnet": "2026-10-04T20:12:16.909997+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
