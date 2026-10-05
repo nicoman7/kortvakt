@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-05T18:32:19.505623+00:00",
+  "sist_sjekket": "2026-10-05T18:34:21.374065+00:00",
   "funn": [
+    {
+      "tittel": "Mtgperm#6 Magic the Gathering kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478057019",
+      "funnet": "2026-10-05T18:34:21.372295+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mew Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478058667",
+      "funnet": "2026-10-05T18:34:20.619087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG 30TH ETB Celebration",
       "pris": 1799,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478049098",
       "funnet": "2026-10-05T16:44:18.210736+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard 30th celebration",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478048907",
-      "funnet": "2026-10-05T16:44:17.551343+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard delta species",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478048669",
-      "funnet": "2026-10-05T16:40:31.251511+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
