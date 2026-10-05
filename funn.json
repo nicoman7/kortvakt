@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T12:48:23.887982+00:00",
+  "sist_sjekket": "2026-10-05T12:50:23.603663+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-05T12:50:23.601906+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration 2 Pack Blister Eevee",
       "pris": 349,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-05T10:14:19.774998+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th anniversary",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478014596",
-      "funnet": "2026-10-05T10:14:19.420357+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
