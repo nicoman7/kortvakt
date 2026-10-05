@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T00:14:18.160924+00:00",
+  "sist_sjekket": "2026-10-05T00:16:20.103735+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort – samling med Trainer- og Energy-kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477999003",
+      "funnet": "2026-10-05T00:16:20.101906+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – base set / vintage",
       "pris": 99,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T20:04:24.346972+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort M Rayquaza EX Emerald Break 76/108",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992372",
-      "funnet": "2026-10-04T20:04:23.371542+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
