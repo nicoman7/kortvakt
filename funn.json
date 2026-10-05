@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T09:10:23.329819+00:00",
+  "sist_sjekket": "2026-10-05T09:12:16.970837+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG: Ascended Heroes Mega Feraligatr ex Box",
+      "pris": 995,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478009980",
+      "funnet": "2026-10-05T09:12:16.968803+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Charizard ex PSA 10",
       "pris": 1600,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477997273",
       "funnet": "2026-10-04T21:54:16.715546+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Anorith Restored Barrier",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477997239",
-      "funnet": "2026-10-04T21:52:16.234267+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
