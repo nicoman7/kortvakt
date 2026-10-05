@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T09:02:15.338901+00:00",
+  "sist_sjekket": "2026-10-05T09:04:18.476775+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478009228",
+      "funnet": "2026-10-05T09:04:18.474548+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Slowpoke & Psyduck GX Tag Team",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477997031",
       "funnet": "2026-10-04T21:50:22.702319+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon trainer SIRs– Gladion’s Final Battle, Fighting Gong, N’s PP Up, Cyrano",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477997004",
-      "funnet": "2026-10-04T21:50:22.435572+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
