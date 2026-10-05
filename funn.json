@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-05T05:38:14.381994+00:00",
+  "sist_sjekket": "2026-10-05T05:40:21.881678+00:00",
   "funn": [
+    {
+      "tittel": "Phantasmal flames etb pokemon",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478000605",
+      "funnet": "2026-10-05T05:40:21.879504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra slutten av 90-tallet og begynnelsen av 2000 tallet",
       "pris": 1234,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-04T20:16:17.726591+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort holo/rare",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992774",
-      "funnet": "2026-10-04T20:14:19.821927+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
