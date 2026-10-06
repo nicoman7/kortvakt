@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-06T13:18:29.583259+00:00",
+  "sist_sjekket": "2026-10-06T13:20:26.445788+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Spiritomb IR",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104781",
+      "funnet": "2026-10-06T13:20:26.444076+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Match Attax Gold Edge Edition kort Ronaldo og Messi",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104608",
+      "funnet": "2026-10-06T13:20:26.116947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NOLBERTO SOLANO Newcastle fotballkort - Topps Chrome",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104689",
+      "funnet": "2026-10-06T13:20:25.521586+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "4 Japanske Charizard kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104646",
+      "funnet": "2026-10-06T13:20:24.816160+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort Snover IR",
       "pris": 100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-06T11:16:21.757327+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div. pokemonkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478093627",
-      "funnet": "2026-10-06T11:16:20.889922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jude Bellingham Shatterpoint /99 – Topps Total Football – Real Madrid",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478093638",
-      "funnet": "2026-10-06T11:16:20.089957+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort bulk fra 30th celebration",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478093810",
-      "funnet": "2026-10-06T11:16:19.203074+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch Black Booster Bundle",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478093774",
-      "funnet": "2026-10-06T11:16:18.836092+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
