@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-06T09:28:18.277991+00:00",
+  "sist_sjekket": "2026-10-06T09:30:40.279767+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pitch Black – IR / Ultra Rare / Mega ex / EX – selges enkeltvis",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478078490",
+      "funnet": "2026-10-06T09:30:40.277955+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort – Gyarados, Treecko, Mudkip reverse fra EX dragon",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478084893",
+      "funnet": "2026-10-06T09:30:39.406862+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON kort",
       "pris": 1200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-10-05T23:00:47.874359+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort reverse holo selges enkeltvis",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478070740",
-      "funnet": "2026-10-05T22:46:17.306477+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-05T22:46:16.938180+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
