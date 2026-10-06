@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-06T15:54:18.624554+00:00",
+  "sist_sjekket": "2026-10-06T15:56:18.565704+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort bokser og tins",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478118121",
+      "funnet": "2026-10-06T15:56:18.564576+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Chrome PremierLeague Classics fotballkort Alexis Sánchez Manchester United",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478118003",
+      "funnet": "2026-10-06T15:56:18.231514+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini World Cup 2026 sticker box",
       "pris": 1600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478108363",
       "funnet": "2026-10-06T14:02:17.218176+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Mega Chandelure EX",
-      "pris": 135,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478108260",
-      "funnet": "2026-10-06T14:00:58.321349+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Jirachi Ex 30th celebration SIR 155/128",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478107862",
-      "funnet": "2026-10-06T14:00:57.571141+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
