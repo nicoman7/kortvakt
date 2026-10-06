@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-06T10:22:15.401239+00:00",
+  "sist_sjekket": "2026-10-06T10:24:19.112639+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Pikachu kinesisk MPG 10",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478089501",
+      "funnet": "2026-10-06T10:24:19.110939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478089093",
+      "funnet": "2026-10-06T10:24:18.367548+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort fra Merlin's Premier Gold 98 (10,-/stk - 10x for 70,-)",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478078788",
+      "funnet": "2026-10-06T10:24:17.332810+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Pikachu kinesisk Captain Pikachu MPG 10",
       "pris": 200,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478072158",
       "funnet": "2026-10-06T03:16:13.758429+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alexander Isak /25 – Fusion Series – Topps Total Football",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478072146",
-      "funnet": "2026-10-06T03:14:15.523664+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alexander Isak /75 – Fusion Series – Topps Total Football",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478072139",
-      "funnet": "2026-10-06T03:10:24.269246+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sergio Agüero /150 – Inception Point – Topps Inception UEFA 2024/25",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478072113",
-      "funnet": "2026-10-06T03:04:14.607700+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
