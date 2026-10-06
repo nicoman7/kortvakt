@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-06T10:44:16.836042+00:00",
+  "sist_sjekket": "2026-10-06T10:46:22.326027+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
+      "funnet": "2026-10-06T10:46:22.324043+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – blandet lot med energi-, trener- og Pokémon-kort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478072615",
       "funnet": "2026-10-06T04:40:58.610818+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort til solveig",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478072406",
-      "funnet": "2026-10-06T04:08:15.482997+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
