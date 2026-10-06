@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-06T13:16:20.853291+00:00",
+  "sist_sjekket": "2026-10-06T13:18:29.583259+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort Snover IR",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104628",
+      "funnet": "2026-10-06T13:18:29.581175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Clint Dempsey Fulham fotballkort - Topps Chrome King",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478104504",
+      "funnet": "2026-10-06T13:18:29.000524+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bukayo Saka Arsenal fotballkort – Topps Chrome",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-06T11:16:18.836092+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "🌟GARANTERT EX + 10 GLINS! 50 kort i hver pakke🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-10-06T11:16:17.670946+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Booster Bundle",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478093303",
-      "funnet": "2026-10-06T11:14:18.341281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
