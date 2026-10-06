@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-06T12:14:14.819885+00:00",
+  "sist_sjekket": "2026-10-06T12:16:17.139269+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478099116",
+      "funnet": "2026-10-06T12:16:17.137664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps fotballkort fra 1979",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/334320538",
+      "funnet": "2026-10-06T12:16:16.865261+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30 celebration Poster Collection",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478099093",
+      "funnet": "2026-10-06T12:16:16.598333+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Brain Rot samlekort pakke",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478099001",
+      "funnet": "2026-10-06T12:16:16.248599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Syk Collection Selges (Sealed,Gradert) Se alle Bilder",
       "pris": null,
@@ -1166,38 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478086824",
       "funnet": "2026-10-06T09:52:18.074701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Chimchar samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478086730",
-      "funnet": "2026-10-06T09:50:26.254833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Turtwig holo japansk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478086635",
-      "funnet": "2026-10-06T09:50:25.458972+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration booster bundle",
-      "pris": 949,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478086805",
-      "funnet": "2026-10-06T09:50:25.063140+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ditto 60 HP  illus.  Yuka Morii, 37/113",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478085925",
-      "funnet": "2026-10-06T09:48:18.927310+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
