@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-06T07:42:17.360691+00:00",
+  "sist_sjekket": "2026-10-06T07:44:15.948575+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478077704",
+      "funnet": "2026-10-06T07:44:15.946625+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Mew EX japansk holo",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478068915",
       "funnet": "2026-10-05T21:29:57.954311+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Joao Pedro Chelsea fotballkort - Topps Chrome UCC",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478068854",
-      "funnet": "2026-10-05T21:29:57.262856+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
