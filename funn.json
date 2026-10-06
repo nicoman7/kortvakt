@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-06T09:58:17.205649+00:00",
+  "sist_sjekket": "2026-10-06T10:00:50.521142+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon slabs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478086862",
+      "funnet": "2026-10-06T10:00:50.519281+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG: Charizard Ex Super Premium Collection Box",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-10-06T00:28:19.132202+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax [Holo] #55 Pokemon Go",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478071407",
-      "funnet": "2026-10-05T23:50:23.119800+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
