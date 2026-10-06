@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-06T23:00:49.006559+00:00",
+  "sist_sjekket": "2026-10-06T23:02:16.583366+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 25th Anniversary promo pack",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478144084",
+      "funnet": "2026-10-06T23:02:16.581706+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "(Gratis frakt) Miss Buckingham Stussy kort x4 (one piece)",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478144551",
+      "funnet": "2026-10-06T23:02:16.267465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 25th celebrations mini tin",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478136841",
       "funnet": "2026-10-06T19:42:19.691146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Cubone 40/95 reverse holo",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478137161",
-      "funnet": "2026-10-06T19:42:19.132391+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478137384",
-      "funnet": "2026-10-06T19:42:18.546521+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
