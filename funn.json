@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-06T23:28:51.904999+00:00",
+  "sist_sjekket": "2026-10-06T23:30:34.752843+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478144948",
+      "funnet": "2026-10-06T23:30:34.751575+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokémonkort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478144888",
+      "funnet": "2026-10-06T23:30:34.049554+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wunder - Baum  100 stk masse gammle",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477300587",
+      "funnet": "2026-10-06T23:30:33.333055+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort – legendariske kort i mappe (vintage kort)",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478137762",
       "funnet": "2026-10-06T19:46:18.046356+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Gengar Exoedition revers holo",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478137401",
-      "funnet": "2026-10-06T19:46:17.253278+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Aquapolis Tentacool 113/147",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478137559",
-      "funnet": "2026-10-06T19:44:19.375773+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Espeon 070/128 - Pokemon 30th celebration / Pokemon 30th anniversary",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478136733",
-      "funnet": "2026-10-06T19:44:18.961560+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
