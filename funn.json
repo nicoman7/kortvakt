@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-06T08:02:16.369853+00:00",
+  "sist_sjekket": "2026-10-06T08:04:16.592526+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 1520,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478079110",
+      "funnet": "2026-10-06T08:04:16.591137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "100 Pokémon samlekort, med to samlehefter og en flott metallboks",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478069346",
       "funnet": "2026-10-05T21:35:44.753792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th (fri frakt)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478069321",
-      "funnet": "2026-10-05T21:35:43.924076+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
