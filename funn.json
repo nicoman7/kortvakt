@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-06T20:40:33.720752+00:00",
+  "sist_sjekket": "2026-10-06T20:42:16.825037+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
+      "funnet": "2026-10-06T20:42:16.823349+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Dragon Low Pressure System Reverse Holo 86/97",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466079446",
       "funnet": "2026-10-06T19:14:20.148494+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortbunke med Aggron holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475927485",
-      "funnet": "2026-10-06T19:14:19.775115+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
