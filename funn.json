@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-07T14:22:17.972128+00:00",
+  "sist_sjekket": "2026-10-07T14:24:21.606806+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478183115",
+      "funnet": "2026-10-07T14:24:21.605553+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478182519",
+      "funnet": "2026-10-07T14:24:20.901316+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Gwynn Supporter Trainer",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478183142",
+      "funnet": "2026-10-07T14:24:20.473762+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Chaos Rising booster bundle kortpakker",
       "pris": 2000,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478168125",
       "funnet": "2026-10-07T11:30:39.594642+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon samling lav pris",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478168083",
-      "funnet": "2026-10-07T11:30:39.014595+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland - 2026-27 UEFA Nations League Topps NOW",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
-      "funnet": "2026-10-07T11:28:18.127952+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-10-07T11:26:15.447440+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
