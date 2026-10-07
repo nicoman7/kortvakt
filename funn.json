@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T23:38:17.414975+00:00",
+  "sist_sjekket": "2026-10-07T23:40:27.115589+00:00",
   "funn": [
+    {
+      "tittel": "Charizards selges samlet",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478215239",
+      "funnet": "2026-10-07T23:40:27.113382+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-07T20:36:18.062755+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The stranger refractor nummerert /99 Star wars samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478211047",
-      "funnet": "2026-10-07T20:34:54.499745+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
