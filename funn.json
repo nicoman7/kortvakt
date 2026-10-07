@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T06:12:14.247997+00:00",
+  "sist_sjekket": "2026-10-07T06:14:16.309525+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 012 10th Anniversary",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478147812",
+      "funnet": "2026-10-07T06:14:16.307728+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Elite Trainer Box (ETB) - Mega Evolution Lucario",
       "pris": 1700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478140181",
       "funnet": "2026-10-06T20:28:18.009421+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Aquapolis Rainbow Energy 144/147",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478140293",
-      "funnet": "2026-10-06T20:28:17.646512+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
