@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T21:28:22.324277+00:00",
+  "sist_sjekket": "2026-10-07T21:30:38.601085+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478213186",
+      "funnet": "2026-10-07T21:30:38.599781+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece samle kort – holografiske kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471424895",
       "funnet": "2026-10-07T19:14:23.664882+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rattata lv. 9 15/16 Holo Pokémon kort rumble promo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474309886",
-      "funnet": "2026-10-07T19:14:22.926070+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
