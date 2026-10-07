@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T08:54:17.521282+00:00",
+  "sist_sjekket": "2026-10-07T08:56:15.008160+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/395328900",
+      "funnet": "2026-10-07T08:56:15.006352+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Wunder - Baum  100 stk masse gammle",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477300587",
+      "funnet": "2026-10-07T08:56:14.418087+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG 30th Booster Bundle Gratis Frakt",
       "pris": 949,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-07T02:14:15.767648+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United fotballkort • Graderte • Nummererte • Autoer •  Short print ++",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477748187",
-      "funnet": "2026-10-07T02:10:24.708406+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mewtwo ex 101/109 – EX Ruby & Sapphire Holo – engelsk Pokémonkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478145386",
-      "funnet": "2026-10-07T01:30:35.630145+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
