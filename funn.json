@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T06:26:21.263931+00:00",
+  "sist_sjekket": "2026-10-07T06:28:18.459541+00:00",
   "funn": [
+    {
+      "tittel": "Salamence 19/97 - Pokemon Dragon",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478148194",
+      "funnet": "2026-10-07T06:28:18.457887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Team Magma’s Houndoom 34/95 - Pokemon Team Magma & Team Aqua",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478140952",
       "funnet": "2026-10-06T20:44:15.941216+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
-      "funnet": "2026-10-06T20:42:16.823349+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
