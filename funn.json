@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T07:56:18.081168+00:00",
+  "sist_sjekket": "2026-10-07T07:58:16.927688+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kortsamling med dekkbokser og sleeves",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478151718",
+      "funnet": "2026-10-07T07:58:16.925981+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - 30th Booster Bundle🔥",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478144868",
       "funnet": "2026-10-06T23:20:24.012997+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortsamling phantasmal flames etb (bulk)",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478144862",
-      "funnet": "2026-10-06T23:18:19.341345+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
