@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T09:20:23.175365+00:00",
+  "sist_sjekket": "2026-10-07T09:22:18.553906+00:00",
   "funn": [
+    {
+      "tittel": "Topps Flagship Premier League 2026/27 - Beast Mode - Bruno Guimarães",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478158075",
+      "funnet": "2026-10-07T09:22:18.552269+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samlekort – eldre kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478145934",
       "funnet": "2026-10-07T03:26:19.671172+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-07T03:24:27.294084+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
