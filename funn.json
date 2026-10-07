@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T08:48:17.028245+00:00",
+  "sist_sjekket": "2026-10-07T08:50:24.969108+00:00",
   "funn": [
+    {
+      "tittel": "Samleperm",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478155667",
+      "funnet": "2026-10-07T08:50:24.967412+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🔥 XL Pokémon pakke 🔥 6 – 8 HITS GARANTERT • 100+ kort • MASSE glins ✨",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478145430",
       "funnet": "2026-10-07T01:04:17.368406+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Syk Collection Selges (Sealed,Gradert) Se alle Bilder",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477608617",
-      "funnet": "2026-10-07T00:50:25.844242+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
