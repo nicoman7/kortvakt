@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T09:50:24.121565+00:00",
+  "sist_sjekket": "2026-10-07T09:52:18.216157+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon GX/EX kort pakke med 10 holografiske kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478160134",
+      "funnet": "2026-10-07T09:52:18.214338+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Salg av EX, Delta Speices + Holo/Rare/Reverse (Fastpris)",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478147986",
       "funnet": "2026-10-07T06:22:17.540369+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/106",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478147962",
-      "funnet": "2026-10-07T06:20:27.213510+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
