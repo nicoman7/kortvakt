@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T02:32:14.835010+00:00",
+  "sist_sjekket": "2026-10-07T02:34:16.467957+00:00",
   "funn": [
+    {
+      "tittel": "Sealed pokemon samling.",
+      "pris": 111,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472808770",
+      "funnet": "2026-10-07T02:34:16.466803+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arbok 31/62 – Fossil Unlimited – engelsk Pokémonkort",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478138666",
       "funnet": "2026-10-06T20:00:49.483538+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ruby & Sapphire Manectric Reverse Holo 9/109",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478138857",
-      "funnet": "2026-10-06T20:00:49.219560+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
