@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T14:32:20.711418+00:00",
+  "sist_sjekket": "2026-10-07T14:34:18.683288+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges billig",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478183573",
+      "funnet": "2026-10-07T14:34:18.681436+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dallas Mavericks 🏀 NBA Basketballkort",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478097631",
+      "funnet": "2026-10-07T14:34:18.326445+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Main Attraction autograph-kort David Silva 03/10",
       "pris": 1200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478168351",
       "funnet": "2026-10-07T11:36:17.879878+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Skiploom 49/109 - Pokemon Team Rocket Returns",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478168557",
-      "funnet": "2026-10-07T11:34:16.787232+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling eldre Magic: The Gathering MTG-kort – Ice Age 1995",
-      "pris": 1890,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478168231",
-      "funnet": "2026-10-07T11:34:16.150953+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
