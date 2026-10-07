@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T13:38:24.722989+00:00",
+  "sist_sjekket": "2026-10-07T13:40:24.441948+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #12 Journey Across America",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478179303",
+      "funnet": "2026-10-07T13:40:24.440421+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Raichu & Alolan Raichu #55 | CSM2a CS - Gradert",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478165676",
       "funnet": "2026-10-07T11:00:50.881021+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478165363",
-      "funnet": "2026-10-07T10:58:18.270413+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
