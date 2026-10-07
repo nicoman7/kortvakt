@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T15:22:16.968229+00:00",
+  "sist_sjekket": "2026-10-07T15:24:23.720919+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort 30th",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478187452",
+      "funnet": "2026-10-07T15:24:23.718811+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Zubat #57 Pokemon Fossil Kort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478171901",
       "funnet": "2026-10-07T12:12:16.623551+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478171705",
-      "funnet": "2026-10-07T12:12:16.150304+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
