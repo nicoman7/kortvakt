@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T05:48:14.901710+00:00",
+  "sist_sjekket": "2026-10-07T05:50:25.323746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478147236",
+      "funnet": "2026-10-07T05:50:25.321856+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 151 Surprise Vol. 3 booster – Gengar/Pikachu",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478147187",
+      "funnet": "2026-10-07T05:50:24.535511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "151 Pokemonkort sett",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-10-06T20:18:18.237374+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 052/196 - Pokémon Lost Origin – 3 stk",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478131695",
-      "funnet": "2026-10-06T20:16:19.405213+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON Charizard 3/132 HOLO BLEED HP",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477553322",
-      "funnet": "2026-10-06T20:16:18.552677+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
