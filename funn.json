@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T19:50:24.886437+00:00",
+  "sist_sjekket": "2026-10-07T19:52:18.684385+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478208725",
+      "funnet": "2026-10-07T19:52:18.682986+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "17 pokemonkort Avtale",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478201698",
       "funnet": "2026-10-07T18:18:22.486436+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #26 Pokemon 30th Celebration",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478201755",
-      "funnet": "2026-10-07T18:18:21.437044+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
