@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T10:56:27.360281+00:00",
+  "sist_sjekket": "2026-10-07T10:58:18.272386+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478165363",
+      "funnet": "2026-10-07T10:58:18.270413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ledian 23/109 - Pokemon Team Rocket Returns",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478165506",
+      "funnet": "2026-10-07T10:58:17.377054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier league 26/27 flagship editon",
       "pris": 3,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478149786",
       "funnet": "2026-10-07T07:10:26.201901+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carvanha 51/109 - Pokemon Ruby & Sapphire",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478149717",
-      "funnet": "2026-10-07T07:08:20.316829+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
-      "funnet": "2026-10-07T07:06:14.344187+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
