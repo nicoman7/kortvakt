@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-07T20:12:20.808387+00:00",
+  "sist_sjekket": "2026-10-07T20:14:24.685361+00:00",
   "funn": [
+    {
+      "tittel": "Hundrevis av pokemon kort selges til faste priser!",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478209865",
+      "funnet": "2026-10-07T20:14:24.683911+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL VM Kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478208855",
+      "funnet": "2026-10-07T20:14:23.988322+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Erling Haaland - 2026-27 UEFA Nations League Topps NOW",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
+      "funnet": "2026-10-07T20:14:23.628883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome PL fotballkort Didier Drogba, Chris Wood og Georginio Rutter",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478203536",
       "funnet": "2026-10-07T18:40:24.379443+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
-      "funnet": "2026-10-07T18:40:23.808218+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478203026",
-      "funnet": "2026-10-07T18:36:55.846456+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vivid Voltage Elite Trainer Box med Akryll display",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478202876",
-      "funnet": "2026-10-07T18:36:54.927831+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
