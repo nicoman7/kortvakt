@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-07T10:42:13.588822+00:00",
+  "sist_sjekket": "2026-10-07T10:44:17.099396+00:00",
   "funn": [
+    {
+      "tittel": "Ishockey kort kun 1 kr stk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478164300",
+      "funnet": "2026-10-07T10:44:17.097554+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charmeleon 24/102 - Pokemon Base Set 1999-2000",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478164295",
+      "funnet": "2026-10-07T10:44:16.360699+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Shelgon 53/113 - Pokemon Delta Species",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478164379",
+      "funnet": "2026-10-07T10:44:15.970539+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wingull 77/109 - Pokemon Ruby & Sapphire",
       "pris": 19,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478149192",
       "funnet": "2026-10-07T06:56:18.072750+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "10stk Basic Grass Energy holo kort fra 30th",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478149182",
-      "funnet": "2026-10-07T06:56:17.408389+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kabuto 56/75, Yuka Morii - Pokemon Neo Discovery",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478149094",
-      "funnet": "2026-10-07T06:54:20.688576+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Corphish 62/110 - Pokemon Holon Phantoms",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478148977",
-      "funnet": "2026-10-07T06:52:17.353592+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
