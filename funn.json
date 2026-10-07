@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T09:44:16.949602+00:00",
+  "sist_sjekket": "2026-10-07T09:46:15.755299+00:00",
   "funn": [
+    {
+      "tittel": "Salg av EX, Delta Speices + Holo/Rare/Reverse (Fastpris)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478159771",
+      "funnet": "2026-10-07T09:46:15.753525+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478159748",
+      "funnet": "2026-10-07T09:46:15.465584+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Neo Genesis 2000 – 1st Edition samling + Bellossom Holo",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478147962",
       "funnet": "2026-10-07T06:20:27.213510+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Elite Trainer Box (ETB) - Black Bolt",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478147369",
-      "funnet": "2026-10-07T06:20:26.339073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wartortle 42/102 - Pokemon Base Set 1999-2000",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478147923",
-      "funnet": "2026-10-07T06:20:25.464507+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
