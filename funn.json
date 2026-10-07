@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T20:44:15.722343+00:00",
+  "sist_sjekket": "2026-10-07T20:46:14.487347+00:00",
   "funn": [
+    {
+      "tittel": "Grogu refractor Star wars samlekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478211597",
+      "funnet": "2026-10-07T20:46:14.485937+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "A stormtrooper command helmet refractor Star wars samlekort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-07T19:02:17.214724+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "3 stk skap til samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478204333",
-      "funnet": "2026-10-07T19:00:55.038126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
