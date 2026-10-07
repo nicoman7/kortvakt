@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-07T10:26:18.589107+00:00",
+  "sist_sjekket": "2026-10-07T10:28:14.847393+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort japanske – samling med ulike kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478163067",
+      "funnet": "2026-10-07T10:28:14.845414+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rapidash 44/64 - Pokemon Jungle",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478163145",
+      "funnet": "2026-10-07T10:28:14.294646+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling holografiske og vanlige",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478148243",
       "funnet": "2026-10-07T06:30:40.331792+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salamence 19/97 - Pokemon Dragon",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478148194",
-      "funnet": "2026-10-07T06:28:18.457887+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Magma’s Houndoom 34/95 - Pokemon Team Magma & Team Aqua",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478148077",
-      "funnet": "2026-10-07T06:26:21.262214+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
