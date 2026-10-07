@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-07T21:20:24.801047+00:00",
+  "sist_sjekket": "2026-10-07T21:22:15.289361+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478212944",
+      "funnet": "2026-10-07T21:22:15.287340+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort – 30th Celebration samling med holo og spesialkort",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 555,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474314083",
       "funnet": "2026-10-07T19:14:21.349726+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Starmie EX japansk SIR",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474581745",
-      "funnet": "2026-10-07T19:14:20.717817+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
