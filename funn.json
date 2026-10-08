@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T10:18:18.183540+00:00",
+  "sist_sjekket": "2026-10-08T10:20:28.008499+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478232268",
+      "funnet": "2026-10-08T10:20:28.006787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dyrekort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 529,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478141311",
       "funnet": "2026-10-07T23:00:53.286004+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "BRUNO FERNANDES – MANCHESTER UNITED – TOPPS NOW #014",
-      "pris": 109,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214781",
-      "funnet": "2026-10-07T22:58:14.552848+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
