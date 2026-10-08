@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T12:56:32.248121+00:00",
+  "sist_sjekket": "2026-10-08T12:58:17.699220+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Squirtle Charmander Bulbasaur",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478245873",
+      "funnet": "2026-10-08T12:58:17.697390+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mawile EX kort",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-08T09:56:15.128794+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perm med pokemonkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478230228",
-      "funnet": "2026-10-08T09:54:15.927090+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
