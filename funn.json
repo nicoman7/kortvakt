@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-08T14:16:19.281226+00:00",
+  "sist_sjekket": "2026-10-08T14:18:16.084100+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 15",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478252404",
+      "funnet": "2026-10-08T14:18:16.082292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wunder - Baum  100 stk masse gammle",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477300587",
+      "funnet": "2026-10-08T14:18:15.458628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon ETB - Phantasmal Flames ETB - Uåpnet",
       "pris": 1700,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478240474",
       "funnet": "2026-10-08T11:54:16.808806+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Steven’s Metagross (japansk) 245/193",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478240165",
-      "funnet": "2026-10-08T11:52:17.224695+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av pokemon 25th birthday kort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478240386",
-      "funnet": "2026-10-08T11:52:16.974949+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
