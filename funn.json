@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T20:42:17.782731+00:00",
+  "sist_sjekket": "2026-10-08T20:44:17.182148+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
+      "funnet": "2026-10-08T20:44:17.180306+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle",
       "pris": 850,
@@ -1190,14 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478274162",
       "funnet": "2026-10-08T19:04:17.346732+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "**GRATIS FRAKT**10 tilfeldige pokemon ex kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478066422",
-      "funnet": "2026-10-08T19:04:16.722276+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
