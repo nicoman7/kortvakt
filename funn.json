@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T07:16:17.667284+00:00",
+  "sist_sjekket": "2026-10-08T07:18:16.753626+00:00",
   "funn": [
+    {
+      "tittel": "Eldre pokemonkort selges!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478219701",
+      "funnet": "2026-10-08T07:18:16.752054+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle",
       "pris": 899,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478213592",
       "funnet": "2026-10-07T21:42:18.724655+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Draven rare foil Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478213436",
-      "funnet": "2026-10-07T21:38:15.170650+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
