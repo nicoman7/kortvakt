@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-08T19:32:19.172564+00:00",
+  "sist_sjekket": "2026-10-08T19:34:19.480432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478276268",
+      "funnet": "2026-10-08T19:34:19.478258+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Scarlet Violet 151 perm",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478276197",
+      "funnet": "2026-10-08T19:34:19.076432+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Amarys #132 Pokemon Prismatic Evolutions",
       "pris": 45,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478267701",
       "funnet": "2026-10-08T17:38:17.792485+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Hisuian Lilligant VSTAR #8",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478267761",
-      "funnet": "2026-10-08T17:38:17.025792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Morpeko VMAX #20",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478267655",
-      "funnet": "2026-10-08T17:36:17.938415+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
