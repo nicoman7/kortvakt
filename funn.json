@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T22:09:24.838156+00:00",
+  "sist_sjekket": "2026-10-08T22:10:24.162453+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort til salgs!",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477937288",
+      "funnet": "2026-10-08T22:10:24.160698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters 2005 – 6 originale samlekort",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/467030823",
       "funnet": "2026-10-08T19:20:29.635666+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trenere (CHI)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476436701",
-      "funnet": "2026-10-08T19:20:29.325705+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
