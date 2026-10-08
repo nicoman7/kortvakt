@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T14:18:16.084100+00:00",
+  "sist_sjekket": "2026-10-08T14:20:29.716741+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 20",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478252549",
+      "funnet": "2026-10-08T14:20:29.714686+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 15",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478240503",
       "funnet": "2026-10-08T11:54:17.210849+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478240474",
-      "funnet": "2026-10-08T11:54:16.808806+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
