@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T10:50:23.733636+00:00",
+  "sist_sjekket": "2026-10-08T10:52:17.209979+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 780,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478235001",
+      "funnet": "2026-10-08T10:52:17.207319+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - First partner - series 1",
       "pris": 845,
@@ -1190,14 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478215831",
       "funnet": "2026-10-08T02:40:59.445369+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/64 – Jungle Unlimited – engelsk Pokémonkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478215813",
-      "funnet": "2026-10-08T02:30:39.048811+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
