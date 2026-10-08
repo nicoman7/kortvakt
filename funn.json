@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-10-08T21:28:15.749954+00:00",
+  "sist_sjekket": "2026-10-08T21:30:46.759605+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478281796",
+      "funnet": "2026-10-08T21:30:46.758493+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon TCG Kort Eevee Sealed SWSH Promo",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478281568",
+      "funnet": "2026-10-08T21:30:46.375275+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort Energy Switch 120/147 ✨️Reverse holo✨️ Aquapolis 2002",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478281830",
+      "funnet": "2026-10-08T21:30:45.594445+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Charmander - Charmeleon samlekort lot - 14 kort",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478281829",
+      "funnet": "2026-10-08T21:30:44.849095+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🌟GARANTERT EX + 10 GLINS! 50 kort i hver pakke🌟",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
+      "funnet": "2026-10-08T21:30:44.490452+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle",
       "pris": 850,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477618525",
       "funnet": "2026-10-08T19:18:22.757459+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Squirtle japansk holografisk kort",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476122268",
-      "funnet": "2026-10-08T19:18:21.944316+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling Neymar, Xavi, Pirlo, Pogba, World Cup 2014 + Limited Edition",
-      "pris": 449,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477816644",
-      "funnet": "2026-10-08T19:18:21.520239+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celebrations Dragapult Prime samleboks",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478275134",
-      "funnet": "2026-10-08T19:18:21.124927+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Aurélien Tchouaméni autografkort 52/99 Real Madrid",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477673466",
-      "funnet": "2026-10-08T19:18:20.193871+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon ETB, Tins & Mini Tins – til oppbevaring/samling (Uten pakker/promos)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469462936",
-      "funnet": "2026-10-08T19:18:19.419512+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
