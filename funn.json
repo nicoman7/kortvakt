@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-08T10:34:14.969361+00:00",
+  "sist_sjekket": "2026-10-08T10:36:17.252336+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478233513",
+      "funnet": "2026-10-08T10:36:17.250598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Premier League 2024 samlealbum med fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478233527",
+      "funnet": "2026-10-08T10:36:16.935839+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Meowth kort",
       "pris": 35,
@@ -1182,22 +1198,6 @@
       "pris": 1250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478215069",
       "funnet": "2026-10-07T23:34:21.297138+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte One piece kort",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477873315",
-      "funnet": "2026-10-07T23:32:16.089851+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Greninja BREAK #157/103 – 30th Celebration – Kinesisk",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214980",
-      "funnet": "2026-10-07T23:20:24.262941+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
