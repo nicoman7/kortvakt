@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T04:52:14.201417+00:00",
+  "sist_sjekket": "2026-10-08T04:54:17.286906+00:00",
   "funn": [
+    {
+      "tittel": "(Gratis frakt) 5 fine kort av strawhats",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216437",
+      "funnet": "2026-10-08T04:54:17.285057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "40 grønne onepice kort i sett på 4 (GRATIS FRAKT)",
       "pris": 39,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478211891",
       "funnet": "2026-10-07T20:52:17.276204+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
-      "funnet": "2026-10-07T20:52:16.451878+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
