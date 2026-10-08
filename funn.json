@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T15:31:22.693416+00:00",
+  "sist_sjekket": "2026-10-08T15:32:15.147587+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-08T15:32:15.145742+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mewtwo #183 Pokemon Korean Scarlet & Violet 151",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-08T13:10:26.777417+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortperm med samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478246211",
-      "funnet": "2026-10-08T13:08:20.599902+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
