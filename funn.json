@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T17:28:22.858564+00:00",
+  "sist_sjekket": "2026-10-08T17:30:40.331453+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dialga VSTAR #101",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478267327",
+      "funnet": "2026-10-08T17:30:40.329843+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eeveelutions VMAX japanske promo kort sett",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478255799",
       "funnet": "2026-10-08T15:06:18.799261+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478256289",
-      "funnet": "2026-10-08T15:06:18.248787+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
