@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T08:50:25.070466+00:00",
+  "sist_sjekket": "2026-10-08T08:52:18.314431+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort vm 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478225587",
+      "funnet": "2026-10-08T08:52:18.312765+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "FIFA VM samlekort Lionel Messi Gold Limited Edition",
       "pris": 249,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478214271",
       "funnet": "2026-10-07T22:16:18.310125+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214218",
-      "funnet": "2026-10-07T22:16:17.732367+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
