@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T18:24:18.089473+00:00",
+  "sist_sjekket": "2026-10-08T18:26:22.010655+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort Kevin Keegan m.m. vintage",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478271415",
+      "funnet": "2026-10-08T18:26:22.008820+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Memorable Gareth Bale fotballkort 06/15",
       "pris": 599,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-08T15:42:19.815297+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort fra Shiny Treasure ex - Iron Treads ex",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478258554",
-      "funnet": "2026-10-08T15:42:18.763982+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
