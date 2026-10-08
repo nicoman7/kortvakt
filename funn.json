@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-08T19:20:29.637236+00:00",
+  "sist_sjekket": "2026-10-08T19:22:19.688519+00:00",
   "funn": [
+    {
+      "tittel": "Kortpakke",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478275556",
+      "funnet": "2026-10-08T19:22:19.686499+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sylveon [Poke Ball] #40 Pokemon Prismatic Evolutions",
+      "pris": 59,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478275305",
+      "funnet": "2026-10-08T19:22:18.601709+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MA 25 26 fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478275406",
+      "funnet": "2026-10-08T19:22:17.917057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️ Match Attax Champions League – ca. 80 kort for 120 kr!",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478275055",
+      "funnet": "2026-10-08T19:22:17.587685+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard EX kort",
       "pris": 1100,
@@ -1166,38 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478266438",
       "funnet": "2026-10-08T17:20:54.840670+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Chaos Rising boosterboks & løse hitts!",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478262982",
-      "funnet": "2026-10-08T17:18:23.654096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥Pokemon 30th Anniversary Booster Bundles",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478266060",
-      "funnet": "2026-10-08T17:16:22.265335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 9 Pokémon Jolteon VMAX japansk kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478266205",
-      "funnet": "2026-10-08T17:16:21.454092+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box samleboks",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478265451",
-      "funnet": "2026-10-08T17:08:15.981771+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
