@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T11:48:18.944067+00:00",
+  "sist_sjekket": "2026-10-08T11:50:24.649575+00:00",
   "funn": [
+    {
+      "tittel": "Graderte One piece kort",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477873315",
+      "funnet": "2026-10-08T11:50:24.647591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon V, Ex GX og Vmax samling",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478219214",
       "funnet": "2026-10-08T06:58:16.555999+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger en booster box med Riftbound kort fra Vendetta",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478219088",
-      "funnet": "2026-10-08T06:56:16.657575+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
