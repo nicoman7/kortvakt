@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-08T15:00:51.886545+00:00",
+  "sist_sjekket": "2026-10-08T15:02:19.132772+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478255829",
+      "funnet": "2026-10-08T15:02:19.130901+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478255978",
+      "funnet": "2026-10-08T15:02:18.539351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Merlin Premier League 2026 - Sandro Tonali Refractor Newcastle",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478245090",
       "funnet": "2026-10-08T12:56:29.827137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Malik Tillman topps chrome bundesliga 03/10",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478245681",
-      "funnet": "2026-10-08T12:56:29.270660+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort og Elite Trainer Box sett",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478245704",
-      "funnet": "2026-10-08T12:56:28.648482+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
