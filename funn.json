@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T05:20:21.381720+00:00",
+  "sist_sjekket": "2026-10-08T05:22:16.325730+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana Samlekort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216710",
+      "funnet": "2026-10-08T05:22:16.324656+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "(Gratis frakt) Pokemon Mega Diancie EX (japansk kort)",
       "pris": 45,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478211933",
       "funnet": "2026-10-07T20:56:15.925032+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grand Master Visions refractor Star wars samlekort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478211981",
-      "funnet": "2026-10-07T20:54:16.456625+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
