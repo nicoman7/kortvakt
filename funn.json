@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T16:24:16.014395+00:00",
+  "sist_sjekket": "2026-10-08T16:26:16.046618+00:00",
   "funn": [
+    {
+      "tittel": "Selger pokemon rumble kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
+      "funnet": "2026-10-08T16:26:16.045260+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hamato Xiono gold refractor nummerert/50 Star wars samlekort",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478251251",
       "funnet": "2026-10-08T14:08:18.400001+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling i metallboks",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478251494",
-      "funnet": "2026-10-08T14:06:16.973934+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
