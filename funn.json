@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T09:52:14.284572+00:00",
+  "sist_sjekket": "2026-10-08T09:54:15.929245+00:00",
   "funn": [
+    {
+      "tittel": "Perm med pokemonkort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478230228",
+      "funnet": "2026-10-08T09:54:15.927090+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Spillkort fra OL på Lillehammer",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478214528",
       "funnet": "2026-10-07T22:34:20.211604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Darkrai & Cresselia Legend #99 Pokemon 30th Celebration",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214447",
-      "funnet": "2026-10-07T22:28:18.151288+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
