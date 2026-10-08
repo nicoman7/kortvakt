@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-10-08T13:06:17.833799+00:00",
+  "sist_sjekket": "2026-10-08T13:08:20.601160+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kortperm med samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478246211",
+      "funnet": "2026-10-08T13:08:20.599902+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Pikachu japansk holografisk samlekort",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478246689",
+      "funnet": "2026-10-08T13:08:19.869978+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Palkia 30th",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478246751",
+      "funnet": "2026-10-08T13:08:19.119802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling KUN bulken",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478246669",
+      "funnet": "2026-10-08T13:08:18.724575+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon XY Evolutions boosterpakker",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478246579",
+      "funnet": "2026-10-08T13:08:17.935534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Eevee holografisk",
       "pris": 20,
@@ -1158,46 +1198,6 @@
       "pris": 310,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478232697",
       "funnet": "2026-10-08T10:24:18.719802+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - TOPPS/CARDASS M.M.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478232898",
-      "funnet": "2026-10-08T10:24:17.804585+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478232268",
-      "funnet": "2026-10-08T10:20:28.006787+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dyrekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478231787",
-      "funnet": "2026-10-08T10:14:17.336962+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478231535",
-      "funnet": "2026-10-08T10:10:25.756610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini og Topps fotballkort – Owen, Ødegaard og Zidane",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478229628",
-      "funnet": "2026-10-08T10:10:25.331572+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
