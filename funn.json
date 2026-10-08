@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-08T10:00:58.521494+00:00",
+  "sist_sjekket": "2026-10-08T10:02:55.217349+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 23",
+      "pris": 31,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478231141",
+      "funnet": "2026-10-08T10:02:55.215549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478231025",
+      "funnet": "2026-10-08T10:02:54.846692+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 44",
+      "pris": 33,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478231221",
+      "funnet": "2026-10-08T10:02:54.025722+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 780,
@@ -1174,30 +1198,6 @@
       "pris": 1700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478214558",
       "funnet": "2026-10-07T22:46:15.299271+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 030/128 (08/30) - 30th Anniversary Set",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214596",
-      "funnet": "2026-10-07T22:44:15.894251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Daredevil #48 Black /75 – Topps Marvel Brooklyn Collection 2026",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214599",
-      "funnet": "2026-10-07T22:42:21.765863+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Doctor Strange #41 /99 – Topps Marvel Brooklyn 2026",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214546",
-      "funnet": "2026-10-07T22:40:28.958342+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
