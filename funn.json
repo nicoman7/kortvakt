@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T10:12:17.271999+00:00",
+  "sist_sjekket": "2026-10-08T10:14:17.338951+00:00",
   "funn": [
+    {
+      "tittel": "Dyrekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478231787",
+      "funnet": "2026-10-08T10:14:17.336962+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 340,
@@ -1190,14 +1198,6 @@
       "pris": 109,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478214781",
       "funnet": "2026-10-07T22:58:14.552848+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Neal McDonough #MUA-NM Auto – Topps Marvel Brooklyn 2026",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214746",
-      "funnet": "2026-10-07T22:56:15.946213+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
