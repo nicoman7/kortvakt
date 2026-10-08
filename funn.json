@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-08T12:22:15.607994+00:00",
+  "sist_sjekket": "2026-10-08T12:24:16.997639+00:00",
   "funn": [
+    {
+      "tittel": "One pice kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478243136",
+      "funnet": "2026-10-08T12:24:16.995508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt - Pokemon 30th anniversary pakke selges samlet",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478225891",
       "funnet": "2026-10-08T08:56:14.584689+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration samlepakkar med kort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478225963",
-      "funnet": "2026-10-08T08:56:14.323381+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
