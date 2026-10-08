@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-08T15:04:16.108011+00:00",
+  "sist_sjekket": "2026-10-08T15:06:18.800899+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Unown samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478255799",
+      "funnet": "2026-10-08T15:06:18.799261+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478256289",
+      "funnet": "2026-10-08T15:06:18.248787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Haaland - 2026-27 UEFA Nations League Topps NOW",
       "pris": 129,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478245426",
       "funnet": "2026-10-08T12:56:31.637878+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle fotballkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/392858027",
-      "funnet": "2026-10-08T12:56:31.068511+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Zapdos EX kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478245751",
-      "funnet": "2026-10-08T12:56:30.446476+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
