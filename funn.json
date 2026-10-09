@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T12:52:15.099753+00:00",
+  "sist_sjekket": "2026-10-09T12:54:18.447629+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu & Zekrom Gx 33 - 30th Anniversary Celebration",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478314194",
+      "funnet": "2026-10-09T12:54:18.445481+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Maushold 146/128 Illustration Rare – Pokémon 30th Celebration",
       "pris": 259,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-09T10:28:16.107468+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div pokemonkort til salgs",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
-      "funnet": "2026-10-09T10:28:15.403183+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
