@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T00:08:15.510264+00:00",
+  "sist_sjekket": "2026-10-09T00:10:28.434317+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ash’s Pikachu SM112",
+      "pris": 549,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478284176",
+      "funnet": "2026-10-09T00:10:28.432537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ash's Pikachu SM110 promo",
       "pris": 549,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478275981",
       "funnet": "2026-10-08T19:32:18.820693+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478274917",
-      "funnet": "2026-10-08T19:32:18.429212+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
