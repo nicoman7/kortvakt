@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T13:52:17.923253+00:00",
+  "sist_sjekket": "2026-10-09T13:54:17.611182+00:00",
   "funn": [
+    {
+      "tittel": "Charizard ex",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478318968",
+      "funnet": "2026-10-09T13:54:17.609151+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mange ulike pokemonkort - åpen for trades! (salg på enkelte)",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478307858",
       "funnet": "2026-10-09T11:44:33.891985+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Ditto 17/18",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478307735",
-      "funnet": "2026-10-09T11:44:33.498524+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
