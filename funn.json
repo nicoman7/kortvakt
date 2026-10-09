@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T13:00:57.738300+00:00",
+  "sist_sjekket": "2026-10-09T13:02:18.245320+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon | Hits fra Pitch Black",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478314324",
+      "funnet": "2026-10-09T13:02:18.243334+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "George Best fotballkort selges! Nummerert",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478301952",
       "funnet": "2026-10-09T10:30:48.425586+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Aerodactyl EX holografisk kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478302186",
-      "funnet": "2026-10-09T10:30:47.779644+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
