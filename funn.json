@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-09T18:42:23.859068+00:00",
+  "sist_sjekket": "2026-10-09T18:44:19.054365+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon v og vstar kort 20kr per",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478337376",
+      "funnet": "2026-10-09T18:44:19.053208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort vstar og v lot 15kr per",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478337523",
+      "funnet": "2026-10-09T18:44:18.184311+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-09T18:44:17.341731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece kort bulk",
       "pris": 200,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
       "funnet": "2026-10-09T17:16:16.036183+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mega Charizard 013/094",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478334001",
-      "funnet": "2026-10-09T17:14:22.212442+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riftbound – 125 kort per bunke - 350kr",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478334028",
-      "funnet": "2026-10-09T17:14:21.820418+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kingdra Legends Awakened Holo Rare 7",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478333847",
-      "funnet": "2026-10-09T17:14:21.077287+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
