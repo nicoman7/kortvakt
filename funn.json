@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-09T13:44:17.594462+00:00",
+  "sist_sjekket": "2026-10-09T13:46:19.757791+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges (bulk og glins/shiny er med)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478318223",
+      "funnet": "2026-10-09T13:46:19.756371+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478317554",
+      "funnet": "2026-10-09T13:46:19.504561+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Mew ex 158/128",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478318624",
+      "funnet": "2026-10-09T13:46:18.923009+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon (JP) selges",
       "pris": 100,
@@ -1174,30 +1198,6 @@
       "pris": 1800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478307328",
       "funnet": "2026-10-09T11:38:14.961095+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration-kort (HOLO) – Mew, Lugia, Kyogre, Articuno m.m.",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478307851",
-      "funnet": "2026-10-09T11:38:14.688180+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG 30th Celebrations - Kinesisk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478302742",
-      "funnet": "2026-10-09T11:36:20.178920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478307779",
-      "funnet": "2026-10-09T11:36:19.383698+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
