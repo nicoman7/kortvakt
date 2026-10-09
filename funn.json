@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T11:38:15.331661+00:00",
+  "sist_sjekket": "2026-10-09T11:40:28.509146+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort fra barndommen",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478307575",
+      "funnet": "2026-10-09T11:40:28.507617+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort og PSA-slabs",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 129,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
       "funnet": "2026-10-09T08:34:16.747134+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration hits!",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478292899",
-      "funnet": "2026-10-09T08:32:17.853225+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
