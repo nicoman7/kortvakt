@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-09T21:38:16.825658+00:00",
+  "sist_sjekket": "2026-10-09T21:40:26.707627+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 1999 og 2000",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478346889",
+      "funnet": "2026-10-09T21:40:26.705781+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-09T21:40:25.901899+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL VM Kort! Stort utvalg! Oppdatert 9/10",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477229877",
       "funnet": "2026-10-09T19:16:21.699771+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo nr. 425 Topps Match Attax 08/09",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/464861989",
-      "funnet": "2026-10-09T19:14:22.972218+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage samling Pokémon kort fra 2008-2010 (selges samlet)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473251847",
-      "funnet": "2026-10-09T19:14:22.055538+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
