@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T18:44:19.054365+00:00",
+  "sist_sjekket": "2026-10-09T18:46:15.752409+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
+      "funnet": "2026-10-09T18:46:15.750510+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon v og vstar kort 20kr per",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478334210",
       "funnet": "2026-10-09T17:16:16.799138+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland - 2026-27 UEFA Nations League Topps NOW",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
-      "funnet": "2026-10-09T17:16:16.036183+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
