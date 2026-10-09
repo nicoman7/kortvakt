@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T14:01:00.495313+00:00",
+  "sist_sjekket": "2026-10-09T14:02:15.758236+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th tin",
+      "pris": 349,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478320154",
+      "funnet": "2026-10-09T14:02:15.756134+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – base set raw",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478309197",
       "funnet": "2026-10-09T11:56:15.901881+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps TV Animation-kort fra 1999/2000 (20 kort)",
-      "pris": 479,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478308638",
-      "funnet": "2026-10-09T11:54:20.868213+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
