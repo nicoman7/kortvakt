@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T23:14:15.712420+00:00",
+  "sist_sjekket": "2026-10-09T23:16:18.984080+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
+      "funnet": "2026-10-09T23:16:18.982433+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Harry Potter Kort",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478341441",
       "funnet": "2026-10-09T19:24:19.295563+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lee sin showcase alternate art Riftbound samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478341508",
-      "funnet": "2026-10-09T19:24:18.489783+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
