@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-09T17:56:15.957518+00:00",
+  "sist_sjekket": "2026-10-09T17:58:16.008331+00:00",
   "funn": [
+    {
+      "tittel": "Drowzee 49/102 - Pokemon Base Set",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478336751",
+      "funnet": "2026-10-09T17:58:16.006519+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Psychic Energy kort med Mewtwo Stempel - Battle Academy",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478336539",
+      "funnet": "2026-10-09T17:58:15.547207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Unown [I] 68/75 - Pokemon Neo Discovery",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-09T16:24:19.175898+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Zapdos #133 Pokemon 30th Celebration",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478320824",
-      "funnet": "2026-10-09T16:24:18.207350+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duraludon V #198 Pokemon Evolving Skies",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478320855",
-      "funnet": "2026-10-09T16:24:17.851122+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
