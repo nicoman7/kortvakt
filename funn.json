@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T22:58:15.270540+00:00",
+  "sist_sjekket": "2026-10-09T23:00:59.946787+00:00",
   "funn": [
+    {
+      "tittel": "Harry Potter Kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478348372",
+      "funnet": "2026-10-09T23:00:59.944764+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Brian Madjo RC – Aston Villa – Topps Premier League 26/27",
       "pris": 59,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478341508",
       "funnet": "2026-10-09T19:24:18.489783+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Neo Genesis 2000 – 1st Edition samling + Bellossom Holo",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477805494",
-      "funnet": "2026-10-09T19:22:20.771514+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
