@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T19:48:19.558814+00:00",
+  "sist_sjekket": "2026-10-09T19:50:26.521355+00:00",
   "funn": [
+    {
+      "tittel": "24 fotballkort selges",
+      "pris": 240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478342703",
+      "funnet": "2026-10-09T19:50:26.519585+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Groudon ex no dot error",
       "pris": 1700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478338302",
       "funnet": "2026-10-09T18:24:16.466901+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotballkort samling",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478338208",
-      "funnet": "2026-10-09T18:20:29.170937+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
