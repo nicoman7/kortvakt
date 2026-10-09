@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T07:50:30.130936+00:00",
+  "sist_sjekket": "2026-10-09T07:52:15.517568+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796932",
+      "funnet": "2026-10-09T07:52:15.515582+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leonardo Spinazzola Auto Napoli Topps Gold 25-26",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478280385",
       "funnet": "2026-10-08T20:46:16.460580+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zinedine Zidane Showboat – Juventus – Topps Match Attax Champions League",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478280108",
-      "funnet": "2026-10-08T20:46:15.720801+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
