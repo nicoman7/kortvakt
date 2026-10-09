@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T04:32:13.644322+00:00",
+  "sist_sjekket": "2026-10-09T04:34:17.453275+00:00",
   "funn": [
+    {
+      "tittel": "Samle annonse",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478284975",
+      "funnet": "2026-10-09T04:34:17.451467+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Anniversary – Mini Tins med kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478274555",
       "funnet": "2026-10-08T19:46:25.631135+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zinedine Zidane Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478277042",
-      "funnet": "2026-10-08T19:46:24.740160+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
