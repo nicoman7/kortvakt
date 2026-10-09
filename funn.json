@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-09T18:48:15.131730+00:00",
+  "sist_sjekket": "2026-10-09T18:50:26.427426+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Raikou EX #92 PSA 8!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478339715",
+      "funnet": "2026-10-09T18:50:26.426208+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon: Alolan Exeggutor 129/128 – 30th Celebration Illustration Rare (NM)",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478339693",
+      "funnet": "2026-10-09T18:50:26.051734+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Pikachu & Zekrom fra 30th Celebration Japansk",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478339758",
+      "funnet": "2026-10-09T18:50:25.624478+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Suicune EX #94 PSA 8!",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478334324",
       "funnet": "2026-10-09T17:18:18.635774+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celebi Mysterious Treasures Holo Rare 7",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478333796",
-      "funnet": "2026-10-09T17:18:17.729574+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard EX 161 Promo",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478334256",
-      "funnet": "2026-10-09T17:18:17.369834+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar V Fusion Strike Ultra Rare 156/264",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478333814",
-      "funnet": "2026-10-09T17:16:17.796555+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
