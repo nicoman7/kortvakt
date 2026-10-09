@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T19:32:20.457419+00:00",
+  "sist_sjekket": "2026-10-09T19:34:18.228307+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Ex - 30th Celebration - gratis frakt",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478341906",
+      "funnet": "2026-10-09T19:34:18.226200+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort dex",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-09T18:14:17.707271+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Diverse EX kort til salgs (Japansk)",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478337649",
-      "funnet": "2026-10-09T18:12:21.562686+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
