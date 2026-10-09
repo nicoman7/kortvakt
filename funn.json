@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T16:54:18.118810+00:00",
+  "sist_sjekket": "2026-10-09T16:56:16.839035+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
+      "funnet": "2026-10-09T16:56:16.837765+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mewtwo Futuristic Rare 30th",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478321888",
       "funnet": "2026-10-09T15:26:18.799374+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lurantis ex #96 Pokemon Pitch Black",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478321867",
-      "funnet": "2026-10-09T15:26:18.453793+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
