@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T20:48:24.022039+00:00",
+  "sist_sjekket": "2026-10-09T20:50:30.024594+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration mini tin - gratis frakt",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478345254",
+      "funnet": "2026-10-09T20:50:30.022621+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Snorlax (JP) Holo Rare 143",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 125,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478339513",
       "funnet": "2026-10-09T19:00:56.517015+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pakkepris - Pokemon 30th anniversary jubileum",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476723405",
-      "funnet": "2026-10-09T19:00:55.776899+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
