@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-09T22:30:47.467121+00:00",
+  "sist_sjekket": "2026-10-09T22:32:15.858374+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-10-09T22:32:15.856942+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Donruss FIFA Signature Series Gianluca Scamacca autografkort 39/99",
       "pris": 225,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-09T19:20:32.497997+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Bundle kortpakke",
-      "pris": 949,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478053522",
-      "funnet": "2026-10-09T19:20:31.677274+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
