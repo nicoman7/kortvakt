@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-09T09:01:08.023337+00:00",
+  "sist_sjekket": "2026-10-09T09:02:16.369674+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478295564",
+      "funnet": "2026-10-09T09:02:16.368371+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu vintage Pokemon-kort",
+      "pris": 370,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478295441",
+      "funnet": "2026-10-09T09:02:15.996865+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lanturn 1st Edition vintage Pokemon-kort",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478282211",
       "funnet": "2026-10-08T21:46:17.169483+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": 1175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478282184",
-      "funnet": "2026-10-08T21:44:17.115992+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-08T21:44:16.167095+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
