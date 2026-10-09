@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-09T14:44:17.717824+00:00",
+  "sist_sjekket": "2026-10-09T14:46:18.722854+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478322456",
+      "funnet": "2026-10-09T14:46:18.721275+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-10-09T14:46:17.969912+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-10-09T12:40:31.044072+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger pokemon rumble kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
-      "funnet": "2026-10-09T12:36:19.619590+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th TIN",
-      "pris": 798,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478312481",
-      "funnet": "2026-10-09T12:34:16.036659+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
