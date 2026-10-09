@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-09T19:36:18.042564+00:00",
+  "sist_sjekket": "2026-10-09T19:38:17.867409+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration ETB’er, bundles og tins",
+      "pris": 1899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478341748",
+      "funnet": "2026-10-09T19:38:17.865860+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Selger pokemon rumble kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
+      "funnet": "2026-10-09T19:38:17.079096+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Viktor Gyökeres Vibes – Arsenal – Topps Premier League 26/27",
       "pris": 59,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-09T18:18:17.540893+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 370,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478337740",
-      "funnet": "2026-10-09T18:14:18.802667+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Totodile 106/123 - Pokemon Mysterious Treasures",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478337827",
-      "funnet": "2026-10-09T18:14:18.409614+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
