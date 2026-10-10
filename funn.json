@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T23:52:14.193193+00:00",
+  "sist_sjekket": "2026-10-10T23:54:17.126573+00:00",
   "funn": [
+    {
+      "tittel": "kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478432095",
+      "funnet": "2026-10-10T23:54:17.125236+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pakkepris - Pokemon 30th anniversary jubileum",
       "pris": 1900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478424145",
       "funnet": "2026-10-10T19:36:16.669062+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG: 1x Relentless Dead (SOI - Mythic Rare Creature) 🧟 ♂️💀💥",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478423780",
-      "funnet": "2026-10-10T19:30:53.233015+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
