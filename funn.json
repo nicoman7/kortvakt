@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-10T14:16:22.133044+00:00",
+  "sist_sjekket": "2026-10-10T14:18:20.454152+00:00",
   "funn": [
+    {
+      "tittel": "Birthday pikachu Pokémon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478398499",
+      "funnet": "2026-10-10T14:18:20.452737+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Drowzee #210 Pokemon Scarlet & Violet",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478398142",
+      "funnet": "2026-10-10T14:18:19.684508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pitch Black Pokemon kort – liten samling med ulike figurer",
       "pris": 2,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478384730",
       "funnet": "2026-10-10T12:26:20.135236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 Adrenalyn XL 2026 Invincible-kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478384861",
-      "funnet": "2026-10-10T12:26:19.772052+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Bundle – Helt uåpnet",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478384704",
-      "funnet": "2026-10-10T12:26:18.900362+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
