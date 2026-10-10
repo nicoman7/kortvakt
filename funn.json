@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T05:50:24.400168+00:00",
+  "sist_sjekket": "2026-10-10T05:52:15.823763+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478351354",
+      "funnet": "2026-10-10T05:52:15.822341+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana bakside puzzle kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 240,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478342703",
       "funnet": "2026-10-09T19:50:26.519585+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Groudon ex no dot error",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478342512",
-      "funnet": "2026-10-09T19:48:19.557404+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
