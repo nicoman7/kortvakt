@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T21:12:18.243472+00:00",
+  "sist_sjekket": "2026-10-10T21:14:15.889466+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort-samling - Slugma",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478429026",
+      "funnet": "2026-10-10T21:14:15.888108+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5 Pokèmon kort til salgs",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477441265",
       "funnet": "2026-10-10T19:12:25.508012+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Poster Collection",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477048031",
-      "funnet": "2026-10-10T19:12:25.170374+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
