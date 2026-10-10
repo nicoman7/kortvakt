@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-10T15:32:16.772214+00:00",
+  "sist_sjekket": "2026-10-10T15:34:18.015549+00:00",
   "funn": [
+    {
+      "tittel": "Kortpermer for kort",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478406635",
+      "funnet": "2026-10-10T15:34:18.014412+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-10-10T15:34:17.548356+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kortstokk samling",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478398208",
       "funnet": "2026-10-10T14:22:18.293063+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Shinx LV.11 holografisk SH12",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478398488",
-      "funnet": "2026-10-10T14:22:17.961748+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Canari #257 Pokemon Ascended Heroes",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478398233",
-      "funnet": "2026-10-10T14:22:17.226492+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
