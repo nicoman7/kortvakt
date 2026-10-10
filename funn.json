@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-10T17:16:14.889853+00:00",
+  "sist_sjekket": "2026-10-10T17:18:17.077000+00:00",
   "funn": [
+    {
+      "tittel": "Selger 30th jubileums kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478415330",
+      "funnet": "2026-10-10T17:18:17.075301+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort og pins – stort blandet parti",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478415247",
+      "funnet": "2026-10-10T17:18:16.362340+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Krrsantan ray wave refractor Star wars samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478415699",
+      "funnet": "2026-10-10T17:18:15.645445+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bai Star wars samlekort",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-10T15:00:58.960567+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pidgeotto #208 Pokemon Obsidian Flames",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478393395",
-      "funnet": "2026-10-10T15:00:58.257565+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Revavroom ex #224 Pokemon Obsidian Flames",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478393458",
-      "funnet": "2026-10-10T15:00:57.585473+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Lapras #194 Pokemon Destined Rivals",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478393424",
-      "funnet": "2026-10-10T15:00:57.212230+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
