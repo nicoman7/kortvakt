@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-10T12:04:19.562763+00:00",
+  "sist_sjekket": "2026-10-10T12:06:16.740938+00:00",
   "funn": [
+    {
+      "tittel": "Panini Select  Diego Luna 5/10",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478382200",
+      "funnet": "2026-10-10T12:06:16.738858+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Kommo-o Blazing Uppercut",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478369930",
+      "funnet": "2026-10-10T12:06:16.319028+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor Disney Lorcana lot Set 5: Shimmering Skies inkl. Legendary kort",
+      "pris": 680,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478380935",
+      "funnet": "2026-10-10T12:06:15.546755+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Inception Star Quality  Pau Víctor/25 auto",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478365980",
       "funnet": "2026-10-10T09:50:23.912258+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "80+ Japanske mirror Holo, reversed Holo og Holo kort.",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478365593",
-      "funnet": "2026-10-10T09:48:21.074635+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478365518",
-      "funnet": "2026-10-10T09:48:20.190541+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Cyndaquil 54/115 - Pokemon Unseen Forces",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478365741",
-      "funnet": "2026-10-10T09:48:19.362276+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
