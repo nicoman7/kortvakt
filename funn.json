@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-10T17:40:28.726539+00:00",
+  "sist_sjekket": "2026-10-10T17:42:18.360985+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478417247",
+      "funnet": "2026-10-10T17:42:18.359306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lautaro Martínez Hattrick Hero – Inter Milan – Topps Champions League",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478417462",
+      "funnet": "2026-10-10T17:42:17.402426+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Milotic REVERSE Holo 12/101 – EX Hidden Legends 2004 - Vintage pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478170850",
+      "funnet": "2026-10-10T17:42:16.650449+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon – Charizard ex Promo (Scarlet & Violet Promo 196)",
       "pris": 50,
@@ -1174,30 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478392923",
       "funnet": "2026-10-10T15:12:14.885263+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Ezequiel Lavezzi fotballkort Argentina team set nummerert 46/99",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478404199",
-      "funnet": "2026-10-10T15:10:31.254144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Sharpedo ex #127 Pokemon Phantasmal Flames",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478393006",
-      "funnet": "2026-10-10T15:10:30.916823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Thundurus EX Team Plasma/Plasma Freeze (2013) 110",
-      "pris": 1150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478403774",
-      "funnet": "2026-10-10T15:10:30.544509+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
