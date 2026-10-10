@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-10T19:54:16.083698+00:00",
+  "sist_sjekket": "2026-10-10T19:56:16.005822+00:00",
   "funn": [
+    {
+      "tittel": "Mike Maignan Limited Edition Premium Gold (Fotballkort)",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478425490",
+      "funnet": "2026-10-10T19:56:16.003980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marcus Rashford Limited Edition Premium Gold (Fotballkort)",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478425341",
+      "funnet": "2026-10-10T19:56:15.019687+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling fra 30th celebration",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478421743",
       "funnet": "2026-10-10T18:54:18.761736+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478421850",
-      "funnet": "2026-10-10T18:54:18.108626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Moltres 30th Celebration",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478421852",
-      "funnet": "2026-10-10T18:54:17.179688+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
