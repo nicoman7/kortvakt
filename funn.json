@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T08:20:24.558609+00:00",
+  "sist_sjekket": "2026-10-10T08:22:18.462276+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Flygon 164/172",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478357683",
+      "funnet": "2026-10-10T08:22:18.460403+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spesialkort fra Topps Premier Gold 2007",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-09T20:50:30.022621+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Snorlax (JP) Holo Rare 143",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478345049",
-      "funnet": "2026-10-09T20:48:24.020458+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
