@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-10T12:02:20.050514+00:00",
+  "sist_sjekket": "2026-10-10T12:04:19.562763+00:00",
   "funn": [
+    {
+      "tittel": "Topps Inception Star Quality  Pau Víctor/25 auto",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478382007",
+      "funnet": "2026-10-10T12:04:19.561185+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Michael Owen (Liverpool)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478381962",
+      "funnet": "2026-10-10T12:04:18.798153+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Obsidian Mosaic Material Cesc Fàbregas/50",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478365741",
       "funnet": "2026-10-10T09:48:19.362276+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Electivire 25/132 - Pokemon Secret Wonders",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478365572",
-      "funnet": "2026-10-10T09:48:18.535844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool Adrenalyn XL samlemappe med fotballkort 2011/2012",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478365400",
-      "funnet": "2026-10-10T09:48:18.179353+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
