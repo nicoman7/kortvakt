@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T17:18:17.077000+00:00",
+  "sist_sjekket": "2026-10-10T17:20:23.308422+00:00",
   "funn": [
+    {
+      "tittel": "Div eldre pokemonkort (2005-2017)",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477977685",
+      "funnet": "2026-10-10T17:20:23.307229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger 30th jubileums kort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-10T15:00:59.372183+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Steelix 37/113",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478403322",
-      "funnet": "2026-10-10T15:00:58.960567+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
