@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T10:40:27.476238+00:00",
+  "sist_sjekket": "2026-10-10T10:42:18.741271+00:00",
   "funn": [
+    {
+      "tittel": "Pokémons - Charizard",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478371591",
+      "funnet": "2026-10-10T10:42:18.739344+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebrations",
       "pris": 799,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478357197",
       "funnet": "2026-10-10T08:20:24.557432+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samlepakke til spissnebb",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478357692",
-      "funnet": "2026-10-10T08:20:23.837455+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
