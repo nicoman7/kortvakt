@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-10T17:30:48.737661+00:00",
+  "sist_sjekket": "2026-10-10T17:32:17.076130+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 039/128",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478416707",
+      "funnet": "2026-10-10T17:32:17.074316+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Quilava 024/189",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478416352",
+      "funnet": "2026-10-10T17:32:16.327552+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon – Charizard ex (Obsidian Flames 215/197)",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478416669",
+      "funnet": "2026-10-10T17:32:15.965583+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "The stranger magenta lava refractor /250 Star wars samlekort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478416674",
+      "funnet": "2026-10-10T17:32:15.210440+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Mini Tin",
       "pris": 525,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-10T15:08:18.559851+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega Diancie Ex #282 Pokemon Ascended Heroes",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478393037",
-      "funnet": "2026-10-10T15:08:17.755191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morpeko illustration rare pokemon kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478404086",
-      "funnet": "2026-10-10T15:08:17.123574+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotballkort Hernán Crespo Argentina team set nummerert 25/99",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478404080",
-      "funnet": "2026-10-10T15:08:16.810905+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax og Champions League samlekort og permer",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478403608",
-      "funnet": "2026-10-10T15:08:16.085227+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
