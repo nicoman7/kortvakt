@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-10T12:14:18.533892+00:00",
+  "sist_sjekket": "2026-10-10T12:16:18.677181+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort mappe – blanding norsk/engelsk/japansk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478383365",
+      "funnet": "2026-10-10T12:16:18.675276+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Rayquaza kort – 2 stk samlekort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478383606",
+      "funnet": "2026-10-10T12:16:17.848622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Premier League Trophy",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478383622",
+      "funnet": "2026-10-10T12:16:17.029497+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Lapras samlekort holo",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478368395",
       "funnet": "2026-10-10T10:12:19.647294+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary booster bundle",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478368272",
-      "funnet": "2026-10-10T10:12:19.151795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu samlekort Selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478367908",
-      "funnet": "2026-10-10T10:10:25.794723+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "61 fotballkort selges",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478367962",
-      "funnet": "2026-10-10T10:10:25.091019+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
