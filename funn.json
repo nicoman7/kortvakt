@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T04:04:16.485257+00:00",
+  "sist_sjekket": "2026-10-10T04:06:17.096926+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - First Partner 2 komplett set",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478313318",
+      "funnet": "2026-10-10T04:06:17.095057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magby Reverse Holo Stamp - EX Legend Maker 58/92 - Pokemonkort",
       "pris": 299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-09T19:38:17.865860+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Selger pokemon rumble kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
-      "funnet": "2026-10-09T19:38:17.079096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
