@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T17:32:17.076130+00:00",
+  "sist_sjekket": "2026-10-10T17:34:15.874632+00:00",
   "funn": [
+    {
+      "tittel": "Pakkepris - Pokemon 30th anniversary jubileum",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476723405",
+      "funnet": "2026-10-10T17:34:15.873463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 039/128",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-10T15:08:19.001920+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th celebration sir pokemon kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478403828",
-      "funnet": "2026-10-10T15:08:18.559851+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
