@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-10T20:46:15.329914+00:00",
+  "sist_sjekket": "2026-10-10T20:48:15.688072+00:00",
   "funn": [
+    {
+      "tittel": "Panini  VM 2006 Brasil fotballkort Kaká",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478427977",
+      "funnet": "2026-10-10T20:48:15.686262+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th anniversary hits og pikachuer!",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-10T19:10:31.374680+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu Metal Kort",
-      "pris": 1775,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477747481",
-      "funnet": "2026-10-10T19:10:30.559794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
