@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T13:00:56.659631+00:00",
+  "sist_sjekket": "2026-10-11T13:02:16.473837+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon adventskalender/julekalender",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478479854",
+      "funnet": "2026-10-11T13:02:16.472231+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Emboar holo",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478480014",
+      "funnet": "2026-10-11T13:02:15.622138+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nidorina #101 (sealed) Pokemon 30th Celebration Promo",
       "pris": 65,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-11T11:34:17.918588+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Mew 065/128",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478466034",
-      "funnet": "2026-10-11T11:34:17.316727+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-11T11:34:16.634686+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
