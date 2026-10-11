@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-11T08:46:12.793673+00:00",
+  "sist_sjekket": "2026-10-11T08:48:20.276729+00:00",
   "funn": [
+    {
+      "tittel": "Dark Slowking 9/109 Holo Rare",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478442918",
+      "funnet": "2026-10-11T08:48:20.275045+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu holo-kort – Agility",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478443120",
+      "funnet": "2026-10-11T08:48:19.242264+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Palkia G LV. X 125/127 fra Pokemon Platinum",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478443035",
+      "funnet": "2026-10-11T08:48:18.401571+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fire-type Pokemon kort - 4 stk - Growlithe & Entei",
       "pris": 40,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-11T01:20:25.618558+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mewtwo samling 4 stk, Mewtwo Lot",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478432474",
-      "funnet": "2026-10-11T01:10:24.143785+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu #27/30 - 30th Celebration",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478432381",
-      "funnet": "2026-10-11T00:42:17.310926+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu #25/30 - 30th Celebration",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478432374",
-      "funnet": "2026-10-11T00:40:24.218709+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
