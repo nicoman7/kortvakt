@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T15:32:21.762976+00:00",
+  "sist_sjekket": "2026-10-11T15:34:14.886615+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges enkeltvis - Messi, R9, Yamal, Haaland",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478502573",
+      "funnet": "2026-10-11T15:34:14.884790+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort, 108-110 unike japanske 151 reverse holo kort",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478489393",
       "funnet": "2026-10-11T14:02:18.799335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Wattrel 178/167",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478489460",
-      "funnet": "2026-10-11T14:02:18.011897+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
