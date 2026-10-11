@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T07:52:17.227644+00:00",
+  "sist_sjekket": "2026-10-11T07:54:15.025400+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478438334",
+      "funnet": "2026-10-11T07:54:15.023461+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort graded 9.5 i hardplast-etui",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478438211",
+      "funnet": "2026-10-11T07:54:14.759334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Heatran LV.X og Gengar LV.X",
       "pris": 700,
@@ -1182,22 +1198,6 @@
       "pris": 149,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478429987",
       "funnet": "2026-10-10T21:42:16.244382+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Delphox holo 013/086 fra Chaos Rising (CRI EN)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478427601",
-      "funnet": "2026-10-10T21:40:27.978185+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magnemite Reverse Holo - EX Dragon 62/97 - Pokemonkort fra 2003",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478429851",
-      "funnet": "2026-10-10T21:40:27.149462+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
