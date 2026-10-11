@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-11T10:48:14.635955+00:00",
+  "sist_sjekket": "2026-10-11T10:50:27.895082+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478458412",
+      "funnet": "2026-10-11T10:50:27.893196+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort reservert til  Sørli Grindheim",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478458851",
+      "funnet": "2026-10-11T10:50:27.451349+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Slowbro 090/084 – Pitch Black 2026 – Mékayu – Illustration Rare ⭐",
+      "pris": 169,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478458667",
+      "funnet": "2026-10-11T10:50:27.050071+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-11T08:24:17.025864+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "40 kr per pokemon kort - mye vintage og gamle kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478439864",
-      "funnet": "2026-10-11T08:22:19.733102+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon gem 6",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478440153",
-      "funnet": "2026-10-11T08:22:18.862786+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NM Gengar #307 Gem Pack Vol. 3 chinese Pokemon",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478440098",
-      "funnet": "2026-10-11T08:18:19.609214+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
