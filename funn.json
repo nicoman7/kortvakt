@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T23:30:41.557705+00:00",
+  "sist_sjekket": "2026-10-11T23:32:15.376441+00:00",
   "funn": [
+    {
+      "tittel": "Detective pikachu",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478538280",
+      "funnet": "2026-10-11T23:32:15.374640+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gammel Pokémon kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478529715",
       "funnet": "2026-10-11T19:34:17.706789+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th Celebrations 023/128 01/30 Ken Sugimori",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478529553",
-      "funnet": "2026-10-11T19:34:16.825114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
