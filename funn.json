@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-11T14:40:23.565498+00:00",
+  "sist_sjekket": "2026-10-11T14:42:16.718348+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Cresselia",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478495389",
+      "funnet": "2026-10-11T14:42:16.716634+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mew VMAX TG30/TG30 - Pokemon Lost Origin",
+      "pris": 260,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478495579",
+      "funnet": "2026-10-11T14:42:16.414653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu VMAX TG29/TG30 - Pokemon Lost Origin",
+      "pris": 215,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478495706",
+      "funnet": "2026-10-11T14:42:16.047207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Deoxys GG12/GG70 - Pokemon Crown Zenith",
       "pris": 160,
@@ -1174,30 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478477811",
       "funnet": "2026-10-11T12:48:17.971765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #28 (06/30) Pokemon 30th Celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478477666",
-      "funnet": "2026-10-11T12:48:17.158331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Ethan’s Slugma",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478477625",
-      "funnet": "2026-10-11T12:48:16.191710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #41 (19/30) Pokemon 30th Celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478477268",
-      "funnet": "2026-10-11T12:46:16.809601+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
