@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T20:30:42.309384+00:00",
+  "sist_sjekket": "2026-10-11T20:32:16.807689+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, 10kr per kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478533172",
+      "funnet": "2026-10-11T20:32:16.805883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon tin/boks med pokemonkort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478533671",
+      "funnet": "2026-10-11T20:32:15.813576+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Eeveelutions samlekort pakke",
       "pris": 160,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477242045",
       "funnet": "2026-10-11T19:18:18.966950+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Arceus LV.X DP56",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478527812",
-      "funnet": "2026-10-11T19:18:18.109552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kortpakke Pokemon Kort - 100stk",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476162958",
-      "funnet": "2026-10-11T19:18:17.313171+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
