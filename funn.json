@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T10:44:20.157948+00:00",
+  "sist_sjekket": "2026-10-11T10:46:14.751998+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478458003",
+      "funnet": "2026-10-11T10:46:14.750007+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort",
       "pris": 370,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-11T08:18:19.609214+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor Pokemon samling, Selges Samlet.",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478440270",
-      "funnet": "2026-10-11T08:18:18.850708+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
