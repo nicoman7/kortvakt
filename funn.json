@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T21:20:25.430614+00:00",
+  "sist_sjekket": "2026-10-11T21:22:15.949037+00:00",
   "funn": [
+    {
+      "tittel": "Div pokemonkort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
+      "funnet": "2026-10-11T21:22:15.947830+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - 40 kort i hver pakke - Mystery pack - Hits",
       "pris": 540,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477816644",
       "funnet": "2026-10-11T19:24:23.942595+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Finest Mohammed Kudus Champions League kort 14/15",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477181870",
-      "funnet": "2026-10-11T19:24:23.584510+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
