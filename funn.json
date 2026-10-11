@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-11T11:08:16.250288+00:00",
+  "sist_sjekket": "2026-10-11T11:10:28.013416+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478461624",
+      "funnet": "2026-10-11T11:10:28.012129+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Radiant Wise Spirit Tarot kortstokk",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478461925",
+      "funnet": "2026-10-11T11:10:27.198645+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Finest Prized Footballers Diego Maradona samlekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478461692",
+      "funnet": "2026-10-11T11:10:26.819703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Victini V kort",
       "pris": 175,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478443120",
       "funnet": "2026-10-11T08:48:19.242264+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Palkia G LV. X 125/127 fra Pokemon Platinum",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478443035",
-      "funnet": "2026-10-11T08:48:18.401571+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fire-type Pokemon kort - 4 stk - Growlithe & Entei",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442353",
-      "funnet": "2026-10-11T08:44:23.402331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu Jungle 1st Edition PSA 9",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442774",
-      "funnet": "2026-10-11T08:44:22.661599+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
