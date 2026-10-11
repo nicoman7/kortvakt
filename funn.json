@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T21:00:52.821191+00:00",
+  "sist_sjekket": "2026-10-11T21:02:17.998894+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 154,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478535235",
+      "funnet": "2026-10-11T21:02:17.996916+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tom etb",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478526377",
       "funnet": "2026-10-11T19:24:22.026587+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Merlin Senny Mayulu auto PSG CL RC",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478527889",
-      "funnet": "2026-10-11T19:24:21.691896+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
