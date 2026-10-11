@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T16:44:16.974195+00:00",
+  "sist_sjekket": "2026-10-11T16:46:17.922415+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Black Bolt Booster Bundle",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478081688",
+      "funnet": "2026-10-11T16:46:17.921107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Charizard X ex 013/094.  Phantasmal Flames",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-11T14:44:16.069248+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Cresselia",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478495389",
-      "funnet": "2026-10-11T14:42:16.716634+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
