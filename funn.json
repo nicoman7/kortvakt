@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T17:16:15.716036+00:00",
+  "sist_sjekket": "2026-10-11T17:18:18.658101+00:00",
   "funn": [
+    {
+      "tittel": "ikke salg, pokémonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478514804",
+      "funnet": "2026-10-11T17:18:18.656490+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mega Momartik EX holo",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478515223",
+      "funnet": "2026-10-11T17:18:17.908501+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th - Diverse kort",
       "pris": 310,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478497821",
       "funnet": "2026-10-11T15:00:59.348631+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Arceus AR7/99 Platinum Arceus",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478497724",
-      "funnet": "2026-10-11T15:00:58.495880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Luxray V kort holo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455293255",
-      "funnet": "2026-10-11T15:00:57.673549+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
