@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T16:16:14.665077+00:00",
+  "sist_sjekket": "2026-10-11T16:18:18.627285+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478508423",
+      "funnet": "2026-10-11T16:18:18.625431+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 375,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478178933",
       "funnet": "2026-10-11T14:28:16.128290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras GG05/GG70 - Pokemon Crown Zenith",
-      "pris": 210,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478493437",
-      "funnet": "2026-10-11T14:26:17.012863+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
