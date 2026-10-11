@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T06:16:17.408683+00:00",
+  "sist_sjekket": "2026-10-11T06:18:17.473491+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478434658",
+      "funnet": "2026-10-11T06:18:17.471583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Heracross reverse SP rising rivals",
       "pris": 105,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478427139",
       "funnet": "2026-10-10T21:02:15.636684+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort first partner  med 3 kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478428370",
-      "funnet": "2026-10-10T20:58:15.774213+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
