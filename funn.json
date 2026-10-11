@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T12:32:17.456920+00:00",
+  "sist_sjekket": "2026-10-11T12:34:15.771370+00:00",
   "funn": [
+    {
+      "tittel": "Gengar ex 154/128 – Special Illustration Rare – Pokémon 30th Celebration",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478475319",
+      "funnet": "2026-10-11T12:34:15.769551+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NM Mewtwo #52 151 Promo Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478465054",
+      "funnet": "2026-10-11T12:34:15.324975+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Charmander holografisk",
       "pris": 6,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478460102",
       "funnet": "2026-10-11T11:02:18.917867+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av 116 pokemonkort, flertallet av dem glinsende",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459212",
-      "funnet": "2026-10-11T11:02:18.178108+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Celebrations Elite Trainer Box 30th Anniversary",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478214821",
-      "funnet": "2026-10-11T11:02:17.222132+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
