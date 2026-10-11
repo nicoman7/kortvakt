@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-11T11:04:18.984366+00:00",
+  "sist_sjekket": "2026-10-11T11:06:20.041195+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Victini V kort",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478461166",
+      "funnet": "2026-10-11T11:06:20.039636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kevin Keegan Topps 1976 fotballkort (Liverpool) – Blue Back",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478460722",
+      "funnet": "2026-10-11T11:06:19.300451+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th celebration bulk",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478458625",
+      "funnet": "2026-10-11T11:06:18.390063+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fifa 365 fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478460155",
+      "funnet": "2026-10-11T11:06:17.976883+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu",
       "pris": 20,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478442774",
       "funnet": "2026-10-11T08:44:22.661599+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Ascended Heroes Bundles",
-      "pris": 1080,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442312",
-      "funnet": "2026-10-11T08:44:21.872929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu holografisk kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442861",
-      "funnet": "2026-10-11T08:44:21.517824+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arceus LV. X 96/99 Holo fra Pokemon Arceus",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442686",
-      "funnet": "2026-10-11T08:44:21.156938+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu kort holo",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478442665",
-      "funnet": "2026-10-11T08:44:20.444112+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
