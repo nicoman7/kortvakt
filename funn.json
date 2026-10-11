@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T00:36:16.333269+00:00",
+  "sist_sjekket": "2026-10-11T00:38:16.977117+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu #13/30 - 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478432350",
+      "funnet": "2026-10-11T00:38:16.975299+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Pikachu #6/30 - 30th Celebration (2 stk)",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478424540",
       "funnet": "2026-10-10T19:38:17.430769+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle fotballkort – Manchester United, Arsenal og Premier League",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478422760",
-      "funnet": "2026-10-10T19:38:15.655383+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
