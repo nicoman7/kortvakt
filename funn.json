@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T22:40:24.404564+00:00",
+  "sist_sjekket": "2026-10-11T22:42:14.885941+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon promo kort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478537679",
+      "funnet": "2026-10-11T22:42:14.883813+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu fra celebration",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478528641",
       "funnet": "2026-10-11T19:28:24.864814+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kortsamling i plastboks",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478511692",
-      "funnet": "2026-10-11T19:28:24.459742+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
