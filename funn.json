@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T13:02:16.473837+00:00",
+  "sist_sjekket": "2026-10-11T13:04:17.579027+00:00",
   "funn": [
+    {
+      "tittel": "Deoxys VMAX #GG45 Pokemon Crown Zenith",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478479739",
+      "funnet": "2026-10-11T13:04:17.577762+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Magikarp 60/97 Reverse Holo – EX Dragon 2003",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478480406",
+      "funnet": "2026-10-11T13:04:17.268941+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon adventskalender/julekalender",
       "pris": 1100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-11T11:34:18.900422+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mew EX 066/128",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478465706",
-      "funnet": "2026-10-11T11:34:18.586992+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: diverse playables",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478465240",
-      "funnet": "2026-10-11T11:34:17.918588+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
