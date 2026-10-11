@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T00:40:24.220263+00:00",
+  "sist_sjekket": "2026-10-11T00:42:17.312548+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu #27/30 - 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478432381",
+      "funnet": "2026-10-11T00:42:17.310926+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Pikachu #25/30 - 30th Celebration",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478424717",
       "funnet": "2026-10-10T19:42:16.495318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Palhinha Topps Gold Auto /50",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478424651",
-      "funnet": "2026-10-10T19:40:25.278640+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
