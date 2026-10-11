@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T12:30:47.522000+00:00",
+  "sist_sjekket": "2026-10-11T12:32:17.456920+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Charmander holografisk",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478475146",
+      "funnet": "2026-10-11T12:32:17.455246+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-11T11:02:17.222132+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gave Pakker - 66 kort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-10-11T11:02:16.869232+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
