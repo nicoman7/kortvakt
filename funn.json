@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T06:22:16.355104+00:00",
+  "sist_sjekket": "2026-10-11T06:24:13.880440+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478434782",
+      "funnet": "2026-10-11T06:24:13.879048+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478428641",
       "funnet": "2026-10-10T21:06:16.006930+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "ILLIT GO | Album Photocards",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478427139",
-      "funnet": "2026-10-10T21:02:15.636684+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
