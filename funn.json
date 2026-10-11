@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T15:48:14.828377+00:00",
+  "sist_sjekket": "2026-10-11T15:50:26.831875+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478504753",
+      "funnet": "2026-10-11T15:50:26.830183+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Digimon-kort: 1 Gatomon Prisme kort + 3 vanlige – Original 1999 Bandai",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478248417",
+      "funnet": "2026-10-11T15:50:26.217331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Espurr - Perfect Order - Pokemon",
       "pris": 60,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478490667",
       "funnet": "2026-10-11T14:10:25.882346+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto GG22/GG70 - Pokemon Crown Zenith",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478490732",
-      "funnet": "2026-10-11T14:10:25.533502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon energikort og treningskort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478490599",
-      "funnet": "2026-10-11T14:10:24.766682+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
