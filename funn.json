@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T12:20:22.684240+00:00",
+  "sist_sjekket": "2026-10-11T12:22:18.925870+00:00",
   "funn": [
+    {
+      "tittel": "Custom Pokemon Binder",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478469794",
+      "funnet": "2026-10-11T12:22:18.924120+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "4x50 pokemon kort samling.",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478472760",
+      "funnet": "2026-10-11T12:22:18.534194+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "8 stykkGjennomsiktige plastlommer / kortbeskyttere i hardplast",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478457848",
       "funnet": "2026-10-11T10:44:17.333231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon White Flare og Black Bolt Bundles",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478456850",
-      "funnet": "2026-10-11T10:40:27.548050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG bulk - Dark",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478457282",
-      "funnet": "2026-10-11T10:40:27.100360+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
