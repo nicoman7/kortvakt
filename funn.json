@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-11T07:32:15.976863+00:00",
+  "sist_sjekket": "2026-10-11T07:34:19.659905+00:00",
   "funn": [
+    {
+      "tittel": "Gammelt glansbildealbum med engler, blomster og dyr",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478437111",
+      "funnet": "2026-10-11T07:34:19.658050+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th celebration kort  ( 85 kort )",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478437428",
+      "funnet": "2026-10-11T07:34:18.741888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Golden Baller #6 Heung-min Son – Panini Adrenalyn XL FIFA World Cup 2026",
       "pris": 210,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478429583",
       "funnet": "2026-10-10T21:36:17.140535+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Xerneas holo 042/086 fra Chaos Rising (CRI EN)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478427830",
-      "funnet": "2026-10-10T21:36:16.350934+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fukano (Growlithe) Tysk Reverse Holo - Legend Maker 55/92 - Pokemonkort",
-      "pris": 1389,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478429787",
-      "funnet": "2026-10-10T21:36:15.549480+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
