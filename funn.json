@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-11T06:36:16.649019+00:00",
+  "sist_sjekket": "2026-10-11T06:38:18.512943+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478435076",
+      "funnet": "2026-10-11T06:38:18.511074+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Wailord EX Pitch Black (16)",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478435134",
+      "funnet": "2026-10-11T06:38:17.647707+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort team rocker’s moltres",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478435127",
+      "funnet": "2026-10-11T06:38:16.889160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Hop's Zacian EX Journey Together (111)",
       "pris": 6,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478428275",
       "funnet": "2026-10-10T21:18:16.860993+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort-samling av Mareep",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478429189",
-      "funnet": "2026-10-10T21:18:15.819306+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468685168",
-      "funnet": "2026-10-10T21:18:15.423418+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Deoxys-samling fra Chaos Rising",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478429129",
-      "funnet": "2026-10-10T21:16:18.712143+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
