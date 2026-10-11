@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-11T10:54:17.645890+00:00",
+  "sist_sjekket": "2026-10-11T10:56:19.664896+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459601",
+      "funnet": "2026-10-11T10:56:19.662845+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 052/196 – Lost Origin 2022 – kurumitsu ⚡",
       "pris": 39,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478441421",
       "funnet": "2026-10-11T08:30:45.383538+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland - 2026-27 UEFA Nations League Topps NOW",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477695597",
-      "funnet": "2026-10-11T08:30:44.445889+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
