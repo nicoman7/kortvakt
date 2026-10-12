@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T09:36:16.312739+00:00",
+  "sist_sjekket": "2026-10-12T09:38:15.619192+00:00",
   "funn": [
+    {
+      "tittel": "Charizard ex",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478553662",
+      "funnet": "2026-10-12T09:38:15.617114+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sjeldne pokemonkort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478532811",
       "funnet": "2026-10-11T20:18:18.049986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummererte fotballkort Selges/ byttes",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478532866",
-      "funnet": "2026-10-11T20:18:17.198657+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
