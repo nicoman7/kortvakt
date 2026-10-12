@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T01:18:15.988314+00:00",
+  "sist_sjekket": "2026-10-12T01:20:26.178804+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Cutiefly IR – Illustration Rare",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478538888",
+      "funnet": "2026-10-12T01:20:26.176973+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Black Bolt Booster Bundle",
       "pris": 1100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-11T19:40:30.569879+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dragonite V Pokemon Go Ultra Rare 049/078",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478529862",
-      "funnet": "2026-10-11T19:40:30.164376+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
