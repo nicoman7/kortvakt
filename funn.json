@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T09:30:46.352062+00:00",
+  "sist_sjekket": "2026-10-12T09:32:19.342083+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne pokemonkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478552851",
+      "funnet": "2026-10-12T09:32:19.340003+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard 4/102 30th",
       "pris": 1950,
@@ -1190,14 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478532866",
       "funnet": "2026-10-11T20:18:17.198657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Squirtle Bulbasaur Psyduck Golduck",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478532805",
-      "funnet": "2026-10-11T20:16:14.370805+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
