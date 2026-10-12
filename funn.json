@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T22:54:13.545702+00:00",
+  "sist_sjekket": "2026-10-12T22:56:14.674324+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 137/103",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478613447",
+      "funnet": "2026-10-12T22:56:14.672169+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Giratina Lv. 63",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478312080",
       "funnet": "2026-10-12T19:14:26.700131+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Metagross 95",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478602962",
-      "funnet": "2026-10-12T19:14:25.827814+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
