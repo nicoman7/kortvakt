@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T08:04:15.975249+00:00",
+  "sist_sjekket": "2026-10-12T08:06:15.456915+00:00",
   "funn": [
+    {
+      "tittel": "Match Attax fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478491058",
+      "funnet": "2026-10-12T08:06:15.455057+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps fotballkort samling selges samlet",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478530746",
       "funnet": "2026-10-11T19:48:20.662630+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rockruff Silver Tempest Trainer Gallery Ultra Rare TG07/TG30",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478529709",
-      "funnet": "2026-10-11T19:48:20.260697+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
