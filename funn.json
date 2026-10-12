@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T08:54:17.115694+00:00",
+  "sist_sjekket": "2026-10-12T08:56:19.832377+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 294,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478550217",
+      "funnet": "2026-10-12T08:56:19.830629+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Hits fra 30th Celebrations",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478550178",
+      "funnet": "2026-10-12T08:56:19.433770+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Bulbasaur promo kinesisk",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478531441",
       "funnet": "2026-10-11T19:56:15.626247+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Leafeon ex Special Art Rare 200/187 – CGC 10 PRISTINE",
-      "pris": 1690,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478531490",
-      "funnet": "2026-10-11T19:56:15.278122+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mange ulike pokemonkort - åpen for trades! (salg på enkelte)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
-      "funnet": "2026-10-11T19:56:14.939834+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
