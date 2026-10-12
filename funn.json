@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T08:44:16.920804+00:00",
+  "sist_sjekket": "2026-10-12T08:46:16.980115+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478549362",
+      "funnet": "2026-10-12T08:46:16.978272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Salamence VMAX japansk full art",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478549347",
+      "funnet": "2026-10-12T08:46:16.369735+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478526492",
       "funnet": "2026-10-11T19:54:16.853018+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu V Fusion Strike Ultra Rare 086/264",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478529573",
-      "funnet": "2026-10-11T19:52:17.611685+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar ex Ultra Rare 193/162 – CGC 9.5 MINT+ – 2024",
-      "pris": 1090,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478531105",
-      "funnet": "2026-10-11T19:52:17.311698+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
