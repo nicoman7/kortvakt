@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T10:12:16.279490+00:00",
+  "sist_sjekket": "2026-10-12T10:14:16.913870+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard X ex",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478556255",
+      "funnet": "2026-10-12T10:14:16.911643+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger pokemon rumble kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 160,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478533329",
       "funnet": "2026-10-11T20:30:42.307808+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478533556",
-      "funnet": "2026-10-11T20:30:41.939628+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
