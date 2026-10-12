@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T21:22:14.541918+00:00",
+  "sist_sjekket": "2026-10-12T21:24:16.798042+00:00",
   "funn": [
+    {
+      "tittel": "Bullet time epic Riftbound samlekort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478611689",
+      "funnet": "2026-10-12T21:24:16.796348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "LOL Surprise! Må bort innen 1 november",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478611577",
+      "funnet": "2026-10-12T21:24:16.183684+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 49/195 - Silver Tempest",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-12T19:02:18.022135+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort samlet selges – eldre kort fra flere generasjoner",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478594569",
-      "funnet": "2026-10-12T19:00:58.190523+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece samling gradede kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478539568",
-      "funnet": "2026-10-12T18:58:17.423750+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
