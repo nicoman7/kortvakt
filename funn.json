@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T01:28:18.143832+00:00",
+  "sist_sjekket": "2026-10-12T01:30:41.750601+00:00",
   "funn": [
+    {
+      "tittel": "Perfekt gave! 50 Pokemon kort med garantert EX – 99 kr",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-12T01:30:41.748713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Cutiefly IR – Illustration Rare",
       "pris": 115,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-11T19:40:31.402613+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "fotballkort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478529958",
-      "funnet": "2026-10-11T19:40:30.569879+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
