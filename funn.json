@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T18:56:14.843052+00:00",
+  "sist_sjekket": "2026-10-12T18:58:17.425108+00:00",
   "funn": [
+    {
+      "tittel": "One Piece samling gradede kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478539568",
+      "funnet": "2026-10-12T18:58:17.423750+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Kingdra holo",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478601404",
+      "funnet": "2026-10-12T18:58:16.574815+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Golden Baller #3 Mohamed Salah (Fotballkort)",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 85,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478591001",
       "funnet": "2026-10-12T16:58:15.185991+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ho-Oh 27/115 - Pokemon Unseen Forces",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478590832",
-      "funnet": "2026-10-12T16:56:17.041633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sylveon Ex #153 Pokemon 30th Celebration",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478590191",
-      "funnet": "2026-10-12T16:56:16.629901+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
