@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T12:14:21.952443+00:00",
+  "sist_sjekket": "2026-10-12T12:16:17.354280+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478566898",
+      "funnet": "2026-10-12T12:16:17.352660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Articuno sealed promo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478567167",
+      "funnet": "2026-10-12T12:16:16.538222+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Rowlet 019 sealed promo",
       "pris": 120,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478545078",
       "funnet": "2026-10-12T07:52:16.237815+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu Plasma",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477314387",
-      "funnet": "2026-10-12T07:40:27.324480+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
-      "funnet": "2026-10-12T07:12:17.456142+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
