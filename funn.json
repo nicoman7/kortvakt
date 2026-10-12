@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T19:52:16.594254+00:00",
+  "sist_sjekket": "2026-10-12T19:54:17.360384+00:00",
   "funn": [
+    {
+      "tittel": "Kortstokk med Wilfa reklame",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478604968",
+      "funnet": "2026-10-12T19:54:17.358420+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gardevoir LV.55 holo Telepass Psychic Lock",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478597945",
       "funnet": "2026-10-12T18:14:15.476903+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary Binder + Pikachu 30/30",
-      "pris": 1850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478597655",
-      "funnet": "2026-10-12T18:12:20.005057+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
