@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T15:58:17.864200+00:00",
+  "sist_sjekket": "2026-10-12T16:01:01.190271+00:00",
   "funn": [
+    {
+      "tittel": "Uåpnet Pokemon Samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478585046",
+      "funnet": "2026-10-12T16:01:01.188718+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Regigigas",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478585517",
+      "funnet": "2026-10-12T16:01:00.778404+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary 2-pack Blister + gratis frakt",
       "pris": 340,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-12T12:30:45.775169+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax 2023/24 samlemappe med kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478567737",
-      "funnet": "2026-10-12T12:26:17.972235+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div pokemonkort til salgs",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478029908",
-      "funnet": "2026-10-12T12:26:17.320188+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
