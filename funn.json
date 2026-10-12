@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-12T10:14:16.913870+00:00",
+  "sist_sjekket": "2026-10-12T10:16:20.079994+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Zekrom og Reshiram 25th CHN",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478556348",
+      "funnet": "2026-10-12T10:16:20.078207+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Div kort",
+      "pris": 610,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478556460",
+      "funnet": "2026-10-12T10:16:19.148861+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Charizard X ex",
       "pris": 55,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478533172",
       "funnet": "2026-10-11T20:32:16.805883+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon tin/boks med pokemonkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478533671",
-      "funnet": "2026-10-11T20:32:15.813576+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Eeveelutions samlekort pakke",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478533329",
-      "funnet": "2026-10-11T20:30:42.307808+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
