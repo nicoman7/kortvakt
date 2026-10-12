@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-12T19:26:27.360129+00:00",
+  "sist_sjekket": "2026-10-12T19:28:17.017316+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort i eske.",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477796429",
+      "funnet": "2026-10-12T19:28:17.015877+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Reshiram EX Journey together Ultra Rare 030/159 Stamped",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478603997",
+      "funnet": "2026-10-12T19:28:16.217655+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sealed Flutter Mane #97 Pokemon Promo",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478604248",
+      "funnet": "2026-10-12T19:28:15.809346+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wigglytuff 187/165 Pokemon 151",
       "pris": 300,
@@ -1174,30 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478594749",
       "funnet": "2026-10-12T17:40:26.690633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Victreebel [Holo] 13/92 - Pokemon Legend Maker",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478594614",
-      "funnet": "2026-10-12T17:40:26.437177+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Aqua’s Poochyena 54/95 - Pokemon Team Magma & Team Aqua",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478594847",
-      "funnet": "2026-10-12T17:40:25.690798+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort reservert til Vebjørn",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478594220",
-      "funnet": "2026-10-12T17:36:28.427056+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
