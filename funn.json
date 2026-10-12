@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-12T11:26:15.343053+00:00",
+  "sist_sjekket": "2026-10-12T11:28:17.158514+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Light Vaporeon 52/105",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478562068",
+      "funnet": "2026-10-12T11:28:17.156414+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mega Emboar EX 273/217",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478538338",
       "funnet": "2026-10-11T23:40:26.204068+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kortpakke – 55 kort, ex eller bedre garantert – 89 kr",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478011413",
-      "funnet": "2026-10-11T23:38:14.913258+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
