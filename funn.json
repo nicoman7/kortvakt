@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T20:38:17.005432+00:00",
+  "sist_sjekket": "2026-10-13T20:40:28.914490+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Bulbasaur samlekort 44/102",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478684364",
+      "funnet": "2026-10-13T20:40:28.912787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "AR-trio – Articuno, Zapdos, Moltres – 30th Celebration (kinesisk) – Art Rare",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-13T19:10:33.873695+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort Samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478678076",
-      "funnet": "2026-10-13T19:10:33.438054+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
