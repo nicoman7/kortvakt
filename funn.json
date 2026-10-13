@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T10:22:15.189413+00:00",
+  "sist_sjekket": "2026-10-13T10:24:17.209621+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478609204",
+      "funnet": "2026-10-13T10:24:17.207600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tottenham startpakke – 15 fotballkort inkl. 4 inserts",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 89,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478011413",
       "funnet": "2026-10-13T00:04:15.657940+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu birthday - 2001",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478614063",
-      "funnet": "2026-10-12T23:58:30.174856+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
