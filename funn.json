@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T17:42:25.949709+00:00",
+  "sist_sjekket": "2026-10-13T17:44:27.665429+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-10-13T17:44:27.663509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Riftbound kort - Astral Heron",
       "pris": 370,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478656851",
       "funnet": "2026-10-13T15:01:04.345764+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling EX / holo i permer",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478656918",
-      "funnet": "2026-10-13T15:01:03.985947+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
