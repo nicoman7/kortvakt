@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T15:12:18.158106+00:00",
+  "sist_sjekket": "2026-10-13T15:14:17.231796+00:00",
   "funn": [
+    {
+      "tittel": "Italienske fotballkort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478658164",
+      "funnet": "2026-10-13T15:14:17.229922+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering Coliseum Behemoth kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478658230",
+      "funnet": "2026-10-13T15:14:16.545384+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort holo/EX/V samling 4 stk//",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478646070",
       "funnet": "2026-10-13T12:48:19.783314+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Mewtwo V SWSH229 - Promo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478646313",
-      "funnet": "2026-10-13T12:48:18.970101+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Mewtwo V SWSH229 - Promo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478646363",
-      "funnet": "2026-10-13T12:48:18.164575+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
