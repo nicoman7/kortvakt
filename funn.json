@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T11:50:24.014064+00:00",
+  "sist_sjekket": "2026-10-13T11:52:17.787250+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon, Pikachu 30th.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478640801",
+      "funnet": "2026-10-13T11:52:17.785495+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Aloan Meowth #139",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478640785",
+      "funnet": "2026-10-13T11:52:17.278625+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo EX -kort #157",
       "pris": 850,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478405126",
       "funnet": "2026-10-13T06:16:20.803016+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "624 Cup Panini Adrenalyn XL 2026",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478616657",
-      "funnet": "2026-10-13T06:16:20.007669+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Latias, latios og darkrai Prism Star (lufter interessen)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478616404",
-      "funnet": "2026-10-13T06:08:21.486377+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
