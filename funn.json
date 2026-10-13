@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T16:12:18.814252+00:00",
+  "sist_sjekket": "2026-10-13T16:14:20.844680+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478663314",
+      "funnet": "2026-10-13T16:14:20.842586+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon pitch Black base sett komplett + hits",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478661809",
+      "funnet": "2026-10-13T16:14:20.012016+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Premier league 2022-2023 blaster boks Select fotballkort",
       "pris": 350,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478648036",
       "funnet": "2026-10-13T13:08:23.189924+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Confront the Past sorcery-kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478648006",
-      "funnet": "2026-10-13T13:08:22.365568+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Amir Ibragimov RC AUTO /150 – Manchester United Topps Finest",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478647962",
-      "funnet": "2026-10-13T13:08:22.046492+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
