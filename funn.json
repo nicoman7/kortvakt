@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T10:00:59.730997+00:00",
+  "sist_sjekket": "2026-10-13T10:02:20.211438+00:00",
   "funn": [
+    {
+      "tittel": "6stk Chaos Rising EX kort",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478630949",
+      "funnet": "2026-10-13T10:02:20.209898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vault X kortmappe / binder 360 kort – 9 pocket / lommer – Svart",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-12T23:08:16.887130+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort AZ's Tranquility supporter holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478613527",
-      "funnet": "2026-10-12T23:06:16.170472+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
