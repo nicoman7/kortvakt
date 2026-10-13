@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T16:28:18.948967+00:00",
+  "sist_sjekket": "2026-10-13T16:30:47.841576+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478664468",
+      "funnet": "2026-10-13T16:30:47.840167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Pikachu",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478664523",
+      "funnet": "2026-10-13T16:30:47.093457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort , bunke med vintage",
       "pris": 1234,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478649179",
       "funnet": "2026-10-13T13:22:21.627714+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mew V japansk kort CCG 10 pristine",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478649077",
-      "funnet": "2026-10-13T13:22:21.220277+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Scizor 205/197 - Obsidian Flames",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478648978",
-      "funnet": "2026-10-13T13:22:20.410600+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
