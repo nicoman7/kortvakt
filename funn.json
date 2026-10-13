@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T18:16:17.857132+00:00",
+  "sist_sjekket": "2026-10-13T18:18:16.685087+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478673743",
+      "funnet": "2026-10-13T18:18:16.683435+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Flying Pikachu 113/111  Secret Rare  Rising Rivals 2009",
+      "pris": 949,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478673788",
+      "funnet": "2026-10-13T18:18:16.097389+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Charizard X 23 og 223",
       "pris": 599,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-13T15:36:17.324115+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Relentless X-ATM092 foil kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478659904",
-      "funnet": "2026-10-13T15:36:16.551170+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex 150/128 Special illustration rare",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478659811",
-      "funnet": "2026-10-13T15:34:17.163090+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
