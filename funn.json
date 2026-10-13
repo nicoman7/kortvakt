@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T11:22:17.796454+00:00",
+  "sist_sjekket": "2026-10-13T11:24:17.568329+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478637872",
+      "funnet": "2026-10-13T11:24:17.566530+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Extended art til Charizard Phantasmal flames psa",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478638351",
+      "funnet": "2026-10-13T11:24:17.166182+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Raichu 16/130 CGC 9 - Base Set 2",
       "pris": 990,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478616134",
       "funnet": "2026-10-13T05:54:16.875605+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Togetic #14 Pokemon Team Rocket Returns Holo",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478616081",
-      "funnet": "2026-10-13T05:52:14.764728+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Swablu [Reverse Holo] #67 Pokemon Emerald",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478616053",
-      "funnet": "2026-10-13T05:48:19.309047+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
