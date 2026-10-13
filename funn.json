@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T09:26:16.195731+00:00",
+  "sist_sjekket": "2026-10-13T09:28:17.400001+00:00",
   "funn": [
+    {
+      "tittel": "Topps Premier League Flagship 26/27 selges rimelig",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477826397",
+      "funnet": "2026-10-13T09:28:17.398330+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort",
       "pris": 1234,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-12T22:08:20.596573+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort samling baseset",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478612664",
-      "funnet": "2026-10-12T22:08:19.992456+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
