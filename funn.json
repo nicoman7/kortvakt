@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-13T17:52:16.981022+00:00",
+  "sist_sjekket": "2026-10-13T17:54:23.112326+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Omanyte",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478671975",
+      "funnet": "2026-10-13T17:54:23.110832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic The Gathering Phyrexian Ironworks kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478671883",
+      "funnet": "2026-10-13T17:54:22.727905+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering Wurmcoil Larva kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478672062",
+      "funnet": "2026-10-13T17:54:22.381879+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Kabuto",
       "pris": 70,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-13T15:12:16.430592+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Leimotiff Composer kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478658049",
-      "funnet": "2026-10-13T15:12:16.107774+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "World Cup 2026 Prizm Box Fotballkort",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478657916",
-      "funnet": "2026-10-13T15:12:15.238093+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Slowbro Holo 090/084",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478657566",
-      "funnet": "2026-10-13T15:10:29.380492+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
