@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T15:32:18.219758+00:00",
+  "sist_sjekket": "2026-10-13T15:34:17.164926+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex 150/128 Special illustration rare",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478659811",
+      "funnet": "2026-10-13T15:34:17.163090+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Teal Mask Ogerpon 123 sealed promo",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478659690",
+      "funnet": "2026-10-13T15:34:16.826642+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic The Gathering Wind-Scarred Crag foil landkort",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478646821",
       "funnet": "2026-10-13T12:54:22.548917+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort bunke med diverse kort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478645913",
-      "funnet": "2026-10-13T12:54:19.818269+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration booster bundle og kortpakke",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478646792",
-      "funnet": "2026-10-13T12:54:18.947517+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
