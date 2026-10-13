@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T17:12:19.403375+00:00",
+  "sist_sjekket": "2026-10-13T17:14:16.732554+00:00",
   "funn": [
+    {
+      "tittel": "Topps Flagship Premier League 26/27",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478667960",
+      "funnet": "2026-10-13T17:14:16.730668+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mewtwo 157/128 Futuristic Rare",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478668288",
+      "funnet": "2026-10-13T17:14:16.086949+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Booster Bundle (30-års)",
       "pris": 987,
@@ -1182,22 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478652299",
       "funnet": "2026-10-13T14:12:25.722885+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thievul #92 Pokemon Pitch Black",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478652321",
-      "funnet": "2026-10-13T14:12:24.453872+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Gengar EX og Mewtwo EX 20th Anniversary",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478653331",
-      "funnet": "2026-10-13T14:12:23.179770+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
