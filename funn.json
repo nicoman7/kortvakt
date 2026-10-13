@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T14:22:16.720893+00:00",
+  "sist_sjekket": "2026-10-13T14:24:19.210815+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 20",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478654328",
+      "funnet": "2026-10-13T14:24:19.209302+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic The Gathering Tempted by the Oriq sorcerykort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478654437",
+      "funnet": "2026-10-13T14:24:18.422689+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Crimson Haze SV5a - japanske boosterpakker",
       "pris": 65,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-13T11:26:17.749589+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster Bundle",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478638692",
-      "funnet": "2026-10-13T11:26:17.142965+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478637872",
-      "funnet": "2026-10-13T11:24:17.566530+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
