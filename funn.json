@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T13:18:21.190650+00:00",
+  "sist_sjekket": "2026-10-13T13:20:31.822605+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Raikou",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478648896",
+      "funnet": "2026-10-13T13:20:31.820807+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pidove 148/086",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478626927",
       "funnet": "2026-10-13T09:14:18.891445+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Trading Card Game samlebokser Moltres og Lapras",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478626950",
-      "funnet": "2026-10-13T09:14:18.157691+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
