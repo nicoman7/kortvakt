@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-13T21:28:16.856046+00:00",
+  "sist_sjekket": "2026-10-13T21:30:44.929364+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex #150 Pokemon 30th Celebration",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478686301",
+      "funnet": "2026-10-13T21:30:44.927692+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pitch black 1x etb, 1x booster bundle + 30th pikachus",
       "pris": 1850,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-13T19:24:17.721782+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Collection Series 3",
-      "pris": 579,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476046449",
-      "funnet": "2026-10-13T19:22:22.272350+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
