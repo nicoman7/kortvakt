@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-13T06:34:18.621051+00:00",
+  "sist_sjekket": "2026-10-13T06:36:16.449505+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478617211",
+      "funnet": "2026-10-13T06:36:16.447638+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-13T06:36:15.712833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Digimon-kort: 1 Gatomon Prisme kort + 3 vanlige – Original 1999 Bandai",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478606960",
       "funnet": "2026-10-12T19:58:19.078909+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Eevee GX japansk holo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478606927",
-      "funnet": "2026-10-12T19:58:18.413651+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478606813",
-      "funnet": "2026-10-12T19:56:19.099306+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
