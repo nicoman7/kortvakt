@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T06:10:25.643114+00:00",
+  "sist_sjekket": "2026-10-14T06:12:15.236824+00:00",
   "funn": [
+    {
+      "tittel": "Topps  samlekort",
+      "pris": 168,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478690694",
+      "funnet": "2026-10-14T06:12:15.234827+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478682987",
       "funnet": "2026-10-13T20:18:16.979715+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celebi V Sword & Shield Base set Ultra Rare 001/202",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478681920",
-      "funnet": "2026-10-13T20:18:16.405966+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
