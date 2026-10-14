@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T23:30:42.453777+00:00",
+  "sist_sjekket": "2026-10-14T23:32:15.138107+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Samling",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758472",
+      "funnet": "2026-10-14T23:32:15.136369+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mange ulike pokemonkort - åpen for trades! (salg på enkelte)",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/470229612",
       "funnet": "2026-10-14T19:54:21.421747+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini VM 2022 630",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478070967",
-      "funnet": "2026-10-14T19:52:21.021009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
