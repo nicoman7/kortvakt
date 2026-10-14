@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T21:04:17.259655+00:00",
+  "sist_sjekket": "2026-10-14T21:06:22.363338+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478412462",
+      "funnet": "2026-10-14T21:06:22.361776+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic The Gathering Deathcap Glade landkort",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 569,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476060290",
       "funnet": "2026-10-14T19:26:18.754404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Del 1 kort til master sett pokemon 151 Japansk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/431864783",
-      "funnet": "2026-10-14T19:26:18.364324+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
