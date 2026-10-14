@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T22:02:15.139512+00:00",
+  "sist_sjekket": "2026-10-14T22:04:18.612326+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478753642",
+      "funnet": "2026-10-14T22:04:18.610542+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🔮 Holo pokemon pakke – 50 kort bare holo/reverse + garantert hit",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478750454",
       "funnet": "2026-10-14T19:42:20.567188+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Pikachu 28/30",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478750456",
-      "funnet": "2026-10-14T19:42:19.765594+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
