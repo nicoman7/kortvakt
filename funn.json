@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-14T20:26:16.136685+00:00",
+  "sist_sjekket": "2026-10-14T20:28:19.548442+00:00",
   "funn": [
+    {
+      "tittel": "Panini Optic Leo Østigård 49/99",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454736803",
+      "funnet": "2026-10-14T20:28:19.546730+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard 4/200 Holo - Chinese Sun & Moon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478753585",
+      "funnet": "2026-10-14T20:28:18.837909+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Cole Palmer Festive Parallel",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/444970933",
+      "funnet": "2026-10-14T20:28:18.037223+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Cinderace EX ACE Grading 10 samlekort",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478316530",
       "funnet": "2026-10-14T19:08:16.282951+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Palatial 2025/26 Dwight Yorke #SE-20 21/25",
-      "pris": 1890,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478747673",
-      "funnet": "2026-10-14T19:06:16.729957+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 051/162 Cosmos Holo",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478746598",
-      "funnet": "2026-10-14T19:04:25.633238+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shining Fates Cramorant V Tin (gratis frakt)",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472853082",
-      "funnet": "2026-10-14T19:04:24.763759+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
