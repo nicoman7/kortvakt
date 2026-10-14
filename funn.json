@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T10:16:15.831535+00:00",
+  "sist_sjekket": "2026-10-14T10:18:27.340998+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/464305369",
+      "funnet": "2026-10-14T10:18:27.339582+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aston Villa A – 5 spesialkort Topps Premier League 26/27",
       "pris": 159,
@@ -1190,14 +1198,6 @@
       "pris": 949,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478687371",
       "funnet": "2026-10-13T22:10:30.153409+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Dream ex - Booster Box",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478687308",
-      "funnet": "2026-10-13T22:08:20.843244+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
