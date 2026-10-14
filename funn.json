@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T22:32:13.880331+00:00",
+  "sist_sjekket": "2026-10-14T22:34:18.514792+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Mega Chandelure EX holo",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478757969",
+      "funnet": "2026-10-14T22:34:18.513015+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Komplett WOTC Black Star Promo samling PSA gradert.",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
+      "funnet": "2026-10-14T22:34:18.133738+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo EX kort 230 HP 30th Anniversary",
       "pris": 425,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476431522",
       "funnet": "2026-10-14T19:44:19.650178+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Illustration Series 1-3 Kinesisk",
-      "pris": 169,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477301009",
-      "funnet": "2026-10-14T19:44:18.821282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 6/108 (holo) fra Power Keepers",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471394332",
-      "funnet": "2026-10-14T19:44:18.508511+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
