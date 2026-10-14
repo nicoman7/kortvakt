@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-14T15:26:17.628596+00:00",
+  "sist_sjekket": "2026-10-14T15:28:20.360814+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478730982",
+      "funnet": "2026-10-14T15:28:20.358971+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Charizard & reshiram GX Tag Team",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478730480",
+      "funnet": "2026-10-14T15:28:19.576678+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zhonya’s Hourglass rare foil Riftbound samlekort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478730956",
+      "funnet": "2026-10-14T15:28:18.787857+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini fotballkort Premier League holografiske",
       "pris": 500,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478711907",
       "funnet": "2026-10-14T12:10:29.355634+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu Fullart",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478714742",
-      "funnet": "2026-10-14T12:08:25.527264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon Topps-kort – selges enkeltvis",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478714215",
-      "funnet": "2026-10-14T12:02:19.407913+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Leeds United B – 5 spesialkort – Okafor, Gnonto, Harry Gray",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478714445",
-      "funnet": "2026-10-14T12:02:18.630345+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
