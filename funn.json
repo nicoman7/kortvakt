@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-14T22:40:27.472845+00:00",
+  "sist_sjekket": "2026-10-14T22:42:19.555010+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Zacian V kort",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758087",
+      "funnet": "2026-10-14T22:42:19.553329+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Rayquaza EX japansk holo",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758047",
+      "funnet": "2026-10-14T22:42:18.714156+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Japansk version!",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758068",
+      "funnet": "2026-10-14T22:42:17.815992+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Torchic Treecko Mudkip holo sett",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478750892",
       "funnet": "2026-10-14T19:48:17.373998+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Eevee 116/128",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478750613",
-      "funnet": "2026-10-14T19:46:19.765146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th - Diverse Classics til salgs",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478451856",
-      "funnet": "2026-10-14T19:46:19.064006+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th - Diverse Illustration Rares til salgs",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478451032",
-      "funnet": "2026-10-14T19:46:18.683962+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
