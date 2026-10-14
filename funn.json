@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T20:50:34.509938+00:00",
+  "sist_sjekket": "2026-10-14T20:52:16.016704+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478755327",
+      "funnet": "2026-10-14T20:52:16.015161+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering kort – Consider the Stars Charms – blå instant",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478755382",
+      "funnet": "2026-10-14T20:52:15.332223+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering Garruk, Wilded Butcher planeswalker-kort",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-14T19:22:19.682181+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett sett (6 stk) Premium Gold Limited Edition – Panini FIFA World Cup 2026",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478432793",
-      "funnet": "2026-10-14T19:22:19.262780+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ulike pokemon hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478749171",
-      "funnet": "2026-10-14T19:22:18.854282+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
