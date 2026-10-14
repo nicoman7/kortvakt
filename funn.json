@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T22:36:19.691691+00:00",
+  "sist_sjekket": "2026-10-14T22:38:22.605978+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges billig",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758020",
+      "funnet": "2026-10-14T22:38:22.604362+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pakkepris - Pokemon 30th anniversary jubileum",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476723405",
+      "funnet": "2026-10-14T22:38:21.756501+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Mega Chandelure EX holo",
       "pris": 85,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478750779",
       "funnet": "2026-10-14T19:46:17.493510+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samleperm med glidelås",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469345012",
-      "funnet": "2026-10-14T19:44:20.546429+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Center Pitch Black Elite Trainer Box",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476431522",
-      "funnet": "2026-10-14T19:44:19.650178+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
