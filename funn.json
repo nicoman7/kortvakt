@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T10:28:13.790000+00:00",
+  "sist_sjekket": "2026-10-14T10:30:45.483675+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kort – Library of Leng",
+      "pris": 67,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478706911",
+      "funnet": "2026-10-14T10:30:45.481749+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering Overgrown Tomb landkort",
       "pris": 95,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-13T22:26:16.464257+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pitch black bulk kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478682679",
-      "funnet": "2026-10-13T22:16:13.882713+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
