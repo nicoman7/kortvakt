@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T10:30:45.483675+00:00",
+  "sist_sjekket": "2026-10-14T10:32:21.036979+00:00",
   "funn": [
+    {
+      "tittel": "Selger Pokémonkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478707106",
+      "funnet": "2026-10-14T10:32:21.035228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Aston Villa C – 5 fotballkort inkl. 3 inserts og RC",
+      "pris": 139,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478707144",
+      "funnet": "2026-10-14T10:32:20.310897+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering kort – Library of Leng",
       "pris": 67,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-13T22:28:16.049013+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 19/30 - Pokemon 30th Celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478687389",
-      "funnet": "2026-10-13T22:28:15.354799+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR YU-GI-OH SAMLING SELGES!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478687553",
-      "funnet": "2026-10-13T22:26:16.464257+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
