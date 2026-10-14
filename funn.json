@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T11:12:16.601573+00:00",
+  "sist_sjekket": "2026-10-14T11:14:20.157353+00:00",
   "funn": [
+    {
+      "tittel": "Kort selges",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478710406",
+      "funnet": "2026-10-14T11:14:20.155766+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Merlin Pl 25-26 AO Tanaka Leeds",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478710527",
+      "funnet": "2026-10-14T11:14:19.753504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome Bundesliga Rav Van Den Berg RC",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478687934",
       "funnet": "2026-10-13T23:06:20.257979+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Neo Discovery – Vintage kort inkl. 1st Edition – Selges samlet!",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478688074",
-      "funnet": "2026-10-13T23:06:19.907766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Roaring Moon ex #262 Pokemon Paradox Rift",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478687947",
-      "funnet": "2026-10-13T23:06:19.263785+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
