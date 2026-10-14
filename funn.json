@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T16:48:25.774933+00:00",
+  "sist_sjekket": "2026-10-14T16:50:26.381090+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478737388",
+      "funnet": "2026-10-14T16:50:26.379329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu japansk 30th 07/30",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478737789",
+      "funnet": "2026-10-14T16:50:25.818312+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Zeraora Abyss Eye",
       "pris": 245,
@@ -1182,22 +1198,6 @@
       "pris": 575,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478728338",
       "funnet": "2026-10-14T14:52:19.171962+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket Returns Cubone 51/109",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478728382",
-      "funnet": "2026-10-14T14:52:18.436354+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Base Set Machop 52/102",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478728218",
-      "funnet": "2026-10-14T14:50:28.154873+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
