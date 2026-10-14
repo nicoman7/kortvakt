@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-14T19:01:05.314058+00:00",
+  "sist_sjekket": "2026-10-14T19:02:19.464389+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478412462",
+      "funnet": "2026-10-14T19:02:19.462897+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Terestal Festival EX (JP) Booster Boks",
       "pris": 1650,
@@ -1190,14 +1198,6 @@
       "pris": 1800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476723405",
       "funnet": "2026-10-14T17:20:29.585814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex 053",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478739871",
-      "funnet": "2026-10-14T17:16:21.809833+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
