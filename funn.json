@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T15:06:31.119367+00:00",
+  "sist_sjekket": "2026-10-14T15:08:19.510639+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Base Set Machoke 34/102",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478729477",
+      "funnet": "2026-10-14T15:08:19.508887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort (150 kort) samling / lot med diverse kort og tilbehør",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478729367",
+      "funnet": "2026-10-14T15:08:19.192309+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu 2023 SV2a JP PSA 10 Art Rare #173",
       "pris": 1050,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-14T11:14:20.155766+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Merlin Pl 25-26 AO Tanaka Leeds",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478710527",
-      "funnet": "2026-10-14T11:14:19.753504+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Bundesliga Rav Van Den Berg RC",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478710322",
-      "funnet": "2026-10-14T11:12:16.599695+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
