@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-14T17:02:19.837230+00:00",
+  "sist_sjekket": "2026-10-14T17:04:21.933291+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling – 18 kort",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478738515",
+      "funnet": "2026-10-14T17:04:21.930346+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu japansk 30th 30/30",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478738936",
+      "funnet": "2026-10-14T17:04:20.919204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Litten Cyber Judge",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478729452",
       "funnet": "2026-10-14T15:22:19.498735+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478729490",
-      "funnet": "2026-10-14T15:22:18.660225+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery packs",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478730370",
-      "funnet": "2026-10-14T15:22:18.266585+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
