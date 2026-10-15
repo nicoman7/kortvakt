@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T19:32:18.468645+00:00",
+  "sist_sjekket": "2026-10-15T19:34:16.974635+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Black Bolt Booster Bundle",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478081688",
+      "funnet": "2026-10-15T19:34:16.972452+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamegenic blå samlemappe for Pokémon-kort",
       "pris": 499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-15T18:06:18.312223+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Nidorina 30th celebration etb promo",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478812222",
-      "funnet": "2026-10-15T18:02:22.329627+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
