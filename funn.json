@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-15T20:58:18.168454+00:00",
+  "sist_sjekket": "2026-10-15T21:01:01.520354+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon trainer kort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478823472",
+      "funnet": "2026-10-15T21:01:01.518592+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémo kortbunke med uncommon kort.",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478823378",
+      "funnet": "2026-10-15T21:01:00.900270+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Kaoru Mitoma (Brighton)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478823402",
+      "funnet": "2026-10-15T21:01:00.312883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemon EX kort til salgs",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477805276",
       "funnet": "2026-10-15T19:18:17.132950+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu EX Gullkort 247/191 surging sparks",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477882098",
-      "funnet": "2026-10-15T19:18:16.733898+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort pakke med holo, ex, FA etc!",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477881867",
-      "funnet": "2026-10-15T19:18:16.414566+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Elite Trainer Box 30th",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477992207",
-      "funnet": "2026-10-15T19:18:16.074635+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
