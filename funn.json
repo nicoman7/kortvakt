@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T06:54:14.338337+00:00",
+  "sist_sjekket": "2026-10-15T06:56:17.207769+00:00",
   "funn": [
+    {
+      "tittel": "40 Pikachuer",
+      "pris": 18,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478762297",
+      "funnet": "2026-10-15T06:56:17.205719+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémonkort Meowth japansk",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478753769",
       "funnet": "2026-10-14T20:20:30.628543+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Football 88 Samlealbum – Engelsk fotballklassiker",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478753832",
-      "funnet": "2026-10-14T20:20:29.868627+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
