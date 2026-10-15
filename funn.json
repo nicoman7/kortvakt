@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T05:32:16.411136+00:00",
+  "sist_sjekket": "2026-10-15T05:34:15.899132+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort Pikachu Ex  japansk",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478760166",
+      "funnet": "2026-10-15T05:34:15.897602+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle med 6 boosterpakker",
       "pris": 899,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-14T20:02:16.664804+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "K-pop Demon Hunters kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478751654",
-      "funnet": "2026-10-14T20:02:15.977719+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
