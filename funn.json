@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T19:20:32.105617+00:00",
+  "sist_sjekket": "2026-10-15T19:22:17.788395+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL Nordic Edition VM kort 2026, oppdatert 28.09",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475164227",
+      "funnet": "2026-10-15T19:22:17.786483+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th celebration samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477936770",
+      "funnet": "2026-10-15T19:22:17.408330+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Obsidian Lautaro Martinez Trifecta Material kort 34/75",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 130,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478811452",
       "funnet": "2026-10-15T17:50:30.265335+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Star Wars Chrome 2026 kort til salgs",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478811060",
-      "funnet": "2026-10-15T17:50:29.900568+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Absol Gem Pack 3 (0801)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478811286",
-      "funnet": "2026-10-15T17:50:29.076957+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
