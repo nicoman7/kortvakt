@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T12:36:19.163136+00:00",
+  "sist_sjekket": "2026-10-15T12:38:17.368763+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478788523",
+      "funnet": "2026-10-15T12:38:17.367227+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478788566",
+      "funnet": "2026-10-15T12:38:16.552914+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Martin Ødegaard Fotballkort",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-15T08:28:17.065642+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Charizard ex Gold / Hyper Rare 228/197 – CGC 9.5 MINT+ – 2023",
-      "pris": 890,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478767121",
-      "funnet": "2026-10-15T08:26:19.418122+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Cassiopeia Special Illustration Rare 094/064 – CGC 10 GEM MINT – 2024",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478766758",
-      "funnet": "2026-10-15T08:22:16.609515+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
