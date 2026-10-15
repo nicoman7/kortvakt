@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T17:28:17.738906+00:00",
+  "sist_sjekket": "2026-10-15T17:30:50.268536+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebrations Produkter",
+      "pris": 649,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809868",
+      "funnet": "2026-10-15T17:30:50.266566+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort ifra ulike serier",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478802294",
       "funnet": "2026-10-15T15:52:15.605462+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 26/27 - CHROME CLASSICS - Eden Hazard - selges for 100,-",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478802774",
-      "funnet": "2026-10-15T15:52:15.046213+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
