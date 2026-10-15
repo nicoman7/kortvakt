@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T15:04:18.206614+00:00",
+  "sist_sjekket": "2026-10-15T15:06:18.204843+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling gi bud",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478589940",
+      "funnet": "2026-10-15T15:06:18.202829+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort 50kr",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478786625",
       "funnet": "2026-10-15T12:16:18.070878+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB (Sealed)",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478786202",
-      "funnet": "2026-10-15T12:16:17.226524+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
