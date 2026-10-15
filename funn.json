@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T09:28:15.825179+00:00",
+  "sist_sjekket": "2026-10-15T09:30:46.657902+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort Team Rocket’s Meowth 203/182",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478771560",
+      "funnet": "2026-10-15T09:30:46.655940+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ditto GG22/GG70",
       "pris": 130,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-14T21:08:17.599017+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort!",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478755920",
-      "funnet": "2026-10-14T21:08:17.223047+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
