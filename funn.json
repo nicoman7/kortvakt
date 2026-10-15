@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T05:50:25.322389+00:00",
+  "sist_sjekket": "2026-10-15T05:52:21.433133+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478760480",
+      "funnet": "2026-10-15T05:52:21.431014+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Destined Rivals Elite Trainer Box - SEALED",
       "pris": 1499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478751975",
       "funnet": "2026-10-14T20:04:21.545243+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Vileplume ex 100/101",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478752209",
-      "funnet": "2026-10-14T20:04:21.006665+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
