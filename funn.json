@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-15T01:36:17.794957+00:00",
+  "sist_sjekket": "2026-10-15T01:38:18.207669+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 16",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758958",
+      "funnet": "2026-10-15T01:38:18.205506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu nr 4",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758965",
+      "funnet": "2026-10-15T01:38:17.358885+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu nr 21",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758980",
+      "funnet": "2026-10-15T01:38:16.989805+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 24",
       "pris": 20,
@@ -1174,30 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474853027",
       "funnet": "2026-10-14T19:56:21.445244+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "BTS Yoongi DVD kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437393805",
-      "funnet": "2026-10-14T19:54:25.233190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aespa Ningning Samling (Albumkort + POBs + mer)",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/415099205",
-      "funnet": "2026-10-14T19:54:24.439006+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Aespa Whiplash sMini med Ningning fotokort",
-      "pris": 165,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/406699414",
-      "funnet": "2026-10-14T19:54:24.075443+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
