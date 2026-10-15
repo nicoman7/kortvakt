@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-15T19:36:21.409548+00:00",
+  "sist_sjekket": "2026-10-15T19:38:16.513480+00:00",
   "funn": [
+    {
+      "tittel": "kort",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478816354",
+      "funnet": "2026-10-15T19:38:16.511471+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering – Blightsteel Colossus – Mythic Rare – NM",
+      "pris": 340,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478819026",
+      "funnet": "2026-10-15T19:38:16.235796+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Frode Olsen (Stabæk)",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478819044",
+      "funnet": "2026-10-15T19:38:15.973599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 175,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478812814",
       "funnet": "2026-10-15T18:10:27.405657+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo japansk – gradert CGC 9.5",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478812812",
-      "funnet": "2026-10-15T18:10:26.720834+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Terapagos MEGA Dream ex (144) Holofoil",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478812745",
-      "funnet": "2026-10-15T18:08:18.509826+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Match Attax + Panini og Pokémon Charizard kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478812809",
-      "funnet": "2026-10-15T18:08:17.633554+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
