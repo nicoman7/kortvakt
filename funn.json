@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T23:22:20.463536+00:00",
+  "sist_sjekket": "2026-10-15T23:24:20.776134+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Poké Pad – Perfect Order – 15 kr/stk eller 80 kr samlet!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478826237",
+      "funnet": "2026-10-15T23:24:20.774293+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Shiny-kort – Paldean Fates 4 kort – 290 kr samlet!",
       "pris": 290,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/464015382",
       "funnet": "2026-10-15T20:12:20.998532+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Youri Djorkaeff (Bolton Wanderers)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478821053",
-      "funnet": "2026-10-15T20:10:31.825415+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
