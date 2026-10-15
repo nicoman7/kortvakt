@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T21:46:19.001583+00:00",
+  "sist_sjekket": "2026-10-15T21:48:22.924851+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Eirik Bakke (Leeds United)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478825010",
+      "funnet": "2026-10-15T21:48:22.923021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Sol Campbell (Tottenham Hotspur)",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478819805",
       "funnet": "2026-10-15T19:50:27.925784+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort pokemon go samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478819846",
-      "funnet": "2026-10-15T19:50:27.214131+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
