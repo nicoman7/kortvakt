@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T02:20:24.494688+00:00",
+  "sist_sjekket": "2026-10-15T02:22:15.885713+00:00",
   "funn": [
+    {
+      "tittel": "Diverse fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478759090",
+      "funnet": "2026-10-15T02:22:15.884409+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-15T02:22:15.153790+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kinesisk Pikachu 30th Celebration – Enkeltkort 20 kr stk – Pikachu Collection",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478449351",
       "funnet": "2026-10-14T19:56:25.364823+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Diverse EX kort til salgs",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478337940",
-      "funnet": "2026-10-14T19:56:24.471651+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th - Diverse EX til salgs",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478449989",
-      "funnet": "2026-10-14T19:56:23.614977+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
