@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T06:04:13.774980+00:00",
+  "sist_sjekket": "2026-10-15T06:06:19.684445+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/404225313",
+      "funnet": "2026-10-15T06:06:19.682356+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 38 kort +++",
       "pris": 490,
@@ -1190,14 +1198,6 @@
       "pris": 1099,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478752563",
       "funnet": "2026-10-14T20:08:22.383472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Merlin UEFA Club Competitions Bruno Fernandes Blue Refractor 09/150",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478752140",
-      "funnet": "2026-10-14T20:06:33.287210+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
