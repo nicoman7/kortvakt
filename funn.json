@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T12:18:18.477771+00:00",
+  "sist_sjekket": "2026-10-15T12:20:28.883631+00:00",
   "funn": [
+    {
+      "tittel": "Ronaldinho Fotballkort",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478786802",
+      "funnet": "2026-10-15T12:20:28.881713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thierry Henry fotballkort selges!  Nummerert 36/99",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478786843",
+      "funnet": "2026-10-15T12:20:28.115932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu Celebrations 25th",
       "pris": 299,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478762612",
       "funnet": "2026-10-15T07:06:14.242248+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "40 Pikachuer",
-      "pris": 18,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478762297",
-      "funnet": "2026-10-15T06:56:17.205719+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort Meowth japansk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478761641",
-      "funnet": "2026-10-15T06:44:17.727294+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
