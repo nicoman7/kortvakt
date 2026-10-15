@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-15T10:26:15.686056+00:00",
+  "sist_sjekket": "2026-10-15T10:28:20.730369+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478776615",
+      "funnet": "2026-10-15T10:28:20.728730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Porygon2 holo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478776786",
+      "funnet": "2026-10-15T10:28:20.331660+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Gyarados EX holo kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478776852",
+      "funnet": "2026-10-15T10:28:19.438598+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle kortpakke",
       "pris": 890,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-14T22:10:27.261685+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Booster bundles",
-      "pris": 1049,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478757536",
-      "funnet": "2026-10-14T22:08:18.346901+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard VMAX GEM MINT 10",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478757516",
-      "funnet": "2026-10-14T22:08:17.607421+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478753642",
-      "funnet": "2026-10-14T22:04:18.610542+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
