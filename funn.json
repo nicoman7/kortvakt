@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T09:14:19.516859+00:00",
+  "sist_sjekket": "2026-10-15T09:16:17.812996+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478770602",
+      "funnet": "2026-10-15T09:16:17.811075+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis Frakt! MTG : Gollum x3 LOTR / The Hobbit kort med Lands + Proxies",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478755621",
       "funnet": "2026-10-14T21:01:01.208626+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Misty Rainforest landkort foil",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478755715",
-      "funnet": "2026-10-14T21:01:00.434776+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
