@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T05:38:17.787051+00:00",
+  "sist_sjekket": "2026-10-15T05:40:24.143076+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478760337",
+      "funnet": "2026-10-15T05:40:24.141215+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Pikachu Ex  japansk",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478751791",
       "funnet": "2026-10-14T20:02:17.220431+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th SIR/SAR",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478751849",
-      "funnet": "2026-10-14T20:02:16.664804+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
