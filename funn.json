@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T07:30:47.623565+00:00",
+  "sist_sjekket": "2026-10-15T07:32:17.185561+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478763837",
+      "funnet": "2026-10-15T07:32:17.183599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Mega Charizard X PSA 10 promo",
       "pris": 1999,
@@ -1190,14 +1198,6 @@
       "pris": 1599,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478754085",
       "funnet": "2026-10-14T20:24:15.617423+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Skysovreign Consul Flagship kort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478753951",
-      "funnet": "2026-10-14T20:24:15.327352+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
