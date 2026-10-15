@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T05:18:15.312905+00:00",
+  "sist_sjekket": "2026-10-15T05:20:24.817547+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Dragonair",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478759959",
+      "funnet": "2026-10-15T05:20:24.815633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle med 6 boosterpakker",
       "pris": 899,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/445478163",
       "funnet": "2026-10-14T19:58:17.202999+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Empoleon LV.X DP11",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478751179",
-      "funnet": "2026-10-14T19:56:27.966548+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
