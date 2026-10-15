@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T09:26:16.880309+00:00",
+  "sist_sjekket": "2026-10-15T09:28:15.825179+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Ditto GG22/GG70",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478771332",
+      "funnet": "2026-10-15T09:28:15.823279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pidgey IR 207/197",
       "pris": 130,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-14T21:08:17.223047+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478412462",
-      "funnet": "2026-10-14T21:06:22.361776+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
