@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T21:54:15.598217+00:00",
+  "sist_sjekket": "2026-10-15T21:56:17.052755+00:00",
   "funn": [
+    {
+      "tittel": "Pakkepris - Pokemon 30th anniversary jubileum",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476723405",
+      "funnet": "2026-10-15T21:56:17.050908+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Steven Gerrard (Liverpool)",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478820142",
       "funnet": "2026-10-15T19:54:20.528794+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsène Wenger – Arsenal-legende – Topps FC",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478820237",
-      "funnet": "2026-10-15T19:54:20.070805+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
