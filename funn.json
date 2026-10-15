@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T01:44:15.038710+00:00",
+  "sist_sjekket": "2026-10-15T01:46:18.265343+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 11",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478758976",
+      "funnet": "2026-10-15T01:46:18.263144+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 19",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478751192",
       "funnet": "2026-10-14T19:56:23.269642+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort ramme til vanlige og graderte kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477741847",
-      "funnet": "2026-10-14T19:56:22.317373+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
