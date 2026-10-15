@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T06:08:13.788038+00:00",
+  "sist_sjekket": "2026-10-15T06:10:26.341696+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Vålerenga",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/455413629",
+      "funnet": "2026-10-15T06:10:26.339995+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Jens Petter Hauge (Bodø/Glimt)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/454975823",
+      "funnet": "2026-10-15T06:10:25.792730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478752442",
       "funnet": "2026-10-14T20:08:23.592332+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebrations Player’s Guide",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478752982",
-      "funnet": "2026-10-14T20:08:22.884709+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478752563",
-      "funnet": "2026-10-14T20:08:22.383472+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
