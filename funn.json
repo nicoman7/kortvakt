@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-15T14:58:22.910470+00:00",
+  "sist_sjekket": "2026-10-15T15:01:04.513034+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon ETB Elite Trainer Box",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478798947",
+      "funnet": "2026-10-15T15:01:04.511382+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th booster bundle og mini tins",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478797842",
+      "funnet": "2026-10-15T15:01:04.139712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Pitch Black Booster Bundle",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478798967",
+      "funnet": "2026-10-15T15:01:03.781037+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon ETB",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478799065",
+      "funnet": "2026-10-15T15:01:03.385360+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Trading Card Game samleboks metallboks",
       "pris": 349,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478786204",
       "funnet": "2026-10-15T12:10:28.369568+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "fotball kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478785754",
-      "funnet": "2026-10-15T12:06:18.009882+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu kort og tilbehør samlepakk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478785997",
-      "funnet": "2026-10-15T12:06:17.630454+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier legue fotball kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478785835",
-      "funnet": "2026-10-15T12:06:17.291279+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Bundle 6 boosterpakker",
-      "pris": 949,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478785606",
-      "funnet": "2026-10-15T12:04:19.537319+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
