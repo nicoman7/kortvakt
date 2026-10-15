@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T17:20:33.690083+00:00",
+  "sist_sjekket": "2026-10-15T17:22:21.278577+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
+      "funnet": "2026-10-15T17:22:21.276870+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "4 Busskort + 2 Cash less",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809266",
+      "funnet": "2026-10-15T17:22:20.368420+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps Universe WWE #256 Hulk Hogan Flare",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478802130",
       "funnet": "2026-10-15T15:50:28.126894+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Swadloon White Flare Illustration Rare 088/086",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478802192",
-      "funnet": "2026-10-15T15:50:27.740389+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece TCG samlekort japansk samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478802454",
-      "funnet": "2026-10-15T15:50:27.425607+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
