@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-15T19:30:47.566819+00:00",
+  "sist_sjekket": "2026-10-15T19:32:18.468645+00:00",
   "funn": [
+    {
+      "tittel": "Gamegenic blå samlemappe for Pokémon-kort",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478818613",
+      "funnet": "2026-10-15T19:32:18.465680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "[REUSE] Nintendo Official Album Stickers (1992 Merlin)",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-15T18:02:22.329627+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Perm med Pokemon kort (kinesisk)",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478812041",
-      "funnet": "2026-10-15T18:02:21.624825+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
