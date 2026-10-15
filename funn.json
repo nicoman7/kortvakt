@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-15T13:48:15.914450+00:00",
+  "sist_sjekket": "2026-10-15T13:50:35.594500+00:00",
   "funn": [
+    {
+      "tittel": "One Piece Card Game kort – Shanks Gold SP– japansk",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478793872",
+      "funnet": "2026-10-15T13:50:35.592724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Litten – Illustration Rare – Temporal Forces",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478794197",
+      "funnet": "2026-10-15T13:50:34.730145+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece Card Game kort – BUGGY GOLD SP OP17 JP",
       "pris": 1150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-15T09:44:17.941529+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Booster Bundles",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478772591",
-      "funnet": "2026-10-15T09:42:18.677221+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu 34",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478772613",
-      "funnet": "2026-10-15T09:42:17.878619+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
