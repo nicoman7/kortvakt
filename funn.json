@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T18:20:28.387811+00:00",
+  "sist_sjekket": "2026-10-16T18:22:17.035180+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort David Beckham (England)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478836747",
+      "funnet": "2026-10-16T18:22:17.033874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Plascot EM 1996",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T14:50:30.052935+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478412462",
-      "funnet": "2026-10-16T14:50:29.153417+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
