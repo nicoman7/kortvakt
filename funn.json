@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-16T17:58:17.573893+00:00",
+  "sist_sjekket": "2026-10-16T18:00:59.427438+00:00",
   "funn": [
+    {
+      "tittel": "Livsveiens kort",
+      "pris": 445,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478879811",
+      "funnet": "2026-10-16T18:00:59.426217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478878056",
+      "funnet": "2026-10-16T18:00:59.041854+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Chelsea - div. dyre serier",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459940681",
+      "funnet": "2026-10-16T18:00:58.648488+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mimikyu",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478879670",
+      "funnet": "2026-10-16T18:00:58.286010+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Shedinja - Mega Evolution - Pokemon",
       "pris": 50,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478864979",
       "funnet": "2026-10-16T14:24:22.189118+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu holografisk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478844030",
-      "funnet": "2026-10-16T14:24:21.342565+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering Mutable Explorer kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478865115",
-      "funnet": "2026-10-16T14:24:20.416457+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering The Dawning Archaic kort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478864912",
-      "funnet": "2026-10-16T14:22:19.345123+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Mew Holo PSA 8 XY Evolutions",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478864712",
-      "funnet": "2026-10-16T14:20:28.364899+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
