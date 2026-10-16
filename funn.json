@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T20:30:46.029980+00:00",
+  "sist_sjekket": "2026-10-16T20:32:20.654667+00:00",
   "funn": [
+    {
+      "tittel": "One Piece kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/432528462",
+      "funnet": "2026-10-16T20:32:20.652867+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Vibrava EX Power keepers",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478357602",
       "funnet": "2026-10-16T19:16:21.225942+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Empoleon 4/130 Holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478884612",
-      "funnet": "2026-10-16T19:16:20.923842+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
