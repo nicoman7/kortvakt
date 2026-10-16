@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T19:36:23.010437+00:00",
+  "sist_sjekket": "2026-10-16T19:38:16.953180+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Raichu 45/100",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478885788",
+      "funnet": "2026-10-16T19:38:16.951033+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Zapdos 14/100 Holo",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T18:42:16.933174+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Mismagius kinesisk – 3 stk",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478882513",
-      "funnet": "2026-10-16T18:42:16.263285+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
