@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T06:06:17.646124+00:00",
+  "sist_sjekket": "2026-10-16T06:08:16.708622+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478828852",
+      "funnet": "2026-10-16T06:08:16.706591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew EX MEW/151 205/165 Hyper Rare",
       "pris": 525,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-15T20:58:16.967362+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cinderace 034/202 Reverse Holo Pokemon League Stamp",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478759400",
-      "funnet": "2026-10-15T20:56:22.205258+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
