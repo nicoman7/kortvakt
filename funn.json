@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-16T17:54:15.122627+00:00",
+  "sist_sjekket": "2026-10-16T17:56:20.436255+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges enkeltvis billig",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478877491",
+      "funnet": "2026-10-16T17:56:20.434635+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon TCG Terastal Fes ex japansk boosterboks",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478427106",
+      "funnet": "2026-10-16T17:56:20.059090+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - SKIPLOOM (REV. HOLO)",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478864601",
       "funnet": "2026-10-16T14:18:17.869240+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering Ketramose, the New Dawn kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478864651",
-      "funnet": "2026-10-16T14:18:17.266160+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "10x kort RESERVERT",
-      "pris": 535,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478864691",
-      "funnet": "2026-10-16T14:18:16.701364+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
