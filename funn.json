@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-16T13:56:17.670663+00:00",
+  "sist_sjekket": "2026-10-16T13:58:18.069615+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering Morningtide's Light sorcerykort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478862738",
+      "funnet": "2026-10-16T13:58:18.068302+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Bulbasaur 143/142 - Stellar Crown",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478862917",
+      "funnet": "2026-10-16T13:58:17.378090+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Blandede fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478862806",
+      "funnet": "2026-10-16T13:58:16.678991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Frogadier #89 Pokemon Chaos Rising",
       "pris": 90,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-16T11:18:22.986493+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th booster bundle",
-      "pris": 849,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478840582",
-      "funnet": "2026-10-16T11:16:15.055993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Postkort fra Russland",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478795710",
-      "funnet": "2026-10-16T11:10:28.956287+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Postkort fra Asia",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478796067",
-      "funnet": "2026-10-16T11:10:28.536017+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
