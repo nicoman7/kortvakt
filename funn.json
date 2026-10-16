@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T08:20:29.992640+00:00",
+  "sist_sjekket": "2026-10-16T08:22:17.902840+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478835230",
+      "funnet": "2026-10-16T08:22:17.899945+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Charmander Squirtle Bulbasaur promo sett",
       "pris": 1600,
@@ -1190,14 +1198,6 @@
       "pris": 950,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478824214",
       "funnet": "2026-10-15T21:20:27.617113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort David Ginola (Aston Villa)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478824074",
-      "funnet": "2026-10-15T21:18:18.770148+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
