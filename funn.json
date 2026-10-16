@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-16T13:48:15.738993+00:00",
+  "sist_sjekket": "2026-10-16T13:50:29.845205+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration perm",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478862010",
+      "funnet": "2026-10-16T13:50:29.843225+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
+      "pris": 63,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-10-16T13:50:29.482573+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Terastal Fes ex japansk boosterboks",
       "pris": 1400,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-10-16T10:56:18.222862+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Japansk bulk selges 75kr/kilo",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478847081",
-      "funnet": "2026-10-16T10:56:17.152704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu & Zekrom GX Tag Team kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478846625",
-      "funnet": "2026-10-16T10:54:17.196679+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
