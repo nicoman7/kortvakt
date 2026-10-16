@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-16T19:08:20.412122+00:00",
+  "sist_sjekket": "2026-10-16T19:10:27.604824+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Booster bundle",
+      "pris": 949,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478881855",
+      "funnet": "2026-10-16T19:10:27.603042+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Electrode EX Emerald 27 / 106 Holo",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478884209",
+      "funnet": "2026-10-16T19:10:26.760347+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Infernape LV. DP10",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-16T17:36:16.217048+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Alexia Putellas Patch Nummeret Fotballkort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478878034",
-      "funnet": "2026-10-16T17:32:15.804973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/64 - Pokemon Jungle",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478877820",
-      "funnet": "2026-10-16T17:30:45.364662+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
