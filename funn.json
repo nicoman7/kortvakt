@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T04:58:16.004839+00:00",
+  "sist_sjekket": "2026-10-16T05:00:58.664432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478827764",
+      "funnet": "2026-10-16T05:00:58.662285+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arsenal Women – 12 flotte fotballkort inkl. Leah Williamson Gold",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478822981",
       "funnet": "2026-10-15T20:48:20.419038+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Digimon-kort: 1 Gatomon Prisme kort + 3 vanlige – Original 1999 Bandai",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478248417",
-      "funnet": "2026-10-15T20:48:19.509375+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
