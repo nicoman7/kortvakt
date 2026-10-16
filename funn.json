@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-16T11:08:17.136068+00:00",
+  "sist_sjekket": "2026-10-16T11:10:28.958077+00:00",
   "funn": [
+    {
+      "tittel": "Postkort fra Russland",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478795710",
+      "funnet": "2026-10-16T11:10:28.956287+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Postkort fra Asia",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478796067",
+      "funnet": "2026-10-16T11:10:28.536017+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Illustration Rare trio – Dewgong, Chespin og Metang (IR)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478844194",
+      "funnet": "2026-10-16T11:10:28.090737+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebrations",
       "pris": 800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478826178",
       "funnet": "2026-10-15T23:14:29.831310+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Terastal Fes ex japansk boosterboks",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478427106",
-      "funnet": "2026-10-15T22:52:20.972179+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478825890",
-      "funnet": "2026-10-15T22:50:30.022931+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "60+ Pokémon-kort – XY Evolutions, vintage og Trainer – samlet lot",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478825894",
-      "funnet": "2026-10-15T22:50:29.658691+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
