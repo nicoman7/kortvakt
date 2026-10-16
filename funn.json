@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T01:30:42.213253+00:00",
+  "sist_sjekket": "2026-10-16T01:32:15.642805+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478412462",
+      "funnet": "2026-10-16T01:32:15.640991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mew V Fusion Strike PSA 10 samlekort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478821960",
       "funnet": "2026-10-15T20:28:18.192626+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dr. Abraham Erskine /5 – Topps Chrome Marvel 2025",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478822041",
-      "funnet": "2026-10-15T20:28:17.239732+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
