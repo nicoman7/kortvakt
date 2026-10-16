@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T15:04:15.208959+00:00",
+  "sist_sjekket": "2026-10-16T15:06:19.245936+00:00",
   "funn": [
+    {
+      "tittel": "Alice Cooper samlekort 1974",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478867955",
+      "funnet": "2026-10-16T15:06:19.243805+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor lot Kojak samlekort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478855451",
       "funnet": "2026-10-16T12:34:17.146614+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Team Rocket (2000)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478855550",
-      "funnet": "2026-10-16T12:34:16.427611+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
