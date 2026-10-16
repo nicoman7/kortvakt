@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T18:16:17.013909+00:00",
+  "sist_sjekket": "2026-10-16T18:18:16.972333+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 188,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478881106",
+      "funnet": "2026-10-16T18:18:16.970401+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 9 MINT Electivire Lv.x 1st Edition - Pokemon Secret of the Lakes",
       "pris": 1999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T14:44:25.357656+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "🌟 Nye pakker inne! High-End - Pokemon kort pakker med vintage hits og ex kort!🌟",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
-      "funnet": "2026-10-16T14:42:16.764012+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
