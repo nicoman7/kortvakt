@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-16T21:24:19.577299+00:00",
+  "sist_sjekket": "2026-10-16T21:26:15.559645+00:00",
   "funn": [
+    {
+      "tittel": "Selger Ninetales #3 Pokemon Rumble!",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478889023",
+      "funnet": "2026-10-16T21:26:15.557798+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Selger Venusaur #1 Pokemon Rumble i god tilstand!",
       "pris": 1750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478885904",
       "funnet": "2026-10-16T19:42:20.035848+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Umbreon 32/100",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478885900",
-      "funnet": "2026-10-16T19:42:19.378143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
