@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-16T17:38:18.825785+00:00",
+  "sist_sjekket": "2026-10-16T17:40:33.898414+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX #056 - NM",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478878593",
+      "funnet": "2026-10-16T17:40:33.896700+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - 30th Celebration Booster Bundle",
+      "pris": 1090,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478878513",
+      "funnet": "2026-10-16T17:40:33.148924+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Surfing Pikachu V - NM",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478878679",
+      "funnet": "2026-10-16T17:40:31.965118+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Destined Rivals holofoil kort -gratis frak",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478863517",
       "funnet": "2026-10-16T14:08:17.333298+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering Trumpeting Carnosaur rød creature-kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478863623",
-      "funnet": "2026-10-16T14:08:16.608134+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort – Surtis Comet – rød sorcery",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478863791",
-      "funnet": "2026-10-16T14:08:15.865149+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Black Bolt Booster Bundle",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478081688",
-      "funnet": "2026-10-16T14:08:15.063960+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
