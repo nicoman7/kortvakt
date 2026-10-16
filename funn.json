@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-16T22:08:16.840706+00:00",
+  "sist_sjekket": "2026-10-16T22:10:29.398215+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th bulk",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478885226",
+      "funnet": "2026-10-16T22:10:29.396525+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Meowth 144/128 – Pokémon 30th Anniversary – Illustration Rare",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478891457",
+      "funnet": "2026-10-16T22:10:28.822537+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps Chrome Star Wars Galaxy #47 Can You Speak Bocce - /199",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478891420",
+      "funnet": "2026-10-16T22:10:28.140118+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Igor Thiago Gold Lion – Brentford – Topps Premier League 2026/27",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478891496",
+      "funnet": "2026-10-16T22:10:27.561509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Black Bolt Booster Bundle",
       "pris": 1100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-16T19:54:20.760578+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Anniversary Booster Bundles",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478886592",
-      "funnet": "2026-10-16T19:54:20.006313+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Skarmory ex kort 98/108",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478886552",
-      "funnet": "2026-10-16T19:54:19.046764+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Chaos Rising Bulk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478886435",
-      "funnet": "2026-10-16T19:52:21.313264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skyridge Holos m/ prisliste",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456168362",
-      "funnet": "2026-10-16T19:52:20.433521+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
