@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-16T20:28:15.937404+00:00",
+  "sist_sjekket": "2026-10-16T20:30:46.029980+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Vibrava EX Power keepers",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478888250",
+      "funnet": "2026-10-16T20:30:46.028481+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/432528022",
+      "funnet": "2026-10-16T20:30:45.088375+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Kingler EX Crystal Guardians",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478884612",
       "funnet": "2026-10-16T19:16:20.923842+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2 stk One Piece SR Brook samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476084694",
-      "funnet": "2026-10-16T19:16:20.378627+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469110699",
-      "funnet": "2026-10-16T19:16:19.840711+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
