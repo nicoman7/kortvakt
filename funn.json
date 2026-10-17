@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T06:16:14.183910+00:00",
+  "sist_sjekket": "2026-10-17T06:18:15.422534+00:00",
   "funn": [
+    {
+      "tittel": "Div kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478895459",
+      "funnet": "2026-10-17T06:18:15.420639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lamine Yamal samlekort",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478889035",
       "funnet": "2026-10-16T20:50:28.552371+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Archie Gray #07/10 - Tottenham - Topps Inception 25/26",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478889193",
-      "funnet": "2026-10-16T20:50:27.734425+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
