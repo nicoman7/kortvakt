@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T23:00:57.847863+00:00",
+  "sist_sjekket": "2026-10-17T23:02:13.974404+00:00",
   "funn": [
+    {
+      "tittel": "Eldre Pokémonkort (1st Edition)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478968939",
+      "funnet": "2026-10-17T23:02:13.972697+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon March 102/111 1st Edition Neo Genesis",
       "pris": 69,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478961748",
       "funnet": "2026-10-17T19:34:14.823651+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478961528",
-      "funnet": "2026-10-17T19:30:44.864988+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
