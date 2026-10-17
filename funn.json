@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T23:38:15.663109+00:00",
+  "sist_sjekket": "2026-10-17T23:40:22.710242+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 30th Celebrations 025/128 03/30 Satoma",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478969372",
+      "funnet": "2026-10-17T23:40:22.708563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 30th Celebrations 042/128 20/30 Akira Komayama",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-17T20:02:19.281287+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort - premier league 25/26",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478963021",
-      "funnet": "2026-10-17T20:02:18.413339+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
