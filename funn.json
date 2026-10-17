@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T06:30:42.759945+00:00",
+  "sist_sjekket": "2026-10-17T06:32:14.647207+00:00",
   "funn": [
+    {
+      "tittel": "selger flere fotballkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478892544",
+      "funnet": "2026-10-17T06:32:14.646185+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Lunala Tin",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478883381",
       "funnet": "2026-10-16T20:58:17.839576+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Landorus reverse holo 041/088 fra Perfect Order",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478883436",
-      "funnet": "2026-10-16T20:56:17.931913+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
