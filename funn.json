@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T03:52:15.666008+00:00",
+  "sist_sjekket": "2026-10-17T03:54:17.073487+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478893816",
+      "funnet": "2026-10-17T03:54:17.071726+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duel Masters Pokolul RARE",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T20:40:31.789364+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gareth Bale - Tottenham - Topps Chrome PL - insert",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478888652",
-      "funnet": "2026-10-16T20:38:18.481929+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
