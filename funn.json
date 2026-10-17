@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T02:34:16.599772+00:00",
+  "sist_sjekket": "2026-10-17T02:36:15.670922+00:00",
   "funn": [
+    {
+      "tittel": "Duel Masters \"Fantasy Fish\" Rare",
+      "pris": 375,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478893600",
+      "funnet": "2026-10-17T02:36:15.669286+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MGT: Timberwatch Elf 140/145 foil kort",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T20:32:20.652867+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Vibrava EX Power keepers",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478888250",
-      "funnet": "2026-10-16T20:30:46.028481+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
