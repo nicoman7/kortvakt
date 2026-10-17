@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T09:46:13.769493+00:00",
+  "sist_sjekket": "2026-10-17T09:48:16.444988+00:00",
   "funn": [
+    {
+      "tittel": "Adriano auto /99 fotballkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478909105",
+      "funnet": "2026-10-17T09:48:16.443342+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478908932",
+      "funnet": "2026-10-17T09:48:15.884548+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Inception Luis Suárez auto /25 fotballkort",
       "pris": 1700,
@@ -1182,22 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478893772",
       "funnet": "2026-10-17T03:26:14.802380+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NYE PRISER! Masse sealed pokemon selges!",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478643042",
-      "funnet": "2026-10-17T03:12:15.472346+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Duel Master Vikorakys Rare",
-      "pris": 425,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478893689",
-      "funnet": "2026-10-17T02:58:13.949599+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
