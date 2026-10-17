@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T10:58:16.096266+00:00",
+  "sist_sjekket": "2026-10-17T11:00:54.068199+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX",
+      "pris": 325,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478916900",
+      "funnet": "2026-10-17T11:00:54.066536+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - N Trainer kort",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478917058",
+      "funnet": "2026-10-17T11:00:53.467413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort - Chinese Sharp Blade Awakening",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478903070",
       "funnet": "2026-10-17T08:40:31.140287+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth 199/264 - Pokemon Fusion Strike",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478902959",
-      "funnet": "2026-10-17T08:40:30.292960+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ponyta 23/236 - Pokemon Cosmic Eclipse",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478902715",
-      "funnet": "2026-10-17T08:36:17.160521+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
