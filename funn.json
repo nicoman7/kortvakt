@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T17:40:29.860371+00:00",
+  "sist_sjekket": "2026-10-17T17:42:18.850920+00:00",
   "funn": [
+    {
+      "tittel": "Kort pakker til veldig bra pris",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478954762",
+      "funnet": "2026-10-17T17:42:18.848966+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Holo / Reverse Holo bulk  190 kort + boks",
       "pris": 475,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478947476",
       "funnet": "2026-10-17T15:58:15.955148+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon perm med 30th celebration inkl hits.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478947107",
-      "funnet": "2026-10-17T15:58:15.702243+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
