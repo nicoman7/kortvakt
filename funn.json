@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T08:02:14.456634+00:00",
+  "sist_sjekket": "2026-10-17T08:04:16.048452+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Holo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478900150",
+      "funnet": "2026-10-17T08:04:16.046613+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon pakke 50 kort – 3 EX ELLER BEDRE!💎",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-17T08:04:15.500509+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "18 stk Fotballkort",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478891215",
       "funnet": "2026-10-16T22:00:57.497611+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Illustration Rare / Full Art – 22 kort – separat eller samlet NM/M",
-      "pris": 1962,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478890638",
-      "funnet": "2026-10-16T22:00:57.255468+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-16T22:00:56.655454+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
