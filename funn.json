@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T02:28:14.192032+00:00",
+  "sist_sjekket": "2026-10-17T02:30:44.733459+00:00",
   "funn": [
+    {
+      "tittel": "MGT: Timberwatch Elf 140/145 foil kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478893589",
+      "funnet": "2026-10-17T02:30:44.731526+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MGT: Crypt Sliver 63/145 foil kort",
       "pris": 190,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T20:30:46.028481+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/432528022",
-      "funnet": "2026-10-16T20:30:45.088375+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
