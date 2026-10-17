@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T07:28:19.464961+00:00",
+  "sist_sjekket": "2026-10-17T07:30:44.986908+00:00",
   "funn": [
+    {
+      "tittel": "Golem  076/165  Pokemon 151C",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478898364",
+      "funnet": "2026-10-17T07:30:44.984913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Clefairy #6 Pokemon Base Set 2",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T21:32:17.592406+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Ninetales #3 Pokemon Rumble!",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478889023",
-      "funnet": "2026-10-16T21:26:15.557798+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
