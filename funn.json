@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T10:48:18.132968+00:00",
+  "sist_sjekket": "2026-10-17T10:50:26.412235+00:00",
   "funn": [
+    {
+      "tittel": "Houndour - Neo Discovery - Pokemon",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478915839",
+      "funnet": "2026-10-17T10:50:26.410181+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Milcery 152/142 - Pokemon Stellar Crown",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478902235",
       "funnet": "2026-10-17T08:32:15.531392+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slowpoke 12/68 - Pokemon Hidden Fates",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478902423",
-      "funnet": "2026-10-17T08:32:14.593561+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
