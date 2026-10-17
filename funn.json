@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T06:44:14.051123+00:00",
+  "sist_sjekket": "2026-10-17T06:46:15.647032+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra topps serien",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478892022",
+      "funnet": "2026-10-17T06:46:15.645991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gengar Topps Holofoil",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478885708",
+      "funnet": "2026-10-17T06:46:15.277708+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration booster bundle",
       "pris": 875,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478883257",
       "funnet": "2026-10-16T21:00:59.463349+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Prismatic Evolutions samling vurderes solgt",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478889299",
-      "funnet": "2026-10-16T20:58:19.898891+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ponemon kort, white flare Japanese.",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478889385",
-      "funnet": "2026-10-16T20:58:19.583686+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
