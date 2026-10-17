@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T06:50:25.654634+00:00",
+  "sist_sjekket": "2026-10-17T06:52:16.056950+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Skyridge",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478843360",
+      "funnet": "2026-10-17T06:52:16.055055+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra topps serien",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T21:01:00.189012+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Zacian holo 014/094 fra Phantasmal Flames",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478883257",
-      "funnet": "2026-10-16T21:00:59.463349+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
