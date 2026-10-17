@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-17T17:20:26.628330+00:00",
+  "sist_sjekket": "2026-10-17T17:22:21.460750+00:00",
   "funn": [
+    {
+      "tittel": "To kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478953994",
+      "funnet": "2026-10-17T17:22:21.458992+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort samling med holo og energy-kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478951513",
+      "funnet": "2026-10-17T17:22:20.698850+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sjeldene patch/ autograf kort fra premier gold 2002 t.o.m 2004.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478953868",
+      "funnet": "2026-10-17T17:22:20.316124+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Magcargo H17/H32",
       "pris": 800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478946016",
       "funnet": "2026-10-17T15:38:15.257162+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ascended Heroes Mega Feraligatr ex Box samleboks",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478946107",
-      "funnet": "2026-10-17T15:38:14.943066+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30/111 - Crimson Invasion",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478943057",
-      "funnet": "2026-10-17T15:38:14.150626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Komplett Engelsk 30th Pikachu Set",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478945762",
-      "funnet": "2026-10-17T15:36:17.653658+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
