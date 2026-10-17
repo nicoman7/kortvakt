@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T02:22:14.692886+00:00",
+  "sist_sjekket": "2026-10-17T02:24:17.655683+00:00",
   "funn": [
+    {
+      "tittel": "MGT: Crypt Sliver 63/145 foil kort",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478893582",
+      "funnet": "2026-10-17T02:24:17.653879+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sjeldne Vintage Digimon-kort (1999) – 16 stk 1st Edition Glinsekort + 10 ekstra",
       "pris": 1900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-16T20:30:45.088375+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Kingler EX Crystal Guardians",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478888218",
-      "funnet": "2026-10-16T20:26:19.454481+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
