@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T07:20:26.086456+00:00",
+  "sist_sjekket": "2026-10-17T07:22:14.563310+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478897731",
+      "funnet": "2026-10-17T07:22:14.561268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "HOLO Wigglytuff #19 Pokemon Base Set 2",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478897881",
+      "funnet": "2026-10-17T07:22:13.979891+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Illustration Collection Series 2 samleboks",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-16T21:18:15.725066+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dominic Solanke - Tottenham - Topps Chrome UCC 25/26",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478890012",
-      "funnet": "2026-10-16T21:16:18.604573+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer Full Art – 18 kort – separat eller samlet NM/M",
-      "pris": 837,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478889362",
-      "funnet": "2026-10-16T21:16:17.769777+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
