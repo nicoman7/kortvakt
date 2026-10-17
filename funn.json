@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T14:48:20.426634+00:00",
+  "sist_sjekket": "2026-10-17T14:50:26.237428+00:00",
   "funn": [
+    {
+      "tittel": "BEARTIC #29 HOLO RARE",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478941192",
+      "funnet": "2026-10-17T14:50:26.235743+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One Piece kort OP-14 The Azure Sea's Seven Sleeved Booster Pack",
+      "pris": 139,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478941428",
+      "funnet": "2026-10-17T14:50:25.366017+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Celebrations Mini Tin samleboks lilla",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-17T12:20:29.404220+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tinkatuff #217 Pokemon Paldea Evolved",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478893349",
-      "funnet": "2026-10-17T12:20:28.650816+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2010-talls pokemon kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478925691",
-      "funnet": "2026-10-17T12:20:27.880405+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
