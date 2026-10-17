@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-17T06:36:14.664987+00:00",
+  "sist_sjekket": "2026-10-17T06:38:15.844251+00:00",
   "funn": [
+    {
+      "tittel": "pokemonkort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478895869",
+      "funnet": "2026-10-17T06:38:15.842454+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "selger flere fotballkort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478889419",
       "funnet": "2026-10-16T20:58:18.713132+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon  kort Telepathic Energy  holo 088/088 fra Perfect Order",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478883381",
-      "funnet": "2026-10-16T20:58:17.839576+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
