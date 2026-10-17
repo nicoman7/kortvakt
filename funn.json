@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-17T19:20:33.540932+00:00",
+  "sist_sjekket": "2026-10-17T19:22:15.168425+00:00",
   "funn": [
+    {
+      "tittel": "Bulk kort",
+      "pris": 93,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478961210",
+      "funnet": "2026-10-17T19:22:15.165953+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Dark Weezing Team Rocket",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478961221",
+      "funnet": "2026-10-17T19:22:14.608810+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Electabuzz 70 HP",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478961103",
+      "funnet": "2026-10-17T19:22:14.344901+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🔥Pokemon 30th Anniversary Mini Tins",
       "pris": 369,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478953199",
       "funnet": "2026-10-17T17:10:28.859909+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lugia 121/128 30th",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478953126",
-      "funnet": "2026-10-17T17:10:27.811368+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Manectric kort 7/106 Holo",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478953092",
-      "funnet": "2026-10-17T17:08:15.602235+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-17T17:08:15.000434+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
