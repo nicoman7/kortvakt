@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-17T13:56:15.030487+00:00",
+  "sist_sjekket": "2026-10-17T13:58:17.772431+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478934456",
+      "funnet": "2026-10-17T13:58:17.770763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Jirachi 97/95 EX Team Magma vs Team Aqua Secret Rare Holo 2004",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478935997",
+      "funnet": "2026-10-17T13:58:16.778015+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gengar Blister",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478921673",
       "funnet": "2026-10-17T11:42:16.488610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu 031/128 - 30th",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478921559",
-      "funnet": "2026-10-17T11:42:16.154111+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Exeggcute 001/128 30th",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478921841",
-      "funnet": "2026-10-17T11:42:15.923198+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
