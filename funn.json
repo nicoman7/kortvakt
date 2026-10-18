@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T20:46:17.460992+00:00",
+  "sist_sjekket": "2026-10-18T20:48:16.935593+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/462887216",
+      "funnet": "2026-10-18T20:48:16.933698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Finest UCC 25-26 Alessandro Bastoni/99 Internazionale Milano",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478612438",
       "funnet": "2026-10-18T18:38:14.378669+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Nani Portugal",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478997315",
-      "funnet": "2026-10-18T18:36:15.876018+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
