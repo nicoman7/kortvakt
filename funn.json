@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T15:38:16.576474+00:00",
+  "sist_sjekket": "2026-10-18T15:40:26.961855+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Chandelure EX kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479034017",
+      "funnet": "2026-10-18T15:40:26.959990+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon N's zekrom sealed promo 031",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479034500",
+      "funnet": "2026-10-18T15:40:26.607327+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort med metallboks",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479019802",
       "funnet": "2026-10-18T13:46:17.971520+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Solrock 039 fra Pokemon GO",
-      "pris": 12,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479019944",
-      "funnet": "2026-10-18T13:46:17.240597+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Throh #134 Pokemon Japanese Black Bolt",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479013867",
-      "funnet": "2026-10-18T13:46:16.503182+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
