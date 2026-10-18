@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T20:50:27.269275+00:00",
+  "sist_sjekket": "2026-10-18T20:52:16.615412+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - sjeldne vintage",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479063802",
+      "funnet": "2026-10-18T20:52:16.613730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Arbok 176/162",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479064224",
+      "funnet": "2026-10-18T20:52:16.052518+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Hisuian Zoroark 234/172 (japansk)",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-18T18:46:14.112631+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Sword & Shield samlemappe med kort",
-      "pris": 435,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459241047",
-      "funnet": "2026-10-18T18:44:16.381031+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-18T18:42:14.891450+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
