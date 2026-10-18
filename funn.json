@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T08:48:16.511933+00:00",
+  "sist_sjekket": "2026-10-18T08:50:24.019628+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ruby Sapphire",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478980521",
+      "funnet": "2026-10-18T08:50:24.018364+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Giratina & Garchomp GX (JP) PSA 10",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478980374",
+      "funnet": "2026-10-18T08:50:23.278736+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Armored Mewtwo 365/sm-p PSA 6",
       "pris": 1000,
@@ -1182,22 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478967784",
       "funnet": "2026-10-17T22:08:16.967790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The syren uncommon Riftbound samlekort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478967890",
-      "funnet": "2026-10-17T22:08:15.975840+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "6 stk Singularity uncommon Riftbound samlekort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478967839",
-      "funnet": "2026-10-17T22:06:17.242981+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
