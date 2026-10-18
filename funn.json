@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T08:04:17.631744+00:00",
+  "sist_sjekket": "2026-10-18T08:06:18.505282+00:00",
   "funn": [
+    {
+      "tittel": "Sliggoo, Illustration Rare",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478976393",
+      "funnet": "2026-10-18T08:06:18.503994+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu samling 30th anniversary",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478730668",
       "funnet": "2026-10-17T21:08:16.081556+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Future Stars fotballkort – samling med spillere",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478729452",
-      "funnet": "2026-10-17T21:04:16.509769+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
