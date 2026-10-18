@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T21:44:15.432173+00:00",
+  "sist_sjekket": "2026-10-18T21:46:15.718846+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Paldea Evolved // Sleeved boosters",
+      "pris": 189,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479066044",
+      "funnet": "2026-10-18T21:46:15.717198+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu - Pokémon 30th Celebration Japansk (JP) - komplett sett - 30/30 kort",
       "pris": 750,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477277921",
       "funnet": "2026-10-18T19:04:16.190275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "4stk Akryl display til etb selges samlet",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478700725",
-      "funnet": "2026-10-18T19:04:15.845004+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
