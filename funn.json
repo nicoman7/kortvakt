@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T18:30:45.771707+00:00",
+  "sist_sjekket": "2026-10-18T18:32:16.570654+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
+      "funnet": "2026-10-18T18:32:16.568626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pidove 153/086 – Black Bolt – Japansk Art Rare – CGC Pristine 10",
       "pris": 510,
@@ -1190,14 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479039857",
       "funnet": "2026-10-18T16:24:14.190115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vaporeon V promo",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479039676",
-      "funnet": "2026-10-18T16:22:16.707922+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
