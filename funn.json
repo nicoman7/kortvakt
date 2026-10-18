@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T18:44:16.383078+00:00",
+  "sist_sjekket": "2026-10-18T18:46:14.114675+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479054631",
+      "funnet": "2026-10-18T18:46:14.112631+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Sword & Shield samlemappe med kort",
       "pris": 435,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479040718",
       "funnet": "2026-10-18T16:32:22.348063+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "«Komplett Topps Match Attax Squadzone-sett 1–24»",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479040564",
-      "funnet": "2026-10-18T16:32:21.806653+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
