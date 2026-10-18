@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T17:52:21.036450+00:00",
+  "sist_sjekket": "2026-10-18T17:54:14.920126+00:00",
   "funn": [
+    {
+      "tittel": "Div Pokemon kort selges",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479049401",
+      "funnet": "2026-10-18T17:54:14.918947+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Bidoof 059/078 - Pokemon Go",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479029778",
       "funnet": "2026-10-18T15:00:58.209412+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort fra forskjellige serier.",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479017079",
-      "funnet": "2026-10-18T15:00:57.472961+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
