@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T20:26:16.744200+00:00",
+  "sist_sjekket": "2026-10-18T20:28:18.293634+00:00",
   "funn": [
+    {
+      "tittel": "Mew EX MEW/151 Hyper Rare 205/165",
+      "pris": 525,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479062891",
+      "funnet": "2026-10-18T20:28:18.291878+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Future Stars fotballkort – samling med spillere",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T18:26:15.299775+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort topps vintage",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/459140404",
-      "funnet": "2026-10-18T18:22:16.947860+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
