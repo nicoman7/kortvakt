@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T18:06:19.574739+00:00",
+  "sist_sjekket": "2026-10-18T18:08:14.784684+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-10-18T18:08:14.782847+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort SCP Portugal",
       "pris": 8,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T15:30:40.922564+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ninetales H19/H32 Holo – Aquapolis (2002/2003) Vintage pokemon",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478612438",
-      "funnet": "2026-10-18T15:30:40.149227+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
