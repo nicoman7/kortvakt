@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T07:16:13.804229+00:00",
+  "sist_sjekket": "2026-10-18T07:18:16.838461+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort lott",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478973324",
+      "funnet": "2026-10-18T07:18:16.836593+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Detective Pikachu samleperm med 6 kort (holo)",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478963962",
       "funnet": "2026-10-17T20:18:18.765603+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Boss’s Orders japansk trenerkort",
-      "pris": 26,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478963897",
-      "funnet": "2026-10-17T20:18:18.031533+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
