@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T18:20:25.338558+00:00",
+  "sist_sjekket": "2026-10-18T18:22:16.949137+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort topps vintage",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459140404",
+      "funnet": "2026-10-18T18:22:16.947860+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mange ulike pokemonkort - åpen for trades! (salg på enkelte)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
+      "funnet": "2026-10-18T18:22:16.125595+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Finest UCC 25-26 Oliver Giroud auto /25",
       "pris": 385,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476677818",
       "funnet": "2026-10-18T16:08:14.474422+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mawile GX kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479037005",
-      "funnet": "2026-10-18T16:02:16.242115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NYE PRISER! Masse sealed pokemon selges!",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478643042",
-      "funnet": "2026-10-18T16:02:15.459249+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
