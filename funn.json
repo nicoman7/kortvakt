@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T10:04:15.790539+00:00",
+  "sist_sjekket": "2026-10-18T10:06:15.671289+00:00",
   "funn": [
+    {
+      "tittel": "Gamle fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478989222",
+      "funnet": "2026-10-18T10:06:15.669457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort 25th celebrations",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478966032",
       "funnet": "2026-10-18T07:20:24.148471+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Zapdos Fossil",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478973893",
-      "funnet": "2026-10-18T07:20:23.576292+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
