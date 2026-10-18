@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T12:16:20.000889+00:00",
+  "sist_sjekket": "2026-10-18T12:18:17.728036+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort til salgs vintage",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479000194",
+      "funnet": "2026-10-18T12:18:17.725893+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mew Legend Maker 10/92 (2006)",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T09:54:16.417114+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions mini tins",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478987530",
-      "funnet": "2026-10-18T09:52:17.191482+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
