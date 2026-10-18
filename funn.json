@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T22:24:16.263004+00:00",
+  "sist_sjekket": "2026-10-18T22:26:16.831915+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering 75 foil kort (gratis frakt!)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479037394",
+      "funnet": "2026-10-18T22:26:16.829972+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Semi vintage kort selges!",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479067088",
+      "funnet": "2026-10-18T22:26:15.951235+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Magic the Gathering 150 foil kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477280695",
       "funnet": "2026-10-18T19:10:26.276128+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - engelsk & japansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
-      "funnet": "2026-10-18T19:08:14.653141+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort - Litwick",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474933345",
-      "funnet": "2026-10-18T19:06:18.178101+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
