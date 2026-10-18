@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T17:00:54.036098+00:00",
+  "sist_sjekket": "2026-10-18T17:02:15.912654+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling Charizard mynter 3 permer",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479043998",
+      "funnet": "2026-10-18T17:02:15.911409+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charmeleon 009/078 - Pokemon Go",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479043973",
+      "funnet": "2026-10-18T17:02:15.067406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479020932",
       "funnet": "2026-10-18T14:08:15.554062+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Scarlet & Violet White Flare Booster Bundle kortpakker",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479022853",
-      "funnet": "2026-10-18T14:08:14.790569+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cubone 60/113 – EX Delta Species 2005 | Pokémonkort",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479022588",
-      "funnet": "2026-10-18T14:06:15.628261+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
