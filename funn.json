@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T13:18:18.476344+00:00",
+  "sist_sjekket": "2026-10-18T13:20:25.092563+00:00",
   "funn": [
+    {
+      "tittel": "Alolan Raticate 042 fra Pokemon GO",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479016435",
+      "funnet": "2026-10-18T13:20:25.090765+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Alolan Raticate 042 fra Pokemon GO",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479016542",
+      "funnet": "2026-10-18T13:20:24.515993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pupitar 038 fra Pokemon GO",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-18T11:02:16.832744+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charizard VSTAR SWSH262",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478996669",
-      "funnet": "2026-10-18T11:00:55.166078+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Gengar Holo fra Fossil",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478996427",
-      "funnet": "2026-10-18T11:00:54.355619+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
