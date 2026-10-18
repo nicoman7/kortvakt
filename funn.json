@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T14:48:17.202478+00:00",
+  "sist_sjekket": "2026-10-18T14:50:23.388323+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479027050",
+      "funnet": "2026-10-18T14:50:23.386537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Pikachu 1-30",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479015951",
       "funnet": "2026-10-18T13:36:15.660820+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Unfezant 063 fra Pokemon GO",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479018253",
-      "funnet": "2026-10-18T13:34:19.191477+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
