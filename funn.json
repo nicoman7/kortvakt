@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T09:36:18.106838+00:00",
+  "sist_sjekket": "2026-10-18T09:38:15.714083+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478985694",
+      "funnet": "2026-10-18T09:38:15.712670+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering 200 foil kort (gratis frakt!)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478985797",
+      "funnet": "2026-10-18T09:38:14.864287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Archetype Cards – Caroline Myss – komplett kortstokk med guidebok",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478969489",
       "funnet": "2026-10-18T00:06:17.246332+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th - Diverse SIR, IR, Classic, EX til salgs",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969404",
-      "funnet": "2026-10-17T23:50:25.773715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30TH booster bundle, 10 stk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969341",
-      "funnet": "2026-10-17T23:42:17.434212+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
