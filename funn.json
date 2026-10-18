@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T08:14:16.083661+00:00",
+  "sist_sjekket": "2026-10-18T08:16:15.257373+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling og tilbehør",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478977450",
+      "funnet": "2026-10-18T08:16:15.255332+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Mini Tin - forseglet",
       "pris": 340,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478966685",
       "funnet": "2026-10-17T21:26:15.016365+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ønsker å bytte Charizard 30th mot Lugia 30th",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478966705",
-      "funnet": "2026-10-17T21:26:14.422395+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
