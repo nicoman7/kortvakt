@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T18:34:15.439510+00:00",
+  "sist_sjekket": "2026-10-18T18:36:15.878019+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Nani Portugal",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478997315",
+      "funnet": "2026-10-18T18:36:15.876018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Harry Kane samlekort fotball 4 stk",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478994316",
+      "funnet": "2026-10-18T18:36:15.578550+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort",
       "pris": 1234,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479039902",
       "funnet": "2026-10-18T16:28:17.592302+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort holo og full art",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479040387",
-      "funnet": "2026-10-18T16:28:16.806591+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Lefeon Vstar Japanese",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479039857",
-      "funnet": "2026-10-18T16:24:14.190115+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
