@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T20:10:26.328518+00:00",
+  "sist_sjekket": "2026-10-18T20:12:17.805289+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon diverse hit selges samlet",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479061499",
+      "funnet": "2026-10-18T20:12:17.803729+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon tcg 30th celebration - single kort - gratis frakt",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479051387",
       "funnet": "2026-10-18T18:18:17.270327+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ace 10 Mega Gengar EX Pokémon-kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479051611",
-      "funnet": "2026-10-18T18:16:19.251428+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
