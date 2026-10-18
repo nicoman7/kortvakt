@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T21:38:14.148782+00:00",
+  "sist_sjekket": "2026-10-18T21:40:25.364031+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling med kort, samleboks og pokeball",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479065924",
+      "funnet": "2026-10-18T21:40:25.362197+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration samleboks 2 stk",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479056376",
       "funnet": "2026-10-18T19:04:15.005545+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "❗️TILBUD!!!❗️42 POKÉMONKORT FRA 63 KR 6 HOLO/REVERSE + 2 EX ELLER BEDRE POKEMON",
-      "pris": 63,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
-      "funnet": "2026-10-18T19:04:14.780714+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
