@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T11:50:28.170348+00:00",
+  "sist_sjekket": "2026-10-18T11:52:16.574091+00:00",
   "funn": [
+    {
+      "tittel": "Match Attax fotballkort samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479002097",
+      "funnet": "2026-10-18T11:52:16.572297+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Hits",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478983232",
       "funnet": "2026-10-18T09:18:14.758481+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
-      "funnet": "2026-10-18T09:16:15.780194+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
