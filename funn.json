@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-18T14:28:16.229569+00:00",
+  "sist_sjekket": "2026-10-18T14:30:44.604152+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479025865",
+      "funnet": "2026-10-18T14:30:44.602311+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479026033",
+      "funnet": "2026-10-18T14:30:44.209916+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Gengar",
       "pris": 750,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-10-18T13:30:44.496626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras 131/128 - Pokemon 30th Anniversary",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479016840",
-      "funnet": "2026-10-18T13:28:20.740410+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hop's Trevenant #204 Pokemon Japanese Mega Dream ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479016133",
-      "funnet": "2026-10-18T13:28:19.875880+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
