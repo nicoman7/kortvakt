@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-18T09:24:22.743539+00:00",
+  "sist_sjekket": "2026-10-18T09:26:18.771674+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478984270",
+      "funnet": "2026-10-18T09:26:18.770384+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "The Destiny Tarot – komplett kortstokk med bok",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478984174",
+      "funnet": "2026-10-18T09:26:18.089306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Misty’s Shellder - Gym Heroes - Pokemon",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478984342",
+      "funnet": "2026-10-18T09:26:17.274755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: the Gathering 100 foil kort (gratis frakt!)",
       "pris": 175,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-10-17T23:18:16.595390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Forge of the fluft uncommon foil Riftbound samlekort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969148",
-      "funnet": "2026-10-17T23:16:18.694814+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #41 Pokemon 30th Celebration (19/30)",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969133",
-      "funnet": "2026-10-17T23:16:18.118617+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Emperor’s Dais uncommon foil Riftbound samlekort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969161",
-      "funnet": "2026-10-17T23:16:17.558111+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
