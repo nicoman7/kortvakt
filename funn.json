@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T09:14:15.060766+00:00",
+  "sist_sjekket": "2026-10-18T09:16:15.782012+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
+      "funnet": "2026-10-18T09:16:15.780194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "8 ekte Pokémon EX / VMAX samlekort – selges samlet",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478969094",
       "funnet": "2026-10-17T23:08:20.708304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #26 Pokemon 30th Celebration (04/30)",
-      "pris": 22,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478969049",
-      "funnet": "2026-10-17T23:08:19.919509+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
