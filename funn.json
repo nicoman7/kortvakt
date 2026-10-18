@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T18:46:14.114675+00:00",
+  "sist_sjekket": "2026-10-18T18:48:16.868349+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort alle nummererte",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479054789",
+      "funnet": "2026-10-18T18:48:16.866341+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort samling selges",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-10-18T16:38:16.271845+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Finest Premier League Morgan Gibbs-White kort 80/99",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479040718",
-      "funnet": "2026-10-18T16:32:22.348063+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
