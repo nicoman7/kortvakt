@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T23:30:44.712132+00:00",
+  "sist_sjekket": "2026-10-18T23:32:14.942435+00:00",
   "funn": [
+    {
+      "tittel": "Div Pokemonkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479067601",
+      "funnet": "2026-10-18T23:32:14.940465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort – EX / GX / holo og vanlige kort",
       "pris": 123,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476737562",
       "funnet": "2026-10-18T19:12:18.792184+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 signatur gullkort kickerz",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477022653",
-      "funnet": "2026-10-18T19:10:33.597535+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
