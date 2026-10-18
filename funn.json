@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-18T21:04:14.798207+00:00",
+  "sist_sjekket": "2026-10-18T21:06:17.036015+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
+      "funnet": "2026-10-18T21:06:17.034783+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gardevoir 156",
       "pris": 750,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479055464",
       "funnet": "2026-10-18T18:54:19.470896+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Åpnet Pokemon Mega Charizard EX Ultra Premium Collection",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479055595",
-      "funnet": "2026-10-18T18:54:18.659406+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
