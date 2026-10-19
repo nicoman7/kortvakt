@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T08:52:18.263134+00:00",
+  "sist_sjekket": "2026-10-19T08:54:14.428707+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samleperm med kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479078512",
+      "funnet": "2026-10-19T08:54:14.426830+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kort til Sivert",
       "pris": 1100,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479061650",
       "funnet": "2026-10-18T20:08:17.153219+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort bunt",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479061600",
-      "funnet": "2026-10-18T20:06:16.313416+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
