@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T14:02:16.671806+00:00",
+  "sist_sjekket": "2026-10-19T14:04:17.072981+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering 100 foil kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479103541",
+      "funnet": "2026-10-19T14:04:17.071588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th tins x 3 stk",
+      "pris": 1947,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479103186",
+      "funnet": "2026-10-19T14:04:16.716719+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration Hits",
       "pris": 999,
@@ -1182,22 +1198,6 @@
       "pris": 249,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479094211",
       "funnet": "2026-10-19T12:10:24.920193+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Walking Wake ex 189/162 - Pokemon Temporal Forces",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479094330",
-      "funnet": "2026-10-19T12:10:24.629025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Walking Wake ex 094/071 SAR - Pokemon Japanese Wild Force",
-      "pris": 325,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479094422",
-      "funnet": "2026-10-19T12:10:24.045580+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
