@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T14:16:20.498977+00:00",
+  "sist_sjekket": "2026-10-19T14:18:17.519568+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479104251",
+      "funnet": "2026-10-19T14:18:17.517690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topp's Chewing Gum Inc. Fotballkort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479094884",
       "funnet": "2026-10-19T12:16:20.375154+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengar ex 088/071 SR - Pokemon Japanese Wild Force",
-      "pris": 375,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479094763",
-      "funnet": "2026-10-19T12:16:16.338056+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
