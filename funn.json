@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T16:02:15.453875+00:00",
+  "sist_sjekket": "2026-10-19T16:04:16.709646+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479113224",
+      "funnet": "2026-10-19T16:04:16.707931+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SERPERIOR EX #3 HOLO DOUBLE RARE",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 699,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479099705",
       "funnet": "2026-10-19T13:14:18.621167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Crystal Gathering – Eevee Collectible Tin",
-      "pris": 259,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099758",
-      "funnet": "2026-10-19T13:14:17.944384+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
