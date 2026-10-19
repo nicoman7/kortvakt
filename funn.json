@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T21:30:40.724099+00:00",
+  "sist_sjekket": "2026-10-19T21:32:16.719111+00:00",
   "funn": [
+    {
+      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
+      "funnet": "2026-10-19T21:32:16.717462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 2000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T19:10:28.123995+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 9 & CGC 10 Graderte Pokemon kort",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477621294",
-      "funnet": "2026-10-19T19:10:27.694885+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
