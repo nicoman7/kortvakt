@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T05:50:23.853948+00:00",
+  "sist_sjekket": "2026-10-19T05:52:17.209706+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Growlithe og Sandshrew",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479069924",
+      "funnet": "2026-10-19T05:52:17.207721+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome basketballkort – Coen Murray-Boyles autograf 73/99",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T19:20:33.436483+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon First Partner series 3 - Paldea",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474386703",
-      "funnet": "2026-10-18T19:20:32.567916+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
