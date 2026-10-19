@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T18:38:18.535652+00:00",
+  "sist_sjekket": "2026-10-19T18:40:29.565521+00:00",
   "funn": [
+    {
+      "tittel": "STRAY KIDS DO IT 'IT' VER MEDLEM STOR KORT",
+      "pris": 22,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/463875823",
+      "funnet": "2026-10-19T18:40:29.563938+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon samling i Battle Styles-perm med kort",
       "pris": 650,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479113224",
       "funnet": "2026-10-19T16:04:16.707931+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SERPERIOR EX #3 HOLO DOUBLE RARE",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479112137",
-      "funnet": "2026-10-19T16:02:15.452021+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
