@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T23:02:23.858928+00:00",
+  "sist_sjekket": "2026-10-19T23:04:14.765773+00:00",
   "funn": [
+    {
+      "tittel": "Rockruff samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479122543",
+      "funnet": "2026-10-19T23:04:14.764303+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Latios/Latias samling",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478753994",
       "funnet": "2026-10-19T19:30:44.659468+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort: The Phantom - Fantomet i signert original pakning.",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/359307183",
-      "funnet": "2026-10-19T19:30:44.205476+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
