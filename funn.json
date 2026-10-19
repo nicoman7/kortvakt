@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-19T20:26:15.121989+00:00",
+  "sist_sjekket": "2026-10-19T20:28:22.882139+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort Trainer",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479134830",
+      "funnet": "2026-10-19T20:28:22.880565+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon-kort Trainer Super potion",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479135008",
+      "funnet": "2026-10-19T20:28:22.099119+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle",
+      "pris": 599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479134942",
+      "funnet": "2026-10-19T20:28:21.267135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon-kort Trainer Super Rod",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479135058",
+      "funnet": "2026-10-19T20:28:20.881416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Rhyhorn",
       "pris": 19,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-19T18:42:15.812632+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Charizard Vstar VSTAR Universe Ultra Rare 014/172 Japansk",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479122540",
-      "funnet": "2026-10-19T18:42:15.023328+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STRAY KIDS DO IT 'IT' VER MEDLEM STOR KORT",
-      "pris": 22,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463875823",
-      "funnet": "2026-10-19T18:40:29.563938+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samling i Battle Styles-perm med kort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479126606",
-      "funnet": "2026-10-19T18:38:18.533823+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu ex 149/128 30th",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479126509",
-      "funnet": "2026-10-19T18:38:18.077613+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
