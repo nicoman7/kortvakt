@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T06:12:15.873792+00:00",
+  "sist_sjekket": "2026-10-19T06:14:21.234634+00:00",
   "funn": [
+    {
+      "tittel": "Simon kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479070305",
+      "funnet": "2026-10-19T06:14:21.232267+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Growlithe og Sandshrew",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T19:20:33.749533+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebrations samlebokser / tins",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476999258",
-      "funnet": "2026-10-18T19:20:33.436483+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
