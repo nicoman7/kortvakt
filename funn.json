@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-19T15:58:17.549742+00:00",
+  "sist_sjekket": "2026-10-19T16:00:57.938518+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort kom med bud",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479107858",
+      "funnet": "2026-10-19T16:00:57.936871+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Nostalgiske LSK / Tippeligaen fotballkort (GAME 1995/1996) – 15 stk samlet",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479112499",
+      "funnet": "2026-10-19T16:00:57.102969+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 20th Anniversary Poster Collection samleboks",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479112892",
+      "funnet": "2026-10-19T16:00:56.203785+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
+      "funnet": "2026-10-19T16:00:55.320679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard 4/102 – Pokémon 30th Anniversary Holo",
       "pris": 2000,
@@ -1166,38 +1198,6 @@
       "pris": 259,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479099752",
       "funnet": "2026-10-19T13:14:17.298317+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Phantasmal Flames Booster Bundle",
-      "pris": 1249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099685",
-      "funnet": "2026-10-19T13:14:16.999388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Crystal Gathering - Booster Box",
-      "pris": 1089,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099726",
-      "funnet": "2026-10-19T13:14:16.363515+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon  Collect 151 Gathering - SLIM Booster Pack",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099762",
-      "funnet": "2026-10-19T13:14:15.683316+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Crystal Gathering - Booster Pack",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099760",
-      "funnet": "2026-10-19T13:14:15.074053+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
