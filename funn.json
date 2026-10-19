@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T09:52:18.938931+00:00",
+  "sist_sjekket": "2026-10-19T09:54:15.056180+00:00",
   "funn": [
+    {
+      "tittel": "Fotball kort til salgs på bilig pris",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/450957441",
+      "funnet": "2026-10-19T09:54:15.054089+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome Havoc Marks kort Scotty Pippen Jr 31/75",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479083100",
+      "funnet": "2026-10-19T09:54:14.713186+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League fotballkort Furo autograf 15/50",
       "pris": 750,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-18T22:04:20.650648+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Destiny HERO - Dogma [Ultimate Rare 1st Edition] POTD-EN014",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479066479",
-      "funnet": "2026-10-18T22:02:18.970219+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragonite 90 - Pokemon (DMG)",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479066658",
-      "funnet": "2026-10-18T22:02:18.118390+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
