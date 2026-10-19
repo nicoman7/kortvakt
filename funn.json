@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T18:46:17.843372+00:00",
+  "sist_sjekket": "2026-10-19T18:48:19.409831+00:00",
   "funn": [
+    {
+      "tittel": "Samleperm med fotballkort Limited Edition og stjernekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479126584",
+      "funnet": "2026-10-19T18:48:19.407599+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟Pakker med ekstra mye glins! EX-kort + 10 holo garantert!🌟",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479113744",
       "funnet": "2026-10-19T16:14:15.795853+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "KYUREM EX #31 HOLO DOUBLE RARE",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479113300",
-      "funnet": "2026-10-19T16:12:20.750399+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
