@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T16:46:18.931494+00:00",
+  "sist_sjekket": "2026-10-19T16:48:19.817481+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort",
+      "pris": 990,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479116662",
+      "funnet": "2026-10-19T16:48:19.815833+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – 12 kort fra 2005 - EX Emerald",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479101024",
       "funnet": "2026-10-19T13:32:19.020936+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-19T13:32:18.284680+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
