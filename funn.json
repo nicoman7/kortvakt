@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T10:02:17.734320+00:00",
+  "sist_sjekket": "2026-10-19T10:04:15.658480+00:00",
   "funn": [
+    {
+      "tittel": "Rocco Reitz Auto 18/75 – Topps Gold Bundesliga 25/26",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479083818",
+      "funnet": "2026-10-19T10:04:15.656792+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Clutch Gene basketballkort Stephen Curry",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479083845",
+      "funnet": "2026-10-19T10:04:15.088102+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Jae’Sean Tate Phoenix Suns basketballkort 55/75",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-18T22:26:15.951235+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Magic the Gathering 150 foil kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479038824",
-      "funnet": "2026-10-18T22:24:16.260937+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Elemental HERO Aqua Neos [Ultimate Rare 1st Edition] POTD-EN031 yugioh",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479066799",
-      "funnet": "2026-10-18T22:08:16.526446+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
