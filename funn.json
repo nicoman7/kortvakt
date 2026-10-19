@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T19:56:17.721441+00:00",
+  "sist_sjekket": "2026-10-19T19:58:18.735002+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Zapdos japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479133031",
+      "funnet": "2026-10-19T19:58:18.733123+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Sentret",
       "pris": 19,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T18:22:17.220408+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
-      "funnet": "2026-10-19T18:22:16.823646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
