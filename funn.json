@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T06:52:18.021812+00:00",
+  "sist_sjekket": "2026-10-19T06:54:14.615793+00:00",
   "funn": [
+    {
+      "tittel": "Disney Lorcana kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479071498",
+      "funnet": "2026-10-19T06:54:14.613383+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana samlekort Serie 8",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T19:24:17.785876+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Chaos Rising og Perfect Order Sleeved Booster Blister Pack",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479057883",
-      "funnet": "2026-10-18T19:24:16.929920+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
