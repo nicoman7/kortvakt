@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T16:08:17.171850+00:00",
+  "sist_sjekket": "2026-10-19T16:10:28.191045+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 30th celebrations - plukk & mix",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479113092",
+      "funnet": "2026-10-19T16:10:28.189299+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478680748",
+      "funnet": "2026-10-19T16:10:27.335716+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Booster Bundle",
       "pris": 950,
@@ -1182,22 +1198,6 @@
       "pris": 259,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479099794",
       "funnet": "2026-10-19T13:16:17.400186+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Journey Together Booster Bundle",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099665",
-      "funnet": "2026-10-19T13:14:20.230308+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Bundle",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099636",
-      "funnet": "2026-10-19T13:14:19.649702+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
