@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T08:50:23.802139+00:00",
+  "sist_sjekket": "2026-10-19T08:52:18.263134+00:00",
   "funn": [
+    {
+      "tittel": "Kort til Sivert",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479078276",
+      "funnet": "2026-10-19T08:52:18.261217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Black & White Elite Trainer Box Black & Blue",
       "pris": 1750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479061600",
       "funnet": "2026-10-18T20:06:16.313416+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Italia 90 World Cup klistremerkealbum fotball",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479061545",
-      "funnet": "2026-10-18T20:06:15.552860+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
