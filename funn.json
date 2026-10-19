@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-19T09:42:16.926151+00:00",
+  "sist_sjekket": "2026-10-19T09:44:15.626345+00:00",
   "funn": [
+    {
+      "tittel": "Topps Luke Kitching fotballkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479082369",
+      "funnet": "2026-10-19T09:44:15.625142+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Booster Bundle",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479082302",
+      "funnet": "2026-10-19T09:44:15.303768+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps fotballkort Mason-Clark",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479082432",
+      "funnet": "2026-10-19T09:44:14.628439+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Future Stars fotballkort Joel Drakes-Thomas Crystal Palace",
       "pris": 30,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479066105",
       "funnet": "2026-10-18T21:42:19.101641+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling med kort, samleboks og pokeball",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479065924",
-      "funnet": "2026-10-18T21:40:25.362197+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration samleboks 2 stk",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479065933",
-      "funnet": "2026-10-18T21:36:19.570382+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-10-18T21:36:19.139894+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
