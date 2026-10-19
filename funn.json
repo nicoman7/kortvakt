@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T12:46:18.677900+00:00",
+  "sist_sjekket": "2026-10-19T12:48:15.499549+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479097613",
+      "funnet": "2026-10-19T12:48:15.497666+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Sylveon EX kort – XY Generations 119/116 holo",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479096967",
+      "funnet": "2026-10-19T12:48:14.745867+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Claudio Pizarro Topps FC Bayern Lineage #33 Legends 2025-26",
       "pris": 35,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-19T10:28:18.126890+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Future Stars fotballkort – samling med spillere",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478729452",
-      "funnet": "2026-10-19T10:28:17.160668+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Panini Pitch Kings Legacy Portrait Autograph Kily Gonzalez Valencia",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479085699",
-      "funnet": "2026-10-19T10:26:17.388354+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
