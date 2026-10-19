@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T05:26:17.452141+00:00",
+  "sist_sjekket": "2026-10-19T05:28:20.457568+00:00",
   "funn": [
+    {
+      "tittel": "Topps fotballkort Lionel Messi Argentina",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479069617",
+      "funnet": "2026-10-19T05:28:20.455945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner Illustration Collection Series 2 og 3 samlekort",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-18T19:20:30.840885+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Celebi 70 HP",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477534935",
-      "funnet": "2026-10-18T19:20:30.482357+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
