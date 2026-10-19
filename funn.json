@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T10:26:17.390446+00:00",
+  "sist_sjekket": "2026-10-19T10:28:18.128504+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokémon jumbo kort selges enkeltvis eller samlet",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479085270",
+      "funnet": "2026-10-19T10:28:18.126890+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Future Stars fotballkort – samling med spillere",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478729452",
+      "funnet": "2026-10-19T10:28:17.160668+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Panini Pitch Kings Legacy Portrait Autograph Kily Gonzalez Valencia",
       "pris": 175,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/409434448",
       "funnet": "2026-10-19T00:08:15.368158+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort Premier League holografiske",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478730668",
-      "funnet": "2026-10-18T23:44:14.552148+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div Pokemonkort",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479067601",
-      "funnet": "2026-10-18T23:32:14.940465+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
