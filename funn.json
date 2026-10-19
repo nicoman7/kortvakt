@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T07:26:16.285604+00:00",
+  "sist_sjekket": "2026-10-19T07:28:16.294195+00:00",
   "funn": [
+    {
+      "tittel": "pokemon cards, ex - rr - ++",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479071754",
+      "funnet": "2026-10-19T07:28:16.292487+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon ascended heroes ex kort",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479072856",
+      "funnet": "2026-10-19T07:28:15.480105+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON | TEAL MASK OGERPON EX | PSA 9 | PRISMATIC EVOLUTIONS",
       "pris": 595,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-18T19:26:20.834143+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Team Magma’s Houndoom holo",
-      "pris": 525,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479058001",
-      "funnet": "2026-10-18T19:26:20.518783+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Håndmalt pokemon snorlax binder",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478010373",
-      "funnet": "2026-10-18T19:26:20.165306+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
