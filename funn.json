@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T22:54:15.503741+00:00",
+  "sist_sjekket": "2026-10-19T22:56:15.382231+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort av Shibuzoh og sowsow",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479139012",
+      "funnet": "2026-10-19T22:56:15.380357+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort fra Yuka Morii, Sachiko Adachi og Asaka Ito + Tayu",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T19:26:18.414748+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer-kort – Selges enkeltvis eller samlet",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478794304",
-      "funnet": "2026-10-19T19:26:18.088792+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
