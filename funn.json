@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-19T11:58:30.245256+00:00",
+  "sist_sjekket": "2026-10-19T12:00:59.507629+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479093137",
+      "funnet": "2026-10-19T12:00:59.506473+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Morpeko 135/128 - Pokemon 30th Celebration",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479093605",
+      "funnet": "2026-10-19T12:00:58.677461+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mew ex 158/128 - Pokemon 30th Celebration",
+      "pris": 565,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479093512",
+      "funnet": "2026-10-19T12:00:57.863964+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Japanske Booster Bokser",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
+      "funnet": "2026-10-19T12:00:57.013169+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew Ex 152/128 - Pokemon 30th Celebration",
       "pris": 900,
@@ -1166,38 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478703554",
       "funnet": "2026-10-19T08:26:14.705165+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Jack Rudoni fotballkort Premier League",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479076182",
-      "funnet": "2026-10-19T08:22:20.149393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th ETB, Uåpnet/Sealed",
-      "pris": 1690,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479076151",
-      "funnet": "2026-10-19T08:22:19.312894+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Elia Simms fotballkort Coventry City",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479076238",
-      "funnet": "2026-10-19T08:22:18.456236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League fotballkort Haji Wright Coventry City",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479076132",
-      "funnet": "2026-10-19T08:20:25.938057+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
