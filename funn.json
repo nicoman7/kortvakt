@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T18:14:51.726740+00:00",
+  "sist_sjekket": "2026-10-19T18:16:16.684244+00:00",
   "funn": [
+    {
+      "tittel": "STRAY KIDS FOTOKORT(film strip)",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468238294",
+      "funnet": "2026-10-19T18:16:16.682229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479110040",
       "funnet": "2026-10-19T15:28:46.239820+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Shining Rayquaza kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479109437",
-      "funnet": "2026-10-19T15:26:14.858520+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
