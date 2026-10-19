@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T18:12:24.733381+00:00",
+  "sist_sjekket": "2026-10-19T18:14:51.726740+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479124598",
+      "funnet": "2026-10-19T18:14:51.724725+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Tech Sticker Collection",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479124353",
+      "funnet": "2026-10-19T18:14:50.872879+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th kort",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479109437",
       "funnet": "2026-10-19T15:26:14.858520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon GX/EX/Trainer kort – samling med holo og full art",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479109532",
-      "funnet": "2026-10-19T15:22:26.251264+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort BGS 9 Marshadow",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479109452",
-      "funnet": "2026-10-19T15:22:25.423241+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
