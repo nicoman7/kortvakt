@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-19T23:06:14.844389+00:00",
+  "sist_sjekket": "2026-10-19T23:08:15.626495+00:00",
   "funn": [
+    {
+      "tittel": "Tinkatink samling",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479122694",
+      "funnet": "2026-10-19T23:08:15.624608+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "RESERVERT - Pokemon kort - 6 AR kort fra 30th Celebration Japansk",
+      "pris": 560,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479139113",
+      "funnet": "2026-10-19T23:08:15.268185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japanske pokémon kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477350925",
       "funnet": "2026-10-19T19:30:46.608024+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wolverine #30  /99 – Topps Marvel Brooklyn Collection 2026",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479130182",
-      "funnet": "2026-10-19T19:30:46.221654+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Ampharos ex 89/97 - EX Dragon",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476733111",
-      "funnet": "2026-10-19T19:30:45.418971+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
