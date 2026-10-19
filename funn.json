@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T11:08:13.909905+00:00",
+  "sist_sjekket": "2026-10-19T11:10:24.065999+00:00",
   "funn": [
+    {
+      "tittel": "pokemon card, ☆-☆☆-ex-rr-++",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479088416",
+      "funnet": "2026-10-19T11:10:24.064180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: the Gathering 1000 kort",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479073663",
       "funnet": "2026-10-19T07:44:16.840441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ex kort fra chaos rising",
-      "pris": 240,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479073218",
-      "funnet": "2026-10-19T07:32:14.690591+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
