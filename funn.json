@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T18:58:23.333580+00:00",
+  "sist_sjekket": "2026-10-19T19:01:01.363274+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Selges samlet",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479128547",
+      "funnet": "2026-10-19T19:01:01.361765+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Palkia LV.X 90 HP",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/418771398",
       "funnet": "2026-10-19T16:28:22.848299+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Anaheim Ducks hockeykort (NHL)",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478922340",
-      "funnet": "2026-10-19T16:26:26.348472+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
