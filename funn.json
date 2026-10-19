@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-19T16:12:20.752114+00:00",
+  "sist_sjekket": "2026-10-19T16:14:15.797136+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30 Anniversary Celebration bundles",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479113744",
+      "funnet": "2026-10-19T16:14:15.795853+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "KYUREM EX #31 HOLO DOUBLE RARE",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T13:16:18.993598+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort hits 30th celebration",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479099601",
-      "funnet": "2026-10-19T13:16:18.656152+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
