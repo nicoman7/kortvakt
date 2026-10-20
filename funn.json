@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T10:18:19.100786+00:00",
+  "sist_sjekket": "2026-10-20T10:20:34.493648+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479156786",
+      "funnet": "2026-10-20T10:20:34.491500+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon-kort pakke (NM) - Samtlige \"Commons\" fra S&V 151 japansk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479156049",
+      "funnet": "2026-10-20T10:20:30.518441+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Japansk (JP) - Pikachu - komplett sett - 30/30 kort",
       "pris": 700,
@@ -1182,22 +1198,6 @@
       "pris": 799,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479138115",
       "funnet": "2026-10-19T21:54:16.004439+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478627690",
-      "funnet": "2026-10-19T21:52:18.190675+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon celebration 30th metallboks Sylveon EX og Greninja EX",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479138054",
-      "funnet": "2026-10-19T21:50:23.799995+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
