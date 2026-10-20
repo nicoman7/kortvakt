@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T06:38:17.270915+00:00",
+  "sist_sjekket": "2026-10-20T06:40:25.054527+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479142758",
+      "funnet": "2026-10-20T06:40:25.052566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Nidoking 11/102",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479142749",
+      "funnet": "2026-10-20T06:40:24.769679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Chansey 3/102",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479132174",
       "funnet": "2026-10-19T19:48:20.159156+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "15 Telekort Norske alle forskjellige.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131537",
-      "funnet": "2026-10-19T19:44:19.615521+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thierry Henry - Topps Crystal Premium - Arsenal",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131870",
-      "funnet": "2026-10-19T19:44:18.998598+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
