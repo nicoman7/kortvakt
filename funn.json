@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-20T09:44:31.574970+00:00",
+  "sist_sjekket": "2026-10-20T09:46:27.400082+00:00",
   "funn": [
+    {
+      "tittel": "Ny Pokemon Toploader samleperm (4 kort)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479154079",
+      "funnet": "2026-10-20T09:46:27.398132+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Håndmalt pokemon Mew toploader binder",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479154043",
+      "funnet": "2026-10-20T09:46:23.807387+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479153866",
+      "funnet": "2026-10-20T09:46:20.077021+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Håndmalt Pokemon Dragonite toploader binder",
       "pris": 1600,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-19T21:16:17.215521+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort kinesiske  med masterball",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479136880",
-      "funnet": "2026-10-19T21:12:19.029244+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morpeko #135 Pokemon 30th Celebration",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479136877",
-      "funnet": "2026-10-19T21:12:18.642247+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Articuno #132 Pokemon 30th Celebration",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479136963",
-      "funnet": "2026-10-19T21:12:17.728302+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
