@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T20:48:19.909471+00:00",
+  "sist_sjekket": "2026-10-20T20:50:28.283980+00:00",
   "funn": [
+    {
+      "tittel": "Mangler 30th pikachu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479205568",
+      "funnet": "2026-10-20T20:50:28.282320+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Umbreon EX PSA 10-slabbet samlekort",
       "pris": 1600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/376191964",
       "funnet": "2026-10-20T19:12:23.865431+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Vaporeon holo Jungle 1999 PSA 5",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479199475",
-      "funnet": "2026-10-20T19:12:23.416628+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
