@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T05:16:15.707951+00:00",
+  "sist_sjekket": "2026-10-20T05:18:16.339794+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration perm",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479140988",
+      "funnet": "2026-10-20T05:18:16.337731+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "VM Kort Panini",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479140992",
+      "funnet": "2026-10-20T05:18:15.503315+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon binder Ditto",
       "pris": 674,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-19T19:34:18.894088+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon-kort Pikachu",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479130889",
-      "funnet": "2026-10-19T19:34:18.163667+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Machoke Pokemon-kort",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479130498",
-      "funnet": "2026-10-19T19:34:17.363318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
