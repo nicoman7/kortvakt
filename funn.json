@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T06:18:15.764418+00:00",
+  "sist_sjekket": "2026-10-20T06:20:24.322757+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479142198",
+      "funnet": "2026-10-20T06:20:24.321473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ivysaur holo",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 79,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
       "funnet": "2026-10-19T19:42:18.938181+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tangrowth LV.X #99",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131773",
-      "funnet": "2026-10-19T19:40:37.800645+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
