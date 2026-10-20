@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T06:56:16.345146+00:00",
+  "sist_sjekket": "2026-10-20T06:58:15.389387+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort japanske full art / VMAX / EX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143424",
+      "funnet": "2026-10-20T06:58:15.387497+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort Lumineon V alt art GG39/GG70",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143395",
+      "funnet": "2026-10-20T06:58:14.774324+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 13",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479131554",
       "funnet": "2026-10-19T19:52:15.821929+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort Poliwah",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131738",
-      "funnet": "2026-10-19T19:50:29.124044+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gengir (Gengar) Pokémon kort tegning",
-      "pris": 67,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131795",
-      "funnet": "2026-10-19T19:50:28.849282+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
