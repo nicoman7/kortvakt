@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T07:06:15.806442+00:00",
+  "sist_sjekket": "2026-10-20T07:08:22.565249+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 9",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143889",
+      "funnet": "2026-10-20T07:08:22.563154+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu nr 8",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143969",
+      "funnet": "2026-10-20T07:08:21.745803+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 30",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479132783",
       "funnet": "2026-10-19T19:56:17.719623+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu - Pokémon 30th Celebration Japansk (JP) - komplett sett - 30/30 kort",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478539555",
-      "funnet": "2026-10-19T19:54:16.753081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling med gamle pokemon kort",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479131332",
-      "funnet": "2026-10-19T19:52:19.040330+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
