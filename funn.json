@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T07:36:17.014925+00:00",
+  "sist_sjekket": "2026-10-20T07:38:15.806537+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 010/078 – Pokémon GO Reverse Holo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479145377",
+      "funnet": "2026-10-20T07:38:15.804948+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon GO – Originaltrioen – 3 Reverse Holo-kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T20:08:17.755456+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479133419",
-      "funnet": "2026-10-19T20:06:21.223949+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
