@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T11:06:18.397397+00:00",
+  "sist_sjekket": "2026-10-20T11:08:22.414267+00:00",
   "funn": [
+    {
+      "tittel": "one piece samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479160831",
+      "funnet": "2026-10-20T11:08:22.412466+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kayou Demon Slayer samle kort Nezuko",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479139027",
       "funnet": "2026-10-19T23:00:53.683077+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort av Shibuzoh og sowsow",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479139012",
-      "funnet": "2026-10-19T22:56:15.380357+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
