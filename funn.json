@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T13:26:18.874034+00:00",
+  "sist_sjekket": "2026-10-20T13:28:16.535161+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479172034",
+      "funnet": "2026-10-20T13:28:16.533229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 2025 TCG Julekalender",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479154079",
       "funnet": "2026-10-20T09:46:27.398132+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Håndmalt pokemon Mew toploader binder",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479154043",
-      "funnet": "2026-10-20T09:46:23.807387+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
