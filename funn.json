@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T10:20:34.493648+00:00",
+  "sist_sjekket": "2026-10-20T10:22:19.952126+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling (til salgs)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479157040",
+      "funnet": "2026-10-20T10:22:19.950106+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 16,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479138121",
       "funnet": "2026-10-19T21:54:16.408934+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Poster Collection samleboks",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479138115",
-      "funnet": "2026-10-19T21:54:16.004439+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
