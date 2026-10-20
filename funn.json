@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T11:50:27.151440+00:00",
+  "sist_sjekket": "2026-10-20T11:52:18.616762+00:00",
   "funn": [
+    {
+      "tittel": "Charizard EX Super Premium Collection samleboks",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479164502",
+      "funnet": "2026-10-20T11:52:18.615394+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Scarlet & Violet: Destined Rivals Elite Trainer Box (ETB)",
       "pris": 1398,
@@ -1190,14 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479141003",
       "funnet": "2026-10-20T06:24:16.271701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479142198",
-      "funnet": "2026-10-20T06:20:24.321473+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
