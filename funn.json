@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T15:01:06.138482+00:00",
+  "sist_sjekket": "2026-10-20T15:02:17.245974+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479176137",
+      "funnet": "2026-10-20T15:02:17.244190+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu Pakke (20 forskjellige) ⚡️ 30th Celebration Pokemon",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479160502",
       "funnet": "2026-10-20T11:02:22.604049+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 149/128",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479160393",
-      "funnet": "2026-10-20T11:00:55.693076+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
