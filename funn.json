@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T07:30:48.794176+00:00",
+  "sist_sjekket": "2026-10-20T07:32:16.916230+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon GO – Originaltrioen – 3 Reverse Holo-kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479145050",
+      "funnet": "2026-10-20T07:32:16.914562+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort – Liverpool Julekalender – 24 kort med Carvalho Rookie!",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T20:06:21.223949+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479133459",
-      "funnet": "2026-10-19T20:06:20.324475+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
