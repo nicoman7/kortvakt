@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T11:28:19.460502+00:00",
+  "sist_sjekket": "2026-10-20T11:30:44.953467+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort diverse spillere og lag",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479162796",
+      "funnet": "2026-10-20T11:30:44.951554+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon 30th celebration kort ink Pikachu ex",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479162627",
+      "funnet": "2026-10-20T11:30:44.682820+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Chrome TAKUMI MINAMINO /250 Pink Lava Refractor Monaco",
       "pris": 15,
@@ -1182,22 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-20T04:58:14.481944+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "27 Pokémon TCG V, GX, EX, VSTAR og Pikachu-kort selges samlet!",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479139981",
-      "funnet": "2026-10-20T02:34:16.751812+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "66 Japanske & Kinesiske Hits selges samlet! SWSH, S&V, MEGA",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479139962",
-      "funnet": "2026-10-20T02:30:41.048151+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
