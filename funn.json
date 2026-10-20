@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T19:04:16.719183+00:00",
+  "sist_sjekket": "2026-10-20T19:06:23.214759+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu samlekort – lot med 8 kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478111479",
+      "funnet": "2026-10-20T19:06:23.212674+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort Rocket’s Moltres holo Team Rocket 123/132",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479191217",
+      "funnet": "2026-10-20T19:06:22.255690+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pikachu Libre",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478612438",
       "funnet": "2026-10-20T16:36:18.517993+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – diverse kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479186871",
-      "funnet": "2026-10-20T16:34:18.433131+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Polémonkort - Ditto (charmander, geodude, bulbasaur)",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479186560",
-      "funnet": "2026-10-20T16:32:17.965119+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
