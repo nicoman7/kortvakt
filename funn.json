@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T06:54:15.712796+00:00",
+  "sist_sjekket": "2026-10-20T06:56:16.345146+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 13",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143303",
+      "funnet": "2026-10-20T06:56:16.343717+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 30",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 67,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479131795",
       "funnet": "2026-10-19T19:50:28.849282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Japanske Booster Bokser",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
-      "funnet": "2026-10-19T19:50:28.240480+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
