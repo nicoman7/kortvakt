@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T09:46:27.400082+00:00",
+  "sist_sjekket": "2026-10-20T09:48:17.809371+00:00",
   "funn": [
+    {
+      "tittel": "Masse energi kort pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437855064",
+      "funnet": "2026-10-20T09:48:17.807829+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny Pokemon Toploader samleperm (4 kort)",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-19T21:16:18.067636+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON KORT SELGES!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479136099",
-      "funnet": "2026-10-19T21:16:17.215521+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
