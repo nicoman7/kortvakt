@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T12:58:18.504958+00:00",
+  "sist_sjekket": "2026-10-20T13:00:57.674675+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration boosterbokser",
+      "pris": 879,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479170137",
+      "funnet": "2026-10-20T13:00:57.673124+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon TCG Julekalender Til Salg (Helt Nytt Og Forseglet)",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-10-20T08:56:20.534507+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort V og VMAX / EX – lot med holo og full art",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479150481",
-      "funnet": "2026-10-20T08:54:15.944782+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
