@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T21:30:47.627401+00:00",
+  "sist_sjekket": "2026-10-20T21:32:17.953110+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Scyther",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479207274",
+      "funnet": "2026-10-20T21:32:17.950932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon GX/V/EX kort – Pikachu V, Noivern GX, Altaria EX m.fl.",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478611688",
       "funnet": "2026-10-20T19:26:27.085240+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gem Pack 5 Booster Box",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478819238",
-      "funnet": "2026-10-20T19:26:26.186665+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
