@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-20T20:20:30.229935+00:00",
+  "sist_sjekket": "2026-10-20T20:22:15.913885+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes booster bundle x2",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479204234",
+      "funnet": "2026-10-20T20:22:15.912695+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Charizard 23 karat gullbelagt samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478777226",
+      "funnet": "2026-10-20T20:22:15.143586+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon GO Poké Ball Tin 2022 – Forseglet Pokémon TCG Samleboks",
       "pris": 740,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-20T19:06:23.212674+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Rocket’s Moltres holo Team Rocket 123/132",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479191217",
-      "funnet": "2026-10-20T19:06:22.255690+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Pikachu Libre",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479198907",
-      "funnet": "2026-10-20T19:04:16.717742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
