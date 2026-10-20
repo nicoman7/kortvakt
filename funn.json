@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T13:30:43.282583+00:00",
+  "sist_sjekket": "2026-10-20T13:32:22.637661+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 42",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479172302",
+      "funnet": "2026-10-20T13:32:22.635969+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu LV.12 Majestic dawn",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 525,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479153747",
       "funnet": "2026-10-20T09:50:33.254430+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary Elite Trainer Box ETB",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479130045",
-      "funnet": "2026-10-20T09:50:29.263948+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
