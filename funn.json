@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-20T16:56:22.207959+00:00",
+  "sist_sjekket": "2026-10-20T16:58:25.357489+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort charizard ex",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479188650",
+      "funnet": "2026-10-20T16:58:25.355749+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gyarados LV.49 26/123 Reverse Holo Mysterious Treasures Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479188591",
+      "funnet": "2026-10-20T16:58:24.557675+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort bulk",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479188739",
+      "funnet": "2026-10-20T16:58:23.722682+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Infernape LV.X holo",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479188488",
+      "funnet": "2026-10-20T16:58:22.981849+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort Mewtwo 063/128 Rare - 30th",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-20T14:34:18.719361+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
-      "funnet": "2026-10-20T14:32:18.248147+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort med permmappe",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479175143",
-      "funnet": "2026-10-20T14:30:54.472830+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon promo kort  – Miradon, Teal Mask Ogerpon, Scream Tail, Yveltal m.m.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479175383",
-      "funnet": "2026-10-20T14:30:49.827748+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer og energikort – gull og ACE SPEC",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479174657",
-      "funnet": "2026-10-20T14:30:48.811479+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
