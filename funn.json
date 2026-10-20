@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-20T06:50:24.412019+00:00",
+  "sist_sjekket": "2026-10-20T06:52:15.857321+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479143228",
+      "funnet": "2026-10-20T06:52:15.855486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 19",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 850,
       "lenke": "https://www.finn.no/recommerce/forsale/item/467158900",
       "funnet": "2026-10-19T19:50:28.240480+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Franz Beckenbauer - Topps Crystal Premium - Bayern München",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479132190",
-      "funnet": "2026-10-19T19:48:21.832141+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
