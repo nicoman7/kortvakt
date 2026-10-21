@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-21T20:20:28.282431+00:00",
+  "sist_sjekket": "2026-10-21T20:22:17.627741+00:00",
   "funn": [
+    {
+      "tittel": "Sjeldne Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479267309",
+      "funnet": "2026-10-21T20:22:17.626545+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon som avtalt",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479273931",
+      "funnet": "2026-10-21T20:22:17.247991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu kort – holo samlekort",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479266813",
       "funnet": "2026-10-21T18:44:16.660262+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Darkrai & Cresselia LEGEND 99/102 - 30th",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479267149",
-      "funnet": "2026-10-21T18:44:15.949183+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Bundle kortpakker 2 stk",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479266717",
-      "funnet": "2026-10-21T18:38:17.397317+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
