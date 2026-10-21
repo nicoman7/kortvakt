@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T00:32:17.883030+00:00",
+  "sist_sjekket": "2026-10-21T00:34:16.956647+00:00",
   "funn": [
+    {
+      "tittel": "Panini Frankrike 1998",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479209490",
+      "funnet": "2026-10-21T00:34:16.954708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Dirst Partner 2, Komplett set",
       "pris": 949,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479202615",
       "funnet": "2026-10-20T19:58:15.158511+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort!!!",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478886751",
-      "funnet": "2026-10-20T19:58:14.783751+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
