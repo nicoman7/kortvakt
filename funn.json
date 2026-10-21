@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-21T09:52:13.814941+00:00",
+  "sist_sjekket": "2026-10-21T09:54:15.904808+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479224576",
+      "funnet": "2026-10-21T09:54:15.903031+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479224961",
+      "funnet": "2026-10-21T09:54:15.657707+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bruno Fernandes Topps NOW – Manchester United",
       "pris": 99,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-10-20T21:24:15.128267+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Giratina VSTAR #131/196 – Lost Origin (2022) – Ultra Rare PSA 9",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206801",
-      "funnet": "2026-10-20T21:22:15.989797+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort Lot + VSTAR Tin + Mewtwo Boks",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206926",
-      "funnet": "2026-10-20T21:20:32.993164+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
