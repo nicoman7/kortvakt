@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T15:56:16.181963+00:00",
+  "sist_sjekket": "2026-10-21T15:58:17.802388+00:00",
   "funn": [
+    {
+      "tittel": "Bella Card samleperm med hestekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479253916",
+      "funnet": "2026-10-21T15:58:17.800458+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Trader Illit forokort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 410,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479155091",
       "funnet": "2026-10-21T12:18:14.822818+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Scarlet & Violet",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479146733",
-      "funnet": "2026-10-21T12:16:16.642572+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
