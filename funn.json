@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-21T10:10:27.736189+00:00",
+  "sist_sjekket": "2026-10-21T10:12:18.234470+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479226127",
+      "funnet": "2026-10-21T10:12:18.232780+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Jumbo",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479225094",
+      "funnet": "2026-10-21T10:12:17.341745+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Team Magma’s Groudon holo",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479226221",
+      "funnet": "2026-10-21T10:12:16.895169+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort boosterpakker blandet",
       "pris": 450,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/420502560",
       "funnet": "2026-10-20T21:40:28.766865+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rob Gronkowski lot 9 kort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479207392",
-      "funnet": "2026-10-20T21:40:28.017270+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Alph Lithograph trenerkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479207500",
-      "funnet": "2026-10-20T21:38:23.662404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3 HITS i HVER pakke?! 50 Pokemon kort for 99 kr",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-10-20T21:38:22.738734+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
