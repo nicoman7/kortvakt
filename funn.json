@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T09:04:17.552635+00:00",
+  "sist_sjekket": "2026-10-21T09:06:20.431616+00:00",
   "funn": [
+    {
+      "tittel": "Mew Pokemonkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479221033",
+      "funnet": "2026-10-21T09:06:20.430047+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🔮 Holo pokemon pakke – 50 kort bare holo/reverse + garantert hit",
       "pris": 199,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479206450",
       "funnet": "2026-10-20T21:10:30.835613+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lapras holo 60 HP",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206563",
-      "funnet": "2026-10-20T21:10:30.545789+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
