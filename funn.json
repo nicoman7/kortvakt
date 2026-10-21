@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T09:44:15.123801+00:00",
+  "sist_sjekket": "2026-10-21T09:46:19.599178+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bunke med ulike korttyper",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479223837",
+      "funnet": "2026-10-21T09:46:19.597338+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Gengar",
       "pris": 800,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479206808",
       "funnet": "2026-10-20T21:18:18.752369+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Stakataka GX Ultra Beast holo",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206850",
-      "funnet": "2026-10-20T21:18:18.393973+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
