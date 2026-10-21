@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T08:52:17.043977+00:00",
+  "sist_sjekket": "2026-10-21T08:54:14.843669+00:00",
   "funn": [
+    {
+      "tittel": "Magic: The Gathering samling",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479220059",
+      "funnet": "2026-10-21T08:54:14.842351+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Reservert 5 kort Panini til Vegar",
       "pris": 760,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479206328",
       "funnet": "2026-10-20T21:06:19.092112+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gem Pack Vol. 4 booster box",
-      "pris": 425,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206341",
-      "funnet": "2026-10-20T21:06:18.850265+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
