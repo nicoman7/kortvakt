@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T09:54:15.904808+00:00",
+  "sist_sjekket": "2026-10-21T09:56:16.797430+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479224848",
+      "funnet": "2026-10-21T09:56:16.796139+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 275,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479207034",
       "funnet": "2026-10-20T21:24:15.417893+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-20T21:24:15.128267+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
