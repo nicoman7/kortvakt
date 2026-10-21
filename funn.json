@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-21T17:58:18.039062+00:00",
+  "sist_sjekket": "2026-10-21T18:01:02.766424+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479263592",
+      "funnet": "2026-10-21T18:01:02.764546+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Hydreigon ex #169 – Special Illustration Rare (White Flare) PSA 10",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479263735",
+      "funnet": "2026-10-21T18:01:02.211297+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration Japansk (JP) - Pikachu - komplett sett - 30/30 kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478539555",
+      "funnet": "2026-10-21T18:01:01.945991+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Feebas #198 – Illustration Rare (Surging Sparks) PSA 9",
       "pris": 330,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479099451",
       "funnet": "2026-10-21T16:08:49.209773+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samleplakke til SindreJNM",
-      "pris": 153,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479255042",
-      "funnet": "2026-10-21T16:08:48.529373+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destines Rivals Sleeved Booster",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479254337",
-      "funnet": "2026-10-21T16:01:02.349706+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon minifigurer – samling med figurer",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479254217",
-      "funnet": "2026-10-21T16:01:01.996959+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
