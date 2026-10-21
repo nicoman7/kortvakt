@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T23:38:15.224278+00:00",
+  "sist_sjekket": "2026-10-21T23:40:25.923079+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard 23 karat gullbelagt samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478777226",
+      "funnet": "2026-10-21T23:40:25.921296+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort samling",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-21T19:44:17.596333+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu 30th celebration gratis frakt med fiks ferdig",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479271054",
-      "funnet": "2026-10-21T19:44:17.195204+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
