@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T07:24:15.245818+00:00",
+  "sist_sjekket": "2026-10-21T07:26:16.829772+00:00",
   "funn": [
+    {
+      "tittel": "Gamle spillkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479214043",
+      "funnet": "2026-10-21T07:26:16.827982+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th HITS",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479204820",
       "funnet": "2026-10-20T20:34:18.011693+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479204565",
-      "funnet": "2026-10-20T20:34:17.577716+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
