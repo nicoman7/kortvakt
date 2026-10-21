@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T18:32:19.467371+00:00",
+  "sist_sjekket": "2026-10-21T18:34:14.882567+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort lagbilde (Feyenoord)",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479266287",
+      "funnet": "2026-10-21T18:34:14.880698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort lagbilde (med Johan Cruyff)",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479257312",
       "funnet": "2026-10-21T16:44:17.438236+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Bradley Barcola RC – Topps Crystal – PSG",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479257691",
-      "funnet": "2026-10-21T16:42:20.910398+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
