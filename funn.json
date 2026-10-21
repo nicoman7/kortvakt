@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-21T14:38:21.892261+00:00",
+  "sist_sjekket": "2026-10-21T14:40:31.190570+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling i mini tin ( fri frakt)",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479248162",
+      "funnet": "2026-10-21T14:40:31.188941+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - ACEROLA",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479248261",
+      "funnet": "2026-10-21T14:40:30.386617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort selges samlet",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479248115",
+      "funnet": "2026-10-21T14:40:28.544377+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Duraludon VMAX #TG30/TG30 – Secret Rare Full Art PSA 10",
       "pris": 450,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479226304",
       "funnet": "2026-10-21T10:16:16.922806+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479226127",
-      "funnet": "2026-10-21T10:12:18.232780+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - Jumbo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479225094",
-      "funnet": "2026-10-21T10:12:17.341745+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Team Magma’s Groudon holo",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479226221",
-      "funnet": "2026-10-21T10:12:16.895169+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
