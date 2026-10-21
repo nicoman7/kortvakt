@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T13:24:19.748927+00:00",
+  "sist_sjekket": "2026-10-21T13:26:15.210670+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pikachu 30th celebration selges samlet",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479241889",
+      "funnet": "2026-10-21T13:26:15.208828+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Avtale 2 kort Marius",
       "pris": 90,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478777226",
       "funnet": "2026-10-21T08:06:16.884881+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ariados 2/115 – EX Unseen Forces – Holo Rare – HP/DMG",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479216203",
-      "funnet": "2026-10-21T08:00:56.527494+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
