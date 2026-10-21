@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-21T20:50:27.215678+00:00",
+  "sist_sjekket": "2026-10-21T20:52:16.625953+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First partner 1  Popplio ACE 10",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479275383",
+      "funnet": "2026-10-21T20:52:16.624530+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon first partner series 1 - Litten ACE 10",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479275480",
+      "funnet": "2026-10-21T20:52:16.252316+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Tcg - Pitch black - Holo",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479275464",
+      "funnet": "2026-10-21T20:52:15.465418+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Psyduck #87 Pokemon Platinum",
       "pris": 175,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-21T19:06:19.064536+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort 30‑årsjubileum sett- First partners-First gen",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477438809",
-      "funnet": "2026-10-21T19:06:18.697664+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon boosterboks japansk storm emeralda",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478430969",
-      "funnet": "2026-10-21T19:06:18.431017+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball Stickers \"Ta en titt\"",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479267547",
-      "funnet": "2026-10-21T19:06:17.729263+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
