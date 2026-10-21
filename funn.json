@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T15:06:17.407002+00:00",
+  "sist_sjekket": "2026-10-21T15:08:17.809823+00:00",
   "funn": [
+    {
+      "tittel": "project22 fotballkort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479250306",
+      "funnet": "2026-10-21T15:08:17.808374+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Team Rocket’s Murkrow #200/182 – Illustration Rare PSA 9",
       "pris": 230,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479233341",
       "funnet": "2026-10-21T11:40:28.315204+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lorcana PSA-Graderte kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479232918",
-      "funnet": "2026-10-21T11:40:27.535165+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
