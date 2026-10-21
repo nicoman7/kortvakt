@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T13:20:31.044643+00:00",
+  "sist_sjekket": "2026-10-21T13:22:18.329048+00:00",
   "funn": [
+    {
+      "tittel": "Avtale 2 kort Marius",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479240325",
+      "funnet": "2026-10-21T13:22:18.326997+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed - Pokemon Moltres & Zapdos & Articuno GX SM210 – Stained Glass Promo",
       "pris": 1400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479216203",
       "funnet": "2026-10-21T08:00:56.527494+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gem 3 Gengar sett",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479215730",
-      "funnet": "2026-10-21T07:50:24.792032+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
