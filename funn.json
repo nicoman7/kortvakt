@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-21T20:48:18.463171+00:00",
+  "sist_sjekket": "2026-10-21T20:50:27.215678+00:00",
   "funn": [
+    {
+      "tittel": "Psyduck #87 Pokemon Platinum",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479274994",
+      "funnet": "2026-10-21T20:50:27.214313+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu ex kinesisk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479275332",
+      "funnet": "2026-10-21T20:50:26.817192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon first partner 2 sett - ACE 10 sequential",
       "pris": 1200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-21T19:06:17.729263+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Topps samlekort selges",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468032374",
-      "funnet": "2026-10-21T19:06:17.167477+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera Unique Treasury Jonathan Tah samlekort 03/08",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479268761",
-      "funnet": "2026-10-21T19:06:16.525304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
