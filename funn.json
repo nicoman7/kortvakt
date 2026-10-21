@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T12:30:51.077912+00:00",
+  "sist_sjekket": "2026-10-21T12:32:17.261340+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479236749",
+      "funnet": "2026-10-21T12:32:17.260019+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort til salgs – mange annonser ute | Pakkerabatt | Gratis frakt",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479212250",
       "funnet": "2026-10-21T06:36:16.587630+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Umbreon EX 092/128 30th collection",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479212339",
-      "funnet": "2026-10-21T06:34:19.577587+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
