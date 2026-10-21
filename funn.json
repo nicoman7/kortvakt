@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-21T14:14:22.453906+00:00",
+  "sist_sjekket": "2026-10-21T14:16:18.704588+00:00",
   "funn": [
+    {
+      "tittel": "Zapdos Pokémon kort holo",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479246361",
+      "funnet": "2026-10-21T14:16:18.702735+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
+      "funnet": "2026-10-21T14:16:18.261125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon upc",
       "pris": 700,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479222335",
       "funnet": "2026-10-21T09:22:17.771840+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney topps chrom 2026 lot",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479222332",
-      "funnet": "2026-10-21T09:22:16.823673+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Evolución kortpakker og eske",
-      "pris": 720,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479221978",
-      "funnet": "2026-10-21T09:16:19.429719+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
