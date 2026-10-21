@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-21T08:46:16.628369+00:00",
+  "sist_sjekket": "2026-10-21T08:48:18.689565+00:00",
   "funn": [
+    {
+      "tittel": "Reservert 5 kort Panini til Vegar",
+      "pris": 760,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479219816",
+      "funnet": "2026-10-21T08:48:18.687855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kodekort og energikort",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479206341",
       "funnet": "2026-10-20T21:06:18.850265+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clefable holo",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479206388",
-      "funnet": "2026-10-20T21:06:18.532908+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
