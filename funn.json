@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T07:04:16.414823+00:00",
+  "sist_sjekket": "2026-10-22T07:06:15.891539+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 5",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479283113",
+      "funnet": "2026-10-22T07:06:15.889553+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort - Gengar, Dragonite, Giratina",
       "pris": 85,
@@ -1190,14 +1198,6 @@
       "pris": 165,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479276022",
       "funnet": "2026-10-21T21:06:19.344505+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tcg - Pitch black - single kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479275781",
-      "funnet": "2026-10-21T21:04:18.388426+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
