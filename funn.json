@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T21:12:19.226890+00:00",
+  "sist_sjekket": "2026-10-22T21:14:17.697247+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu RC7/RC25 Selges",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343582",
+      "funnet": "2026-10-22T21:14:17.695485+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gengar Skyridge H9/H32 Holo – Sjeldent Pokémon-kort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479334984",
       "funnet": "2026-10-22T19:01:06.729803+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Sealed Machamp 1st ed",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479336588",
-      "funnet": "2026-10-22T19:01:05.810947+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
