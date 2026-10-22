@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-22T11:54:29.903117+00:00",
+  "sist_sjekket": "2026-10-22T11:56:16.900176+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479304261",
+      "funnet": "2026-10-22T11:56:16.898836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Carnivine reverse holo.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479303656",
+      "funnet": "2026-10-22T11:56:16.158335+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Destined Rivals Elite Trainer Box",
       "pris": 1599,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479290212",
       "funnet": "2026-10-22T09:08:16.537398+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon tomme mini tins",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479290246",
-      "funnet": "2026-10-22T09:04:19.097386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Machamp holo 1st Edition PSA 7",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479289401",
-      "funnet": "2026-10-22T08:58:18.428695+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
