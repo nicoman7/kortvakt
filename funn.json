@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-22T14:12:15.482861+00:00",
+  "sist_sjekket": "2026-10-22T14:14:18.521888+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479315315",
+      "funnet": "2026-10-22T14:14:18.520255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 Adrenalyn XL samle album med fotballkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479315265",
+      "funnet": "2026-10-22T14:14:17.701789+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Entei EX #91 – Team Magma vs Team Aqua – Vintage Pokémon-kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479314697",
+      "funnet": "2026-10-22T14:14:17.341331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Pichu HeartGold SoulSilver STAFF",
       "pris": 1,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-22T12:08:20.757391+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 940,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479305197",
-      "funnet": "2026-10-22T12:06:18.748729+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flygon Delta Species EX Pokémon Kort 2006",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479305021",
-      "funnet": "2026-10-22T12:06:17.862976+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
-      "pris": 1850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
-      "funnet": "2026-10-22T12:06:17.444903+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
