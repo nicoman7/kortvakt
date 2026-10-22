@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-22T12:34:22.709658+00:00",
+  "sist_sjekket": "2026-10-22T12:36:17.299906+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479307552",
+      "funnet": "2026-10-22T12:36:17.298182+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Ferrothorn 104 - 30th",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479307533",
+      "funnet": "2026-10-22T12:36:16.523361+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Slowpoke 16 - 30th",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479297863",
       "funnet": "2026-10-22T10:40:28.616781+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-10-22T10:40:27.696501+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "VM 98 samlebilder – uåpnede pakker med fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479297356",
-      "funnet": "2026-10-22T10:38:17.122911+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
