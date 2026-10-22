@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-22T10:26:16.958986+00:00",
+  "sist_sjekket": "2026-10-22T10:28:18.534502+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort (engelske og japanske)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479296706",
+      "funnet": "2026-10-22T10:28:18.532788+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Harry Potter Chocolate Frog samlekort og metallboks",
+      "pris": 289,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479296418",
+      "funnet": "2026-10-22T10:28:18.231893+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hundrevis av nye bunker inne nå! Pokemon bunker med 60 kort til kun 80 kr!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
+      "funnet": "2026-10-22T10:28:17.645814+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - First Partner 2, Chikorita, Cyndaquil og Totodile.",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-10-22T02:22:16.928467+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu samling",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479279297",
-      "funnet": "2026-10-22T01:30:43.283747+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
-      "funnet": "2026-10-22T01:20:26.004144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew og Mewtwo vintage pokemonkort – EX Holon Phantoms, Delta Species, Stamp",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479279234",
-      "funnet": "2026-10-22T01:18:17.663393+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
