@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T10:30:44.890844+00:00",
+  "sist_sjekket": "2026-10-22T10:32:15.305340+00:00",
   "funn": [
+    {
+      "tittel": "3 HITS i HVER pakke?! 50 Pokemon kort for 99 kr",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-22T10:32:15.304004+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 1050,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-22T03:00:58.350930+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charmeleon japansk vintage CGC 6",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479279557",
-      "funnet": "2026-10-22T02:58:18.046767+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
