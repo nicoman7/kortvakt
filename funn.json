@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T02:26:15.795419+00:00",
+  "sist_sjekket": "2026-10-22T02:28:15.470483+00:00",
   "funn": [
+    {
+      "tittel": "3 HITS i HVER pakke?! 50 Pokemon kort for 99 kr",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-22T02:28:15.468674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-21T19:58:14.933906+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps fotballkort David Seaman Arsenal FC",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449859110",
-      "funnet": "2026-10-21T19:54:19.683529+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
