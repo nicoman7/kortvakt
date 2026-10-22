@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T06:06:14.862749+00:00",
+  "sist_sjekket": "2026-10-22T06:08:15.013578+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort (NM) - \"Holos/EXs\" fra S&V 151 japansk",
+      "pris": 195,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479281267",
+      "funnet": "2026-10-22T06:08:15.010101+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort (NM) - \"Holos/EXs\" fra S&V 151 japansk",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-21T20:40:30.006787+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479274915",
-      "funnet": "2026-10-21T20:40:29.119566+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
