@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T06:50:25.508730+00:00",
+  "sist_sjekket": "2026-10-22T06:52:17.444853+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 3",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479282636",
+      "funnet": "2026-10-22T06:52:17.443023+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Anniversary – Moltres, Articuno og Zapdos – 6 kort",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 459,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479275874",
       "funnet": "2026-10-21T21:00:59.652466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ceruledge Special Art Pokémon-kort AVE 10",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479275680",
-      "funnet": "2026-10-21T20:56:17.235410+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
