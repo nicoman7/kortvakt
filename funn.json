@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-22T11:42:22.032304+00:00",
+  "sist_sjekket": "2026-10-22T11:44:17.188489+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 22/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479303215",
+      "funnet": "2026-10-22T11:44:17.187173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 340,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479303264",
+      "funnet": "2026-10-22T11:44:16.388890+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Pikachu 29/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479303354",
+      "funnet": "2026-10-22T11:44:15.366814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Rowlet First Partner Collection Alola",
       "pris": 600,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479283424",
       "funnet": "2026-10-22T07:14:15.572756+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Mewtwo EX japansk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479282999",
-      "funnet": "2026-10-22T07:12:18.680359+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dhelmise Art Rare - Abyss Eye (JP)",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467010484",
-      "funnet": "2026-10-22T07:12:18.407706+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bastiodon Art Rare - Abyss Eye (JP)",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467011557",
-      "funnet": "2026-10-22T07:12:18.177279+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
