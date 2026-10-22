@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T05:16:14.425690+00:00",
+  "sist_sjekket": "2026-10-22T05:18:20.352847+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479280515",
+      "funnet": "2026-10-22T05:18:20.350630+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana Enchanted Show Me More! kort  211/204-EN-7",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/466332827",
       "funnet": "2026-10-21T20:38:15.796347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup Master samlekort – fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479274306",
-      "funnet": "2026-10-21T20:34:17.848114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
