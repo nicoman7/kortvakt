@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-22T12:56:14.683243+00:00",
+  "sist_sjekket": "2026-10-22T12:58:19.763592+00:00",
   "funn": [
+    {
+      "tittel": "Charizard",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479309147",
+      "funnet": "2026-10-22T12:58:19.761857+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon samlekort - Charizard, Mewtwo og Raichu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478970474",
+      "funnet": "2026-10-22T12:58:18.842461+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tottenham supporterpakke – 13 Topps-kort 2026/27 – fin gave til Spurs-fan",
       "pris": 99,
@@ -1182,22 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479301235",
       "funnet": "2026-10-22T11:22:16.911850+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 430,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479301243",
-      "funnet": "2026-10-22T11:22:16.569564+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu EX 12/30",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479301390",
-      "funnet": "2026-10-22T11:22:16.185168+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
