@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T11:22:18.355091+00:00",
+  "sist_sjekket": "2026-10-22T11:24:17.341360+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 730,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479301550",
+      "funnet": "2026-10-22T11:24:17.339994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pakke med Pokémonkort - Hidden Legends (2004)",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479278282",
       "funnet": "2026-10-22T06:14:14.881888+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort (NM) - \"Holos/EXs\" fra S&V 151 japansk",
-      "pris": 195,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479281267",
-      "funnet": "2026-10-22T06:08:15.010101+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
