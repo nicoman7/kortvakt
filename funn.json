@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T11:16:16.992925+00:00",
+  "sist_sjekket": "2026-10-22T11:18:17.377963+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479300906",
+      "funnet": "2026-10-22T11:18:17.375909+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Squirtle First Partner Collection Kanto",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479280170",
       "funnet": "2026-10-22T04:46:14.687780+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Deoxys 70 HP holo",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479280156",
-      "funnet": "2026-10-22T04:44:16.600584+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
