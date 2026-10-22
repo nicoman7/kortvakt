@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T05:36:15.480666+00:00",
+  "sist_sjekket": "2026-10-22T05:38:19.264213+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479280749",
+      "funnet": "2026-10-22T05:38:19.262212+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479274039",
       "funnet": "2026-10-21T20:38:17.554209+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon tcg - Tauros 069/182 - gratis frakt",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479274707",
-      "funnet": "2026-10-21T20:38:16.949300+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
