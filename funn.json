@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-22T15:58:14.747892+00:00",
+  "sist_sjekket": "2026-10-22T16:01:04.443674+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 960,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479323190",
+      "funnet": "2026-10-22T16:01:04.441947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "fotbal kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479322442",
+      "funnet": "2026-10-22T16:01:04.078663+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Komplett lagsett: Bolton Wanderers (9 kort) – Merlin's Premier Gold 98. Som nye",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479323278",
+      "funnet": "2026-10-22T16:01:03.385351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Lugia 30th celebration",
       "pris": 1800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479314343",
       "funnet": "2026-10-22T14:01:08.369627+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard PSA 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479314516",
-      "funnet": "2026-10-22T14:01:07.811376+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Rayquaza EX holo",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479312405",
-      "funnet": "2026-10-22T13:58:17.839843+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard PSA 10",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479314313",
-      "funnet": "2026-10-22T13:58:17.123633+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
