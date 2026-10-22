@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T17:42:15.623828+00:00",
+  "sist_sjekket": "2026-10-22T17:44:21.928458+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Regirock EX PSA 8",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479330869",
+      "funnet": "2026-10-22T17:44:21.926180+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pedro Porro Blue/Pink Voltage #245 – Tottenham – Topps 2026/27",
       "pris": 49,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-10-22T15:34:18.785324+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gallade #57 Pokemon Japanese Dream League",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479305349",
-      "funnet": "2026-10-22T15:32:17.343583+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
