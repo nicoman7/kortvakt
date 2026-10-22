@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-22T10:58:15.503718+00:00",
+  "sist_sjekket": "2026-10-22T11:01:12.487367+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 01/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479299377",
+      "funnet": "2026-10-22T11:01:12.485324+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu 02/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479299459",
+      "funnet": "2026-10-22T11:01:11.705955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dragonite V - Pokemon GO PORTUGISISK!",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479280052",
       "funnet": "2026-10-22T04:32:15.982638+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Unown Hidden Power",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479279988",
-      "funnet": "2026-10-22T04:24:16.799239+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Salamence holo",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479279971",
-      "funnet": "2026-10-22T04:22:15.154423+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
