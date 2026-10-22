@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-22T17:50:40.116888+00:00",
+  "sist_sjekket": "2026-10-22T17:52:15.908947+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
+      "funnet": "2026-10-22T17:52:15.907188+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort Roberto Baggio (Italia)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326554",
+      "funnet": "2026-10-22T17:52:15.521080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre Pokémon samlekort – Charizard / Pikachu / Raichu",
       "pris": 102,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479305051",
       "funnet": "2026-10-22T15:42:16.345471+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort holo / EX / GX bunt",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479321705",
-      "funnet": "2026-10-22T15:40:30.773007+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Togekiss #203 Pokemon Japanese Mega Dream ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479305122",
-      "funnet": "2026-10-22T15:40:30.425107+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
