@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T20:08:15.385072+00:00",
+  "sist_sjekket": "2026-10-22T20:10:31.737664+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
+      "funnet": "2026-10-22T20:10:31.736197+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Phantom Forces, liten samlepakke",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-22T18:42:18.057687+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort selges",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/449016306",
-      "funnet": "2026-10-22T18:42:17.482192+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
