@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T21:02:18.363536+00:00",
+  "sist_sjekket": "2026-10-22T21:04:18.269189+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Blastoise holo base set 2",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343692",
+      "funnet": "2026-10-22T21:04:18.266981+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Darkrai & Cresselia LEGEND holo",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479336707",
       "funnet": "2026-10-22T19:01:04.154785+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Meowth, Spiritomb, Forretress m.fl. holografiske",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479336769",
-      "funnet": "2026-10-22T19:01:03.232456+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
