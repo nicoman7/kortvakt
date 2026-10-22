@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-22T05:00:56.101714+00:00",
+  "sist_sjekket": "2026-10-22T05:02:16.698991+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479280280",
+      "funnet": "2026-10-22T05:02:16.696880+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA World Cup fotballkort samling limited edition",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478886751",
       "funnet": "2026-10-21T20:34:16.418259+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ana boarding pass",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479274483",
-      "funnet": "2026-10-21T20:30:46.482768+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
