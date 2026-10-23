@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T13:44:15.796640+00:00",
+  "sist_sjekket": "2026-10-23T13:46:15.912859+00:00",
   "funn": [
+    {
+      "tittel": "Mew ex 205/165 pokemon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479380146",
+      "funnet": "2026-10-23T13:46:15.911525+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "500 Pokémon Kort Bulk",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T09:10:28.331195+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
-      "pris": 849,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479358376",
-      "funnet": "2026-10-23T09:10:27.969708+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
