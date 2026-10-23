@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-23T09:08:18.705036+00:00",
+  "sist_sjekket": "2026-10-23T09:10:28.332759+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Pikachu 1-30",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479358230",
+      "funnet": "2026-10-23T09:10:28.331195+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration Booster Bundle kortpakke",
+      "pris": 849,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479358376",
+      "funnet": "2026-10-23T09:10:27.969708+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479338192",
       "funnet": "2026-10-22T19:26:15.693669+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard VSTAR SWSH262",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478996669",
-      "funnet": "2026-10-22T19:24:25.044738+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny Pris! Panini Adrenalyn XL Nordic Edition VM 2026",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476265212",
-      "funnet": "2026-10-22T19:24:24.251751+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
