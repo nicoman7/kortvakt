@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T15:58:20.576047+00:00",
+  "sist_sjekket": "2026-10-23T16:01:00.922706+00:00",
   "funn": [
+    {
+      "tittel": "FB01 Kort",
+      "pris": 249,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479390776",
+      "funnet": "2026-10-23T16:01:00.920785+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚡ Team Rocket’s Zapdos 070/182 – Destined Rivals – Holo Rare – 2025",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479374944",
       "funnet": "2026-10-23T13:01:00.173889+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th Celebration Pokemonkort",
-      "pris": 134,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479376537",
-      "funnet": "2026-10-23T12:58:18.103031+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
