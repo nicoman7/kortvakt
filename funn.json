@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T13:16:17.268625+00:00",
+  "sist_sjekket": "2026-10-23T13:18:17.388196+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trading Card Game metallbokser",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479378064",
+      "funnet": "2026-10-23T13:18:17.386416+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort pakke – japanske og engelske holo/VMAX",
       "pris": 710,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479353849",
       "funnet": "2026-10-23T08:06:17.088414+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON trick or trade booster bundle",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/403366411",
-      "funnet": "2026-10-23T08:04:17.315893+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
