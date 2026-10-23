@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T15:16:19.538461+00:00",
+  "sist_sjekket": "2026-10-23T15:18:18.641785+00:00",
   "funn": [
+    {
+      "tittel": "350kr totalt 9 kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479387813",
+      "funnet": "2026-10-23T15:18:18.639613+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Goku Kort",
       "pris": 199,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T12:16:20.162798+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "🌟Pakker med ekstra mye glins! EX-kort + 10 holo garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-10-23T12:10:30.411849+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
