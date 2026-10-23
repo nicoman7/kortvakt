@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T20:42:16.647675+00:00",
+  "sist_sjekket": "2026-10-23T20:44:16.786459+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Magikarp",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479407251",
+      "funnet": "2026-10-23T20:44:16.784814+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - engelsk & japansk",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479309995",
       "funnet": "2026-10-23T18:18:15.844105+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Fusion Strike",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479310573",
-      "funnet": "2026-10-23T18:18:15.510519+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
