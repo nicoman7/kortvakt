@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-23T20:46:18.516050+00:00",
+  "sist_sjekket": "2026-10-23T20:48:17.484313+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Bulbasaur non holo 39/95",
+      "pris": 225,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479407314",
+      "funnet": "2026-10-23T20:48:17.483023+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Clefable Holo Vintage Pokemon Samlekort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478969525",
+      "funnet": "2026-10-23T20:48:16.619754+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokemon kort 3 stk Skyridge: Nidoran, Zubat & Natu (Tyske)",
       "pris": 69,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-10-23T18:20:29.650753+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Brilliant Stars",
-      "pris": 139,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479306712",
-      "funnet": "2026-10-23T18:18:18.018108+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Pokémon Go",
-      "pris": 115,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479307634",
-      "funnet": "2026-10-23T18:18:17.384917+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
