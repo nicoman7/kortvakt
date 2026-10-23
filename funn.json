@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T15:50:26.394199+00:00",
+  "sist_sjekket": "2026-10-23T15:52:18.853288+00:00",
   "funn": [
+    {
+      "tittel": "FB03 Kort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479390146",
+      "funnet": "2026-10-23T15:52:18.851473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Inception UCC - Desire Doue #9 First XI - Paris Saint-Germain",
       "pris": 65,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479376327",
       "funnet": "2026-10-23T12:56:19.793996+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shadow Rider Calyrex V Astral Radiance Trainer Gallery Ultra Rare TG17/TG30",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479375304",
-      "funnet": "2026-10-23T12:56:18.986000+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
