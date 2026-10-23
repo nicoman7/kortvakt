@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T11:06:16.605737+00:00",
+  "sist_sjekket": "2026-10-23T11:08:16.321506+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon energikort samling",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479367964",
+      "funnet": "2026-10-23T11:08:16.319362+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort fra Ascended Heros - Black Belt's Training",
       "pris": 120,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479343491",
       "funnet": "2026-10-22T21:02:18.361782+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
-      "funnet": "2026-10-22T21:02:17.602816+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
