@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T07:48:14.255876+00:00",
+  "sist_sjekket": "2026-10-23T07:50:30.391305+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479352720",
+      "funnet": "2026-10-23T07:50:30.389394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-22T19:20:30.576110+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling fotballkort alle nummererte",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479054789",
-      "funnet": "2026-10-22T19:20:29.931563+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
