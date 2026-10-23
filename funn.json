@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T13:06:16.415821+00:00",
+  "sist_sjekket": "2026-10-23T13:08:15.467182+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479377493",
+      "funnet": "2026-10-23T13:08:15.465266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon pokeball kort (fri frakt)",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479351779",
       "funnet": "2026-10-23T07:30:46.399881+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Golbat Team Rocket holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479351711",
-      "funnet": "2026-10-23T07:28:18.496640+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
