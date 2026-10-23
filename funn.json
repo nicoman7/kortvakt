@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T08:38:15.144127+00:00",
+  "sist_sjekket": "2026-10-23T08:40:25.894346+00:00",
   "funn": [
+    {
+      "tittel": "Bytte av 30th kinesisk pokemonkort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479352452",
+      "funnet": "2026-10-23T08:40:25.892993+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling – Elite Trainer Box, First Partner Collection og minitins",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479337903",
       "funnet": "2026-10-22T19:24:21.355452+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Skybox premium Shaquille O’Neal basketballkort",
-      "pris": 695,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478619885",
-      "funnet": "2026-10-22T19:22:27.828202+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
