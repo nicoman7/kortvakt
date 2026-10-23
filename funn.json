@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T10:50:27.969071+00:00",
+  "sist_sjekket": "2026-10-23T10:52:17.478791+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges samlet- som ny",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479366299",
+      "funnet": "2026-10-23T10:52:17.476810+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
       "funnet": "2026-10-22T20:32:16.869878+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon rumble Cherrim",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479342223",
-      "funnet": "2026-10-22T20:30:46.549826+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
