@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T14:34:16.160321+00:00",
+  "sist_sjekket": "2026-10-23T14:36:19.633723+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479384629",
+      "funnet": "2026-10-23T14:36:19.631466+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon blandet lot (AR, full art, vintage)",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479368083",
       "funnet": "2026-10-23T11:10:28.962167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479368118",
-      "funnet": "2026-10-23T11:10:28.050761+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
