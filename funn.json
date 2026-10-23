@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T05:36:14.763411+00:00",
+  "sist_sjekket": "2026-10-23T05:38:25.273613+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479348278",
+      "funnet": "2026-10-23T05:38:25.272429+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Japanske Booster pakker/ Tag Bolt Double Blaze",
       "pris": 1900,
@@ -1190,14 +1198,6 @@
       "pris": 525,
       "lenke": "https://www.finn.no/recommerce/forsale/item/423690001",
       "funnet": "2026-10-22T19:12:19.076922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shrouded Fable Elite Trainer Box",
-      "pris": 1599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478946105",
-      "funnet": "2026-10-22T19:12:18.291257+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
