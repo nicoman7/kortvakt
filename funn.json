@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-23T15:28:16.703918+00:00",
+  "sist_sjekket": "2026-10-23T15:30:50.709333+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon EX kort – Venusaur, Hawlucha, Genesect, Manectric, Hydreigon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479388678",
+      "funnet": "2026-10-23T15:30:50.708006+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zekrom EX Black Bolt Ultra Rare 034/086",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479388642",
+      "funnet": "2026-10-23T15:30:49.940712+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
+      "funnet": "2026-10-23T15:30:48.863648+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mega Diancie EX Phantasmal flames Ultra Rare  041/094",
       "pris": 20,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-23T12:30:48.885231+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling – diverse kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479374214",
-      "funnet": "2026-10-23T12:28:16.443274+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Detective Pikachu japansk PSA 10",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479373972",
-      "funnet": "2026-10-23T12:26:22.361689+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling GX EX V VMAX holo",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479373969",
-      "funnet": "2026-10-23T12:26:21.528653+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
