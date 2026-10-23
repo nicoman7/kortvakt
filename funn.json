@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-23T19:02:24.060677+00:00",
+  "sist_sjekket": "2026-10-23T19:04:19.880480+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort Nidoran (gutt)",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479402537",
+      "funnet": "2026-10-23T19:04:19.879112+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 30C 033/128",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479402546",
+      "funnet": "2026-10-23T19:04:19.129619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ny Pokemon Toploader samleperm (4 kort)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479402561",
+      "funnet": "2026-10-23T19:04:18.333793+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Mystery pack for kun 89kr",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478660941",
+      "funnet": "2026-10-23T19:04:17.546387+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort Nidoran (jente)",
       "pris": 19,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-10-23T17:16:19.534590+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon GX/EX kort samling i perm",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479395707",
-      "funnet": "2026-10-23T17:16:19.173839+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Merlin Klistremerke #S22 - Snorlax (Foil / Prism)",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479395804",
-      "funnet": "2026-10-23T17:16:18.879347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon-energikort – pakke med ca. 60–100 kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479395853",
-      "funnet": "2026-10-23T17:16:18.158133+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Merlin Klistremerke #S3 - Charmeleon (Foil / Prism)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479395908",
-      "funnet": "2026-10-23T17:16:17.430978+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
