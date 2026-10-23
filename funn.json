@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T15:32:18.788998+00:00",
+  "sist_sjekket": "2026-10-23T15:34:17.667912+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479388160",
+      "funnet": "2026-10-23T15:34:17.665840+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sealed Snorlax #51 Pokemon Promo",
       "pris": 459,
@@ -1190,14 +1198,6 @@
       "pris": 199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479374591",
       "funnet": "2026-10-23T12:34:18.323586+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlepermer til kort – 4 stk",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479374453",
-      "funnet": "2026-10-23T12:32:16.897228+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
