@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-23T15:34:17.667912+00:00",
+  "sist_sjekket": "2026-10-23T15:36:17.456437+00:00",
   "funn": [
+    {
+      "tittel": "FB05 Kort",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479388812",
+      "funnet": "2026-10-23T15:36:17.454952+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps Chrome UEFA Champions League Nico Schlotterbeck Dortmund #99/299",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479389156",
+      "funnet": "2026-10-23T15:36:16.600775+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotball og pokemon samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479389023",
+      "funnet": "2026-10-23T15:36:15.824303+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling selges",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479375434",
       "funnet": "2026-10-23T12:44:21.543988+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Vending series no 025",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479375511",
-      "funnet": "2026-10-23T12:44:20.669117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
-      "funnet": "2026-10-23T12:44:20.269529+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling metallbokser og kort",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479374591",
-      "funnet": "2026-10-23T12:34:18.323586+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
