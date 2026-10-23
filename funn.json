@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T21:54:16.659123+00:00",
+  "sist_sjekket": "2026-10-23T21:56:19.409377+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479409470",
+      "funnet": "2026-10-23T21:56:19.407536+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort til salgs – mange annonser ute | Pakkerabatt | Gratis frakt",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479401876",
       "funnet": "2026-10-23T18:54:21.920880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30C 037/128",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479401767",
-      "funnet": "2026-10-23T18:52:15.558669+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
