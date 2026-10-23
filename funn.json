@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-23T11:08:16.321506+00:00",
+  "sist_sjekket": "2026-10-23T11:10:28.963845+00:00",
   "funn": [
+    {
+      "tittel": "Stray kids fotokort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479368083",
+      "funnet": "2026-10-23T11:10:28.962167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479368118",
+      "funnet": "2026-10-23T11:10:28.050761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon energikort samling",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479343824",
       "funnet": "2026-10-22T21:06:15.302597+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Blastoise holo base set 2",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479343692",
-      "funnet": "2026-10-22T21:04:18.266981+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Darkrai & Cresselia LEGEND holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479343491",
-      "funnet": "2026-10-22T21:02:18.361782+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
