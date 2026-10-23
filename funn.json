@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T14:26:20.413377+00:00",
+  "sist_sjekket": "2026-10-23T14:28:22.427895+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration Binder Collection",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479383876",
+      "funnet": "2026-10-23T14:28:22.425691+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra mange nyere serier. Over 400 kort og flere Holo/reversed Holo",
       "pris": 149,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T11:04:15.835357+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th booster bundle",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479367625",
-      "funnet": "2026-10-23T11:04:15.569477+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
