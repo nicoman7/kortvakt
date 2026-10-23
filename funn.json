@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T06:22:17.306464+00:00",
+  "sist_sjekket": "2026-10-23T06:24:15.135425+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort – blandet lot med ulike typer",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479349099",
+      "funnet": "2026-10-23T06:24:15.133756+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Scarlet & Violet 151 samlekort",
       "pris": 480,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-22T19:16:23.669639+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon future flash japansk booster pakker",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475468673",
-      "funnet": "2026-10-22T19:16:23.264832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
