@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T15:18:18.641785+00:00",
+  "sist_sjekket": "2026-10-23T15:20:31.704177+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Vegeta Kort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479387798",
+      "funnet": "2026-10-23T15:20:31.702554+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "350kr totalt 9 kort",
       "pris": 350,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T12:18:16.321295+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
-      "funnet": "2026-10-23T12:16:20.162798+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
