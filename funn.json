@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T07:16:16.828641+00:00",
+  "sist_sjekket": "2026-10-23T07:18:17.464457+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Kangaskhan holo samlekort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479351125",
+      "funnet": "2026-10-23T07:18:17.462792+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Poliwrath holo Base Set 13/102",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-22T19:16:28.811957+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Booster Packs",
-      "pris": 1280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478524302",
-      "funnet": "2026-10-22T19:16:28.103257+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
