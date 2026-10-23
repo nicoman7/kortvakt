@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-23T20:28:19.775708+00:00",
+  "sist_sjekket": "2026-10-23T20:30:48.303351+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort seleges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479406595",
+      "funnet": "2026-10-23T20:30:48.301961+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Basic Lightning Energy [30th] #12 Pokemon Mega Evolution Energy",
       "pris": 2,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479399565",
       "funnet": "2026-10-23T18:14:17.319669+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Base Set 1999 – ca. 50 originale kort – Vintage samling",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479399315",
-      "funnet": "2026-10-23T18:12:19.789984+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
