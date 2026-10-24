@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T22:42:16.636169+00:00",
+  "sist_sjekket": "2026-10-24T22:44:17.217287+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Magnemite (Siamond & Pearl)",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479487537",
+      "funnet": "2026-10-24T22:44:17.215704+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Hoothoot (Diamond & Pearl)",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479487572",
+      "funnet": "2026-10-24T22:44:16.327382+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Magneton (Diamond & Pearl)",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-24T19:42:15.133063+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Kecleon #088/076 (Storm Esmeralda)",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479480858",
-      "funnet": "2026-10-24T19:40:36.259191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon: Delta Reign bulk",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479480907",
-      "funnet": "2026-10-24T19:40:35.537115+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
