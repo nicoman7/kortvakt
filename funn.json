@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T07:50:26.447648+00:00",
+  "sist_sjekket": "2026-10-24T07:52:16.485659+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479412788",
+      "funnet": "2026-10-24T07:52:16.483793+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "RESERVERT – 2 eksklusive samlerrammer | FrameYourCard™",
       "pris": 599,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T19:44:20.315365+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Detective Pikachu (Stamped) #SM190",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479404380",
-      "funnet": "2026-10-23T19:40:27.946976+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
