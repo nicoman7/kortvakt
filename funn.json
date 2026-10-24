@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T18:56:14.973894+00:00",
+  "sist_sjekket": "2026-10-24T18:58:16.700508+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479478602",
+      "funnet": "2026-10-24T18:58:16.699073+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Kyogre",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479469020",
       "funnet": "2026-10-24T16:26:17.725461+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort Gengar Hypno Golduck Hitmonchan",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479468906",
-      "funnet": "2026-10-24T16:22:15.763089+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
