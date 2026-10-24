@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T00:22:17.926409+00:00",
+  "sist_sjekket": "2026-10-24T00:24:15.842748+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort ønsker trade mot gradert",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
+      "funnet": "2026-10-24T00:24:15.840942+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard V - 132/127 SR - Chinese - Pokemon kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479411408",
+      "funnet": "2026-10-24T00:24:15.022413+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary samleperm med kort",
       "pris": 700,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479403292",
       "funnet": "2026-10-23T19:22:19.168516+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon– pikachu, Dragonite, Gyarados, Lugia m.m.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479403240",
-      "funnet": "2026-10-23T19:22:18.895028+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-10-23T19:22:18.239102+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
