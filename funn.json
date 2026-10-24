@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-24T12:34:20.192909+00:00",
+  "sist_sjekket": "2026-10-24T12:36:16.068068+00:00",
   "funn": [
+    {
+      "tittel": "Ice Rider Calyrex VMAX #TG15 Pokemon Astral Radiance",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479410997",
+      "funnet": "2026-10-24T12:36:16.066326+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Shadow Rider Calyrex VMAX #TG18 Pokemon Astral Radiance",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479411007",
+      "funnet": "2026-10-24T12:36:15.689513+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Purrloin #136 Pokemon White Flare",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479410993",
+      "funnet": "2026-10-24T12:36:15.284322+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Reverse Holo delta species kort selges samlet",
       "pris": 600,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-24T11:10:28.095453+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Rotom EX #126",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479420551",
-      "funnet": "2026-10-24T11:10:27.456715+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Match Attax 25/26 duplikat kort selges. Oppdatert 24.10.2026",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479420868",
-      "funnet": "2026-10-24T11:10:26.785382+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Samling, nesten bare holo og rev holo",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479421087",
-      "funnet": "2026-10-24T11:10:26.499409+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
