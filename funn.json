@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T23:14:15.744575+00:00",
+  "sist_sjekket": "2026-10-24T23:16:19.620316+00:00",
   "funn": [
+    {
+      "tittel": "DONALD DUCK Samlekort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479487992",
+      "funnet": "2026-10-24T23:16:19.618078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-10-24T23:16:18.795752+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479481608",
       "funnet": "2026-10-24T19:54:27.236607+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort GX/EX og Charizard-kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479481525",
-      "funnet": "2026-10-24T19:54:26.357979+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Selger pokemon kort (tar trade også)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479024108",
-      "funnet": "2026-10-24T19:54:25.442325+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
