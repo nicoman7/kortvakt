@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T01:30:43.930890+00:00",
+  "sist_sjekket": "2026-10-24T01:32:14.564524+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479157040",
+      "funnet": "2026-10-24T01:32:14.563279+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mike Hawthorn Supremo /99 – Topps F1 Eccellenza 2026",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477077384",
       "funnet": "2026-10-23T19:26:21.665553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Haaland - fotballkort - Nummerert - patch",
-      "pris": 148,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469327830",
-      "funnet": "2026-10-23T19:26:20.841673+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
