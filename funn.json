@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T23:16:19.620316+00:00",
+  "sist_sjekket": "2026-10-24T23:18:16.571432+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479488019",
+      "funnet": "2026-10-24T23:18:16.569272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort V/VMAX/VSTAR – lot med holo-kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479488020",
+      "funnet": "2026-10-24T23:18:16.206519+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "DONALD DUCK Samlekort",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479481812",
       "funnet": "2026-10-24T19:56:17.393144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar EX kort 30th",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479481617",
-      "funnet": "2026-10-24T19:54:28.102963+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mankey #56 (Topps)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479481608",
-      "funnet": "2026-10-24T19:54:27.236607+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
