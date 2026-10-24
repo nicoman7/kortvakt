@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-24T12:12:15.089572+00:00",
+  "sist_sjekket": "2026-10-24T12:14:17.504517+00:00",
   "funn": [
+    {
+      "tittel": "Nordic Edition samlealbum (Fotballkort)",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479443650",
+      "funnet": "2026-10-24T12:14:17.502771+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Electabuzz ex  97/109 Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479443313",
+      "funnet": "2026-10-24T12:14:16.665058+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 23/10",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-10-24T12:14:15.921782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotball Gold Standard fotballkort L. Sané Galatasaray nummerert /50",
       "pris": 99,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-24T11:06:17.603310+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort med perm selges for 599kr",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479425967",
-      "funnet": "2026-10-24T11:06:17.221759+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Pro Elite Mohamed Simakan RB Leipzig fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479426942",
-      "funnet": "2026-10-24T11:06:16.542819+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Noa Lang RC Autograf – PSA 10 GEM MINT – Topps Chrome",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479414797",
-      "funnet": "2026-10-24T11:04:17.042190+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
