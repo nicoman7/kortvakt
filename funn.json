@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T13:48:16.530632+00:00",
+  "sist_sjekket": "2026-10-24T13:50:26.769722+00:00",
   "funn": [
+    {
+      "tittel": "Spice girls album 97",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479453968",
+      "funnet": "2026-10-24T13:50:26.768054+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Promo",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479440217",
       "funnet": "2026-10-24T11:48:17.778275+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic The Gathering Proxy The Cabbage Merchant foil kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479438166",
-      "funnet": "2026-10-24T11:42:18.389549+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
