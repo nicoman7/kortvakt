@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-24T12:40:26.732002+00:00",
+  "sist_sjekket": "2026-10-24T12:42:17.880520+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, glins.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479446317",
+      "funnet": "2026-10-24T12:42:17.878963+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu ex #179 Pokemon Prismatic Evolutions",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479410951",
+      "funnet": "2026-10-24T12:42:17.390486+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Silvally #95 Pokemon Pitch Black",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479410954",
+      "funnet": "2026-10-24T12:42:16.985829+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thundurus #209 Pokemon Promo",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479410950",
+      "funnet": "2026-10-24T12:42:16.237011+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eevee ex #174 Promo + Eevee ex #75 Stamped – Selges samlet",
       "pris": 500,
@@ -1166,38 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479423449",
       "funnet": "2026-10-24T11:12:25.020517+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hjerte til Hjerte orakelkort på norsk",
-      "pris": 210,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479425298",
-      "funnet": "2026-10-24T11:12:24.679472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax Robert Lewandowski Bayern München kort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479425939",
-      "funnet": "2026-10-24T11:12:24.015163+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "XL FIFA World Cup 2026 fotballkort Lionel Messi Gold Limited Edition",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479426153",
-      "funnet": "2026-10-24T11:12:23.333020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ace 9 Pokemon Pikachu & Zekrom TAG TEAM kort",
-      "pris": 625,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479426389",
-      "funnet": "2026-10-24T11:12:22.536256+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
