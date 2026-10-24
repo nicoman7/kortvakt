@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-10-24T21:08:15.733040+00:00",
+  "sist_sjekket": "2026-10-24T21:10:28.667178+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479485105",
+      "funnet": "2026-10-24T21:10:28.665654+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dudunsparce (Master Ball Pattern) Prismatic Evolutions Rare 080/131",
+      "pris": 165,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479484442",
+      "funnet": "2026-10-24T21:10:27.856783+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sylveon (Poke Ball Pattern) Prismatic Evolutions Rare 040/131",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479484424",
+      "funnet": "2026-10-24T21:10:27.013543+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Golett Black Bolt Art Rare 128/086",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479484453",
+      "funnet": "2026-10-24T21:10:26.121928+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Chien-Pao Paldean Fates Hyper Rare 242/091",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479484459",
+      "funnet": "2026-10-24T21:10:25.767597+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spiritomb Mega Evolution Illustration Rare 148/132",
       "pris": 30,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/446943987",
       "funnet": "2026-10-24T19:08:20.997257+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Skybox 1990-91 basketballkort - Forseglet pakke med 15 basketkort fra 1990",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478016870",
-      "funnet": "2026-10-24T19:08:20.376093+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner Series 2",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479174678",
-      "funnet": "2026-10-24T19:08:19.746167+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini komplett album Euro Frankrike 2016 + en forseglet pakke.",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/446945223",
-      "funnet": "2026-10-24T19:08:19.373367+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
-      "funnet": "2026-10-24T19:08:19.048300+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477911520",
-      "funnet": "2026-10-24T19:06:18.563882+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
