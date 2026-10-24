@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T20:34:15.497586+00:00",
+  "sist_sjekket": "2026-10-24T20:36:15.189129+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra 1999 selges",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479483700",
+      "funnet": "2026-10-24T20:36:15.187170+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479482974",
+      "funnet": "2026-10-24T20:36:14.515322+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt! Magic the Gathering 100 foil kort",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479477582",
       "funnet": "2026-10-24T18:38:19.632026+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Salamence",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479477598",
-      "funnet": "2026-10-24T18:38:19.303184+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Pikachu",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479477468",
-      "funnet": "2026-10-24T18:36:19.184029+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
