@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T08:06:14.817510+00:00",
+  "sist_sjekket": "2026-10-24T08:08:17.161878+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479412984",
+      "funnet": "2026-10-24T08:08:17.160000+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "RESERVERT – Håkon | Messi & Bruno Fernandes – 3 kort",
       "pris": 290,
@@ -1190,14 +1198,6 @@
       "pris": 775,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479404993",
       "funnet": "2026-10-23T19:54:18.260400+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier Gold 1996/97 kort selges/byttes",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479403950",
-      "funnet": "2026-10-23T19:50:28.303914+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
