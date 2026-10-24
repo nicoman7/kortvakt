@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T07:58:14.736335+00:00",
+  "sist_sjekket": "2026-10-24T08:00:55.882334+00:00",
   "funn": [
+    {
+      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
+      "funnet": "2026-10-24T08:00:55.880577+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T19:48:20.340866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
-      "funnet": "2026-10-23T19:44:20.315365+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
