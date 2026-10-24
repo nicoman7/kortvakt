@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T13:42:18.249335+00:00",
+  "sist_sjekket": "2026-10-24T13:44:15.513011+00:00",
   "funn": [
+    {
+      "tittel": "Diverse full art og EX kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479452958",
+      "funnet": "2026-10-24T13:44:15.511126+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
+      "funnet": "2026-10-24T13:44:14.725772+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Delta Reign boosterpakker 3 stk",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479436538",
       "funnet": "2026-10-24T11:40:28.572218+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Sneasel ex 89/109",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479438407",
-      "funnet": "2026-10-24T11:40:27.726441+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "AC Milan fotballkort samling",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479438887",
-      "funnet": "2026-10-24T11:40:26.966434+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
