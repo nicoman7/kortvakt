@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T09:12:16.038535+00:00",
+  "sist_sjekket": "2026-10-24T09:14:19.346887+00:00",
   "funn": [
+    {
+      "tittel": "Azurill reverse Holo Pokemonkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479413244",
+      "funnet": "2026-10-24T09:14:19.345145+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 055/217 poke ball",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-23T20:30:48.301961+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Basic Lightning Energy [30th] #12 Pokemon Mega Evolution Energy",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479406609",
-      "funnet": "2026-10-23T20:26:16.393687+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
