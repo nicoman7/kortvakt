@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-24T15:48:15.497584+00:00",
+  "sist_sjekket": "2026-10-24T15:50:28.435661+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Bulbasaur non holo 54/112",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479465826",
+      "funnet": "2026-10-24T15:50:28.434359+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samlekort pakke 500 stk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479466314",
+      "funnet": "2026-10-24T15:50:27.552169+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Delibird non holo 21/109 Yuka Morii",
       "pris": 225,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479451504",
       "funnet": "2026-10-24T13:26:15.164564+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Booster Bundle (30-års)",
-      "pris": 747,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478660955",
-      "funnet": "2026-10-24T13:26:14.904922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA 365 2027 fotballkort samling",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479451082",
-      "funnet": "2026-10-24T13:24:14.989344+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
