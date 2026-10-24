@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-24T18:38:19.633647+00:00",
+  "sist_sjekket": "2026-10-24T18:40:25.143733+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Oricorio",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479477673",
+      "funnet": "2026-10-24T18:40:25.142450+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479477749",
+      "funnet": "2026-10-24T18:40:24.808154+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMONKORT SELGES - SKYRIDGE, AQUAPOLIS, SANDSTORM, EXPEDITIONS MM",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476672175",
+      "funnet": "2026-10-24T18:40:24.426590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30 th 3 stk promokort",
       "pris": 50,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-24T15:50:28.434359+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort pakke 500 stk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479466314",
-      "funnet": "2026-10-24T15:50:27.552169+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Delibird non holo 21/109 Yuka Morii",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479465675",
-      "funnet": "2026-10-24T15:46:16.727919+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Darkrai & Umbreon 125/236",
-      "pris": 1050,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479465425",
-      "funnet": "2026-10-24T15:42:17.169641+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
