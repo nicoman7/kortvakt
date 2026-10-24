@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-24T19:04:18.795571+00:00",
+  "sist_sjekket": "2026-10-24T19:06:18.565598+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 30th celebration",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477911520",
+      "funnet": "2026-10-24T19:06:18.563882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon esker fra eldre deckbokser",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468673900",
+      "funnet": "2026-10-24T19:06:17.991617+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Samling - Pokemon Set",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479478839",
+      "funnet": "2026-10-24T19:06:17.679610+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort – Pikachu",
       "pris": 1000,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-10-24T16:42:16.293552+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Vintage pokemon kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419712245",
-      "funnet": "2026-10-24T16:40:23.797540+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort, Tar trades",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479469608",
-      "funnet": "2026-10-24T16:38:16.231305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Eevee Aquapolis",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479470067",
-      "funnet": "2026-10-24T16:38:15.794119+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
