@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T15:52:15.195426+00:00",
+  "sist_sjekket": "2026-10-24T15:54:14.964422+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479465664",
+      "funnet": "2026-10-24T15:54:14.962506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Bulbasaur non holo 54/112",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479451644",
       "funnet": "2026-10-24T13:26:15.759790+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dedenne illustartion rare #93 Pokemon Perfect Order",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479451504",
-      "funnet": "2026-10-24T13:26:15.164564+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
