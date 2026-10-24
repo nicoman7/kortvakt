@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-24T16:38:16.232775+00:00",
+  "sist_sjekket": "2026-10-24T16:40:23.799320+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419712245",
+      "funnet": "2026-10-24T16:40:23.797540+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort, Tar trades",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479453968",
       "funnet": "2026-10-24T13:50:26.768054+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Promo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479454022",
-      "funnet": "2026-10-24T13:48:16.528878+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
