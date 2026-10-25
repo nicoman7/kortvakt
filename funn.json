@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-25T08:02:17.150087+00:00",
+  "sist_sjekket": "2026-10-25T08:04:16.688648+00:00",
   "funn": [
+    {
+      "tittel": "svær Pokemonkort lott",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479491660",
+      "funnet": "2026-10-25T08:04:16.686964+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort trader mot graderte kort send bud",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
+      "funnet": "2026-10-25T08:04:16.206708+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Jolteon VMAX kinesisk kort CSG 10",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
       "funnet": "2026-10-24T21:06:16.919052+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Giovanni's Charisma SV: 151 Ultra Rare 197/165",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479484522",
-      "funnet": "2026-10-24T21:04:16.378123+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boss's Orders Paldea Evolved Special Illustration Rare 265/193",
-      "pris": 135,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479484513",
-      "funnet": "2026-10-24T21:04:15.701583+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
