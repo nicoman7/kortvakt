@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-25T23:08:15.348742+00:00",
+  "sist_sjekket": "2026-10-25T23:10:26.803877+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-25T23:10:26.802005+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Mareep / Flaaffy / Ampharos sett - 7 kort!",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479592990",
       "funnet": "2026-10-25T20:36:18.141614+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Wonderkids Ethan Nwaneri fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479593069",
-      "funnet": "2026-10-25T20:36:17.393964+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
