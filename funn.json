@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-25T18:54:16.419685+00:00",
+  "sist_sjekket": "2026-10-25T18:56:16.274185+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Eevee ex CCG 10",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479583277",
+      "funnet": "2026-10-25T18:56:16.272874+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-10-25T18:56:15.546917+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Salamence ex kort CGC 9",
       "pris": 600,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-25T17:02:18.656429+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokeman kort vintage og modere",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479570197",
-      "funnet": "2026-10-25T17:02:17.815876+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort trader mot graderte kort send bud",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
-      "funnet": "2026-10-25T17:02:17.012742+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
