@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-25T14:12:22.803787+00:00",
+  "sist_sjekket": "2026-10-25T14:14:17.084040+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479547561",
+      "funnet": "2026-10-25T14:14:17.081960+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pidgeot EX holografisk samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479547681",
+      "funnet": "2026-10-25T14:14:16.349822+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Dustox ex holografisk",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479157040",
       "funnet": "2026-10-25T12:26:14.009186+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Scoop Up Cyclone Trainer-kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479528525",
-      "funnet": "2026-10-25T12:22:15.767362+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Galarian birds japansk",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479527970",
-      "funnet": "2026-10-25T12:22:15.486759+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
