@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-25T07:24:14.673385+00:00",
+  "sist_sjekket": "2026-10-25T07:26:18.832202+00:00",
   "funn": [
+    {
+      "tittel": "Topps Gold Bryan Mbeumo auto /25 Manchester United",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479492312",
+      "funnet": "2026-10-25T07:26:18.830252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eevee 74/131 Pokemon Day",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-24T20:54:21.882233+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration ETB og Booster Bundle selges!",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478842999",
-      "funnet": "2026-10-24T20:54:20.617205+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
