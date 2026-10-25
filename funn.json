@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-25T09:42:22.410668+00:00",
+  "sist_sjekket": "2026-10-25T09:44:17.510304+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479156786",
+      "funnet": "2026-10-25T09:44:17.508555+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Froslass – 38/236 – Unified Minds – Holo Rare",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-24T23:18:16.569272+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort V/VMAX/VSTAR – lot med holo-kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479488020",
-      "funnet": "2026-10-24T23:18:16.206519+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
