@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-25T13:30:41.221265+00:00",
+  "sist_sjekket": "2026-10-25T13:32:15.590800+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Eevee",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479540760",
+      "funnet": "2026-10-25T13:32:15.588944+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon HITS BULK",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479540861",
+      "funnet": "2026-10-25T13:32:15.315396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon double deck box",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479189040",
       "funnet": "2026-10-25T11:50:26.344393+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution  4 sleeved  booster packs",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479522411",
-      "funnet": "2026-10-25T11:48:17.891973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kinesisk Umbreon Reward Round (76) Poke Ball",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479522286",
-      "funnet": "2026-10-25T11:48:17.144882+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
