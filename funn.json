@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-25T05:02:16.722948+00:00",
+  "sist_sjekket": "2026-10-25T05:04:16.146254+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479489843",
+      "funnet": "2026-10-25T05:04:16.144543+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Celebrations M/Charizard",
       "pris": 1600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479483001",
       "funnet": "2026-10-24T20:22:13.461880+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon HITS + EX",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479482677",
-      "funnet": "2026-10-24T20:20:24.136808+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
