@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-25T02:20:26.176383+00:00",
+  "sist_sjekket": "2026-10-25T02:22:18.266597+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort – blandet lot under 50 kr stk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479488776",
+      "funnet": "2026-10-25T02:22:18.264764+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort – blandet lot 55-99 kr stk",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479482595",
       "funnet": "2026-10-24T20:12:15.407601+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Mega Dragalge EX GX holografisk",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479482635",
-      "funnet": "2026-10-24T20:12:14.768536+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
