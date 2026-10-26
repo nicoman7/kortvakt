@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T10:44:16.056206+00:00",
+  "sist_sjekket": "2026-10-26T10:46:18.455613+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479617288",
+      "funnet": "2026-10-26T10:46:18.454185+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Sjelden Pokémon-feilprint! Major Miscut med Alignment Dots (Feilkort)",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479599384",
       "funnet": "2026-10-25T22:50:23.809497+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Tcg - Gwynn 078/084 - reverse holo",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479599332",
-      "funnet": "2026-10-25T22:46:16.785370+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
