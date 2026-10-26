@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T17:16:16.057771+00:00",
+  "sist_sjekket": "2026-10-26T17:18:17.240073+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-26T17:18:17.238202+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort til salgs – mange annonser ute | Pakkerabatt | Gratis frakt",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479635917",
       "funnet": "2026-10-26T14:22:16.588550+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Psyduck",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479635328",
-      "funnet": "2026-10-26T14:18:19.429924+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
