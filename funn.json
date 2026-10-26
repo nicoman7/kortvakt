@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T18:14:18.654872+00:00",
+  "sist_sjekket": "2026-10-26T18:16:19.410083+00:00",
   "funn": [
+    {
+      "tittel": "Jolteon Pokémonkort  -Fastpris",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479655293",
+      "funnet": "2026-10-26T18:16:19.408151+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mega Diancie EX 041/094 - Pokemon Phantasmal Flames",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479655322",
+      "funnet": "2026-10-26T18:16:18.589433+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hearthflame Mask Ogerpon EX 017/131 - Pokemon Prismatic Evolutions",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479641502",
       "funnet": "2026-10-26T15:38:19.353642+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Diancie ex #267 Pokemon Ascended Heroes",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479634072",
-      "funnet": "2026-10-26T15:38:18.976200+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Maractus #93 Pokemon Black Bolt",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479634085",
-      "funnet": "2026-10-26T15:38:18.101978+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
