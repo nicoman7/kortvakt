@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T17:46:15.567960+00:00",
+  "sist_sjekket": "2026-10-26T17:48:15.973564+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort Venusaur og Charizard",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479652560",
+      "funnet": "2026-10-26T17:48:15.972249+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - ELDRE HITS & HOLOS",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479637017",
       "funnet": "2026-10-26T14:40:27.612645+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Arceus (2009 AR6)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479637119",
-      "funnet": "2026-10-26T14:40:27.066548+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
