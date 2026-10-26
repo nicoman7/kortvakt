@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T06:10:27.716278+00:00",
+  "sist_sjekket": "2026-10-26T06:12:16.927631+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479602792",
+      "funnet": "2026-10-26T06:12:16.926163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Buddy-Buddy Poffin kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479594259",
       "funnet": "2026-10-25T20:52:17.215262+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fearow [Stamped] Reverse Holo #18 Pokemon Crystal Guardians",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479594062",
-      "funnet": "2026-10-25T20:52:16.629459+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
