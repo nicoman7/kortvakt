@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T13:42:18.542381+00:00",
+  "sist_sjekket": "2026-10-26T13:44:16.421004+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 29",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479632588",
+      "funnet": "2026-10-26T13:44:16.419059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
+      "funnet": "2026-10-26T13:44:16.177662+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu nr 22",
       "pris": 20,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476438402",
       "funnet": "2026-10-26T10:32:17.374847+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling med tin-boks og holo-kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479616305",
-      "funnet": "2026-10-26T10:30:46.918084+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Miraidon EX 122/162 temporal forces",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479616313",
-      "funnet": "2026-10-26T10:30:45.836947+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
