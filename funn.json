@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-26T19:32:15.678528+00:00",
+  "sist_sjekket": "2026-10-26T19:34:23.385889+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479662064",
+      "funnet": "2026-10-26T19:34:23.383986+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Haunter Samling - Pokemon Triumphant / Pokemon Arceus",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479661364",
+      "funnet": "2026-10-26T19:34:22.528248+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Moltres Phantasmal Flames (14) Holofoil",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479662090",
+      "funnet": "2026-10-26T19:34:21.726456+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-26T19:34:20.876139+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Jigglypuff Phantasmal Flames (76)",
       "pris": 4,
@@ -1166,38 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479655988",
       "funnet": "2026-10-26T18:24:19.237682+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG Tokens - Oppgrader spillbordet ditt! (Stort utvalg) 🃏",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479653658",
-      "funnet": "2026-10-26T18:24:18.541204+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fan Rotom (JP) 213/193 - Pokemon Mega Dream EX",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479655966",
-      "funnet": "2026-10-26T18:24:17.829151+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479157040",
-      "funnet": "2026-10-26T18:24:17.432278+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk MA kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479655609",
-      "funnet": "2026-10-26T18:22:19.134406+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
