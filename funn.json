@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T22:24:18.048983+00:00",
+  "sist_sjekket": "2026-10-26T22:26:18.357263+00:00",
   "funn": [
+    {
+      "tittel": "Cole Palmer Panini Widescreen fotballkort Chelsea FC",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479673074",
+      "funnet": "2026-10-26T22:26:18.355673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon TCG Jumbo Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479672981",
+      "funnet": "2026-10-26T22:26:18.121818+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Crustle 012/182 Pokemon",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479670144",
       "funnet": "2026-10-26T21:16:21.504632+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Premium Poster Collection Mega Lucario",
-      "pris": 1699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479669683",
-      "funnet": "2026-10-26T21:16:20.368028+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Roaring Moon 109/162 – Temporal Forces – Holo Rare",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479670040",
-      "funnet": "2026-10-26T21:16:19.989611+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
