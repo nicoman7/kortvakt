@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-10-26T18:10:25.442215+00:00",
+  "sist_sjekket": "2026-10-26T18:12:21.593556+00:00",
   "funn": [
+    {
+      "tittel": "One piece samling/selges samlet",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479654826",
+      "funnet": "2026-10-26T18:12:21.592120+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ExcadriIl EX 046/086 - Pokemon Black Bolt",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479654965",
+      "funnet": "2026-10-26T18:12:20.817591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Glaceon Pokémonkort -Fastpris",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479654966",
+      "funnet": "2026-10-26T18:12:20.410957+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Flareon Pokemon kort  -Fastpris",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479654830",
+      "funnet": "2026-10-26T18:12:19.616685+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mega Lopunny EX 084/094 - Pokemon Phantasmal Flames",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479654841",
+      "funnet": "2026-10-26T18:12:18.790732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mandibuzz Black Bolt 145/086 Art Rare – CGC Gem Mint 10 (Japansk)",
       "pris": 300,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479641078",
       "funnet": "2026-10-26T15:30:50.186928+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vini Jr. Slick Rare ★ nr. 464 – Real Madrid – Match Attax 2026/27",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479641215",
-      "funnet": "2026-10-26T15:30:49.890174+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2021 Pokemon Celebrations Mew Ex-Holo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479641230",
-      "funnet": "2026-10-26T15:30:48.996103+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Star Wars Chrome 2026 CASEHIT Greedo Bonus Stage Card",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479189040",
-      "funnet": "2026-10-26T15:30:48.233135+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Giovanni's Nidoking holo kort PSA 8",
-      "pris": 1450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479640920",
-      "funnet": "2026-10-26T15:26:18.078133+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-10-26T15:24:18.893066+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
