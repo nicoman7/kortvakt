@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T13:48:24.105591+00:00",
+  "sist_sjekket": "2026-10-26T13:50:30.112116+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479156786",
+      "funnet": "2026-10-26T13:50:30.110372+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "750 Pokémon Kort Bulk",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479616982",
       "funnet": "2026-10-26T10:56:16.256535+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Franco Mastantuono RC – Wonderkids (Topps Chrome UEFA 25/26) – Real Madrid",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479610009",
-      "funnet": "2026-10-26T10:52:21.093622+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
