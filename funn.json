@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T14:56:21.162669+00:00",
+  "sist_sjekket": "2026-10-26T14:58:19.245296+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Gyarados #21",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479638382",
+      "funnet": "2026-10-26T14:58:19.243560+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebrations",
+      "pris": 1050,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479638620",
+      "funnet": "2026-10-26T14:58:18.425568+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort samling vurderes solgt",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-26T12:08:19.373107+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Booster Bundle (30-års)",
-      "pris": 797,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478660955",
-      "funnet": "2026-10-26T12:08:18.713846+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 04/30 ( 026/128) - 30th celebration",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479624150",
-      "funnet": "2026-10-26T12:06:19.732259+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
