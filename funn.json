@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T10:06:17.224402+00:00",
+  "sist_sjekket": "2026-10-26T10:08:17.585909+00:00",
   "funn": [
+    {
+      "tittel": "Samekort permer",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479614516",
+      "funnet": "2026-10-26T10:08:17.583913+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rayan – Bournemouth – Man of the Match Wildcard #113 – Topps 2026/27",
       "pris": 59,
@@ -1190,14 +1198,6 @@
       "pris": 299,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479597419",
       "funnet": "2026-10-25T21:48:15.076544+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kinesiske Pokemon Hits fra forksjellige sets",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479597128",
-      "funnet": "2026-10-25T21:46:16.703986+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
