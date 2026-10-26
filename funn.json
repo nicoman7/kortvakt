@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T11:36:17.374029+00:00",
+  "sist_sjekket": "2026-10-26T11:38:18.136714+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479621055",
+      "funnet": "2026-10-26T11:38:18.134691+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Milotic Delta Species 5/101",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479312657",
       "funnet": "2026-10-26T02:16:16.541945+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-10-26T01:10:25.137139+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
