@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T10:20:27.065876+00:00",
+  "sist_sjekket": "2026-10-26T10:22:15.641326+00:00",
   "funn": [
+    {
+      "tittel": "Samling med Pokémonkort - Gym Heroes (2000)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479614889",
+      "funnet": "2026-10-26T10:22:15.639470+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Raphinha – Barcelona – Goaliaths #133 – Topps 2026/27",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-25T22:10:27.768305+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "*RESERVERT* Pokemon Sacred Ash samlekort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479598270",
-      "funnet": "2026-10-25T22:10:27.073041+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
