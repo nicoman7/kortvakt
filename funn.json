@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T21:48:18.597176+00:00",
+  "sist_sjekket": "2026-10-26T21:50:24.586278+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort: Ronaldo, Ruud Gullit og Maradona",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479671793",
+      "funnet": "2026-10-26T21:50:24.584709+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Booster Bundle (30-års)",
+      "pris": 797,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478660955",
+      "funnet": "2026-10-26T21:50:24.238966+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Barbaracle 043/088 Uncommon Perfect Order Pokemon",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-26T20:16:18.785585+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lamine Yamal og Erling Haaland fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479666039",
-      "funnet": "2026-10-26T20:16:18.000081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026/27 – Beast Mode Lot (ink. Haaland, Strand Larsen)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479634289",
-      "funnet": "2026-10-26T20:14:17.238124+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
