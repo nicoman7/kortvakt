@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T05:52:16.044073+00:00",
+  "sist_sjekket": "2026-10-26T05:54:16.341549+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479602496",
+      "funnet": "2026-10-26T05:54:16.339746+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479602545",
+      "funnet": "2026-10-26T05:54:15.861839+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🔥Pokemon japansk boosterboks Emerald Break samlekort",
       "pris": 999,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479594049",
       "funnet": "2026-10-25T20:50:29.054644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex #183 Scarlet & Violet 151",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479594099",
-      "funnet": "2026-10-25T20:50:28.190973+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Luka Modrić Real Madrid samlekort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479594126",
-      "funnet": "2026-10-25T20:50:27.820484+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
