@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T18:32:23.426839+00:00",
+  "sist_sjekket": "2026-10-26T18:34:20.024026+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th Celebration – inneholder nesten komplett pikachu-samling. GI BUD",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479656076",
+      "funnet": "2026-10-26T18:34:20.022334+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Cristian Romero Topps Chrome Superstar Sensations samlekort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479656858",
+      "funnet": "2026-10-26T18:34:19.218769+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oricorio EX 018/094 - Pokemon Phantasmal Flames",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 180,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479630914",
       "funnet": "2026-10-26T15:58:27.883209+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gyarados 123/123 Reverse Holo",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479642920",
-      "funnet": "2026-10-26T15:58:27.163979+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Medicham #241 Pokemon Ascended Heroes",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479630834",
-      "funnet": "2026-10-26T15:58:26.391024+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
