@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T09:38:17.855382+00:00",
+  "sist_sjekket": "2026-10-26T09:40:28.346149+00:00",
   "funn": [
+    {
+      "tittel": "Trainer kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479611956",
+      "funnet": "2026-10-26T09:40:28.344609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps Flagship #91TF-22 MATTHEW STAFFORD '35th ANNIVERSARY'! RAMS",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479597000",
       "funnet": "2026-10-25T21:42:17.980209+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bill Russell #141 – Topps Chrome Basketball 2025-26 Refractor – Celtics",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479597251",
-      "funnet": "2026-10-25T21:42:17.408529+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
