@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T18:48:16.096032+00:00",
+  "sist_sjekket": "2026-10-26T18:50:30.108054+00:00",
   "funn": [
+    {
+      "tittel": "Div Pkort",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479658164",
+      "funnet": "2026-10-26T18:50:30.106371+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Max Dowman - Arsenal - Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479424341",
+      "funnet": "2026-10-26T18:50:29.424792+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Engelske IR kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479645156",
       "funnet": "2026-10-26T16:22:20.210765+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort PSA 10 Acerola’s Mischief japansk full art",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479644961",
-      "funnet": "2026-10-26T16:20:29.261022+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30th Anniversary ETB",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479644704",
-      "funnet": "2026-10-26T16:20:28.894721+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
