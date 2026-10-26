@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T23:52:20.556100+00:00",
+  "sist_sjekket": "2026-10-26T23:54:17.252609+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467793018",
+      "funnet": "2026-10-26T23:54:17.251053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Ramme til samlerkort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479383277",
+      "funnet": "2026-10-26T23:54:16.563403+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic the Gathering kort",
       "pris": 750,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479672522",
       "funnet": "2026-10-26T22:06:23.295337+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Crobat 051/086 Rare Chaos Rising Pokemon",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479672500",
-      "funnet": "2026-10-26T22:06:22.558592+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm Revolution of Evolution Ansu Fati fotballkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479672521",
-      "funnet": "2026-10-26T22:06:21.715000+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
