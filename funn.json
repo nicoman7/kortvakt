@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-26T14:16:15.297870+00:00",
+  "sist_sjekket": "2026-10-26T14:18:19.431948+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Psyduck",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479635328",
+      "funnet": "2026-10-26T14:18:19.429924+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu nr 15",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479635615",
+      "funnet": "2026-10-26T14:18:19.172260+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fairy kort | Pokémon  ( Fri frakt)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479635047",
+      "funnet": "2026-10-26T14:18:18.621459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-10-26T14:18:18.045703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Rayquaza EX #85",
       "pris": 350,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479621442",
       "funnet": "2026-10-26T11:44:19.761660+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Clodsire EX holo",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479622202",
-      "funnet": "2026-10-26T11:44:18.935735+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Blaziken EX holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479621787",
-      "funnet": "2026-10-26T11:40:26.329419+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479621055",
-      "funnet": "2026-10-26T11:38:18.134691+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Milotic Delta Species 5/101",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479621355",
-      "funnet": "2026-10-26T11:36:17.372281+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
