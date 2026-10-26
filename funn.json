@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T07:18:14.815861+00:00",
+  "sist_sjekket": "2026-10-26T07:20:25.649010+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479604335",
+      "funnet": "2026-10-26T07:20:25.647620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🏀 Topps NBA Hoops 2025-26: Jalen Duren Green Pixel Burst /75!",
       "pris": 85,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479594854",
       "funnet": "2026-10-25T21:00:55.694795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Armarouge ex kort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479594845",
-      "funnet": "2026-10-25T21:00:55.127835+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
