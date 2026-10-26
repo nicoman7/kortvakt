@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-26T12:32:18.391493+00:00",
+  "sist_sjekket": "2026-10-26T12:34:16.455450+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort: Rocket's Admin.",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479626421",
+      "funnet": "2026-10-26T12:34:16.453911+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort pokeball Prismatic Evolutions.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479626215",
+      "funnet": "2026-10-26T12:34:16.046941+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort: Energy Ark Trainer",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-26T08:38:17.276784+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kommo-o 143/128 - Pokemon 30th Celebration",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479607184",
-      "funnet": "2026-10-26T08:38:16.877604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG spesial energi kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479607734",
-      "funnet": "2026-10-26T08:36:19.677307+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
