@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T21:50:24.586278+00:00",
+  "sist_sjekket": "2026-10-26T21:52:15.444519+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort fra 1995.",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479671845",
+      "funnet": "2026-10-26T21:52:15.442566+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort: Ronaldo, Ruud Gullit og Maradona",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-26T20:16:19.674896+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bud mottas: Panini FIFA World Cup 2026 Adrenalyn XL kort med gullglitter",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479665576",
-      "funnet": "2026-10-26T20:16:18.785585+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
