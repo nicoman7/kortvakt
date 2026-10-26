@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T07:58:15.830440+00:00",
+  "sist_sjekket": "2026-10-26T08:00:59.225185+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479605977",
+      "funnet": "2026-10-26T08:00:59.223416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Anniversary ETB",
       "pris": 1700,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479595644",
       "funnet": "2026-10-25T21:14:18.370472+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Full Force Mikey Moore fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479595715",
-      "funnet": "2026-10-25T21:14:17.441242+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
