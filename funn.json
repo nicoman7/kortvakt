@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T05:58:17.800599+00:00",
+  "sist_sjekket": "2026-10-26T06:00:56.663237+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479602635",
+      "funnet": "2026-10-26T06:00:56.661073+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479593957",
       "funnet": "2026-10-25T20:50:29.951726+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Merlin Geovany Quenda fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479594049",
-      "funnet": "2026-10-25T20:50:29.054644+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
