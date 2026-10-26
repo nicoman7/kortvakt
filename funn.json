@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T09:32:17.242487+00:00",
+  "sist_sjekket": "2026-10-26T09:34:19.385757+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479157040",
+      "funnet": "2026-10-26T09:34:19.383941+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 25/10",
       "pris": 2,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479597282",
       "funnet": "2026-10-25T21:42:16.809563+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jørgen Strand Larsen–Fan Favourite–Topps Premier League 2026/27–Crystal Palace",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479597072",
-      "funnet": "2026-10-25T21:40:29.218107+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
