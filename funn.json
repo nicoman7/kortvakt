@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T10:08:17.585909+00:00",
+  "sist_sjekket": "2026-10-26T10:10:28.897493+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Evolutions",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479614577",
+      "funnet": "2026-10-26T10:10:28.895736+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samekort permer",
       "pris": 299,
@@ -1190,14 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479173244",
       "funnet": "2026-10-25T21:52:16.554578+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479597419",
-      "funnet": "2026-10-25T21:48:15.076544+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
