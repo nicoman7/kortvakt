@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-26T14:26:18.207093+00:00",
+  "sist_sjekket": "2026-10-26T14:30:49.057538+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort, Bulk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479636128",
+      "funnet": "2026-10-26T14:30:49.056359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - TOGETIC (HOLO)",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479636330",
+      "funnet": "2026-10-26T14:30:48.696728+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - TOPPS/CARDASS M.M.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479636757",
+      "funnet": "2026-10-26T14:30:48.353565+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort bunke",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479622686",
       "funnet": "2026-10-26T11:50:28.459412+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 Holo/Rare Pokémon Kort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479622716",
-      "funnet": "2026-10-26T11:50:27.669948+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tiedemanns boksing samlekort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479622518",
-      "funnet": "2026-10-26T11:50:26.946390+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 JP",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479622739",
-      "funnet": "2026-10-26T11:50:26.161400+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
