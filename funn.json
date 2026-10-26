@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-26T10:26:16.518765+00:00",
+  "sist_sjekket": "2026-10-26T10:28:16.159343+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
+      "funnet": "2026-10-26T10:28:16.157473+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Luka Modrić – Real Madrid – All-Time 100 Club #482 – Super Rare",
       "pris": 89,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479598333",
       "funnet": "2026-10-25T22:18:16.585371+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lamine Yamal – 2024 Topps Now UEFA Euro #54 (Yngste målscorer)",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478607187",
-      "funnet": "2026-10-25T22:18:15.783127+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
