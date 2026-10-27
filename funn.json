@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T17:24:30.556220+00:00",
+  "sist_sjekket": "2026-10-27T17:26:22.184271+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-27T17:26:22.182686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Sandshrew samlekort",
       "pris": 235,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479714062",
       "funnet": "2026-10-27T15:34:18.350393+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dudunsparce080/131 Prismatic Evolutions Pokemon",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479714220",
-      "funnet": "2026-10-27T15:32:19.285358+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
