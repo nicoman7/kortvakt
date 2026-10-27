@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T14:42:15.813512+00:00",
+  "sist_sjekket": "2026-10-27T14:44:19.503965+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479710608",
+      "funnet": "2026-10-27T14:44:19.501860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Prizm fotballkort – blandet lot med inserts og autografkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479435775",
+      "funnet": "2026-10-27T14:44:19.098175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Bobb RC Fotballkort",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479698339",
       "funnet": "2026-10-27T12:20:27.046478+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League 2026/27 samlekort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479697474",
-      "funnet": "2026-10-27T12:16:20.281385+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av Mew Pokémonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479697696",
-      "funnet": "2026-10-27T12:14:16.605666+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
