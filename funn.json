@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T09:00:59.710689+00:00",
+  "sist_sjekket": "2026-10-27T09:02:15.733485+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-27T09:02:15.731541+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon-kort til salgs! Se liste i annonsen",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479674781",
       "funnet": "2026-10-27T00:38:16.251037+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Victor Gyökeres Arsenal fotballkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674730",
-      "funnet": "2026-10-27T00:36:16.605400+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
