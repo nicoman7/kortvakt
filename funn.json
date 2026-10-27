@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T12:12:14.935791+00:00",
+  "sist_sjekket": "2026-10-27T12:14:16.607554+00:00",
   "funn": [
+    {
+      "tittel": "Samling av Mew Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479697696",
+      "funnet": "2026-10-27T12:14:16.605666+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Martin Ødegaard ultra magician fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479698174",
+      "funnet": "2026-10-27T12:14:16.251345+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon GX/EX Kort",
       "pris": 680,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/455884632",
       "funnet": "2026-10-27T08:38:23.327406+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2001 topps pokemonPersian samlekort #53",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455710502",
-      "funnet": "2026-10-27T08:38:22.533967+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2001 topps pokemon kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/455812418",
-      "funnet": "2026-10-27T08:38:21.679422+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
