@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T07:20:29.407109+00:00",
+  "sist_sjekket": "2026-10-27T07:22:16.475669+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort FIFA World Cup 2026",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470398825",
+      "funnet": "2026-10-27T07:22:16.473924+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479678059",
+      "funnet": "2026-10-27T07:22:16.242523+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-26T23:40:25.578072+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Golazo Tony Yeboah fotballkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674355",
-      "funnet": "2026-10-26T23:34:17.330435+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479673068",
-      "funnet": "2026-10-26T23:34:16.457367+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
