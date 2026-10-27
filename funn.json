@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T07:54:17.369249+00:00",
+  "sist_sjekket": "2026-10-27T07:56:18.626300+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479679326",
+      "funnet": "2026-10-27T07:56:18.624303+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Blastoise Ex",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479674417",
       "funnet": "2026-10-26T23:42:15.306020+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration japanske hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674178",
-      "funnet": "2026-10-26T23:40:27.091529+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
