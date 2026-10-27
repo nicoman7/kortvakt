@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T14:36:19.888741+00:00",
+  "sist_sjekket": "2026-10-27T14:38:21.832647+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort bulk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479710200",
+      "funnet": "2026-10-27T14:38:21.830671+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort 30th celebrations trades, se bilder",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479709034",
+      "funnet": "2026-10-27T14:38:21.026375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort av hele Manchester United laget 2024/25 selges!",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-27T12:14:16.251345+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon GX/EX Kort",
-      "pris": 680,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479696945",
-      "funnet": "2026-10-27T12:10:28.099025+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Queen og Village People og The Babys samlealbumkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479697314",
-      "funnet": "2026-10-27T12:08:18.986009+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
