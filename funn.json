@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T08:00:57.730809+00:00",
+  "sist_sjekket": "2026-10-27T08:02:15.778534+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG Articuno EX-kort",
+      "pris": 144,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479670869",
+      "funnet": "2026-10-27T08:02:15.776619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 10 Houndstone Illustration Rare 145/132 Mega Evolution",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479312657",
       "funnet": "2026-10-26T23:46:16.359969+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Enzo Fernández fotballkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674434",
-      "funnet": "2026-10-26T23:44:15.092143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
