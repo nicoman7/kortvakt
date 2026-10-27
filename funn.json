@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T19:28:27.214918+00:00",
+  "sist_sjekket": "2026-10-27T19:30:49.330183+00:00",
   "funn": [
+    {
+      "tittel": "RM Indigo album forkort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479732430",
+      "funnet": "2026-10-27T19:30:49.328159+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon ancient Mew ungraded",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479732344",
+      "funnet": "2026-10-27T19:30:48.451667+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dark Houndoom 37/109 – EX Team Rocket Returns 2004 – Pokémonkort",
       "pris": 169,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479726800",
       "funnet": "2026-10-27T18:24:18.833810+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Michael Schumacher legend green checker flag F1 samlekort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479726271",
-      "funnet": "2026-10-27T18:24:18.461201+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sowoozoo RM fotokort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479726834",
-      "funnet": "2026-10-27T18:24:18.083447+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
