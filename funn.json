@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T18:01:07.217469+00:00",
+  "sist_sjekket": "2026-10-27T18:02:20.011435+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Birthday Pikachu samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/460265081",
+      "funnet": "2026-10-27T18:02:20.009537+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ramme til samlerkort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479383277",
+      "funnet": "2026-10-27T18:02:19.279428+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Ditto, Mewtwo, Latias og flere",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479717026",
       "funnet": "2026-10-27T16:16:17.807675+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Elgyem 040/086 Common Black Bolt Pokemon",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479717164",
-      "funnet": "2026-10-27T16:16:17.264657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo og Hitmontop samlekort",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479717126",
-      "funnet": "2026-10-27T16:16:16.875029+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
