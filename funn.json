@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T08:48:15.992176+00:00",
+  "sist_sjekket": "2026-10-27T08:50:29.000833+00:00",
   "funn": [
+    {
+      "tittel": "Samling med samlekort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479682078",
+      "funnet": "2026-10-27T08:50:28.998829+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort og samleboks",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479681983",
+      "funnet": "2026-10-27T08:50:28.210412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Chandelure V samlekort 200 HP",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479674738",
       "funnet": "2026-10-27T00:30:47.471880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup Qatar 2022 Vinícius Jr. Brasil samlekort nr. 36",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674750",
-      "funnet": "2026-10-27T00:30:46.713947+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Serge Gnabry FC Bayern München Goalazo samlekort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674695",
-      "funnet": "2026-10-27T00:26:17.124877+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
