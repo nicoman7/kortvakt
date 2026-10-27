@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-27T06:50:26.532492+00:00",
+  "sist_sjekket": "2026-10-27T06:52:20.559139+00:00",
   "funn": [
+    {
+      "tittel": "Lamine Yamal - Barcelona - Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479658225",
+      "funnet": "2026-10-27T06:52:20.557543+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Power keepers",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479677237",
+      "funnet": "2026-10-27T06:52:20.168163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Dragonite VSTAR Rainbow Rare Pokémonkort",
       "pris": 280,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-26T23:30:48.801494+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mark Flekken Select Brentford fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479674322",
-      "funnet": "2026-10-26T23:30:48.017173+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
-      "funnet": "2026-10-26T23:30:47.665472+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
