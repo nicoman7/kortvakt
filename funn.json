@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T12:24:19.695019+00:00",
+  "sist_sjekket": "2026-10-27T12:26:15.961882+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon psychic type samling",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479699026",
+      "funnet": "2026-10-27T12:26:15.960488+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling Pokémon Mewtwo VSTAR, Mewtwo V og Mewtwo EX Pokémon-kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/455808554",
       "funnet": "2026-10-27T08:40:28.019436+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokémon kort slugma",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/453989609",
-      "funnet": "2026-10-27T08:40:27.358817+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
