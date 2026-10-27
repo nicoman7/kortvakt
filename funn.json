@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T12:01:00.762780+00:00",
+  "sist_sjekket": "2026-10-27T12:02:20.166563+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479696510",
+      "funnet": "2026-10-27T12:02:20.165132+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "50 kort med 10 holo/reverse holo",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479681302",
       "funnet": "2026-10-27T08:36:19.507027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Junior Kroupi Topps Merlin Young Magicians YM-2 AFC Bournemouth",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479681336",
-      "funnet": "2026-10-27T08:36:18.721131+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
