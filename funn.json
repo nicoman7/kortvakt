@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T20:24:17.933273+00:00",
+  "sist_sjekket": "2026-10-27T20:26:15.758214+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-27T20:26:15.757014+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Wobbuffet Topps Johto",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/473708524",
       "funnet": "2026-10-27T19:06:18.295377+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon shining fates booster pakker",
-      "pris": 275,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479730041",
-      "funnet": "2026-10-27T19:06:18.040709+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
