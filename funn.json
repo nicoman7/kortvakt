@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-27T11:18:18.550703+00:00",
+  "sist_sjekket": "2026-10-27T11:20:27.962179+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479693668",
+      "funnet": "2026-10-27T11:20:27.960645+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "🌟Pakker med ekstra mye glins! EX-kort + 10 holo garantert!🌟",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479679474",
       "funnet": "2026-10-27T07:58:16.735607+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479679326",
-      "funnet": "2026-10-27T07:56:18.624303+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
