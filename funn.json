@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T13:54:19.273408+00:00",
+  "sist_sjekket": "2026-10-28T13:56:17.526735+00:00",
   "funn": [
+    {
+      "tittel": "Topps autografer",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479774702",
+      "funnet": "2026-10-28T13:56:17.525040+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wooper Reverse Pokémon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479776953",
+      "funnet": "2026-10-28T13:56:16.932173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gible samlekort",
       "pris": 75,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-28T09:50:28.269291+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort PROMO",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479755952",
-      "funnet": "2026-10-28T09:48:20.511581+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Martin Ødegaard – Ultra Magician (Panini FIFA 365 2027)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479755807",
-      "funnet": "2026-10-28T09:44:19.352009+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
