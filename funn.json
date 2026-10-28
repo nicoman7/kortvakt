@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T00:06:18.726012+00:00",
+  "sist_sjekket": "2026-10-28T00:08:15.110160+00:00",
   "funn": [
+    {
+      "tittel": "Ramme til samlerkort",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479383277",
+      "funnet": "2026-10-28T00:08:15.108898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort, basket, fotball i samlekort i plastkasse",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479741330",
       "funnet": "2026-10-27T21:48:16.549936+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort David Beckham Premier Gold 1997/98",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/205250712",
-      "funnet": "2026-10-27T21:44:20.336123+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
