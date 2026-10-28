@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T09:40:27.040369+00:00",
+  "sist_sjekket": "2026-10-28T09:42:18.314818+00:00",
   "funn": [
+    {
+      "tittel": "151 pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479755526",
+      "funnet": "2026-10-28T09:42:18.312761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Palkia Lv. 67 samlekort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479743603",
       "funnet": "2026-10-27T23:06:19.702212+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Stefanos Tzimas samlekort Brighton & Hove Albion",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743618",
-      "funnet": "2026-10-27T23:06:19.451663+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
