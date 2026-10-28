@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T07:40:28.621702+00:00",
+  "sist_sjekket": "2026-10-28T07:42:16.805048+00:00",
   "funn": [
+    {
+      "tittel": "880 fotballkort",
+      "pris": 880,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/419512227",
+      "funnet": "2026-10-28T07:42:16.803143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "RESERVERT - Pokemon kort - 1 AR kort fra 30th Celebration Japansk",
       "pris": 120,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479742915",
       "funnet": "2026-10-27T22:34:18.834124+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort – Vintage, Delta Species, GX, Holo & Reverse Holo!",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479742734",
-      "funnet": "2026-10-27T22:34:18.093632+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
