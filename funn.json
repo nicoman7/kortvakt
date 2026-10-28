@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T13:20:41.973420+00:00",
+  "sist_sjekket": "2026-10-28T13:22:16.231423+00:00",
   "funn": [
+    {
+      "tittel": "wc26 adrenalyn xl kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479773906",
+      "funnet": "2026-10-28T13:22:16.229614+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Stappfull etb med gamle kort ( fri frakt)",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479752334",
       "funnet": "2026-10-28T08:54:15.824135+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Samlekort - Torterra, Grotle, Turtwig - Lv. X, Holo, Diamond & Pearl",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479494266",
-      "funnet": "2026-10-28T08:46:19.273854+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
