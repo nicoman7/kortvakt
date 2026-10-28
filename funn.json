@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T17:48:22.189619+00:00",
+  "sist_sjekket": "2026-10-28T17:50:32.424241+00:00",
   "funn": [
+    {
+      "tittel": "Charizard",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479793517",
+      "funnet": "2026-10-28T17:50:32.422581+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kylian Mbappé Golden Baller – Panini Adrenalyn XL VM 2026",
       "pris": 340,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479781644",
       "funnet": "2026-10-28T14:58:19.057727+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon matpakke kiste fylt med pokemon pakker!",
-      "pris": 1099,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479781345",
-      "funnet": "2026-10-28T14:58:18.361705+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
