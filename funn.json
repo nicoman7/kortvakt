@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T09:38:15.908652+00:00",
+  "sist_sjekket": "2026-10-28T09:40:27.040369+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG Palkia Lv. 67 samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479731649",
+      "funnet": "2026-10-28T09:40:27.038222+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "(NM/LP) Squirtle #132 Expedition pokemon",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479743618",
       "funnet": "2026-10-27T23:06:19.451663+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Captain Enoch #80 RayWave – Topps Chrome Star Wars 2026",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743547",
-      "funnet": "2026-10-27T23:04:30.696023+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
