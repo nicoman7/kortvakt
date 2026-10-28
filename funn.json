@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T16:38:21.307183+00:00",
+  "sist_sjekket": "2026-10-28T16:40:29.515129+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Fomantis og meowth Pokémonkort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479788665",
+      "funnet": "2026-10-28T16:40:29.513633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Blastoise Pokémon-kort",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479774702",
       "funnet": "2026-10-28T13:56:17.525040+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wooper Reverse Pokémon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479776953",
-      "funnet": "2026-10-28T13:56:16.932173+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
