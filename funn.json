@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-28T14:48:18.266777+00:00",
+  "sist_sjekket": "2026-10-28T14:50:30.844783+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-28T14:50:30.842802+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "SHAWN KEMP basketballkort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479781139",
+      "funnet": "2026-10-28T14:50:30.053745+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479781158",
+      "funnet": "2026-10-28T14:50:29.120683+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th celebrations samling",
       "pris": 999,
@@ -1174,30 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479761886",
       "funnet": "2026-10-28T11:04:18.341290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Ludicolo reverse holo kinesisk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479761835",
-      "funnet": "2026-10-28T11:04:17.586132+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TOPPS flagship premier league 2026/27",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479761159",
-      "funnet": "2026-10-28T10:58:19.364252+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort: M Latios EX",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463421150",
-      "funnet": "2026-10-28T10:56:15.910223+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
