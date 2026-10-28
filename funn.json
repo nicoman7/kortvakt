@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T14:54:19.699501+00:00",
+  "sist_sjekket": "2026-10-28T14:56:18.893405+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort: Mega Blastoise EX, Mega Gardevoir EX og Charizard & Braixen GX",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479781444",
+      "funnet": "2026-10-28T14:56:18.891310+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "E-series pokemonkort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T11:10:29.407681+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort reverse holo kinesisk (billig bundle)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479762200",
-      "funnet": "2026-10-28T11:08:16.860781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
