@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T13:32:17.880214+00:00",
+  "sist_sjekket": "2026-10-28T13:34:37.442841+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Perm",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479774851",
+      "funnet": "2026-10-28T13:34:37.441445+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Elite Trainer Box",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479775192",
+      "funnet": "2026-10-28T13:34:36.735338+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort 400+ kort bulk selges",
       "pris": 280,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479744634",
       "funnet": "2026-10-28T09:22:19.486949+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard ex 105/112 Holo, EX FireRed & LeafGreen 2004",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479753974",
-      "funnet": "2026-10-28T09:22:18.613214+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Foilkort fra Hobbiten Magic: The Gathering",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479753732",
-      "funnet": "2026-10-28T09:20:28.022145+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
