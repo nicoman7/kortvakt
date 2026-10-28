@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T09:14:18.179058+00:00",
+  "sist_sjekket": "2026-10-28T09:16:17.337180+00:00",
   "funn": [
+    {
+      "tittel": "(NM/LP) Scizor #32 Aquapolis pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479753549",
+      "funnet": "2026-10-28T09:16:17.335439+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort – blandet samling",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479753832",
+      "funnet": "2026-10-28T09:16:16.955166+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Collector Binder og fotballkort 2007/2008",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479743475",
       "funnet": "2026-10-27T23:01:01.413800+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743470",
-      "funnet": "2026-10-27T23:01:01.049403+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(NM/LP) Espeon #11 Aquapolis Pokemon",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743377",
-      "funnet": "2026-10-27T23:01:00.661874+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
