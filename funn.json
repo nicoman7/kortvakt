@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T06:12:19.488861+00:00",
+  "sist_sjekket": "2026-10-28T06:14:16.919549+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
+      "funnet": "2026-10-28T06:14:16.917885+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration Mini Tin [Mew]  by uåpnet",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479742555",
       "funnet": "2026-10-27T22:22:20.936959+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Merlin Virgil van Dijk Liverpool FC Premier League-samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479742477",
-      "funnet": "2026-10-27T22:20:29.411280+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
