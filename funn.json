@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T17:44:23.107815+00:00",
+  "sist_sjekket": "2026-10-28T17:46:21.562942+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard EX Super Premium Collection promo med figur",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/453152538",
+      "funnet": "2026-10-28T17:46:21.561661+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort 065/095",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T14:52:17.761592+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-10-28T14:50:30.842802+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
