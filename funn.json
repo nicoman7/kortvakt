@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T13:56:17.526735+00:00",
+  "sist_sjekket": "2026-10-28T13:58:17.033646+00:00",
   "funn": [
+    {
+      "tittel": "Sivally GX Pokémon kort",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479777115",
+      "funnet": "2026-10-28T13:58:17.031653+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps autografer",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T09:50:29.148405+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort vurderes solgt. Gi bud",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479337611",
-      "funnet": "2026-10-28T09:50:28.269291+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
