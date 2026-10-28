@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T12:01:03.837348+00:00",
+  "sist_sjekket": "2026-10-28T12:02:15.255014+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Cyndaquil Topps Johto",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479767492",
+      "funnet": "2026-10-28T12:02:15.253067+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ash Ketchum Topps Heroes & Villians",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T00:26:17.380267+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps 2026/27 fotballkort – 11 kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479744535",
-      "funnet": "2026-10-28T00:24:18.766513+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
