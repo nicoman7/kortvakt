@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T08:10:28.344911+00:00",
+  "sist_sjekket": "2026-10-28T08:12:15.668700+00:00",
   "funn": [
+    {
+      "tittel": "Charizard binder",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479749607",
+      "funnet": "2026-10-28T08:12:15.667324+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Jirachi ex 155/128 holografisk samlekort",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-27T22:44:18.409947+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini World Cup  España 82 - selges enkeltvis. 70 stk solgt!",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479474253",
-      "funnet": "2026-10-27T22:38:19.521620+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
