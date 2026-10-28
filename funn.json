@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T15:42:21.678201+00:00",
+  "sist_sjekket": "2026-10-28T15:44:22.793605+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON - DEOXYS EX",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479784817",
+      "funnet": "2026-10-28T15:44:22.791717+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort vurderes solgt. Gi bud",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479337611",
+      "funnet": "2026-10-28T15:44:21.973921+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - AQUAPOLIS",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477250428",
       "funnet": "2026-10-28T12:36:20.505422+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lady samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479770137",
-      "funnet": "2026-10-28T12:34:19.523172+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spennende Pokemon adventskalendere🎄 2 Varianter!",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/326319652",
-      "funnet": "2026-10-28T12:34:17.146534+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
