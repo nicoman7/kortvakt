@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T00:22:18.736757+00:00",
+  "sist_sjekket": "2026-10-28T00:24:18.767976+00:00",
   "funn": [
+    {
+      "tittel": "Topps 2026/27 fotballkort – 11 kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479744535",
+      "funnet": "2026-10-28T00:24:18.766513+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Premiee Leauge 2026/27 Nitro Boost fotballkort",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479741405",
       "funnet": "2026-10-27T21:50:28.286259+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Futera Fan’s Selection The Squad Jordi Cruyff samlekort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479741439",
-      "funnet": "2026-10-27T21:50:27.537948+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
