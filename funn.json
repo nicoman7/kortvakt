@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T09:34:16.853253+00:00",
+  "sist_sjekket": "2026-10-28T09:36:20.005103+00:00",
   "funn": [
+    {
+      "tittel": "(NM/LP) Squirtle #132 Expedition pokemon",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479755105",
+      "funnet": "2026-10-28T09:36:20.003509+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Adrenalyn XL VM 26 kort selges.",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479754829",
+      "funnet": "2026-10-28T09:36:19.275608+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "(LP) Squirtle #131 Expedition pokemon",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479743547",
       "funnet": "2026-10-27T23:04:30.696023+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Booster Bundle",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743518",
-      "funnet": "2026-10-27T23:04:29.955854+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Elano Streets Won’t Forget fotballkort Manchester City",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743570",
-      "funnet": "2026-10-27T23:04:29.198505+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
