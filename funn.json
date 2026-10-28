@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T18:40:31.650165+00:00",
+  "sist_sjekket": "2026-10-28T18:42:17.724059+00:00",
   "funn": [
+    {
+      "tittel": "CHRIS WEBBER basketballkort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479797485",
+      "funnet": "2026-10-28T18:42:17.722089+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
+      "funnet": "2026-10-28T18:42:17.018594+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Kylian Mbappé fotballkort",
       "pris": 25,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479785435",
       "funnet": "2026-10-28T15:52:46.655553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Mewtwo ex #63 Pokemon Japanese Mega Dream ex",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479779035",
-      "funnet": "2026-10-28T15:52:45.890123+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex #44 Pokemon Japanese Mega Dream ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479779047",
-      "funnet": "2026-10-28T15:52:45.046042+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
