@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T08:52:17.148694+00:00",
+  "sist_sjekket": "2026-10-28T08:54:15.825792+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk 300 kort ( fri frakt)",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479752334",
+      "funnet": "2026-10-28T08:54:15.824135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Samlekort - Torterra, Grotle, Turtwig - Lv. X, Holo, Diamond & Pearl",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-27T22:58:16.451743+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(LP) Snorlax #100 Skyridge pokemon",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743208",
-      "funnet": "2026-10-27T22:54:19.689608+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
