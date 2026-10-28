@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T18:22:18.773726+00:00",
+  "sist_sjekket": "2026-10-28T18:24:19.740275+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479796101",
+      "funnet": "2026-10-28T18:24:19.739139+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "KARL MALONE basketballkort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479796129",
+      "funnet": "2026-10-28T18:24:18.918971+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "3D basketballkort med briller",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-28T15:36:17.278621+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Youri Tielemans Aston Villa Yellow Voltage nr. 42 – Topps Premier League 2026/27",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479784098",
-      "funnet": "2026-10-28T15:34:28.684356+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Fossil kort (1999)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479784089",
-      "funnet": "2026-10-28T15:34:27.747678+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
