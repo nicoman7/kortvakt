@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T18:18:25.661480+00:00",
+  "sist_sjekket": "2026-10-28T18:20:39.725727+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort jigglybuff og Wigglytuff",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479795820",
+      "funnet": "2026-10-28T18:20:39.723698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 – 20 kort (Top Master Mané, Limited Edition, Van Dijk m.fl.)",
       "pris": 35,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T15:26:19.166163+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard & Reshiram GX Tag team (sun and moon promo) KOM MED BUD!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479783592",
-      "funnet": "2026-10-28T15:26:18.398624+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
