@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-28T16:24:18.549180+00:00",
+  "sist_sjekket": "2026-10-28T16:26:27.991364+00:00",
   "funn": [
+    {
+      "tittel": "Charizard VMax #SWSH261 Pokemon Promo",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479779607",
+      "funnet": "2026-10-28T16:26:27.989610+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Raging Bolt ex #166 Pokemon Prismatic Evolutions",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479779568",
+      "funnet": "2026-10-28T16:26:27.565877+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duskull #68 Pokemon Shrouded Fable",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479779521",
+      "funnet": "2026-10-28T16:26:27.132412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Trainerkort Allister",
       "pris": 45,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479774902",
       "funnet": "2026-10-28T13:38:17.608284+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling, 14 stk (EX-Serien og mer… Mew, Gardevoir osv)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479451288",
-      "funnet": "2026-10-28T13:38:17.231050+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Perm",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479774851",
-      "funnet": "2026-10-28T13:34:37.441445+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Elite Trainer Box",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479775192",
-      "funnet": "2026-10-28T13:34:36.735338+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
