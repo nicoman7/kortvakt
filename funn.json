@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T15:34:28.686015+00:00",
+  "sist_sjekket": "2026-10-28T15:36:18.069268+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479780820",
+      "funnet": "2026-10-28T15:36:18.067833+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-28T15:36:17.278621+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Youri Tielemans Aston Villa Yellow Voltage nr. 42 – Topps Premier League 2026/27",
       "pris": 49,
@@ -1182,22 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479769981",
       "funnet": "2026-10-28T12:32:16.874549+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Heat Burner #101 Pokemon Japanese Inferno X - M2",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479763526",
-      "funnet": "2026-10-28T12:30:48.728879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Venusaur Topps Advanced Challenge",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479769584",
-      "funnet": "2026-10-28T12:28:19.554062+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
