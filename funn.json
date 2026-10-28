@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-28T14:50:30.844783+00:00",
+  "sist_sjekket": "2026-10-28T14:52:18.653523+00:00",
   "funn": [
+    {
+      "tittel": "E-series pokemonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479781255",
+      "funnet": "2026-10-28T14:52:18.651680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "GLEN RICE basketballkort",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479781385",
+      "funnet": "2026-10-28T14:52:17.761592+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-28T11:08:16.860781+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Golem reverse holo kinesisk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479762070",
-      "funnet": "2026-10-28T11:06:16.767869+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Evolution Delta Reign boosterpakke, 10 kort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479761886",
-      "funnet": "2026-10-28T11:04:18.341290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
