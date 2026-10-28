@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T08:34:17.850691+00:00",
+  "sist_sjekket": "2026-10-28T08:36:18.387482+00:00",
   "funn": [
+    {
+      "tittel": "Gem pack Vol 3 EX kort",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479751291",
+      "funnet": "2026-10-28T08:36:18.385642+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon samlekort gengar 30th",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479743265",
       "funnet": "2026-10-27T22:48:16.567057+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grogu #32 – Topps Chrome Star Wars 2026",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743112",
-      "funnet": "2026-10-27T22:46:16.915476+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
