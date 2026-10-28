@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-28T21:04:23.438574+00:00",
+  "sist_sjekket": "2026-10-28T21:06:17.872118+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479807812",
+      "funnet": "2026-10-28T21:06:17.869867+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "World of Vikings samlebok og klistremerker",
       "pris": 199,
@@ -1190,14 +1198,6 @@
       "pris": 399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/474211288",
       "funnet": "2026-10-28T19:18:17.487840+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pristine 10 Captan Pikachu",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478379905",
-      "funnet": "2026-10-28T19:18:16.918941+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
