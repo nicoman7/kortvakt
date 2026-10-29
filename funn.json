@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T02:00:53.915210+00:00",
+  "sist_sjekket": "2026-10-29T02:02:19.220099+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
+      "funnet": "2026-10-29T02:02:19.218231+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort trader mot graderte eller sealed produkter",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479809629",
       "funnet": "2026-10-28T21:46:18.536057+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery pakker, charizard chase! Masse bangers!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479546937",
-      "funnet": "2026-10-28T21:44:16.421741+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
