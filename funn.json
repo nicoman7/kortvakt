@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-29T15:42:19.094333+00:00",
+  "sist_sjekket": "2026-10-29T15:44:17.599931+00:00",
   "funn": [
+    {
+      "tittel": "Japansk 151 Pokémon samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479850172",
+      "funnet": "2026-10-29T15:44:17.598517+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon mystery pakker. Ny Eevee chase.",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
+      "funnet": "2026-10-29T15:44:16.892880+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort 25th anniversary, alle er Holo",
       "pris": 199,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479837238",
       "funnet": "2026-10-29T12:52:17.610620+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479837433",
-      "funnet": "2026-10-29T12:52:16.982583+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diogo Dalot Manchester United 59 Wildcard Rare – Match Attax 2026/27",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479837860",
-      "funnet": "2026-10-29T12:52:16.381588+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
