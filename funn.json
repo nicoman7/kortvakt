@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-29T09:08:17.048336+00:00",
+  "sist_sjekket": "2026-10-29T09:10:29.161188+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 160,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479821325",
+      "funnet": "2026-10-29T09:10:29.159404+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Edgar Markov mtg kort foil C17",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479821533",
+      "funnet": "2026-10-29T09:10:28.305396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering Coat of arms kort",
       "pris": 130,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479811449",
       "funnet": "2026-10-28T22:46:15.405057+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery pakker. Ny Eevee chase.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
-      "funnet": "2026-10-28T22:46:15.145990+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG: 1x Heliod, the Radiant Dawn // Heliod, the Warped Eclipse (MOM - Rare) ☀️⚙️💧",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479811321",
-      "funnet": "2026-10-28T22:44:19.229117+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
