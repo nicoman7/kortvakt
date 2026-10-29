@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T07:34:15.348509+00:00",
+  "sist_sjekket": "2026-10-29T07:36:17.890417+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon slabs selges samlet",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479816025",
+      "funnet": "2026-10-29T07:36:17.888642+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Marvel neon lot",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479810167",
       "funnet": "2026-10-28T22:01:04.749784+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479810186",
-      "funnet": "2026-10-28T22:01:04.406191+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
