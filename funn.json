@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T20:14:17.564677+00:00",
+  "sist_sjekket": "2026-10-29T20:16:16.771889+00:00",
   "funn": [
+    {
+      "tittel": "50 kort med 10 holo/reverse holo",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476440876",
+      "funnet": "2026-10-29T20:16:16.769992+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479862035",
       "funnet": "2026-10-29T18:50:30.299826+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479862605",
-      "funnet": "2026-10-29T18:50:29.410022+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
