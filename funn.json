@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-29T09:42:19.101787+00:00",
+  "sist_sjekket": "2026-10-29T09:44:21.906687+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479823488",
+      "funnet": "2026-10-29T09:44:21.904720+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kaheera, the Orphanguard mtg kort halo foil",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479823772",
+      "funnet": "2026-10-29T09:44:21.051281+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 94/123 Reverse holo (Pokémon Mysterious Treasures, 2007)",
       "pris": 220,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-28T23:38:14.756236+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega Slowbro EX Pitch Black ultra rare 031/084",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812250",
-      "funnet": "2026-10-28T23:36:15.305719+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Abomasnow EX Mega Evolution ultra rare 032/132",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812149",
-      "funnet": "2026-10-28T23:28:17.781507+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
