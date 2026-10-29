@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T21:36:18.961346+00:00",
+  "sist_sjekket": "2026-10-29T21:38:15.888964+00:00",
   "funn": [
+    {
+      "tittel": "30th celebration Pikachu",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479872574",
+      "funnet": "2026-10-29T21:38:15.886932+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA 365 2026-2027 limited edition Panini variant",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478987530",
       "funnet": "2026-10-29T19:16:19.365782+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Salamence ex 103/107 – EX Deoxys 2005 – vintage Pokémonkort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477424483",
-      "funnet": "2026-10-29T19:16:18.457376+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
