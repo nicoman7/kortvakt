@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T09:16:21.134740+00:00",
+  "sist_sjekket": "2026-10-29T09:18:16.219964+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479821840",
+      "funnet": "2026-10-29T09:18:16.218144+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thousand-Year Elixir mtg kort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479811461",
       "funnet": "2026-10-28T22:52:16.633010+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ramme til samlerkort",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479383277",
-      "funnet": "2026-10-28T22:52:16.396955+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
