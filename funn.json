@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T00:38:16.584865+00:00",
+  "sist_sjekket": "2026-10-29T00:40:26.873920+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort vurderes solgt. Gi bud",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479337611",
+      "funnet": "2026-10-29T00:40:26.871857+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon EX kort 3stk",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479807849",
       "funnet": "2026-10-28T21:10:27.043902+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Samlekort - Torterra, Grotle, Turtwig - Lv. X, Holo, Diamond & Pearl",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479494266",
-      "funnet": "2026-10-28T21:10:26.438117+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
