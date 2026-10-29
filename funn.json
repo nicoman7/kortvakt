@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T18:42:18.862728+00:00",
+  "sist_sjekket": "2026-10-29T18:44:17.792267+00:00",
   "funn": [
+    {
+      "tittel": "Mohamed Salah CA6 fotballkort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479862141",
+      "funnet": "2026-10-29T18:44:17.789994+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner serie 3",
       "pris": 349,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T15:44:17.598517+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon mystery pakker. Ny Eevee chase.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
-      "funnet": "2026-10-29T15:44:16.892880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
