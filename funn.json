@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T09:48:17.549792+00:00",
+  "sist_sjekket": "2026-10-29T09:50:26.682450+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON-kort kr. 10 pr.stk.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479820925",
+      "funnet": "2026-10-29T09:50:26.680731+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Rayquaza 9/106 Holo Rare – EX Emerald (2005)",
       "pris": 1800,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479812286",
       "funnet": "2026-10-28T23:38:16.093795+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raichu holo samlekort 25/165",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479810503",
-      "funnet": "2026-10-28T23:38:15.397457+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
