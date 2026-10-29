@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T10:10:29.659365+00:00",
+  "sist_sjekket": "2026-10-29T10:12:16.684110+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort KOM MED BUD",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479825525",
+      "funnet": "2026-10-29T10:12:16.682304+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 160,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477893748",
       "funnet": "2026-10-29T00:16:15.972232+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Samlekort - Empoleon, Prinplup, Piplup - Lv. X, Holo, Diamond & Pearl",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479528879",
-      "funnet": "2026-10-29T00:12:15.543365+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
