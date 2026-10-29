@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T17:52:24.237565+00:00",
+  "sist_sjekket": "2026-10-29T17:54:18.320737+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort selges enkeltvis eller samlet | Pikachu, EX, GX, V",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479858609",
+      "funnet": "2026-10-29T17:54:18.318810+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Greavard 214/198 – PSA 8 – Illustration Rare – Scarlet & Violet",
       "pris": 180,
@@ -1190,14 +1198,6 @@
       "pris": 123,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479245921",
       "funnet": "2026-10-29T14:18:20.705046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ramme til samlerkort",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479383277",
-      "funnet": "2026-10-29T14:16:16.177072+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
