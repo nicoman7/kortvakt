@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-29T09:28:19.795307+00:00",
+  "sist_sjekket": "2026-10-29T09:30:47.398052+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479822526",
+      "funnet": "2026-10-29T09:30:47.396362+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Acererak the Archlich Magic: The Gathering-kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479822400",
+      "funnet": "2026-10-29T09:30:46.607562+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ramme til samlerkort",
       "pris": 399,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479811879",
       "funnet": "2026-10-28T23:08:15.892182+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479331221",
-      "funnet": "2026-10-28T23:08:15.161836+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort med permbok",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
-      "funnet": "2026-10-28T23:02:16.000993+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
