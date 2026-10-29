@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T10:42:17.740424+00:00",
+  "sist_sjekket": "2026-10-29T10:44:18.121612+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort vurderes solgt. Gi bud",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479337611",
+      "funnet": "2026-10-29T10:44:18.119528+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort samling",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479813005",
       "funnet": "2026-10-29T01:18:16.708998+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan Ampadu Leeds United Flying the Flag FF15 – Topps Premier League 2026/27",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812977",
-      "funnet": "2026-10-29T01:16:14.695505+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
