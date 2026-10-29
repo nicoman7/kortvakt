@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T11:02:16.527087+00:00",
+  "sist_sjekket": "2026-10-29T11:04:18.229713+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort trader mot graderte eller sealed produkter",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
+      "funnet": "2026-10-29T11:04:18.227931+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling fotballkort i album og fotball metal tags",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T02:28:16.430943+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
-      "funnet": "2026-10-29T02:02:19.218231+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
