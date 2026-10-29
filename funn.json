@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T14:36:16.537026+00:00",
+  "sist_sjekket": "2026-10-29T14:38:16.363538+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-29T14:38:16.362140+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL Erling Haaland Limited Edition fotballkort",
       "pris": 160,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479835145",
       "funnet": "2026-10-29T12:18:16.447498+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Emiliano Buendía Aston Villa Goaliaths 79 Rare – Match Attax 2026/27",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479834748",
-      "funnet": "2026-10-29T12:18:16.187636+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
