@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T13:22:18.765032+00:00",
+  "sist_sjekket": "2026-10-29T13:24:17.090417+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Merlin Klistremerke #88 - Grimer",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479840405",
+      "funnet": "2026-10-29T13:24:17.089079+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Merlin Klistremerke #100 - Voltorb",
       "pris": 40,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T10:46:16.545453+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort vurderes solgt. Gi bud",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479337611",
-      "funnet": "2026-10-29T10:44:18.119528+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
