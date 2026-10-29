@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T21:38:15.888964+00:00",
+  "sist_sjekket": "2026-10-29T21:40:25.339041+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Fennekin AR 085/083",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479872590",
+      "funnet": "2026-10-29T21:40:25.337673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th celebration Pikachu",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T19:16:20.389134+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions mini tins",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478987530",
-      "funnet": "2026-10-29T19:16:19.365782+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
