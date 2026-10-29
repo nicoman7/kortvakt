@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T18:52:16.969168+00:00",
+  "sist_sjekket": "2026-10-29T18:54:19.240977+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-10-29T18:54:19.239078+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Clefairy 094/088 – PSA 10 GEM MINT – Illustration Rare – Perfect Order",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
       "funnet": "2026-10-29T16:00:59.487910+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prestige EFL Peterborough Archie Collins /225 Blue",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479850618",
-      "funnet": "2026-10-29T15:50:31.355008+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
