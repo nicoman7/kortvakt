@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-29T20:38:17.524174+00:00",
+  "sist_sjekket": "2026-10-29T20:40:28.060675+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479869417",
+      "funnet": "2026-10-29T20:40:28.059170+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Per Ciljan Skjelbred",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479779197",
+      "funnet": "2026-10-29T20:40:27.695331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Neymar Jr.  Fotballkort  ×4.",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479863663",
       "funnet": "2026-10-29T19:06:17.149949+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon first partner series 2 komplett sett",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472372088",
-      "funnet": "2026-10-29T19:06:16.863528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome Talbi Nitro Boost fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479863496",
-      "funnet": "2026-10-29T19:04:22.193584+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
