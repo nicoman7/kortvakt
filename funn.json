@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T11:20:27.328373+00:00",
+  "sist_sjekket": "2026-10-29T11:22:16.353975+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-29T11:22:16.351980+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟Pakker med ekstra mye glins! EX-kort + 10 holo garantert!🌟",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479546937",
       "funnet": "2026-10-29T04:34:16.995329+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon: Psyduck (#54) - Topps TV Animation Edition (1999) 🦆📺💫",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479813607",
-      "funnet": "2026-10-29T04:28:16.005706+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
