@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T06:06:17.671937+00:00",
+  "sist_sjekket": "2026-10-29T06:08:16.895581+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479814263",
+      "funnet": "2026-10-29T06:08:16.893561+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "50 kort 5 V kort 1 ex kort og et regnbue kort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479810043",
       "funnet": "2026-10-28T21:58:18.356972+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - vintage",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479810035",
-      "funnet": "2026-10-28T21:58:17.703880+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
