@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-29T10:28:15.842525+00:00",
+  "sist_sjekket": "2026-10-29T10:30:47.520656+00:00",
   "funn": [
+    {
+      "tittel": "629 panini",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479826697",
+      "funnet": "2026-10-29T10:30:47.519163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479827004",
+      "funnet": "2026-10-29T10:30:46.795769+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - 30th - Sylveon EX og Greninja EX",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479826324",
+      "funnet": "2026-10-29T10:30:46.419235+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort samling",
       "pris": 2,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-10-29T01:06:17.632095+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chris Wood Nottingham Forest Flying the Flag FF22 – Topps 2026/27",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812887",
-      "funnet": "2026-10-29T01:02:17.181947+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pedro Porro Tottenham Flying the Flag FF24 – Topps Premier League 2026/27",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812863",
-      "funnet": "2026-10-29T00:56:18.230806+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beto Everton Flying the Flag FF13 – Topps Premier League 2026/27",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479812845",
-      "funnet": "2026-10-29T00:52:16.283859+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
