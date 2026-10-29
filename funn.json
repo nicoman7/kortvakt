@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T10:24:19.265636+00:00",
+  "sist_sjekket": "2026-10-29T10:26:17.681075+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479826478",
+      "funnet": "2026-10-29T10:26:17.679125+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon celebration 30 år kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T00:52:16.283859+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-10-29T00:52:15.538165+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
