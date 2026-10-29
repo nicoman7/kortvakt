@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T23:30:43.029934+00:00",
+  "sist_sjekket": "2026-10-29T23:32:21.851375+00:00",
   "funn": [
+    {
+      "tittel": "Panini World Cup  España 82 - selges enkeltvis. 80 stk solgt!",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479474253",
+      "funnet": "2026-10-29T23:32:21.849471+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Samlekort - Torterra, Grotle, Turtwig - Lv. X, Holo, Diamond & Pearl",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 79,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
       "funnet": "2026-10-29T21:18:17.828641+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Booster Bundle (Gratis frakt)",
-      "pris": 1299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478034967",
-      "funnet": "2026-10-29T21:14:16.242190+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
