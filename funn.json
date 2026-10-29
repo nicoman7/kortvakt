@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T10:56:17.882925+00:00",
+  "sist_sjekket": "2026-10-29T10:58:17.573214+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479828630",
+      "funnet": "2026-10-29T10:58:17.571731+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu 027 Black Star Promo Sealed - Scarlet & Violet Promos Paldea",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
       "funnet": "2026-10-29T02:00:53.914067+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon Kort Selges!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479813132",
-      "funnet": "2026-10-29T01:48:15.922274+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
