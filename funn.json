@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T11:58:14.356529+00:00",
+  "sist_sjekket": "2026-10-29T12:00:59.048931+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479833579",
+      "funnet": "2026-10-29T12:00:59.046490+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort: Charmander, Kingler, Charmeleon og Sableye",
       "pris": 75,
@@ -1190,14 +1198,6 @@
       "pris": 125,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479816242",
       "funnet": "2026-10-29T07:38:18.133405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon slabs selges samlet",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479816025",
-      "funnet": "2026-10-29T07:36:17.888642+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
