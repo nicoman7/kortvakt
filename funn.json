@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-29T01:00:56.973956+00:00",
+  "sist_sjekket": "2026-10-29T01:02:17.183691+00:00",
   "funn": [
+    {
+      "tittel": "Chris Wood Nottingham Forest Flying the Flag FF22 – Topps 2026/27",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479812887",
+      "funnet": "2026-10-29T01:02:17.181947+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pedro Porro Tottenham Flying the Flag FF24 – Topps Premier League 2026/27",
       "pris": 19,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-28T21:14:25.996483+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479326151",
-      "funnet": "2026-10-28T21:14:25.286504+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
