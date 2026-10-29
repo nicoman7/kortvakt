@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-29T20:06:19.298127+00:00",
+  "sist_sjekket": "2026-10-29T20:08:17.003485+00:00",
   "funn": [
+    {
+      "tittel": "Yu-Gi-Oh kort selges hbo 100kr",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479867734",
+      "funnet": "2026-10-29T20:08:17.001537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort gradert og ikke gradert",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
+      "funnet": "2026-10-29T20:08:16.673038+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort graderte vintage Samling FASTPRIS",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479867809",
+      "funnet": "2026-10-29T20:08:16.096857+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Charizard",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/383462375",
       "funnet": "2026-10-29T18:46:16.771204+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mohamed Salah CA6 fotballkort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479862141",
-      "funnet": "2026-10-29T18:44:17.789994+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon First Partner serie 3",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478233533",
-      "funnet": "2026-10-29T18:42:18.860807+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Endless Energy João Neves fotballkort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479862046",
-      "funnet": "2026-10-29T18:42:18.001179+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
