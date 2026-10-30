@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T22:46:22.680633+00:00",
+  "sist_sjekket": "2026-10-30T22:48:16.264604+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Venasaur Rumble 2x",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933239",
+      "funnet": "2026-10-30T22:48:16.263008+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
+      "funnet": "2026-10-30T22:48:15.615222+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fuecoco #79 Pokemon Promo",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-30T20:42:18.833185+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon bunke  samlekort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479928105",
-      "funnet": "2026-10-30T20:40:26.901319+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Euro 2008 klistremerker",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/442097566",
-      "funnet": "2026-10-30T20:40:26.188754+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
