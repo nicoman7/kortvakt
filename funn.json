@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T23:52:16.426728+00:00",
+  "sist_sjekket": "2026-10-30T23:54:15.768962+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-30T23:54:15.766912+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort samling, 14 stk (EX-Serien og mer… Mew, Gardevoir osv)",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479930660",
       "funnet": "2026-10-30T21:26:17.430579+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dottler #SV008 Pokemon Shining Fates",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930705",
-      "funnet": "2026-10-30T21:26:17.207096+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
