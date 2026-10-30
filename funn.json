@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T20:06:16.786894+00:00",
+  "sist_sjekket": "2026-10-30T20:08:17.265268+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling mest sv4a",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459581321",
+      "funnet": "2026-10-30T20:08:17.263427+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamle Pokémon-kort selges! Holo, sjeldne kort & Stamped",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479922475",
       "funnet": "2026-10-30T18:54:17.853715+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Tornadus Holo 078/086 KOR [SV11w] White Flare",
-      "pris": 8,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479807021",
-      "funnet": "2026-10-30T18:50:27.116964+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
