@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T23:12:19.000996+00:00",
+  "sist_sjekket": "2026-10-30T23:14:16.501936+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933856",
+      "funnet": "2026-10-30T23:14:16.500175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Cyclizar ex Box samleboks",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479929228",
       "funnet": "2026-10-30T20:54:20.829417+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hjemmelagde booster pakker til rimelig pris! - 10 kort for kun 25 kr!",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/396624527",
-      "funnet": "2026-10-30T20:54:19.970437+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
