@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-30T18:06:16.917495+00:00",
+  "sist_sjekket": "2026-10-30T18:08:17.961805+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Emerald",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479920888",
+      "funnet": "2026-10-30T18:08:17.959928+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479920860",
+      "funnet": "2026-10-30T18:08:17.373448+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome F1 2026 – Carlos Sainz Speed Wheels (Numrert 054/199)",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479920892",
+      "funnet": "2026-10-30T18:08:16.799480+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard ex – 300 HP – Holografisk kort",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479920565",
+      "funnet": "2026-10-30T18:08:16.538140+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Sean Steur RC Ajax",
       "pris": 5,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479910903",
       "funnet": "2026-10-30T15:14:16.221577+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard EX samlekort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479910619",
-      "funnet": "2026-10-30T15:14:15.892029+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tyrese Haliburton 2025-26 Topps Signature Class Blue & Orange #71 Indiana Pacers",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479910472",
-      "funnet": "2026-10-30T15:08:24.875983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin Keegan fotballkort! Nummerert 90/99. Liverpool",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479910337",
-      "funnet": "2026-10-30T15:08:24.462793+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "SELGES BILLIG Umbreon Delta species kort",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479910496",
-      "funnet": "2026-10-30T15:08:23.711797+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
