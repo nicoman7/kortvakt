@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T19:46:15.754895+00:00",
+  "sist_sjekket": "2026-10-30T19:48:15.948391+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samlekort med permbok",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
+      "funnet": "2026-10-30T19:48:15.947207+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mystery pakker. Ny Eevee chase.",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479807295",
       "funnet": "2026-10-30T18:34:18.559596+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30 celebrations booster bundle",
-      "pris": 865,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479922191",
-      "funnet": "2026-10-30T18:34:18.149337+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
