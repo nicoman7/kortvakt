@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T03:04:16.164225+00:00",
+  "sist_sjekket": "2026-10-30T03:06:18.047302+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479876659",
+      "funnet": "2026-10-30T03:06:18.045617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 29/10",
       "pris": 2,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873863",
       "funnet": "2026-10-29T22:12:17.280202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm Prizmatic Ángel Correa fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873763",
-      "funnet": "2026-10-29T22:10:30.543955+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
