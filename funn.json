@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T23:06:18.095075+00:00",
+  "sist_sjekket": "2026-10-30T23:08:18.306915+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933514",
+      "funnet": "2026-10-30T23:08:18.305124+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon SPECIAL ILLUSTRATION RARES OG GULLKORT",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933698",
+      "funnet": "2026-10-30T23:08:17.683854+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon blandet samling 234 div ex og mega kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
+      "funnet": "2026-10-30T23:08:17.415626+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gamle Pokémon-kort",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479929120",
       "funnet": "2026-10-30T20:52:17.728347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon tcg Skarmory [Reverse Holo] #21 Pokemon Dragon HP",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479928728",
-      "funnet": "2026-10-30T20:50:27.045695+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Patrick Schick Refractor Bayern Leverkusen",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479929030",
-      "funnet": "2026-10-30T20:50:26.476192+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Squirtle - 015/078 - pokemon go",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479928942",
-      "funnet": "2026-10-30T20:48:21.810379+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
