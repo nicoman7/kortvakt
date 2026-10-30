@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T06:56:14.951865+00:00",
+  "sist_sjekket": "2026-10-30T06:58:14.831678+00:00",
   "funn": [
+    {
+      "tittel": "Game 1995 - Brann - Forballkort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479878674",
+      "funnet": "2026-10-30T06:58:14.830018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Game 1995 - Start - Fotballkort",
       "pris": 110,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873825",
       "funnet": "2026-10-29T22:14:18.271009+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alexis Mac Allister Brighton & Hove Albion fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873903",
-      "funnet": "2026-10-29T22:14:17.891070+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
