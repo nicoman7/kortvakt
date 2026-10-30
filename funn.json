@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T07:56:16.172976+00:00",
+  "sist_sjekket": "2026-10-30T07:58:15.708399+00:00",
   "funn": [
+    {
+      "tittel": "Magic The Gathering samling",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479880862",
+      "funnet": "2026-10-30T07:58:15.706943+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Sylveon ex Box",
       "pris": 680,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479874004",
       "funnet": "2026-10-29T22:18:19.920804+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luminous Energy 226/167 - Pokemon Twilight Masquerade",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874055",
-      "funnet": "2026-10-29T22:18:19.514704+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
