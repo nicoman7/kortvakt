@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T23:02:15.207899+00:00",
+  "sist_sjekket": "2026-10-30T23:04:20.983954+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469718485",
+      "funnet": "2026-10-30T23:04:20.982273+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling Pokémon Mewtwo VSTAR, Mewtwo V og Mewtwo EX Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
+      "funnet": "2026-10-30T23:04:20.108376+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort prismatch evolution pokeballs",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-30T20:44:18.475084+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps fotballkort fra 1976",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/333720667",
-      "funnet": "2026-10-30T20:44:18.201185+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "George Weah 2025 Topps Finest UEFA Club Competition #PF-1 Prized Footballers",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479928749",
-      "funnet": "2026-10-30T20:44:17.599512+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
