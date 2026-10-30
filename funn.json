@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T09:18:16.511675+00:00",
+  "sist_sjekket": "2026-10-30T09:20:29.244980+00:00",
   "funn": [
+    {
+      "tittel": "Mimikyu samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479885444",
+      "funnet": "2026-10-30T09:20:29.243290+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Slowbro EX 26/108 - Pokemon Evolutions",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479885578",
+      "funnet": "2026-10-30T09:20:28.449088+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bibarel [Holo] 121/172 - Pokemon Brilliant Stars",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479885487",
+      "funnet": "2026-10-30T09:20:27.940631+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Latias EX (JP) 075/193 - Pokemon Mega Dream EX",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479874806",
       "funnet": "2026-10-29T22:48:24.033761+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin De Bruyne fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874850",
-      "funnet": "2026-10-29T22:48:23.371163+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rafael Leão AC Milan fotballkort",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874773",
-      "funnet": "2026-10-29T22:46:16.983099+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - lot",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874594",
-      "funnet": "2026-10-29T22:46:16.642666+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
