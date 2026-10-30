@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T01:04:15.470229+00:00",
+  "sist_sjekket": "2026-10-30T01:06:16.063884+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-30T01:06:16.061962+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mewtwo holografisk samlekort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-29T21:54:16.842780+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Sherri Martel #29 Topps Decades WWE 2026 90’s Edition Red /5",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873181",
-      "funnet": "2026-10-29T21:52:21.422420+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
