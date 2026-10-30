@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T23:14:16.501936+00:00",
+  "sist_sjekket": "2026-10-30T23:16:26.858258+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933866",
+      "funnet": "2026-10-30T23:16:26.856615+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard ex Special Collection samleboks",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933858",
+      "funnet": "2026-10-30T23:16:26.287113+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479933901",
+      "funnet": "2026-10-30T23:16:26.009610+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 200,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479699141",
       "funnet": "2026-10-30T21:08:18.379413+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carth Onasi orginal art card Star wars samlekort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479929549",
-      "funnet": "2026-10-30T21:02:19.809764+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eevee - 054/078 - Pokemon Go",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479929188",
-      "funnet": "2026-10-30T20:54:21.129445+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome Bundesliga #63 Axel Tape Pulsar Refractor",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479929228",
-      "funnet": "2026-10-30T20:54:20.829417+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
