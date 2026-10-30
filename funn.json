@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T22:28:17.877141+00:00",
+  "sist_sjekket": "2026-10-30T22:30:43.663603+00:00",
   "funn": [
+    {
+      "tittel": "Bunnelby #SV097 Pokemon Shining Fates",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479932836",
+      "funnet": "2026-10-30T22:30:43.661710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Skwovet #SV099 Pokemon Shining Fates",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479932805",
+      "funnet": "2026-10-30T22:30:43.190627+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Antonio Nusa - Norge - Fotballkort - VM 2026 - Prizm Global Reach",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-30T20:04:15.290036+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort 30th og minitinnboks",
-      "pris": 89,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479926722",
-      "funnet": "2026-10-30T20:02:15.872322+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch black kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479926589",
-      "funnet": "2026-10-30T20:00:56.567386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
