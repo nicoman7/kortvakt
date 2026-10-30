@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-30T20:30:44.569472+00:00",
+  "sist_sjekket": "2026-10-30T20:32:17.578410+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Psyduck (Topps)",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479928115",
+      "funnet": "2026-10-30T20:32:17.576529+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Rare Candy #175",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479928165",
+      "funnet": "2026-10-30T20:32:17.246816+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479928158",
+      "funnet": "2026-10-30T20:32:16.904107+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "World of Vikings samlebok og klistremerker",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479125724",
+      "funnet": "2026-10-30T20:32:16.538502+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Blastoise (Pokemon GO)",
       "pris": 25,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479922008",
       "funnet": "2026-10-30T19:00:59.741686+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Natu [Poke Ball] #60 Pokemon Japanese Terastal Festival",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479921976",
-      "funnet": "2026-10-30T19:00:58.992523+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Eri #197 Pokemon Japanese Terastal Festival",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479921994",
-      "funnet": "2026-10-30T19:00:58.312650+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort 30th Celebration Salamence Ex (2026) 156/128 SIR",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479923585",
-      "funnet": "2026-10-30T19:00:57.549155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Yamask pokeball Holo 036/086 KOR [SV11w] White Flare",
-      "pris": 8,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479807261",
-      "funnet": "2026-10-30T19:00:56.723972+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
