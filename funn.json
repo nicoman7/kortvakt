@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T05:42:14.983881+00:00",
+  "sist_sjekket": "2026-10-30T05:44:18.040146+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479877371",
+      "funnet": "2026-10-30T05:44:18.037980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemon kort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873946",
       "funnet": "2026-10-29T22:14:16.171084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Noah Darvich FC Barcelona fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873798",
-      "funnet": "2026-10-29T22:12:20.531872+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
