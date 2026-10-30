@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T20:24:16.595271+00:00",
+  "sist_sjekket": "2026-10-30T20:26:15.830161+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479927831",
+      "funnet": "2026-10-30T20:26:15.828184+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort for salg 30th og litt annet.",
       "pris": 123,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479698339",
       "funnet": "2026-10-30T19:00:55.831672+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Whismur 73/106",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479923524",
-      "funnet": "2026-10-30T18:56:18.660034+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
