@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T16:52:14.857058+00:00",
+  "sist_sjekket": "2026-10-30T16:54:19.357121+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort fra tidlig 60-tall - gi bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479916981",
+      "funnet": "2026-10-30T16:54:19.355120+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu 10/30 - M6a - 026/103 - Japansk Pokemon Kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479913644",
+      "funnet": "2026-10-30T16:54:18.512563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 04/30 - M6a - 020/103 - Japansk Pokemon Kort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479913685",
+      "funnet": "2026-10-30T16:54:18.111675+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 29/30 - 30Cen - 051/128 - Pokemon Kort",
       "pris": 30,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479899876",
       "funnet": "2026-10-30T13:30:46.214596+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024-25 Panini Prizm #296 Hakeem Olajuwon Prizms Red Ice",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479903208",
-      "funnet": "2026-10-30T13:26:21.302710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Clamperl - sv10 - 102/098 AR - Japansk Pokemon Kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479899818",
-      "funnet": "2026-10-30T13:26:20.556918+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "UFC Topps Chrome 2026 samlekort | Stort utvalg: Auto, SP, RC & Base",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477250428",
-      "funnet": "2026-10-30T13:26:19.769231+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
