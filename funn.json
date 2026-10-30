@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T04:58:14.128373+00:00",
+  "sist_sjekket": "2026-10-30T05:00:55.424640+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479877039",
+      "funnet": "2026-10-30T05:00:55.423080+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873833",
       "funnet": "2026-10-29T22:12:20.149329+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boss's Orders TG24/TG30 Pokemon Lost Origin",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873822",
-      "funnet": "2026-10-29T22:12:19.444369+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
