@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T11:04:15.855126+00:00",
+  "sist_sjekket": "2026-10-30T11:06:15.987581+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Aquapolis kort, blant annet Tyranitar, Muk og Scyther.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479892430",
+      "funnet": "2026-10-30T11:06:15.986257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lance’s Charizard V",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-10-30T00:54:20.645667+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo 70 HP samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479876207",
-      "funnet": "2026-10-30T00:48:21.543422+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
