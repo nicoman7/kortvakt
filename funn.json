@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T14:20:29.507333+00:00",
+  "sist_sjekket": "2026-10-30T14:26:18.378046+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479902958",
+      "funnet": "2026-10-30T14:26:18.376610+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Cubone samling",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479907531",
+      "funnet": "2026-10-30T14:26:17.611599+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Harry Gray Leeds FSA-HG Future Stars Auto 70/75 – Topps Premier League 26/27",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479907714",
+      "funnet": "2026-10-30T14:26:16.782148+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Spennende Pokemon adventskalendere🎄 2 Varianter!",
       "pris": 150,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479890007",
       "funnet": "2026-10-30T10:30:46.284169+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Julekalender 24 kort Årets Flagship Premier League - Haaland mfl",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479889898",
-      "funnet": "2026-10-30T10:28:16.415808+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew #65 Pokemon 30th Celebration",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479889940",
-      "funnet": "2026-10-30T10:26:15.496402+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hydreigon #99 Pokemon 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479889692",
-      "funnet": "2026-10-30T10:24:20.569374+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
