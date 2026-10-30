@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-30T11:06:15.987581+00:00",
+  "sist_sjekket": "2026-10-30T11:08:19.093061+00:00",
   "funn": [
+    {
+      "tittel": "Flying Pikachu V",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479892940",
+      "funnet": "2026-10-30T11:08:19.091103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Flying Pikachu VMAX",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479893052",
+      "funnet": "2026-10-30T11:08:18.214577+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-10-30T11:08:17.378189+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Aquapolis kort, blant annet Tyranitar, Muk og Scyther.",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479125724",
       "funnet": "2026-10-30T01:08:18.530932+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-10-30T01:06:16.061962+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mewtwo holografisk samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479876235",
-      "funnet": "2026-10-30T00:58:16.002689+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-10-30T00:54:20.645667+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
