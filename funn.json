@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T09:20:29.244980+00:00",
+  "sist_sjekket": "2026-10-30T09:22:17.645462+00:00",
   "funn": [
+    {
+      "tittel": "Wailord EX 016/084 - Pokemon Pitch Black",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479885678",
+      "funnet": "2026-10-30T09:22:17.643549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling Topps pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479885416",
+      "funnet": "2026-10-30T09:22:16.941551+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mimikyu samling",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479874864",
       "funnet": "2026-10-29T22:50:28.339247+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thomas Müller fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874892",
-      "funnet": "2026-10-29T22:50:27.474645+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UEFA Champions League Wonderkids WK-14 Francesco Camarda samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479874806",
-      "funnet": "2026-10-29T22:48:24.033761+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
