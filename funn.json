@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-30T06:32:14.480150+00:00",
+  "sist_sjekket": "2026-10-30T06:34:17.979726+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479878131",
+      "funnet": "2026-10-30T06:34:17.977639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873927",
       "funnet": "2026-10-29T22:14:16.527651+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Simon Adingra fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873946",
-      "funnet": "2026-10-29T22:14:16.171084+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
