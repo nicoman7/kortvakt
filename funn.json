@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T17:16:16.488044+00:00",
+  "sist_sjekket": "2026-10-30T17:18:25.148752+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON - PSYDUCK (TEAM ROCKET RETURNS)",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479918332",
+      "funnet": "2026-10-30T17:18:25.146838+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-30T17:18:24.313141+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - PSYDUCK (TEAM MAGMA & AQUA)",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479904906",
       "funnet": "2026-10-30T13:48:18.800810+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th celebration pokemon poster collection",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479904453",
-      "funnet": "2026-10-30T13:44:19.318500+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor F1-samling – Topps Chrome, Turbo Attax 2024",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479904384",
-      "funnet": "2026-10-30T13:44:18.561896+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
