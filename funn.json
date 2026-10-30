@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T18:20:30.251165+00:00",
+  "sist_sjekket": "2026-10-30T18:22:19.450034+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479921666",
+      "funnet": "2026-10-30T18:22:19.447771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Sylveon EX Box samleboks",
+      "pris": 680,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479921797",
+      "funnet": "2026-10-30T18:22:18.999712+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sylveon holo kort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479873752",
       "funnet": "2026-10-30T15:26:18.676708+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort: Team Magma & Team Aqua",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479873341",
-      "funnet": "2026-10-30T15:26:17.828134+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort: Holon Phantoms",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479877283",
-      "funnet": "2026-10-30T15:24:21.880499+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
