@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-30T23:58:17.720965+00:00",
+  "sist_sjekket": "2026-10-31T00:01:05.020398+00:00",
   "funn": [
+    {
+      "tittel": "Basketball og Fotball pakke Rain Solgt!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479934171",
+      "funnet": "2026-10-31T00:01:05.018818+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samlekort med permbok",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
+      "funnet": "2026-10-31T00:01:04.791346+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479930763",
       "funnet": "2026-10-30T21:28:17.480760+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930503",
-      "funnet": "2026-10-30T21:26:17.761806+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grookey #SV004 Pokemon Shining Fates",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930660",
-      "funnet": "2026-10-30T21:26:17.430579+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
