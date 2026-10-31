@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T09:44:14.735545+00:00",
+  "sist_sjekket": "2026-10-31T09:46:14.424881+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu friend ball",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479946279",
+      "funnet": "2026-10-31T09:46:14.422609+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Pokémon Kakuna holo #14",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479932940",
       "funnet": "2026-10-30T22:42:15.243165+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933110",
-      "funnet": "2026-10-30T22:42:14.888090+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
