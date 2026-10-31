@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T21:10:26.454271+00:00",
+  "sist_sjekket": "2026-10-31T21:12:16.695333+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 440,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479993275",
+      "funnet": "2026-10-31T21:12:16.693965+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Prizm Karim Adeyemi fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479993307",
+      "funnet": "2026-10-31T21:12:15.970047+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pakke med Premier League-kort, blant annet Frank Lampard Kortene",
       "pris": 199,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-31T19:12:26.792889+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Dark Houndoom",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477205575",
-      "funnet": "2026-10-31T19:12:26.505084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Trainer-kort – Selges enkeltvis eller samlet",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478794304",
-      "funnet": "2026-10-31T19:12:25.736913+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
