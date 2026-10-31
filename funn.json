@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-10-31T10:16:16.182290+00:00",
+  "sist_sjekket": "2026-10-31T10:18:16.500696+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 20/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479949072",
+      "funnet": "2026-10-31T10:18:16.498928+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps holo/foil lot",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479948715",
+      "funnet": "2026-10-31T10:18:15.939956+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu 29/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479949135",
+      "funnet": "2026-10-31T10:18:15.398842+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 22/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479949003",
+      "funnet": "2026-10-31T10:18:14.871533+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 23/30",
       "pris": 20,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479933670",
       "funnet": "2026-10-30T23:06:17.525657+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚡ 30th Celebration – Pikachu 1–30",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933672",
-      "funnet": "2026-10-30T23:06:17.095591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 kort med 10 holo/reverse holo",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476440876",
-      "funnet": "2026-10-30T23:06:16.512132+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Engelsk/japansk/kinesisk/koreansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469718485",
-      "funnet": "2026-10-30T23:04:20.982273+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon Mewtwo VSTAR, Mewtwo V og Mewtwo EX Pokémon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
-      "funnet": "2026-10-30T23:04:20.108376+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
