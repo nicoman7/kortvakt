@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T08:56:14.084363+00:00",
+  "sist_sjekket": "2026-10-31T08:58:17.395721+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu-kort -Fastpris per stk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479941801",
+      "funnet": "2026-10-31T08:58:17.393876+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2025-26 Topps Chrome Uefa Malik Tillman #24 Teal Refractor /299",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 110,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479932874",
       "funnet": "2026-10-30T22:32:14.992864+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bunnelby #SV097 Pokemon Shining Fates",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479932836",
-      "funnet": "2026-10-30T22:30:43.661710+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
