@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T18:42:23.410865+00:00",
+  "sist_sjekket": "2026-10-31T18:44:19.798709+00:00",
   "funn": [
+    {
+      "tittel": "Banette 060/159 - Pokemon Journey Together",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479987601",
+      "funnet": "2026-10-31T18:44:19.796697+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lechonk 126/142 - Pokemon Stellar Crown",
       "pris": 19,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-31T15:02:15.224632+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "8 ex kort pokemon ( fri frakt)",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479975196",
-      "funnet": "2026-10-31T14:52:17.220278+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
