@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T10:14:16.930748+00:00",
+  "sist_sjekket": "2026-10-31T10:16:16.182290+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 23/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479948876",
+      "funnet": "2026-10-31T10:16:16.180475+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 03/30",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479948936",
+      "funnet": "2026-10-31T10:16:15.350269+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – energikort",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
       "funnet": "2026-10-30T23:04:20.108376+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort prismatch evolution pokeballs",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933511",
-      "funnet": "2026-10-30T23:00:56.930915+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "35 Pokémon kort Phantasmal Flames Holo/reverse Holo",
-      "pris": 69,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933535",
-      "funnet": "2026-10-30T23:00:56.205556+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
