@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T00:50:24.205706+00:00",
+  "sist_sjekket": "2026-10-31T00:52:15.648833+00:00",
   "funn": [
+    {
+      "tittel": "Penny & Friends - perm med hestekort.",
+      "pris": 260,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479934921",
+      "funnet": "2026-10-31T00:52:15.647255+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Alakazam samling Pokemon kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479494266",
       "funnet": "2026-10-30T21:34:18.944322+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rotom #SV038 Pokemon Shining Fates",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930892",
-      "funnet": "2026-10-30T21:32:19.873876+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
