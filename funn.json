@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T20:48:15.490655+00:00",
+  "sist_sjekket": "2026-10-31T20:50:28.153220+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30 Anniversary hits",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479992473",
+      "funnet": "2026-10-31T20:50:28.151741+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon blandet samling 234 div ex og mega kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
+      "funnet": "2026-10-31T20:50:27.268594+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-31T19:12:21.374728+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort Pikachu pop series 2 16/17",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465288738",
-      "funnet": "2026-10-31T19:12:21.069685+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Squirtle kort 83/112 non holo (nirvana)",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479319507",
-      "funnet": "2026-10-31T19:12:20.745005+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
