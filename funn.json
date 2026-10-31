@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T10:24:18.389163+00:00",
+  "sist_sjekket": "2026-10-31T10:26:16.738750+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort topps lot",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479949820",
+      "funnet": "2026-10-31T10:26:16.736685+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort topps lot",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-30T23:14:16.500175+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Cyclizar ex Box samleboks",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933736",
-      "funnet": "2026-10-30T23:10:31.597140+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
