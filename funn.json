@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T10:28:16.204411+00:00",
+  "sist_sjekket": "2026-10-31T10:30:38.809219+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon topps lot",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479949962",
+      "funnet": "2026-10-31T10:30:38.807289+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini World Cup  España 82 - selges enkeltvis. 80 stk solgt!",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479474253",
+      "funnet": "2026-10-31T10:30:38.262699+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort topps lot",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-30T23:16:26.287113+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933901",
-      "funnet": "2026-10-30T23:16:26.009610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933856",
-      "funnet": "2026-10-30T23:14:16.500175+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
