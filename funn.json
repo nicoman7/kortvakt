@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T10:32:15.206624+00:00",
+  "sist_sjekket": "2026-10-31T10:34:16.215450+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Scizor 80 HP samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479950455",
+      "funnet": "2026-10-31T10:34:16.213735+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon topps lot",
       "pris": 150,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-30T23:16:26.856615+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard ex Special Collection samleboks",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479933858",
-      "funnet": "2026-10-30T23:16:26.287113+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
