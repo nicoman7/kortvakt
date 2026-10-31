@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T15:42:16.445179+00:00",
+  "sist_sjekket": "2026-10-31T15:44:19.214573+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479976991",
+      "funnet": "2026-10-31T15:44:19.212898+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration – 24 kort, EX, Illustration Rare + Mini Tin",
       "pris": 799,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479956796",
       "funnet": "2026-10-31T11:40:25.270033+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jermain Defoe Bournemouth CC4 Chrome Classics – Topps Premier League 2026/27",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479956583",
-      "funnet": "2026-10-31T11:36:17.916484+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
