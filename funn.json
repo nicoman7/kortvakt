@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T12:02:23.396024+00:00",
+  "sist_sjekket": "2026-10-31T12:04:14.919940+00:00",
   "funn": [
+    {
+      "tittel": "World of Vikings samlebok og klistremerker",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479125724",
+      "funnet": "2026-10-31T12:04:14.917710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Samlekort - Empoleon, Prinplup, Piplup - Lv. X, Holo, Diamond & Pearl",
       "pris": 15,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479494266",
       "funnet": "2026-10-31T04:12:20.058471+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
-      "funnet": "2026-10-31T03:02:16.018640+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
