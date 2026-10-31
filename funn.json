@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-31T11:02:25.497606+00:00",
+  "sist_sjekket": "2026-10-31T11:04:19.801466+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort i metallbokser",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479953285",
+      "funnet": "2026-10-31T11:04:19.799732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kortmappe med Pokémon-kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479953469",
+      "funnet": "2026-10-31T11:04:19.001243+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon blandet samling 234 div ex og mega kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
+      "funnet": "2026-10-31T11:04:17.984184+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Ninetales holografisk samlekort",
       "pris": 800,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479934642",
       "funnet": "2026-10-31T00:16:16.213944+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Clefable EX Perfect Order Ultra Rare 031/088",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934633",
-      "funnet": "2026-10-31T00:14:15.931376+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Primarina Pitch Black Illustration Rare 088/084",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934613",
-      "funnet": "2026-10-31T00:12:21.657439+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gallade EX Chaos Rising Ultra Rare 048/086",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934589",
-      "funnet": "2026-10-31T00:10:30.065254+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
