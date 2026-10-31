@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-10-31T23:38:17.139587+00:00",
+  "sist_sjekket": "2026-10-31T23:40:27.880458+00:00",
   "funn": [
+    {
+      "tittel": "Showcase kort til salgs - Riftbound",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479996002",
+      "funnet": "2026-10-31T23:40:27.878660+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "David Seaman fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479996495",
+      "funnet": "2026-10-31T23:40:27.109008+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Hjemmelagde booster pakker til rimelig pris! - 10 kort for kun 25 kr!",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/396624527",
+      "funnet": "2026-10-31T23:40:26.403877+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Martin Keown fotballkort",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479990912",
       "funnet": "2026-10-31T20:08:17.460505+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lapras (Next Destinies) tysk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479990958",
-      "funnet": "2026-10-31T20:08:16.627658+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reverse holo pokemonkort fra 2007-2017",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479990784",
-      "funnet": "2026-10-31T20:06:17.674427+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Gyarados Holo (Rebel Clash) tysk",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479990842",
-      "funnet": "2026-10-31T20:06:16.845039+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
