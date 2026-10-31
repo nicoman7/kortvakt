@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T11:06:16.829125+00:00",
+  "sist_sjekket": "2026-10-31T11:08:14.372701+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-10-31T11:08:14.370491+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kortsamling med bokser og permer",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479934744",
       "funnet": "2026-10-31T00:28:15.317330+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rabsca EX Destined Rivals Ultra Rare 025/182",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934700",
-      "funnet": "2026-10-31T00:20:27.135275+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
