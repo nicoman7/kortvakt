@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T11:52:14.583472+00:00",
+  "sist_sjekket": "2026-10-31T11:54:14.824907+00:00",
   "funn": [
+    {
+      "tittel": "Shiny, radiant og masterball kort selges til 450 kr samlet",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479694595",
+      "funnet": "2026-10-31T11:54:14.823106+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samlekort med permbok",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479935408",
       "funnet": "2026-10-31T02:34:27.519830+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "World of Vikings samlebok og klistremerker",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479125724",
-      "funnet": "2026-10-31T02:32:16.596200+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
