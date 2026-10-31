@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T10:48:16.100290+00:00",
+  "sist_sjekket": "2026-10-31T10:50:25.596299+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Magby samlekort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479952118",
+      "funnet": "2026-10-31T10:50:25.594589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort og samlebokser",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479951999",
+      "funnet": "2026-10-31T10:50:24.836761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pidgeot Pokémonkort",
       "pris": 800,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
       "funnet": "2026-10-31T00:01:04.791346+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-10-30T23:54:15.766912+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort samling, 14 stk (EX-Serien og mer… Mew, Gardevoir osv)",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479451288",
-      "funnet": "2026-10-30T23:48:16.721633+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
