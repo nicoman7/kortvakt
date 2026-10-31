@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T07:40:22.845051+00:00",
+  "sist_sjekket": "2026-10-31T07:42:14.646503+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Dark Charizard",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479938726",
+      "funnet": "2026-10-31T07:42:14.644470+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo ex Pokémonkort",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/326319652",
       "funnet": "2026-10-30T21:50:28.135259+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morpeko #SV044 Pokemon Shining Fates",
-      "pris": 155,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479931522",
-      "funnet": "2026-10-30T21:48:23.217057+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
