@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T17:56:19.009489+00:00",
+  "sist_sjekket": "2026-10-31T17:58:20.704989+00:00",
   "funn": [
+    {
+      "tittel": "Ralts 060/189 - Pokemon Astral Radiance",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479985578",
+      "funnet": "2026-10-31T17:58:20.703035+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gabriel Magalhães Arsenal MA1 Mayhem – Topps Premier League 2026/27",
       "pris": 59,
@@ -1190,14 +1198,6 @@
       "pris": 270,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479967143",
       "funnet": "2026-10-31T13:20:27.435156+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Torchic RC5/RC25 Radiant Collection Legendary Treasures Holo LP kort",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479967018",
-      "funnet": "2026-10-31T13:18:18.590356+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
