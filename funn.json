@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T00:52:15.648833+00:00",
+  "sist_sjekket": "2026-10-31T00:54:19.270310+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 11/108 pokemon kort vurderes solgt meget pen stand (2016)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479723412",
+      "funnet": "2026-10-31T00:54:19.268204+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Penny & Friends - perm med hestekort.",
       "pris": 260,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479931005",
       "funnet": "2026-10-30T21:34:19.739063+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Samlekort - Torterra, Grotle, Turtwig - Lv. X, Holo, Diamond & Pearl",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479494266",
-      "funnet": "2026-10-30T21:34:18.944322+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
