@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-10-31T23:54:17.590242+00:00",
+  "sist_sjekket": "2026-10-31T23:56:19.018106+00:00",
   "funn": [
+    {
+      "tittel": "Kylian Mbappé FIFA fotballkort France",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479996677",
+      "funnet": "2026-10-31T23:56:19.016321+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – 25th Anniversary Venusaur, Charizard og Blastoise sett",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479996635",
+      "funnet": "2026-10-31T23:56:18.722479+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini RC  Mosaic Anthony Elanga Manchester United fotballkort",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479991253",
       "funnet": "2026-10-31T20:32:14.953672+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokémon Mewtwo VSTAR, Mewtwo V og Mewtwo EX Pokémon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
-      "funnet": "2026-10-31T20:32:14.603501+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "World of Vikings samlebok og klistremerker",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479125724",
-      "funnet": "2026-10-31T20:24:15.812633+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
