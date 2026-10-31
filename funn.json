@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T21:08:15.629314+00:00",
+  "sist_sjekket": "2026-10-31T21:10:26.454271+00:00",
   "funn": [
+    {
+      "tittel": "Pakke med Premier League-kort, blant annet Frank Lampard Kortene",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479993136",
+      "funnet": "2026-10-31T21:10:26.452406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Amoonguss AR samlekort",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-10-31T19:12:25.736913+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort  Maushold ex 233/182",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478378688",
-      "funnet": "2026-10-31T19:12:25.437805+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
