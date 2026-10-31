@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T09:04:17.234274+00:00",
+  "sist_sjekket": "2026-10-31T09:06:15.857666+00:00",
   "funn": [
+    {
+      "tittel": "Topps fotballkort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479940149",
+      "funnet": "2026-10-31T09:06:15.855752+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Skyridge non holo",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478809152",
       "funnet": "2026-10-30T22:34:17.502540+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Holo Lunala #61 Pokemon Guardians Rising Kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930656",
-      "funnet": "2026-10-30T22:32:17.030080+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
