@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T09:10:23.328010+00:00",
+  "sist_sjekket": "2026-10-31T09:12:21.323104+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479943484",
+      "funnet": "2026-10-31T09:12:21.321500+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Storm emeralda hits / pokemon ( fri frakt)",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479932929",
       "funnet": "2026-10-30T22:34:18.472316+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ducklett #SV095 Pokemon Shining Fates",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479932957",
-      "funnet": "2026-10-30T22:34:17.942013+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
