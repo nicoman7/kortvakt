@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-10-31T08:44:17.705726+00:00",
+  "sist_sjekket": "2026-10-31T08:46:15.577690+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Flying Pikachu 110/108",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479941896",
+      "funnet": "2026-10-31T08:46:15.576054+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Lionel Messi fotballkort 2026",
       "pris": 368,
@@ -1190,14 +1198,6 @@
       "pris": 45,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479932514",
       "funnet": "2026-10-30T22:22:16.090781+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Taillow & Swellow Pokemon Vivid Voltage Yuka Morii Kort Samlet",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479930681",
-      "funnet": "2026-10-30T22:20:25.860613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
