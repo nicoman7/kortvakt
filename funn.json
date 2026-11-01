@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T09:10:25.502584+00:00",
+  "sist_sjekket": "2026-11-01T09:12:20.045514+00:00",
   "funn": [
+    {
+      "tittel": "Mangler kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480004430",
+      "funnet": "2026-11-01T09:12:20.043732+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Norgekort Haaland",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479996435",
       "funnet": "2026-10-31T23:36:15.656564+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup  Gianluigi Donnarumma samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996445",
-      "funnet": "2026-10-31T23:36:14.864697+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
