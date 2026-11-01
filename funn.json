@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T14:24:19.527962+00:00",
+  "sist_sjekket": "2026-11-01T14:26:16.947468+00:00",
   "funn": [
+    {
+      "tittel": "Charizard & Reshiram GX Tag team (sun and moon promo) KOM MED BUD!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479783592",
+      "funnet": "2026-11-01T14:26:16.945709+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "2 stk Pokémon kortperm med kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-01T13:04:15.528599+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk 4000-5000 kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480031083",
-      "funnet": "2026-11-01T13:00:54.962083+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
