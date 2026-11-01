@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T00:44:15.001021+00:00",
+  "sist_sjekket": "2026-11-01T00:46:21.890976+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon blandet samling 234 div ex og mega kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
+      "funnet": "2026-11-01T00:46:21.889220+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Stort Ryddesalg! - Diverse Pokemon Collection Bokser/Tins",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479993334",
       "funnet": "2026-10-31T21:14:21.480234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Premier League Ayoze Pérez samlekort Newcastle",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479993347",
-      "funnet": "2026-10-31T21:14:20.676835+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
