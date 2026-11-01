@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T15:14:15.682700+00:00",
+  "sist_sjekket": "2026-11-01T15:16:17.599882+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu kort",
+      "pris": 32,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480050582",
+      "funnet": "2026-11-01T15:16:17.598396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu kort",
+      "pris": 28,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480050071",
+      "funnet": "2026-11-01T15:16:16.918656+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu kort",
       "pris": 27,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480037076",
       "funnet": "2026-11-01T13:40:27.877494+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dark Porygon2 samlekort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480036858",
-      "funnet": "2026-11-01T13:40:27.504306+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew ex #205 Pokemon Scarlet & Violet 151",
-      "pris": 260,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480037181",
-      "funnet": "2026-11-01T13:40:27.109478+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
