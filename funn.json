@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T08:10:25.321110+00:00",
+  "sist_sjekket": "2026-11-01T08:12:17.265758+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Stamped",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480001080",
+      "funnet": "2026-11-01T08:12:17.263479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479994232",
       "funnet": "2026-10-31T21:44:15.703447+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Mismagius ex japansk",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479994279",
-      "funnet": "2026-10-31T21:44:15.431838+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
