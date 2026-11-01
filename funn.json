@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T15:04:16.828612+00:00",
+  "sist_sjekket": "2026-11-01T15:06:15.587590+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu kort",
+      "pris": 26,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480049196",
+      "funnet": "2026-11-01T15:06:15.586084+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pikachu promo #12 journey across america",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458609784",
+      "funnet": "2026-11-01T15:06:14.908241+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – 9 samlekort",
       "pris": 630,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480035883",
       "funnet": "2026-11-01T13:30:42.023518+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lugia Pokémon-kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480035789",
-      "funnet": "2026-11-01T13:30:41.758068+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Vivid Voltage (2020) 4 Secret Rare/Rainbow Rare VMAX",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480035218",
-      "funnet": "2026-11-01T13:30:41.503333+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
