@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T13:32:15.521686+00:00",
+  "sist_sjekket": "2026-11-01T13:34:18.171985+00:00",
   "funn": [
+    {
+      "tittel": "2 stk Golden Baller selges samlet",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480036115",
+      "funnet": "2026-11-01T13:34:18.170029+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "✨ Slowbro 43/62 – Fossil 1999 | Vintage Pokémonkort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480021915",
       "funnet": "2026-11-01T12:01:00.690913+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon: Magnemite (#81) - Topps Blue Logo (2000 Series 2) 🧲⚡🔵📺",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480022503",
-      "funnet": "2026-11-01T11:58:16.603525+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
