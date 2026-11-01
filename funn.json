@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T07:44:15.086189+00:00",
+  "sist_sjekket": "2026-11-01T07:46:15.582893+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480000179",
+      "funnet": "2026-11-01T07:46:15.581124+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Real Madrid fotballkort Carreras",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479994279",
       "funnet": "2026-10-31T21:44:15.431838+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Dondozo ex",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479994157",
-      "funnet": "2026-10-31T21:42:16.747237+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
