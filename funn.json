@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T20:18:15.648082+00:00",
+  "sist_sjekket": "2026-11-01T20:20:28.514099+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480079270",
+      "funnet": "2026-11-01T20:20:28.512304+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Duel masters kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466645851",
+      "funnet": "2026-11-01T20:20:27.667855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - 30th Greninja/Sylveon tins",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475294886",
       "funnet": "2026-11-01T19:08:20.330563+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon | 9 hits fra forskjellige sett",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479664357",
-      "funnet": "2026-11-01T19:06:16.628633+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Japansk (JP) - Pikachu - komplett sett - 30/30 kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478539555",
-      "funnet": "2026-11-01T19:06:16.378663+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
