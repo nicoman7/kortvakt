@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T10:52:16.195038+00:00",
+  "sist_sjekket": "2026-11-01T10:54:17.587616+00:00",
   "funn": [
+    {
+      "tittel": "Applin 012/142 - Pokemon Stellar Crown",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480014486",
+      "funnet": "2026-11-01T10:54:17.585834+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lileep 005/142 - Pokemon Stellar Crown",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480014635",
+      "funnet": "2026-11-01T10:54:17.180984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Merlin Premier Gold 2002 – 13x fotballkort (Van Nistelrooy, Vieira, Cole",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480001349",
       "funnet": "2026-11-01T08:18:16.593663+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Engelske 30th celebrations pikachuer",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480001234",
-      "funnet": "2026-11-01T08:18:15.746796+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Adrenalyn XL fotballkort samling",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480000919",
-      "funnet": "2026-11-01T08:16:17.000966+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
