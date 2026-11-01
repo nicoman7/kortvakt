@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T11:52:16.506809+00:00",
+  "sist_sjekket": "2026-11-01T11:54:15.371613+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 360,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480022036",
+      "funnet": "2026-11-01T11:54:15.369247+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Glaceon samlekort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480022191",
+      "funnet": "2026-11-01T11:54:15.097314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Haunter (#93) - Topps Blue Logo (2000 Series 2) 👻💜🔵📺",
       "pris": 109,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480013044",
       "funnet": "2026-11-01T10:42:18.093848+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "KEHUASHINA Pokemon Slab Case",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480013016",
-      "funnet": "2026-11-01T10:42:17.703267+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samlekort med permbok",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
-      "funnet": "2026-11-01T10:42:17.316697+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
