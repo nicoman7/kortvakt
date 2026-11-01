@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T11:58:16.605129+00:00",
+  "sist_sjekket": "2026-11-01T12:01:01.066602+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 420,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480023107",
+      "funnet": "2026-11-01T12:01:01.064639+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon mini tin fra Ascended Heroes (NB! Ingen kortpakker kun tin)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480021915",
+      "funnet": "2026-11-01T12:01:00.690913+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Magnemite (#81) - Topps Blue Logo (2000 Series 2) 🧲⚡🔵📺",
       "pris": 49,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480014360",
       "funnet": "2026-11-01T10:44:18.583331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Magby 186/182",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480012836",
-      "funnet": "2026-11-01T10:42:19.335104+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480012793",
-      "funnet": "2026-11-01T10:42:18.988666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
