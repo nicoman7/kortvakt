@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T06:24:14.218180+00:00",
+  "sist_sjekket": "2026-11-01T06:26:16.173511+00:00",
   "funn": [
+    {
+      "tittel": "VM-kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479998673",
+      "funnet": "2026-11-01T06:26:16.171771+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort samling😊",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479998670",
+      "funnet": "2026-11-01T06:26:15.395084+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fifa Adrenalyn xl nordic edition WC 26",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479993879",
       "funnet": "2026-10-31T21:32:15.741015+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Deco Prodigy Rodrigo Mora FC Porto samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479993904",
-      "funnet": "2026-10-31T21:32:15.160218+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kort Brute Bonnet Holo 123/182 fra Paradox Rift (PAR EN)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934135",
-      "funnet": "2026-10-31T21:30:46.268717+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
