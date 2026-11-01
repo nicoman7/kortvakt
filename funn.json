@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T16:30:51.904205+00:00",
+  "sist_sjekket": "2026-11-01T16:32:19.464676+00:00",
   "funn": [
+    {
+      "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
+      "funnet": "2026-11-01T16:32:19.462773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre Pokemonkort",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480046889",
       "funnet": "2026-11-01T14:48:17.566923+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 kort med 10 holo/reverse holo",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476440876",
-      "funnet": "2026-11-01T14:48:17.307157+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
