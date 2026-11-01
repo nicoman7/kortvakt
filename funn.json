@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T09:56:16.528846+00:00",
+  "sist_sjekket": "2026-11-01T09:58:16.807738+00:00",
   "funn": [
+    {
+      "tittel": "NBA Topps Rik Smits basketkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480008247",
+      "funnet": "2026-11-01T09:58:16.806232+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON TWILIGHT MASQUERADE 2024",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480008071",
+      "funnet": "2026-11-01T09:58:16.521419+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA Skybox Premium Sergei Bazarevich basketkort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-01T00:34:16.719212+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 Anthony Elanga samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996910",
-      "funnet": "2026-11-01T00:26:16.897364+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup 2026 Phil Foden samlekort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996903",
-      "funnet": "2026-11-01T00:26:16.217872+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
