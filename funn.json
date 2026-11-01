@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T12:16:18.816942+00:00",
+  "sist_sjekket": "2026-11-01T12:18:17.683400+00:00",
   "funn": [
+    {
+      "tittel": "750 Pokémon Kort Bulk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480025341",
+      "funnet": "2026-11-01T12:18:17.681564+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NBA Upper Deck Collectors Choice Pooh Richardson basketkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480025391",
+      "funnet": "2026-11-01T12:18:17.270664+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA Upper Deck Jon Koncak basketkort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-01T10:56:16.977417+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Applin 012/142 - Pokemon Stellar Crown",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480014486",
-      "funnet": "2026-11-01T10:54:17.585834+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lileep 005/142 - Pokemon Stellar Crown",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480014635",
-      "funnet": "2026-11-01T10:54:17.180984+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
