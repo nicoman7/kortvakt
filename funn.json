@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T00:10:26.486672+00:00",
+  "sist_sjekket": "2026-11-01T00:12:16.637408+00:00",
   "funn": [
+    {
+      "tittel": "Panini Maple fotballkort nr. 625",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479996808",
+      "funnet": "2026-11-01T00:12:16.635190+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Revolution Futures Brennan Johnson fotballkort",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479992380",
       "funnet": "2026-10-31T20:48:15.488894+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling av Mew Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479697696",
-      "funnet": "2026-10-31T20:40:26.066049+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
