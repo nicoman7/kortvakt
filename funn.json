@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T00:32:14.507808+00:00",
+  "sist_sjekket": "2026-11-01T00:34:16.721184+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-11-01T00:34:16.719212+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini FIFA World Cup 2026 Anthony Elanga samlekort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479993360",
       "funnet": "2026-10-31T21:14:19.801201+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Prizm Joe Gomez Liverpool FC samlekort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479993383",
-      "funnet": "2026-10-31T21:14:18.929798+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
