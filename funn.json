@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T09:28:16.154897+00:00",
+  "sist_sjekket": "2026-11-01T09:30:43.909244+00:00",
   "funn": [
+    {
+      "tittel": "NBA Hoops Vinnie Johnson basketkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480005660",
+      "funnet": "2026-11-01T09:30:43.907229+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "NBA Hoops Jerry Reynolds basketkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480005798",
+      "funnet": "2026-11-01T09:30:43.011725+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON SCARLET&VIOLET PALDEAN FATES 2024",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-10-31T23:50:30.747132+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummerert 02/10 Dirk Kuyt  Nederland fotballkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996550",
-      "funnet": "2026-10-31T23:48:16.381185+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort: Zekrom og Reshiram Gullkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996551",
-      "funnet": "2026-10-31T23:48:15.529417+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
