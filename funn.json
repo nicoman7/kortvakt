@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-01T08:16:17.002921+00:00",
+  "sist_sjekket": "2026-11-01T08:18:17.449611+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 25 (09/10) fra kinesisk 30th anniversary",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480001320",
+      "funnet": "2026-11-01T08:18:17.448484+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 46 (30/30) fra kinesisk 30th anniversary",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480001349",
+      "funnet": "2026-11-01T08:18:16.593663+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Engelske 30th celebrations pikachuer",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480001234",
+      "funnet": "2026-11-01T08:18:15.746796+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini Adrenalyn XL fotballkort samling",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479994889",
       "funnet": "2026-10-31T22:10:27.655192+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort selges samlet",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479994825",
-      "funnet": "2026-10-31T22:10:27.290714+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon samlekort med permbok",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479576684",
-      "funnet": "2026-10-31T22:10:26.178411+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Pristine Jorrel Hato #65 Chelsea Refractor",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479994791",
-      "funnet": "2026-10-31T22:06:17.555066+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
