@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T14:36:17.050144+00:00",
+  "sist_sjekket": "2026-11-01T14:38:17.616183+00:00",
   "funn": [
+    {
+      "tittel": "Forskjellige Pikachu og Raichu",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480044968",
+      "funnet": "2026-11-01T14:38:17.614269+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gengar Skyridge PSA 5💎😈 • Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476726351",
+      "funnet": "2026-11-01T14:38:17.287825+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon: Rapidash (#78) - Topps Blue Logo (2000 Series 2) 🔥🦄🔵📺",
       "pris": 59,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480033866",
       "funnet": "2026-11-01T13:16:17.351954+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew ex SIR 152/128: Pokemon 30th celebration",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480033240",
-      "funnet": "2026-11-01T13:14:19.194754+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Team Rocket’s Ariana Trainerkort 237",
-      "pris": 225,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480033451",
-      "funnet": "2026-11-01T13:14:18.399688+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
