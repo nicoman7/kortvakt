@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-01T14:04:16.702255+00:00",
+  "sist_sjekket": "2026-11-01T14:06:17.377038+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480041159",
+      "funnet": "2026-11-01T14:06:17.375686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "NBA Fleer Nick Anderson basketkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480041176",
+      "funnet": "2026-11-01T14:06:16.534520+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Cynthia's Gabite Ascended Heroes (110)",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480041301",
+      "funnet": "2026-11-01T14:06:16.182363+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mats Zuccarello - Wild- Ishocky kort - NHL - Patch",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480039896",
+      "funnet": "2026-11-01T14:06:15.478292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Clefable Ascended Heroes (75)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480041079",
+      "funnet": "2026-11-01T14:06:14.957010+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 45,
@@ -1158,46 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480028146",
       "funnet": "2026-11-01T12:48:17.335512+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA Upper Deck Pete Chilcutt basketkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480029685",
-      "funnet": "2026-11-01T12:48:16.577616+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard & Reshiram GX Tag team (sun and moon promo) KOM MED BUD!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479783592",
-      "funnet": "2026-11-01T12:48:15.561065+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "NBA Upper Deck Mark Price basketkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480029404",
-      "funnet": "2026-11-01T12:46:18.539229+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu fra 30th Celebration",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480029388",
-      "funnet": "2026-11-01T12:46:17.697640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Yveltal 088/132 Mega Evolution promokort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480029059",
-      "funnet": "2026-11-01T12:46:16.865970+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
