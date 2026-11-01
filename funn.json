@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-01T15:52:17.353373+00:00",
+  "sist_sjekket": "2026-11-01T15:54:17.616868+00:00",
   "funn": [
+    {
+      "tittel": "Selger Pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480053580",
+      "funnet": "2026-11-01T15:54:17.615534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 049/128 – 30th Anniversary – 2026",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480054897",
+      "funnet": "2026-11-01T15:54:16.860406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Dragonair Ascended Heroes (151) Love Ball",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480054707",
+      "funnet": "2026-11-01T15:54:16.226982+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Eevee Rocket",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480054482",
+      "funnet": "2026-11-01T15:54:15.514597+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 024/128 – 30th Anniversary – 2026",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480055009",
+      "funnet": "2026-11-01T15:54:15.177802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tapu Koko GX 153/145 – PSA 10 – Rainbow Secret Rare – Guardians Rising (2017)",
       "pris": 1490,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-11-01T14:06:17.375686+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "NBA Fleer Nick Anderson basketkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480041176",
-      "funnet": "2026-11-01T14:06:16.534520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Cynthia's Gabite Ascended Heroes (110)",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480041301",
-      "funnet": "2026-11-01T14:06:16.182363+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mats Zuccarello - Wild- Ishocky kort - NHL - Patch",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480039896",
-      "funnet": "2026-11-01T14:06:15.478292+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Clefable Ascended Heroes (75)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480041079",
-      "funnet": "2026-11-01T14:06:14.957010+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480040659",
-      "funnet": "2026-11-01T14:04:16.700409+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
