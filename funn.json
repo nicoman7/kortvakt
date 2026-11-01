@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T18:52:18.364503+00:00",
+  "sist_sjekket": "2026-11-01T18:54:16.129401+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480071699",
+      "funnet": "2026-11-01T18:54:16.126815+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MLB 2026 Topps Chrome #113 Max Fried baseballkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480071945",
+      "funnet": "2026-11-01T18:54:15.783401+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MLB 2026 Topps Chrome #219 Harrison Bader baseballkort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480057452",
       "funnet": "2026-11-01T16:50:30.611098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Palkia 020/128 - Pokemon 30th Anniversary - Engelsk",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480060535",
-      "funnet": "2026-11-01T16:50:30.065459+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gyarados [Reverse] #130 Pokemon Japanese Scarlet & Violet 151",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480057684",
-      "funnet": "2026-11-01T16:48:22.685666+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
