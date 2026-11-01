@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T09:08:16.337696+00:00",
+  "sist_sjekket": "2026-11-01T09:10:25.502584+00:00",
   "funn": [
+    {
+      "tittel": "Norgekort Haaland",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480003004",
+      "funnet": "2026-11-01T09:10:25.500565+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kortpakker – 15 kort – Holo & Reverse Holo",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480004281",
+      "funnet": "2026-11-01T09:10:25.262295+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NBA Topps Larry Johnson basketkort",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479996445",
       "funnet": "2026-10-31T23:36:14.864697+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jules Koundé FC Barcelona fotballkort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996392",
-      "funnet": "2026-10-31T23:34:16.496487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th Tins med 30 kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996391",
-      "funnet": "2026-10-31T23:34:15.929622+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
