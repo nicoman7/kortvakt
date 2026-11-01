@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-01T22:02:16.111469+00:00",
+  "sist_sjekket": "2026-11-01T22:04:16.581662+00:00",
   "funn": [
+    {
+      "tittel": "Arceus #AR7 Pokemon Arceus",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480086236",
+      "funnet": "2026-11-01T22:04:16.580394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bytte Panini-merker VM 2026",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480086273",
+      "funnet": "2026-11-01T22:04:15.810552+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-11-01T22:04:15.125795+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Latios #HGSS11 Pokemon Promo",
       "pris": 350,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-01T20:28:19.428322+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "21 pokemon kort selges hbo 700kr.",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480078440",
-      "funnet": "2026-11-01T20:24:16.543975+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Superior Energy Retrieval 277/193 holografisk Trainer-kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480079955",
-      "funnet": "2026-11-01T20:24:16.248083+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece TCG  EB05 Nami alt art leader kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480079751",
-      "funnet": "2026-11-01T20:24:15.777864+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
