@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T08:58:15.131479+00:00",
+  "sist_sjekket": "2026-11-01T09:00:56.171137+00:00",
   "funn": [
+    {
+      "tittel": "Samling med fotballkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480003502",
+      "funnet": "2026-11-01T09:00:56.169704+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon mystery pakker. Lugia gold chase",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
+      "funnet": "2026-11-01T09:00:55.369408+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "GARANTERT EX I HVER PAKKE! Pokemon pakker med 50 kort til kun 100 kr!",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479929404",
       "funnet": "2026-10-31T23:16:17.725804+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-10-31T23:14:15.199542+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Booster Bundle",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743518",
-      "funnet": "2026-10-31T23:12:16.285362+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
