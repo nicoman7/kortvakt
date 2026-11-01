@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-01T14:40:27.348033+00:00",
+  "sist_sjekket": "2026-11-01T14:42:15.393719+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 32,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480045812",
+      "funnet": "2026-11-01T14:42:15.391583+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1999 Charizard 4/102 Unlimited Base Set Holo",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480032705",
       "funnet": "2026-11-01T13:18:16.324058+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA Fleer Moses Malone basketkort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480033576",
-      "funnet": "2026-11-01T13:16:19.023543+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
