@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-01T14:52:17.294717+00:00",
+  "sist_sjekket": "2026-11-01T14:54:15.508783+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges SUPER BILLIG",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480046077",
+      "funnet": "2026-11-01T14:54:15.506617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon: Heracross Holo fra Neo-serien (2000) - PSA 9",
+      "pris": 1190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480047745",
+      "funnet": "2026-11-01T14:54:15.259347+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon: Snorlax – CGC 10",
       "pris": 799,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480034930",
       "funnet": "2026-11-01T13:24:17.363202+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3stk tyranitar pokémonkort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480034970",
-      "funnet": "2026-11-01T13:24:16.529672+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dawn Trainerkort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480034615",
-      "funnet": "2026-11-01T13:22:21.558310+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
