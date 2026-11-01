@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-01T18:48:15.586988+00:00",
+  "sist_sjekket": "2026-11-01T18:50:26.798466+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonperm Pikachu",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480070926",
+      "funnet": "2026-11-01T18:50:26.796282+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MLB 2026 Topps Series 2 Rafael Flores #623 baseballkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480071359",
+      "funnet": "2026-11-01T18:50:26.082492+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MLB 2026 Topps Series 2 #591 Jahmai Jones baseballkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480071538",
+      "funnet": "2026-11-01T18:50:25.716080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "MLB Topps 2026 Series 2 Harry Ford #659 baseballkort",
       "pris": 5,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-01T16:48:21.814519+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras [Reverse] #131 Pokemon Japanese Scarlet & Violet 151",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480057662",
-      "funnet": "2026-11-01T16:48:20.944487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto [Reverse] #132 Pokemon Japanese Scarlet & Violet 151",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480057574",
-      "funnet": "2026-11-01T16:48:20.013399+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Merlin 94/95 fotballkort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480058969",
-      "funnet": "2026-11-01T16:46:18.441856+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
