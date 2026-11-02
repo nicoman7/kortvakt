@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T10:46:17.627881+00:00",
+  "sist_sjekket": "2026-11-02T10:48:17.222005+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480103820",
+      "funnet": "2026-11-02T10:48:17.220538+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480087905",
       "funnet": "2026-11-01T23:16:16.949456+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "HAUG Med Graderte Pokemonkort! Mye Low Pop!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479807849",
-      "funnet": "2026-11-01T23:12:18.601384+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
