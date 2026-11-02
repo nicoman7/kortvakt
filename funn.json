@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T20:24:19.794356+00:00",
+  "sist_sjekket": "2026-11-02T20:26:17.509062+00:00",
   "funn": [
+    {
+      "tittel": "Topps Match Attax Extra 2021/22 pakke",
+      "pris": 49,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/434509533",
+      "funnet": "2026-11-02T20:26:17.507191+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort pakke Top Class",
       "pris": 39,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-02T18:50:33.189744+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142115",
-      "funnet": "2026-11-02T18:50:32.565408+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
