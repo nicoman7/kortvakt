@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-02T09:42:24.328034+00:00",
+  "sist_sjekket": "2026-11-02T09:44:40.007987+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480099192",
+      "funnet": "2026-11-02T09:44:40.005968+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort 2004-2022",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480097965",
+      "funnet": "2026-11-02T09:44:39.225063+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2 stk Pene Rayquaza XY141 pokemon kort vurderes solgtt",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479724384",
+      "funnet": "2026-11-02T09:44:38.422608+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew Ex #205 Pokemon Scarlet & Violet 151 & Metal",
       "pris": 650,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-01T22:04:15.125795+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Latios #HGSS11 Pokemon Promo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480086044",
-      "funnet": "2026-11-01T22:00:56.972508+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Merlin Nathan Collins Refractor Auto – Brentford",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480085930",
-      "funnet": "2026-11-01T22:00:56.560800+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fifa Adrenalyn xl nordic edition WC 26",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479765133",
-      "funnet": "2026-11-01T21:58:15.375765+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
