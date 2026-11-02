@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-02T21:22:16.315774+00:00",
+  "sist_sjekket": "2026-11-02T21:24:58.909742+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon BREAK-kort | Starmie | 2 stk. | 50 kr",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480154885",
+      "funnet": "2026-11-02T21:24:58.907998+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "2026 Topps Heritage NFL lot 45 kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480154974",
+      "funnet": "2026-11-02T21:24:58.593181+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort samling",
       "pris": 2000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475388852",
       "funnet": "2026-11-02T19:18:23.382770+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Light Dragonite 14/105 holografisk",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477605260",
-      "funnet": "2026-11-02T19:18:22.524101+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Espeon δ Delta Species holo 4/113",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478610949",
-      "funnet": "2026-11-02T19:18:21.564008+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
