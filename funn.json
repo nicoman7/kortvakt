@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T17:46:24.882648+00:00",
+  "sist_sjekket": "2026-11-02T17:48:24.096005+00:00",
   "funn": [
+    {
+      "tittel": "Kiernan Dewsbury-Hall 126 – Topps",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480137057",
+      "funnet": "2026-11-02T17:48:24.094652+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-02T15:01:02.250409+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Solgaleo og Lunala gx",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480123921",
-      "funnet": "2026-11-02T14:58:20.180680+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
