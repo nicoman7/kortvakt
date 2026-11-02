@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-02T20:22:20.208226+00:00",
+  "sist_sjekket": "2026-11-02T20:24:19.794356+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort pakke Top Class",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/357410915",
+      "funnet": "2026-11-02T20:24:19.792554+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort pakke Euro 2024",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/357411116",
+      "funnet": "2026-11-02T20:24:19.419318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⭐️Pokémon kortpakke i Mini Tin! Garantert EX + 30th Pikachu og sjanse for hits⭐️",
+      "pris": 159,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479362587",
+      "funnet": "2026-11-02T20:24:18.517416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Mini Tin",
       "pris": 349,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-02T18:50:32.565408+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon samlekort – 3 stk.",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142068",
-      "funnet": "2026-11-02T18:50:31.820956+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142232",
-      "funnet": "2026-11-02T18:50:31.543438+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "One Piece samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480141824",
-      "funnet": "2026-11-02T18:48:17.139261+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
