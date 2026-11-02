@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T21:28:26.596986+00:00",
+  "sist_sjekket": "2026-11-02T21:30:45.053583+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480155369",
+      "funnet": "2026-11-02T21:30:45.051547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480144190",
       "funnet": "2026-11-02T19:20:32.909337+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Rayquaza C LV.X samle kort DP47",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477573217",
-      "funnet": "2026-11-02T19:20:32.175065+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
