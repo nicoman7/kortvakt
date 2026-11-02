@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-02T19:18:23.384375+00:00",
+  "sist_sjekket": "2026-11-02T19:20:32.911371+00:00",
   "funn": [
+    {
+      "tittel": "kort skap",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144190",
+      "funnet": "2026-11-02T19:20:32.909337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Rayquaza C LV.X samle kort DP47",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477573217",
+      "funnet": "2026-11-02T19:20:32.175065+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 25th Anniv. japanske kort - CGC 10 - Dialga Reshiram Solgaleo Xerneas",
+      "pris": 1350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478548032",
+      "funnet": "2026-11-02T19:20:31.452023+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Lunch Box FULL AV TOPLOADERS",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480145026",
+      "funnet": "2026-11-02T19:20:30.676984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Pitch Black, Mega ev, Phantasmal, Surging sparks + kanskje PSA10",
       "pris": 123,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-02T17:26:25.780777+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort selges samlet",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134912",
-      "funnet": "2026-11-02T17:24:18.323037+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps chrome Clutch Gene Basketballkort Cooper Flagg Dallas Mavericks",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134570",
-      "funnet": "2026-11-02T17:24:17.497087+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134704",
-      "funnet": "2026-11-02T17:22:21.028633+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup 2026 – 359 kort til salgs ⚽",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479892278",
-      "funnet": "2026-11-02T17:22:20.247788+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
