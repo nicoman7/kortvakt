@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T08:14:36.005101+00:00",
+  "sist_sjekket": "2026-11-02T08:16:21.554178+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E-Kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480093514",
+      "funnet": "2026-11-02T08:16:21.552072+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokemon Kort Selges!",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-01T21:28:17.813515+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Watchog samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480084557",
-      "funnet": "2026-11-01T21:28:17.467491+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
