@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-02T19:30:47.517137+00:00",
+  "sist_sjekket": "2026-11-02T19:32:17.882955+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480145748",
+      "funnet": "2026-11-02T19:32:17.881025+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic the Gathering kort – japansk spesialutgave",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478555655",
+      "funnet": "2026-11-02T19:32:17.296113+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bunke med kort fra Secret Wonders - 2007",
+      "pris": 460,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470254660",
+      "funnet": "2026-11-02T19:32:17.045792+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Phantasmal Flames Samling - Pokémon kort",
+      "pris": 460,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471996191",
+      "funnet": "2026-11-02T19:32:16.371519+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Masquerain 104/103 – Illustration Rare (IR) – Delta Reign",
       "pris": 299,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-02T17:36:22.983806+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Giratina VSTAR #81 Pokemon Japanese Lost Abyss",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134646",
-      "funnet": "2026-11-02T17:32:41.806820+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort 30th celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480135808",
-      "funnet": "2026-11-02T17:32:41.228738+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémonkort Mawile",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134762",
-      "funnet": "2026-11-02T17:32:40.639229+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Hatterene V #65 Pokemon Japanese VSTAR Universe",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480134631",
-      "funnet": "2026-11-02T17:32:40.319035+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
