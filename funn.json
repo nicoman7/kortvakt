@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T21:30:45.053583+00:00",
+  "sist_sjekket": "2026-11-02T21:32:17.961574+00:00",
   "funn": [
+    {
+      "tittel": "Samling av Mew Pokemon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479697696",
+      "funnet": "2026-11-02T21:32:17.960311+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479613222",
       "funnet": "2026-11-02T19:22:17.290813+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "kort skap",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480144190",
-      "funnet": "2026-11-02T19:20:32.909337+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
