@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-02T09:24:20.128116+00:00",
+  "sist_sjekket": "2026-11-02T09:26:23.149863+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Charizard promo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480096839",
+      "funnet": "2026-11-02T09:26:23.148045+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "750 Pokémon Kort Bulk",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480097935",
+      "funnet": "2026-11-02T09:26:22.368523+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu VMAX, Flying Pikachu VMAX og Mewtwo VSTAR",
       "pris": 1234,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480085688",
       "funnet": "2026-11-01T21:50:25.907528+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480085723",
-      "funnet": "2026-11-01T21:50:25.235391+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Lumineon Holo samlekort",
-      "pris": 160,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480085730",
-      "funnet": "2026-11-01T21:50:24.493105+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
