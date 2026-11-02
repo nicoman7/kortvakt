@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T10:58:17.687529+00:00",
+  "sist_sjekket": "2026-11-02T11:01:06.807585+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon blå topps foliert",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480104544",
+      "funnet": "2026-11-02T11:01:06.805918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling av Mew Pokemon kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-01T23:28:16.213785+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ditto Charmander #61 Pokemon Delta Species",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480088288",
-      "funnet": "2026-11-01T23:26:18.198569+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
