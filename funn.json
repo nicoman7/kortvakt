@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T13:02:21.326729+00:00",
+  "sist_sjekket": "2026-11-02T13:04:18.019782+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon blandet samling 234 div ex og mega kort",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
+      "funnet": "2026-11-02T13:04:18.018093+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Winona #108 Pokemon Roaring Skies",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479994679",
       "funnet": "2026-11-02T09:20:29.620424+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(Gratis frakt) Fomantis Pokémon kort",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479996813",
-      "funnet": "2026-11-02T09:18:26.929894+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
