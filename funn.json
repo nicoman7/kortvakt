@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T01:20:27.138882+00:00",
+  "sist_sjekket": "2026-11-02T01:22:17.397996+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480089340",
+      "funnet": "2026-11-02T01:22:17.396312+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kimi Räikkönen F1 Samlerkort – Topps Chrome Legends & Relic/Coin Lot",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480082304",
       "funnet": "2026-11-01T20:56:20.241250+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Festa 2026 promokortpakke",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480082248",
-      "funnet": "2026-11-01T20:56:19.853619+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
