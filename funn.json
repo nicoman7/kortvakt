@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T09:44:40.007987+00:00",
+  "sist_sjekket": "2026-11-02T09:46:27.446598+00:00",
   "funn": [
+    {
+      "tittel": "Arceus #XY116 Pokemon Promo",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480099357",
+      "funnet": "2026-11-02T09:46:27.444476+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-01T22:04:15.810552+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-11-01T22:04:15.125795+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
