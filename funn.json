@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T08:36:16.045381+00:00",
+  "sist_sjekket": "2026-11-02T08:38:24.606823+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480094785",
+      "funnet": "2026-11-02T08:38:24.604832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cresselia Classic Collection 30th Pokémon kort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480084655",
       "funnet": "2026-11-01T21:30:43.327351+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480084768",
-      "funnet": "2026-11-01T21:30:43.028538+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
