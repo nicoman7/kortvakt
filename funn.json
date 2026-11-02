@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T10:14:16.708151+00:00",
+  "sist_sjekket": "2026-11-02T10:16:19.662522+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Delta Reign booster bundle",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480101327",
+      "funnet": "2026-11-02T10:16:19.660228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aarune 125/103 Ultra Rare",
       "pris": 80,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-01T22:30:44.249621+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Samling av Mew Pokemon kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479697696",
-      "funnet": "2026-11-01T22:30:43.665806+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
