@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T13:12:16.085178+00:00",
+  "sist_sjekket": "2026-11-02T13:14:17.103878+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480115617",
+      "funnet": "2026-11-02T13:14:17.101926+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Gold lion Matheus Cunha og Eberechi Eze",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480097575",
       "funnet": "2026-11-02T09:24:20.126137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "(Gratis frakt) Exeggutor fra Pokemon 30th celebration",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479994449",
-      "funnet": "2026-11-02T09:24:19.311955+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
