@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T10:50:27.562467+00:00",
+  "sist_sjekket": "2026-11-02T10:52:17.147949+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480104003",
+      "funnet": "2026-11-02T10:52:17.146106+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480088128",
       "funnet": "2026-11-01T23:16:17.195376+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Breloom [Reverse Holo] #22 Pokemon Emerald",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480087905",
-      "funnet": "2026-11-01T23:16:16.949456+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
