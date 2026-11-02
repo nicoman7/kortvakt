@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T01:36:16.856780+00:00",
+  "sist_sjekket": "2026-11-02T01:38:16.969325+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon-kort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480089391",
+      "funnet": "2026-11-02T01:38:16.967505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Michael Schumacher F1 Samlerkort – Topps Chrome Legends Refractor & Turbo Attax",
       "pris": 220,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480082582",
       "funnet": "2026-11-01T20:58:21.220955+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort – samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480082610",
-      "funnet": "2026-11-01T20:58:20.371967+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
