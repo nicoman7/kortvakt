@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T17:54:18.146196+00:00",
+  "sist_sjekket": "2026-11-02T17:56:15.902196+00:00",
   "funn": [
+    {
+      "tittel": "Charizard ex Obsidian Flames SIR 223/197 PSA 9",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480135935",
+      "funnet": "2026-11-02T17:56:15.899684+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon blandet samling 234 div ex og mega kort",
       "pris": 12,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-02T15:06:19.592850+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon collection",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480124757",
-      "funnet": "2026-11-02T15:06:19.328043+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
