@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T21:36:16.682578+00:00",
+  "sist_sjekket": "2026-11-02T21:38:22.006384+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480155557",
+      "funnet": "2026-11-02T21:38:22.004288+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Gallade EX Pokémonkort 048/086",
       "pris": 45,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474884652",
       "funnet": "2026-11-02T19:22:19.408507+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Levi Colwill Chelsea autografkort 30/50",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/471526868",
-      "funnet": "2026-11-02T19:22:19.014793+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
