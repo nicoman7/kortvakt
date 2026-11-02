@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-02T09:22:30.541070+00:00",
+  "sist_sjekket": "2026-11-02T09:24:20.128116+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu VMAX, Flying Pikachu VMAX og Mewtwo VSTAR",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480097575",
+      "funnet": "2026-11-02T09:24:20.126137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "(Gratis frakt) Exeggutor fra Pokemon 30th celebration",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479994449",
+      "funnet": "2026-11-02T09:24:19.311955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling Pokémon Mewtwo VSTAR, Mewtwo V og Mewtwo EX Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
+      "funnet": "2026-11-02T09:24:18.560448+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zapdos Ex #202 Pokemon Scarlet & Violet 151",
       "pris": 800,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480085730",
       "funnet": "2026-11-01T21:50:24.493105+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-11-01T21:50:23.759610+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480085564",
-      "funnet": "2026-11-01T21:48:19.297993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mareep samlekort",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480085562",
-      "funnet": "2026-11-01T21:48:18.449583+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
