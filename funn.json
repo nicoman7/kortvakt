@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T10:28:25.288392+00:00",
+  "sist_sjekket": "2026-11-02T10:31:06.600904+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort Mega Lucario EX, 3 kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480102478",
+      "funnet": "2026-11-02T10:31:06.598726+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480087771",
       "funnet": "2026-11-01T22:56:16.901583+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor lot med nye julekort og vinterkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480087449",
-      "funnet": "2026-11-01T22:44:19.116058+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
