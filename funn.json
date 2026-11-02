@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-02T16:22:19.486255+00:00",
+  "sist_sjekket": "2026-11-02T16:24:17.425137+00:00",
   "funn": [
+    {
+      "tittel": "Lott 23 Mexico telekort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480130402",
+      "funnet": "2026-11-02T16:24:17.423090+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lott 24 Cuba telekort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480130498",
+      "funnet": "2026-11-02T16:24:17.124479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lott 22 Kenya telekort",
       "pris": 40,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-02T13:14:17.101926+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps Gold lion Matheus Cunha og Eberechi Eze",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480115489",
-      "funnet": "2026-11-02T13:12:16.083343+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raifort #142 Pokemon Prismatic Evolutions",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480114993",
-      "funnet": "2026-11-02T13:10:29.586337+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
