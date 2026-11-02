@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T07:04:15.246546+00:00",
+  "sist_sjekket": "2026-11-02T07:06:19.649220+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480091370",
+      "funnet": "2026-11-02T07:06:19.647690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yuka Morii Pokémon-kort til salgs!",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 12,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480083460",
       "funnet": "2026-11-01T21:10:25.951537+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Yveltal kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480083312",
-      "funnet": "2026-11-01T21:10:25.203840+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
