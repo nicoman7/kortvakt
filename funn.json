@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T19:48:19.338943+00:00",
+  "sist_sjekket": "2026-11-02T19:50:28.368578+00:00",
   "funn": [
+    {
+      "tittel": "Spennende Pokemon adventskalendere🎄 2 Varianter!",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/326319652",
+      "funnet": "2026-11-02T19:50:28.365948+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zapdos #133 Pokemon 30th Celebration",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-02T18:22:18.486394+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-11-02T18:22:18.130757+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
