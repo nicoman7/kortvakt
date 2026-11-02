@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-02T17:42:18.488804+00:00",
+  "sist_sjekket": "2026-11-02T17:44:17.377553+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480136668",
+      "funnet": "2026-11-02T17:44:17.375436+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 2/11",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-11-02T17:44:16.631264+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 2025 Julekalender",
       "pris": 1899,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-02T14:58:20.180680+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480123906",
-      "funnet": "2026-11-02T14:58:19.326355+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort samling autentisk",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480123593",
-      "funnet": "2026-11-02T14:58:18.478669+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
