@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T06:30:45.647869+00:00",
+  "sist_sjekket": "2026-11-02T06:32:15.893551+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480090771",
+      "funnet": "2026-11-02T06:32:15.891689+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480083127",
       "funnet": "2026-11-01T21:06:17.038350+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Cobalion EX Metal Road Pokémon-kort",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480083170",
-      "funnet": "2026-11-01T21:06:16.373752+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
