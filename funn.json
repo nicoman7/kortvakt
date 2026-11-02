@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T21:18:22.065074+00:00",
+  "sist_sjekket": "2026-11-02T21:20:28.648809+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480154220",
+      "funnet": "2026-11-02T21:20:28.647100+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Prismatic Evolutions Booster Bundle (Gratis frakt)",
       "pris": 1299,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478610949",
       "funnet": "2026-11-02T19:18:21.564008+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu samlekort Nuzzle Volt Tackle 241/236",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477592960",
-      "funnet": "2026-11-02T19:18:20.805351+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
