@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-02T20:14:20.341730+00:00",
+  "sist_sjekket": "2026-11-02T20:16:17.178100+00:00",
   "funn": [
+    {
+      "tittel": "Charizard G LV.X – DP45 Holo",
+      "pris": 880,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480149794",
+      "funnet": "2026-11-02T20:16:17.175978+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Lapras #25 Pokemon Fossil Kort",
       "pris": 69,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-02T18:44:19.934224+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ezreal rare Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480141626",
-      "funnet": "2026-11-02T18:44:19.235625+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
