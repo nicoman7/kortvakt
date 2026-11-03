@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T18:38:34.590626+00:00",
+  "sist_sjekket": "2026-11-03T18:40:41.971642+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - lot 11 kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480210829",
+      "funnet": "2026-11-03T18:40:41.970180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Adrenalyn XL FIFA 365 fotballkort",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T17:24:26.140088+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Zekrom samlekort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480204123",
-      "funnet": "2026-11-03T17:24:25.427303+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
