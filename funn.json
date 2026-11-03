@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T17:34:29.442780+00:00",
+  "sist_sjekket": "2026-11-03T17:36:23.536733+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-11-03T17:36:23.534580+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Panini fotballkort med Rodrygo",
       "pris": 15,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480198011",
       "funnet": "2026-11-03T15:54:28.843464+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary ETB",
-      "pris": 1597,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479852476",
-      "funnet": "2026-11-03T15:54:24.720903+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
