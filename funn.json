@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T15:24:16.815613+00:00",
+  "sist_sjekket": "2026-11-03T15:26:19.145126+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon Kort Selges!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479813132",
+      "funnet": "2026-11-03T15:26:19.143272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokèmon Pikachu DP16 – Snowflake Promo 2008",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T12:10:27.077499+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu 25th",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480180517",
-      "funnet": "2026-11-03T12:08:17.386226+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
