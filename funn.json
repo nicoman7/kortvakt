@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T13:24:19.665098+00:00",
+  "sist_sjekket": "2026-11-03T13:26:17.722001+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 hits Charmander, Omanyte og Dragonair",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480186541",
+      "funnet": "2026-11-03T13:26:17.720307+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort. Blastoise holo",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T09:18:17.095186+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Diverse Cracked Ice HOLO! LP - NM",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480167743",
-      "funnet": "2026-11-03T09:18:16.733730+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
