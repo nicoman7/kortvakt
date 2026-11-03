@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-03T15:04:22.876397+00:00",
+  "sist_sjekket": "2026-11-03T15:06:20.660061+00:00",
   "funn": [
+    {
+      "tittel": "2003-2007 Pokemon ex kort m/ prisliste",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476742114",
+      "funnet": "2026-11-03T15:06:20.658199+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Flareon EX Pokémonkort",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480194732",
+      "funnet": "2026-11-03T15:06:20.221373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Darkrai, Charizard, Kyogre og Tyranitar",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480194628",
+      "funnet": "2026-11-03T15:06:19.899495+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Eevee Pokémonkort fra DELTA REIGN",
       "pris": 329,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-03T11:38:15.716801+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Nidoking 24/147 fra Aquapolis",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480177661",
-      "funnet": "2026-11-03T11:34:17.673505+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Anniversary ETB",
-      "pris": 1597,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479852476",
-      "funnet": "2026-11-03T11:34:16.824236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-11-03T11:32:19.748829+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
