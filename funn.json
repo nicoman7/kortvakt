@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T18:31:00.587942+00:00",
+  "sist_sjekket": "2026-11-03T18:33:53.995293+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480210235",
+      "funnet": "2026-11-03T18:33:53.993188+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Topps",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472293802",
+      "funnet": "2026-11-03T18:33:53.423029+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Salamence ex #156 Pokemon 30th Celebration",
       "pris": 299,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/439973028",
       "funnet": "2026-11-03T17:24:24.330060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort med Yannick Carrasco",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439972558",
-      "funnet": "2026-11-03T17:24:23.970991+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - N fra 30th Celebration Japansk",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480204904",
-      "funnet": "2026-11-03T17:24:23.271555+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
