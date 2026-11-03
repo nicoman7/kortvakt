@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-03T20:06:34.315139+00:00",
+  "sist_sjekket": "2026-11-03T20:08:42.005840+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480218029",
+      "funnet": "2026-11-03T20:08:42.004575+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Wingull 84/100 Sandstorm Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480217928",
+      "funnet": "2026-11-03T20:08:41.640649+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mew ex 205/165 Pokémonkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480217926",
+      "funnet": "2026-11-03T20:08:41.279255+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rimelig startpakke med pokemonkort",
       "pris": 100,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480208373",
       "funnet": "2026-11-03T18:08:26.631210+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480208453",
-      "funnet": "2026-11-03T18:08:26.251168+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fifa Adrenalyn xl nordic edition WC 26",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479765133",
-      "funnet": "2026-11-03T18:06:36.548669+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jangmo-o 160/236 - Pokemon Cosmic Eclipse",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480207991",
-      "funnet": "2026-11-03T18:04:35.026058+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
