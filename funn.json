@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T13:22:16.423750+00:00",
+  "sist_sjekket": "2026-11-03T13:24:19.665098+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort. Blastoise holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480186351",
+      "funnet": "2026-11-03T13:24:19.663209+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 151 Ninétales ex Pokémonkort",
       "pris": 295,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T09:18:16.733730+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Meloetta EX Full Art Holo Ultra Rare RC25/RC25",
-      "pris": 229,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480167606",
-      "funnet": "2026-11-03T09:16:19.086673+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
