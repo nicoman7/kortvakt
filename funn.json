@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T11:48:22.990190+00:00",
+  "sist_sjekket": "2026-11-03T11:50:25.759824+00:00",
   "funn": [
+    {
+      "tittel": "Graderte Kort - Gode priser ✨",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479787787",
+      "funnet": "2026-11-03T11:50:25.757946+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "✨POKEMON MYSTERY STARTER PACK LIMITED DROP✨",
       "pris": 159,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/475844712",
       "funnet": "2026-11-03T02:30:48.808724+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "15 Pokémon-kort – Sun & Moon 2017–2018 – Reverse Holo",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480159670",
-      "funnet": "2026-11-03T02:26:15.563414+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
