@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T15:32:18.896174+00:00",
+  "sist_sjekket": "2026-11-03T15:34:21.379588+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling: Asako Ito",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480196376",
+      "funnet": "2026-11-03T15:34:21.378212+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mew ex Pokémonkort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 459,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480182023",
       "funnet": "2026-11-03T12:28:19.246415+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Illustration Contest 2024-promokortpakke - Japansk",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480181772",
-      "funnet": "2026-11-03T12:26:22.387700+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
