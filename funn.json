@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T08:30:49.913941+00:00",
+  "sist_sjekket": "2026-11-03T08:32:42.820159+00:00",
   "funn": [
+    {
+      "tittel": "Damaged Pokémon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480164976",
+      "funnet": "2026-11-03T08:32:42.818663+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 151 Kinesisk Hope 151C",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480152886",
       "funnet": "2026-11-02T20:50:28.246435+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemonsamling - Base set 1&2, Jungle, Fossil - Alle holo- PRISLISTE",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479808306",
-      "funnet": "2026-11-02T20:50:27.397204+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
