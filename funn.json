@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T00:04:15.055191+00:00",
+  "sist_sjekket": "2026-11-03T00:06:17.663373+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480158907",
+      "funnet": "2026-11-03T00:06:17.661626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard 39/165 – Expedition (2002)",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/326319652",
       "funnet": "2026-11-02T19:50:28.365948+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zapdos #133 Pokemon 30th Celebration",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480147627",
-      "funnet": "2026-11-02T19:48:19.337149+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
