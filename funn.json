@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T08:28:17.654766+00:00",
+  "sist_sjekket": "2026-11-03T08:30:49.913941+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 Kinesisk Hope 151C",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480163619",
+      "funnet": "2026-11-03T08:30:49.912185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Gilberto Mora RC – Mexico Panini Prizm World Cup 2026",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479808306",
       "funnet": "2026-11-02T20:50:27.397204+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Lucario ex Mega Hyper Rare kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480152480",
-      "funnet": "2026-11-02T20:46:19.383604+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
