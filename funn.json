@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T15:20:36.121101+00:00",
+  "sist_sjekket": "2026-11-03T15:22:23.463435+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480195314",
+      "funnet": "2026-11-03T15:22:23.461343+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Mega Gardevoir EX samlekort",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480179785",
       "funnet": "2026-11-03T12:02:15.992653+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2005 Pokemon kort m/ prisliste",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476737562",
-      "funnet": "2026-11-03T11:56:17.834186+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
