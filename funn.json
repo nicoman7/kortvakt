@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T16:28:22.430965+00:00",
+  "sist_sjekket": "2026-11-03T16:30:51.744097+00:00",
   "funn": [
+    {
+      "tittel": "Pokèmon kort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480200714",
+      "funnet": "2026-11-03T16:30:51.742239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Finest UCC 25-26 Trent Alexander-Arnold",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480200806",
+      "funnet": "2026-11-03T16:30:50.919888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokèmon kort",
       "pris": 699,
@@ -1182,22 +1198,6 @@
       "pris": 1200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480186541",
       "funnet": "2026-11-03T13:26:17.720307+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort. Blastoise holo",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480186351",
-      "funnet": "2026-11-03T13:24:19.663209+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 151 Ninétales ex Pokémonkort",
-      "pris": 295,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480186364",
-      "funnet": "2026-11-03T13:22:16.422176+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
