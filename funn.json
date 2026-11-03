@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T16:04:31.648513+00:00",
+  "sist_sjekket": "2026-11-03T16:06:18.258431+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon snowflake 2008",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480198930",
+      "funnet": "2026-11-03T16:06:18.257048+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graderte Kort - Gode priser ✨",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T12:54:18.466975+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lionel Messi Scorers Club samlekort",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480183942",
-      "funnet": "2026-11-03T12:52:15.921831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
