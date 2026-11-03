@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T12:52:15.923141+00:00",
+  "sist_sjekket": "2026-11-03T12:54:19.276979+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Birthday Pikachu",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480183929",
+      "funnet": "2026-11-03T12:54:19.275105+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard & Reshiram GX Tag team (sun and moon promo) KOM MED BUD!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479783592",
+      "funnet": "2026-11-03T12:54:18.466975+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Lionel Messi Scorers Club samlekort",
       "pris": 110,
@@ -1182,22 +1198,6 @@
       "pris": 159,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479362587",
       "funnet": "2026-11-03T07:48:19.080806+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "50 stk 30th celebration pikachu",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480162513",
-      "funnet": "2026-11-03T07:38:15.702388+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480162589",
-      "funnet": "2026-11-03T07:36:19.454317+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
