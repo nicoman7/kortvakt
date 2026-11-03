@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T11:30:45.821340+00:00",
+  "sist_sjekket": "2026-11-03T11:32:19.750997+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-11-03T11:32:19.748829+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Morpeko 135/128 x2",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479698806",
       "funnet": "2026-11-03T01:12:20.069897+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-11-03T01:10:28.921877+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
