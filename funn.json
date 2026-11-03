@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T16:10:31.296299+00:00",
+  "sist_sjekket": "2026-11-03T16:12:18.944500+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort fra Storm Emeralda",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480158517",
+      "funnet": "2026-11-03T16:12:18.942907+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort i (Sleves) med en Slab.",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T12:58:15.208545+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Birthday Pikachu",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480183929",
-      "funnet": "2026-11-03T12:54:19.275105+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
