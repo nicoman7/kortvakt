@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T18:48:32.726885+00:00",
+  "sist_sjekket": "2026-11-03T18:50:44.307422+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480211208",
+      "funnet": "2026-11-03T18:50:44.305600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Dark Tyranitar fra 30th Celebration Japansk",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/439335028",
       "funnet": "2026-11-03T17:26:28.856528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panin fotballkort med Sergi Roberto",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439335529",
-      "funnet": "2026-11-03T17:26:28.639313+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
