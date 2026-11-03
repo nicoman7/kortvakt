@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-03T14:28:21.184021+00:00",
+  "sist_sjekket": "2026-11-03T14:31:01.528632+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort div,",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480192139",
+      "funnet": "2026-11-03T14:31:01.526986+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Klistremerke Merlin #67 - Machoke",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480192398",
+      "funnet": "2026-11-03T14:31:01.185430+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL Premier League fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480191981",
+      "funnet": "2026-11-03T14:31:00.383163+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu TG05",
       "pris": 550,
@@ -1174,30 +1198,6 @@
       "pris": 225,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480175542",
       "funnet": "2026-11-03T11:04:22.205251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon diverse Sjeldne Cracked Ice Holo til fastpris!",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480175209",
-      "funnet": "2026-11-03T11:04:21.466278+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lot – Bayern München julegave – 9 Match Attax-kort med Kane og Olise",
-      "pris": 159,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480174727",
-      "funnet": "2026-11-03T10:56:17.946538+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Marill stamped #68",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480174413",
-      "funnet": "2026-11-03T10:54:18.589781+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
