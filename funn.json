@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-03T19:14:39.282250+00:00",
+  "sist_sjekket": "2026-11-03T19:16:26.379228+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480213240",
+      "funnet": "2026-11-03T19:16:26.377001+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering Ajani's Arish enchantmentkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480213362",
+      "funnet": "2026-11-03T19:16:26.072483+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Prismatic Evolutions Booster bundle",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477085777",
+      "funnet": "2026-11-03T19:16:25.429292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Thunderbolts Conspiracy Magic: The Gathering-kort",
       "pris": 5,
@@ -1174,30 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/437882933",
       "funnet": "2026-11-03T17:34:28.770338+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort med Kylian Mbappe",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437893500",
-      "funnet": "2026-11-03T17:34:28.432602+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort med Casemiro - Panini Giant",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437727768",
-      "funnet": "2026-11-03T17:34:27.749626+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort med Felipe Anderson og Mattia Zaccagni",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/437882281",
-      "funnet": "2026-11-03T17:34:27.042200+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
