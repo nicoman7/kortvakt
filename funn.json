@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T12:48:16.825527+00:00",
+  "sist_sjekket": "2026-11-03T12:50:28.109613+00:00",
   "funn": [
+    {
+      "tittel": "Panini Select Thelo Aasgaard Norway fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480183684",
+      "funnet": "2026-11-03T12:50:28.107411+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480183459",
+      "funnet": "2026-11-03T12:50:27.715108+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort gengar - snorlax - venusaur",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480162648",
       "funnet": "2026-11-03T07:36:18.602683+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lycanroc 30th Celebration Illustration Rare 138/128",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480161993",
-      "funnet": "2026-11-03T07:30:45.922825+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Chandelure ex Pitch Black Ultra Rare 099/084",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480162002",
-      "funnet": "2026-11-03T07:28:26.579454+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
