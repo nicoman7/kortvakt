@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T22:28:16.682441+00:00",
+  "sist_sjekket": "2026-11-03T22:30:57.393391+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480225916",
+      "funnet": "2026-11-03T22:30:57.391959+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Max Alleyne Topps Finest UCC 2026 Checkerboard Parallel Manchester City",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480214723",
       "funnet": "2026-11-03T19:36:20.925337+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
-      "pris": 98,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-11-03T19:36:20.343945+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
