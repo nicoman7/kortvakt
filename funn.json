@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T16:02:21.184237+00:00",
+  "sist_sjekket": "2026-11-03T16:04:31.648513+00:00",
   "funn": [
+    {
+      "tittel": "Graderte Kort - Gode priser ✨",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479787787",
+      "funnet": "2026-11-03T16:04:31.647042+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort fra Pitch Black",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 110,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480183942",
       "funnet": "2026-11-03T12:52:15.921831+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Select Thelo Aasgaard Norway fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480183684",
-      "funnet": "2026-11-03T12:50:28.107411+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
