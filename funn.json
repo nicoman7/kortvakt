@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T18:36:32.813825+00:00",
+  "sist_sjekket": "2026-11-03T18:38:34.590626+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL FIFA 365 fotballkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480210452",
+      "funnet": "2026-11-03T18:38:34.589059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 055/217 - Ascended Heroes",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T17:24:25.427303+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Trading Card Game kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480204572",
-      "funnet": "2026-11-03T17:24:24.693147+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
