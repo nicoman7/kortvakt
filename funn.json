@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T19:58:30.171436+00:00",
+  "sist_sjekket": "2026-11-03T20:01:11.673832+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Tentacool 113/147 Aquapolis samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480217327",
+      "funnet": "2026-11-03T20:01:11.671698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Electabuzz 35/100 Pokémon-kort Sandstorm",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T18:04:30.799355+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
-      "funnet": "2026-11-03T18:02:25.331178+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
