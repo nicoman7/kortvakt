@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T16:56:19.077717+00:00",
+  "sist_sjekket": "2026-11-03T16:58:20.053137+00:00",
   "funn": [
+    {
+      "tittel": "Adrenalyn Lionel Messi",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480202792",
+      "funnet": "2026-11-03T16:58:20.051296+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Magic: The Gathering Brighlighting samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480202796",
+      "funnet": "2026-11-03T16:58:19.395192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece TCG samling/Bulk",
       "pris": 699,
@@ -1182,22 +1198,6 @@
       "pris": 12,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479708149",
       "funnet": "2026-11-03T13:46:18.521658+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Klistremerke Merlin #238 - ASH",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480188112",
-      "funnet": "2026-11-03T13:44:19.058644+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling budrunde",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480187667",
-      "funnet": "2026-11-03T13:44:18.409049+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
