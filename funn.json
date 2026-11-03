@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T18:54:31.509526+00:00",
+  "sist_sjekket": "2026-11-03T18:56:17.710020+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort gradert og ikke gradert",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
+      "funnet": "2026-11-03T18:56:17.708044+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort synelig brukt",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/439545079",
       "funnet": "2026-11-03T17:26:29.860883+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini fotballkort med Christian Eriksen",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439545658",
-      "funnet": "2026-11-03T17:26:29.622096+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
