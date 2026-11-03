@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T21:32:25.808879+00:00",
+  "sist_sjekket": "2026-11-03T21:34:29.104758+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 3/11",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
+      "funnet": "2026-11-03T21:34:29.102963+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Venusaur & Snivy GX 249/236 Rainbow Rare – Cosmic Eclipse",
       "pris": 550,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T19:18:33.785809+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Håndmalt pokemon Mew toploader binder",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479154043",
-      "funnet": "2026-11-03T19:18:32.879267+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
