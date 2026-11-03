@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-03T23:14:14.981664+00:00",
+  "sist_sjekket": "2026-11-03T23:16:18.546439+00:00",
   "funn": [
+    {
+      "tittel": "Photocard album bt21",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480226967",
+      "funnet": "2026-11-03T23:16:18.544210+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480226954",
+      "funnet": "2026-11-03T23:16:18.304218+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gardevoir Ex #245 - Pokemon Scarlet & Violet PSA 9",
       "pris": 800,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480221401",
       "funnet": "2026-11-03T20:52:25.566818+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Professor's research 023/025 fra Pokemon celebrations",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480221172",
-      "funnet": "2026-11-03T20:50:38.992983+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ashley Young 2017 Topps Chrome UEFA Orange Refractor PSA 9/25",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480220910",
-      "funnet": "2026-11-03T20:50:38.681511+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
