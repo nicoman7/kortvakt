@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T18:01:04.016873+00:00",
+  "sist_sjekket": "2026-11-03T18:02:25.333024+00:00",
   "funn": [
+    {
+      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
+      "funnet": "2026-11-03T18:02:25.331178+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "6 eldre Pokémon-kort",
       "pris": 249,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480203521",
       "funnet": "2026-11-03T17:06:18.451362+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Match Attax fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480203463",
-      "funnet": "2026-11-03T17:06:17.828547+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
