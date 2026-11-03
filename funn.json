@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-03T06:46:18.966081+00:00",
+  "sist_sjekket": "2026-11-03T06:48:15.540717+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480161453",
+      "funnet": "2026-11-03T06:48:15.538604+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Raikou og Pikachu fra 30th",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480150470",
       "funnet": "2026-11-02T20:18:16.754508+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard G LV.X – DP45 Holo",
-      "pris": 880,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480149794",
-      "funnet": "2026-11-02T20:16:17.175978+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
