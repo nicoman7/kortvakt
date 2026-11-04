@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T23:24:15.540830+00:00",
+  "sist_sjekket": "2026-11-04T23:26:22.172535+00:00",
   "funn": [
+    {
+      "tittel": "Mew VMAX Fusion Strike Ultra Rare 114/264",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480296552",
+      "funnet": "2026-11-04T23:26:22.171016+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew EX MEW/151 151/165 Double Rare",
       "pris": 115,
@@ -1190,14 +1198,6 @@
       "pris": 700,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480285553",
       "funnet": "2026-11-04T19:54:18.630193+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Kylian Mbappé Panini FIFA World Cup 2026 – Extra Sticker",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480286517",
-      "funnet": "2026-11-04T19:54:18.078337+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
