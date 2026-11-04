@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T02:02:17.004923+00:00",
+  "sist_sjekket": "2026-11-04T02:04:16.561209+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
+      "funnet": "2026-11-04T02:04:16.559578+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Flott samling Disney Cosmos Chrome samlekort – inkl.  gullkort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 270,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480223797",
       "funnet": "2026-11-03T21:32:25.066332+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Binder Nr. 3 (Full arts, Shiny, Gold, m.m)",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480223737",
-      "funnet": "2026-11-03T21:32:24.613937+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
