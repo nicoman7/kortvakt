@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T04:54:16.099274+00:00",
+  "sist_sjekket": "2026-11-04T04:56:16.545961+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480228927",
+      "funnet": "2026-11-04T04:56:16.543872+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Snowflake",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 65,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480224106",
       "funnet": "2026-11-03T21:40:42.820045+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480224118",
-      "funnet": "2026-11-03T21:40:42.456840+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
