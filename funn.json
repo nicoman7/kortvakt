@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-04T21:44:15.508390+00:00",
+  "sist_sjekket": "2026-11-04T21:46:18.353838+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480293928",
+      "funnet": "2026-11-04T21:46:18.351953+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps NBA Hoops Dylan Harper #7 San Antonio Spurs RC",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480293925",
+      "funnet": "2026-11-04T21:46:18.117669+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Div. Pokemonkort (Pikachu 2003, Raikou pop 2++)",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480293446",
+      "funnet": "2026-11-04T21:46:17.558366+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard & Reshiram GX Tag team (sun and moon promo) KOM MED BUD!",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479783592",
+      "funnet": "2026-11-04T21:46:17.160697+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Rattata 66/82 – Team Rocket 2000 – WOTC Pokemonkort",
       "pris": 49,
@@ -1166,38 +1198,6 @@
       "pris": 199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479789799",
       "funnet": "2026-11-04T19:12:24.883666+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Eevee VMAX (Sword & Shield Promo)",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480282929",
-      "funnet": "2026-11-04T19:12:24.028976+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🤎 Eevee 54/144 – Skyridge 2003 | Vintage E-Reader Pokémonkort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480283150",
-      "funnet": "2026-11-04T19:12:23.120258+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Meganium holografisk kort HGSS08",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479495119",
-      "funnet": "2026-11-04T19:12:22.689979+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Uxie fra 30th Celebration Japansk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480282871",
-      "funnet": "2026-11-04T19:12:22.348853+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
