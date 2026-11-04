@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T12:46:18.652824+00:00",
+  "sist_sjekket": "2026-11-04T12:48:18.117915+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480253573",
+      "funnet": "2026-11-04T12:48:18.116050+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Blastoise fra 151 serien",
       "pris": 1300,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480227188",
       "funnet": "2026-11-03T23:34:15.768657+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort gradert og ikke gradert",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
-      "funnet": "2026-11-03T23:32:19.117795+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
