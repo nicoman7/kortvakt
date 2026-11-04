@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-04T17:24:18.611819+00:00",
+  "sist_sjekket": "2026-11-04T17:26:24.580304+00:00",
   "funn": [
+    {
+      "tittel": "Fizz Rare foil Riftbound samlekort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480275226",
+      "funnet": "2026-11-04T17:26:24.578404+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Unike tarotkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480274786",
+      "funnet": "2026-11-04T17:26:24.174973+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort: Mewtwo, glaceon, Umbreon VMAX, Bulbasaur og Squirtle",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479944637",
+      "funnet": "2026-11-04T17:26:23.308137+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Collector Binder Collection",
       "pris": 1100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-04T14:52:18.017652+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - SABLEYE (REV. HOLO)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480263514",
-      "funnet": "2026-11-04T14:50:30.131250+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480263782",
-      "funnet": "2026-11-04T14:50:29.677514+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480263809",
-      "funnet": "2026-11-04T14:50:29.305073+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
