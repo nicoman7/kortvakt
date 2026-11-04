@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-04T12:22:14.922072+00:00",
+  "sist_sjekket": "2026-11-04T12:24:20.081513+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1240,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480251281",
+      "funnet": "2026-11-04T12:24:20.079690+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lando Norris GP Winner 043/250 Topps F1",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480251385",
+      "funnet": "2026-11-04T12:24:19.679461+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
+      "funnet": "2026-11-04T12:24:18.829633+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Liverpool fotballkort",
       "pris": 600,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480226655",
       "funnet": "2026-11-03T23:06:19.618207+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zacian #87 - Pokemon Inferno X PSA 9",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226605",
-      "funnet": "2026-11-03T23:06:19.144245+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu #10 - Pokemon Mega Evolutions ETB PSA 9",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226666",
-      "funnet": "2026-11-03T23:06:18.735470+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Lapras #072 - Pokemon Heat Wave Arena PSA 9",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226762",
-      "funnet": "2026-11-03T23:06:17.920243+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
