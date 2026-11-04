@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T00:10:26.707786+00:00",
+  "sist_sjekket": "2026-11-04T00:12:16.441915+00:00",
   "funn": [
+    {
+      "tittel": "Div fotballkort",
+      "pris": 340,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480227635",
+      "funnet": "2026-11-04T00:12:16.439574+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse Pokemon kort",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480222058",
       "funnet": "2026-11-03T21:04:22.243886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Groudon 017/025 fra Pokemon celebrations",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480222001",
-      "funnet": "2026-11-03T21:04:21.685200+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
