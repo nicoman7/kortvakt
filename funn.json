@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T05:06:16.190502+00:00",
+  "sist_sjekket": "2026-11-04T05:08:16.347080+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480228990",
+      "funnet": "2026-11-04T05:08:16.344976+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480224193",
       "funnet": "2026-11-03T21:40:43.561538+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Trainer Supporter Cheryl samlekort battle styles",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480224106",
-      "funnet": "2026-11-03T21:40:42.820045+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
