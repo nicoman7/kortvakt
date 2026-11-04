@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T21:30:45.805801+00:00",
+  "sist_sjekket": "2026-11-04T21:32:17.496855+00:00",
   "funn": [
+    {
+      "tittel": "Stor EX samling mm.",
+      "pris": 66,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480292882",
+      "funnet": "2026-11-04T21:32:17.494993+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort fra EX Hidden Legends - Dark Celebi (Rev.holo)",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480282516",
       "funnet": "2026-11-04T19:06:21.426196+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Lucario V (Sword & Shield Promo)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480282773",
-      "funnet": "2026-11-04T19:06:20.621452+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
