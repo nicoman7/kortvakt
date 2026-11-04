@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T07:08:17.532418+00:00",
+  "sist_sjekket": "2026-11-04T07:10:27.943868+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480223567",
+      "funnet": "2026-11-04T07:10:27.941916+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps F1 Eccellenza – Charles Leclerc Numero XVI",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480224581",
       "funnet": "2026-11-03T21:50:29.417101+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480219302",
-      "funnet": "2026-11-03T21:50:28.527513+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
