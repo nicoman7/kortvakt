@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-04T15:46:16.357275+00:00",
+  "sist_sjekket": "2026-11-04T15:48:19.274073+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480267905",
+      "funnet": "2026-11-04T15:48:19.272006+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Søte Pokémon-kort, 6 stk",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480267974",
+      "funnet": "2026-11-04T15:48:18.712440+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Professor’s Research Trainerkort scarlet and violet base",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480267965",
+      "funnet": "2026-11-04T15:48:18.106173+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon EX hits",
       "pris": 150,
@@ -1174,30 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480251079",
       "funnet": "2026-11-04T12:20:29.974552+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480250774",
-      "funnet": "2026-11-04T12:20:29.123773+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Team Up samleboks",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480251114",
-      "funnet": "2026-11-04T12:20:28.225959+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Poster Collection",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480251028",
-      "funnet": "2026-11-04T12:18:17.215200+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
