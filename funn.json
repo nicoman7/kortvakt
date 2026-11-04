@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-04T12:18:17.216636+00:00",
+  "sist_sjekket": "2026-11-04T12:20:29.976135+00:00",
   "funn": [
+    {
+      "tittel": "Liverpool fotballkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480251079",
+      "funnet": "2026-11-04T12:20:29.974552+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480250774",
+      "funnet": "2026-11-04T12:20:29.123773+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Team Up samleboks",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480251114",
+      "funnet": "2026-11-04T12:20:28.225959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Poster Collection",
       "pris": 650,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480226762",
       "funnet": "2026-11-03T23:06:17.920243+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ninetales Ex #186 - Pokemon Scarlet & Violet 151 PSA 9",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226788",
-      "funnet": "2026-11-03T23:06:17.467694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hydreigon Ex #240 - Pokemon Surging Sparks PSA 9",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226807",
-      "funnet": "2026-11-03T23:06:17.078290+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Ex #223 - Pokemon Obsidian Flames PSA 9",
-      "pris": 1350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226836",
-      "funnet": "2026-11-03T23:06:16.754613+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
