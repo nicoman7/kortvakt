@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T23:22:14.818279+00:00",
+  "sist_sjekket": "2026-11-04T23:24:15.540830+00:00",
   "funn": [
+    {
+      "tittel": "Mew EX MEW/151 151/165 Double Rare",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480296514",
+      "funnet": "2026-11-04T23:24:15.539030+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew V Fusion Strike Ultra Rare 113/264",
       "pris": 115,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-04T19:54:18.078337+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⚡️Elekid 23/115 – EX Unseen Forces 2005 | Yuka Morii Pokémonkort",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480286602",
-      "funnet": "2026-11-04T19:54:17.535030+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
