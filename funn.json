@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T19:06:21.427966+00:00",
+  "sist_sjekket": "2026-11-04T19:08:33.594882+00:00",
   "funn": [
+    {
+      "tittel": "Harry potter hologramkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/459241290",
+      "funnet": "2026-11-04T19:08:33.593239+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ditto Geodude 62/113 – EX Delta Species 2005 | Vintage Pokémonkort",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 795,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480271659",
       "funnet": "2026-11-04T16:38:23.558261+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 030/128 (08/30) – 30th Celebration (NM)",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480271584",
-      "funnet": "2026-11-04T16:38:22.766926+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
