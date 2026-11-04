@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T02:08:17.026884+00:00",
+  "sist_sjekket": "2026-11-04T02:10:28.716434+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon vintage samling (les beskrivelse)",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479858756",
+      "funnet": "2026-11-04T02:10:28.714778+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samling",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480223795",
       "funnet": "2026-11-03T21:32:25.807685+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Marnie Trainerkort promo SWSH121",
-      "pris": 270,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480223797",
-      "funnet": "2026-11-03T21:32:25.066332+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
