@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T23:42:16.345519+00:00",
+  "sist_sjekket": "2026-11-04T23:44:20.708146+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kortpakke",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480296595",
+      "funnet": "2026-11-04T23:44:20.706915+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Galarian Moltres 093/203 Evolving Skies Holo Rare",
       "pris": 21,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480287218",
       "funnet": "2026-11-04T20:02:17.572415+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 60/64 – Jungle – 1999",
-      "pris": 41,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480287260",
-      "funnet": "2026-11-04T20:02:16.812949+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
