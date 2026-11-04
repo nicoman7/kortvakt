@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T10:52:17.317118+00:00",
+  "sist_sjekket": "2026-11-04T10:54:18.278678+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hidden Legends",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480244162",
+      "funnet": "2026-11-04T10:54:18.276688+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 580,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480226435",
       "funnet": "2026-11-03T22:50:28.973906+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard Vstar #SWSH262 - Pokemon Charizard UPC Promo CGC 9",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480226468",
-      "funnet": "2026-11-03T22:50:28.210433+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
