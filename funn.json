@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T00:32:14.318481+00:00",
+  "sist_sjekket": "2026-11-04T00:34:19.711701+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu EX #XY174 - Pokemon XY Promo - Battle Heart Tins CGC 8",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480227885",
+      "funnet": "2026-11-04T00:34:19.710107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ting-Lu Ex #263 - Pokemon Paldea Evolved PSA 10",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-03T21:18:27.684081+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/465717521",
-      "funnet": "2026-11-03T21:18:26.808075+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
