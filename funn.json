@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-04T13:52:19.332217+00:00",
+  "sist_sjekket": "2026-11-04T13:54:29.125380+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480259195",
+      "funnet": "2026-11-04T13:54:29.123945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Gastly",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480259131",
+      "funnet": "2026-11-04T13:54:28.793548+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Staryu & Starmie Pokemon Base Set Kort Samlet",
       "pris": 35,
@@ -1182,22 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480230847",
       "funnet": "2026-11-04T07:22:21.235934+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480223567",
-      "funnet": "2026-11-04T07:10:27.941916+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps F1 Eccellenza – Charles Leclerc Numero XVI",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480225840",
-      "funnet": "2026-11-04T07:06:17.680834+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
