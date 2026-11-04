@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-04T14:06:15.992776+00:00",
+  "sist_sjekket": "2026-11-04T14:08:18.253096+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480260526",
+      "funnet": "2026-11-04T14:08:18.251093+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 6/10 – EX Trainer Kit 2004 – MP",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480260512",
+      "funnet": "2026-11-04T14:08:17.658159+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "6 eldre Pokémon Holo Energy-kort (2005–2007)",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480260655",
+      "funnet": "2026-11-04T14:08:17.408571+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Messi – 100 kr/stk – Barcelona og Argentina",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480259302",
+      "funnet": "2026-11-04T14:08:17.165355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokemonsamling - Base set 1&2, Jungle, Fossil - Alle holo- PRISLISTE",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479808306",
+      "funnet": "2026-11-04T14:08:16.575887+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "6 eldre Pokémon-kort – Holo og Reverse Holo",
       "pris": 649,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/448022704",
       "funnet": "2026-11-04T08:14:15.598617+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Champions League 2013-2014 Fotballkort Samling",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/448023415",
-      "funnet": "2026-11-04T08:14:15.048647+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-11-04T08:00:59.837217+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL VM Kort og Limited Edition - Oppdatert 3/11",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-11-04T07:44:14.509986+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scarlet Violet: TCG Destined Rivals Elite Trainer Box (ETB)",
-      "pris": 1227,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479843263",
-      "funnet": "2026-11-04T07:36:15.255928+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Delta Reign ETB",
-      "pris": 1299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480231277",
-      "funnet": "2026-11-04T07:36:15.005044+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
