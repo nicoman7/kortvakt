@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-04T07:20:27.871611+00:00",
+  "sist_sjekket": "2026-11-04T07:22:21.237743+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon terninger",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480230847",
+      "funnet": "2026-11-04T07:22:21.235934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480224695",
       "funnet": "2026-11-03T21:52:23.544876+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome UEFA Club Competitions Refractor #90 Alphonso Davies",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480224581",
-      "funnet": "2026-11-03T21:50:29.417101+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
