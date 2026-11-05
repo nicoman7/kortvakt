@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T17:52:20.910634+00:00",
+  "sist_sjekket": "2026-11-05T17:54:22.541929+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort gradert og ikke gradert",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
+      "funnet": "2026-11-05T17:54:22.540241+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "star wars kort",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479934332",
       "funnet": "2026-11-05T14:36:20.313830+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delta Reign - Zinnia’s trust 131/103 - Ultra rare",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480329896",
-      "funnet": "2026-11-05T14:34:28.704992+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
