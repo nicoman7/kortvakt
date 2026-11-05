@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T17:54:22.541929+00:00",
+  "sist_sjekket": "2026-11-05T17:56:19.416775+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480343726",
+      "funnet": "2026-11-05T17:56:19.414935+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
+      "funnet": "2026-11-05T17:56:18.636905+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort gradert og ikke gradert",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480330101",
       "funnet": "2026-11-05T14:36:21.572145+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA adrenalyn World Cup limited edition hologram",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480329979",
-      "funnet": "2026-11-05T14:36:20.725029+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samling – ca. 3 500 kort | Vintage, EX, Diamond & Pearl m.m.",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479934332",
-      "funnet": "2026-11-05T14:36:20.313830+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
