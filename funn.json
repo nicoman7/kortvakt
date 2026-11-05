@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T08:16:21.285119+00:00",
+  "sist_sjekket": "2026-11-05T08:18:17.204260+00:00",
   "funn": [
+    {
+      "tittel": "PIKACHU 30th CELEBRATION JAPANSK",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480301412",
+      "funnet": "2026-11-05T08:18:17.202298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Cardcenter kortkoffert",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480302486",
+      "funnet": "2026-11-05T08:18:16.588648+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "750 Pokémon Kort Bulk",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480290330",
       "funnet": "2026-11-04T20:48:17.823742+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Obsidian Flames booster packs",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480290439",
-      "funnet": "2026-11-04T20:48:17.468417+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Bulbasaur holo samlekort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480290355",
-      "funnet": "2026-11-04T20:46:15.562402+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
