@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T10:18:17.604585+00:00",
+  "sist_sjekket": "2026-11-05T10:20:27.867261+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort: Pikachu, Duraludon, Charizard, Zacian V m.fl.",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480255402",
+      "funnet": "2026-11-05T10:20:27.865527+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "60 Pokémon-kort selges samlet (inkl. Pikachu V og Reverse Holo)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480310396",
+      "funnet": "2026-11-05T10:20:27.611746+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 1100,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480293985",
       "funnet": "2026-11-04T21:48:18.420386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Official Emblem Gold 624 – Panini Adrenalyn XL VM 2026",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480293934",
-      "funnet": "2026-11-04T21:48:18.170752+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480294045",
-      "funnet": "2026-11-04T21:48:17.514487+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
