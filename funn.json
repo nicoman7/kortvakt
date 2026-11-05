@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T23:14:14.630625+00:00",
+  "sist_sjekket": "2026-11-05T23:16:17.998180+00:00",
   "funn": [
+    {
+      "tittel": "pokemon produkter",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480360762",
+      "funnet": "2026-11-05T23:16:17.996297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mystery packs pokemon",
       "pris": 175,
@@ -1190,14 +1198,6 @@
       "pris": 650,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479962300",
       "funnet": "2026-11-05T19:16:18.880591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "💠 Samlerens Favoritt! Mystery Box 879 kr med PSA-kort og Premium innhold! 💠",
-      "pris": 879,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/439870428",
-      "funnet": "2026-11-05T19:14:31.773422+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
