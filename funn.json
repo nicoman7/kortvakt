@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T10:50:27.737405+00:00",
+  "sist_sjekket": "2026-11-05T10:52:16.881785+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon promokort selges",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480312696",
+      "funnet": "2026-11-05T10:52:16.879909+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Premier League Trading Cards samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480311987",
+      "funnet": "2026-11-05T10:52:16.191599+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Latias EX samlekort",
       "pris": 1500,
@@ -1182,22 +1198,6 @@
       "pris": 1900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479488331",
       "funnet": "2026-11-04T22:16:17.292155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-stjerne og glisende kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480294830",
-      "funnet": "2026-11-04T22:14:17.793249+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort gradert og ikke gradert",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
-      "funnet": "2026-11-04T22:08:17.201613+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
