@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-05T16:36:17.388304+00:00",
+  "sist_sjekket": "2026-11-05T16:38:18.916254+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - samling",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480338168",
+      "funnet": "2026-11-05T16:38:18.914309+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Sleeved Boosters",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480337903",
+      "funnet": "2026-11-05T16:38:18.090742+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon gamle WoTC Promo NM",
+      "pris": 499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480337904",
+      "funnet": "2026-11-05T16:38:17.721919+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon: Sealed produkter",
       "pris": 399,
@@ -1174,30 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480321187",
       "funnet": "2026-11-05T12:50:29.687097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 permer",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480321461",
-      "funnet": "2026-11-05T12:48:16.904404+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "21 pokemon kort selges hbo 700kr.",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480078440",
-      "funnet": "2026-11-05T12:44:17.597187+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration Sylveon ex & Greninja ex Box – SELGES SAMLET – NYE",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480321164",
-      "funnet": "2026-11-05T12:40:33.186643+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
