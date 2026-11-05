@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T11:40:26.725630+00:00",
+  "sist_sjekket": "2026-11-05T11:42:16.043316+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480316420",
+      "funnet": "2026-11-05T11:42:16.041208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt! Magic the Gathering - 1000 kort",
       "pris": 440,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480295450",
       "funnet": "2026-11-04T22:30:49.295789+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Gold Leonardo Spinazzola Current Stars Autograph – Napoli",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480295384",
-      "funnet": "2026-11-04T22:28:16.655210+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
