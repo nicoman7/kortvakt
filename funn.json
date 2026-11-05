@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T19:44:18.069746+00:00",
+  "sist_sjekket": "2026-11-05T19:46:17.785232+00:00",
   "funn": [
+    {
+      "tittel": "Fortbalkort",
+      "pris": 625,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480348013",
+      "funnet": "2026-11-05T19:46:17.783406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort bulk fra delta reign",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480345181",
       "funnet": "2026-11-05T18:16:16.507603+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dante Epic Disney Lorcana samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480345104",
-      "funnet": "2026-11-05T18:16:16.176881+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
