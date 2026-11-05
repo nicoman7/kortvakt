@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T13:36:16.214011+00:00",
+  "sist_sjekket": "2026-11-05T13:38:21.371952+00:00",
   "funn": [
+    {
+      "tittel": "Selger Flere One piece korter",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480325001",
+      "funnet": "2026-11-05T13:38:21.369939+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort julekalender – 24 kort – Messi, Ronaldo, Endrick, Yamal – 600 kr",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480300332",
       "funnet": "2026-11-05T07:30:44.903964+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort, celebration, gengar prime",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480300235",
-      "funnet": "2026-11-05T07:24:16.232622+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
