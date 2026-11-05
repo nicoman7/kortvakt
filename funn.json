@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T10:16:32.619132+00:00",
+  "sist_sjekket": "2026-11-05T10:18:17.604585+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480310248",
+      "funnet": "2026-11-05T10:18:17.602637+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Michael Jordan kort Upper Deck 3stk",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480294045",
       "funnet": "2026-11-04T21:48:17.514487+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480293928",
-      "funnet": "2026-11-04T21:46:18.351953+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
