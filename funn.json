@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T23:54:16.288974+00:00",
+  "sist_sjekket": "2026-11-05T23:56:15.423697+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
+      "funnet": "2026-11-05T23:56:15.422359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps F1 Formula 1 Eccellenza Gabriel Bortoleto Nico Hulkenberg La Squadra",
       "pris": 85,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480349848",
       "funnet": "2026-11-05T19:22:18.583596+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-11-05T19:22:18.026035+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
