@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T12:46:15.923376+00:00",
+  "sist_sjekket": "2026-11-05T12:48:16.906418+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 permer",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480321461",
+      "funnet": "2026-11-05T12:48:16.904404+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "21 pokemon kort selges hbo 700kr.",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/471430480",
       "funnet": "2026-11-05T00:08:26.281833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "‼️ POKEMON TCG DECKS 🌟💫‼️",
-      "pris": 649,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
-      "funnet": "2026-11-05T00:06:15.169603+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
