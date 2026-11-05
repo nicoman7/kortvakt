@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T10:32:16.445232+00:00",
+  "sist_sjekket": "2026-11-05T10:34:15.702687+00:00",
   "funn": [
+    {
+      "tittel": "NBA kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/394118777",
+      "funnet": "2026-11-05T10:34:15.700547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Carmelo Anthony kort 1stk 100kr",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480294337",
       "funnet": "2026-11-04T21:56:20.337117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480294252",
-      "funnet": "2026-11-04T21:54:18.139744+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
