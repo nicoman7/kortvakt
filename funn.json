@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T10:01:00.939737+00:00",
+  "sist_sjekket": "2026-11-05T10:02:19.524096+00:00",
   "funn": [
+    {
+      "tittel": "Luca Doncic kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/424809867",
+      "funnet": "2026-11-05T10:02:19.522287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "7 Pokemon  JTG Ex kort og 7 MEG EX kort selges samlet",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480309103",
+      "funnet": "2026-11-05T10:02:18.579315+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kobe Bryant kort Panini",
       "pris": 300,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-04T21:46:17.160697+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Rattata 66/82 – Team Rocket 2000 – WOTC Pokemonkort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480292927",
-      "funnet": "2026-11-04T21:44:15.506976+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andreas Schjelderup Master Rookie 620 – Panini Adrenalyn XL VM 2026",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480293766",
-      "funnet": "2026-11-04T21:44:15.266661+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
