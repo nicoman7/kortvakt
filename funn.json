@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T09:48:17.245718+00:00",
+  "sist_sjekket": "2026-11-05T09:50:27.383225+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling - Yuka Morii",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480308109",
+      "funnet": "2026-11-05T09:50:27.381927+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samling med Arsenal-kort",
       "pris": 450,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480229426",
       "funnet": "2026-11-04T21:36:16.013650+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
-      "funnet": "2026-11-04T21:34:21.714143+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
