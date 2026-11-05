@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-05T17:28:18.568375+00:00",
+  "sist_sjekket": "2026-11-05T17:30:48.978442+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ditto",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480341876",
+      "funnet": "2026-11-05T17:30:48.976601+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon vintage samling (les beskrivelse)",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479858756",
+      "funnet": "2026-11-05T17:30:48.725456+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mawile 9/100 Holo Rare (R) EX Crystal Guardians LP",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 240,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480328475",
       "funnet": "2026-11-05T14:14:19.671606+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "60 holo (glins) pokemonkort selges, fin til kalender/julepresang for barn",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
-      "funnet": "2026-11-05T14:14:19.191019+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Gholdengo 142/128 - 30th celebration",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480328309",
-      "funnet": "2026-11-05T14:12:22.063525+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
