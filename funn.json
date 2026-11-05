@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T15:32:16.678744+00:00",
+  "sist_sjekket": "2026-11-05T15:34:16.629001+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Charizard X",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
+      "funnet": "2026-11-05T15:34:16.627338+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Groudon #005/106 - Pokemon Emerald",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-05T10:30:50.100619+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pau Gasol Lakers Topps Chrome",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451920760",
-      "funnet": "2026-11-05T10:28:17.337912+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
