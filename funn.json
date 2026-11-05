@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T14:02:17.529990+00:00",
+  "sist_sjekket": "2026-11-05T14:04:18.762488+00:00",
   "funn": [
+    {
+      "tittel": "Telekort.",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/324695744",
+      "funnet": "2026-11-05T14:04:18.760357+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480302018",
       "funnet": "2026-11-05T08:14:15.732313+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Original Bella Sara-perm med masse kort!",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480301539",
-      "funnet": "2026-11-05T08:06:18.700886+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
