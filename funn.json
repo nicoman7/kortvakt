@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T14:06:14.784544+00:00",
+  "sist_sjekket": "2026-11-05T14:08:19.071775+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Sealed Pokemon Produkter",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/386804648",
+      "funnet": "2026-11-05T14:08:19.069786+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Telekort.",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479852476",
       "funnet": "2026-11-05T08:16:20.185821+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG samlekort med perm og plastlommer",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480302018",
-      "funnet": "2026-11-05T08:14:15.732313+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
