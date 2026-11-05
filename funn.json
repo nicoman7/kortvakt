@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T12:52:17.550327+00:00",
+  "sist_sjekket": "2026-11-05T12:54:16.902782+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480321088",
+      "funnet": "2026-11-05T12:54:16.900713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "topps match attax bulk",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480297175",
       "funnet": "2026-11-05T00:22:20.201219+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Norsk Topps-lot – Haaland, Nusa og Walle Egeli Nitro Boost",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480297123",
-      "funnet": "2026-11-05T00:16:15.316964+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
