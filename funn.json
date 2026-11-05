@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T21:18:16.893671+00:00",
+  "sist_sjekket": "2026-11-05T21:20:34.660038+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Legend Maker",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480357301",
+      "funnet": "2026-11-05T21:20:34.658327+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage pokemonkort - Alle holo/reverse holo (utenom 1), 64 kort.",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480348035",
       "funnet": "2026-11-05T18:56:18.276787+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Carnivorous snapvine rare Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480348064",
-      "funnet": "2026-11-05T18:56:17.879214+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
