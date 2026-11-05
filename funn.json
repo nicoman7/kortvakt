@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T16:56:20.575472+00:00",
+  "sist_sjekket": "2026-11-05T16:58:19.231422+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Morpeko EX #117 - CGC 10",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479275635",
+      "funnet": "2026-11-05T16:58:19.228174+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon promo kort",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480323848",
       "funnet": "2026-11-05T13:20:31.512318+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japansk Pikachu Pre-Order Promo PSA 10",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480324002",
-      "funnet": "2026-11-05T13:20:30.732665+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
