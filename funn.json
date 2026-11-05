@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-05T13:58:33.247551+00:00",
+  "sist_sjekket": "2026-11-05T14:01:00.286560+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480327595",
+      "funnet": "2026-11-05T14:01:00.284616+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480327467",
+      "funnet": "2026-11-05T14:01:00.046800+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Fotballkort nummerert, patch & autografer",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480326885",
+      "funnet": "2026-11-05T14:00:59.407841+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokedex & Masterset Pokemon 1999-2025",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480301539",
       "funnet": "2026-11-05T08:06:18.700886+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dennis Bergkamp fotballkort - Upper Deck 94 - Golden Boots",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480301747",
-      "funnet": "2026-11-05T08:04:18.239867+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG - Blastoise Ex #200 S&V 151 - PSA 7",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480301292",
-      "funnet": "2026-11-05T08:04:17.416310+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Større samling dunkin lilla pogs. 37 av 50",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480301449",
-      "funnet": "2026-11-05T07:58:15.198912+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
