@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-05T22:10:27.746136+00:00",
+  "sist_sjekket": "2026-11-05T22:12:20.160196+00:00",
   "funn": [
+    {
+      "tittel": "2 Sigarettkort nr. 19 og 36",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480358842",
+      "funnet": "2026-11-05T22:12:20.158312+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magikarp Reverse Holo #69 Pokemon Holon Phantoms",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480348744",
       "funnet": "2026-11-05T19:06:20.625799+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Premier League og Match Attax",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/408370209",
-      "funnet": "2026-11-05T19:06:19.917521+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
