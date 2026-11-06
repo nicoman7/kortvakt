@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-06T21:48:15.662104+00:00",
+  "sist_sjekket": "2026-11-06T21:50:26.779754+00:00",
   "funn": [
+    {
+      "tittel": "Popinjay kortstokk / spillekort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480420696",
+      "funnet": "2026-11-06T21:50:26.778117+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480420752",
+      "funnet": "2026-11-06T21:50:26.204883+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling av “One Piece” kort i plastetui",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/469591362",
+      "funnet": "2026-11-06T21:50:25.938850+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Moon NASA kortstokk / spillekort",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480420810",
+      "funnet": "2026-11-06T21:50:25.719746+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 60,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479998670",
       "funnet": "2026-11-06T19:01:00.996606+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard X GX CGC 10",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478988369",
-      "funnet": "2026-11-06T18:58:16.652406+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage pokemon kort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480412473",
-      "funnet": "2026-11-06T18:56:16.522489+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th pokemon!",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480412418",
-      "funnet": "2026-11-06T18:56:15.964695+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mystery packs pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
-      "funnet": "2026-11-06T18:56:15.677048+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
