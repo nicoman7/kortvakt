@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T12:04:16.465062+00:00",
+  "sist_sjekket": "2026-11-06T12:06:15.492226+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480383119",
+      "funnet": "2026-11-06T12:06:15.490974+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Delta Reign Prerelease Promo Kort!",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
       "funnet": "2026-11-06T08:06:15.999125+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon FireRedd&LeafGreen",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480366103",
-      "funnet": "2026-11-06T08:04:15.924302+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
