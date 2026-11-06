@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-06T21:02:19.354921+00:00",
+  "sist_sjekket": "2026-11-06T21:04:18.851986+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480418582",
+      "funnet": "2026-11-06T21:04:18.850332+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kort for salg",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480418959",
+      "funnet": "2026-11-06T21:04:18.103168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Uxie 43/146 HOLO pokemon kort",
+      "pris": 220,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480418947",
+      "funnet": "2026-11-06T21:04:17.301074+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "60 holo (glins) pokemonkort selges, fin til kalender/julepresang for barn",
       "pris": 1,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479362587",
       "funnet": "2026-11-06T18:28:17.545363+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Remember the Name RTN3 Mario Balotelli - Topps Premier League 2026/27",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480410676",
-      "funnet": "2026-11-06T18:26:18.065392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Torchich 69 Pokemon Emerald reverse holo",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480410789",
-      "funnet": "2026-11-06T18:26:17.468524+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magmortar [Reverse Holo] 030/192 - Pokemon Rebel Clash",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480410857",
-      "funnet": "2026-11-06T18:26:17.120422+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
