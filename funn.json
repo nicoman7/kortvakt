@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T19:16:16.321211+00:00",
+  "sist_sjekket": "2026-11-06T19:18:16.419920+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480413536",
+      "funnet": "2026-11-06T19:18:16.418268+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Regirock ex 214/182 - Destined Rivals",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480413685",
+      "funnet": "2026-11-06T19:18:15.639860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Hisuian Zorua 145/128 - 30th Celebration",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480121109",
       "funnet": "2026-11-06T17:22:16.856563+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto premium collection pokemon",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480406759",
-      "funnet": "2026-11-06T17:20:31.326772+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - MAROWAK (REV. HOLO)",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480406783",
-      "funnet": "2026-11-06T17:18:16.565040+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
