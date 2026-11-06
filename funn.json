@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T15:22:16.638884+00:00",
+  "sist_sjekket": "2026-11-06T15:24:17.950086+00:00",
   "funn": [
+    {
+      "tittel": "uwcl Nummerete fotballkort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480399159",
+      "funnet": "2026-11-06T15:24:17.948388+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2027 Fifa 365 fotballkort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480399281",
+      "funnet": "2026-11-06T15:24:17.115668+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Monopoly Panini Prizm Sealed Box Fotballkort",
       "pris": 499,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-06T12:30:50.991131+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Cubone 37/68 - Pokemon Hidden Fates",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480385265",
-      "funnet": "2026-11-06T12:30:49.276946+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chansey 46/68 - Pokemon Hidden Fates",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480385149",
-      "funnet": "2026-11-06T12:30:48.566835+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
