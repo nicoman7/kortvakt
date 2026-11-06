@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T08:42:14.772227+00:00",
+  "sist_sjekket": "2026-11-06T08:44:15.605246+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon upc PROMO KORT",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480368123",
+      "funnet": "2026-11-06T08:44:15.603274+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort: glaceon, Umbreon VMAX, Bulbasaur, heros cape og Squirtle",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479944637",
+      "funnet": "2026-11-06T08:44:15.056073+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort fra 1994 (Upper Deck)",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480357678",
       "funnet": "2026-11-05T21:40:38.556997+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moltres & Zapdos & Articuno GX #SM210 - Pokemon Hidden Fates ETB Promo PSA 9",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480358235",
-      "funnet": "2026-11-05T21:40:37.702934+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Giratina LV.63 10/127 Holo – Platinum Base Set (2009) Vintage Pokémon-kort",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480358189",
-      "funnet": "2026-11-05T21:40:36.858630+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
