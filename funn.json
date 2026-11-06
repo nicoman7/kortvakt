@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T14:40:28.080828+00:00",
+  "sist_sjekket": "2026-11-06T14:42:16.545057+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480396200",
+      "funnet": "2026-11-06T14:42:16.543555+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Ditto - 106 promo",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480396215",
+      "funnet": "2026-11-06T14:42:16.051798+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Igor Thiago Gold Lion GL6 – Brentford | Topps Premier League 2026/27",
       "pris": 149,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480381602",
       "funnet": "2026-11-06T11:48:17.381880+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "First edition dark charizard non holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480381613",
-      "funnet": "2026-11-06T11:48:17.121358+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemon kort vintage bulk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480381637",
-      "funnet": "2026-11-06T11:46:14.940102+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
