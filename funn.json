@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T16:48:17.289554+00:00",
+  "sist_sjekket": "2026-11-06T16:50:28.731828+00:00",
   "funn": [
+    {
+      "tittel": "Moomin kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480400159",
+      "funnet": "2026-11-06T16:50:28.730131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/470052086",
+      "funnet": "2026-11-06T16:50:28.102581+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 023/128 (01/30) – 30th Anniversary / 30th Celebration",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 1300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480391030",
       "funnet": "2026-11-06T13:42:22.346602+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tengela pokemon kort 2016",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480390867",
-      "funnet": "2026-11-06T13:42:21.969694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Franz Beckenbauer Panini master kort 2026",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480041805",
-      "funnet": "2026-11-06T13:38:19.680255+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
