@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T21:46:17.798370+00:00",
+  "sist_sjekket": "2026-11-06T21:48:15.662104+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480420631",
+      "funnet": "2026-11-06T21:48:15.660389+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kitten Club kortstokk / spillekort",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
       "funnet": "2026-11-06T18:56:15.677048+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 79/110 - EX Holon Phantoms",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480217963",
-      "funnet": "2026-11-06T18:54:16.307192+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
