@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T05:28:15.271771+00:00",
+  "sist_sjekket": "2026-11-06T05:30:46.357901+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Japansk Eelektross Mega Dream EX (49)",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480362801",
+      "funnet": "2026-11-06T05:30:46.355872+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
+      "funnet": "2026-11-06T05:30:45.999688+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Mega Eelektross EX Ascended Heroes (61)",
       "pris": 8,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-05T19:34:16.042434+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon kort Farfetch’d (HeartGold & SoulSilver)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480350298",
-      "funnet": "2026-11-05T19:30:51.265535+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sword & Shield Gengar Promo Kort #52",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480349857",
-      "funnet": "2026-11-05T19:30:50.864136+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
