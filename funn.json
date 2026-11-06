@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T06:54:16.460204+00:00",
+  "sist_sjekket": "2026-11-06T06:56:15.231184+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480363905",
+      "funnet": "2026-11-06T06:56:15.229537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebration base set komplett",
       "pris": 110,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480351794",
       "funnet": "2026-11-05T19:52:20.096915+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 8 Charizard HOLO 11/108 pokemon kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479490589",
-      "funnet": "2026-11-05T19:52:19.437127+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
