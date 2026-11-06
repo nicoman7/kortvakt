@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T07:52:14.822528+00:00",
+  "sist_sjekket": "2026-11-06T07:54:17.576296+00:00",
   "funn": [
+    {
+      "tittel": "Wotc vitage pokemonkort (skyridge, aquapolis, fossil, jungle, expedition)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480364171",
+      "funnet": "2026-11-06T07:54:17.574678+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Pichu #59 - Emerald",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480365735",
+      "funnet": "2026-11-06T07:54:17.205520+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - Elekid #23 - Unseen Forces",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-05T20:30:47.889295+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Stadium Club Chrome UCL 2025/26 value boks",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480354184",
-      "funnet": "2026-11-05T20:28:19.554486+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480353930",
-      "funnet": "2026-11-05T20:28:19.201351+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
