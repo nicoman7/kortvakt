@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-06T12:30:50.992411+00:00",
+  "sist_sjekket": "2026-11-06T12:32:18.173828+00:00",
   "funn": [
+    {
+      "tittel": "Stantler 64/95 - Pokemon Unleashed",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480385362",
+      "funnet": "2026-11-06T12:32:18.172588+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Ditto Premium Collection",
+      "pris": 1399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480385165",
+      "funnet": "2026-11-06T12:32:17.790092+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Delta Reign - Elite Trainer Box",
+      "pris": 1395,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480384892",
+      "funnet": "2026-11-06T12:32:17.060919+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Bidoof 059/078, T. Komiya - Pokemon GO",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480385486",
+      "funnet": "2026-11-06T12:32:16.706404+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration 2 Pack Blister",
       "pris": 299,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-06T08:44:15.603274+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort: glaceon, Umbreon VMAX, Bulbasaur, heros cape og Squirtle",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479944637",
-      "funnet": "2026-11-06T08:44:15.056073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort fra 1994 (Upper Deck)",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480336027",
-      "funnet": "2026-11-06T08:38:15.192227+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemonkort bulker selges",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480367236",
-      "funnet": "2026-11-06T08:36:15.915554+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Deoxys/ Hidden Legends",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480367561",
-      "funnet": "2026-11-06T08:36:15.618218+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
