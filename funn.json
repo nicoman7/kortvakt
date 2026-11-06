@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T09:06:16.788186+00:00",
+  "sist_sjekket": "2026-11-06T09:08:16.057523+00:00",
   "funn": [
+    {
+      "tittel": "Ditto kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480369526",
+      "funnet": "2026-11-06T09:08:16.056013+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
+      "funnet": "2026-11-06T09:08:15.719473+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Articuno 148/147 – Supreme Victors – Shiny Secret Rare (2009)",
       "pris": 1500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480358842",
       "funnet": "2026-11-05T22:12:20.158312+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magikarp Reverse Holo #69 Pokemon Holon Phantoms",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480359397",
-      "funnet": "2026-11-05T22:10:27.744068+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon Reverse Holo #19 Pokemon Unseen Forces",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480359193",
-      "funnet": "2026-11-05T22:08:17.984883+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
