@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T09:36:17.721839+00:00",
+  "sist_sjekket": "2026-11-06T09:40:30.840210+00:00",
   "funn": [
+    {
+      "tittel": "russekort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480371278",
+      "funnet": "2026-11-06T09:40:30.838306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Flagship 2026/27 fotballkort",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480360875",
       "funnet": "2026-11-05T23:26:16.461674+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon produkter",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480360762",
-      "funnet": "2026-11-05T23:16:17.996297+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
