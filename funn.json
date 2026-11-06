@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T17:34:19.603206+00:00",
+  "sist_sjekket": "2026-11-06T17:36:18.632303+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Pikachu",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477141534",
+      "funnet": "2026-11-06T17:36:18.630560+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard & Braixen GX TAG TEAM",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-06T15:10:29.865462+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort Lucas Paquetá – Prizm Gold Circles /10 – West Ham",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480398321",
-      "funnet": "2026-11-06T15:08:17.036744+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
