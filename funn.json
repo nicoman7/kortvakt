@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T07:50:27.738531+00:00",
+  "sist_sjekket": "2026-11-06T07:52:14.822528+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Elekid #23 - Unseen Forces",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480365642",
+      "funnet": "2026-11-06T07:52:14.820855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rocky energy 087/088 fra Pokemon perfect order",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-05T20:28:19.201351+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Clefairy 30/111 Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480354119",
-      "funnet": "2026-11-05T20:26:16.969191+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
