@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-06T15:24:17.950086+00:00",
+  "sist_sjekket": "2026-11-06T15:26:17.685963+00:00",
   "funn": [
+    {
+      "tittel": "Nummererte fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480399508",
+      "funnet": "2026-11-06T15:26:17.684318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Ditto Premium Collection",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480399293",
+      "funnet": "2026-11-06T15:26:16.843718+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "uwcl Nummerete fotballkort",
       "pris": 120,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-06T12:32:17.060919+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bidoof 059/078, T. Komiya - Pokemon GO",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480385486",
-      "funnet": "2026-11-06T12:32:16.706404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration 2 Pack Blister",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480385155",
-      "funnet": "2026-11-06T12:30:50.991131+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
