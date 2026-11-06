@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T17:01:01.413376+00:00",
+  "sist_sjekket": "2026-11-06T17:02:15.310421+00:00",
   "funn": [
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 98,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-11-06T17:02:15.309257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 036/128 (14/30) – 30th Anniversary / 30th Celebration",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480391623",
       "funnet": "2026-11-06T13:50:27.386185+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-11-06T13:50:27.089772+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
