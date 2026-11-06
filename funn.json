@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T15:26:17.685963+00:00",
+  "sist_sjekket": "2026-11-06T15:28:18.368745+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bunker til salgs!",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480399549",
+      "funnet": "2026-11-06T15:28:18.366983+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Nummererte fotballkort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 1399,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480385165",
       "funnet": "2026-11-06T12:32:17.790092+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Delta Reign - Elite Trainer Box",
-      "pris": 1395,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480384892",
-      "funnet": "2026-11-06T12:32:17.060919+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
