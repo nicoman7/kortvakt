@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T11:22:19.061760+00:00",
+  "sist_sjekket": "2026-11-06T11:24:15.470011+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th anniversery pikachu",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480379616",
+      "funnet": "2026-11-06T11:24:15.467952+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
       "pris": 98,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480352220",
       "funnet": "2026-11-06T07:24:16.416525+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Dratini - Dragon Frontiers",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480364529",
-      "funnet": "2026-11-06T07:22:19.053135+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
