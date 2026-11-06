@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-06T12:32:18.173828+00:00",
+  "sist_sjekket": "2026-11-06T12:34:19.314550+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Raikou",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480385446",
+      "funnet": "2026-11-06T12:34:19.312649+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Porygon 103/147 - Pokemon Burning Shadows",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480385597",
+      "funnet": "2026-11-06T12:34:18.586923+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Teal Mask Ogerpon #234 | Terastal Fest Ex - Gradert",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480333624",
+      "funnet": "2026-11-06T12:34:17.755386+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stantler 64/95 - Pokemon Unleashed",
       "pris": 29,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-06T09:00:58.811713+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Team Rocket",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480368610",
-      "funnet": "2026-11-06T08:54:17.908347+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-samlekort for TRADE",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479923828",
-      "funnet": "2026-11-06T08:46:17.039360+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon upc PROMO KORT",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480368123",
-      "funnet": "2026-11-06T08:44:15.603274+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
