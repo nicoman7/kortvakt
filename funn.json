@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T23:04:16.750987+00:00",
+  "sist_sjekket": "2026-11-06T23:06:16.085450+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Jigglypuff #65 - Fire Red & Leaf Green",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480422846",
+      "funnet": "2026-11-06T23:06:16.083845+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Metapod #39 - Fire Red & Leaf Green",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-06T19:50:27.432090+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "kort: Manectric LV.34 - Stormfront (2008) - #40/100",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480415479",
-      "funnet": "2026-11-06T19:50:26.900575+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
