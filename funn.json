@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T08:36:15.916933+00:00",
+  "sist_sjekket": "2026-11-06T08:38:15.193681+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort fra 1994 (Upper Deck)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480336027",
+      "funnet": "2026-11-06T08:38:15.192227+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "pokemonkort bulker selges",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480358189",
       "funnet": "2026-11-05T21:40:36.858630+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew #25 - Pokemon Celebrations PSA 9",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480358325",
-      "funnet": "2026-11-05T21:40:36.030176+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
