@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-06T23:06:16.085450+00:00",
+  "sist_sjekket": "2026-11-06T23:08:16.645617+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Spearow #81 - Fire Red & Leaf Green",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480422874",
+      "funnet": "2026-11-06T23:08:16.643823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Jigglypuff #65 - Fire Red & Leaf Green",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-06T19:50:28.024050+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic the Gathering kort til salgs",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480415231",
-      "funnet": "2026-11-06T19:50:27.432090+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
