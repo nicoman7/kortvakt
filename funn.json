@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T07:26:14.222422+00:00",
+  "sist_sjekket": "2026-11-07T07:28:18.788078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480427031",
+      "funnet": "2026-11-07T07:28:18.786426+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Zapdos 133/128 fra Pokemon 30th",
       "pris": 89,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/438637753",
       "funnet": "2026-11-06T22:00:54.516027+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON JULEKALENDER! 🎄 VELG MELLOM 5",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479789799",
-      "funnet": "2026-11-06T22:00:54.192694+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
