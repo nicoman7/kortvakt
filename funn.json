@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T22:16:18.157044+00:00",
+  "sist_sjekket": "2026-11-07T22:18:14.893647+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494546",
+      "funnet": "2026-11-07T22:18:14.889819+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 580,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T19:36:16.853569+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lionel Messi – 2024 Panini Top Class – Master Class Holo (Argentina)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487060",
-      "funnet": "2026-11-07T19:34:15.705319+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
