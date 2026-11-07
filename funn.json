@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T20:50:25.519000+00:00",
+  "sist_sjekket": "2026-11-07T20:52:15.517214+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-3C",
+      "pris": 110,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490870",
+      "funnet": "2026-11-07T20:52:15.516154+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "60 holo (glins) pokemonkort selges, fin til kalender/julepresang for barn",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
+      "funnet": "2026-11-07T20:52:14.852818+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Gengar EX 30th",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480483927",
       "funnet": "2026-11-07T18:42:16.477085+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483998",
-      "funnet": "2026-11-07T18:42:15.935086+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dominik Szoboszlai – Topps Match Attax Euro 2024 – Energy Insert (Ungarn)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483925",
-      "funnet": "2026-11-07T18:40:29.668914+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
