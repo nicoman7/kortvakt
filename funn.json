@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T07:24:14.881968+00:00",
+  "sist_sjekket": "2026-11-07T07:26:14.222422+00:00",
   "funn": [
+    {
+      "tittel": "Zapdos 133/128 fra Pokemon 30th",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480427015",
+      "funnet": "2026-11-07T07:26:14.220940+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew ex 066/128 fra Pokemon 30th",
       "pris": 59,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479789799",
       "funnet": "2026-11-06T22:00:54.192694+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard binder fra SagaDex",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480417720",
-      "funnet": "2026-11-06T21:58:15.929739+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
