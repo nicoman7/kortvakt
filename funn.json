@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T18:18:20.929233+00:00",
+  "sist_sjekket": "2026-11-07T18:20:35.232940+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard GX SM195 - jumbo",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480482670",
+      "funnet": "2026-11-07T18:20:35.231485+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Alolan Raichu SM65 - jumbo",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T16:42:18.733559+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-33",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480476053",
-      "funnet": "2026-11-07T16:40:25.814898+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
