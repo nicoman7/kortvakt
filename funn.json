@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T10:48:18.292715+00:00",
+  "sist_sjekket": "2026-11-07T10:50:30.268261+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480441187",
+      "funnet": "2026-11-07T10:50:30.266549+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - AR kort fra 30th Celebration Japansk",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
+      "funnet": "2026-11-07T10:50:29.426542+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - 30th celebration ETB",
       "pris": 1600,
@@ -1182,22 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480427746",
       "funnet": "2026-11-07T07:50:25.400524+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kevin Duckworth basketballkort - 1989-90 Hoops",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480427672",
-      "funnet": "2026-11-07T07:48:16.664293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Ekans #55 - Team Rocket Returns",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480427674",
-      "funnet": "2026-11-07T07:48:16.018516+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
