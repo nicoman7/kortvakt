@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T16:38:21.935230+00:00",
+  "sist_sjekket": "2026-11-07T16:40:25.816318+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-33",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480476053",
+      "funnet": "2026-11-07T16:40:25.814898+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Anniversary – EX-kort til salgs! 🔥",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480467598",
       "funnet": "2026-11-07T14:56:17.206398+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Vulpix 72/106",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480467488",
-      "funnet": "2026-11-07T14:56:16.416446+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
