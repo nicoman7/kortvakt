@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T21:28:15.753358+00:00",
+  "sist_sjekket": "2026-11-07T21:30:43.636659+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Krabby 115/165 Expedition",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480492740",
+      "funnet": "2026-11-07T21:30:43.635230+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Goldeen 55/109",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480492676",
+      "funnet": "2026-11-07T21:30:43.222922+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Goldeen 111/165 Expedition",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-07T19:10:28.845937+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort - Japansk Pikachu 003/009 holo",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480485602",
-      "funnet": "2026-11-07T19:10:28.215459+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Federico Dimarco – Topps Euro 2024 – Shield Card / Skjoldkort (Italia)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480485828",
-      "funnet": "2026-11-07T19:10:27.408048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
