@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T11:48:15.998071+00:00",
+  "sist_sjekket": "2026-11-07T11:50:28.253638+00:00",
   "funn": [
+    {
+      "tittel": "Selger div. japanske pokemonkort i en mini tin.",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480447345",
+      "funnet": "2026-11-07T11:50:28.251983+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
+      "funnet": "2026-11-07T11:50:27.871835+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort",
       "pris": 650,
@@ -1182,22 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480436728",
       "funnet": "2026-11-07T10:12:17.409716+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Delibird #74 (Gratis Frakt)",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480437283",
-      "funnet": "2026-11-07T10:12:16.733837+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Eevee Vmax PSA 10 Promo",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480437142",
-      "funnet": "2026-11-07T10:10:28.763187+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
