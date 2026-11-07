@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T17:28:16.692714+00:00",
+  "sist_sjekket": "2026-11-07T17:30:48.130454+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480479361",
+      "funnet": "2026-11-07T17:30:48.128635+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Topps Match Attax, World Cup 2010 - komplett sett med fotballkort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480478485",
+      "funnet": "2026-11-07T17:30:47.265622+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Roy Keane - Manchester United - Engelske Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480479320",
+      "funnet": "2026-11-07T17:30:46.384987+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Uxie og Delcatty - 30th celebration",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480469674",
       "funnet": "2026-11-07T15:22:17.485540+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tajon Buchanan – 2022-23 Topps Chrome UCL – Nummerert /399",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480470060",
-      "funnet": "2026-11-07T15:22:16.772139+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Numel 59/100",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480469432",
-      "funnet": "2026-11-07T15:18:22.806403+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Florian Neuhaus – 2021-22 Topps Chrome UCL Japan Edition – Nummerert /199",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480469334",
-      "funnet": "2026-11-07T15:18:21.952620+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
