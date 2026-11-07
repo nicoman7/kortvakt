@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T22:08:18.103733+00:00",
+  "sist_sjekket": "2026-11-07T22:10:26.371205+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pikachu 30th billig",
+      "pris": 219,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494317",
+      "funnet": "2026-11-07T22:10:26.369647+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494283",
+      "funnet": "2026-11-07T22:10:25.849487+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort ca. 1000 kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480131704",
+      "funnet": "2026-11-07T22:10:25.516516+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gengar ex 154- 30th billig",
       "pris": 599,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-07T19:32:15.650940+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Drifloon Illustration rare 30th celebration 3stk",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487017",
-      "funnet": "2026-11-07T19:32:15.417973+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex 054/128",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487057",
-      "funnet": "2026-11-07T19:32:15.200215+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lionel Messi – Panini Adrenalyn XL VM 2018 – Limited Edition (Argentina)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486692",
-      "funnet": "2026-11-07T19:30:44.503234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
