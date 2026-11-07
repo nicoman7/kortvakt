@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T22:12:14.350982+00:00",
+  "sist_sjekket": "2026-11-07T22:14:16.945577+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Charizard X",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
+      "funnet": "2026-11-07T22:14:16.943941+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon pikachu 30th billig",
       "pris": 219,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T19:32:15.890241+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-14A",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486735",
-      "funnet": "2026-11-07T19:32:15.650940+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
