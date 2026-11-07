@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T23:08:16.018573+00:00",
+  "sist_sjekket": "2026-11-07T23:10:27.233417+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480495920",
+      "funnet": "2026-11-07T23:10:27.231680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Salamence ex 177/159 – Journey Together Ultra Rare",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480486228",
       "funnet": "2026-11-07T19:42:16.055656+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu special illustration rare 30th celebration",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487544",
-      "funnet": "2026-11-07T19:42:15.780388+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
