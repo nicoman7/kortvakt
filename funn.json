@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T21:22:15.574573+00:00",
+  "sist_sjekket": "2026-11-07T21:24:15.707057+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Horsea 85/147 Aquapolis",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480492492",
+      "funnet": "2026-11-07T21:24:15.705871+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
+      "funnet": "2026-11-07T21:24:15.376715+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort Kabuto 39/100 Sandstorm",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480484634",
       "funnet": "2026-11-07T19:06:16.670066+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥🐉 Pokémon Phantasmal Flames Elite Trainer Box – Mega Charizard X (EN) 🐉🔥",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480485507",
-      "funnet": "2026-11-07T19:06:16.130543+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard EX Samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438907456",
-      "funnet": "2026-11-07T19:04:16.666833+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
