@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T21:44:14.555596+00:00",
+  "sist_sjekket": "2026-11-07T21:46:15.656790+00:00",
   "funn": [
+    {
+      "tittel": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479488331",
+      "funnet": "2026-11-07T21:46:15.655188+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pikachu #247 PSA 9 samlekort",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T19:16:18.348411+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th hits",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486134",
-      "funnet": "2026-11-07T19:16:17.729288+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
