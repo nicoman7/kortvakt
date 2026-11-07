@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-07T18:30:49.562290+00:00",
+  "sist_sjekket": "2026-11-07T18:32:18.200099+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-24",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480483217",
+      "funnet": "2026-11-07T18:32:18.198857+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Gengar #TG06 Pokemon Lost Origin (LP)",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476742712",
+      "funnet": "2026-11-07T18:32:17.453726+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokemon kort (HeartGold & SoulSilver)",
+      "pris": 129,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480283453",
+      "funnet": "2026-11-07T18:32:16.743116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokemon-samling-2000-tallet, EX, Rumble etc. Alle holo/reverse holo (-1)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480221114",
+      "funnet": "2026-11-07T18:32:15.985194+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Alolan Meowth 139/128 – 30th Celebration Illustration Rare",
       "pris": 149,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480477565",
       "funnet": "2026-11-07T17:00:57.474618+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Åpnet UPC Night uten Pakker og promokort selges✌🏽",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480477205",
-      "funnet": "2026-11-07T16:58:16.633156+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glaceon Kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474690657",
-      "funnet": "2026-11-07T16:58:16.328466+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Latias ex - 87/64 - Japansk - Pokemon kort - CGC 10",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479972450",
-      "funnet": "2026-11-07T16:58:16.030650+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu – Secret Rare Holo – 112/111 – Rising Rivals med Swirl ⭐️💫",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472466662",
-      "funnet": "2026-11-07T16:58:15.496270+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
