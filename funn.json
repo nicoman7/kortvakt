@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T08:12:13.892666+00:00",
+  "sist_sjekket": "2026-11-07T08:14:17.960488+00:00",
   "funn": [
+    {
+      "tittel": "Diverse fotballkort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480428659",
+      "funnet": "2026-11-07T08:14:17.958768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jason Kidd Rookie kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480428742",
+      "funnet": "2026-11-07T08:14:17.314005+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Team Rocket",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480422558",
       "funnet": "2026-11-06T22:58:18.740771+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #10 30th celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480422673",
-      "funnet": "2026-11-06T22:58:17.948128+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #06 30th celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480422701",
-      "funnet": "2026-11-06T22:58:17.220987+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
