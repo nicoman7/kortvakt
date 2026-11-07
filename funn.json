@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T23:00:54.576083+00:00",
+  "sist_sjekket": "2026-11-07T23:02:18.922870+00:00",
   "funn": [
+    {
+      "tittel": "21 pokemon kort selges hbo 700kr.",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480078440",
+      "funnet": "2026-11-07T23:02:18.921328+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Spiky Energy 190/159 – Journey Together Gold Hyper Rare",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480487412",
       "funnet": "2026-11-07T19:40:29.163525+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Whimsicott VStar 175/172 fra Brilliant Stars",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487361",
-      "funnet": "2026-11-07T19:40:28.814269+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
