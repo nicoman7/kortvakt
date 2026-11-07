@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T17:50:25.772935+00:00",
+  "sist_sjekket": "2026-11-07T17:52:16.330107+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-31 (Feil nummerert)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480479871",
+      "funnet": "2026-11-07T17:52:16.328744+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Charizard ex 054/091 – Paldean Fates 2024",
+      "pris": 109,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480480841",
+      "funnet": "2026-11-07T17:52:15.591694+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
+      "funnet": "2026-11-07T17:52:15.029797+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Morpeko – Samling med 5 kort ⚡",
       "pris": 200,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480471679",
       "funnet": "2026-11-07T15:44:15.227681+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-34",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480471653",
-      "funnet": "2026-11-07T15:44:14.982669+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu 70/111 1st Edition",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480471634",
-      "funnet": "2026-11-07T15:42:17.034900+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480471909",
-      "funnet": "2026-11-07T15:42:16.708889+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
