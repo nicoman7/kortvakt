@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T15:28:18.510879+00:00",
+  "sist_sjekket": "2026-11-07T15:30:44.926631+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Delta Reign ETB",
+      "pris": 1299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480467526",
+      "funnet": "2026-11-07T15:30:44.925207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telekort N-32",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480470734",
+      "funnet": "2026-11-07T15:30:44.114260+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480463311",
       "funnet": "2026-11-07T14:12:16.185665+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ambipom 079/094 – Phantasmal Flames 2025 – hncl – Rare",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480463197",
-      "funnet": "2026-11-07T14:12:15.938481+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "3x vintage Pokémon-kort (Holon's Castform, Wurmple & Koffing Team Rocket)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480463206",
-      "funnet": "2026-11-07T14:12:15.363376+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
