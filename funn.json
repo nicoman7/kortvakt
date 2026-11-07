@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T01:48:19.726871+00:00",
+  "sist_sjekket": "2026-11-07T01:50:26.346824+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
+      "funnet": "2026-11-07T01:50:26.345174+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "First Partner Illustration Collection - Series 2 - CGC 10 - Pokemon kort",
       "pris": 1200,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
       "funnet": "2026-11-06T21:02:19.352997+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Tyranitar Rare - EX Team Rocket Returns (2004) - #20/109",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480418703",
-      "funnet": "2026-11-06T20:58:14.133427+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
