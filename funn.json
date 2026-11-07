@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T22:22:14.534853+00:00",
+  "sist_sjekket": "2026-11-07T22:24:13.668838+00:00",
   "funn": [
+    {
+      "tittel": "MTG samling ~2350 kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494388",
+      "funnet": "2026-11-07T22:24:13.667606+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort samling",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T19:36:17.276629+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-14A",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480487080",
-      "funnet": "2026-11-07T19:36:16.853569+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
