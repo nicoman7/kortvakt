@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T16:42:21.278652+00:00",
+  "sist_sjekket": "2026-11-07T16:44:15.042973+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-40",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480476324",
+      "funnet": "2026-11-07T16:44:15.041706+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Golden Baller #4 Harry Kane (Fotballkort)",
       "pris": 399,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480467916",
       "funnet": "2026-11-07T15:00:58.488701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Entei 34 promo",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480468006",
-      "funnet": "2026-11-07T15:00:57.826009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
