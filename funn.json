@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T12:50:27.825969+00:00",
+  "sist_sjekket": "2026-11-07T12:52:16.474000+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
+      "funnet": "2026-11-07T12:52:16.472243+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Meowth 144/128 Illustration Rare - 30th Celebration (Near Mint)",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480443388",
       "funnet": "2026-11-07T11:12:16.114646+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jangmo-o 75/111 - Pokemon Crimson Invasion",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480443580",
-      "funnet": "2026-11-07T11:12:15.719317+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
