@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T20:36:16.872606+00:00",
+  "sist_sjekket": "2026-11-07T20:38:17.276071+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-6H",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490242",
+      "funnet": "2026-11-07T20:38:17.274511+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 230,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490043",
+      "funnet": "2026-11-07T20:38:17.086660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ash's Pikachu SM111",
       "pris": 400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480221114",
       "funnet": "2026-11-07T18:32:15.985194+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Alolan Meowth 139/128 – 30th Celebration Illustration Rare",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483379",
-      "funnet": "2026-11-07T18:30:49.560685+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 6/108 Holo - EX Power Keepers",
-      "pris": 1750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479472631",
-      "funnet": "2026-11-07T18:28:17.809199+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
