@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T17:18:15.736857+00:00",
+  "sist_sjekket": "2026-11-07T17:20:28.398735+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N55a",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480478605",
+      "funnet": "2026-11-07T17:20:28.397199+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Begge promokortene til 30th UPC Day",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480477988",
+      "funnet": "2026-11-07T17:20:28.035955+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ryan Giggs - Manchester United - Engelske Fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480478663",
+      "funnet": "2026-11-07T17:20:27.191293+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2002-2011 Pokemon Holos & Reverse Holos",
       "pris": 20,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480469478",
       "funnet": "2026-11-07T15:16:14.736402+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 30th samlet sett 30/30",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480469200",
-      "funnet": "2026-11-07T15:16:14.446505+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sjelden Pikachu fra 2008 - Holo med snøfnugg",
-      "pris": 950,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480469038",
-      "funnet": "2026-11-07T15:12:18.474926+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA All-Star  Fleer 1997 Michael Jordan Chicago Bulls basketballkort",
-      "pris": 179,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480468471",
-      "funnet": "2026-11-07T15:12:18.212472+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
