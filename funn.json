@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-07T22:04:19.169076+00:00",
+  "sist_sjekket": "2026-11-07T22:06:22.232841+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494148",
+      "funnet": "2026-11-07T22:06:22.231287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 490,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494170",
+      "funnet": "2026-11-07T22:06:21.682658+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Adrenalyn XL FIFA World Cup 2026 – Uåpnede kortpakker",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480493946",
+      "funnet": "2026-11-07T22:06:21.435840+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Div pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494213",
+      "funnet": "2026-11-07T22:06:21.198468+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse pokemon-kort",
       "pris": 1,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-07T19:28:16.289181+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-16A",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486424",
-      "funnet": "2026-11-07T19:26:15.953345+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
-      "funnet": "2026-11-07T19:26:15.630558+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo – Topps Match Attax Euro 2024 – Captain Holo (Portugal)",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486500",
-      "funnet": "2026-11-07T19:24:16.346082+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moltres illustration rare 30th celebration",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486487",
-      "funnet": "2026-11-07T19:24:15.765482+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
