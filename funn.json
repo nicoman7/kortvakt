@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T13:06:15.541434+00:00",
+  "sist_sjekket": "2026-11-07T13:08:16.079155+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480455581",
+      "funnet": "2026-11-07T13:08:16.077874+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 1199,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480443905",
       "funnet": "2026-11-07T11:16:18.483363+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG - White kort - Mystery booster",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480443657",
-      "funnet": "2026-11-07T11:14:22.059362+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
