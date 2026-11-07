@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T15:32:17.931606+00:00",
+  "sist_sjekket": "2026-11-07T15:34:17.503974+00:00",
   "funn": [
+    {
+      "tittel": "Gamle fotballkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480470583",
+      "funnet": "2026-11-07T15:34:17.502214+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th produkter",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480470962",
+      "funnet": "2026-11-07T15:34:16.795209+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "STOR MENGDE POKEMON BULK SELGES!",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-07T14:14:16.954466+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mystery packs pokemon",
-      "pris": 175,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479546937",
-      "funnet": "2026-11-07T14:14:16.449009+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-84 - 88",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480462905",
-      "funnet": "2026-11-07T14:12:16.428237+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
