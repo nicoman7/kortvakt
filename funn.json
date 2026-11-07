@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T19:24:16.347630+00:00",
+  "sist_sjekket": "2026-11-07T19:26:15.954629+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-16A",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480486424",
+      "funnet": "2026-11-07T19:26:15.953345+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Mega Charizard X",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
+      "funnet": "2026-11-07T19:26:15.630558+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cristiano Ronaldo – Topps Match Attax Euro 2024 – Captain Holo (Portugal)",
       "pris": 65,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480480310",
       "funnet": "2026-11-07T17:46:18.287812+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Espeon EX & Pikachu EX promo kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480454886",
-      "funnet": "2026-11-07T17:46:17.881666+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Molde - Tippeligaen - Norske Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480480327",
-      "funnet": "2026-11-07T17:46:16.850988+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
