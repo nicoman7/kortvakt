@@ -1,6 +1,78 @@
 {
-  "sist_sjekket": "2026-11-07T19:42:16.625141+00:00",
+  "sist_sjekket": "2026-11-07T19:44:20.954829+00:00",
   "funn": [
+    {
+      "tittel": "Selger en hel del pokemon kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487583",
+      "funnet": "2026-11-07T19:44:20.953254+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu 026/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487616",
+      "funnet": "2026-11-07T19:44:20.566563+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telekort N-15",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487524",
+      "funnet": "2026-11-07T19:44:20.193730+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 027/128",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487743",
+      "funnet": "2026-11-07T19:44:19.282582+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fuecoco special illustration rare 30th celebration",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487685",
+      "funnet": "2026-11-07T19:44:18.832503+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonn 30th Celebration EX Pakke",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487398",
+      "funnet": "2026-11-07T19:44:18.374056+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Shedinja 144/133 fra Mega evolution",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487806",
+      "funnet": "2026-11-07T19:44:17.957613+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Charizard 017/172 fra Crown Zenith",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487675",
+      "funnet": "2026-11-07T19:44:17.539140+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
+      "funnet": "2026-11-07T19:44:17.170776+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Tauros 096/086 fra Chaos rising",
       "pris": 40,
@@ -1126,78 +1198,6 @@
       "pris": 799,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478039246",
       "funnet": "2026-11-07T18:06:15.100546+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Registeel ex 100 - Pokemon Emerald",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470423471",
-      "funnet": "2026-11-07T18:04:26.359508+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skeledirge & Quaquaval Tins (2023)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481372",
-      "funnet": "2026-11-07T18:04:25.882824+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Lapras 30th",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479283646",
-      "funnet": "2026-11-07T18:04:25.168742+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tottenham Hotspurs - Premier League  - Engelske Fotballkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481592",
-      "funnet": "2026-11-07T18:04:24.394910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort- 30th - Pakke med hits +++",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481549",
-      "funnet": "2026-11-07T18:04:23.563629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-26",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481357",
-      "funnet": "2026-11-07T18:00:56.359661+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gengar Classic - 30th celebration",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481439",
-      "funnet": "2026-11-07T18:00:56.027528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lillestrøm - Tippeligaen - Engelske Fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481416",
-      "funnet": "2026-11-07T18:00:55.796138+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Delta Reign ETB",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481450",
-      "funnet": "2026-11-07T18:00:55.194325+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
