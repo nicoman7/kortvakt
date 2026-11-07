@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-07T20:44:19.137845+00:00",
+  "sist_sjekket": "2026-11-07T20:46:19.719987+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-5D",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490513",
+      "funnet": "2026-11-07T20:46:19.718373+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu 107 Promo – 30th Celebration",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490736",
+      "funnet": "2026-11-07T20:46:19.409910+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Darkrai $ Cresselia",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490723",
+      "funnet": "2026-11-07T20:46:18.534022+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - AR kort fra 30th Celebration Japansk",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
+      "funnet": "2026-11-07T20:46:17.706039+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort",
       "pris": 70,
@@ -1166,38 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480483097",
       "funnet": "2026-11-07T18:38:18.913234+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flere Pokémon-kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483778",
-      "funnet": "2026-11-07T18:38:18.599827+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Warped Crusaders 1st Edition Akora-kortpakke",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480158126",
-      "funnet": "2026-11-07T18:38:18.283231+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rasmus Højlund – Topps Match Attax Euro 2024 – Energy Insert (Danmark)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483710",
-      "funnet": "2026-11-07T18:36:17.998305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort diverse ex fra forskjellige sett",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480483630",
-      "funnet": "2026-11-07T18:36:17.395755+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
