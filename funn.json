@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T19:34:15.706469+00:00",
+  "sist_sjekket": "2026-11-07T19:36:18.132411+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487121",
+      "funnet": "2026-11-07T19:36:18.130823+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lapras illustration rare 30th celebration",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487148",
+      "funnet": "2026-11-07T19:36:17.276629+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Telekort N-14A",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480487080",
+      "funnet": "2026-11-07T19:36:16.853569+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Lionel Messi – 2024 Panini Top Class – Master Class Holo (Argentina)",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480481011",
       "funnet": "2026-11-07T17:54:15.984534+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30 års jubileum boosterpakker Pokemon (Gratis frakt)",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480480957",
-      "funnet": "2026-11-07T17:54:15.089732+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salamence 159/128 - pokemon 30th celebration",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481082",
-      "funnet": "2026-11-07T17:54:14.432545+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alan Shearer - Newcastle United - Engelske Fotballkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480481075",
-      "funnet": "2026-11-07T17:54:13.982955+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
