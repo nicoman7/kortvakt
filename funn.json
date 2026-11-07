@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T21:32:15.245144+00:00",
+  "sist_sjekket": "2026-11-07T21:34:15.024464+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Magnemite 76/144 Skyridge",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480492827",
+      "funnet": "2026-11-07T21:34:15.022980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Krabby 115/165 Expedition",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T19:12:14.818447+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30th Celebration selges samlet",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480485762",
-      "funnet": "2026-11-07T19:10:28.845937+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
