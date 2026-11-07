@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T12:36:15.565121+00:00",
+  "sist_sjekket": "2026-11-07T12:38:15.569012+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480452880",
+      "funnet": "2026-11-07T12:38:15.567832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ACE 8 NM-MT Metagross Ex 071/083 1st Edition - Pokemon Undone Seal",
+      "pris": 1599,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480452708",
+      "funnet": "2026-11-07T12:38:14.899594+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamle fotballstickers fra Premier League 97",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 1999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/476606430",
       "funnet": "2026-11-07T11:02:13.945790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #149 30th Celebration",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480442001",
-      "funnet": "2026-11-07T11:00:59.283981+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480440477",
-      "funnet": "2026-11-07T10:56:16.616816+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
