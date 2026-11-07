@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T10:04:19.321481+00:00",
+  "sist_sjekket": "2026-11-07T10:06:17.995665+00:00",
   "funn": [
+    {
+      "tittel": "Eldre Pokémon-kortsamling – EX, Diamond & Pearl, Platinum m.m.",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480435758",
+      "funnet": "2026-11-07T10:06:17.993885+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pakke med Slowpoke Pokémonkort - 5 stk.",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480435044",
+      "funnet": "2026-11-07T10:06:17.043715+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort: glaceon, Umbreon VMAX, Bulbasaur, heros cape og Squirtle",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479944637",
+      "funnet": "2026-11-07T10:06:16.663704+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lillie's Ribombee 164/159 Illustration Rare NM",
       "pris": 75,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-07T06:22:17.314103+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Jolteon Vmax SWSH184 - PSA 8 - Pokemon promo",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480321734",
-      "funnet": "2026-11-07T06:10:29.095525+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charmeleon 169/165 - Pokemon 151",
-      "pris": 1050,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480379142",
-      "funnet": "2026-11-07T06:10:28.190582+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1st Edition Lt. Surge’s Voltorb 86/132 - PSA 6 - Pokemon Gym Challenge",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480327297",
-      "funnet": "2026-11-07T06:08:14.802679+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
