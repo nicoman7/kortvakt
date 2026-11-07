@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T20:12:19.363469+00:00",
+  "sist_sjekket": "2026-11-07T20:14:17.073265+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480489063",
+      "funnet": "2026-11-07T20:14:17.071397+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fuecoco 147/128 - Pokemon 30th Celebration",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480488256",
+      "funnet": "2026-11-07T20:14:16.729220+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger pokemonkort Moltres&Zapdos&Articuno GX Tag team",
       "pris": 1300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480482670",
       "funnet": "2026-11-07T18:20:35.231485+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Alolan Raichu SM65 - jumbo",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480482495",
-      "funnet": "2026-11-07T18:18:20.927949+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort/ samlekort",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480482356",
-      "funnet": "2026-11-07T18:18:20.581960+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
