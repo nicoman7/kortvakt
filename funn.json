@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T06:20:25.152966+00:00",
+  "sist_sjekket": "2026-11-07T06:22:17.315815+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
+      "funnet": "2026-11-07T06:22:17.314103+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Jolteon Vmax SWSH184 - PSA 8 - Pokemon promo",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 125,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480420165",
       "funnet": "2026-11-06T21:34:18.407995+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Diverse AR kort Japansk 2",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438747736",
-      "funnet": "2026-11-06T21:30:46.828564+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
