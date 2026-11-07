@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T11:54:15.350049+00:00",
+  "sist_sjekket": "2026-11-07T11:56:15.236530+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546937",
+      "funnet": "2026-11-07T11:56:15.235266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Selger div. japanske pokemonkort i en mini tin.",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T10:12:18.211864+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu fra pokemon 30 th celebrations",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480436728",
-      "funnet": "2026-11-07T10:12:17.409716+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
