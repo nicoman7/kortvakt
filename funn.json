@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T16:54:16.809947+00:00",
+  "sist_sjekket": "2026-11-07T16:56:16.845830+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-50",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480477004",
+      "funnet": "2026-11-07T16:56:16.844041+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Snorlax samling",
       "pris": 1400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T15:02:15.206488+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort N-51 - 60",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480466858",
-      "funnet": "2026-11-07T15:01:01.174410+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
