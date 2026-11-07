@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T22:14:16.945577+00:00",
+  "sist_sjekket": "2026-11-07T22:16:18.157044+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 580,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480494478",
+      "funnet": "2026-11-07T22:16:18.155270+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
+      "funnet": "2026-11-07T22:16:17.362217+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mega Charizard X",
       "pris": 200,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480487060",
       "funnet": "2026-11-07T19:34:15.705319+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
-      "funnet": "2026-11-07T19:34:15.198060+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo – 2017/18 Topps Match Attax – Gold Limited Edition,Real Madrid",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480486907",
-      "funnet": "2026-11-07T19:32:15.890241+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
