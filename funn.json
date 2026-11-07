@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T16:50:29.819910+00:00",
+  "sist_sjekket": "2026-11-07T16:52:17.322563+00:00",
   "funn": [
+    {
+      "tittel": "Snorlax samling",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480477013",
+      "funnet": "2026-11-07T16:52:17.320967+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort-samling, ca. 70 stk. (Panini Adrenalyn XL, Match Attax, FIFA 365)",
       "pris": 675,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T15:01:01.174410+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Adrenalyn kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480467793",
-      "funnet": "2026-11-07T15:01:00.928320+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
