@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-07T13:02:15.705389+00:00",
+  "sist_sjekket": "2026-11-07T13:04:17.115258+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480455863",
+      "funnet": "2026-11-07T13:04:17.113841+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vm fotballkort fra 2018-2026",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480455999",
+      "funnet": "2026-11-07T13:04:16.750048+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 98,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-11-07T13:04:15.928246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebration | 8 løse pakker",
       "pris": 850,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480443657",
       "funnet": "2026-11-07T11:14:22.059362+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jigglypuff 134/214 - Pokemon Unbroken Bonds",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480443716",
-      "funnet": "2026-11-07T11:14:21.240089+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Delta Reign ETB",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480443794",
-      "funnet": "2026-11-07T11:14:20.903708+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rapidash 17/114 - Pokemon Steam Siege",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480443843",
-      "funnet": "2026-11-07T11:14:20.079148+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
