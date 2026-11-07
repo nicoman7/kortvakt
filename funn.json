@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T20:40:26.161314+00:00",
+  "sist_sjekket": "2026-11-07T20:42:16.912865+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Umbreon-Holo PSA 6",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480490543",
+      "funnet": "2026-11-07T20:42:16.911594+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-07T20:42:16.104526+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Telekort N-6H",
       "pris": 130,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476742712",
       "funnet": "2026-11-07T18:32:17.453726+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon kort (HeartGold & SoulSilver)",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480283453",
-      "funnet": "2026-11-07T18:32:16.743116+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon-samling-2000-tallet, EX, Rumble etc. Alle holo/reverse holo (-1)",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480221114",
-      "funnet": "2026-11-07T18:32:15.985194+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
