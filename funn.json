@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T21:06:14.569797+00:00",
+  "sist_sjekket": "2026-11-07T21:08:16.273575+00:00",
   "funn": [
+    {
+      "tittel": "Mange bra pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480491467",
+      "funnet": "2026-11-07T21:08:16.272042+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse photokort og stickers (Ateez, Stray Kids)",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/366736911",
+      "funnet": "2026-11-07T21:08:15.746802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu #21 30th celebration",
       "pris": 20,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-07T18:56:16.083574+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort, Mewtwo 30th",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480484682",
-      "funnet": "2026-11-07T18:54:19.237813+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes EX Tin",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478811991",
-      "funnet": "2026-11-07T18:52:16.034428+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
