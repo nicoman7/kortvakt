@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T20:06:15.384969+00:00",
+  "sist_sjekket": "2026-11-07T20:08:15.414535+00:00",
   "funn": [
+    {
+      "tittel": "Telekort N-8",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480488414",
+      "funnet": "2026-11-07T20:08:15.412714+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu 038/128",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480482300",
       "funnet": "2026-11-07T18:16:19.312593+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Darkrai ex 101/084 – Pitch Black Ultra Rare",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480482452",
-      "funnet": "2026-11-07T18:16:18.502938+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
