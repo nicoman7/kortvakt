@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-07T06:52:20.305502+00:00",
+  "sist_sjekket": "2026-11-07T06:54:15.527825+00:00",
   "funn": [
+    {
+      "tittel": "Mew 065/128 fra Pokemon 30th",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480426359",
+      "funnet": "2026-11-07T06:54:15.526726+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lugia 121/128 fra Pokemon 30th",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480426371",
+      "funnet": "2026-11-07T06:54:15.120863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hydreigon 099/128 fra Pokemon 30th",
       "pris": 20,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480420865",
       "funnet": "2026-11-06T21:54:16.850058+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 053/128 30th celebration",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480420916",
-      "funnet": "2026-11-06T21:54:16.586534+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Popinjay kortstokk / spillekort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480420696",
-      "funnet": "2026-11-06T21:50:26.778117+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
