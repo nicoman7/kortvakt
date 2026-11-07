@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-07T15:30:44.926631+00:00",
+  "sist_sjekket": "2026-11-07T15:32:17.931606+00:00",
   "funn": [
+    {
+      "tittel": "STOR MENGDE POKEMON BULK SELGES!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478216682",
+      "funnet": "2026-11-07T15:32:17.929936+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Delta Reign ETB",
       "pris": 1299,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T14:12:16.428237+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th celebration mini tin",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480463311",
-      "funnet": "2026-11-07T14:12:16.185665+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
