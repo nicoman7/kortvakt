@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T02:26:15.417477+00:00",
+  "sist_sjekket": "2026-11-08T02:28:15.625665+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 175,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546937",
+      "funnet": "2026-11-08T02:28:15.623878+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vintage Pokemon-samling-2000-tallet, EX, Rumble etc. Alle holo/reverse holo (-1)",
       "pris": 1234,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480491215",
       "funnet": "2026-11-07T20:56:15.782795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort NSB",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480491245",
-      "funnet": "2026-11-07T20:56:15.087323+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
