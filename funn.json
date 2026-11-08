@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T15:44:15.961117+00:00",
+  "sist_sjekket": "2026-11-08T15:46:14.978189+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges, gi bud.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480554507",
+      "funnet": "2026-11-08T15:46:14.976414+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage Pokemon kort (Plasma Freeze)",
       "pris": 99,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
       "funnet": "2026-11-08T13:42:16.938887+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "60 holo (glins) pokemonkort selges, fin til kalender/julepresang for barn",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
-      "funnet": "2026-11-08T13:38:15.813832+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
