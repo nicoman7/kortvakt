@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T19:04:17.640526+00:00",
+  "sist_sjekket": "2026-11-08T19:06:16.802240+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th Celebration UPC – Pikachu  Promokort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480573290",
+      "funnet": "2026-11-08T19:06:16.800544+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nummererte kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480573203",
+      "funnet": "2026-11-08T19:06:16.517463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – kort i plastlommer",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-08T17:38:16.543468+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Erling Haaland Norge fotballkort - SP field level",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480564775",
-      "funnet": "2026-11-08T17:36:15.621137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon kort Jellicent (Plasma Storm)",
-      "pris": 8,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480564766",
-      "funnet": "2026-11-08T17:36:15.090639+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
