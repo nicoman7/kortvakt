@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T16:32:20.918593+00:00",
+  "sist_sjekket": "2026-11-08T16:34:17.465570+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Kongsvinger (fra 90-tallet)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479323456",
+      "funnet": "2026-11-08T16:34:17.463908+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480558593",
+      "funnet": "2026-11-08T16:34:16.704793+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Stadium Club Chrome 2025/26 – Fotballkort Value Box",
       "pris": 549,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-08T14:22:14.396602+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Umbreon holografisk samlekort 0608/15",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480543794",
-      "funnet": "2026-11-08T14:20:29.543460+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Iron Moth Art Rare japansk samlekort 069/066",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480544168",
-      "funnet": "2026-11-08T14:20:28.910932+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
