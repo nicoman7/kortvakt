@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T22:10:26.932970+00:00",
+  "sist_sjekket": "2026-11-08T22:12:17.027479+00:00",
   "funn": [
+    {
+      "tittel": "hockey kort fra 1995/1996",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480586990",
+      "funnet": "2026-11-08T22:12:17.025616+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Premium Pokemon Booster Box Akryl – 6MM",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480109386",
       "funnet": "2026-11-08T19:14:16.546719+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon prismatic evolution japansk",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480573776",
-      "funnet": "2026-11-08T19:12:19.518362+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
