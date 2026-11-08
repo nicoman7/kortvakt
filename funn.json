@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T12:38:17.129032+00:00",
+  "sist_sjekket": "2026-11-08T12:40:31.119689+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort til salgs!",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480526845",
+      "funnet": "2026-11-08T12:40:31.118107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Nummerert Ousmane Dembele PSG - topps stadium chrome",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480529506",
+      "funnet": "2026-11-08T12:40:30.301888+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Psa gradert kort diverse mix",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-08T10:38:18.418153+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cobalion ex Pokemon chaos rising 064/086",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480513440",
-      "funnet": "2026-11-08T10:38:17.644758+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
-      "funnet": "2026-11-08T10:38:16.899840+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
