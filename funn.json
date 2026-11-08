@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T20:32:16.742725+00:00",
+  "sist_sjekket": "2026-11-08T20:34:16.622599+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 320,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480581455",
+      "funnet": "2026-11-08T20:34:16.620954+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Salah kort /75, Liverpool",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480569889",
       "funnet": "2026-11-08T18:30:45.918870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort selges",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480569321",
-      "funnet": "2026-11-08T18:30:45.663106+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
