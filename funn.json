@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T13:20:28.626416+00:00",
+  "sist_sjekket": "2026-11-08T13:22:19.637847+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480534726",
+      "funnet": "2026-11-08T13:22:19.635847+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🇪🇸 Alvaro Morata Spania nummerert patch /25 fotballkort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480535257",
+      "funnet": "2026-11-08T13:22:18.853877+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Granit Xhaka Arsenal – Panini Prizm Red Mojo /99 – 21/99",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480516222",
       "funnet": "2026-11-08T11:00:57.035675+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard V",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480515734",
-      "funnet": "2026-11-08T11:00:56.489622+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG kortsamling - Scarlet & Violet 151",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480515648",
-      "funnet": "2026-11-08T11:00:55.956495+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
