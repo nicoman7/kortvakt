@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T10:26:16.070309+00:00",
+  "sist_sjekket": "2026-11-08T10:28:15.235925+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort uåpnet selges",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480511172",
+      "funnet": "2026-11-08T10:28:15.234298+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "60 holo (glins) pokemonkort selges, fin til kalender/julepresang for barn",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480077948",
+      "funnet": "2026-11-08T10:28:14.931876+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Emma - 107/086 chaos rising",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480501256",
       "funnet": "2026-11-08T08:10:24.104456+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Dual auto /50",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472305444",
-      "funnet": "2026-11-08T08:06:18.361609+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-11-08T08:06:17.451537+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
