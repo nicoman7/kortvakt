@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T07:06:16.651934+00:00",
+  "sist_sjekket": "2026-11-08T07:08:14.330747+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon stasj",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480499576",
+      "funnet": "2026-11-08T07:08:14.328998+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Sylveon & Greninja ex Box. Gratis frakt SELGES SAMLET",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480491516",
       "funnet": "2026-11-07T21:02:15.597138+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu #26 30th celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480491463",
-      "funnet": "2026-11-07T21:00:55.252390+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
