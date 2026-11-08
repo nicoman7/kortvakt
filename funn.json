@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T11:46:14.073066+00:00",
+  "sist_sjekket": "2026-11-08T11:48:23.768787+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480522199",
+      "funnet": "2026-11-08T11:48:23.767234+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Franz Beckenbauer Panini master kort 2026",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480510000",
       "funnet": "2026-11-08T10:08:20.098870+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Terapagos EX 092/131 - Pokemon Prismatic Evolutions",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480509996",
-      "funnet": "2026-11-08T10:08:19.339140+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
