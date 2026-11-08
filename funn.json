@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T11:58:15.542805+00:00",
+  "sist_sjekket": "2026-11-08T12:00:53.706768+00:00",
   "funn": [
+    {
+      "tittel": "Bulk - 500 kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480523690",
+      "funnet": "2026-11-08T12:00:53.704888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480510534",
       "funnet": "2026-11-08T10:12:18.915162+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort etter forespørsel",
-      "pris": 158,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480510354",
-      "funnet": "2026-11-08T10:12:18.167783+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
