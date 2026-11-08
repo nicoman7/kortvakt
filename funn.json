@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T13:44:14.866096+00:00",
+  "sist_sjekket": "2026-11-08T13:46:15.917911+00:00",
   "funn": [
+    {
+      "tittel": "Cherki Samlepakke Solgt Emily!",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480539373",
+      "funnet": "2026-11-08T13:46:15.916290+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON S&V STELLAR CROWN  2024 240 ULIKE KORT",
       "pris": 5,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T11:10:24.688674+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Exeggutor 002/128 pokemon 30th celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480517050",
-      "funnet": "2026-11-08T11:08:18.264059+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
