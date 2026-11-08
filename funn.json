@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T08:10:24.106112+00:00",
+  "sist_sjekket": "2026-11-08T08:12:16.535711+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort til salgs",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480501179",
+      "funnet": "2026-11-08T08:12:16.533860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps chrome wonderkids Reigan Heskey 180/199",
       "pris": 75,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480492394",
       "funnet": "2026-11-07T21:22:15.573299+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rio Ngumoha Debut Shots RC - Topps Stadium Chrome",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480492415",
-      "funnet": "2026-11-07T21:22:14.813980+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
