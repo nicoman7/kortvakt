@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-08T10:04:15.204288+00:00",
+  "sist_sjekket": "2026-11-08T10:06:16.874578+00:00",
   "funn": [
+    {
+      "tittel": "Panini Prizm Eden Hazard siver prizm/mosaic",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480509297",
+      "funnet": "2026-11-08T10:06:16.873406+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gyarados #6 Pokemon Base Set",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480509725",
+      "funnet": "2026-11-08T10:06:16.021850+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lionel Messi / Argentina – eksklusiv samlekortramme med 2 kort",
+      "pris": 1799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480292341",
+      "funnet": "2026-11-08T10:06:15.706420+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gratis frakt! Magic: The Gathering 100 foil kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480509691",
+      "funnet": "2026-11-08T10:06:14.883614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Topps series 2 #PC2 Bulbasaur",
       "pris": 120,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-08T00:18:17.780862+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480497037",
-      "funnet": "2026-11-08T00:14:17.271595+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "TOM Pokemon 30th celebration upc",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480497047",
-      "funnet": "2026-11-08T00:14:16.424562+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon V - E SWSH181 - Japansk Pokemon Kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480496914",
-      "funnet": "2026-11-08T00:14:16.081253+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-11-08T00:14:15.694461+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
