@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-08T00:12:18.098477+00:00",
+  "sist_sjekket": "2026-11-08T00:14:17.273150+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th celebration",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480497037",
+      "funnet": "2026-11-08T00:14:17.271595+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "TOM Pokemon 30th celebration upc",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480497047",
+      "funnet": "2026-11-08T00:14:16.424562+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vaporeon V - E SWSH181 - Japansk Pokemon Kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480496914",
+      "funnet": "2026-11-08T00:14:16.081253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-11-08T00:14:15.694461+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Leafeon V - s6a - 071/069 SR - Japansk Pokemon Kort",
       "pris": 1200,
@@ -1166,38 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480490640",
       "funnet": "2026-11-07T20:44:17.956454+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Boss’s Orders, Professor Oak, Pokemon Fan Club",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480490600",
-      "funnet": "2026-11-07T20:44:17.206081+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Umbreon-Holo PSA 6",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480490543",
-      "funnet": "2026-11-07T20:42:16.911594+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
-      "funnet": "2026-11-07T20:42:16.104526+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Telekort N-6H",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480490242",
-      "funnet": "2026-11-07T20:38:17.274511+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
