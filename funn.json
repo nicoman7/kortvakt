@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T13:14:15.853775+00:00",
+  "sist_sjekket": "2026-11-08T13:16:17.953964+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu (CN) 028/103 - Pokemon",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480534969",
+      "funnet": "2026-11-08T13:16:17.952209+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Series 2",
       "pris": 499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480515617",
       "funnet": "2026-11-08T10:56:15.955707+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stort utvalg samlekort - Pokémon, Marvel, One Piece, Star Wars",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480109386",
-      "funnet": "2026-11-08T10:56:15.217732+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
