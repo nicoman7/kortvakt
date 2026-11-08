@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T09:10:27.445378+00:00",
+  "sist_sjekket": "2026-11-08T09:12:15.553612+00:00",
   "funn": [
+    {
+      "tittel": "Nye boosterpakker med 30 års jubileum Pokemon (Gratis frakt)",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480504851",
+      "funnet": "2026-11-08T09:12:15.551797+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Drifloon 136/128 – IR Illustration Rare – 30th Anniversary",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T22:08:17.250202+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480494190",
-      "funnet": "2026-11-07T22:08:16.372849+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
