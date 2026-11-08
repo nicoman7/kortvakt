@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T09:20:30.994044+00:00",
+  "sist_sjekket": "2026-11-08T09:22:16.744271+00:00",
   "funn": [
+    {
+      "tittel": "Superior Energy Retrieval 277/193 - Pokemon Paldea Evolved",
+      "pris": 65,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480505650",
+      "funnet": "2026-11-08T09:22:16.742855+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mystery Garden (KR) 086/063 - Pokemon Mega Symphonia",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T22:16:18.155270+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
-      "funnet": "2026-11-07T22:16:17.362217+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
