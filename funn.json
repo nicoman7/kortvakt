@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T19:00:58.672997+00:00",
+  "sist_sjekket": "2026-11-08T19:02:16.452107+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
+      "funnet": "2026-11-08T19:02:16.450500+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Sun & Moon",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480563416",
       "funnet": "2026-11-08T17:32:17.066523+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jamie Vardy Leicester auto fotballkort - Panini Select Premier League 2024/25",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480564287",
-      "funnet": "2026-11-08T17:32:16.606651+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
