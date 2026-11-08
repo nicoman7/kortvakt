@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-08T08:32:14.477717+00:00",
+  "sist_sjekket": "2026-11-08T08:34:16.754353+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480502495",
+      "funnet": "2026-11-08T08:34:16.752591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Digimon kort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480502575",
+      "funnet": "2026-11-08T08:34:16.020766+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort fra 2022-2025",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480502345",
+      "funnet": "2026-11-08T08:34:15.679174+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Diverse hits og promos",
       "pris": 1000,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480492887",
       "funnet": "2026-11-07T21:36:16.211781+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Magnemite 76/144 Skyridge",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480492827",
-      "funnet": "2026-11-07T21:34:15.022980+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Krabby 115/165 Expedition",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480492740",
-      "funnet": "2026-11-07T21:30:43.635230+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Goldeen 55/109",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480492676",
-      "funnet": "2026-11-07T21:30:43.222922+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
