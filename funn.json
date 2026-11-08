@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T09:18:16.205658+00:00",
+  "sist_sjekket": "2026-11-08T09:20:30.994044+00:00",
   "funn": [
+    {
+      "tittel": "Mystery Garden (KR) 086/063 - Pokemon Mega Symphonia",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480505431",
+      "funnet": "2026-11-08T09:20:30.992832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bianca’s Devotion 197/162 - Pokemon Temporal Forces",
       "pris": 59,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-07T22:16:17.362217+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480037320",
-      "funnet": "2026-11-07T22:14:16.943941+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
