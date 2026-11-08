@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-08T12:36:15.213685+00:00",
+  "sist_sjekket": "2026-11-08T12:38:17.129032+00:00",
   "funn": [
+    {
+      "tittel": "Psa gradert kort diverse mix",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480528288",
+      "funnet": "2026-11-08T12:38:17.127628+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON - PIKACHU (MAGMA & AQUA)",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480529253",
+      "funnet": "2026-11-08T12:38:16.562739+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Vmax",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480528920",
+      "funnet": "2026-11-08T12:38:16.014287+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480529660",
+      "funnet": "2026-11-08T12:38:15.413472+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Charizard X",
       "pris": 200,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-08T10:38:16.899840+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "12 Stk. norske Telekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480512553",
-      "funnet": "2026-11-08T10:36:15.423205+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mabosstiff ex - 086 promo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480513163",
-      "funnet": "2026-11-08T10:36:14.853350+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Surfing Beach 114/086 Pokemon chaos rising",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480513285",
-      "funnet": "2026-11-08T10:36:14.623747+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Forretress ex - 005/193 paldea evolved pokemon",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480512928",
-      "funnet": "2026-11-08T10:34:17.852051+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
