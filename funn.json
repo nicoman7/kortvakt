@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T14:20:29.545019+00:00",
+  "sist_sjekket": "2026-11-08T14:22:14.398173+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
+      "funnet": "2026-11-08T14:22:14.396602+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Umbreon holografisk samlekort 0608/15",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480193467",
       "funnet": "2026-11-08T11:58:15.028265+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon delta reign etb",
-      "pris": 1299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480493303",
-      "funnet": "2026-11-08T11:52:16.839919+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
