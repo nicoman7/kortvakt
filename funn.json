@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T13:52:19.203177+00:00",
+  "sist_sjekket": "2026-11-08T13:54:16.595543+00:00",
   "funn": [
+    {
+      "tittel": "Warped Crusaders 1st Edition Akora-kortpakke",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480158126",
+      "funnet": "2026-11-08T13:54:16.593802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Jolteon V SWSH183 holografisk samlekort",
       "pris": 850,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T11:12:15.247292+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
-      "funnet": "2026-11-08T11:12:14.895781+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
