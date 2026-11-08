@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T20:38:18.414403+00:00",
+  "sist_sjekket": "2026-11-08T20:40:30.314220+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 710,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480581908",
+      "funnet": "2026-11-08T20:40:30.312505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Rare Candy Reverse Energy Holo 191/198 fra Scarlet & Violet (SV1 EN)",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
       "funnet": "2026-11-08T18:38:15.469195+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mye forskjellig gradert pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480569316",
-      "funnet": "2026-11-08T18:34:16.785168+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
