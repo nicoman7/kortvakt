@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-08T21:08:17.549359+00:00",
+  "sist_sjekket": "2026-11-08T21:10:27.403513+00:00",
   "funn": [
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 98,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-11-08T21:10:27.401901+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega dream ex samling",
       "pris": 280,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T18:48:16.997733+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STRAY KIDS KORT",
-      "pris": 43,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480571587",
-      "funnet": "2026-11-08T18:48:16.363400+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
