@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T22:38:15.374896+00:00",
+  "sist_sjekket": "2026-11-08T22:40:27.924988+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mew kinesisk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480587955",
+      "funnet": "2026-11-08T22:40:27.923303+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Pokemonkort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480587522",
+      "funnet": "2026-11-08T22:40:27.546012+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "White Flare Single Pokemon kort salg",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480574359",
       "funnet": "2026-11-08T19:18:16.683190+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte kort fra brilliant stars selges pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480574233",
-      "funnet": "2026-11-08T19:18:15.818359+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Hits",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480573119",
-      "funnet": "2026-11-08T19:16:15.107640+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
