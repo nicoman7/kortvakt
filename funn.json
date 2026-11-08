@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-08T08:56:15.319756+00:00",
+  "sist_sjekket": "2026-11-08T08:58:18.029836+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480503381",
+      "funnet": "2026-11-08T08:58:18.028865+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Palossand ex 221/191 – UR Ultra Rare – Surging Sparks",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480503851",
+      "funnet": "2026-11-08T08:58:17.289987+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Gallade ex 048/086 – Double Rare – Chaos Rising",
       "pris": 50,
@@ -1182,22 +1198,6 @@
       "pris": 1900,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480493739",
       "funnet": "2026-11-07T22:00:53.752148+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "30th  anniversary Pikachu",
-      "pris": 410,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480493451",
-      "funnet": "2026-11-07T21:54:16.532448+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu japansk",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480493589",
-      "funnet": "2026-11-07T21:50:25.795926+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
