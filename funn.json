@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T23:06:14.936086+00:00",
+  "sist_sjekket": "2026-11-09T23:08:16.713726+00:00",
   "funn": [
+    {
+      "tittel": "Kort fantomet",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480659826",
+      "funnet": "2026-11-09T23:08:16.712416+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "BILLIG! Topps Finest UCC 25/26 Auto Lot – Balogun, Beraldo & Openda (Base Autos)",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 1220,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480653940",
       "funnet": "2026-11-09T20:54:18.038883+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 030/128 30th Celebration",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480517975",
-      "funnet": "2026-11-09T20:54:17.177436+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
