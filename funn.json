@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T10:26:15.336153+00:00",
+  "sist_sjekket": "2026-11-09T10:28:15.848219+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Perm",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480598229",
+      "funnet": "2026-11-09T10:28:15.846534+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Raticate #20 – Pokémon Topps",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T21:12:17.523862+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "434 spennende og verdifulle POKÉMON-KORT",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480374625",
-      "funnet": "2026-11-08T21:12:17.161550+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
