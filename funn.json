@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T13:40:32.531924+00:00",
+  "sist_sjekket": "2026-11-09T13:42:16.575262+00:00",
   "funn": [
+    {
+      "tittel": "pokemon cards Eevee and the evolutions",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480617579",
+      "funnet": "2026-11-09T13:42:16.573909+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard Holo TG03/TG30 Lost Origin",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480603596",
       "funnet": "2026-11-09T10:40:29.191877+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perm",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480598229",
-      "funnet": "2026-11-09T10:28:15.846534+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
