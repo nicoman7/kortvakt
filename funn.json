@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T00:32:14.326004+00:00",
+  "sist_sjekket": "2026-11-09T00:34:17.448693+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480144531",
+      "funnet": "2026-11-09T00:34:17.447006+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort STOR SALG – Messi, autografer, RC og nummererte kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 599,
       "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
       "funnet": "2026-11-08T20:02:16.630149+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Heritage Jacksonville Jaguars",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480577811",
-      "funnet": "2026-11-08T20:00:55.876909+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
