@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T10:24:16.135699+00:00",
+  "sist_sjekket": "2026-11-09T10:26:15.336153+00:00",
   "funn": [
+    {
+      "tittel": "Raticate #20 – Pokémon Topps",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480602507",
+      "funnet": "2026-11-09T10:26:15.334561+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kakuna #14 – Pokémon Topps",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480602612",
+      "funnet": "2026-11-09T10:26:15.062228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "The Stairwell – Pokémon Topps – Mewtwo Strikes Back",
       "pris": 35,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-08T21:12:17.161550+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
-      "pris": 98,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-11-08T21:10:27.401901+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega dream ex samling",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480582263",
-      "funnet": "2026-11-08T21:08:17.547829+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
