@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T15:01:11.777463+00:00",
+  "sist_sjekket": "2026-11-09T15:02:15.314731+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
+      "funnet": "2026-11-09T15:02:15.313494+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Garchomp Ex #219 - Pokemon Paradox Rift",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-09T12:36:17.454677+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
-      "funnet": "2026-11-09T12:36:17.051608+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
