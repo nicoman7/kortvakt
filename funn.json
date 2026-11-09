@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T08:40:25.104426+00:00",
+  "sist_sjekket": "2026-11-09T08:42:15.427027+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480595531",
+      "funnet": "2026-11-09T08:42:15.425739+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 275,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/383250852",
       "funnet": "2026-11-08T20:32:15.460360+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "DAKA Ronaldinho FC Barcelona fotballkort 37/99 med kortholder",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480581112",
-      "funnet": "2026-11-08T20:30:44.463118+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
