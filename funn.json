@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:34:15.558421+00:00",
+  "sist_sjekket": "2026-11-09T14:36:19.460318+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480623441",
+      "funnet": "2026-11-09T14:36:19.458846+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
       "pris": 98,
@@ -1190,14 +1198,6 @@
       "pris": 135,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480611336",
       "funnet": "2026-11-09T12:02:19.294556+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Patrik Schick – 2024-25 Topps Match Attax – Limited Edition (Bayer Leverkusen)",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480609696",
-      "funnet": "2026-11-09T12:02:19.016531+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
