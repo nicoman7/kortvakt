@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T21:10:27.500058+00:00",
+  "sist_sjekket": "2026-11-09T21:12:19.967665+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokemon samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480654928",
+      "funnet": "2026-11-09T21:12:19.966141+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Willian og Pio Esposito fotballkort",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480646120",
       "funnet": "2026-11-09T19:42:16.852054+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Genesect EX 11/101samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480647888",
-      "funnet": "2026-11-09T19:40:30.516826+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
