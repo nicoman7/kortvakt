@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T07:01:00.130147+00:00",
+  "sist_sjekket": "2026-11-09T07:02:14.073858+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
+      "funnet": "2026-11-09T07:02:14.072370+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🧸30th Pikachu Ex 109  (UPC Night Promo)",
       "pris": 698,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-08T20:14:18.083876+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax VMAX 070/060 2019 pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480579275",
-      "funnet": "2026-11-08T20:12:14.109141+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
