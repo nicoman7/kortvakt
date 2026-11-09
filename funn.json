@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T10:56:15.730050+00:00",
+  "sist_sjekket": "2026-11-09T10:58:17.252875+00:00",
   "funn": [
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 98,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-11-09T10:58:17.251373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kadabra #64 – Pokémon Topps TV Animation – 1999",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T21:40:28.943690+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega darkrai ex - 120/084 Gold Hyper Rare",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480585507",
-      "funnet": "2026-11-08T21:38:19.178636+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
