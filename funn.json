@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:42:15.952231+00:00",
+  "sist_sjekket": "2026-11-09T14:44:18.826774+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
+      "funnet": "2026-11-09T14:44:18.825093+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu nr 7",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480609745",
       "funnet": "2026-11-09T12:04:17.873688+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Virgil van Dijk – 2024-25 Topps Match Attax – 100 Club (Liverpool FC)",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480609780",
-      "funnet": "2026-11-09T12:04:17.163472+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
