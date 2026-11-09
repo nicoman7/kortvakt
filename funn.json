@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T15:04:16.800908+00:00",
+  "sist_sjekket": "2026-11-09T15:06:19.432338+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480625231",
+      "funnet": "2026-11-09T15:06:19.430631+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
+      "funnet": "2026-11-09T15:06:18.508042+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Pokemon Japanese 30th Celebration Holo Gengar #150 CGC 10 GEM MINT",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480613488",
       "funnet": "2026-11-09T12:38:15.043821+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Cassiopeia japansk Night Wanderer",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480613323",
-      "funnet": "2026-11-09T12:36:19.180264+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kylian Mbappe Real Madrid fotballkort - Topps Chrome UCC wave refractor 2024/25",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480613496",
-      "funnet": "2026-11-09T12:36:18.271693+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
