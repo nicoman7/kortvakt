@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T16:54:19.140708+00:00",
+  "sist_sjekket": "2026-11-09T16:56:16.168604+00:00",
   "funn": [
+    {
+      "tittel": "Selger deler av Pokemon samling!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480633973",
+      "funnet": "2026-11-09T16:56:16.167242+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Boris Vallejo Series 1 – Komplett 90 kort – 1991 – Fantasy Art – Marvel Artist",
       "pris": 699,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480158126",
       "funnet": "2026-11-09T14:02:17.570611+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon clefairy 094 clefairy psa 10",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480620943",
-      "funnet": "2026-11-09T14:01:04.300331+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
