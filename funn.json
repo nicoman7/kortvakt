@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T08:28:15.034349+00:00",
+  "sist_sjekket": "2026-11-09T08:30:47.902701+00:00",
   "funn": [
+    {
+      "tittel": "Blandet Pokémon hit cards! Pikachu 30th celebration.",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480594649",
+      "funnet": "2026-11-09T08:30:47.901051+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Mystery Packs – Årets julegave! Autograf, RC – kun 5 igjen!",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T20:28:22.959721+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th  | Classic Collection Pack | Fra UPC",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480580726",
-      "funnet": "2026-11-08T20:28:22.126587+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
