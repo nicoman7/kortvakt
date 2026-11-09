@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T19:01:02.757245+00:00",
+  "sist_sjekket": "2026-11-09T19:02:17.964309+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Umbreon-kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480644678",
+      "funnet": "2026-11-09T19:02:17.962985+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-09T19:02:17.331665+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon First Partner Collection Series 2",
       "pris": 549,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480634446",
       "funnet": "2026-11-09T17:01:05.088252+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Delta Reign single kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480614201",
-      "funnet": "2026-11-09T16:58:17.306583+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger deler av Pokemon samling!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480633973",
-      "funnet": "2026-11-09T16:56:16.167242+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
