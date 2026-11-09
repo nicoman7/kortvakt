@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T10:58:17.252875+00:00",
+  "sist_sjekket": "2026-11-09T11:00:58.902509+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th tin",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480605200",
+      "funnet": "2026-11-09T11:00:58.901273+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
       "pris": 98,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T21:40:29.811742+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR Pokémon-samling! 1000+ kort fra 1999 – Vintage, EX/GX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479343956",
-      "funnet": "2026-11-08T21:40:28.943690+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
