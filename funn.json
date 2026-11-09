@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:01:04.301772+00:00",
+  "sist_sjekket": "2026-11-09T14:02:17.572117+00:00",
   "funn": [
+    {
+      "tittel": "Warped Crusaders 1st Edition Akora-kortpakke",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480158126",
+      "funnet": "2026-11-09T14:02:17.570611+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon clefairy 094 clefairy psa 10",
       "pris": 1100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-09T11:10:27.895345+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon destined rivals ETB",
-      "pris": 1599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480605538",
-      "funnet": "2026-11-09T11:08:20.195180+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
