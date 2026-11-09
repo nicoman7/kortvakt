@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:46:19.544531+00:00",
+  "sist_sjekket": "2026-11-09T14:48:18.474249+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 13",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480624628",
+      "funnet": "2026-11-09T14:48:18.472705+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 14",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480610802",
       "funnet": "2026-11-09T12:06:16.447795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon beedrill EX fire red & leaf green",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480610482",
-      "funnet": "2026-11-09T12:04:18.710162+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
