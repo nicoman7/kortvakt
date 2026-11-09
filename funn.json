@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T14:38:15.271920+00:00",
+  "sist_sjekket": "2026-11-09T14:40:30.581392+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 20",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480623952",
+      "funnet": "2026-11-09T14:40:30.579804+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "N’s plan pokemonkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480624164",
+      "funnet": "2026-11-09T14:40:30.217535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Unown Holo Rare",
       "pris": 199,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480610463",
       "funnet": "2026-11-09T12:04:16.482770+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Alejandro Grimaldo – 2024-25 Topps Match Attax – 100 Club (Bayer Leverkusen)",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480609720",
-      "funnet": "2026-11-09T12:04:15.819386+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Enzo Fernández – 2024-25 Topps Match Attax – Limited Edition LE8 (Chelsea)",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480609670",
-      "funnet": "2026-11-09T12:02:19.536215+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
