@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T08:30:47.902701+00:00",
+  "sist_sjekket": "2026-11-09T08:32:16.975850+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 275,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480594922",
+      "funnet": "2026-11-09T08:32:16.973988+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Blandet Pokémon hit cards! Pikachu 30th celebration.",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-08T20:30:44.463118+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto 30th celebration promo/pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480580464",
-      "funnet": "2026-11-08T20:28:22.959721+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
