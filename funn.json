@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-09T15:34:16.387078+00:00",
+  "sist_sjekket": "2026-11-09T15:36:18.854329+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Vulpix #23 (Gratis Frakt)",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480628204",
+      "funnet": "2026-11-09T15:36:18.852786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Dedenne pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480628259",
+      "funnet": "2026-11-09T15:36:18.487379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Simplicidad Simplicity 2026 Joao Palhinha Tottenham Spurs",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480628312",
+      "funnet": "2026-11-09T15:36:18.122694+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magneton H16/H32 Aquapolis Holo Pokemonkort - Pent",
       "pris": 700,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-09T12:46:14.328069+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Charizard Celebrations classic collection",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480614000",
-      "funnet": "2026-11-09T12:44:15.780539+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Air Balloon 213/202 – Gold Secret Rare Sword & Shield – Pokémon TCG",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480614009",
-      "funnet": "2026-11-09T12:44:15.048213+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Quick Ball 216/202 – Gold Secret Rare Sword & Shield – Pokémon TCG",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480613833",
-      "funnet": "2026-11-09T12:42:18.234583+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
