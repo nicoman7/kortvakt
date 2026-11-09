@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-09T20:06:16.631026+00:00",
+  "sist_sjekket": "2026-11-09T20:08:21.693279+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480650360",
+      "funnet": "2026-11-09T20:08:21.691703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu 028/128 – 30th Celebration – 06/30 Holo",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480650404",
+      "funnet": "2026-11-09T20:08:20.928172+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "PSG Lot med kort fra Topps Chrome og finest",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480650240",
+      "funnet": "2026-11-09T20:08:20.156267+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Flareon V, Dragonite V og Mega Gengar ex",
       "pris": 1800,
@@ -1174,30 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480638171",
       "funnet": "2026-11-09T17:44:17.586336+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – 12 samlekort, blant annet EX og holo",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480637745",
-      "funnet": "2026-11-09T17:42:17.189446+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Classic collection pokemon kort 30th",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480637314",
-      "funnet": "2026-11-09T17:42:16.401115+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "6 stk Bomb token promo foil Riftbound samlekort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480637378",
-      "funnet": "2026-11-09T17:38:19.199903+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
