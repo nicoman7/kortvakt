@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T07:26:16.541547+00:00",
+  "sist_sjekket": "2026-11-09T07:28:15.058702+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Energi kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480592343",
+      "funnet": "2026-11-09T07:28:15.057463+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu 115/114",
       "pris": 1200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480579634",
       "funnet": "2026-11-08T20:16:20.802115+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort (reservert)",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480579691",
-      "funnet": "2026-11-08T20:16:20.530359+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
