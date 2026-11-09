@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T13:18:17.920416+00:00",
+  "sist_sjekket": "2026-11-09T13:20:26.589167+00:00",
   "funn": [
+    {
+      "tittel": "Mummi samlerkort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480617025",
+      "funnet": "2026-11-09T13:20:26.587373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu EX - 30C 053/128",
       "pris": 15,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480599547",
       "funnet": "2026-11-09T09:50:27.164113+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mtgperm#7 Magic the Gathering kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480599297",
-      "funnet": "2026-11-09T09:46:16.058771+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
