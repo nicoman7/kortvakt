@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:48:18.474249+00:00",
+  "sist_sjekket": "2026-11-09T14:50:29.966918+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480622717",
+      "funnet": "2026-11-09T14:50:29.965199+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 13",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 139,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480609798",
       "funnet": "2026-11-09T12:06:17.180377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon phanpy 1st edition neo genesis",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480610802",
-      "funnet": "2026-11-09T12:06:16.447795+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
