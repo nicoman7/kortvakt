@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-09T12:44:15.781761+00:00",
+  "sist_sjekket": "2026-11-09T12:46:14.870743+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Venusaur celebrations classic collection",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480614203",
+      "funnet": "2026-11-09T12:46:14.869220+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon card Great Tusk pokeball #055",
+      "pris": 6,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480614226",
+      "funnet": "2026-11-09T12:46:14.580988+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "434 spennende og verdifulle POKÉMON-KORT",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480374625",
+      "funnet": "2026-11-09T12:46:14.328069+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Charizard Celebrations classic collection",
       "pris": 1100,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-09T07:10:29.076769+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu at the Museum Promo kort. UK exclusive!",
-      "pris": 599,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480589312",
-      "funnet": "2026-11-09T07:04:17.248119+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480591592",
-      "funnet": "2026-11-09T07:04:16.522219+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
-      "funnet": "2026-11-09T07:02:14.072370+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
