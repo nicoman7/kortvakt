@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T21:01:03.397367+00:00",
+  "sist_sjekket": "2026-11-09T21:02:18.922633+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling av kort og samlekort selges billig",
+      "pris": 555,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/272536836",
+      "funnet": "2026-11-09T21:02:18.921064+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort premium pro",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480654548",
+      "funnet": "2026-11-09T21:02:18.139931+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "flagship 2027 rookie Fotballkort",
       "pris": 80,
@@ -1182,22 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480647083",
       "funnet": "2026-11-09T19:30:48.511821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Diverse kort - Hidden Legends (25kr pr kort)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480645911",
-      "funnet": "2026-11-09T19:30:47.634693+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Dragonite ex 271/217 samlekort",
-      "pris": 210,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480646862",
-      "funnet": "2026-11-09T19:28:17.204459+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
