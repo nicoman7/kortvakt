@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-09T12:24:18.004007+00:00",
+  "sist_sjekket": "2026-11-09T12:26:17.126281+00:00",
   "funn": [
+    {
+      "tittel": "TOMME pokemontins",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480612480",
+      "funnet": "2026-11-09T12:26:17.124513+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration gen 5 Starters",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480612536",
+      "funnet": "2026-11-09T12:26:16.821374+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Froslass (secret) evolving skies",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480612466",
+      "funnet": "2026-11-09T12:26:16.540567+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480612245",
+      "funnet": "2026-11-09T12:26:15.883814+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu ex",
       "pris": 950,
@@ -1166,38 +1198,6 @@
       "pris": 220,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480589256",
       "funnet": "2026-11-08T23:52:16.252064+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tentacruel [1st Edition] #44 Pokemon Fossil",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480589121",
-      "funnet": "2026-11-08T23:42:17.363812+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dark Machamp #27 Pokemon Team Rocket",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480589104",
-      "funnet": "2026-11-08T23:40:25.079314+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Koga's Beedrill #15 Pokemon Japanese Challenge from the Darkness",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480589093",
-      "funnet": "2026-11-08T23:38:15.920113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Koga's Muk #89 Pokemon Japanese Challenge from the Darkness",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480589054",
-      "funnet": "2026-11-08T23:36:14.805007+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
