@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-09T17:12:18.925814+00:00",
+  "sist_sjekket": "2026-11-09T17:14:16.710823+00:00",
   "funn": [
+    {
+      "tittel": "Trumbeak Pokémon-kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480635594",
+      "funnet": "2026-11-09T17:14:16.709292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2 stk Bushwhack trap rare Riftbound samlekort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480635521",
+      "funnet": "2026-11-09T17:14:16.324975+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mordekaiser rare Riftbound samlekort",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-09T14:48:18.472705+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu nr 14",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480624449",
-      "funnet": "2026-11-09T14:46:19.542665+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480142946",
-      "funnet": "2026-11-09T14:44:18.825093+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
