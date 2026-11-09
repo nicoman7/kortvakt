@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:40:30.581392+00:00",
+  "sist_sjekket": "2026-11-09T14:42:15.952231+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 7",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480624208",
+      "funnet": "2026-11-09T14:42:15.950996+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 20",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480609780",
       "funnet": "2026-11-09T12:04:17.163472+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Charizard",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480610463",
-      "funnet": "2026-11-09T12:04:16.482770+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
