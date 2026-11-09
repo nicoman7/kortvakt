@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-09T14:02:17.572117+00:00",
+  "sist_sjekket": "2026-11-09T14:04:17.454699+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon blastoise 151 PSA 9",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480621279",
+      "funnet": "2026-11-09T14:04:17.452774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Warped Crusaders 1st Edition Akora-kortpakke",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-09T11:10:28.647806+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon 30th celebration booster bundle",
-      "pris": 780,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480605889",
-      "funnet": "2026-11-09T11:10:27.895345+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
