@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T12:50:25.637262+00:00",
+  "sist_sjekket": "2026-11-10T12:52:16.990805+00:00",
   "funn": [
+    {
+      "tittel": "Stor samling japanske sjeldne Pokémon kort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480685705",
+      "funnet": "2026-11-10T12:52:16.989213+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Yasin Ayari Signert Fotballkort Topps",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-10T04:48:16.348500+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort STOR SALG – Messi, autografer, RC og nummererte kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480364146",
-      "funnet": "2026-11-10T04:36:16.617752+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
