@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T15:02:16.928277+00:00",
+  "sist_sjekket": "2026-11-10T15:04:19.091961+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696499",
+      "funnet": "2026-11-10T15:04:19.090333+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marshadow & Machamp-GX #82/214 - Pokemon Kort",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696562",
+      "funnet": "2026-11-10T15:04:18.174072+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Muk & Alolan Muk-GX #61/214 - Pokemon Kort",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-10T10:34:16.326380+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu #27 WOTC PROMO",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480673317",
-      "funnet": "2026-11-10T10:28:15.762073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort , bulk",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480673960",
-      "funnet": "2026-11-10T10:28:15.433112+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
