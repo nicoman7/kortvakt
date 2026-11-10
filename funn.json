@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T10:52:15.870466+00:00",
+  "sist_sjekket": "2026-11-10T10:54:16.435889+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Holo",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480676083",
+      "funnet": "2026-11-10T10:54:16.434659+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort selges (GRATIS FRAKT*)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480675576",
+      "funnet": "2026-11-10T10:54:15.710897+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Sword & Shield Battle Styles Build & Battle Kortspill",
       "pris": 800,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-09T22:30:46.705159+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "The Nefarious Team Rocket – Pokémon Topps – 1999",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480658736",
-      "funnet": "2026-11-09T22:28:18.860547+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Donphan – Pokémon Topps – 1999",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480658783",
-      "funnet": "2026-11-09T22:28:18.140318+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
