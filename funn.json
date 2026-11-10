@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T19:42:19.121899+00:00",
+  "sist_sjekket": "2026-11-10T19:44:16.044767+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Hitmonchan 69/105",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480717297",
+      "funnet": "2026-11-10T19:44:16.043103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Sabrina’s Haunter 58/133",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-10T17:56:17.439848+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Ninetales 25/147 – Aquapolis 2003 – Vintage Pokémon Rare",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480708882",
-      "funnet": "2026-11-10T17:56:17.151000+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
