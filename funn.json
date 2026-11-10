@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-10T13:20:36.984082+00:00",
+  "sist_sjekket": "2026-11-10T13:24:01.715685+00:00",
   "funn": [
+    {
+      "tittel": "Eevee #116 Promo - Cosmos Holo - Pokemon 30th Celebration",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480687894",
+      "funnet": "2026-11-10T13:24:01.714230+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Misty's Psyduck 193/182 Illustration Rare – Destined Rivals",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480688280",
+      "funnet": "2026-11-10T13:24:00.920643+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Scizor-kort H21/H32",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480688284",
+      "funnet": "2026-11-10T13:24:00.118859+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Mystery Pack #6 – Årets julegave! Autograf, RC, Yamal RC og Messi",
       "pris": 600,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-10T08:30:45.721161+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Komplett Engelsk 30th Pikachu Set",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480666198",
-      "funnet": "2026-11-10T08:28:19.146589+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG MewPokémonkort",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480665991",
-      "funnet": "2026-11-10T08:26:17.715832+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Base Set Energy",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480666002",
-      "funnet": "2026-11-10T08:26:17.362559+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
