@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T16:18:19.798143+00:00",
+  "sist_sjekket": "2026-11-10T16:20:32.474677+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480700309",
+      "funnet": "2026-11-10T16:20:32.472688+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-10T16:20:32.166345+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Flygon EX [Holo] 94/108 - Pokemon Power Keepers",
       "pris": 529,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-10T12:56:17.040874+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett 30th promo og pikachu i binder",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480684869",
-      "funnet": "2026-11-10T12:54:15.076237+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling japanske sjeldne Pokémon kort",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480685705",
-      "funnet": "2026-11-10T12:52:16.989213+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
