@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T05:48:15.060158+00:00",
+  "sist_sjekket": "2026-11-10T05:50:28.207395+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Pokémon 051/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480662180",
+      "funnet": "2026-11-10T05:50:28.205538+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gimmighoul Pokémon-kort 081/128",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480655464",
       "funnet": "2026-11-09T21:14:21.256130+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon samling",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480654928",
-      "funnet": "2026-11-09T21:12:19.966141+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
