@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T23:50:25.502874+00:00",
+  "sist_sjekket": "2026-11-10T23:52:16.772043+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480728380",
+      "funnet": "2026-11-10T23:52:16.770405+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480728391",
+      "funnet": "2026-11-10T23:52:16.125392+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚡ Selger Pikachu 30th Anniversary-kort – 01/30 til 30/30! ⚡",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 318,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480714625",
       "funnet": "2026-11-10T19:10:25.690212+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemonkort selges billig!!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
-      "funnet": "2026-11-10T19:10:25.425561+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Corviknight V CGC Pristine 10 – VMAX Climax 248/184 – japansk Pokémon-kort",
-      "pris": 344,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480714480",
-      "funnet": "2026-11-10T19:08:15.902567+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
