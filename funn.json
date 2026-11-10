@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T20:48:18.390668+00:00",
+  "sist_sjekket": "2026-11-10T20:50:25.856229+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort; Archaludon 107/142",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480722074",
+      "funnet": "2026-11-10T20:50:25.855024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-10T20:50:25.534618+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort; Yveltal 088/132",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480711460",
       "funnet": "2026-11-10T18:30:49.940039+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA WORLD CUP KORT - GOLDEN BALLER - 100,- pr stk",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480711407",
-      "funnet": "2026-11-10T18:30:49.567528+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Maren Mjelde fotballkort Norge",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480711469",
-      "funnet": "2026-11-10T18:30:49.212381+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
