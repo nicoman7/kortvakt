@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T19:52:15.885755+00:00",
+  "sist_sjekket": "2026-11-10T19:54:16.604768+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort reservert til Vibeke",
+      "pris": 926,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480717911",
+      "funnet": "2026-11-10T19:54:16.603109+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Trainer Rare Candy 88/100 Sandstorm",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480709264",
       "funnet": "2026-11-10T18:02:19.887193+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kortperm med Charizard-motiv",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480707675",
-      "funnet": "2026-11-10T18:01:01.976968+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
