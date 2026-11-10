@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T11:30:43.471401+00:00",
+  "sist_sjekket": "2026-11-10T11:32:18.960524+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480678755",
+      "funnet": "2026-11-10T11:32:18.958710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Storm Emeralda - Booster Box (Gratis frakt)",
       "pris": 1199,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480608439",
       "funnet": "2026-11-09T22:34:21.730820+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "The Stairwell – Pokémon Topps – 1999",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480658992",
-      "funnet": "2026-11-09T22:34:21.373774+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
