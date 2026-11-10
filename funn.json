@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T18:50:29.367253+00:00",
+  "sist_sjekket": "2026-11-10T18:52:15.767281+00:00",
   "funn": [
+    {
+      "tittel": "pokemon pakke selges billig!",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480712741",
+      "funnet": "2026-11-10T18:52:15.765802+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon-kort, flere kule hits!",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480703353",
       "funnet": "2026-11-10T16:44:23.762571+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard V, PSA 9",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480703126",
-      "funnet": "2026-11-10T16:44:23.484665+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
