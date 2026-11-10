@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T19:34:26.013515+00:00",
+  "sist_sjekket": "2026-11-10T19:36:15.987916+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega-Rayquaza-EX samlekort",
+      "pris": 549,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480716578",
+      "funnet": "2026-11-10T19:36:15.986039+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lugina Pokémonkort + Pikachu kortmappe",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-10T17:52:15.980840+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jackass samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480708338",
-      "funnet": "2026-11-10T17:52:15.381274+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
