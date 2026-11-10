@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T21:40:28.276332+00:00",
+  "sist_sjekket": "2026-11-10T21:42:16.421557+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
+      "funnet": "2026-11-10T21:42:16.419882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dark Dragonite 15/109 non-holo rare",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480712931",
       "funnet": "2026-11-10T18:54:19.106776+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Charizard ex",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480713278",
-      "funnet": "2026-11-10T18:54:18.283927+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
