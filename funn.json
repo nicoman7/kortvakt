@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T09:01:00.169842+00:00",
+  "sist_sjekket": "2026-11-10T09:02:16.125516+00:00",
   "funn": [
+    {
+      "tittel": "Pele fotballkort, 22 forskjellige, fra 50kr per stk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/333400595",
+      "funnet": "2026-11-10T09:02:16.123700+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Manchester United samling fotballkort 109 stk fra 1998-2019",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/409876135",
       "funnet": "2026-11-09T22:00:54.622865+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Tentacool [1st Edition] #56 Pokemon Fossil",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480657576",
-      "funnet": "2026-11-09T21:58:17.943232+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
