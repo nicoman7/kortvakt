@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T14:32:15.400370+00:00",
+  "sist_sjekket": "2026-11-10T14:34:21.781885+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480694341",
+      "funnet": "2026-11-10T14:34:21.780360+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Altaria Holo 2003 – EX Dragon – Vintage Pokémon-kort",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-11-10T10:00:55.653654+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wisdom Mike (Bayern München) - Topps Stadium Club Chrome 2025/26",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480671861",
-      "funnet": "2026-11-10T09:58:21.693689+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
