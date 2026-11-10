@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T11:36:17.194451+00:00",
+  "sist_sjekket": "2026-11-10T11:38:17.761177+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-10T11:38:17.759195+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Max Dowman – Arsenal RC / Rookie Cards – 7 kort",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480659071",
       "funnet": "2026-11-09T22:38:18.508996+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Battle Before Lunch – Topps Mewtwo Strikes Back – 1999",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480659087",
-      "funnet": "2026-11-09T22:38:18.199600+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
