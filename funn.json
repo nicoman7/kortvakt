@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T18:30:49.941703+00:00",
+  "sist_sjekket": "2026-11-10T18:32:17.875406+00:00",
   "funn": [
+    {
+      "tittel": "Panini Premier League Adrenalyn XL 2024",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/441787060",
+      "funnet": "2026-11-10T18:32:17.873880+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Raichu LV.X holo",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471820679",
+      "funnet": "2026-11-10T18:32:17.105773+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort og 30-årsjubileumspakke Japanese",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/476830089",
       "funnet": "2026-11-10T16:24:20.752381+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemonkort selges billig!!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
-      "funnet": "2026-11-10T16:24:20.415620+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480700309",
-      "funnet": "2026-11-10T16:20:32.472688+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
