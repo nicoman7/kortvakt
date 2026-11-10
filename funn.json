@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T15:08:18.455029+00:00",
+  "sist_sjekket": "2026-11-10T15:10:33.874996+00:00",
   "funn": [
+    {
+      "tittel": "Mystery packs pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
+      "funnet": "2026-11-10T15:10:33.873324+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rowlet & Alolan Exeggutor-GX #1/236 - Pokemon Kort",
       "pris": 110,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480674998",
       "funnet": "2026-11-10T10:40:29.642643+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hitmonlee #42 Pokemon Neo Destiny",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480675061",
-      "funnet": "2026-11-10T10:40:28.822439+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
