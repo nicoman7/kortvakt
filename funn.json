@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T12:04:15.941665+00:00",
+  "sist_sjekket": "2026-11-10T12:06:15.241277+00:00",
   "funn": [
+    {
+      "tittel": "samlekort album 900 lommer, rødt, pokemonkort album",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480681885",
+      "funnet": "2026-11-10T12:06:15.239989+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Machamp [1st Edition] #8 Pokemon Base Set",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
       "funnet": "2026-11-09T23:54:18.233880+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Misty’s Psyduck 193/182 – Illustration Rare – Destined Rivals",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480660492",
-      "funnet": "2026-11-09T23:52:16.166918+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
