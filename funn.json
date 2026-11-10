@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T19:48:18.022411+00:00",
+  "sist_sjekket": "2026-11-10T19:50:28.119217+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort Trainer Rare Candy 88/100 Sandstorm",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480717767",
+      "funnet": "2026-11-10T19:50:28.117545+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon hits. Gradert og NM/M",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480468415",
+      "funnet": "2026-11-10T19:50:27.400197+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Kyogre & Groudon Legend samlekort",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-10T18:01:01.976968+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beedrill 5/144 – Skyridge 2003 – Rare Pokémon",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480709152",
-      "funnet": "2026-11-10T18:01:01.654876+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "BEN Alien Force samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480709101",
-      "funnet": "2026-11-10T18:01:01.103379+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
