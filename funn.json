@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-10T12:42:15.320782+00:00",
+  "sist_sjekket": "2026-11-10T12:44:18.840951+00:00",
   "funn": [
+    {
+      "tittel": "434 spennende og verdifulle POKÉMON-KORT",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480374625",
+      "funnet": "2026-11-10T12:44:18.839223+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mewtwo ex 134/103 - Pokemon 30th Celebration (JP)",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-10T03:14:17.308857+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⭐️Pokemon kortpakke i Mini Tin! Garantert EX + 30th Pikachu og sjanse for hits⭐️",
-      "pris": 159,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479362587",
-      "funnet": "2026-11-10T03:10:28.081661+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
