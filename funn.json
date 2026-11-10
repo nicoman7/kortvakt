@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-10T17:46:15.700989+00:00",
+  "sist_sjekket": "2026-11-10T17:48:19.658975+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon | 9 hits fra forskjellige sett",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479664357",
+      "funnet": "2026-11-10T17:48:19.657316+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Ninjago samle kort.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480705931",
+      "funnet": "2026-11-10T17:48:18.804529+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Rapid strike Urshifu Vmax TG21/TG/30 fra Pokemon brilliant stars",
+      "pris": 159,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480708084",
+      "funnet": "2026-11-10T17:48:17.883699+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Gallade ex samlekort",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480697047",
       "funnet": "2026-11-10T15:14:18.023590+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mystery packs pokemon",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479544681",
-      "funnet": "2026-11-10T15:10:33.873324+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rowlet & Alolan Exeggutor-GX #1/236 - Pokemon Kort",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480696904",
-      "funnet": "2026-11-10T15:08:18.453108+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Snorlax-GX #SM05 - Pokemon Kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480696727",
-      "funnet": "2026-11-10T15:06:17.970904+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
