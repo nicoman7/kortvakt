@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-10T10:46:14.216298+00:00",
+  "sist_sjekket": "2026-11-10T10:48:21.315214+00:00",
   "funn": [
+    {
+      "tittel": "Tilbud !! Pokemonkort til salgs",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480675649",
+      "funnet": "2026-11-10T10:48:21.313919+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Samlekort fra Premier League sesongen 96/97",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480352220",
+      "funnet": "2026-11-10T10:48:21.016619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mystery Packs ⚡ STD / MID / PREMIUM – Engelske kort",
       "pris": 45,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480658732",
       "funnet": "2026-11-09T22:28:17.829040+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Club Competitions Quim Junyent RC Auto Green Barcelona /99",
-      "pris": 185,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480658762",
-      "funnet": "2026-11-09T22:28:17.541778+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Marina in Chaos – Pokémon Topps – 1999",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480658802",
-      "funnet": "2026-11-09T22:28:17.159143+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
