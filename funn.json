@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T14:10:25.912974+00:00",
+  "sist_sjekket": "2026-11-11T14:12:20.995826+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480758552",
+      "funnet": "2026-11-11T14:12:20.994052+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kyogre EX Emerald 6/106",
       "pris": 1500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
       "funnet": "2026-11-11T08:20:27.746456+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lucky Roux OP09-015 [Treasure Rare] PSA9",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480731925",
-      "funnet": "2026-11-11T08:16:16.133406+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
