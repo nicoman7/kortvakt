@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T19:26:16.262018+00:00",
+  "sist_sjekket": "2026-11-11T19:28:20.093338+00:00",
   "funn": [
+    {
+      "tittel": "Panini FIFA World Cup-klistremerker 2026",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480707361",
+      "funnet": "2026-11-11T19:28:20.091895+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Milotic EX 217/191",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480782895",
+      "funnet": "2026-11-11T19:28:19.797323+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Drampa GX 142/145",
       "pris": 45,
@@ -1182,22 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
       "funnet": "2026-11-11T17:36:16.900841+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu ex",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480773557",
-      "funnet": "2026-11-11T17:34:19.963522+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Plusle Tag Draw Pokémonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480773368",
-      "funnet": "2026-11-11T17:32:17.890685+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
