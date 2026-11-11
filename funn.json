@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T17:00:54.380280+00:00",
+  "sist_sjekket": "2026-11-11T17:02:16.066834+00:00",
   "funn": [
+    {
+      "tittel": "Vintage fotballkort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/472375983",
+      "funnet": "2026-11-11T17:02:16.065042+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Darkrai EX samlekort",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480756917",
       "funnet": "2026-11-11T13:56:18.297177+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard Promo",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480757117",
-      "funnet": "2026-11-11T13:54:15.807256+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
