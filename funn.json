@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T12:00:54.839676+00:00",
+  "sist_sjekket": "2026-11-11T12:02:15.929332+00:00",
   "funn": [
+    {
+      "tittel": "Mangler du pichachu i samlingen ?",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480747602",
+      "funnet": "2026-11-11T12:02:15.927817+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arsenal lot – julekalender med 24 kort, Ødegaard, Saka og Rice",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 1400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480722366",
       "funnet": "2026-11-10T20:58:16.705076+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479866016",
-      "funnet": "2026-11-10T20:56:16.297215+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
