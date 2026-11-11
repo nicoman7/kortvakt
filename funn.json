@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T20:14:16.629418+00:00",
+  "sist_sjekket": "2026-11-11T20:16:17.935186+00:00",
   "funn": [
+    {
+      "tittel": "4 telekort fra Kina",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480786425",
+      "funnet": "2026-11-11T20:16:17.933708+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-11T20:16:17.099382+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Kabuto samlekort",
       "pris": 40,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479682118",
       "funnet": "2026-11-11T18:16:18.575406+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
-      "funnet": "2026-11-11T18:14:18.244984+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Radiant Charizard - Pokemon Go 9,5 CGC",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477748273",
-      "funnet": "2026-11-11T18:12:17.630650+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
