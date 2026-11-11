@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T14:48:27.270726+00:00",
+  "sist_sjekket": "2026-11-11T14:50:27.576748+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Stamped",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480761264",
+      "funnet": "2026-11-11T14:50:27.574885+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Kort Togepi & Cleffa & Igglybuff GX",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480761662",
+      "funnet": "2026-11-11T14:50:27.279946+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "26 pokémonkort fra base set: 7 rares, 14 uncommons, 5 commons",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480734612",
       "funnet": "2026-11-11T09:08:14.656407+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arcanine 2/147 – Aquapolis 2003 – Rare – Pokémon",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480734839",
-      "funnet": "2026-11-11T09:06:15.599354+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Typhlosion 64/165 – Expedition Base Set 2002 – Rare – Pokémon",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480734722",
-      "funnet": "2026-11-11T09:04:18.563013+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
