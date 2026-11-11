@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T13:30:43.054861+00:00",
+  "sist_sjekket": "2026-11-11T13:32:17.269663+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort",
+      "pris": 9,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480755255",
+      "funnet": "2026-11-11T13:32:17.268461+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON JULEKALENDER! 🎄 VELG MELLOM 5",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479789799",
+      "funnet": "2026-11-11T13:32:16.339459+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Masquerain Pokémon-kort",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480728548",
       "funnet": "2026-11-11T00:16:15.544995+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flesh and blood samlekort- spansk/engelsk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480728479",
-      "funnet": "2026-11-11T00:08:17.516642+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480728380",
-      "funnet": "2026-11-10T23:52:16.770405+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
