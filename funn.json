@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T13:12:14.581978+00:00",
+  "sist_sjekket": "2026-11-11T13:14:26.476238+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480737533",
+      "funnet": "2026-11-11T13:14:26.474752+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort samling",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 1099,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480727892",
       "funnet": "2026-11-10T23:14:18.025865+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Hits",
-      "pris": 1486,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480727043",
-      "funnet": "2026-11-10T23:04:16.615207+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
