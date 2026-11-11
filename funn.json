@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T18:12:17.632042+00:00",
+  "sist_sjekket": "2026-11-11T18:14:18.246646+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
+      "funnet": "2026-11-11T18:14:18.244984+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Radiant Charizard - Pokemon Go 9,5 CGC",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480651587",
       "funnet": "2026-11-11T16:14:23.288542+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Shaymin #185 Pokemon Destined Rivals",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480700153",
-      "funnet": "2026-11-11T16:12:19.397392+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
