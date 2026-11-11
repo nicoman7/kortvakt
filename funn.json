@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T07:14:18.625306+00:00",
+  "sist_sjekket": "2026-11-11T07:16:15.834207+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480729647",
+      "funnet": "2026-11-11T07:16:15.832881+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mega Darkrai ex samlekort",
       "pris": 950,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480714954",
       "funnet": "2026-11-10T19:14:18.150565+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "over 300 stk fotballkort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480609448",
-      "funnet": "2026-11-10T19:14:17.891318+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
