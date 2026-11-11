@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T23:22:16.467471+00:00",
+  "sist_sjekket": "2026-11-11T23:24:20.713823+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon pakke kalender",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480794632",
+      "funnet": "2026-11-11T23:24:20.712570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome NFL 2025 – Pittsburgh Steelers Samlekort-pakke!",
       "pris": 65,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480782078",
       "funnet": "2026-11-11T19:18:16.061363+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Aurorus #92",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480782002",
-      "funnet": "2026-11-11T19:18:15.737852+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
