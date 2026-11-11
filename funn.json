@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T14:40:25.869890+00:00",
+  "sist_sjekket": "2026-11-11T14:42:15.910437+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-11T14:42:15.908727+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Kort Solgaleo & Lunala GX",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480733838",
       "funnet": "2026-11-11T08:54:17.488113+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort fra 30th Celebration –  EX-kort selges",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480733751",
-      "funnet": "2026-11-11T08:54:16.646235+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
