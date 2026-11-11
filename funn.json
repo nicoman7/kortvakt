@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T00:36:16.363280+00:00",
+  "sist_sjekket": "2026-11-11T00:38:17.398246+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-11T00:38:17.396717+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémemon Perfect order 100% baseset + Endel Rares og Sir",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480714854",
       "funnet": "2026-11-10T19:12:17.864820+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Articuno 148/147 Shiny Secret Rare – Supreme Victors (2009)",
-      "pris": 1490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480714861",
-      "funnet": "2026-11-10T19:12:17.538467+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
