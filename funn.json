@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T17:26:40.304991+00:00",
+  "sist_sjekket": "2026-11-11T17:28:17.144335+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Dratini samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480773154",
+      "funnet": "2026-11-11T17:28:17.142513+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu Day og Night Future Rare Promo",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-11T14:54:18.754106+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort 22 WC",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/361183116",
-      "funnet": "2026-11-11T14:54:17.873331+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
