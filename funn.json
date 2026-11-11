@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T16:54:15.723677+00:00",
+  "sist_sjekket": "2026-11-11T16:56:15.892024+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 25th Anniversary Reshiram & Zekrom",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480770247",
+      "funnet": "2026-11-11T16:56:15.890060+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Cyberpunk TCG - Judy Álvarez  Braindance Maestro - Retail Iconic Rare",
       "pris": 1499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-11T13:52:20.307818+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary ex box",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480757205",
-      "funnet": "2026-11-11T13:52:19.996713+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
