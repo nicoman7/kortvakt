@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T13:32:17.269663+00:00",
+  "sist_sjekket": "2026-11-11T13:34:17.411478+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu bulk - 30th Celebration",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480755106",
+      "funnet": "2026-11-11T13:34:17.410272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480754072",
+      "funnet": "2026-11-11T13:34:16.694371+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 9,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480728929",
       "funnet": "2026-11-11T01:16:16.785241+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemonkort selges billig!!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
-      "funnet": "2026-11-11T00:38:17.396717+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémemon Perfect order 100% baseset + Endel Rares og Sir",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480728548",
-      "funnet": "2026-11-11T00:16:15.544995+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
