@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T11:52:14.184770+00:00",
+  "sist_sjekket": "2026-11-11T11:54:16.299849+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480747040",
+      "funnet": "2026-11-11T11:54:16.298169+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kortsett med energikort",
       "pris": 70,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480721467",
       "funnet": "2026-11-10T20:44:15.935943+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "WOTC Jungle trio (samlet)",
-      "pris": 1700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480721054",
-      "funnet": "2026-11-10T20:38:16.627282+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
