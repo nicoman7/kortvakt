@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T14:14:15.299229+00:00",
+  "sist_sjekket": "2026-11-11T14:16:14.483085+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Sandstorm",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480759069",
+      "funnet": "2026-11-11T14:16:14.481591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort samling",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480732171",
       "funnet": "2026-11-11T08:22:18.137969+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mystery packs pokemon",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479546137",
-      "funnet": "2026-11-11T08:20:27.746456+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
