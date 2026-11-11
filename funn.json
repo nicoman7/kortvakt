@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T18:04:16.575436+00:00",
+  "sist_sjekket": "2026-11-11T18:06:19.480301+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 800 stickers samlebok",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480776008",
+      "funnet": "2026-11-11T18:06:19.478680+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480289992",
+      "funnet": "2026-11-11T18:06:19.247134+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Celebrations 30th Anniversary Booster Bundle",
       "pris": 900,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480700221",
       "funnet": "2026-11-11T16:10:26.896357+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Professor Turo's Scenario #240 Pokemon Paradox Rift",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480700244",
-      "funnet": "2026-11-11T16:08:20.861919+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Euro 2024 Match Attax – Euro Master Limited Edition Samling",
-      "pris": 159,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480766987",
-      "funnet": "2026-11-11T16:08:20.489726+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
