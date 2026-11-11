@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-11T19:52:15.892008+00:00",
+  "sist_sjekket": "2026-11-11T19:54:18.716064+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort - Metagross",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480784702",
+      "funnet": "2026-11-11T19:54:18.714768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480784896",
+      "funnet": "2026-11-11T19:54:17.836107+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mega Darkrai ex samlekort 101/084",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480784803",
+      "funnet": "2026-11-11T19:54:17.009479+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-samlekort",
       "pris": 2000,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-11T17:54:18.848620+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "POKEMON - CLEFABLE (REV. HOLO)",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480775249",
-      "funnet": "2026-11-11T17:54:18.162945+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon World Championships London 2022 kortboks komplett med 60 kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480775255",
-      "funnet": "2026-11-11T17:54:17.869991+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30th Celebration ex-kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479685614",
-      "funnet": "2026-11-11T17:48:19.599101+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
