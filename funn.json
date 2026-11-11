@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T13:18:16.680321+00:00",
+  "sist_sjekket": "2026-11-11T13:20:28.248840+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Masquerain Pokémon-kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480754222",
+      "funnet": "2026-11-11T13:20:28.247103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480728380",
       "funnet": "2026-11-10T23:52:16.770405+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480728391",
-      "funnet": "2026-11-10T23:52:16.125392+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
