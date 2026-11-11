@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T08:08:15.450737+00:00",
+  "sist_sjekket": "2026-11-11T08:10:24.827433+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480731696",
+      "funnet": "2026-11-11T08:10:24.825519+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Eevee (Plasma Freeze)",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480715319",
       "funnet": "2026-11-10T19:18:18.223636+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Moltres 21/144 Rare – Skyridge (e-Card, 2003)",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480715355",
-      "funnet": "2026-11-10T19:18:17.511825+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
