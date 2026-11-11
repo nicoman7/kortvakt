@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T21:12:16.743512+00:00",
+  "sist_sjekket": "2026-11-11T21:14:19.185150+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480790350",
+      "funnet": "2026-11-11T21:14:19.183636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Charizard Psa 10",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480786302",
+      "funnet": "2026-11-11T21:14:18.307184+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Stadium - Lamine Yamal",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480778246",
       "funnet": "2026-11-11T18:34:17.656148+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dragonite EX Pokémonkort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480778145",
-      "funnet": "2026-11-11T18:34:17.338486+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Komplett Topps Flagship 26/27",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480778137",
-      "funnet": "2026-11-11T18:34:16.460186+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
