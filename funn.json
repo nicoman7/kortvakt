@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T22:14:15.520882+00:00",
+  "sist_sjekket": "2026-11-11T22:16:16.685815+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
+      "funnet": "2026-11-11T22:16:16.683979+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon hits. Gradert og NM/M",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480364146",
       "funnet": "2026-11-11T18:50:24.705353+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Håndmalt pokemon Mew binder",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480235230",
-      "funnet": "2026-11-11T18:48:17.219647+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
