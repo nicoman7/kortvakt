@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T23:52:16.510835+00:00",
+  "sist_sjekket": "2026-11-11T23:54:14.954810+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #35 Pokemon 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480758447",
+      "funnet": "2026-11-11T23:54:14.953548+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu #34 Pokemon 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480758369",
+      "funnet": "2026-11-11T23:54:14.288289+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu #36 Pokemon 30th Celebration",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-11T19:28:20.091895+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Milotic EX 217/191",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480782895",
-      "funnet": "2026-11-11T19:28:19.797323+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Drampa GX 142/145",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480782674",
-      "funnet": "2026-11-11T19:26:16.260148+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
