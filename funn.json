@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T12:38:15.769396+00:00",
+  "sist_sjekket": "2026-11-11T12:40:25.560962+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Storm emeralda Hits",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480749161",
+      "funnet": "2026-11-11T12:40:25.559499+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Psa 10 graderte kort til salgs",
       "pris": 1,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480724585",
       "funnet": "2026-11-10T21:34:17.262754+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu-kort fra 30th Celebration – 26 ulike, fra 9 kr per kort",
-      "pris": 9,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480724618",
-      "funnet": "2026-11-10T21:34:17.031939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
