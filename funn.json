@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T17:32:17.892564+00:00",
+  "sist_sjekket": "2026-11-11T17:34:19.965460+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480773557",
+      "funnet": "2026-11-11T17:34:19.963522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Plusle Tag Draw Pokémonkort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-11T15:22:17.206331+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kortpakke i Mini Tin! Pakke 5 stk",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480763864",
-      "funnet": "2026-11-11T15:20:28.904919+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
