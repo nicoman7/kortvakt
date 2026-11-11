@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-11T11:36:18.687919+00:00",
+  "sist_sjekket": "2026-11-11T11:38:14.850444+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Mega Hawluchs Mega attack rare",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480745584",
+      "funnet": "2026-11-11T11:38:14.848889+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480745713",
+      "funnet": "2026-11-11T11:38:14.622208+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort – samling med FIFA 365 og Limited Edition",
       "pris": 600,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-10T20:22:17.295318+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "White flare perm, med sleeves og div kort til salgs",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480718765",
-      "funnet": "2026-11-10T20:18:19.859200+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Adventskalender FIFA 365 Adrenalyn XL 2027",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480719751",
-      "funnet": "2026-11-10T20:18:19.108048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
