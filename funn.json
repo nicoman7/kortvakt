@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T17:02:16.066834+00:00",
+  "sist_sjekket": "2026-11-11T17:04:55.191777+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-11T17:04:55.189690+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Vintage fotballkort",
       "pris": 850,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480757295",
       "funnet": "2026-11-11T13:56:19.275118+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Levinciа #244",
-      "pris": 85,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480756917",
-      "funnet": "2026-11-11T13:56:18.297177+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
