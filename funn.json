@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T17:06:15.480210+00:00",
+  "sist_sjekket": "2026-11-11T17:08:21.416692+00:00",
   "funn": [
+    {
+      "tittel": "BTS Pre order benefit kort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/437393031",
+      "funnet": "2026-11-11T17:08:21.415080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "(Nye priser) Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480758027",
       "funnet": "2026-11-11T14:08:17.060417+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Clamperl #195",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480757513",
-      "funnet": "2026-11-11T14:00:54.030215+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
