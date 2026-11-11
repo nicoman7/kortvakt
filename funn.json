@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T09:24:15.528944+00:00",
+  "sist_sjekket": "2026-11-11T09:26:15.939334+00:00",
   "funn": [
+    {
+      "tittel": "Norsk Toppfotball Toppfotballkort-serien2009",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480736181",
+      "funnet": "2026-11-11T09:26:15.937843+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "fra Norsk Toppfotball Toppfotballkort-serien 2007",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 228,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480716387",
       "funnet": "2026-11-10T19:32:25.283129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raikou CGC Mint 9 – Mega Symphonia 030/063 – japansk Pokémon-kort",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480716124",
-      "funnet": "2026-11-10T19:28:31.107969+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
