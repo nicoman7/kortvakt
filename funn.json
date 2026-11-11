@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-11T12:02:15.929332+00:00",
+  "sist_sjekket": "2026-11-11T12:04:18.443070+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480747900",
+      "funnet": "2026-11-11T12:04:18.441722+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Premier Leage 2025/26",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480747078",
+      "funnet": "2026-11-11T12:04:18.087334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "FIFA World Cup 2026-samlekort og 150 Coins Limited Edition",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480747932",
+      "funnet": "2026-11-11T12:04:17.337908+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "100++ Graderte Pokemonkort 🔥",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480458498",
+      "funnet": "2026-11-11T12:04:16.656546+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mangler du pichachu i samlingen ?",
       "pris": 300,
@@ -1166,38 +1198,6 @@
       "pris": 119,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480723037",
       "funnet": "2026-11-10T21:08:21.554702+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu samling. Pokémon.",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480722554",
-      "funnet": "2026-11-10T21:04:16.705814+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKÉMON SAMLING SELGES",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480721253",
-      "funnet": "2026-11-10T21:04:15.832155+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Deco, First XI og signert Milan-kort",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480722662",
-      "funnet": "2026-11-10T20:58:16.943596+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ursaring [1st Edition] #15 Pokemon Neo Discovery",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480722366",
-      "funnet": "2026-11-10T20:58:16.705076+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
