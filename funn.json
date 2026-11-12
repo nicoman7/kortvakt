@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T14:32:30.881745+00:00",
+  "sist_sjekket": "2026-11-12T14:34:43.860384+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-12T14:34:43.858747+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration Greninja ex boks",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480799146",
       "funnet": "2026-11-12T06:56:16.939678+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luis Diaz Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480799108",
-      "funnet": "2026-11-12T06:54:13.802322+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
