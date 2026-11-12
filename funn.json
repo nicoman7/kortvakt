@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T16:56:15.647724+00:00",
+  "sist_sjekket": "2026-11-12T16:58:18.026492+00:00",
   "funn": [
+    {
+      "tittel": "Graderte basketkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480839469",
+      "funnet": "2026-11-12T16:58:18.024811+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Lugia VSTAR gullkort BGS 9.5",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480819948",
       "funnet": "2026-11-12T12:40:28.351111+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokémon kort - base set hits",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480795300",
-      "funnet": "2026-11-12T12:40:27.589843+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
