@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T15:54:17.847546+00:00",
+  "sist_sjekket": "2026-11-12T15:56:19.960883+00:00",
   "funn": [
+    {
+      "tittel": "Eevee gradert promo kort",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480835593",
+      "funnet": "2026-11-12T15:56:19.959339+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration hits",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480835396",
+      "funnet": "2026-11-12T15:56:19.151159+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort fra Premier League sesongen 96/97",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480808330",
       "funnet": "2026-11-12T10:08:14.922616+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Postkort, fotoalbum.",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480808324",
-      "funnet": "2026-11-12T10:08:14.486158+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 dex vintage komplett",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480807250",
-      "funnet": "2026-11-12T10:06:15.358141+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
