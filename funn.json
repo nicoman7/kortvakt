@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T21:20:30.519981+00:00",
+  "sist_sjekket": "2026-11-12T21:22:16.885767+00:00",
   "funn": [
+    {
+      "tittel": "Pokeman samlerkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480645896",
+      "funnet": "2026-11-12T21:22:16.884032+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax fotballkort – Cristiano Ronaldo og Erling Haaland",
       "pris": 1825,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480848943",
       "funnet": "2026-11-12T19:06:16.972158+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oricorio GG04/GG70 - Pokemon Crown Zenith",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480849096",
-      "funnet": "2026-11-12T19:06:16.652983+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
