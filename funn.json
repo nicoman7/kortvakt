@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T12:38:17.150140+00:00",
+  "sist_sjekket": "2026-11-12T12:40:28.352615+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480819948",
+      "funnet": "2026-11-12T12:40:28.351111+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gamle Pokémon kort - base set hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480795300",
+      "funnet": "2026-11-12T12:40:27.589843+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Bobb fotballkort. Topps Now Nummerert",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480797713",
       "funnet": "2026-11-12T04:34:18.044279+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Disney Topps Chrome Tinker Bell samlekort 034/399",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480583308",
-      "funnet": "2026-11-12T04:30:40.946523+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps UEFA Club Competitions Lamine Yamal #10 CGC 8.5 NM-MT+",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797680",
-      "funnet": "2026-11-12T04:28:16.348442+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
