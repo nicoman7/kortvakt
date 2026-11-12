@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T00:38:17.191702+00:00",
+  "sist_sjekket": "2026-11-12T00:40:24.557389+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Regirock ex",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480795575",
+      "funnet": "2026-11-12T00:40:24.555824+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Dark Blastoise",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480784896",
       "funnet": "2026-11-11T19:54:17.836107+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Darkrai ex samlekort 101/084",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480784803",
-      "funnet": "2026-11-11T19:54:17.009479+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
