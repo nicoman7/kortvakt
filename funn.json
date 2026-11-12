@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T10:34:15.251761+00:00",
+  "sist_sjekket": "2026-11-12T10:36:16.094781+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort – blandet samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480810206",
+      "funnet": "2026-11-12T10:36:16.093009+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu ex #54 | Pokémon 30th Celebration",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480810411",
+      "funnet": "2026-11-12T10:36:15.874085+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Sandshrew Skyridge (92)",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480797604",
       "funnet": "2026-11-12T04:18:18.392724+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps Chrome UEFA CC Aqua Lava Refractor Dro RC /199 #111 CGC 8.5 NM-MT+",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797572",
-      "funnet": "2026-11-12T04:16:23.764491+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps Chrome UEFA CC Last Dance Dennis Bergkamp #LD-7 CGC 9.5 MINT+",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797573",
-      "funnet": "2026-11-12T04:16:23.553314+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
