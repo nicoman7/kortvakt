@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-12T14:34:43.860384+00:00",
+  "sist_sjekket": "2026-11-12T14:36:22.244176+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480830364",
+      "funnet": "2026-11-12T14:36:22.242930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "LIVERPOOL - TOPPS FLAGSHIP PL 2026/27 - MED 23 STK KORT INKL 7 STK INSERTS",
+      "pris": 525,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480830164",
+      "funnet": "2026-11-12T14:36:21.850279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480830119",
+      "funnet": "2026-11-12T14:36:21.381600+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graderte pokemonkort selges billig!!",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480799277",
       "funnet": "2026-11-12T07:04:13.863698+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nico Paz Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480799176",
-      "funnet": "2026-11-12T06:58:23.005282+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece bulk + rares",
-      "pris": 549,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480799157",
-      "funnet": "2026-11-12T06:58:22.237258+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diego Maradona Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480799146",
-      "funnet": "2026-11-12T06:56:16.939678+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
