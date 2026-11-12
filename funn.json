@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T16:24:20.065990+00:00",
+  "sist_sjekket": "2026-11-12T16:26:21.024609+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480837015",
+      "funnet": "2026-11-12T16:26:21.022719+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Base set 2 Holo kort",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480812798",
       "funnet": "2026-11-12T11:08:16.758579+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NBA-kort fra 90-tallet",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480812745",
-      "funnet": "2026-11-12T11:08:16.479934+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
