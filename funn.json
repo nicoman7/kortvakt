@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T06:32:14.211086+00:00",
+  "sist_sjekket": "2026-11-12T06:34:18.035820+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Pikachu og Raichu",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480798714",
+      "funnet": "2026-11-12T06:34:18.034205+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Sylveon ex & Greninja ex Box – SELGES SAMLET",
       "pris": 1300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480797419",
       "funnet": "2026-11-12T04:00:54.149543+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025 Topps UEFA Club Competitions Diamante Kylian Mbappe #112 CGC 9.5 MINT+",
-      "pris": 335,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797439",
-      "funnet": "2026-11-12T04:00:53.467170+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
