@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T15:48:21.720936+00:00",
+  "sist_sjekket": "2026-11-12T15:50:28.012073+00:00",
   "funn": [
+    {
+      "tittel": "POKEMON - DITTO (SQUIRTLE)",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480835434",
+      "funnet": "2026-11-12T15:50:28.010307+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "434 spennende og verdifulle POKÉMON-KORT",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480374625",
+      "funnet": "2026-11-12T15:50:27.460326+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "POKEMON - DARKRAI (HOLO)",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480807816",
       "funnet": "2026-11-12T10:00:56.469337+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Squirtle 151",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480807901",
-      "funnet": "2026-11-12T10:00:55.643148+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - team rockets orbeetle",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480808034",
-      "funnet": "2026-11-12T10:00:54.811620+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
