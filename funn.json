@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-11T23:58:18.971502+00:00",
+  "sist_sjekket": "2026-11-12T00:00:54.144028+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #33 Pokemon 30th Celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480758302",
+      "funnet": "2026-11-12T00:00:54.142194+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu #35 Pokemon 30th Celebration",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-11T19:32:14.900459+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini FIFA World Cup-klistremerker 2026",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480707361",
-      "funnet": "2026-11-11T19:28:20.091895+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
