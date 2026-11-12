@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T14:04:16.538626+00:00",
+  "sist_sjekket": "2026-11-12T14:06:17.975347+00:00",
   "funn": [
+    {
+      "tittel": "Britisk-amerikansk tobakk – samlebilder",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480827868",
+      "funnet": "2026-11-12T14:06:17.973452+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort – Shinji Kanda illustratørsamling",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
       "funnet": "2026-11-12T05:32:15.266363+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Gengar EX #269 Pokémonkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480798081",
-      "funnet": "2026-11-12T05:28:15.462161+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
