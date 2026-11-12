@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T08:10:28.791280+00:00",
+  "sist_sjekket": "2026-11-12T08:12:18.059525+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480801347",
+      "funnet": "2026-11-12T08:12:18.057836+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Stadium Club Chrome 2025/26 – Fotballkort Value Box",
       "pris": 549,
@@ -1190,14 +1198,6 @@
       "pris": 306,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480797499",
       "funnet": "2026-11-12T04:08:19.985102+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024-25 Topps Chrome UEFA CC Golazo Dusan Vlahovic #GZ-28 CGC 8.5 NM-MT+",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797501",
-      "funnet": "2026-11-12T04:08:19.224040+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
