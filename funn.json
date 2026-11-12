@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T17:04:16.991349+00:00",
+  "sist_sjekket": "2026-11-12T17:06:17.373031+00:00",
   "funn": [
+    {
+      "tittel": "Graderte fotballkort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480839953",
+      "funnet": "2026-11-12T17:06:17.371160+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon 30th Celebration – mange Pikachu, Mewtwo ex og kort fra 5 kr",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 1590,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480822940",
       "funnet": "2026-11-12T13:08:17.557161+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu summer promo",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480822576",
-      "funnet": "2026-11-12T13:02:19.252625+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
