@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T22:56:23.289711+00:00",
+  "sist_sjekket": "2026-11-12T22:58:20.540589+00:00",
   "funn": [
+    {
+      "tittel": "Hello Kitty samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/421831173",
+      "funnet": "2026-11-12T22:58:20.539072+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - AR kort fra 30th Celebration Japansk",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
+      "funnet": "2026-11-12T22:58:19.731504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort Cresselia 2/100",
       "pris": 80,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480853746",
       "funnet": "2026-11-12T20:10:28.882480+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raihan GG65/GG70 - Pokemon Crown Zenith",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480853862",
-      "funnet": "2026-11-12T20:10:28.416558+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Grant GG62/GG70 - Pokemon Crown Zenith",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480853468",
-      "funnet": "2026-11-12T20:08:33.227344+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
