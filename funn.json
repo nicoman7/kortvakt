@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-12T17:22:19.190057+00:00",
+  "sist_sjekket": "2026-11-12T17:24:18.256722+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476589999",
+      "funnet": "2026-11-12T17:24:18.254720+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort Jungle - selges samlet",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-12T14:06:17.973452+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort – Shinji Kanda illustratørsamling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480826904",
-      "funnet": "2026-11-12T14:00:55.407056+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
