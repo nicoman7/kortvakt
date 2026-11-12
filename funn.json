@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-12T17:20:27.374892+00:00",
+  "sist_sjekket": "2026-11-12T17:22:19.190057+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Jungle - selges samlet",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480841146",
+      "funnet": "2026-11-12T17:22:19.188782+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480841195",
+      "funnet": "2026-11-12T17:22:18.394825+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Jolteon Pokemonkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480841473",
+      "funnet": "2026-11-12T17:22:17.568162+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort - Sprigatito",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475648554",
+      "funnet": "2026-11-12T17:22:16.845845+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gotta catch ’em all – eller i alle fall en bunke eller to!",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/403916813",
+      "funnet": "2026-11-12T17:22:16.548994+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort - Raichu Paldea Evolved",
       "pris": 1000,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480826904",
       "funnet": "2026-11-12T14:00:55.407056+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Rayquaza Amazing Rare 138/185",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480823534",
-      "funnet": "2026-11-12T14:00:54.639360+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kinesisk Pokemon Reshiram and Zekrom GX Tag Team 094/150 CSM2c",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480823428",
-      "funnet": "2026-11-12T13:56:18.387346+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Blastoise Rare 14/100 Pokemon Ex Crystal Guardians",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480823348",
-      "funnet": "2026-11-12T13:50:26.205137+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Meowth Pokémon kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480826389",
-      "funnet": "2026-11-12T13:50:25.895267+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th anniversary pakke",
-      "pris": 799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480825837",
-      "funnet": "2026-11-12T13:46:18.585432+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
