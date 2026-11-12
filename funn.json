@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-12T19:18:29.283048+00:00",
+  "sist_sjekket": "2026-11-12T19:20:41.557795+00:00",
   "funn": [
+    {
+      "tittel": "Smeargle TG10/TG30 - Pokemon Silver Tempest",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480849901",
+      "funnet": "2026-11-12T19:20:41.556337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Base Set 1999 – 15 originale vintage-kort",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480849939",
+      "funnet": "2026-11-12T19:20:40.773951+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Regigigas VSTAR GG55/GG70 - Pokemon Crown Zenith",
       "pris": 195,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-12T17:12:19.559263+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Mega Tin & Stacking Tin",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480840565",
-      "funnet": "2026-11-12T17:10:29.345445+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Morpeko EX #117 - CGC 10",
-      "pris": 1499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479275635",
-      "funnet": "2026-11-12T17:08:19.526464+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
