@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-13T07:16:15.373178+00:00",
+  "sist_sjekket": "2026-11-13T07:18:17.957238+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865337",
+      "funnet": "2026-11-13T07:18:17.955522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps Chrome Star Wars Lot – 2x Auto: Peli Motto /99, Mark Boone Jr. + Base",
+      "pris": 475,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865344",
+      "funnet": "2026-11-13T07:18:17.628408+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort, abyss eye",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865349",
+      "funnet": "2026-11-13T07:18:17.095519+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Futera unique: Hwang Hee-Chan Dynamo fotballkort 01/01",
       "pris": 1800,
@@ -1174,30 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860609",
       "funnet": "2026-11-12T22:20:26.255003+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Orbeetle V TG12/TG30 - Pokemon Lost Origin",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860627",
-      "funnet": "2026-11-12T22:20:25.988380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG samling ~2350 kort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860141",
-      "funnet": "2026-11-12T22:18:24.516653+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Parasect TG01/TG30 - Pokemon Lost Origin",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860486",
-      "funnet": "2026-11-12T22:16:16.824570+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
