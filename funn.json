@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T08:00:58.147634+00:00",
+  "sist_sjekket": "2026-11-13T08:02:15.158509+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-13T08:02:15.157274+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Liten perm med japanske Pokemon-kort selges",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480861352",
       "funnet": "2026-11-12T22:44:17.441530+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cook TG25/TG30 - Pokemon Lost Origin",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480861205",
-      "funnet": "2026-11-12T22:40:25.678258+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
