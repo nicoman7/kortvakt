@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T16:48:17.265783+00:00",
+  "sist_sjekket": "2026-11-13T16:50:29.087509+00:00",
   "funn": [
+    {
+      "tittel": "Dark Primeape [1st Edition] #43 Pokemon Team Rocket",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480903702",
+      "funnet": "2026-11-13T16:50:29.085786+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rocket's Sneak Attack [1st Edition] #72 Pokemon Team Rocket",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480880795",
       "funnet": "2026-11-13T11:36:14.876310+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480879316",
-      "funnet": "2026-11-13T11:24:17.651410+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
