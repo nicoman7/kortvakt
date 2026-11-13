@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T06:58:14.228571+00:00",
+  "sist_sjekket": "2026-11-13T07:00:56.430144+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon mega dream",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865007",
+      "funnet": "2026-11-13T07:00:56.428758+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865004",
+      "funnet": "2026-11-13T07:00:56.130302+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Basketballkort – samling med NBA-spillere",
       "pris": 750,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860301",
       "funnet": "2026-11-12T22:10:25.437881+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reuniclus 171/162 - Pokemon Temporal Forces",
-      "pris": 135,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860270",
-      "funnet": "2026-11-12T22:10:25.107704+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort - pikachu samling 1-30 engelsk!",
-      "pris": 430,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860265",
-      "funnet": "2026-11-12T22:10:24.786338+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
