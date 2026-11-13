@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-13T15:20:29.370246+00:00",
+  "sist_sjekket": "2026-11-13T15:22:29.903404+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Hiroshima Special Box",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480897997",
+      "funnet": "2026-11-13T15:22:29.901986+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "71 vintagekort fra ulike serier",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480894283",
+      "funnet": "2026-11-13T15:22:29.607228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort selges – Mega Gardevoir ex, Eevee GX og vintage reverse holo",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480898136",
+      "funnet": "2026-11-13T15:22:28.829358+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Tilbud Panini Teenage Mutant Ninja Turtles TMNT 2013 4 pakker booster samlerkort",
       "pris": 255,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-13T10:30:45.935798+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger pokemon rumble kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
-      "funnet": "2026-11-13T10:30:45.435982+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Scarlet & Violet 151 - Booster Pack (Japanese)",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480875578",
-      "funnet": "2026-11-13T10:28:25.514233+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reverse holo og holo Pokemon kort fra ascended heroes",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480874916",
-      "funnet": "2026-11-13T10:28:25.007156+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
