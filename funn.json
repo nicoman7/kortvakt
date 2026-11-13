@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T13:10:29.024693+00:00",
+  "sist_sjekket": "2026-11-13T13:12:16.826292+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 440,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480888183",
+      "funnet": "2026-11-13T13:12:16.824617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "11 eldre Pokémonkort – Grass-type – EX-serier 2003–2007",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-13T09:34:14.716457+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk 30th Celebration Premium Deck Set - Espeon ex & Umbreon ex",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480871655",
-      "funnet": "2026-11-13T09:32:26.627887+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
