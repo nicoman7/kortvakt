@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T11:22:15.937108+00:00",
+  "sist_sjekket": "2026-11-13T11:24:17.653029+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480879316",
+      "funnet": "2026-11-13T11:24:17.651410+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Energy Switch 107/130 - Pokemon Diamond & Pearl",
       "pris": 29,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480866549",
       "funnet": "2026-11-13T07:58:15.058907+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "RESERVERT - Pokemon kort - Maushold AR kort Japansk",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480866572",
-      "funnet": "2026-11-13T07:56:16.501845+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
