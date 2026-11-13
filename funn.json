@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T15:32:16.827774+00:00",
+  "sist_sjekket": "2026-11-13T15:34:16.053147+00:00",
   "funn": [
+    {
+      "tittel": "Gammel samling selges",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480898830",
+      "funnet": "2026-11-13T15:34:16.051944+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort, 10 japanske graderte kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480644695",
+      "funnet": "2026-11-13T15:34:15.298591+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort: Eevee, Meowscarada ex, Espeon, Palafin ex og Hoothoot",
       "pris": 1,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480876157",
       "funnet": "2026-11-13T10:36:16.590396+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Milo [Reverse Holo] 057/073 - Pokemon Champion’s Path",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480876205",
-      "funnet": "2026-11-13T10:36:16.233316+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rare Candy 069/078 - Pokemon GO",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480875921",
-      "funnet": "2026-11-13T10:34:18.273519+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
