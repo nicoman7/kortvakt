@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T18:18:21.149106+00:00",
+  "sist_sjekket": "2026-11-13T18:20:27.738048+00:00",
   "funn": [
+    {
+      "tittel": "div pokemon topps samlekort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480909091",
+      "funnet": "2026-11-13T18:20:27.736505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "85 pokémonkort fra EX Power Keepers",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480909143",
+      "funnet": "2026-11-13T18:20:26.912724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th mew figure collection kun jumbo promo og figur",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-13T15:34:16.051944+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort, 10 japanske graderte kort selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480644695",
-      "funnet": "2026-11-13T15:34:15.298591+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort: Eevee, Meowscarada ex, Espeon, Palafin ex og Hoothoot",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480898534",
-      "funnet": "2026-11-13T15:30:46.124484+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
