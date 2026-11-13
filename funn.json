@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-13T10:56:14.859588+00:00",
+  "sist_sjekket": "2026-11-13T10:58:16.928111+00:00",
   "funn": [
+    {
+      "tittel": "Rainbow Energy 80/82 - Pokemon Team Rocket",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480877756",
+      "funnet": "2026-11-13T10:58:16.926212+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Night Pokémon Center 108/130 - Pokemon Diamond & Pearl",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480877865",
+      "funnet": "2026-11-13T10:58:16.332125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Claydol 5/107 Holo Rare – EX Deoxys 2005",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480877740",
+      "funnet": "2026-11-13T10:58:16.064985+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon prize/play kort",
       "pris": 5,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480865459",
       "funnet": "2026-11-13T07:30:44.288120+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG-kort – abyss eye",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480865489",
-      "funnet": "2026-11-13T07:24:15.638376+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480865337",
-      "funnet": "2026-11-13T07:18:17.955522+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Chrome Star Wars Lot – 2x Auto: Peli Motto /99, Mark Boone Jr. + Base",
-      "pris": 475,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480865344",
-      "funnet": "2026-11-13T07:18:17.628408+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
