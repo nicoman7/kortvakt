@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T07:52:16.343015+00:00",
+  "sist_sjekket": "2026-11-13T07:54:16.439015+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Steelix Illustration Rare PSA 10",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480866491",
+      "funnet": "2026-11-13T07:54:16.437514+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Piplup – Illustration Rare PSA 10",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-12T22:36:15.272362+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - 8 kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480859808",
-      "funnet": "2026-11-12T22:34:19.907941+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
