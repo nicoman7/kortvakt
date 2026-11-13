@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T10:22:16.465007+00:00",
+  "sist_sjekket": "2026-11-13T10:24:15.314255+00:00",
   "funn": [
+    {
+      "tittel": "Yanmega 17/146 - Pokemon Legends Awakened",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480875374",
+      "funnet": "2026-11-13T10:24:15.312805+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Sparkling Crystal [Holo] 142/142 - Pokemon Stellar Crown",
       "pris": 35,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480649707",
       "funnet": "2026-11-13T01:46:15.800642+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-11-13T01:12:21.128512+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
