@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T10:54:16.536655+00:00",
+  "sist_sjekket": "2026-11-13T10:56:14.859588+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon prize/play kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480877489",
+      "funnet": "2026-11-13T10:56:14.858536+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Darkness Energy 119/123 - Pokemon Mysterious Treasures",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480877666",
+      "funnet": "2026-11-13T10:56:14.554569+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "IPSWICH TOWN - TOPPS FLAGSHIP PL 2026/27 - MED 16 KORT INKL 2 STK INSERTS",
       "pris": 345,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480865344",
       "funnet": "2026-11-13T07:18:17.628408+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort, abyss eye",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480865349",
-      "funnet": "2026-11-13T07:18:17.095519+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Futera unique: Hwang Hee-Chan Dynamo fotballkort 01/01",
-      "pris": 1800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480865216",
-      "funnet": "2026-11-13T07:16:15.371238+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
