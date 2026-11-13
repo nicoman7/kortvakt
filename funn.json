@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T07:22:15.294451+00:00",
+  "sist_sjekket": "2026-11-13T07:24:15.640159+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG-kort – abyss eye",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865489",
+      "funnet": "2026-11-13T07:24:15.638376+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480581115",
       "funnet": "2026-11-12T22:22:18.742330+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon bulk",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860609",
-      "funnet": "2026-11-12T22:20:26.255003+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
