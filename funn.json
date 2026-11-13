@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T12:00:58.230258+00:00",
+  "sist_sjekket": "2026-11-13T12:02:16.018012+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
+      "funnet": "2026-11-13T12:02:16.016460+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration – 2 stk åpnet ETB med kort og tilbehør",
       "pris": 1250,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480867869",
       "funnet": "2026-11-13T08:28:16.682091+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Love Live Samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480867562",
-      "funnet": "2026-11-13T08:20:26.483073+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
