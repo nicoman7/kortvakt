@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T00:56:15.973063+00:00",
+  "sist_sjekket": "2026-11-13T00:58:16.698710+00:00",
   "funn": [
+    {
+      "tittel": "Pokeman samlerkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480645896",
+      "funnet": "2026-11-13T00:58:16.697135+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort 30 års jubileum kinesiske– Mewtwo EX, Pikachu ++",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-12T21:28:18.768566+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "PSA Pokémon-kort samling – 5 graderte holo- og GX-kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480649707",
-      "funnet": "2026-11-12T21:28:17.979846+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
