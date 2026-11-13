@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T06:16:17.325993+00:00",
+  "sist_sjekket": "2026-11-13T06:18:15.665129+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480864322",
+      "funnet": "2026-11-13T06:18:15.663724+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort mega brave",
       "pris": 40,
@@ -1190,14 +1198,6 @@
       "pris": 155,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860042",
       "funnet": "2026-11-12T22:02:18.366970+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Comfey GG14/GG70 - Pokemon Crown Zenith",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480859945",
-      "funnet": "2026-11-12T22:02:17.684942+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
