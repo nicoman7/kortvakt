@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T06:26:17.046412+00:00",
+  "sist_sjekket": "2026-11-13T06:28:15.991499+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480864505",
+      "funnet": "2026-11-13T06:28:15.990195+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 90,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480859897",
       "funnet": "2026-11-12T22:02:18.839920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ditto GG22/GG70 - Pokemon Crown Zenith",
-      "pris": 155,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860042",
-      "funnet": "2026-11-12T22:02:18.366970+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
