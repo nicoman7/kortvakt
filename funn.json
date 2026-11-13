@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T13:18:16.183431+00:00",
+  "sist_sjekket": "2026-11-13T13:20:28.252586+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 210,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480888788",
+      "funnet": "2026-11-13T13:20:28.250835+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️ Fotballkort Daizen Maeda - Panini Prizm FIFA World Cup",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480888858",
+      "funnet": "2026-11-13T13:20:27.447677+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️ Fotballkort Ismael Saibari - Panini Prizm FIFA World Cup",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480872216",
       "funnet": "2026-11-13T09:38:16.411610+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragonair 52/146 - Pokemon Legends Awakened",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480872033",
-      "funnet": "2026-11-13T09:36:15.555628+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ampharos Spirit Link 70/98 - Pokemon Ancient Origins",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480872139",
-      "funnet": "2026-11-13T09:36:15.329917+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
