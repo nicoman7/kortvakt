@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T22:26:14.785805+00:00",
+  "sist_sjekket": "2026-11-13T22:28:15.794311+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-13T22:28:15.791219+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "WWE Topps Universe 2026 – Stort utvalg wrestling-kort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-13T19:30:49.211135+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort – Eevee Full Art Promo SVP 173",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480912670",
-      "funnet": "2026-11-13T19:26:17.159924+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
