@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T10:44:18.571040+00:00",
+  "sist_sjekket": "2026-11-13T10:46:15.360412+00:00",
   "funn": [
+    {
+      "tittel": "Fighting Energy [Holo] 110/110 - Pokemon Holon Phantoms",
+      "pris": 69,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480876871",
+      "funnet": "2026-11-13T10:46:15.358682+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Altaria 2/108 Holo Rare – EX Power Keepers 2007",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480876936",
+      "funnet": "2026-11-13T10:46:14.699731+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Professor's Research [Cosmos Holo] 060/072 - Pokemon Shining Fates",
       "pris": 29,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-13T06:28:15.990195+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480864322",
-      "funnet": "2026-11-13T06:18:15.663724+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort mega brave",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480864274",
-      "funnet": "2026-11-13T06:12:18.475550+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
