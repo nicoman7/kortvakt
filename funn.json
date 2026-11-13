@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T07:06:18.652500+00:00",
+  "sist_sjekket": "2026-11-13T07:08:15.580469+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480865140",
+      "funnet": "2026-11-13T07:08:15.578679+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon - Pikachu Night Promo - upc",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860419",
       "funnet": "2026-11-12T22:14:15.455023+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Salvatore 212/162 - Pokemon Temporal Forces",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860338",
-      "funnet": "2026-11-12T22:12:17.053469+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
