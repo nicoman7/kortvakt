@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T23:34:17.110025+00:00",
+  "sist_sjekket": "2026-11-13T23:36:15.746187+00:00",
   "funn": [
+    {
+      "tittel": "PSA Pokémon-kort samling – 5 graderte holo- og GX-kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480649707",
+      "funnet": "2026-11-13T23:36:15.744918+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arsenal legendepakke /99 – Henry, Bergkamp, Robert Pires (Topps Total Football)",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-13T20:44:17.601121+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokedex & Masterset Pokemon 1999-2025",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/451036283",
-      "funnet": "2026-11-13T20:42:15.509460+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
