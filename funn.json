@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T00:58:16.698710+00:00",
+  "sist_sjekket": "2026-11-13T01:00:54.621533+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort STOR SALG – Messi, autografer, RC og nummererte kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480364146",
+      "funnet": "2026-11-13T01:00:54.619799+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokeman samlerkort",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-12T21:28:19.488386+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort med autografer og memorabilia",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480858267",
-      "funnet": "2026-11-12T21:28:18.768566+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
