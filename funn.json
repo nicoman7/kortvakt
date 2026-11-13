@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T11:46:14.538196+00:00",
+  "sist_sjekket": "2026-11-13T11:48:16.293780+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480881402",
+      "funnet": "2026-11-13T11:48:16.292534+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ditto 30th celebration",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480881567",
+      "funnet": "2026-11-13T11:48:15.557769+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA Pokémon-kort samling – 5 graderte holo- og GX-kort",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-13T08:06:17.301429+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
-      "funnet": "2026-11-13T08:06:16.595660+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Graderte pokemonkort selges billig!!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
-      "funnet": "2026-11-13T08:02:15.157274+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
