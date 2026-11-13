@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T12:58:16.266453+00:00",
+  "sist_sjekket": "2026-11-13T13:00:58.907663+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort samling",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480887058",
+      "funnet": "2026-11-13T13:00:58.906118+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Diverse Sealed Pokemon Produkter",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480871321",
       "funnet": "2026-11-13T09:24:14.977266+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Munna 087/202, Asako Ito - Pokemon Sword & Shield",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480870966",
-      "funnet": "2026-11-13T09:22:15.928556+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
