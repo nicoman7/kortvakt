@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T20:26:27.863656+00:00",
+  "sist_sjekket": "2026-11-13T20:28:20.314661+00:00",
   "funn": [
+    {
+      "tittel": "Diverse Pokemon- kort vurderes solgt",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480915962",
+      "funnet": "2026-11-13T20:28:20.313183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gamle Pokémon kort - team rocket Holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480915561",
+      "funnet": "2026-11-13T20:28:20.094899+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Panini",
       "pris": 2,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480906931",
       "funnet": "2026-11-13T17:46:18.826337+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort og samleboks",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479681983",
-      "funnet": "2026-11-13T17:46:18.090214+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mange ulike pokemon kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
-      "funnet": "2026-11-13T17:46:17.759775+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
