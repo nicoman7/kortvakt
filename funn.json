@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T10:40:29.520542+00:00",
+  "sist_sjekket": "2026-11-13T10:42:16.720803+00:00",
   "funn": [
+    {
+      "tittel": "Disney Topps Chrome Tinker Bell samlekort 034/399",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480583308",
+      "funnet": "2026-11-13T10:42:16.719068+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Slumbering Forest 207/236 - Pokemon Unified Minds",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480864220",
       "funnet": "2026-11-13T06:08:15.724339+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon TCG-kort – japanske holografiske kort mega brave",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480864180",
-      "funnet": "2026-11-13T06:00:55.404376+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
