@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T07:48:28.086341+00:00",
+  "sist_sjekket": "2026-11-13T07:50:30.261730+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling – nihil zero",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480866293",
+      "funnet": "2026-11-13T07:50:30.260527+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mega Charizard X ex-kort PSA 10",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 60,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860304",
       "funnet": "2026-11-12T22:34:18.645328+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 14 kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860945",
-      "funnet": "2026-11-12T22:34:18.249009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
