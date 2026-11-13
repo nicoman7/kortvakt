@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T05:28:16.429174+00:00",
+  "sist_sjekket": "2026-11-13T05:30:49.076235+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort  mega symphonia.",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480863887",
+      "funnet": "2026-11-13T05:30:49.074520+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon japanske samlekort – 4 holografiske kort",
       "pris": 35,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480859789",
       "funnet": "2026-11-12T21:58:15.511047+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hisuian Samurott VStar GG52/GG70 - Pokemon Crown Zenith",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480859702",
-      "funnet": "2026-11-12T21:56:17.717256+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
