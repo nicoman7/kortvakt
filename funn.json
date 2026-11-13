@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T18:40:35.392896+00:00",
+  "sist_sjekket": "2026-11-13T18:42:17.501954+00:00",
   "funn": [
+    {
+      "tittel": "vintage dmg kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480910232",
+      "funnet": "2026-11-13T18:42:17.500373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration - Kommo-o 143/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480910356",
+      "funnet": "2026-11-13T18:42:17.190763+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ditto 30th kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480899890",
       "funnet": "2026-11-13T16:12:19.511548+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skyridge Holos m/ prisliste",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456168362",
-      "funnet": "2026-11-13T16:12:18.950546+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spidops ex #243 Pokemon Scarlet & Violet",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480650792",
-      "funnet": "2026-11-13T16:10:31.800684+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
