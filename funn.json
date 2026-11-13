@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T23:56:17.363627+00:00",
+  "sist_sjekket": "2026-11-13T23:58:23.914280+00:00",
   "funn": [
+    {
+      "tittel": "pokemon",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480499736",
+      "funnet": "2026-11-13T23:58:23.912944+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Messi Topps Stadium Club Chrome /299",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480917252",
       "funnet": "2026-11-13T20:56:17.188602+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemon Kort Selges! Få Kort Igjen!",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480577660",
-      "funnet": "2026-11-13T20:56:16.910981+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
