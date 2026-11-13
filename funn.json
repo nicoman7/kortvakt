@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T06:10:26.699921+00:00",
+  "sist_sjekket": "2026-11-13T06:12:18.477279+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort mega brave",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480864274",
+      "funnet": "2026-11-13T06:12:18.475550+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémonkort – mega brave",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480859945",
       "funnet": "2026-11-12T22:02:17.684942+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort: Bulbasaur 39/95 (EX Team Magma vs Team Aqua, 2004)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860054",
-      "funnet": "2026-11-12T22:02:16.961736+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
