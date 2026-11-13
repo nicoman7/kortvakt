@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-13T14:22:14.938966+00:00",
+  "sist_sjekket": "2026-11-13T14:24:17.104736+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480886630",
+      "funnet": "2026-11-13T14:24:17.103001+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gengar EX samlekort",
       "pris": 600,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480873736",
       "funnet": "2026-11-13T10:02:15.945660+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Counter Energy 100/111 - Pokemon Crimson Invasion",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480873626",
-      "funnet": "2026-11-13T09:58:18.806711+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
