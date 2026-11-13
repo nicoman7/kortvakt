@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-13T06:50:24.112556+00:00",
+  "sist_sjekket": "2026-11-13T06:52:16.695198+00:00",
   "funn": [
+    {
+      "tittel": "Basketballkort – samling med NBA-spillere",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480864777",
+      "funnet": "2026-11-13T06:52:16.693680+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort mega dream",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480864857",
+      "funnet": "2026-11-13T06:52:15.977555+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon 30th celebration day UPC, uten kort - Gratis frakt",
       "pris": 450,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480860265",
       "funnet": "2026-11-12T22:10:24.786338+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Electivire GG08/GG70 - Pokemon Crown Zenith",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860216",
-      "funnet": "2026-11-12T22:08:19.149000+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dunsparce GG23/GG70 - Pokemon Crown Zenith",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860116",
-      "funnet": "2026-11-12T22:04:30.993896+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
