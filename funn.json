@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T20:06:24.344377+00:00",
+  "sist_sjekket": "2026-11-14T20:08:23.236902+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekortalbum med Charizard",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480987212",
+      "funnet": "2026-11-14T20:08:23.235480+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu PSA 9 – SV-P Promo 120/SV-P – japansk Pokémon-kort",
+      "pris": 296,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480714725",
+      "funnet": "2026-11-14T20:08:22.936225+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mummi samlekort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-14T17:54:27.149161+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort wailord japansk",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480979465",
-      "funnet": "2026-11-14T17:54:26.391637+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stellar Crown - Pokemon Kort 2024",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480979151",
-      "funnet": "2026-11-14T17:54:25.597125+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
