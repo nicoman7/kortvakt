@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T06:58:16.463269+00:00",
+  "sist_sjekket": "2026-11-14T07:00:54.380078+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480925238",
+      "funnet": "2026-11-14T07:00:54.378552+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480918046",
       "funnet": "2026-11-13T21:16:18.166134+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔴 RØD DJEVEL-HELT! Kobbie Mainoo – Topps Match Attax Heroes (Man Utd)",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918047",
-      "funnet": "2026-11-13T21:16:17.871019+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
