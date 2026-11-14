@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T08:52:16.193883+00:00",
+  "sist_sjekket": "2026-11-14T08:54:14.661690+00:00",
   "funn": [
+    {
+      "tittel": "Clefairy samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480929660",
+      "funnet": "2026-11-14T08:54:14.659873+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Aston Villa julekalender de luxe – 24 kort med Morgan Rogers Gold Lion",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480921420",
       "funnet": "2026-11-13T23:06:15.034635+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Talonflame ex 088/103",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480921562",
-      "funnet": "2026-11-13T23:04:16.066526+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
