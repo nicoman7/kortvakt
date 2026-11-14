@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T18:26:18.506027+00:00",
+  "sist_sjekket": "2026-11-14T18:28:17.710096+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort - Flapple",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/467568592",
+      "funnet": "2026-11-14T18:28:17.708587+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Samlekort Super Mario",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480727039",
       "funnet": "2026-11-14T16:22:15.178904+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TWICE Together 1&2 Chaeyoung pop-up store fotokort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480973096",
-      "funnet": "2026-11-14T16:20:33.783760+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
