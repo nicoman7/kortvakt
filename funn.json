@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T22:52:16.269415+00:00",
+  "sist_sjekket": "2026-11-14T22:54:15.634613+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort hilda",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480993894",
+      "funnet": "2026-11-14T22:54:15.632861+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Tin Box",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480987893",
       "funnet": "2026-11-14T20:20:26.345972+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th celebration kort og tilbehør",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480987969",
-      "funnet": "2026-11-14T20:20:25.978269+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
