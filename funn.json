@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-14T21:06:18.638294+00:00",
+  "sist_sjekket": "2026-11-14T21:08:22.846847+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480990282",
+      "funnet": "2026-11-14T21:08:22.845118+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort av kjente gammle spillere.",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480990283",
+      "funnet": "2026-11-14T21:08:22.040379+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "HOLO Vaporeon #12 Pokemon Jungle",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480990265",
+      "funnet": "2026-11-14T21:08:21.244899+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 135,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479885311",
       "funnet": "2026-11-14T18:38:15.792143+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magby - PARen - 186/182 - Pokemon Kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480979143",
-      "funnet": "2026-11-14T18:38:15.134171+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dean Huijsen 2025-26 Topps Chrome UEFA Champion Negative Refractor",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480982176",
-      "funnet": "2026-11-14T18:36:15.196391+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
-      "funnet": "2026-11-14T18:36:14.477787+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
