@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-14T10:30:42.640722+00:00",
+  "sist_sjekket": "2026-11-14T10:32:19.649220+00:00",
   "funn": [
+    {
+      "tittel": "Panini world cup 2026",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480937528",
+      "funnet": "2026-11-14T10:32:19.647506+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th celebration Pikachu 07/30",
+      "pris": 8,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480937553",
+      "funnet": "2026-11-14T10:32:18.896877+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gratis frakt - Pokemon 30th Celebration pakke",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480937466",
+      "funnet": "2026-11-14T10:32:18.053158+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Riftbound League of Legends samlekort, 3 kort med Pyke og Rengar",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-14T01:30:53.444051+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome Update Ja Morant Blue Wave Refractor #/150 Grizzlies",
-      "pris": 70,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480923252",
-      "funnet": "2026-11-14T01:30:52.687826+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon GO graderte Pokémon-kort, 8 kort i slabs",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480581115",
-      "funnet": "2026-11-14T01:28:15.658405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon bulk kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480923157",
-      "funnet": "2026-11-14T01:16:17.535562+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
