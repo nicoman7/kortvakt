@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T00:58:20.217836+00:00",
+  "sist_sjekket": "2026-11-14T01:00:56.042248+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort Jolteon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480923111",
+      "funnet": "2026-11-14T01:00:56.040543+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Glaceon",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-13T21:06:20.088217+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Singles",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/438680279",
-      "funnet": "2026-11-13T21:06:19.205797+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
