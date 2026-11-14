@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T04:00:55.486193+00:00",
+  "sist_sjekket": "2026-11-14T04:02:15.142061+00:00",
   "funn": [
+    {
+      "tittel": "Panini prizm fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480923923",
+      "funnet": "2026-11-14T04:02:15.140849+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort ex kort, Charizard, arcanine, fairy-typer osv",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480917907",
       "funnet": "2026-11-13T21:12:15.840946+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Prismatic Evolutions Singles",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/420088951",
-      "funnet": "2026-11-13T21:10:27.414014+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
