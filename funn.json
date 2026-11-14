@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T08:34:15.290669+00:00",
+  "sist_sjekket": "2026-11-14T08:36:16.319242+00:00",
   "funn": [
+    {
+      "tittel": "Horsea samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480928139",
+      "funnet": "2026-11-14T08:36:16.317641+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu samling",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 80,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480896126",
       "funnet": "2026-11-13T22:50:29.030085+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delcatty 5/109 Pokemon 30th Celebration Classic collection",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480896036",
-      "funnet": "2026-11-13T22:50:28.061819+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
