@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T17:04:16.829600+00:00",
+  "sist_sjekket": "2026-11-14T17:06:25.141355+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort (bud)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480976376",
+      "funnet": "2026-11-14T17:06:25.139847+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Marcus Rashford 2017 Topps Chrome UEFA Champions League Future Stars PSA 10",
       "pris": 1499,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480966324",
       "funnet": "2026-11-14T15:02:18.896428+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Basketballkort – samling med NBA-spillere",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480965981",
-      "funnet": "2026-11-14T15:02:18.127274+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
