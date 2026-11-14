@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T11:54:17.960837+00:00",
+  "sist_sjekket": "2026-11-14T11:56:19.878515+00:00",
   "funn": [
+    {
+      "tittel": "Wailmer 52/102 - Pokemon Triumphant",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480946742",
+      "funnet": "2026-11-14T11:56:19.876904+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Flaaffy 067/198 - Pokemon Scarlet & Violet",
       "pris": 19,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480649707",
       "funnet": "2026-11-14T09:46:15.434024+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG kortlot med Trainer- og japanske kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480932945",
-      "funnet": "2026-11-14T09:44:25.474981+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
