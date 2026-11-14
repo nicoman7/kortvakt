@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T07:40:25.082940+00:00",
+  "sist_sjekket": "2026-11-14T07:42:14.450391+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480926261",
+      "funnet": "2026-11-14T07:42:14.449181+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mystery Packs ⚡ STD / MID / PREMIUM – Engelske kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480419826",
+      "funnet": "2026-11-14T07:42:14.132798+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Manchester United Europe 2000, 2 lagbildeserier, 2 serier fra 1930, fotballkort",
       "pris": 65,
@@ -1182,22 +1198,6 @@
       "pris": 69,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480919052",
       "funnet": "2026-11-13T21:40:25.576328+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort EX kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918900",
-      "funnet": "2026-11-13T21:38:24.335050+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon mystery pack",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/447615907",
-      "funnet": "2026-11-13T21:36:17.548337+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
