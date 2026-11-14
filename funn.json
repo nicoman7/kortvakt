@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T10:04:15.591046+00:00",
+  "sist_sjekket": "2026-11-14T10:06:28.121116+00:00",
   "funn": [
+    {
+      "tittel": "Upper Deck Artifacts Cole Koepke Rookie hockeykort 527/999",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480935217",
+      "funnet": "2026-11-14T10:06:28.119750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Reshiram RC22 Pokémon kort",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-14T00:10:26.767939+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Prismatic Eveloution – 6 kort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480922552",
-      "funnet": "2026-11-14T00:04:15.744099+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
