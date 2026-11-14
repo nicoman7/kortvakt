@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T09:16:14.800786+00:00",
+  "sist_sjekket": "2026-11-14T09:18:16.824481+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th Mew samleboks",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480930654",
+      "funnet": "2026-11-14T09:18:16.823044+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Larvitar samling (2005-2025)",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480930993",
+      "funnet": "2026-11-14T09:18:16.011726+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mange ulike pokemon kort",
       "pris": 123,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480921779",
       "funnet": "2026-11-13T23:22:17.629020+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Real Madrid fotballkort samling",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456918748",
-      "funnet": "2026-11-13T23:22:17.348504+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-11-13T23:22:16.977891+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
