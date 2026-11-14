@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T17:30:48.035791+00:00",
+  "sist_sjekket": "2026-11-14T17:32:15.387614+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480379371",
+      "funnet": "2026-11-14T17:32:15.385719+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Dawn 118/094 illustration rare - Phantasmal Flames FRI FRAKT",
       "pris": 85,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480968192",
       "funnet": "2026-11-14T15:20:28.733591+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon bulk",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480967694",
-      "funnet": "2026-11-14T15:20:27.943320+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
