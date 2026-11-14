@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T08:42:16.339953+00:00",
+  "sist_sjekket": "2026-11-14T08:44:15.406781+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort – Messi, Haaland, Ronaldo m.fl.",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480927970",
+      "funnet": "2026-11-14T08:44:15.405456+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon alolan Exeggutor 30th celebrations",
       "pris": 24,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480921473",
       "funnet": "2026-11-13T22:58:18.212640+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon charmander perm for kort",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480921414",
-      "funnet": "2026-11-13T22:56:18.873960+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
