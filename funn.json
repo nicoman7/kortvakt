@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T09:34:14.919707+00:00",
+  "sist_sjekket": "2026-11-14T09:36:15.970348+00:00",
   "funn": [
+    {
+      "tittel": "Vintage samling med Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480932434",
+      "funnet": "2026-11-14T09:36:15.967941+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon - 10 kort",
       "pris": 125,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480696388",
       "funnet": "2026-11-13T23:32:16.190624+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort fra Topps Chrome 2025",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480920580",
-      "funnet": "2026-11-13T23:30:44.476950+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
