@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T18:04:14.637304+00:00",
+  "sist_sjekket": "2026-11-14T18:06:16.343352+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/263507371",
+      "funnet": "2026-11-14T18:06:16.341463+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Blastoise LV 52 japansk pokemon 1 Edition",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480979985",
+      "funnet": "2026-11-14T18:06:16.071592+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480971733",
       "funnet": "2026-11-14T16:00:55.735654+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toni Fernandez 2025-26 Panini Pitch Kings #5 Rookies II Barcelona",
-      "pris": 95,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480971706",
-      "funnet": "2026-11-14T16:00:55.477665+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Growlithe 106/103 – Illustration Rare – Delta Reign",
-      "pris": 219,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480971872",
-      "funnet": "2026-11-14T16:00:55.215969+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
