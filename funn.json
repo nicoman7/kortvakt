@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T16:28:26.235148+00:00",
+  "sist_sjekket": "2026-11-14T16:30:46.313810+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480973781",
+      "funnet": "2026-11-14T16:30:46.312253+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-11-14T16:30:45.919614+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Engelsk meowth kort",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480963021",
       "funnet": "2026-11-14T14:26:20.337515+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bellsprout & Weepinbell Vintage Pokemon Jungle Kort Samlet",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480962489",
-      "funnet": "2026-11-14T14:26:19.559752+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Caterpie Flashfire (1)",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480962854",
-      "funnet": "2026-11-14T14:26:18.822706+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
