@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T17:38:17.502485+00:00",
+  "sist_sjekket": "2026-11-14T17:40:35.099910+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort pawmot",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480978451",
+      "funnet": "2026-11-14T17:40:35.098353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort – 30th celebration samling med Charizard, Pikachu og Mewtwo",
       "pris": 199,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480968535",
       "funnet": "2026-11-14T15:24:16.023291+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort 30th celebration",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480968369",
-      "funnet": "2026-11-14T15:22:17.635455+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
