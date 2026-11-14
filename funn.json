@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T23:06:17.852988+00:00",
+  "sist_sjekket": "2026-11-14T23:08:17.503401+00:00",
   "funn": [
+    {
+      "tittel": "Samling med Pokémon produkter sealed",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480994203",
+      "funnet": "2026-11-14T23:08:17.501830+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Charizard VMAX SWSH261",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480994242",
+      "funnet": "2026-11-14T23:08:17.132440+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Gyarados samlekort",
       "pris": 90,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480988566",
       "funnet": "2026-11-14T20:36:15.863912+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fri Frakt Pokémon Mega Gengar ex 269/217 Mega Attack Rare Ascended Heroes",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480988556",
-      "funnet": "2026-11-14T20:32:16.335174+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Scyther-kort 70 HP 1999 Pokemon TCG Jungle Scyther HOLO 10/64",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480988505",
-      "funnet": "2026-11-14T20:32:15.647826+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
