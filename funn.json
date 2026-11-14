@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-14T17:52:15.628062+00:00",
+  "sist_sjekket": "2026-11-14T17:54:27.771751+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456153201",
+      "funnet": "2026-11-14T17:54:27.770096+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 30 Celebrations kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480978707",
+      "funnet": "2026-11-14T17:54:27.465859+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/378169363",
+      "funnet": "2026-11-14T17:54:27.149161+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort wailord japansk",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480979465",
+      "funnet": "2026-11-14T17:54:26.391637+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Stellar Crown - Pokemon Kort 2024",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480979151",
+      "funnet": "2026-11-14T17:54:25.597125+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kort",
       "pris": null,
@@ -1159,46 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480970195",
       "funnet": "2026-11-14T15:42:18.106523+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Div kort fra 30th celebration",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480970075",
-      "funnet": "2026-11-14T15:42:17.794048+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Chrome MLS WK-22 LUCAS HERRINGTON RC Wonderkids Insert",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480969807",
-      "funnet": "2026-11-14T15:38:15.563749+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "TWICE With YOU-th Chaeyoung WITHMUU pre order benefit fotokort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480969481",
-      "funnet": "2026-11-14T15:36:15.485398+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor mengde fotballkort fra UEFA 2020",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480920781",
-      "funnet": "2026-11-14T15:28:17.752902+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotball kort stor samling!",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480969162",
-      "funnet": "2026-11-14T15:28:17.123183+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
