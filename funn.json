@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T10:22:16.094452+00:00",
+  "sist_sjekket": "2026-11-14T10:24:16.575645+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort blandet lot",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480936596",
+      "funnet": "2026-11-14T10:24:16.574397+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "One Piece Card Game Shiraoshi OP03-116 samlekort foil",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-14T00:48:15.618419+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Umbreon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480923004",
-      "funnet": "2026-11-14T00:46:15.613480+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
