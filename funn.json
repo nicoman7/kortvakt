@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T06:40:24.974155+00:00",
+  "sist_sjekket": "2026-11-14T06:42:18.918563+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480924875",
+      "funnet": "2026-11-14T06:42:18.916863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort til Danielle",
       "pris": 65,
@@ -1190,14 +1198,6 @@
       "pris": 49,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480918047",
       "funnet": "2026-11-13T21:16:17.871019+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Singles",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/419222906",
-      "funnet": "2026-11-13T21:16:17.329074+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
