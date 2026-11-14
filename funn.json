@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T20:40:24.619238+00:00",
+  "sist_sjekket": "2026-11-14T20:42:15.677066+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 135,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480989076",
+      "funnet": "2026-11-14T20:42:15.675532+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Chinese Charmander First Partner 30th Anniversary",
       "pris": 300,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/262040125",
       "funnet": "2026-11-14T18:08:17.724954+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/308848053",
-      "funnet": "2026-11-14T18:08:17.120786+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
