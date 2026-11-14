@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T09:22:17.427246+00:00",
+  "sist_sjekket": "2026-11-14T09:24:14.322124+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480931700",
+      "funnet": "2026-11-14T09:24:14.320919+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Meowth 106/094 Illustration rare",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480931656",
+      "funnet": "2026-11-14T09:24:13.790626+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Deoxys EX Energy Burst Pokémonkort",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480921799",
       "funnet": "2026-11-13T23:24:27.814938+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Pikachu 031/128 (09/30) –30th Celebration",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480921825",
-      "funnet": "2026-11-13T23:22:18.480420+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Groudon 082/128 – 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480921817",
-      "funnet": "2026-11-13T23:22:17.860114+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
