@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-14T11:42:17.811887+00:00",
+  "sist_sjekket": "2026-11-14T11:44:16.176052+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480945039",
+      "funnet": "2026-11-14T11:44:16.174348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mewtwo promo kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480945285",
+      "funnet": "2026-11-14T11:44:15.599462+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome UCC 25-26 Konstantinos Karetsas RC Genk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480945355",
+      "funnet": "2026-11-14T11:44:15.355465+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome MLS Zavier Gozo /150 Real Salt Lake",
       "pris": 85,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-14T09:18:16.823044+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Larvitar samling (2005-2025)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480930993",
-      "funnet": "2026-11-14T09:18:16.011726+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mange ulike pokemon kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
-      "funnet": "2026-11-14T09:16:14.799183+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ledyba, Vintage Pokemon kort, Skyridge 2003",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480930129",
-      "funnet": "2026-11-14T09:06:14.876796+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
