@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T23:28:17.854875+00:00",
+  "sist_sjekket": "2026-11-14T23:30:43.292222+00:00",
   "funn": [
+    {
+      "tittel": "Mange ulike pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
+      "funnet": "2026-11-14T23:30:43.290505+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Storm Emeralda M6 - Japansk Booster Box Sealed",
       "pris": 999,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480989653",
       "funnet": "2026-11-14T20:54:16.512863+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 145,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480989533",
-      "funnet": "2026-11-14T20:52:17.158203+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
