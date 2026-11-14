@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T06:26:16.035198+00:00",
+  "sist_sjekket": "2026-11-14T06:28:16.281168+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480924688",
+      "funnet": "2026-11-14T06:28:16.279337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NEWCASTLE UNITED -  TOPPS FLAGSHIP PL 2026/27 - MED 22 KORT INKL 8 STK INSERTS",
       "pris": 485,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-13T21:16:17.037087+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Journey Together singles",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/418953657",
-      "funnet": "2026-11-13T21:14:19.899910+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
