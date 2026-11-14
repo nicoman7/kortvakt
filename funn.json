@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T07:14:13.814202+00:00",
+  "sist_sjekket": "2026-11-14T07:16:17.592705+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/367524491",
+      "funnet": "2026-11-14T07:16:17.591079+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "(Nye priser) Størst utvalg av Panini AdrenalynXL World Cup 2026 (Fotballkort)",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480917817",
       "funnet": "2026-11-13T21:16:19.070676+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Purrloin 135/236 - Pokemon Unified Minds",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918080",
-      "funnet": "2026-11-13T21:16:18.798955+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
