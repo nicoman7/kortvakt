@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-14T00:02:15.098638+00:00",
+  "sist_sjekket": "2026-11-14T00:04:15.745335+00:00",
   "funn": [
+    {
+      "tittel": "Prismatic Eveloution – 6 kort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480922552",
+      "funnet": "2026-11-14T00:04:15.744099+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort, 10 japanske graderte kort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480644695",
+      "funnet": "2026-11-14T00:04:15.009306+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort Oddish - Gloom - Vileplume — 12kort!",
       "pris": 150,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480917103",
       "funnet": "2026-11-13T20:58:19.564955+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hyper Devolution Spray 73/75 - Pokemon Neo Discovery",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480917325",
-      "funnet": "2026-11-13T20:58:19.249719+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mew ex 152/128 30th celebration secret rare",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480917182",
-      "funnet": "2026-11-13T20:58:18.347426+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
