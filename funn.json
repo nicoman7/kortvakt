@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T10:26:18.594237+00:00",
+  "sist_sjekket": "2026-11-14T10:28:16.488991+00:00",
   "funn": [
+    {
+      "tittel": "Fotball permer.",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480937178",
+      "funnet": "2026-11-14T10:28:16.486964+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Match Attax fotballkort i metallboks",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480922976",
       "funnet": "2026-11-14T00:56:20.403929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort vaporeon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480923076",
-      "funnet": "2026-11-14T00:54:17.509615+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
