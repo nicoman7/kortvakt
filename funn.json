@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-14T21:26:17.602078+00:00",
+  "sist_sjekket": "2026-11-14T21:28:19.427966+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480991147",
+      "funnet": "2026-11-14T21:28:19.426357+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 3-pk nøkkelringer med Charizard, Blastoise og Venusaur",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480984052",
       "funnet": "2026-11-14T19:14:16.714080+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 12 kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480984010",
-      "funnet": "2026-11-14T19:12:16.248520+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
