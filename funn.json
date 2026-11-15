@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-15T19:52:14.753854+00:00",
+  "sist_sjekket": "2026-11-15T19:54:14.378498+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon trener-kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481083775",
+      "funnet": "2026-11-15T19:54:14.377385+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Topps 1999 – Squirtle, Wartortle & Blastoise | Blue Logo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481084130",
+      "funnet": "2026-11-15T19:54:13.772891+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manchester United-portrettkort, samling med fotballspillere",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481083579",
+      "funnet": "2026-11-15T19:54:13.156440+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Konate fotballkort 01/09",
       "pris": 300,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/474124545",
       "funnet": "2026-11-15T18:12:16.138019+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal lot 1 – 24 forskjellige fotballkort til julekalender",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480651443",
-      "funnet": "2026-11-15T18:12:15.266629+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "HOLO Vaporeon #12 Pokemon Jungle",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481073598",
-      "funnet": "2026-11-15T18:10:29.351527+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon - Rare Candy #256/198",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481073603",
-      "funnet": "2026-11-15T18:10:28.391299+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
