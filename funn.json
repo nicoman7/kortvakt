@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-15T14:44:14.715910+00:00",
+  "sist_sjekket": "2026-11-15T14:46:20.274334+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - 11 kort",
+      "pris": 120,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481033100",
+      "funnet": "2026-11-15T14:46:20.272633+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kortpakker med bulk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481048843",
+      "funnet": "2026-11-15T14:46:19.454498+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokeman samlerkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480645896",
+      "funnet": "2026-11-15T14:46:18.723818+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon permer",
       "pris": 600,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480995759",
       "funnet": "2026-11-15T12:34:22.027801+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Antonio Nusa 2025-26 Topps Chrome Bundesliga Ornaments Purple Refractor /75",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481028800",
-      "funnet": "2026-11-15T12:34:21.799894+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ludicolo 2/18 fra Pokemon Detective Pikachu",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481028424",
-      "funnet": "2026-11-15T12:30:53.536019+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jigglypuff 14/18 fra Pokemon Detective Pikachu",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481028059",
-      "funnet": "2026-11-15T12:30:53.198045+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
