@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T18:04:24.162350+00:00",
+  "sist_sjekket": "2026-11-15T18:06:17.640089+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex SAR #126 30th (Kinesisk)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481073063",
+      "funnet": "2026-11-15T18:06:17.638373+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kortstativ for samlekort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481073210",
+      "funnet": "2026-11-15T18:06:17.387435+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu pokemon kort selges kr 99 kr pp, near mint",
       "pris": 99,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481066667",
       "funnet": "2026-11-15T17:04:16.703127+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Stellar Crown 35kort",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481066699",
-      "funnet": "2026-11-15T17:04:16.426027+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Twice Sana fotokortsett",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481066253",
-      "funnet": "2026-11-15T17:02:21.956699+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
