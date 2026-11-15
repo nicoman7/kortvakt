@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T19:06:18.239489+00:00",
+  "sist_sjekket": "2026-11-15T19:08:16.919086+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort bulk",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481078644",
+      "funnet": "2026-11-15T19:08:16.917413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-15T19:08:16.320395+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Mewtwo og Mew kort",
       "pris": 1234,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481070538",
       "funnet": "2026-11-15T17:40:30.205239+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pakkekalender",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481070447",
-      "funnet": "2026-11-15T17:40:29.819225+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "6 stk Patched Porobot uncommon Riftbound samlekort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481070443",
-      "funnet": "2026-11-15T17:40:29.457667+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
