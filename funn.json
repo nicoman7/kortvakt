@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T13:06:17.058258+00:00",
+  "sist_sjekket": "2026-11-15T13:08:24.329648+00:00",
   "funn": [
+    {
+      "tittel": "Joao Neves Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481034269",
+      "funnet": "2026-11-15T13:08:24.328207+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Joshua Kimmich Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481034401",
+      "funnet": "2026-11-15T13:08:23.774547+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kylian Mbappe Fotballkort",
       "pris": 100,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481014058",
       "funnet": "2026-11-15T10:54:17.836303+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – samling med ulike Pokémon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480727039",
-      "funnet": "2026-11-15T10:54:17.461903+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard VSTAR samlekort CZ",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481013682",
-      "funnet": "2026-11-15T10:52:15.025672+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
