@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T18:52:15.243925+00:00",
+  "sist_sjekket": "2026-11-15T18:54:16.840247+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges - gi bud.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481077632",
+      "funnet": "2026-11-15T18:54:16.838943+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "HOLO Lapras #10 Pokemon Fossil",
       "pris": 350,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481070018",
       "funnet": "2026-11-15T17:36:15.203228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-11-15T17:36:14.605842+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
