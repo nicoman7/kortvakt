@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T22:04:18.147048+00:00",
+  "sist_sjekket": "2026-11-15T22:06:17.569221+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort samling",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481093338",
+      "funnet": "2026-11-15T22:06:17.567533+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mr. Mime #122 Pokemon Japanese Jungle",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481082517",
       "funnet": "2026-11-15T19:40:27.758872+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Duo – EX Holon Phantoms (2006) | Delta Species",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481082740",
-      "funnet": "2026-11-15T19:40:27.439222+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
