@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T10:26:23.455208+00:00",
+  "sist_sjekket": "2026-11-15T10:28:21.032749+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/239864747",
+      "funnet": "2026-11-15T10:28:21.031407+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Pitch Black Mega Excadrill ex 103/084",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481010836",
+      "funnet": "2026-11-15T10:28:20.808974+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Phantasmal Flames Mega Heracross ex 108/094",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480993378",
       "funnet": "2026-11-14T22:32:17.078130+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pedri 2020-21 Topps Chrome UEFA Champions League Sapphire Edition Rookie PSA 10",
-      "pris": 1899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480993333",
-      "funnet": "2026-11-14T22:32:16.717171+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 non holo bulk",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480582910",
-      "funnet": "2026-11-14T22:32:16.278641+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
