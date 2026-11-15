@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-15T18:14:18.492599+00:00",
+  "sist_sjekket": "2026-11-15T18:16:23.438743+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481074153",
+      "funnet": "2026-11-15T18:16:23.437180+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse samlekort gies bort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481074442",
+      "funnet": "2026-11-15T18:16:22.572759+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Zapdos #30 Pokemon Fossil",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481074280",
+      "funnet": "2026-11-15T18:16:22.260595+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort ex kort, Charizard, arcanine, fairy-typer osv",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696474",
+      "funnet": "2026-11-15T18:16:21.930433+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 9 Charmander base set 2 (utgitt i 2000) pokemonkort common #69/130",
       "pris": 700,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481067631",
       "funnet": "2026-11-15T17:14:18.614843+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Celebrations samlekortalbum",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481067573",
-      "funnet": "2026-11-15T17:14:17.830453+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Exeggutor GX og Charizard V",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481067509",
-      "funnet": "2026-11-15T17:14:17.093124+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon card Groudon #049",
-      "pris": 7,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481067642",
-      "funnet": "2026-11-15T17:14:16.300655+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Chrome Premier League – Alexander Isak #117 /30 – Liverpool FC",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481067182",
-      "funnet": "2026-11-15T17:14:15.538076+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
