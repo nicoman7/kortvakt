@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T07:48:16.673345+00:00",
+  "sist_sjekket": "2026-11-15T07:50:24.488295+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480998899",
+      "funnet": "2026-11-15T07:50:24.486939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort- Sawsbuck",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480991177",
       "funnet": "2026-11-14T21:30:42.788746+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480991229",
-      "funnet": "2026-11-14T21:30:42.380193+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
