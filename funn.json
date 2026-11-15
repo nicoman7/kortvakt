@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T21:02:15.389530+00:00",
+  "sist_sjekket": "2026-11-15T21:04:16.278620+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon jumbo promo kort",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481089833",
+      "funnet": "2026-11-15T21:04:16.276970+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Rattata samlekort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481089840",
+      "funnet": "2026-11-15T21:04:15.784257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⭐ ENGELSK IKON! Harry Kane – Panini FIFA World Cup 2026 Adrenalyn XL Icon",
       "pris": 59,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-15T18:54:16.838943+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "HOLO Lapras #10 Pokemon Fossil",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481076776",
-      "funnet": "2026-11-15T18:50:27.226662+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 2025-26 – Willian Pacho – Pink Auto – /250",
-      "pris": 249,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481077888",
-      "funnet": "2026-11-15T18:50:26.551489+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
