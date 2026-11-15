@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T20:42:18.005834+00:00",
+  "sist_sjekket": "2026-11-15T20:44:17.672863+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sleeves fra ETB",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458376622",
+      "funnet": "2026-11-15T20:44:17.671348+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Delta Reign - Liten EX pakke, 3 ulike kort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481076746",
       "funnet": "2026-11-15T18:40:25.925169+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu – 01/30 – Ken Sugimori – 30th Celebration (ENG) ⚡",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481076650",
-      "funnet": "2026-11-15T18:38:17.175813+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
