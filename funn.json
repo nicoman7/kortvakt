@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-15T13:40:26.493031+00:00",
+  "sist_sjekket": "2026-11-15T13:42:20.557995+00:00",
   "funn": [
+    {
+      "tittel": "Team Aqua Technical Machine 01 - Pokemon",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481039062",
+      "funnet": "2026-11-15T13:42:20.556368+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Aerodactyl #16 Pokemon Fossil",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481040102",
+      "funnet": "2026-11-15T13:42:19.760654+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481031572",
+      "funnet": "2026-11-15T13:42:18.946795+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – samling med ulike Pokémon",
       "pris": null,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480583308",
       "funnet": "2026-11-15T11:38:15.752097+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps fotball kort 26/27",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480581496",
-      "funnet": "2026-11-15T11:36:16.651114+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Base Set Growlithe 28/102",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481020337",
-      "funnet": "2026-11-15T11:36:15.894565+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Base Set Charmeleon 24/102",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481019925",
-      "funnet": "2026-11-15T11:34:16.788981+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
