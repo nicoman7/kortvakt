@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T06:56:14.255594+00:00",
+  "sist_sjekket": "2026-11-15T06:58:15.906057+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480997781",
+      "funnet": "2026-11-15T06:58:15.904537+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th celebration boosterbundel",
       "pris": 725,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480990672",
       "funnet": "2026-11-14T21:18:26.758682+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon Sakura Pokemon Mobile Sticker",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/444075108",
-      "funnet": "2026-11-14T21:18:26.002778+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
