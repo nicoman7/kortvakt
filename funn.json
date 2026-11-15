@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T15:54:16.606762+00:00",
+  "sist_sjekket": "2026-11-15T15:56:15.692935+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481058083",
+      "funnet": "2026-11-15T15:56:15.691420+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481033710",
       "funnet": "2026-11-15T13:04:16.304695+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nusa, Ryerson og Strand Larsen – 3 norske fotballkort",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481033120",
-      "funnet": "2026-11-15T13:02:16.895055+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
