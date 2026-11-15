@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T22:10:26.124273+00:00",
+  "sist_sjekket": "2026-11-15T22:12:17.602167+00:00",
   "funn": [
+    {
+      "tittel": "Upper deck vm 1994 fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481093548",
+      "funnet": "2026-11-15T22:12:17.600304+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "🔴 KAPTEINENS KRAFT! Bruno Fernandes – Topps Match Attax (Manchester United)",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481093504",
+      "funnet": "2026-11-15T22:12:16.828599+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Martin Ødegaard Panini Road to UEFA Euro 2016 Psa 9",
       "pris": 999,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481083117",
       "funnet": "2026-11-15T19:44:24.292192+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Unik Pokemon shiny ex og boosterpakker julekalender",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481081639",
-      "funnet": "2026-11-15T19:44:23.691214+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Natu samlekort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481083034",
-      "funnet": "2026-11-15T19:42:15.680124+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
