@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T02:22:15.811769+00:00",
+  "sist_sjekket": "2026-11-15T02:24:16.990789+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Adventkalender fra 300kr",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/458058645",
+      "funnet": "2026-11-15T02:24:16.989244+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - engelsk & japansk",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480990554",
       "funnet": "2026-11-14T21:16:16.862042+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Samling",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480990663",
-      "funnet": "2026-11-14T21:16:16.071589+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
