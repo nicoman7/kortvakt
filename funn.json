@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-15T11:34:16.790793+00:00",
+  "sist_sjekket": "2026-11-15T11:36:16.652593+00:00",
   "funn": [
+    {
+      "tittel": "Topps fotball kort 26/27",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480581496",
+      "funnet": "2026-11-15T11:36:16.651114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Base Set Growlithe 28/102",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481020337",
+      "funnet": "2026-11-15T11:36:15.894565+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Base Set Charmeleon 24/102",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-15T01:48:17.411652+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort - Mystery Packs - Pitch Black",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480696388",
-      "funnet": "2026-11-15T01:32:15.122244+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mystery packs. God packs og graderte kort.",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480748212",
-      "funnet": "2026-11-15T01:26:14.566038+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
