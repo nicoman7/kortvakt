@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T00:56:14.641427+00:00",
+  "sist_sjekket": "2026-11-15T00:58:18.903675+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480995787",
+      "funnet": "2026-11-15T00:58:18.902164+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480990454",
       "funnet": "2026-11-14T21:12:16.339114+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Psyduck Pokémon-kort",
-      "pris": 190,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480990494",
-      "funnet": "2026-11-14T21:12:15.783622+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
