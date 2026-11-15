@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-15T18:58:17.206221+00:00",
+  "sist_sjekket": "2026-11-15T19:00:54.600968+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort selges - gi bud",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481078559",
+      "funnet": "2026-11-15T19:00:54.599455+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Samlepakke Fernandez",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481078862",
+      "funnet": "2026-11-15T19:00:53.860224+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - Mystery Packs - Pitch Black",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696388",
+      "funnet": "2026-11-15T19:00:53.538447+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering Bog Wraith 30th Anniversary Edition-kort",
       "pris": 100,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481070345",
       "funnet": "2026-11-15T17:38:25.227575+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Perm med Pokémon kort fra 2010-2022",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480583669",
-      "funnet": "2026-11-15T17:38:24.688305+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort- Gigalith 129/086 fra White Flare",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475656723",
-      "funnet": "2026-11-15T17:38:24.094795+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew ex 152/128 Special Illustration Rare - 30th Celebration",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481068325",
-      "funnet": "2026-11-15T17:38:23.876761+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
