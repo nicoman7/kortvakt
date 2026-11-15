@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T06:12:13.832846+00:00",
+  "sist_sjekket": "2026-11-15T06:14:15.423545+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Energy",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480997173",
+      "funnet": "2026-11-15T06:14:15.421809+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "F1 Topps 2026 Turbo Chrome Sergio Perez",
       "pris": 249,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480990744",
       "funnet": "2026-11-14T21:18:25.706302+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort latias 11/110 near mint",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480990705",
-      "funnet": "2026-11-14T21:18:25.383729+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
