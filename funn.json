@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T14:10:32.583327+00:00",
+  "sist_sjekket": "2026-11-15T14:12:17.352352+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-15T14:12:17.350918+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Milo #275 Pokemon Japanese VMAX Climax",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481023101",
       "funnet": "2026-11-15T11:58:17.618821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nummerert fotballkort av Oscar Bobb selges!",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481022290",
-      "funnet": "2026-11-15T11:58:17.365135+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
