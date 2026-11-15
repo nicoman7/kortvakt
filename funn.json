@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T22:34:23.855328+00:00",
+  "sist_sjekket": "2026-11-15T22:36:15.781190+00:00",
   "funn": [
+    {
+      "tittel": "Star wars samlekort!",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481094430",
+      "funnet": "2026-11-15T22:36:15.780026+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Digimon samlekort",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481054528",
       "funnet": "2026-11-15T20:02:17.905252+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reshiram - Shining Fates - Amazing rare",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481084821",
-      "funnet": "2026-11-15T20:02:16.958178+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
