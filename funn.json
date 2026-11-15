@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-15T09:58:16.358434+00:00",
+  "sist_sjekket": "2026-11-15T10:00:55.114682+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - svært brukt!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481007090",
+      "funnet": "2026-11-15T10:00:55.113109+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Call of Legends Cheerleader's Cheer Reverse Holo 76/95",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481007643",
+      "funnet": "2026-11-15T10:00:54.843599+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th celebration kort med tilbehør fra celebration og delta reign",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481007147",
+      "funnet": "2026-11-15T10:00:54.119660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu promo-kort",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481005972",
+      "funnet": "2026-11-15T10:00:53.323280+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome MLS 2026 Wonderkids /99 Peyton Miller",
       "pris": 85,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-14T22:00:57.170597+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebrations Pikachu ex promokort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480992444",
-      "funnet": "2026-11-14T22:00:56.365648+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🔥Billige pokemonpakker🔥 Kun 28 igjen! EX-kort i alle pakker",
-      "pris": 79,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
-      "funnet": "2026-11-14T22:00:55.483906+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Panini Adrenalyn XL 2026 FIFA World Cup Sander Berge",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480992338",
-      "funnet": "2026-11-14T21:58:14.505293+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Basketball kort samling. 90 tallet.",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480992177",
-      "funnet": "2026-11-14T21:56:18.199983+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
