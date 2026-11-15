@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T13:22:14.945820+00:00",
+  "sist_sjekket": "2026-11-15T13:24:16.746831+00:00",
   "funn": [
+    {
+      "tittel": "Avtalt salg - Pokémon-kort Pikachu samling 9stk",
+      "pris": 135,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481035764",
+      "funnet": "2026-11-15T13:24:16.745042+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort fra CL 2012/2013",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481017516",
       "funnet": "2026-11-15T11:18:17.869542+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Great Encounters Jigglypuff 72/106",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481017663",
-      "funnet": "2026-11-15T11:18:17.346589+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
