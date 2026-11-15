@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T14:38:16.776423+00:00",
+  "sist_sjekket": "2026-11-15T14:40:28.414543+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon permer",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481048034",
+      "funnet": "2026-11-15T14:40:28.413001+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini VM 2026 – 175 kort inkl. Messi/Ronaldo Golden Baller og Haaland Giant",
       "pris": 900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481028059",
       "funnet": "2026-11-15T12:30:53.198045+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering samling",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481025835",
-      "funnet": "2026-11-15T12:30:52.406886+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
