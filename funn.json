@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T01:46:17.960908+00:00",
+  "sist_sjekket": "2026-11-15T01:48:17.413292+00:00",
   "funn": [
+    {
+      "tittel": "Graderte pokemonkort selges billig!!",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475091558",
+      "funnet": "2026-11-15T01:48:17.411652+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - Mystery Packs - Pitch Black",
       "pris": 25,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480990478",
       "funnet": "2026-11-14T21:14:18.636339+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jérémy Jacquet 2025-26 Panini Foot Ligue 1 Sticker Rookie PSA 9",
-      "pris": 1399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480990477",
-      "funnet": "2026-11-14T21:14:17.919433+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
