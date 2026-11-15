@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-15T14:34:15.165687+00:00",
+  "sist_sjekket": "2026-11-15T14:36:15.384260+00:00",
   "funn": [
+    {
+      "tittel": "Mange ulike pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/477814408",
+      "funnet": "2026-11-15T14:36:15.383061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Adrenalyn XL metallboks",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481028173",
       "funnet": "2026-11-15T12:30:51.453150+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulbasaur 1/18 fra Pokemon Detective Pikachu",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481028724",
-      "funnet": "2026-11-15T12:30:51.125800+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
