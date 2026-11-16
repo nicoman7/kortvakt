@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T17:08:17.562276+00:00",
+  "sist_sjekket": "2026-11-16T17:10:31.783660+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pikachu",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481141100",
+      "funnet": "2026-11-16T17:10:31.781738+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - ACEROLA",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481125384",
       "funnet": "2026-11-16T13:40:25.469973+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon card N's Reshiram #116",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481125181",
-      "funnet": "2026-11-16T13:38:19.631280+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
