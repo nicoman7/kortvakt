@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-16T21:26:19.143275+00:00",
+  "sist_sjekket": "2026-11-16T21:28:22.051555+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 18/30 (040/128) - 30th celebration",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481164345",
+      "funnet": "2026-11-16T21:28:22.049857+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu 11/30 (033/128) - 30th celebration",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481164432",
+      "funnet": "2026-11-16T21:28:21.742031+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort: Eevee, Meowscarada ex, Espeon, Palafin ex og Hoothoot",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480898534",
+      "funnet": "2026-11-16T21:28:20.656804+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Pikachu 23/30 (045/128) - 30th celebration",
       "pris": 15,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481150043",
       "funnet": "2026-11-16T18:50:28.693687+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481150218",
-      "funnet": "2026-11-16T18:50:28.449331+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Disney Stitch Samle kort (XL)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/460575111",
-      "funnet": "2026-11-16T18:48:20.692846+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samling Pokemon kort - ulike språk - EX, IR, SIR ++",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478260029",
-      "funnet": "2026-11-16T18:48:19.998376+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
