@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T14:08:17.214556+00:00",
+  "sist_sjekket": "2026-11-16T14:10:29.913478+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481128122",
+      "funnet": "2026-11-16T14:10:29.911955+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Lunatone & Solrock GX samlekort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481115450",
       "funnet": "2026-11-16T11:40:26.523792+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hydreigon 62/111 - Pokemon Crimson Invasion",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481115218",
-      "funnet": "2026-11-16T11:38:17.484697+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
