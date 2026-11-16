@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T07:16:15.039107+00:00",
+  "sist_sjekket": "2026-11-16T07:18:28.192763+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481099583",
+      "funnet": "2026-11-16T07:18:28.191275+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "falsk kort",
       "pris": 280,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481093945",
       "funnet": "2026-11-15T22:22:16.653380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Mystery Packs - Pitch Black",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480696388",
-      "funnet": "2026-11-15T22:22:15.826355+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
