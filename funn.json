@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T21:20:25.727249+00:00",
+  "sist_sjekket": "2026-11-16T21:22:16.408755+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort gradert og ikke gradert",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479865794",
+      "funnet": "2026-11-16T21:22:16.406901+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - AR kort fra 30th Celebration Japansk",
       "pris": 60,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481149928",
       "funnet": "2026-11-16T18:48:19.046528+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG samling ~2350 kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480860141",
-      "funnet": "2026-11-16T18:48:18.337239+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
