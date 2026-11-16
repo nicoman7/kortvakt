@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T14:56:17.031078+00:00",
+  "sist_sjekket": "2026-11-16T14:58:15.573486+00:00",
   "funn": [
+    {
+      "tittel": "Kakuna - Pokemon",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481131633",
+      "funnet": "2026-11-16T14:58:15.572185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Sylveon Tin (Uåpnet, engelsk)",
       "pris": 699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481116452",
       "funnet": "2026-11-16T11:52:19.047137+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Phione 57/236 - Pokemon Cosmic Eclipse",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481116461",
-      "funnet": "2026-11-16T11:52:18.249736+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
