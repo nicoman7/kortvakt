@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T16:50:26.241363+00:00",
+  "sist_sjekket": "2026-11-16T16:52:17.575524+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon hits IR/SIR/EX samlet i binder",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481139339",
+      "funnet": "2026-11-16T16:52:17.574017+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Arcanine 18/112",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480465355",
+      "funnet": "2026-11-16T16:52:16.717114+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gammelt (år 2002) Togepi Pokémon kort #56 Pokemon Neo Destiny",
       "pris": 1650,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481123785",
       "funnet": "2026-11-16T13:18:17.663177+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rayquaza - Promo - 003/S-P - Japansk Pokemon Kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481079295",
-      "funnet": "2026-11-16T13:18:16.884835+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kortsamling – Mega EX, GX, IR, AR, Full Art – Engelsk og japansk",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481123661",
-      "funnet": "2026-11-16T13:18:16.207915+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
