@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T16:24:17.937271+00:00",
+  "sist_sjekket": "2026-11-16T16:26:33.816415+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pichu",
+      "pris": 85,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481137609",
+      "funnet": "2026-11-16T16:26:33.815032+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "pokemon card Umbreon #059",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481137673",
+      "funnet": "2026-11-16T16:26:33.497427+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon card Glaceon #025",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481122197",
       "funnet": "2026-11-16T12:58:16.351044+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toxicroak 36/123 - Pokemon Mysterious Treasures",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481122300",
-      "funnet": "2026-11-16T12:58:16.118424+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Over 1000 pokemonkort i perm",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481121115",
-      "funnet": "2026-11-16T12:58:15.570038+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
