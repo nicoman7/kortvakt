@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T07:14:15.689435+00:00",
+  "sist_sjekket": "2026-11-16T07:16:15.039107+00:00",
   "funn": [
+    {
+      "tittel": "falsk kort",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481099500",
+      "funnet": "2026-11-16T07:16:15.037260+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Omanyte - Pokemon",
       "pris": 30,
@@ -1190,14 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480696388",
       "funnet": "2026-11-15T22:22:15.826355+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mareep - Pokemon",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481093886",
-      "funnet": "2026-11-15T22:20:26.438493+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
