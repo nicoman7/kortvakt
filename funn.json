@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T16:28:16.645951+00:00",
+  "sist_sjekket": "2026-11-16T16:30:58.387385+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481137969",
+      "funnet": "2026-11-16T16:30:58.385889+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lionel Messi Hall of Fame Match Attax-kort",
       "pris": 850,
@@ -1190,14 +1198,6 @@
       "pris": 29,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481122518",
       "funnet": "2026-11-16T13:01:00.002063+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Usaring 38/123 - Pokemon Mysterious Treasures",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481122419",
-      "funnet": "2026-11-16T13:00:59.241821+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
