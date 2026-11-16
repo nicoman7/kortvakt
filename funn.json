@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T17:38:18.896456+00:00",
+  "sist_sjekket": "2026-11-16T17:40:36.713282+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Fabrizio Ravanelli (Middlesbrough)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480971398",
+      "funnet": "2026-11-16T17:40:36.711782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Juninho (Middlesbrough)",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480971611",
+      "funnet": "2026-11-16T17:40:35.815893+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Moltres illustration rare pokemon kort",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-16T14:58:15.572185+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Sylveon Tin (Uåpnet, engelsk)",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481130781",
-      "funnet": "2026-11-16T14:56:17.029240+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Telekort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/339900583",
-      "funnet": "2026-11-16T14:54:30.821679+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
