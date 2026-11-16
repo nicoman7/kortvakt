@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T06:28:14.215793+00:00",
+  "sist_sjekket": "2026-11-16T06:30:53.317950+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Energy",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481098714",
+      "funnet": "2026-11-16T06:30:53.316400+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "2026 Topps Chrome Star Wars Aayla Secura #170",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481098768",
+      "funnet": "2026-11-16T06:30:52.482332+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Promo",
       "pris": 300,
@@ -1182,22 +1198,6 @@
       "pris": 19,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481092866",
       "funnet": "2026-11-15T21:56:15.919817+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lugia ex Unseen Forces pokemon kort!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481092776",
-      "funnet": "2026-11-15T21:54:15.824025+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu PSA 9 – SV-P Promo 120/SV-P – japansk Pokémon-kort",
-      "pris": 296,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480714725",
-      "funnet": "2026-11-15T21:52:23.947018+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
