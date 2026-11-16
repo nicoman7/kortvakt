@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T21:04:15.395942+00:00",
+  "sist_sjekket": "2026-11-16T21:06:17.441900+00:00",
   "funn": [
+    {
+      "tittel": "Div Pokemon kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480169998",
+      "funnet": "2026-11-16T21:06:17.440291+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu EX 150/128 30th Celebration",
       "pris": 700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481149575",
       "funnet": "2026-11-16T18:44:33.863323+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Shiny Gyarados 123/123 – HeartGold & SoulSilver 2010 – Holo",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481149332",
-      "funnet": "2026-11-16T18:44:33.529079+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
