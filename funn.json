@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T16:58:18.268350+00:00",
+  "sist_sjekket": "2026-11-16T17:01:04.011423+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort ex kort, Charizard, arcanine, fairy-typer osv",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696474",
+      "funnet": "2026-11-16T17:01:04.009892+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Base Set - Booster pack HEAVY uåpnet/sealed - Venusaur art",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-16T13:28:20.737850+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481124325",
-      "funnet": "2026-11-16T13:26:17.043497+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
