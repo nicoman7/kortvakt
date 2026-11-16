@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T13:42:15.490599+00:00",
+  "sist_sjekket": "2026-11-16T13:44:15.471231+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481125771",
+      "funnet": "2026-11-16T13:44:15.469891+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "ca 11 kg pokemon",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 2000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481112903",
       "funnet": "2026-11-16T11:22:17.045736+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masquerain 2/101 - Pokemon Plasma Blast",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481113965",
-      "funnet": "2026-11-16T11:22:16.691835+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
