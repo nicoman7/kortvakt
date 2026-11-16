@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T15:40:27.675683+00:00",
+  "sist_sjekket": "2026-11-16T15:42:17.176360+00:00",
   "funn": [
+    {
+      "tittel": "pokemon card Flareon #013",
+      "pris": 13,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481134547",
+      "funnet": "2026-11-16T15:42:17.174808+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "POKEMON PSA 10 + MER",
+      "pris": 67,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481133911",
+      "funnet": "2026-11-16T15:42:16.832156+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort Primarina og Pokémon-kort Pidgey ( Japansk )",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481117066",
       "funnet": "2026-11-16T12:14:25.538969+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort ex kort, Charizard, arcanine, fairy-typer osv",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480696474",
-      "funnet": "2026-11-16T12:14:24.955380+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Antonio Nusa RC – Topps Merlin Aqua Refractor Rookie",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481115732",
-      "funnet": "2026-11-16T12:12:20.618545+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
