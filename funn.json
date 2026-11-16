@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-16T14:52:15.420996+00:00",
+  "sist_sjekket": "2026-11-16T14:54:30.823129+00:00",
   "funn": [
+    {
+      "tittel": "Telekort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/339900583",
+      "funnet": "2026-11-16T14:54:30.821679+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Destined Rivals Booster Bundle",
       "pris": 999,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481116519",
       "funnet": "2026-11-16T11:52:17.404495+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Chilling Reign sealed",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480832827",
-      "funnet": "2026-11-16T11:52:16.343918+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
