@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-16T14:18:17.335004+00:00",
+  "sist_sjekket": "2026-11-16T14:20:26.623663+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481128908",
+      "funnet": "2026-11-16T14:20:26.622398+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon BULK",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481128902",
+      "funnet": "2026-11-16T14:20:26.186611+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Scarlet & Violet 151 Booster Bundle",
       "pris": 1999,
@@ -1182,22 +1198,6 @@
       "pris": 25,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481115796",
       "funnet": "2026-11-16T11:44:15.456819+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 2025-26 – Estêvão Willian – RayWave Refractor RC – #66",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481115464",
-      "funnet": "2026-11-16T11:42:15.901867+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glalie 22/101 - Pokemon Plasma Blast",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481115566",
-      "funnet": "2026-11-16T11:42:15.559510+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
