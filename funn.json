@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T20:10:33.221808+00:00",
+  "sist_sjekket": "2026-11-17T20:12:21.352259+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mewtwo, Charizard, Gengar, Dwebble.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481226004",
+      "funnet": "2026-11-17T20:12:21.350458+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samlebilder fra 1972",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481227588",
+      "funnet": "2026-11-17T20:12:20.782794+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "15 stykk Adrenalyn panini VM-kort",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T18:20:42.956810+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ho-Oh #52 WOTC PROMO \"Pokemon Center NY\"",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481187865",
-      "funnet": "2026-11-17T18:20:42.186377+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "123x Topps Chrome UCC 2025/26 Parallels – Selges enkeltvis eller samlet",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481219206",
-      "funnet": "2026-11-17T18:20:41.864189+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
