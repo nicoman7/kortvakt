@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T21:28:14.934179+00:00",
+  "sist_sjekket": "2026-11-17T21:30:48.817751+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Div IR UR",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481232556",
+      "funnet": "2026-11-17T21:30:48.816027+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kaoru Mitoma Unstoppable fotballkort Panini",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481232701",
+      "funnet": "2026-11-17T21:30:48.212202+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Bundesliga Ragnar Ache fotballkort",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T19:04:18.849370+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Camerupt ex 022/132 fra Pokemon Mega evolutions",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481222625",
-      "funnet": "2026-11-17T19:04:18.024496+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481222288",
-      "funnet": "2026-11-17T19:04:17.673969+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
