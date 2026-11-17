@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T08:06:14.447368+00:00",
+  "sist_sjekket": "2026-11-17T08:08:17.352930+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort – samling",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481174312",
+      "funnet": "2026-11-17T08:08:17.351513+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️ Fotballkort Tippeligaen 98 - 105 stk base og sjekklister",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481163428",
       "funnet": "2026-11-16T21:14:18.704378+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort samling",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481163461",
-      "funnet": "2026-11-16T21:14:17.915363+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
