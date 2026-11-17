@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T15:01:01.802130+00:00",
+  "sist_sjekket": "2026-11-17T15:02:17.952710+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Team Rocket Returns Dark Magneton 39/109",
+      "pris": 66,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481204521",
+      "funnet": "2026-11-17T15:02:17.951175+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Aquapolis Pinsir 101/147",
       "pris": 74,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T13:08:17.002971+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon - engelsk & japansk",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
-      "funnet": "2026-11-17T13:08:16.441947+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
