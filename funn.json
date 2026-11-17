@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T09:06:18.799500+00:00",
+  "sist_sjekket": "2026-11-17T09:08:25.114423+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Tony Adams fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481177735",
+      "funnet": "2026-11-17T09:08:25.113006+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ David Seaman fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
       "funnet": "2026-11-16T22:26:17.142136+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort 30th celebration hits ex promo",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481166751",
-      "funnet": "2026-11-16T22:24:23.612968+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
