@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T22:48:14.300924+00:00",
+  "sist_sjekket": "2026-11-17T22:50:29.929235+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling",
+      "pris": 1099,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481235356",
+      "funnet": "2026-11-17T22:50:29.927636+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🔥Billige pokemonpakker🔥 Kun 24 igjen! EX-kort i alle pakker",
+      "pris": 79,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
+      "funnet": "2026-11-17T22:50:29.680220+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Meowth 144/128 – 30th Anniversary – Illustration Rare",
       "pris": 49,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T19:52:22.751481+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration – Flotte Illustration Rares, EX-kort + 126g bulk!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481226141",
-      "funnet": "2026-11-17T19:52:22.382792+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Promo - Team Rocket's Wobbuffet (sealed)",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481225662",
-      "funnet": "2026-11-17T19:52:21.547491+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
