@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T16:28:17.353799+00:00",
+  "sist_sjekket": "2026-11-17T16:30:48.087163+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th Anniversary Ultra-Premium Collection eske med tilbehør",
+      "pris": 375,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481210293",
+      "funnet": "2026-11-17T16:30:48.085497+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Anniversary – Nesten komplett Base Set – Mangler 3 kort",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T14:20:27.401527+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Slowpoke 1st Edition Pokemon-kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481201154",
-      "funnet": "2026-11-17T14:18:19.451781+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
