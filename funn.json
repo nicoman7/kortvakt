@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T09:10:50.450900+00:00",
+  "sist_sjekket": "2026-11-17T09:12:23.565651+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Ray Parlour fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481177935",
+      "funnet": "2026-11-17T09:12:23.564074+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️ Emmanuel Petit fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481178062",
+      "funnet": "2026-11-17T09:12:22.992326+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ Marc Overmars fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481167448",
       "funnet": "2026-11-16T22:41:45.336900+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard 11 reverse holo",
-      "pris": 859,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481167134",
-      "funnet": "2026-11-16T22:30:43.938813+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "PSA 10 - PSA 8 Graderte Kort Til Salg",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481166969",
-      "funnet": "2026-11-16T22:28:18.468578+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
