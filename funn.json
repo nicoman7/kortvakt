@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T21:24:16.409001+00:00",
+  "sist_sjekket": "2026-11-17T21:26:21.165748+00:00",
   "funn": [
+    {
+      "tittel": "Topps Bundesliga Ragnar Ache fotballkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481232562",
+      "funnet": "2026-11-17T21:26:21.164016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Crustle (Art Rare / Illustration Rare)",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T19:04:17.673969+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon darkrai & cresselia Legend kort",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481222360",
-      "funnet": "2026-11-17T19:04:16.855232+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
