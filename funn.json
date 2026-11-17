@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T16:44:17.153113+00:00",
+  "sist_sjekket": "2026-11-17T16:46:24.209812+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG Live kodekort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481211869",
+      "funnet": "2026-11-17T16:46:24.208348+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon - Chilling Reign sealed",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480832827",
+      "funnet": "2026-11-17T16:46:23.992082+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic MTG Secret Lair x Sonic the Hedgehog Friends & Foes Rainbow Foil kortsett",
       "pris": 1400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T14:24:20.862812+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Persian 78/64",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481201635",
-      "funnet": "2026-11-17T14:24:19.926825+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️ Sol Campbell fotballkort - Merlin’s Premier Gold 99",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481201719",
-      "funnet": "2026-11-17T14:24:18.984863+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
