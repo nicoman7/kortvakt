@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T15:54:18.673034+00:00",
+  "sist_sjekket": "2026-11-17T15:56:17.872466+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon FireRed & LeafGreen Pidgeot Holo 10/112",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481208338",
+      "funnet": "2026-11-17T15:56:17.870931+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Aquapolis Steelix 35/147",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T14:04:16.450178+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Vintage kort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481199898",
-      "funnet": "2026-11-17T14:04:16.188046+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
