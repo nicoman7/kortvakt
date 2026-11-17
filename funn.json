@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T08:42:16.942255+00:00",
+  "sist_sjekket": "2026-11-17T08:44:15.666121+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-11-17T08:44:15.664636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard (kinesisk)",
       "pris": 540,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481164513",
       "funnet": "2026-11-16T21:30:46.204739+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – samling",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481164624",
-      "funnet": "2026-11-16T21:30:45.824016+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
