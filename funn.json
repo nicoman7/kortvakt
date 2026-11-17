@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T01:30:43.957375+00:00",
+  "sist_sjekket": "2026-11-17T01:32:16.098661+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
+      "funnet": "2026-11-17T01:32:16.097034+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480832827",
       "funnet": "2026-11-16T19:52:16.107684+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort selges! Charizard, Pikachu, Rayquaza etc",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481155436",
-      "funnet": "2026-11-16T19:50:27.095415+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
