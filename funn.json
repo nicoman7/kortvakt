@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T11:34:20.156500+00:00",
+  "sist_sjekket": "2026-11-17T11:36:15.141210+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG-permer med kortlommer",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481187799",
+      "funnet": "2026-11-17T11:36:15.140004+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu Lv.12 70/100",
       "pris": 580,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T09:36:17.422023+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⚽️ Kevin Gallacher fotballkort - Merlin’s Premier Gold 99",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481179547",
-      "funnet": "2026-11-17T09:36:17.088568+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
