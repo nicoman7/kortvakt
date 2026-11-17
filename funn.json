@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T10:00:56.260279+00:00",
+  "sist_sjekket": "2026-11-17T10:02:17.951754+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Gianfranco Zola fotballkort - Merlin’s Premier Gold 99",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481181318",
+      "funnet": "2026-11-17T10:02:17.949982+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Oscar Bobb fotballkort fra 2023!  Nummerert 19/99",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481180522",
+      "funnet": "2026-11-17T10:02:17.150376+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "R2-D2 COST-5 2026 Topps Chrome Star Wars",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T01:40:27.295106+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort 30th bulk",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481169465",
-      "funnet": "2026-11-17T01:40:26.373811+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
-      "funnet": "2026-11-17T01:32:16.097034+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
