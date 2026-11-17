@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-17T14:08:19.202371+00:00",
+  "sist_sjekket": "2026-11-17T14:10:32.729146+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Paolo di Canio fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481200551",
+      "funnet": "2026-11-17T14:10:32.727205+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon arbok 176/162",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481200621",
+      "funnet": "2026-11-17T14:10:31.832121+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Mewtwo EX (2 stk)",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480176835",
+      "funnet": "2026-11-17T14:10:31.113066+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort ex kort, Charizard, arcanine, fairy-typer osv",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480696474",
+      "funnet": "2026-11-17T14:10:30.315500+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️ Benito Carbone fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481190752",
       "funnet": "2026-11-17T12:10:27.720467+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Slowpoke #10 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481097291",
-      "funnet": "2026-11-17T12:08:15.543283+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Reshiram #8 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481097288",
-      "funnet": "2026-11-17T12:08:15.310061+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Raichu 33/90 - Pokemon Undaunted (2010)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481189850",
-      "funnet": "2026-11-17T12:06:26.685835+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Riolu 60/95 - Pokemon Unleashed (2010)",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481189760",
-      "funnet": "2026-11-17T12:06:26.473877+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
