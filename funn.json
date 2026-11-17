@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T15:04:22.588418+00:00",
+  "sist_sjekket": "2026-11-17T15:06:20.448608+00:00",
   "funn": [
+    {
+      "tittel": "Charizard ex 056 Promo",
+      "pris": 359,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481204687",
+      "funnet": "2026-11-17T15:06:20.446986+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Deoxys Tropius Reverse Holo 27/107",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481204869",
+      "funnet": "2026-11-17T15:06:19.627904+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Diamond & Pearl Starly Reverse Holo 101/130",
       "pris": 80,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-17T13:10:32.777133+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⚽️ Paul Merson fotballkort - Merlin’s Premier Gold 99",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481195645",
-      "funnet": "2026-11-17T13:10:31.969791+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger pokemon rumble kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
-      "funnet": "2026-11-17T13:10:31.039008+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
