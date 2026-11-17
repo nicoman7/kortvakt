@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-17T14:02:23.325776+00:00",
+  "sist_sjekket": "2026-11-17T14:04:16.451874+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Pierre van Hooijdonk fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481200088",
+      "funnet": "2026-11-17T14:04:16.450178+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon Vintage kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481199898",
+      "funnet": "2026-11-17T14:04:16.188046+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Shining Volcanion",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480176931",
+      "funnet": "2026-11-17T14:04:15.858308+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481200228",
+      "funnet": "2026-11-17T14:04:15.547359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Leafeon VSTAR samlekort SWSH195 PROMO",
       "pris": 35,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-17T11:56:15.492043+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morpeko #52 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481097309",
-      "funnet": "2026-11-17T11:54:25.809070+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scarlet & violet 151 samling",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481188862",
-      "funnet": "2026-11-17T11:54:25.060733+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toxtricity #51 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481097307",
-      "funnet": "2026-11-17T11:54:24.754273+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – blandede kort",
-      "pris": 1998,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481189367",
-      "funnet": "2026-11-17T11:54:24.452370+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
