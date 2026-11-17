@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T12:34:28.966119+00:00",
+  "sist_sjekket": "2026-11-17T12:36:20.091923+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Emile Heskey fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481192913",
+      "funnet": "2026-11-17T12:36:20.090391+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️ Steve McManaman fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481192989",
+      "funnet": "2026-11-17T12:36:19.745972+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort: Eevee, Meowscarada ex, Espeon, Palafin ex og Hoothoot",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480898534",
+      "funnet": "2026-11-17T12:36:19.446646+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ Matt Elliott fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481183760",
       "funnet": "2026-11-17T10:36:19.812321+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️ Michael Ball fotballkort - Merlin’s Premier Gold 99",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481183503",
-      "funnet": "2026-11-17T10:34:17.982773+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu-kort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481183508",
-      "funnet": "2026-11-17T10:34:17.203707+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Chilling Reign sealed",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480832827",
-      "funnet": "2026-11-17T10:34:16.858554+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
