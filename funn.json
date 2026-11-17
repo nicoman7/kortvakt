@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T19:14:18.217823+00:00",
+  "sist_sjekket": "2026-11-17T19:16:17.054118+00:00",
   "funn": [
+    {
+      "tittel": "Charizard - reservert",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481223607",
+      "funnet": "2026-11-17T19:16:17.052352+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mega Kangaskhan ex 104/132 fra Pokemon Mega evolutions",
       "pris": 39,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481216382",
       "funnet": "2026-11-17T17:44:17.301284+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes Mega Audino ex 253/217",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481216365",
-      "funnet": "2026-11-17T17:44:16.941657+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
