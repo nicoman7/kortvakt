@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T15:26:18.727450+00:00",
+  "sist_sjekket": "2026-11-17T15:28:17.828515+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG Classic samleboks",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481206211",
+      "funnet": "2026-11-17T15:28:17.827320+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Team Rocket Returns Dark Marowak Holo 7/109",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481206390",
+      "funnet": "2026-11-17T15:28:17.156588+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Sylveon Vmax #TG15 - Pokemon Brilliant Stars PSA 10",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481206420",
+      "funnet": "2026-11-17T15:28:16.820170+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Ditto Premium Collection",
       "pris": 950,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-17T13:48:17.605870+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Temporal Forces 2024 – sortert kortsamling med perm",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481198314",
-      "funnet": "2026-11-17T13:48:16.875125+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokemonsamling - 20k for alt! Aquapolis/Expedition - 35 holo/rev holo",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480851411",
-      "funnet": "2026-11-17T13:48:16.158532+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes deluxe pin box 🤩",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481198549",
-      "funnet": "2026-11-17T13:46:15.491870+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
