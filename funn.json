@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T10:18:15.846187+00:00",
+  "sist_sjekket": "2026-11-17T10:20:31.419973+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Mart Poom fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481182558",
+      "funnet": "2026-11-17T10:20:31.418519+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️ Cheistian Dailly fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481182641",
+      "funnet": "2026-11-17T10:20:30.639461+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Shuckle 1st Edition Pokemon-kort",
+      "pris": 55,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481182601",
+      "funnet": "2026-11-17T10:20:30.304884+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️ Dion Dublin fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1174,30 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481169289",
       "funnet": "2026-11-17T03:12:20.677510+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Poke Pad #102 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481169312",
-      "funnet": "2026-11-17T03:10:33.076825+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ultra Ball #101 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481169304",
-      "funnet": "2026-11-17T03:10:32.770417+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Switch #103 Pokemon Japanese 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481169317",
-      "funnet": "2026-11-17T03:08:20.656675+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
