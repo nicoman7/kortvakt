@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T09:42:16.834754+00:00",
+  "sist_sjekket": "2026-11-17T09:44:16.631842+00:00",
   "funn": [
+    {
+      "tittel": "Ariados 1st Edition Pokemon-kort",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481179912",
+      "funnet": "2026-11-17T09:44:16.629950+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "⚽️ Richard Rufus fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481180140",
+      "funnet": "2026-11-17T09:44:16.371702+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️ Keith Jones fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481180210",
+      "funnet": "2026-11-17T09:44:16.023053+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ Sasa Ilic fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481168540",
       "funnet": "2026-11-16T23:34:23.706985+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hisuian Zorua 122/103 – Art Rare (AR) – 30th Celebration (japansk)",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481168525",
-      "funnet": "2026-11-16T23:34:23.481080+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Morpeko 135/128 – Illustration Rare – 30th Celebration",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481168521",
-      "funnet": "2026-11-16T23:34:23.245229+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Articuno 132/128 – Illustration Rare – 30th Celebration",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481168503",
-      "funnet": "2026-11-16T23:32:19.026294+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
