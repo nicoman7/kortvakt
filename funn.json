@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T20:16:21.585126+00:00",
+  "sist_sjekket": "2026-11-17T20:18:25.310275+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Psyduck Pokémonkort",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481228183",
+      "funnet": "2026-11-17T20:18:25.308800+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – Perm",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-17T18:26:29.483625+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh! samlekort – blandet lot",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480895452",
-      "funnet": "2026-11-17T18:26:28.965929+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
