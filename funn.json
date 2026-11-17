@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T07:28:18.292274+00:00",
+  "sist_sjekket": "2026-11-17T07:30:47.061549+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG-kortpakke – Groudon, Shaymin, Metagross m.fl.",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481173077",
+      "funnet": "2026-11-17T07:30:47.059488+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon LV x og diverse kort selges",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481160861",
       "funnet": "2026-11-16T20:46:17.496782+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 030/128 – 30th Celebration – 08/30 Holo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481160368",
-      "funnet": "2026-11-16T20:46:16.823028+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
