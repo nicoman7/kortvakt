@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-17T09:22:20.734216+00:00",
+  "sist_sjekket": "2026-11-17T09:24:15.269990+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Ian Taylor fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481178873",
+      "funnet": "2026-11-17T09:24:15.268414+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ Ugo Ehiogu fotballkort - Merlin’s Premier Gold 99",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480841963",
       "funnet": "2026-11-16T22:58:15.211774+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th 30 pikachu",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481167803",
-      "funnet": "2026-11-16T22:56:19.221051+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
