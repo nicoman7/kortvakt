@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T17:16:17.798545+00:00",
+  "sist_sjekket": "2026-11-17T17:18:15.729045+00:00",
   "funn": [
+    {
+      "tittel": "One piece samling (selges samlet)",
+      "pris": 1750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481214259",
+      "funnet": "2026-11-17T17:18:15.727538+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes Mega Hawlucha ex 268/217",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481214352",
+      "funnet": "2026-11-17T17:18:15.500018+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes N's PP Up 262/217",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481214561",
+      "funnet": "2026-11-17T17:18:15.259434+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini Premier League Plus fotballkort Diego Jota",
       "pris": 50,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-17T14:58:16.247519+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dragon Bagon 49/97",
-      "pris": 24,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481204000",
-      "funnet": "2026-11-17T14:56:26.466333+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
-      "funnet": "2026-11-17T14:56:25.889354+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Nintendo Black Star Promos Groudon ex 002",
-      "pris": 340,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481203838",
-      "funnet": "2026-11-17T14:52:19.684761+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
