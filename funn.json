@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-17T13:54:17.620882+00:00",
+  "sist_sjekket": "2026-11-17T13:56:25.276873+00:00",
   "funn": [
+    {
+      "tittel": "⚽️ Andy Johnson fotballkort - Merlin’s Premier Gold 99",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481199598",
+      "funnet": "2026-11-17T13:56:25.275486+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "⚽️ Jon Olav Hjelde fotballkort - Merlin’s Premier Gold 99",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481199520",
+      "funnet": "2026-11-17T13:56:25.073382+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NFL-samlekort med spillere 15 stk",
       "pris": 365,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481189575",
       "funnet": "2026-11-17T11:44:23.232726+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Adventkalender fra 300kr",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/458058645",
-      "funnet": "2026-11-17T11:42:15.562584+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 60/106",
-      "pris": 105,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481188096",
-      "funnet": "2026-11-17T11:38:14.231635+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
