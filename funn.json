@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-17T17:40:29.505858+00:00",
+  "sist_sjekket": "2026-11-17T17:42:19.552931+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
+      "funnet": "2026-11-17T17:42:19.551437+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Lott 13 - gode danske telekort",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481216216",
+      "funnet": "2026-11-17T17:42:19.199138+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Lott 14 - gode danske telekort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481216290",
+      "funnet": "2026-11-17T17:42:18.673292+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kecleon Pokemon Delta Reign",
       "pris": 350,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481207179",
       "funnet": "2026-11-17T15:40:36.971173+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Lapras 131/128 - Illustration Rare - 30th Celebration",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481207053",
-      "funnet": "2026-11-17T15:38:16.964435+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Holon Phantoms Latios 22/110 (Delta Species)",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481207006",
-      "funnet": "2026-11-17T15:36:18.224729+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skyridge Holos m/ prisliste",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/456168362",
-      "funnet": "2026-11-17T15:36:17.887925+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
