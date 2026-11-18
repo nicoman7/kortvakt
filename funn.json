@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T14:56:17.897608+00:00",
+  "sist_sjekket": "2026-11-18T14:58:17.744201+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th ex kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481270993",
+      "funnet": "2026-11-18T14:58:17.742463+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️High-End Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 39,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481255686",
       "funnet": "2026-11-18T11:44:18.474710+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hippopotas 105/182 | Vanlig kort | Destined Rivals",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481255861",
-      "funnet": "2026-11-18T11:44:17.690966+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
