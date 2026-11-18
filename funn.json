@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T12:12:18.015241+00:00",
+  "sist_sjekket": "2026-11-18T12:14:15.297358+00:00",
   "funn": [
+    {
+      "tittel": "Magic The Gathering samling",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481258002",
+      "funnet": "2026-11-18T12:14:15.296167+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort samling i album",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481244117",
       "funnet": "2026-11-18T08:54:22.936723+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Venusaur ex - Pokémon kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481243983",
-      "funnet": "2026-11-18T08:52:19.958148+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
