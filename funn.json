@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T07:20:30.134950+00:00",
+  "sist_sjekket": "2026-11-18T07:22:16.846038+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481240322",
+      "funnet": "2026-11-18T07:22:16.844610+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Rød Bundle magic! Ca 695 kort!",
       "pris": 695,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481231417",
       "funnet": "2026-11-17T21:06:16.426710+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Judge - Pokemon",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481231447",
-      "funnet": "2026-11-17T21:06:15.885739+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
