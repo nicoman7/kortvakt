@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T21:26:18.843090+00:00",
+  "sist_sjekket": "2026-11-18T21:28:27.474750+00:00",
   "funn": [
+    {
+      "tittel": "Vintage samling med Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480932434",
+      "funnet": "2026-11-18T21:28:27.473346+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Sealed Mimikyu #75 Pokemon Promo",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479866016",
       "funnet": "2026-11-18T19:04:22.162809+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480868393",
-      "funnet": "2026-11-18T19:04:21.481178+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
