@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-18T00:18:16.234402+00:00",
+  "sist_sjekket": "2026-11-18T00:20:27.067436+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 booster bundle",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481237177",
+      "funnet": "2026-11-18T00:20:27.065976+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "pokemon kort",
+      "pris": 260,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481237166",
+      "funnet": "2026-11-18T00:20:26.792938+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu nr 13",
       "pris": 15,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481228452",
       "funnet": "2026-11-17T20:20:30.262280+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Psyduck Pokémonkort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481228183",
-      "funnet": "2026-11-17T20:18:25.308800+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – Perm",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481227491",
-      "funnet": "2026-11-17T20:16:21.583597+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
