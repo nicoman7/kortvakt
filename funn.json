@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T00:14:21.672238+00:00",
+  "sist_sjekket": "2026-11-18T00:16:19.747697+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu nr 13",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481237135",
+      "funnet": "2026-11-18T00:16:19.745934+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Charizard #137 (Japansk) – App Gradert 9.6! Sterk PSA 10-kandidat! | Pokémon",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481227491",
       "funnet": "2026-11-17T20:16:21.583597+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort i perm",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481227881",
-      "funnet": "2026-11-17T20:16:21.238499+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
