@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T09:42:16.033657+00:00",
+  "sist_sjekket": "2026-11-18T09:44:17.674973+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Team Rocket",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481247148",
+      "funnet": "2026-11-18T09:44:17.673355+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "5x Topps Chrome UCC 2025/26 Harry Kane #182 – Selges samlet",
       "pris": 650,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
       "funnet": "2026-11-17T21:52:17.974910+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger samling.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
-      "funnet": "2026-11-17T21:50:28.414681+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
