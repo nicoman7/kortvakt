@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T19:40:30.990646+00:00",
+  "sist_sjekket": "2026-11-18T19:42:28.672077+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Skarmory 27/165 (dmg)",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481291623",
+      "funnet": "2026-11-18T19:42:28.670754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Eevee 054/078  fra Pokemon go",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-18T17:28:18.611478+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Groudon (What’s Your Favorite Stamp) Pokémonkort Promo",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481281244",
-      "funnet": "2026-11-18T17:26:17.846216+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
