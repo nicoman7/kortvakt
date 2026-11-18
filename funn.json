@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T14:44:32.136003+00:00",
+  "sist_sjekket": "2026-11-18T14:46:18.799295+00:00",
   "funn": [
+    {
+      "tittel": "Hits selges samlet i binder Full art/IR/SIR/EX",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481270101",
+      "funnet": "2026-11-18T14:46:18.797429+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Weepinbell 65/147 pokemon kort",
       "pris": 110,
@@ -1190,14 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481255014",
       "funnet": "2026-11-18T11:36:15.093010+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary – 3 spesielle samlekort selges",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481255000",
-      "funnet": "2026-11-18T11:34:18.545228+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
