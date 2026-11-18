@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T06:08:15.427397+00:00",
+  "sist_sjekket": "2026-11-18T06:10:26.325981+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Flareon ex samlekort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481239190",
+      "funnet": "2026-11-18T06:10:26.324117+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Retro Super-Trumpf bilkort fra Olsen – Grand Prix Formel sportsbiler",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481230916",
       "funnet": "2026-11-17T20:58:16.288380+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "MTG Final Fantasy Commander-pakke – 4 kort: Sin, Gatta and Luzzu, Shadow m.fl.",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481224096",
-      "funnet": "2026-11-17T20:58:16.067314+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
