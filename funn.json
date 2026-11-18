@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T09:50:27.490515+00:00",
+  "sist_sjekket": "2026-11-18T09:52:15.053426+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - M Gyarados EX 27/122. Ultra Rare Full Art Holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481247567",
+      "funnet": "2026-11-18T09:52:15.051864+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Venusaur ex Special Illustration Rare #198",
       "pris": 1100,
@@ -1190,14 +1198,6 @@
       "pris": 600,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481234061",
       "funnet": "2026-11-17T22:02:19.428245+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort Mew/Mewtwo samling",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481233942",
-      "funnet": "2026-11-17T21:58:17.976307+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
