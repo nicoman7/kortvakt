@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-18T21:06:16.841778+00:00",
+  "sist_sjekket": "2026-11-18T21:08:18.944306+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Gyarados 8/107",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481297614",
+      "funnet": "2026-11-18T21:08:18.942576+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-11-18T21:08:18.184587+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Feraligatr 2/101",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-18T18:44:14.503671+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Litten Art Rare (AR) fra Gem Pack Vol. 4 CGC 10 Pristine",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479119339",
-      "funnet": "2026-11-18T18:42:26.193313+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Booster Bundle",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480774543",
-      "funnet": "2026-11-18T18:42:25.983322+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
