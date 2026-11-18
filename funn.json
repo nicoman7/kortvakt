@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T21:04:26.687840+00:00",
+  "sist_sjekket": "2026-11-18T21:06:16.841778+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Feraligatr 2/101",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481297481",
+      "funnet": "2026-11-18T21:06:16.839812+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - Dark Slowking 9/109",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-18T18:42:25.983322+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort Trent Alexander-Arnold /10 – Futera Unique Match Worn EXKLUSIVT",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481287336",
-      "funnet": "2026-11-18T18:42:25.473514+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
