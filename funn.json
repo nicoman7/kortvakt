@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T03:42:17.779767+00:00",
+  "sist_sjekket": "2026-11-18T03:44:20.499581+00:00",
   "funn": [
+    {
+      "tittel": "Megastore Pokémon Victini V-kort",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481238043",
+      "funnet": "2026-11-18T03:44:20.498364+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort Celebi, Charmander og Clefairy",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481230449",
       "funnet": "2026-11-17T20:50:29.131523+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481230165",
-      "funnet": "2026-11-17T20:50:28.838452+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
