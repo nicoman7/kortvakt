@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-18T19:44:15.963310+00:00",
+  "sist_sjekket": "2026-11-18T19:46:16.108216+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu 30th Celebration",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481291895",
+      "funnet": "2026-11-18T19:46:16.107223+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Selger pokemon rumble kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478044085",
+      "funnet": "2026-11-18T19:46:15.783297+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Skarmory 27/165 (dmg)",
       "pris": 50,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-18T17:28:19.870780+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ny pris! Panini FIFA World Cup kort oppdatert 24/10",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/474392060",
-      "funnet": "2026-11-18T17:28:19.443002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 30th Blister",
-      "pris": 310,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477883769",
-      "funnet": "2026-11-18T17:28:18.611478+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
