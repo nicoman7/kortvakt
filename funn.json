@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T06:16:17.293980+00:00",
+  "sist_sjekket": "2026-11-18T06:18:15.475551+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon TCG Espeon Delta Species-kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481239291",
+      "funnet": "2026-11-18T06:18:15.474342+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Incandecent Arcana pokemonkort",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481231127",
       "funnet": "2026-11-17T21:01:02.226382+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse One Piece kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481231217",
-      "funnet": "2026-11-17T21:01:01.470073+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
