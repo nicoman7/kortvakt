@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-18T09:54:17.080903+00:00",
+  "sist_sjekket": "2026-11-18T09:56:17.832816+00:00",
   "funn": [
+    {
+      "tittel": "Selger samling.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
+      "funnet": "2026-11-18T09:56:17.831284+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - M Gyarados EX 27/122. Ultra Rare Full Art Holo",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480994047",
       "funnet": "2026-11-17T22:04:18.045919+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort 30th celebration samling bulk +hits",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481234061",
-      "funnet": "2026-11-17T22:02:19.428245+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
