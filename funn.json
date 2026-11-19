@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T22:18:22.650386+00:00",
+  "sist_sjekket": "2026-11-19T22:20:27.195087+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome UCC 25-26 Rodri Manchester City",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481362669",
+      "funnet": "2026-11-19T22:20:27.193561+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Phil Foden Manchester City",
       "pris": 5,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481354034",
       "funnet": "2026-11-19T19:46:16.823558+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon PSA 10 / ACE 10 – Pikachu, Latias, Snorlax & Zekrom | Salg/Bytte",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481039554",
-      "funnet": "2026-11-19T19:46:16.274750+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
