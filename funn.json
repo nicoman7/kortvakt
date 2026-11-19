@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-19T12:28:19.870235+00:00",
+  "sist_sjekket": "2026-11-19T12:30:51.482079+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort – Pikachu, Lapras",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481324436",
+      "funnet": "2026-11-19T12:30:51.480616+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon 30th celebration",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481324599",
+      "funnet": "2026-11-19T12:30:50.730240+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu ex 107 Promo",
       "pris": 400,
@@ -1182,22 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481303080",
       "funnet": "2026-11-19T01:16:29.519357+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Sidon Ithano 2026 Topps Chrome Star Wars #59",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481303103",
-      "funnet": "2026-11-19T01:10:27.268308+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort – Personlig Julekalender - Du velger budsjett - Pakkekalender",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478453198",
-      "funnet": "2026-11-19T01:10:26.547502+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
