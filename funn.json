@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T19:24:20.031773+00:00",
+  "sist_sjekket": "2026-11-19T19:26:17.982850+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 27/30 (049/128) - 30th celebration",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481353012",
+      "funnet": "2026-11-19T19:26:17.980903+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Brock Bowers 🏈 Las Vegas Raiders 🏈 NFL Football kort",
       "pris": 49,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T17:06:18.009361+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort og metallboks",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470776527",
-      "funnet": "2026-11-19T17:04:18.127582+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
