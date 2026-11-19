@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T07:04:19.367744+00:00",
+  "sist_sjekket": "2026-11-19T07:06:15.801105+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon produkter",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481305318",
+      "funnet": "2026-11-19T07:06:15.799586+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Premier League Lucas Bergvall Premier Pull",
       "pris": 300,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481300804",
       "funnet": "2026-11-18T22:24:17.124798+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mewtwo Lot – 4 Pokémon-kort | Team Rocket ex, 151, Stellar Crown, Unbroken Bonds",
-      "pris": 399,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481300608",
-      "funnet": "2026-11-18T22:20:28.613111+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
