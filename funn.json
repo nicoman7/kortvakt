@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T14:22:17.238192+00:00",
+  "sist_sjekket": "2026-11-19T14:24:19.904242+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tin boks",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481333159",
+      "funnet": "2026-11-19T14:24:19.902530+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Steven’s Metagross ex #289 ACE 9 Pokemon Ascended Heroes",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481310101",
       "funnet": "2026-11-19T09:08:15.997710+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration - Mew RGB - PROXY",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481235718",
-      "funnet": "2026-11-19T09:06:23.982545+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
