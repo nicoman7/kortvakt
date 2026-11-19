@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T16:18:30.159933+00:00",
+  "sist_sjekket": "2026-11-19T16:20:29.937864+00:00",
   "funn": [
+    {
+      "tittel": "Samling med søte pokemon kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481340120",
+      "funnet": "2026-11-19T16:20:29.935699+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Bruno Fernandes 1/1 fotballkort",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T13:14:15.908694+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 2stk Pikachu, 27/111 & 26/83",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481327750",
-      "funnet": "2026-11-19T13:14:15.298628+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
