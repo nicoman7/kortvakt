@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T19:26:17.982850+00:00",
+  "sist_sjekket": "2026-11-19T19:28:30.699872+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Pikachu 09/30 (031/128) - 30th celebrations",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481353151",
+      "funnet": "2026-11-19T19:28:30.698424+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu 27/30 (049/128) - 30th celebration",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T17:06:18.655044+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle idhockey kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/209532010",
-      "funnet": "2026-11-19T17:06:18.009361+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
