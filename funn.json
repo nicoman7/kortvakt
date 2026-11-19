@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-19T20:02:17.261856+00:00",
+  "sist_sjekket": "2026-11-19T20:04:18.146234+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Tazos",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/250059509",
+      "funnet": "2026-11-19T20:04:18.144572+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "2026 Topps Simplicidad UCC - Gianluigi Donnarumma Infranqueables Manchester City",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481355759",
+      "funnet": "2026-11-19T20:04:17.416454+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Chrome UCC 25-26 Khvicha Kvaratskhelia Psg",
       "pris": 5,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480866491",
       "funnet": "2026-11-19T17:28:18.835983+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Charmander",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481345106",
-      "funnet": "2026-11-19T17:28:17.931501+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu - Pokémon kort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481345037",
-      "funnet": "2026-11-19T17:28:17.114449+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
