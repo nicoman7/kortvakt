@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T00:10:28.171537+00:00",
+  "sist_sjekket": "2026-11-19T00:12:18.624144+00:00",
   "funn": [
+    {
+      "tittel": "ACE 10 GEM MINT Rayquaza Vmax 102/159 - Pokemon Crown Zenith",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481302733",
+      "funnet": "2026-11-19T00:12:18.622380+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "ACE 10 GEM MINT Haxorus 147/086 - Pokemon Black Bolt",
       "pris": 1599,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-18T21:16:19.919586+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - Pidgeot 14/110",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481297927",
-      "funnet": "2026-11-18T21:14:21.382200+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
