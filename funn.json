@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-19T20:24:15.367315+00:00",
+  "sist_sjekket": "2026-11-19T20:26:17.078253+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu - Pokémon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481357044",
+      "funnet": "2026-11-19T20:26:17.076618+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Selger samling.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
+      "funnet": "2026-11-19T20:26:16.728907+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Raichu - Pokémon kort",
       "pris": 350,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480503086",
       "funnet": "2026-11-19T17:42:18.326314+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort til salgs – Auto - Nummererte - Patch",
-      "pris": 99,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470743632",
-      "funnet": "2026-11-19T17:42:17.625886+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚡️ Pokémon-kort: Pikachu-samling (30th Anniversary) – KUN 15kr stk! ⚡️",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480257618",
-      "funnet": "2026-11-19T17:42:16.932079+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
