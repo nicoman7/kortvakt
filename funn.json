@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T22:30:48.581146+00:00",
+  "sist_sjekket": "2026-11-19T22:32:16.906905+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
+      "funnet": "2026-11-19T22:32:16.905329+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Talonflame #83 Art Rare Pokemon Japanese Nihil Zero",
       "pris": 30,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T20:00:56.852559+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Celin Bizet Ildhusøy 2024-25 Topps Merlin Mystic Nights",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481355551",
-      "funnet": "2026-11-19T20:00:56.000744+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
