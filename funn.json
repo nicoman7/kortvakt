@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T08:54:17.822766+00:00",
+  "sist_sjekket": "2026-11-19T08:56:15.667111+00:00",
   "funn": [
+    {
+      "tittel": "Eldre pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481309193",
+      "funnet": "2026-11-19T08:56:15.665875+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort",
       "pris": 150,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481301501",
       "funnet": "2026-11-18T22:56:15.946591+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG energikort og terninger",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481301638",
-      "funnet": "2026-11-18T22:56:15.242910+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
