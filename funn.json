@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-19T19:50:28.564751+00:00",
+  "sist_sjekket": "2026-11-19T19:52:17.842523+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort selges",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481355010",
+      "funnet": "2026-11-19T19:52:17.840975+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini Lamine Yamal fotballkort",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481354729",
+      "funnet": "2026-11-19T19:52:17.098803+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Arsenal lot 1 – 24 forskjellige fotballkort til julekalender",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480651443",
+      "funnet": "2026-11-19T19:52:16.343617+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon adventskalender til barn eller ny samler",
       "pris": 250,
@@ -1174,30 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481336618",
       "funnet": "2026-11-19T17:20:30.108541+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "151 Pokemonkort Holos og reverse holos selges samlet! (Koreansk)",
-      "pris": 180,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480076906",
-      "funnet": "2026-11-19T17:18:21.049280+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Selger Martin Ødegaard fotballkort - autograf - Nummerert",
-      "pris": 147,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476638055",
-      "funnet": "2026-11-19T17:18:20.285844+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "1996 Topps gallery Michael Jordan samlekort",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/472050348",
-      "funnet": "2026-11-19T17:18:19.530749+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
