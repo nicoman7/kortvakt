@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T21:08:15.228594+00:00",
+  "sist_sjekket": "2026-11-19T21:10:26.978120+00:00",
   "funn": [
+    {
+      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
+      "pris": 98,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
+      "funnet": "2026-11-19T21:10:26.976413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lycanroc - 30Cen - 138/128 - Pokemon Kort",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T18:26:16.815978+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon-kort BUDRUNDE",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481068959",
-      "funnet": "2026-11-19T18:22:19.062616+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
