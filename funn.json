@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-19T22:24:15.324568+00:00",
+  "sist_sjekket": "2026-11-19T22:26:16.084175+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481362658",
+      "funnet": "2026-11-19T22:26:16.082846+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gumshoos #75 Art Rare Pokemon Japanese Mega Brave",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481362826",
+      "funnet": "2026-11-19T22:26:15.730489+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Garganacl #70 Art Rare Pokemon Japanese Mega Brave",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481362793",
+      "funnet": "2026-11-19T22:26:14.927100+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Lycanroc #107 Art Rare Pokemon Japanese Battle Partners",
       "pris": 26,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-19T19:52:17.840975+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Lamine Yamal fotballkort",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481354729",
-      "funnet": "2026-11-19T19:52:17.098803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal lot 1 – 24 forskjellige fotballkort til julekalender",
-      "pris": 299,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480651443",
-      "funnet": "2026-11-19T19:52:16.343617+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon adventskalender til barn eller ny samler",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481354480",
-      "funnet": "2026-11-19T19:46:17.468987+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
