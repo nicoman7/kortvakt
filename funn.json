@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T00:20:27.331023+00:00",
+  "sist_sjekket": "2026-11-19T00:22:15.874356+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
+      "funnet": "2026-11-19T00:22:15.873108+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Sylveon EX 153/128 30th Pokemon",
       "pris": 339,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481298156",
       "funnet": "2026-11-18T21:18:16.416419+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Portable Portal rare Riftbound samlekort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481298032",
-      "funnet": "2026-11-18T21:16:21.311506+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
