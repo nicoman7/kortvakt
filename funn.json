@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T18:44:18.500295+00:00",
+  "sist_sjekket": "2026-11-19T18:46:15.812895+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits (UNDER MARKEDSPRIS)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481084292",
+      "funnet": "2026-11-19T18:46:15.811579+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "ACE 8 NM-MT Cacturne Ex 006/015 - Pokemon Grass Quick Pack",
       "pris": 1179,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480866297",
       "funnet": "2026-11-19T16:18:29.823626+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Celebration Pokemonkort",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481340614",
-      "funnet": "2026-11-19T16:18:29.504979+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
