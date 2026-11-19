@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T08:28:15.110302+00:00",
+  "sist_sjekket": "2026-11-19T08:30:46.130480+00:00",
   "funn": [
+    {
+      "tittel": "Panini Fotballkort",
+      "pris": 290,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481308050",
+      "funnet": "2026-11-19T08:30:46.128590+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon E-card",
       "pris": 650,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481300979",
       "funnet": "2026-11-18T22:30:46.921397+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome UEFA – Eduardo Camavinga Green /99",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481301016",
-      "funnet": "2026-11-18T22:30:46.578756+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
