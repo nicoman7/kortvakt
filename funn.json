@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T13:20:29.109930+00:00",
+  "sist_sjekket": "2026-11-19T13:22:19.495269+00:00",
   "funn": [
+    {
+      "tittel": "Vintage samling med Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480932434",
+      "funnet": "2026-11-19T13:22:19.493689+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Stellar Crown 3-pack blister – Latias promokort – 3 boosterpakker",
       "pris": 695,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T05:56:26.464446+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort SIR / ULTRA RARE/ IR / EX– Gengar, Mega Evolution, Full Art",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480995759",
-      "funnet": "2026-11-19T05:32:16.164522+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
