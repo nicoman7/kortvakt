@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-19T09:44:17.028464+00:00",
+  "sist_sjekket": "2026-11-19T09:46:21.055002+00:00",
   "funn": [
+    {
+      "tittel": "Magic: The Gathering kortpakke, 24 samlekort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481312545",
+      "funnet": "2026-11-19T09:46:21.053177+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Panini FIFA World Cup 2026 stickers - Europeisk versjon",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481312253",
+      "funnet": "2026-11-19T09:46:20.294953+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny samleperm til fotballkort (Panini, Topps o.l) eller pokémon",
       "pris": 489,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481301673",
       "funnet": "2026-11-18T23:28:16.900878+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2023-24 Topps Merlin UEFA – Ben Doak RC",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481302230",
-      "funnet": "2026-11-18T23:28:16.580126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2025-26 Topps Chrome Basketball – Jayson Tatum",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481302217",
-      "funnet": "2026-11-18T23:28:16.266922+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
