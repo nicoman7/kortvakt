@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T02:12:16.117328+00:00",
+  "sist_sjekket": "2026-11-19T02:14:28.381432+00:00",
   "funn": [
+    {
+      "tittel": "Selger samling.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
+      "funnet": "2026-11-19T02:14:28.380001+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
       "pris": 98,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481299058",
       "funnet": "2026-11-18T21:38:22.918967+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu-sett fra 01/30 til 30/30 fra Pokémon 30th Celebration",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481298903",
-      "funnet": "2026-11-18T21:38:22.699866+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
