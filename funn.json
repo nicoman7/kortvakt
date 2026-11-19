@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T00:00:58.957863+00:00",
+  "sist_sjekket": "2026-11-19T00:02:18.667904+00:00",
   "funn": [
+    {
+      "tittel": "ACE 10 GEM MINT Wailord 162/159 - Pokemon Journey Together",
+      "pris": 699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481302641",
+      "funnet": "2026-11-19T00:02:18.666016+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps Graphite CHRIS EUBANKS Patch Auto Signatures Tour Relic #TRA-CES",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-18T21:14:18.527235+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Armaldo 1/110",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481297784",
-      "funnet": "2026-11-18T21:12:19.423869+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
