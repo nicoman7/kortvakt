@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T08:26:29.342188+00:00",
+  "sist_sjekket": "2026-11-19T08:28:15.110302+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon E-card",
+      "pris": 650,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481307706",
+      "funnet": "2026-11-19T08:28:15.108652+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mathys Tel Yellow Shimmer /175 – Topps Merlin 2023/24 – Bayern München",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481301016",
       "funnet": "2026-11-18T22:30:46.578756+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "NY PRIS Pokémon Rocket's Raikou ex 108/107 – Secret Rare 2005",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480841963",
-      "funnet": "2026-11-18T22:30:45.857651+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
