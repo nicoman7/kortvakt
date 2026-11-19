@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-19T21:50:30.093287+00:00",
+  "sist_sjekket": "2026-11-19T21:52:16.396081+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon hits (UNDER MARKEDSPRIS)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481084292",
+      "funnet": "2026-11-19T21:52:16.394362+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Radiant Blastoise #018/071 Pokemon GO – Japansk – ACE 10",
       "pris": 500,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481352788",
       "funnet": "2026-11-19T19:22:15.403596+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - CLEFABLE (REV. HOLO)",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481352803",
-      "funnet": "2026-11-19T19:22:14.806160+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
