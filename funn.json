@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T14:08:29.624172+00:00",
+  "sist_sjekket": "2026-11-20T14:10:40.461015+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
+      "funnet": "2026-11-20T14:10:40.459576+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Lugia – 30th Celebration 097/103 – japansk Pokémon-kort",
       "pris": 7,
@@ -1190,14 +1198,6 @@
       "pris": 17,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481387356",
       "funnet": "2026-11-20T12:32:21.920557+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemonkort -item, tool, stadium",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481387096",
-      "funnet": "2026-11-20T12:32:21.684779+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
