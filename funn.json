@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T06:42:25.014623+00:00",
+  "sist_sjekket": "2026-11-20T06:44:17.699093+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort ,286 stk",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481367169",
+      "funnet": "2026-11-20T06:44:17.697652+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Bulk",
+      "pris": 299,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481367271",
+      "funnet": "2026-11-20T06:44:17.391127+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 66,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481360167",
       "funnet": "2026-11-19T21:30:48.515833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zaccharie Risacher 🏀 Atlanta Hawks 🏀 Nba Basketball kort",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481237804",
-      "funnet": "2026-11-19T21:30:47.927129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon mudkip 4/5 poke card creator 2004 PSA 9 vurderes solgt",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481011805",
-      "funnet": "2026-11-19T21:30:47.534008+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
