@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T21:26:22.035939+00:00",
+  "sist_sjekket": "2026-11-20T21:28:21.124725+00:00",
   "funn": [
+    {
+      "tittel": "29 av 30 Pikachu rare pokemon kort selges samlet",
+      "pris": 399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481419662",
+      "funnet": "2026-11-20T21:28:21.122899+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Delta Regin bulk med ex",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481419654",
+      "funnet": "2026-11-20T21:28:20.560503+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Panini Top Class 2024 - Jurrien Timber",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-20T18:38:32.315203+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Mewtwo VSTAR pokemon go",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481411179",
-      "funnet": "2026-11-20T18:38:31.560262+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Future Stars Endrick /150 Autograf",
-      "pris": 520,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478087710",
-      "funnet": "2026-11-20T18:38:31.251305+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
