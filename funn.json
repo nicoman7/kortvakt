@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T20:50:33.225565+00:00",
+  "sist_sjekket": "2026-11-20T20:52:19.235757+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481418083",
+      "funnet": "2026-11-20T20:52:19.234251+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Premier League 25/26 kort selges",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 55,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481409932",
       "funnet": "2026-11-20T18:18:21.278236+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes EX Tin",
-      "pris": 790,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478811991",
-      "funnet": "2026-11-20T18:18:20.547675+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
