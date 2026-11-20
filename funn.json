@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T03:56:15.217539+00:00",
+  "sist_sjekket": "2026-11-20T03:58:26.957586+00:00",
   "funn": [
+    {
+      "tittel": "Selger samling.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480891188",
+      "funnet": "2026-11-20T03:58:26.956207+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort SIR / ULTRA RARE/ IR / EX– Gengar, Mega Evolution, Full Art",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481360196",
       "funnet": "2026-11-19T21:22:19.599770+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Refractor Gleison Bremer Juventus",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481360329",
-      "funnet": "2026-11-19T21:22:18.790670+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
