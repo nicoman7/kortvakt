@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T17:50:32.676752+00:00",
+  "sist_sjekket": "2026-11-20T17:52:23.530258+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-11-20T17:52:23.528092+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo V og Mew V samlekortpakke – NM, selges samlet",
       "pris": 1100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481402769",
       "funnet": "2026-11-20T16:12:23.919633+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mega Evolution Ascended Heroes kort bulk/holo/reverse/ex/promo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/473336240",
-      "funnet": "2026-11-20T16:12:23.551306+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
