@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T08:08:14.324043+00:00",
+  "sist_sjekket": "2026-11-20T08:10:29.535003+00:00",
   "funn": [
+    {
+      "tittel": "Topps Lineage FC Bayern Munich | Minjae Kim | On Card Auto",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481369735",
+      "funnet": "2026-11-20T08:10:29.533166+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort samling. Crown Zenith Galarian Gallery. Connecticut Art",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-19T22:00:57.831085+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-19T21:58:16.436454+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
