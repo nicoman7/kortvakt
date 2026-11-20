@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T21:42:23.452716+00:00",
+  "sist_sjekket": "2026-11-20T21:44:20.862036+00:00",
   "funn": [
+    {
+      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
+      "funnet": "2026-11-20T21:44:20.860521+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu Promo Night",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481411631",
       "funnet": "2026-11-20T18:46:21.155086+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Espeon EX special illustration rare promo pokemon kort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481411661",
-      "funnet": "2026-11-20T18:46:20.496175+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
