@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T21:32:28.396217+00:00",
+  "sist_sjekket": "2026-11-20T21:34:26.069955+00:00",
   "funn": [
+    {
+      "tittel": "Futera Fotballkort samling",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481419756",
+      "funnet": "2026-11-20T21:34:26.068499+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort PSA10 graderte enkeltkort.",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481035492",
+      "funnet": "2026-11-20T21:34:25.838064+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Panini Top Class 2024 - David Alaba",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481411357",
       "funnet": "2026-11-20T18:40:33.535068+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One piece EB 05 Gift Collection",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481411086",
-      "funnet": "2026-11-20T18:38:35.240479+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Obsidian Lautaro Martinez Trifecta Material kort 34/75",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477336774",
-      "funnet": "2026-11-20T18:38:33.955779+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
