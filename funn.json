@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T18:12:35.551235+00:00",
+  "sist_sjekket": "2026-11-20T18:14:19.688872+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lugia",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481409491",
+      "funnet": "2026-11-20T18:14:19.687116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon – Stor samling EX-kort, 30th Anniversary, Mega EX og Gold Cards",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480994047",
+      "funnet": "2026-11-20T18:14:19.333979+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon pakke",
       "pris": 1270,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481403960",
       "funnet": "2026-11-20T16:31:02.308736+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Copperajah Reverse Holo – Shrouded Fable 042/064 – engelsk Pokémon-kort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481403864",
-      "funnet": "2026-11-20T16:31:01.539109+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Charizard & Braixen-GX (22/236) TAG TEAM",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479732611",
-      "funnet": "2026-11-20T16:28:21.210181+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
