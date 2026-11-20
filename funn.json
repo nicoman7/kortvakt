@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T14:50:35.678906+00:00",
+  "sist_sjekket": "2026-11-20T14:52:21.530267+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481397615",
+      "funnet": "2026-11-20T14:52:21.528750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort",
       "pris": 350,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480994047",
       "funnet": "2026-11-20T13:22:22.811490+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bramblin – Terastal Festival ex 011/187 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481390998",
-      "funnet": "2026-11-20T13:20:44.908119+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
