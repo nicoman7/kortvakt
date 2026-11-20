@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T10:30:50.094515+00:00",
+  "sist_sjekket": "2026-11-20T10:32:21.743941+00:00",
   "funn": [
+    {
+      "tittel": "Panini Moomin samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481377943",
+      "funnet": "2026-11-20T10:32:21.742109+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2026 Topps Graphite — Paula Badosa — Break Point Insert BP-16 Tennis",
       "pris": 20,
@@ -1190,14 +1198,6 @@
       "pris": 1234,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481035492",
       "funnet": "2026-11-20T00:46:16.066670+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Omanyte #180 pokemon scarlet & violet 151 japansk",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481365027",
-      "funnet": "2026-11-20T00:44:16.881027+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
