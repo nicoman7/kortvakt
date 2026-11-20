@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T19:52:19.244154+00:00",
+  "sist_sjekket": "2026-11-20T19:54:28.346243+00:00",
   "funn": [
+    {
+      "tittel": "Avtalt kortsalg",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481415259",
+      "funnet": "2026-11-20T19:54:28.344861+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps NBA Hoops 2025-26 LeBron James #84 Los Angeles Lakers",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481415314",
+      "funnet": "2026-11-20T19:54:28.130620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kortmappe med samlekort",
       "pris": 2000,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481407050",
       "funnet": "2026-11-20T17:28:22.569660+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "manchester united fotballkort",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481407232",
-      "funnet": "2026-11-20T17:26:20.696888+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kommo-o – Storm Emeralda 052/076 – japansk Pokémon-kort",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481407010",
-      "funnet": "2026-11-20T17:24:21.109009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
