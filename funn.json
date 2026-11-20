@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T06:40:25.308087+00:00",
+  "sist_sjekket": "2026-11-20T06:42:25.014623+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 66,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481367179",
+      "funnet": "2026-11-20T06:42:25.013219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "VaultX kortperm Rayquaza",
       "pris": 1700,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481011805",
       "funnet": "2026-11-19T21:30:47.534008+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 25-26 Joshua Kimmich Bayern Munchen",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481360483",
-      "funnet": "2026-11-19T21:28:17.323937+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
