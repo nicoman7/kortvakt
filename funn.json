@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T19:50:36.079515+00:00",
+  "sist_sjekket": "2026-11-20T19:52:19.244154+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kortmappe med samlekort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481095785",
+      "funnet": "2026-11-20T19:52:19.242334+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-20T17:24:21.109009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
-      "funnet": "2026-11-20T17:24:20.786346+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
