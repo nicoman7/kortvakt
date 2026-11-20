@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T15:32:25.800889+00:00",
+  "sist_sjekket": "2026-11-20T15:34:19.581162+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481399929",
+      "funnet": "2026-11-20T15:34:19.579615+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Ditto Pikachu 63/113 Ex delta Species NM/M",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 13,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481392151",
       "funnet": "2026-11-20T13:38:23.427556+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mix",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481392064",
-      "funnet": "2026-11-20T13:38:23.093223+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
