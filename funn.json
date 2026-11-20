@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T21:48:18.004395+00:00",
+  "sist_sjekket": "2026-11-20T21:50:43.548912+00:00",
   "funn": [
+    {
+      "tittel": "Vintage samling med Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480932434",
+      "funnet": "2026-11-20T21:50:43.547591+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
       "pris": 60,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481411748",
       "funnet": "2026-11-20T18:48:25.915584+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2024-25 Panini Prizm Red Ice #296 Hakeem Olajuwon",
-      "pris": 45,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481411631",
-      "funnet": "2026-11-20T18:46:21.155086+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
