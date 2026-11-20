@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-20T20:12:20.830465+00:00",
+  "sist_sjekket": "2026-11-20T20:14:20.547581+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - Deoxys 6/110",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481416321",
+      "funnet": "2026-11-20T20:14:20.545982+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Maushold illustration rare pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481416380",
+      "funnet": "2026-11-20T20:14:19.833809+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Camerupt 3/100",
       "pris": 1,
@@ -1182,22 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479704160",
       "funnet": "2026-11-20T17:48:22.280118+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Storm emeralda Hits",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480749161",
-      "funnet": "2026-11-20T17:42:21.645477+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kortpakke med Magikarp, Gyarados og Metagross GX",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481408024",
-      "funnet": "2026-11-20T17:42:21.082962+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
