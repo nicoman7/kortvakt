@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T20:38:22.550654+00:00",
+  "sist_sjekket": "2026-11-20T20:40:31.353874+00:00",
   "funn": [
+    {
+      "tittel": "Elvis samle kort i meget fin stand.",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481416914",
+      "funnet": "2026-11-20T20:40:31.352143+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Uxie Pokémon-kort",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 79,
       "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
       "funnet": "2026-11-20T18:18:19.461593+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Kieran Trainer samlekort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481409708",
-      "funnet": "2026-11-20T18:16:28.300012+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
