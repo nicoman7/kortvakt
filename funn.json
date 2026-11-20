@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-20T21:08:21.788991+00:00",
+  "sist_sjekket": "2026-11-20T21:10:33.327072+00:00",
   "funn": [
+    {
+      "tittel": "Andreas Schjelderup fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481418950",
+      "funnet": "2026-11-20T21:10:33.325333+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Promo selges samlet",
       "pris": 390,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481410491",
       "funnet": "2026-11-20T18:26:26.048594+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort, XY era og annet!",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480972333",
-      "funnet": "2026-11-20T18:26:25.408922+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
