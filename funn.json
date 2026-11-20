@@ -1,6 +1,62 @@
 {
-  "sist_sjekket": "2026-11-20T15:46:34.750204+00:00",
+  "sist_sjekket": "2026-11-20T15:48:22.892007+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 540,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401322",
+      "funnet": "2026-11-20T15:48:22.890418+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gimmighoul – 30th Celebration 067/103 – japansk Pokémon-kort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401390",
+      "funnet": "2026-11-20T15:48:22.657853+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu Victory Medal winner spring 2008",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401347",
+      "funnet": "2026-11-20T15:48:22.443385+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Goodra Reverse Holo – Chaos Rising 068/086 – engelsk Pokémon-kort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401430",
+      "funnet": "2026-11-20T15:48:22.081431+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fossil Quarry – Pitch Black 076/084 – engelsk Pokémon-kort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401351",
+      "funnet": "2026-11-20T15:48:21.846525+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Groudon – Storm Emeralda 039/076 – japansk Pokémon-kort",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481401459",
+      "funnet": "2026-11-20T15:48:21.322528+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemonkort 30th bulk",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481169465",
+      "funnet": "2026-11-20T15:48:21.107330+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Dialga – Mega Brave 047/063 – japansk Pokémon-kort",
       "pris": 4,
@@ -1144,62 +1200,6 @@
       "funnet": "2026-11-20T13:54:26.592382+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Shroodle – Shiny Treasure ex 127/190 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481393012",
-      "funnet": "2026-11-20T13:50:37.652427+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toedscruel ex RR – Shiny Treasure ex 019/190 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481393502",
-      "funnet": "2026-11-20T13:50:36.951073+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spiritomb – Shiny Treasure ex 086/190 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481393044",
-      "funnet": "2026-11-20T13:50:36.189694+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Trubbish – Terastal Festival ex 094/187 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481393538",
-      "funnet": "2026-11-20T13:50:35.517745+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Antonio Nusa – Panini Noir /49 – Norge – Eksklusivt",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481392112",
-      "funnet": "2026-11-20T13:50:34.834604+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Thwackey – Terastal Festival ex 007/187 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481393145",
-      "funnet": "2026-11-20T13:50:34.161384+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Prism Energy – Black Bolt 086/086 – japansk Pokémon-kort",
-      "pris": 13,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481392848",
-      "funnet": "2026-11-20T13:48:23.826341+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
