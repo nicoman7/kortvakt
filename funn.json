@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T07:18:17.009820+00:00",
+  "sist_sjekket": "2026-11-21T07:20:35.361555+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon reversr Holo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481426557",
+      "funnet": "2026-11-21T07:20:35.360000+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort ulike serier",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480994047",
       "funnet": "2026-11-20T21:12:21.922042+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Andreas Schjelderup fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481418950",
-      "funnet": "2026-11-20T21:10:33.325333+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
