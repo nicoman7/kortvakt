@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T15:06:28.797068+00:00",
+  "sist_sjekket": "2026-11-21T15:08:19.468310+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Riolu Stellar Crown (81)",
+      "pris": 3,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481464309",
+      "funnet": "2026-11-21T15:08:19.466915+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
+      "funnet": "2026-11-21T15:08:18.745121+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Japansk Medicham Glory of Team Rocket (54)",
       "pris": 3,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-21T13:56:26.083127+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Psyduck #175 Pokemon Scarlet & Violet 151",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481457676",
-      "funnet": "2026-11-21T13:56:25.574301+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu-kort",
-      "pris": 1130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481457657",
-      "funnet": "2026-11-21T13:56:25.043738+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
