@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T17:44:22.614017+00:00",
+  "sist_sjekket": "2026-11-21T17:46:20.380384+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481475242",
+      "funnet": "2026-11-21T17:46:20.378535+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T16:04:20.112165+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort billig selges enkeltvis",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481468310",
-      "funnet": "2026-11-21T16:00:56.545413+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
