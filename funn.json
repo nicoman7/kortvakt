@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T22:40:39.596431+00:00",
+  "sist_sjekket": "2026-11-21T22:42:25.906116+00:00",
   "funn": [
+    {
+      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
+      "funnet": "2026-11-21T22:42:25.904705+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Ancient Mew gradert promo kort",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T19:06:18.732813+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Masse signerte liverpool drakter/effekter/fotballkort osv.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/470855824",
-      "funnet": "2026-11-21T19:02:21.972587+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
