@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T19:18:19.598373+00:00",
+  "sist_sjekket": "2026-11-21T19:20:47.620654+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mewtwo ex samlekort",
+      "pris": 899,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481480563",
+      "funnet": "2026-11-21T19:20:47.619223+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Eldre Pokemon-kort",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481480300",
+      "funnet": "2026-11-21T19:20:47.324623+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NY PRIS Pokémon Rocket's Raikou ex 108/107 – Secret Rare 2005",
       "pris": 1190,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-21T17:06:19.288155+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Ascended Heroes ex Box - 3 totalt (Mega Feraligatr, Mega Meganium",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481472520",
-      "funnet": "2026-11-21T17:04:19.936872+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Porygon #172 (Master Ball) Pokemon CN",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481472729",
-      "funnet": "2026-11-21T17:04:19.674519+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
