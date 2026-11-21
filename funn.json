@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T17:58:20.412010+00:00",
+  "sist_sjekket": "2026-11-21T18:00:59.407470+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort i samling (BUD)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481476001",
+      "funnet": "2026-11-21T18:00:59.405606+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Espeon EX 52/122 - Pokemon BREAKpoint",
       "pris": 335,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481467816",
       "funnet": "2026-11-21T16:10:46.564251+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Elite Trainer Box (ETB)",
-      "pris": 1489,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481469151",
-      "funnet": "2026-11-21T16:10:46.220731+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
