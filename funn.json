@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T11:40:37.304481+00:00",
+  "sist_sjekket": "2026-11-21T11:42:18.421099+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-21T11:42:18.419993+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Beckenbauer All-Time 100 Club #480 ★★ Super-Rare – Bayern fotballkort",
       "pris": 129,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481430119",
       "funnet": "2026-11-21T08:54:21.798111+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering Temmet, Naktamuns vilje samlekort",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481430237",
-      "funnet": "2026-11-21T08:54:21.403217+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
