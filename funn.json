@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T00:34:23.319859+00:00",
+  "sist_sjekket": "2026-11-21T00:36:27.157618+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort klubblag",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481423919",
+      "funnet": "2026-11-21T00:36:27.155901+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon PSA 10 / ACE 10 – Pikachu, Latias, Snorlax & Zekrom | Salg/Bytte",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481416437",
       "funnet": "2026-11-20T20:16:24.371676+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Arceus Dialga Palkia GX TAG TEAM samlekort",
-      "pris": 1025,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481416383",
-      "funnet": "2026-11-20T20:16:23.723606+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
