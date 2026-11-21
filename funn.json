@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T18:58:21.018832+00:00",
+  "sist_sjekket": "2026-11-21T19:00:56.833664+00:00",
   "funn": [
+    {
+      "tittel": "Selger unna mange sjeldne pokemonkort billig!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481275619",
+      "funnet": "2026-11-21T19:00:56.831761+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort pitch black",
       "pris": 250,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T16:56:19.257273+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Magic: The Gathering-kort fra Visions",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481471832",
-      "funnet": "2026-11-21T16:54:20.639802+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
