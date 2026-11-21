@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T18:56:21.644094+00:00",
+  "sist_sjekket": "2026-11-21T18:58:21.018832+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort pitch black",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481479354",
+      "funnet": "2026-11-21T18:58:21.017160+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "STOR POKÉMON-SAMLING! CA. 2000 KORT + 34 RR + AR/SAR",
       "pris": 1999,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T16:54:20.639802+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Ash’s Pikachu samlekort",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481471597",
-      "funnet": "2026-11-21T16:54:19.835794+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
