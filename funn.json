@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T07:28:17.904175+00:00",
+  "sist_sjekket": "2026-11-21T07:30:47.775240+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481426889",
+      "funnet": "2026-11-21T07:30:47.773620+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon reversr Holo",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481419097",
       "funnet": "2026-11-20T21:12:22.677669+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon – Stor samling EX-kort, 30th Anniversary, Mega EX og Gold Cards",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480994047",
-      "funnet": "2026-11-20T21:12:21.922042+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
