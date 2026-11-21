@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T20:50:37.723500+00:00",
+  "sist_sjekket": "2026-11-21T20:52:18.912703+00:00",
   "funn": [
+    {
+      "tittel": "POKEMONKORT SAMLING",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481483356",
+      "funnet": "2026-11-21T20:52:18.911548+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémonkort Slaking 12/109 Holo Rare – EX Ruby & Sapphire (2003)",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481485207",
+      "funnet": "2026-11-21T20:52:18.623142+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mew Ex [Metal] #205 Pokemon Scarlet & Violet 151",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-21T17:56:21.245508+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Espeon & Pikachu ex promo Pokémon UPC 30th",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481475121",
-      "funnet": "2026-11-21T17:54:18.841084+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kyogre #80 Pokemon Japanese Storm Emeralda",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481475702",
-      "funnet": "2026-11-21T17:52:20.356122+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
