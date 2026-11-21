@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-21T11:44:18.624872+00:00",
+  "sist_sjekket": "2026-11-21T11:46:23.429787+00:00",
   "funn": [
+    {
+      "tittel": "Lost Origin - enkeltkort",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481444334",
+      "funnet": "2026-11-21T11:46:23.428524+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Vintage-kort fra EX-era og eldre sett – Singles selges",
+      "pris": 115,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481443665",
+      "funnet": "2026-11-21T11:46:23.030787+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Granit Xhaka Sunderland Topps Merlin",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481444694",
+      "funnet": "2026-11-21T11:46:19.223930+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "pokemon booster pakker flix pix 2005",
       "pris": null,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-21T08:56:20.468368+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Guimaraes On Fire OF15 – Newcastle United fotballkort",
-      "pris": 39,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481256091",
-      "funnet": "2026-11-21T08:56:20.103520+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL FIFA World Cup 2022 fotballkort",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481430064",
-      "funnet": "2026-11-21T08:54:23.231307+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Sealed Pokemon Produkter",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/386804648",
-      "funnet": "2026-11-21T08:54:22.552523+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
