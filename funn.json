@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T15:58:19.387045+00:00",
+  "sist_sjekket": "2026-11-21T16:00:56.547035+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort billig selges enkeltvis",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481468310",
+      "funnet": "2026-11-21T16:00:56.545413+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort til salgs – Vintage, Holo, EX-serier & Sjeldne Kort",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481456177",
       "funnet": "2026-11-21T14:20:41.079773+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ethan's Slugma – Mega Dream ex 018/193 – japansk Pokémon-kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481460077",
-      "funnet": "2026-11-21T14:20:40.782589+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
