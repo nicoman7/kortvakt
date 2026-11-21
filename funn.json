@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T11:34:22.481502+00:00",
+  "sist_sjekket": "2026-11-21T11:36:35.492009+00:00",
   "funn": [
+    {
+      "tittel": "Silver Tempest - enkeltkort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481443675",
+      "funnet": "2026-11-21T11:36:35.490582+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Selger unna mange sjeldne pokemonkort billig!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481275619",
+      "funnet": "2026-11-21T11:36:35.172740+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gratis frakt - Pokemon 30th Celebration Bulk",
       "pris": 250,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481430326",
       "funnet": "2026-11-21T08:54:20.598281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Larry's skill 139/131 fra Pokemon prismatic evolutions",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481430461",
-      "funnet": "2026-11-21T08:54:19.929281+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Spark 085/078 fra Pokemon GO",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481430350",
-      "funnet": "2026-11-21T08:54:19.222030+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
