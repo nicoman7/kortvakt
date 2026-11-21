@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T00:22:18.702738+00:00",
+  "sist_sjekket": "2026-11-21T00:24:21.461578+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samleboks: Charizard Ex Super Premium Collection",
+      "pris": 1499,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481392352",
+      "funnet": "2026-11-21T00:24:21.460181+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Metagross 11/113 – Delta Species – ACE Gem Mint 10 – 30th Celebration samlekort",
       "pris": 549,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
       "funnet": "2026-11-20T20:16:22.658653+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort - Deoxys 6/110",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481416321",
-      "funnet": "2026-11-20T20:14:20.545982+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
