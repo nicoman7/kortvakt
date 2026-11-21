@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T00:28:19.750411+00:00",
+  "sist_sjekket": "2026-11-21T00:30:50.625479+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samlekort, XY era og annet!",
+      "pris": 750,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480972333",
+      "funnet": "2026-11-21T00:30:50.623831+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon samleboks: Charizard Ex Super Premium Collection",
       "pris": 1499,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-20T20:16:23.081936+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort! Charizard EX, Reshiram RC22 og flere",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480918433",
-      "funnet": "2026-11-20T20:16:22.658653+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
