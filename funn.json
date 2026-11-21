@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T22:20:36.518261+00:00",
+  "sist_sjekket": "2026-11-21T22:22:20.097780+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481488585",
+      "funnet": "2026-11-21T22:22:20.096236+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax 2025/2026",
       "pris": 2,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477352057",
       "funnet": "2026-11-21T18:56:21.642868+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort –Ethan’s typhlosion",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478034202",
-      "funnet": "2026-11-21T18:56:21.364265+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
