@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T19:22:21.121661+00:00",
+  "sist_sjekket": "2026-11-21T19:24:18.016228+00:00",
   "funn": [
+    {
+      "tittel": "JULEGAVE, Adventskalender, POKÉMON PAKKER GARANTERT HIT!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481141271",
+      "funnet": "2026-11-21T19:24:18.014783+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mewtwo ex samlekort",
       "pris": 899,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T17:06:19.613515+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-21T17:06:19.288155+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
