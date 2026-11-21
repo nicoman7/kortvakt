@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T15:28:23.696375+00:00",
+  "sist_sjekket": "2026-11-21T15:30:58.217170+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481465868",
+      "funnet": "2026-11-21T15:30:58.215635+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort PSA10 graderte enkeltkort.",
       "pris": 1234,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481384604",
       "funnet": "2026-11-21T14:14:23.942469+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "FIFA 365 Adrenalyn XL 2027 – Fan Favourite & Legend ⚽ fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481459391",
-      "funnet": "2026-11-21T14:14:23.230211+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
