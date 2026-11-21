@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T08:24:21.426095+00:00",
+  "sist_sjekket": "2026-11-21T08:26:18.694640+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon vintage non holo",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481428696",
+      "funnet": "2026-11-21T08:26:18.693198+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration pakker",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481419662",
       "funnet": "2026-11-20T21:28:21.122899+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort Delta Regin bulk med ex",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481419654",
-      "funnet": "2026-11-20T21:28:20.560503+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
