@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T06:48:21.295281+00:00",
+  "sist_sjekket": "2026-11-21T06:50:31.067326+00:00",
   "funn": [
+    {
+      "tittel": "Panini Adrenalyn XL fotballkort  kr 100 pr kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481425957",
+      "funnet": "2026-11-21T06:50:31.066047+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Promo",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481418205",
       "funnet": "2026-11-20T20:58:21.312927+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samling",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481418083",
-      "funnet": "2026-11-20T20:52:19.234251+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
