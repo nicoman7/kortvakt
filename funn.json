@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T08:42:18.798630+00:00",
+  "sist_sjekket": "2026-11-21T08:44:21.938392+00:00",
   "funn": [
+    {
+      "tittel": "Magic: The Gathering Count on Luck samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481429685",
+      "funnet": "2026-11-21T08:44:21.936702+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering Zealous Conscripts samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481429733",
+      "funnet": "2026-11-21T08:44:21.118103+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magic: The Gathering Creature – Horse Mount-kort",
       "pris": 5,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-20T21:50:43.547591+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-20T21:44:20.860521+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu Promo Night",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481420234",
-      "funnet": "2026-11-20T21:42:23.450918+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
