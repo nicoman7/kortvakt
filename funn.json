@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T23:40:28.439266+00:00",
+  "sist_sjekket": "2026-11-21T23:42:27.417617+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Ascended Heroes Singles/Bulk (U/MINSTEPRIS)",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481490350",
+      "funnet": "2026-11-21T23:42:27.416260+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wirtz #89 grønn ★ Rare – Liverpool fotballkort",
       "pris": 89,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T19:30:47.187296+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort: Rocket's Hideout 63/64 (Gengar) – Neo Revelation (2001)",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481481049",
-      "funnet": "2026-11-21T19:30:46.837358+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
