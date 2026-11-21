@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T00:38:18.392354+00:00",
+  "sist_sjekket": "2026-11-21T00:40:35.818847+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort landslag",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481423958",
+      "funnet": "2026-11-21T00:40:35.817024+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort klubblag",
       "pris": 1,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-20T20:16:24.880204+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Moltres illustration rare Pokemon kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481416437",
-      "funnet": "2026-11-20T20:16:24.371676+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
