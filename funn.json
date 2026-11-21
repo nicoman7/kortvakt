@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T11:16:18.331024+00:00",
+  "sist_sjekket": "2026-11-21T11:18:21.200448+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort til salgs – Vintage, Holo, EX-serier & Sjeldne Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481237303",
+      "funnet": "2026-11-21T11:18:21.199361+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Morgan Rogers Aston Villa Premier League fotballkort",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T08:34:24.831701+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon vintage non holo",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481428696",
-      "funnet": "2026-11-21T08:26:18.693198+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
