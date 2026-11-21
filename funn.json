@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-21T17:16:27.423184+00:00",
+  "sist_sjekket": "2026-11-21T17:18:21.412566+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Trainer Kort Bulk set",
+      "pris": 260,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481473501",
+      "funnet": "2026-11-21T17:18:21.410956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon graderte kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481222377",
+      "funnet": "2026-11-21T17:18:20.922652+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1999 Vintage Starter Bundle Pokemon Trainer Kort",
       "pris": 175,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-21T15:08:18.745121+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Japansk Medicham Glory of Team Rocket (54)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481464180",
-      "funnet": "2026-11-21T15:06:28.795599+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Japansk Team Rocket's Porygon Glory of Team Rocket (81)",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481464030",
-      "funnet": "2026-11-21T15:04:18.246405+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
