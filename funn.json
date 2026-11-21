@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T11:10:34.404327+00:00",
+  "sist_sjekket": "2026-11-21T11:12:20.923811+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
+      "funnet": "2026-11-21T11:12:20.922017+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps Omar Marmoush fotballkort Pink Voltage parallel",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481428528",
       "funnet": "2026-11-21T08:20:34.589785+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon gym heroes Misty's Seadra og Lt. Surge's Magneton samlekort",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481428390",
-      "funnet": "2026-11-21T08:16:17.834508+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
