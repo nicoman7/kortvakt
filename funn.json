@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-21T06:34:17.987293+00:00",
+  "sist_sjekket": "2026-11-21T06:36:20.458487+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Promo",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481425804",
+      "funnet": "2026-11-21T06:36:20.456943+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Wirtz #89 grønn ★ Rare – Liverpool fotballkort",
       "pris": 89,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481418083",
       "funnet": "2026-11-20T20:52:19.234251+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Premier League 25/26 kort selges",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/430570917",
-      "funnet": "2026-11-20T20:50:33.223732+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
