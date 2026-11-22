@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T10:58:20.336143+00:00",
+  "sist_sjekket": "2026-11-22T11:01:02.033951+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481508996",
+      "funnet": "2026-11-22T11:01:02.032466+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Klinklang [Reverse Holo] 73/114 - Pokemon Steam Siege",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481509038",
+      "funnet": "2026-11-22T11:01:01.307331+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Livramento fotballkort – Newcastle United – Topps Pink Parallel nr. 205",
       "pris": 59,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480995759",
       "funnet": "2026-11-22T09:02:19.858007+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️ Pierre Laigle fotballkort - Panini World Cup 98 France",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481497738",
-      "funnet": "2026-11-22T09:00:56.235130+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chelsea Fotballkort fra 90 tallet",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481464552",
-      "funnet": "2026-11-22T09:00:55.930201+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
