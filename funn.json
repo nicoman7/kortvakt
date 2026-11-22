@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T08:26:26.616741+00:00",
+  "sist_sjekket": "2026-11-22T08:28:21.256022+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort 10kr pr kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495878",
+      "funnet": "2026-11-22T08:28:21.254401+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration pakker",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481258178",
+      "funnet": "2026-11-22T08:28:20.490710+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort 10kr pr stk",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481486348",
       "funnet": "2026-11-21T21:22:21.621837+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon ETB promo",
-      "pris": 1100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481486441",
-      "funnet": "2026-11-21T21:20:31.489789+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew VMAX #163 Pokemon Chinese 30th Celebration",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481486469",
-      "funnet": "2026-11-21T21:20:31.182609+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
