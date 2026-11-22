@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T09:30:44.376743+00:00",
+  "sist_sjekket": "2026-11-22T09:32:26.935884+00:00",
   "funn": [
+    {
+      "tittel": "2010- Talls Pokémon Kort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481499897",
+      "funnet": "2026-11-22T09:32:26.934434+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "⚽️ Lilian Thuram fotballkort - Panini World Cup 98 France",
       "pris": 49,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481491296",
       "funnet": "2026-11-22T01:24:20.432553+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gull kort fra 30th celebration.",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481491241",
-      "funnet": "2026-11-22T01:16:18.833364+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
