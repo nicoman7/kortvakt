@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-22T17:08:26.514835+00:00",
+  "sist_sjekket": "2026-11-22T17:10:41.903015+00:00",
   "funn": [
+    {
+      "tittel": "Op13 kort",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554393",
+      "funnet": "2026-11-22T17:10:41.901589+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Shinx evolution samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481527638",
+      "funnet": "2026-11-22T17:10:41.687633+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "vintage pokemon kort selges 🎀pris kan diskuteres!",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554556",
+      "funnet": "2026-11-22T17:10:41.487353+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "MTG-pakke – 3 kort: Sphere Grid, Terrasymbiosis, Generous Pup – gratis frakt",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554152",
+      "funnet": "2026-11-22T17:10:41.256375+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
       "pris": 1800,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/427650294",
       "funnet": "2026-11-22T14:52:22.856002+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Zubat - Pokemon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481539742",
-      "funnet": "2026-11-22T14:52:22.490833+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon samling – diverse kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/467554171",
-      "funnet": "2026-11-22T14:52:22.179281+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary – Mew, Mewtwo, Pikachu m.fl.",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480797485",
-      "funnet": "2026-11-22T14:52:21.435327+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Booster Pakker x5",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481539598",
-      "funnet": "2026-11-22T14:52:21.063989+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
