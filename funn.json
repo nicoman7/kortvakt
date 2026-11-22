@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T23:18:25.735271+00:00",
+  "sist_sjekket": "2026-11-22T23:20:30.985842+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tin boks",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481333159",
+      "funnet": "2026-11-22T23:20:30.983978+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481569058",
       "funnet": "2026-11-22T19:40:34.206005+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
-      "pris": 98,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-11-22T19:40:33.361298+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
