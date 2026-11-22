@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T13:12:28.985290+00:00",
+  "sist_sjekket": "2026-11-22T13:14:22.062371+00:00",
   "funn": [
+    {
+      "tittel": "Selger Vm 2026 fotballkort perm med kort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481525638",
+      "funnet": "2026-11-22T13:14:22.060563+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Samling med 87 stk. NHL ishockeykort fra 90-tallet (Score) – Ulike serier",
+      "pris": 185,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481523257",
+      "funnet": "2026-11-22T13:14:21.635568+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort 30th anniversary base set nr 1-128",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481508534",
       "funnet": "2026-11-22T10:58:20.334912+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Galvantula 42/114 - Pokemon Steam Siege",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481508908",
-      "funnet": "2026-11-22T10:58:19.622129+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort Charizard og Charmander gradert",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481508254",
-      "funnet": "2026-11-22T10:58:18.904112+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
