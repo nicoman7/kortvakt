@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T07:01:01.603039+00:00",
+  "sist_sjekket": "2026-11-22T07:02:19.609949+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort, 25kr pr stk.",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481493286",
+      "funnet": "2026-11-22T07:02:19.607871+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Mudkip samlekort #65",
       "pris": 70,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481237303",
       "funnet": "2026-11-21T20:40:31.178036+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Figure Collection Mew samlersett",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481484516",
-      "funnet": "2026-11-21T20:38:18.813968+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
