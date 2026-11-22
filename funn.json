@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T17:28:20.043120+00:00",
+  "sist_sjekket": "2026-11-22T17:30:49.350948+00:00",
   "funn": [
+    {
+      "tittel": "Expedition charizard non holo",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481556216",
+      "funnet": "2026-11-22T17:30:49.349508+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SagaDex Lilla kortperm med Ditto motiv",
       "pris": 700,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-22T15:26:18.213489+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pitch black 3 pack blister",
-      "pris": 280,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481543259",
-      "funnet": "2026-11-22T15:24:28.986060+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
