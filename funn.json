@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T20:22:19.740154+00:00",
+  "sist_sjekket": "2026-11-22T20:24:21.085346+00:00",
   "funn": [
+    {
+      "tittel": "Mummi samlekort",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481569524",
+      "funnet": "2026-11-22T20:24:21.083695+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Kyurem VMAX 197/196 - Pokemon Lost Origin",
+      "pris": 95,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481573115",
+      "funnet": "2026-11-22T20:24:20.202904+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Enamorus 110/103 - Pokemon Delta Reign",
       "pris": 35,
@@ -1182,22 +1198,6 @@
       "pris": null,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481561051",
       "funnet": "2026-11-22T18:20:38.405533+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon minialbum med forskjellige Pokémon-kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/469606882",
-      "funnet": "2026-11-22T18:18:21.355708+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Norge samlekortramme – landslaget / fotballkort",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481561199",
-      "funnet": "2026-11-22T18:18:20.704393+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
