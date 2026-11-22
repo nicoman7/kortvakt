@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-22T08:18:18.428272+00:00",
+  "sist_sjekket": "2026-11-22T08:20:31.069293+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Shining Fates etb",
+      "pris": 1799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495417",
+      "funnet": "2026-11-22T08:20:31.067465+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort 15kr p stk",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495468",
+      "funnet": "2026-11-22T08:20:30.847957+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30th Celebration samlekortpakker",
+      "pris": 119,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481434608",
+      "funnet": "2026-11-22T08:20:30.616598+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samlekort pokemon 10kr pr stk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495546",
+      "funnet": "2026-11-22T08:20:30.351250+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort 15kr pr stk",
       "pris": 15,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-21T21:08:26.977775+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Sandshrew samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481485686",
-      "funnet": "2026-11-21T21:02:19.547298+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort pikachu 30th anniversary",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481485304",
-      "funnet": "2026-11-21T21:01:01.032219+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "store pokemon kort selges billig!",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481485523",
-      "funnet": "2026-11-21T21:01:00.328977+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chaos Rising pokemon bulk",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481485533",
-      "funnet": "2026-11-21T21:01:00.043235+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
