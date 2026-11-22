@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T00:16:18.560108+00:00",
+  "sist_sjekket": "2026-11-22T00:18:30.416083+00:00",
   "funn": [
+    {
+      "tittel": "Charizard VMAX SWSH261",
+      "pris": 799,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481490801",
+      "funnet": "2026-11-22T00:18:30.414741+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mewtwo Sir, Greninja Sir og classic kort fra 30th celebration",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481490797",
+      "funnet": "2026-11-22T00:18:30.096841+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mew, Mewtwo og Ditto promo kort, 30th celebration",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
       "funnet": "2026-11-21T19:50:35.944345+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ridotto Wing Attack samlekort 24",
-      "pris": 55,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481481822",
-      "funnet": "2026-11-21T19:46:19.401442+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nidorina illustration rare Black star promo pokemon kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481481989",
-      "funnet": "2026-11-21T19:44:26.038234+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
