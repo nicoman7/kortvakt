@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-22T14:34:17.481645+00:00",
+  "sist_sjekket": "2026-11-22T14:36:19.997087+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Lugia #149",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481537541",
+      "funnet": "2026-11-22T14:36:19.995619+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Lugia #149",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481537749",
+      "funnet": "2026-11-22T14:36:19.311900+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "FC Barcelona Lionel Messi/ lamine yamal samlekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481326334",
+      "funnet": "2026-11-22T14:36:18.933233+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse samlekort selges samlet – hockeykort fra 90-tallet+fotballkort (87 kort)",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-22T12:14:17.382381+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Slowbro [Reverse Holo] #33 Pokemon Aquapolis",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481518486",
-      "funnet": "2026-11-22T12:12:19.059045+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Panini Nordic Giant - Erling Haaland",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481517807",
-      "funnet": "2026-11-22T12:12:18.380674+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 196,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481518106",
-      "funnet": "2026-11-22T12:10:33.401268+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
