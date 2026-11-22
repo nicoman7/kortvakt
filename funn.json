@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T22:24:18.946700+00:00",
+  "sist_sjekket": "2026-11-22T22:26:28.365768+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Pokémon Neo Genesis – 1st Edition Pikachu, Steelix holo m.m.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481373804",
+      "funnet": "2026-11-22T22:26:28.364340+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Frozen Wings samlekort",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481565970",
       "funnet": "2026-11-22T19:06:19.427318+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "18 Pokémon Rare-kort fra 2005–2010 | Diamond & Pearl / HGSS",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481565648",
-      "funnet": "2026-11-22T19:04:19.997094+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
