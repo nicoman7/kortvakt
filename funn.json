@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T13:02:19.564684+00:00",
+  "sist_sjekket": "2026-11-22T13:04:28.451603+00:00",
   "funn": [
+    {
+      "tittel": "Estevao Fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481525320",
+      "funnet": "2026-11-22T13:04:28.450236+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mohamed Salah Fotballkort",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481525187",
+      "funnet": "2026-11-22T13:04:28.148870+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort – Rocket's Zapdos ex",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-22T10:54:23.215026+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hoopa 51/114 - Pokemon Steam Siege",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481508559",
-      "funnet": "2026-11-22T10:54:22.313499+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-22T10:54:21.485750+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
