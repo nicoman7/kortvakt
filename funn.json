@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T19:08:16.867914+00:00",
+  "sist_sjekket": "2026-11-22T19:10:31.742681+00:00",
   "funn": [
+    {
+      "tittel": "123 rosa og/eller søte pokemon",
+      "pris": 246,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481566279",
+      "funnet": "2026-11-22T19:10:31.741035+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "M Charizard EX 101/108",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481149332",
       "funnet": "2026-11-22T16:54:24.701274+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon graderte kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481222377",
-      "funnet": "2026-11-22T16:54:23.897216+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
