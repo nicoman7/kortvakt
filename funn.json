@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-22T17:10:41.903015+00:00",
+  "sist_sjekket": "2026-11-22T17:12:21.127917+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu ex",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554742",
+      "funnet": "2026-11-22T17:12:21.126246+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "One piece kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554662",
+      "funnet": "2026-11-22T17:12:20.401266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Thievul samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481529174",
+      "funnet": "2026-11-22T17:12:20.052460+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration - Ditto 106/m ramme",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481554927",
+      "funnet": "2026-11-22T17:12:19.727953+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Op13 kort",
       "pris": 1200,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481540285",
       "funnet": "2026-11-22T14:56:22.043165+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 panini select serie A FOLORUNSHO CAGLIARI Jade Dragon Scale 11/18",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481533161",
-      "funnet": "2026-11-22T14:56:21.201977+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort hits",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481539552",
-      "funnet": "2026-11-22T14:54:20.881022+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Articuno 102/100 AR – Japansk Battle Partners",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481539797",
-      "funnet": "2026-11-22T14:54:20.590404+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort samling med e-series",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/427650294",
-      "funnet": "2026-11-22T14:52:22.856002+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
