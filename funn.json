@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T17:50:46.134762+00:00",
+  "sist_sjekket": "2026-11-22T17:52:19.788462+00:00",
   "funn": [
+    {
+      "tittel": "Wirtz #89 grønn ★ Rare – Liverpool fotballkort",
+      "pris": 89,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481122377",
+      "funnet": "2026-11-22T17:52:19.786412+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Elite Trainer Box ETB",
       "pris": 1799,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-22T15:54:20.683621+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-22T15:54:19.875068+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
