@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T03:02:19.250303+00:00",
+  "sist_sjekket": "2026-11-22T03:04:20.940287+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed - 30th Celebration og Delta Reign (nye priser)",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481133473",
+      "funnet": "2026-11-22T03:04:20.938976+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "NY PRIS Pokémon Rocket's Raikou ex 108/107 – Secret Rare 2005",
       "pris": 1190,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T20:26:19.899549+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 320,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481483844",
-      "funnet": "2026-11-21T20:24:29.573852+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
