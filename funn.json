@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T14:36:19.997087+00:00",
+  "sist_sjekket": "2026-11-22T14:38:28.491129+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Booster Bundle",
+      "pris": 950,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481537748",
+      "funnet": "2026-11-22T14:38:28.489752+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Lugia #149",
       "pris": 1500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-22T12:14:18.107596+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Onix [Reverse Holo] #98 Pokemon Aquapolis",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481518660",
-      "funnet": "2026-11-22T12:14:17.382381+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
