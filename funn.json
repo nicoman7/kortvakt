@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T08:28:21.256022+00:00",
+  "sist_sjekket": "2026-11-22T08:30:46.224623+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort 10kr pr stk",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495989",
+      "funnet": "2026-11-22T08:30:46.223496+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort 10kr pr kort",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481486561",
       "funnet": "2026-11-21T21:22:22.463353+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort Bulk samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481486348",
-      "funnet": "2026-11-21T21:22:21.621837+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
