@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T06:08:22.811394+00:00",
+  "sist_sjekket": "2026-11-22T06:10:30.599582+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Jirachi EX Pokémon-kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481492728",
+      "funnet": "2026-11-22T06:10:30.598183+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Bobb, Topps Chrome fotballkort – Manchester City",
       "pris": 175,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-21T20:30:56.633252+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort og samlerprodukter – Se utvalget hos Packdock.no!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481155579",
-      "funnet": "2026-11-21T20:30:56.101743+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
