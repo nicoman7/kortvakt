@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T16:42:21.802883+00:00",
+  "sist_sjekket": "2026-11-22T16:44:20.099111+00:00",
   "funn": [
+    {
+      "tittel": "Feraligatr - Pokemon",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481552065",
+      "funnet": "2026-11-22T16:44:20.097254+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu - Pokemon",
+      "pris": 280,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481552193",
+      "funnet": "2026-11-22T16:44:19.398329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon deckboks",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-22T14:22:20.297940+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th Greninja Ex Box",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481535389",
-      "funnet": "2026-11-22T14:20:32.385098+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-22T14:20:31.663897+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
