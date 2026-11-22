@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-22T04:18:39.571487+00:00",
+  "sist_sjekket": "2026-11-22T04:20:33.477104+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
+      "funnet": "2026-11-22T04:20:33.475448+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration Boosterpacks",
       "pris": 129,
@@ -1190,14 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481483915",
       "funnet": "2026-11-21T20:26:21.373292+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort Alakazam 125/124",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481483816",
-      "funnet": "2026-11-21T20:26:20.526756+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
