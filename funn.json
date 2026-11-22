@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-22T22:08:20.957834+00:00",
+  "sist_sjekket": "2026-11-22T22:10:40.734660+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu promo",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481579829",
+      "funnet": "2026-11-22T22:10:40.733219+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Seel #116 Pokemon Promo",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481364803",
+      "funnet": "2026-11-22T22:10:40.386754+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Didier Drogba – Remember the Name RTN 1 – Chelsea – Topps 2026/27",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481579885",
+      "funnet": "2026-11-22T22:10:39.526282+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Holo Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
+      "funnet": "2026-11-22T22:10:39.165189+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Mudkip #60 Pokemon Ruby & Sapphire",
       "pris": 40,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481564480",
       "funnet": "2026-11-22T18:52:20.812927+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort samling  87 kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475678628",
-      "funnet": "2026-11-22T18:52:20.538292+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480513716",
-      "funnet": "2026-11-22T18:52:20.278115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Inteleon #SWSH279 Pokemon Promo - Crown Zenith",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481564688",
-      "funnet": "2026-11-22T18:52:19.716897+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon sealed samling selges, Pokemon Center ETB, UPC, display m.m.",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481563899",
-      "funnet": "2026-11-22T18:50:39.068118+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
