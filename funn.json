@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T08:04:18.388560+00:00",
+  "sist_sjekket": "2026-11-22T08:06:19.634191+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort, 15kr pr stk.",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481494612",
+      "funnet": "2026-11-22T08:06:19.632422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Celebration Holo Pokémon Kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481494945",
+      "funnet": "2026-11-22T08:06:19.297729+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort, 15kr pr stk",
       "pris": 15,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-21T20:52:18.623142+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mew Ex [Metal] #205 Pokemon Scarlet & Violet 151",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481485130",
-      "funnet": "2026-11-21T20:50:37.721891+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulk pokemon kort fra pitch black",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481484996",
-      "funnet": "2026-11-21T20:50:37.471659+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
