@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T08:10:36.750816+00:00",
+  "sist_sjekket": "2026-11-22T08:12:19.623479+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 15kr pr stk",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495247",
+      "funnet": "2026-11-22T08:12:19.621716+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort – 15kr pr stk",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481495172",
+      "funnet": "2026-11-22T08:12:19.267576+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémonkort – samling med Pikachu-kort",
       "pris": 400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481485451",
       "funnet": "2026-11-21T21:00:58.581268+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémonkort PSA10 graderte enkeltkort.",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481035492",
-      "funnet": "2026-11-21T21:00:57.790477+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Keane fotballkort – Manchester United – Topps Chrome Premier League Classics",
-      "pris": 59,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481331023",
-      "funnet": "2026-11-21T20:56:19.600783+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
