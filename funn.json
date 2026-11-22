@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T09:52:18.766008+00:00",
+  "sist_sjekket": "2026-11-22T09:54:30.771675+00:00",
   "funn": [
+    {
+      "tittel": "Illit fotokort selges/byttes.",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481501571",
+      "funnet": "2026-11-22T09:54:30.770266+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Marshtomp 36/106 - Pokemon Emerald",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481501971",
+      "funnet": "2026-11-22T09:54:30.478008+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graveler 34/92 - Pokemon Legend Maker",
       "pris": 29,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478617893",
       "funnet": "2026-11-22T05:38:28.238940+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokomon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481492434",
-      "funnet": "2026-11-22T05:24:25.288038+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japanske pokemon kort + åpnet Charizard UPC",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481492341",
-      "funnet": "2026-11-22T05:02:25.459715+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
