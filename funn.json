@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T20:14:18.867833+00:00",
+  "sist_sjekket": "2026-11-22T20:16:21.680101+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkorr",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481572198",
+      "funnet": "2026-11-22T20:16:21.678399+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pikachu [Reverse Holo] #78 Pokemon HeartGold & SoulSilver",
+      "pris": 649,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481572010",
+      "funnet": "2026-11-22T20:16:20.838037+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Opal TG28/TG30 - Pokemon Lost Origin",
       "pris": 30,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/480800687",
       "funnet": "2026-11-22T18:14:21.978961+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 27/30 (049/128) - 30th celebration",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481353012",
-      "funnet": "2026-11-22T18:14:21.206701+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon: Pikachu ex 150/128 – 30th Celebration (Special Illustration Rare)",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481560479",
-      "funnet": "2026-11-22T18:14:20.230957+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
