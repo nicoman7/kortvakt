@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-22T11:02:18.499062+00:00",
+  "sist_sjekket": "2026-11-22T11:04:20.129364+00:00",
   "funn": [
+    {
+      "tittel": "Emolga 49/99 - Pokemon Next Destinies",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481509345",
+      "funnet": "2026-11-22T11:04:20.128121+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rotom [Reverse Holo] 29/98 - Pokemon Ancient Origins",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481509544",
+      "funnet": "2026-11-22T11:04:19.386340+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-22T09:02:20.924700+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "⚽️ Stefan Reuter fotballkort - Panini World Cup 98 France",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481497907",
-      "funnet": "2026-11-22T09:02:20.216922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort SIR / ULTRA RARE/ IR / EX– Gengar, Mega Evolution, Full Art",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480995759",
-      "funnet": "2026-11-22T09:02:19.858007+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
