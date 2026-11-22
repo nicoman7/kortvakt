@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-22T16:16:20.461917+00:00",
+  "sist_sjekket": "2026-11-22T16:18:21.430991+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon perm",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481549398",
+      "funnet": "2026-11-22T16:18:21.429328+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Gengar ex 056/094 fra Pokemon phantasmal flames",
+      "pris": 45,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481549426",
+      "funnet": "2026-11-22T16:18:20.613450+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mega Diancie ex 041/094 fra Pokemon phantasmal flames",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481549538",
+      "funnet": "2026-11-22T16:18:19.800253+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu nr 11",
+      "pris": 12,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481549309",
+      "funnet": "2026-11-22T16:18:18.954504+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Empoleon ex 070/094 fra Pokemon phantasmal flames",
       "pris": 25,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-22T13:46:25.859546+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Shuckle #109 Pokemon Secret Wonders",
-      "pris": 24,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481365935",
-      "funnet": "2026-11-22T13:46:25.110819+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Gholdengo #142",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481531207",
-      "funnet": "2026-11-22T13:46:24.779006+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Uxie Lv 55 #43",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481530819",
-      "funnet": "2026-11-22T13:46:24.049467+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon kort - AR kort fra 30th Celebration Japansk",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478141952",
-      "funnet": "2026-11-22T13:46:23.645790+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
