@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T14:54:22.208693+00:00",
+  "sist_sjekket": "2026-11-23T14:56:21.686374+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481616011",
+      "funnet": "2026-11-23T14:56:21.684824+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Koreanske pokémon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481616216",
+      "funnet": "2026-11-23T14:56:21.249926+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Lineage FC Bayern Munich 25/26 Leon Goretzka Auto AK-LG /25",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-23T09:48:20.970428+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Slugma  Pokémon-kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481590895",
-      "funnet": "2026-11-23T09:26:18.474392+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481590799",
-      "funnet": "2026-11-23T09:24:26.853021+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
