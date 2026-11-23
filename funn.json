@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T23:40:31.617329+00:00",
+  "sist_sjekket": "2026-11-23T23:42:21.168316+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Holo Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
+      "funnet": "2026-11-23T23:42:21.166786+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Kvaratskhelia fotballkort – PSG Limited Edition – 20th Anniversary nr. 351",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 70,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481640840",
       "funnet": "2026-11-23T20:12:19.439121+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "7x Sheffield Wednesday - Premier Gold 99 (Merlin) - Selges samlet",
-      "pris": 445,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481640517",
-      "funnet": "2026-11-23T20:10:33.067468+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
