@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T19:40:30.925722+00:00",
+  "sist_sjekket": "2026-11-23T19:42:21.624111+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481636857",
+      "funnet": "2026-11-23T19:42:21.622782+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Raikou [Reverse Holo] #16 Pokemon Secret Wonders",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481471408",
+      "funnet": "2026-11-23T19:42:21.317184+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Kort",
       "pris": null,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481625534",
       "funnet": "2026-11-23T17:04:22.479291+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort med holografiske kort, 4 stk.",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481625536",
-      "funnet": "2026-11-23T17:04:21.916133+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Rare Candy · LP",
-      "pris": 29,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481625706",
-      "funnet": "2026-11-23T17:04:21.291708+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
