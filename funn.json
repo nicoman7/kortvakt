@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T12:26:20.012462+00:00",
+  "sist_sjekket": "2026-11-23T12:28:19.905852+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 30th",
+      "pris": 490,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481604277",
+      "funnet": "2026-11-23T12:28:19.904329+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Disney Lorcana TCG Azurite Sea Gift Set Stitch *English Edition*.",
       "pris": 488,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481581611",
       "funnet": "2026-11-22T23:10:38.154188+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vaporeon [Reverse Holo] #18 Pokemon Hidden Fates",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481424620",
-      "funnet": "2026-11-22T23:10:37.398340+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
