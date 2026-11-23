@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T10:16:19.732628+00:00",
+  "sist_sjekket": "2026-11-23T10:18:22.319659+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481594162",
+      "funnet": "2026-11-23T10:18:22.317882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Prismatic evolution Umbreon masterball Pokémon-kort",
       "pris": 700,
@@ -1190,14 +1198,6 @@
       "pris": 450,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481577658",
       "funnet": "2026-11-22T21:26:28.533248+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Arsenal ramme for PSA/CGC samlekort",
-      "pris": 349,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481570732",
-      "funnet": "2026-11-22T21:26:28.304633+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
