@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T19:38:19.383524+00:00",
+  "sist_sjekket": "2026-11-23T19:40:30.925722+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481637736",
+      "funnet": "2026-11-23T19:40:30.924130+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Giratina Pokémonkort",
       "pris": 750,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481625706",
       "funnet": "2026-11-23T17:04:21.291708+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Billi 1 ell flere stykk Pokémon Prismatic Evolutions Trading Card Game samlekort",
-      "pris": 185,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481625611",
-      "funnet": "2026-11-23T17:04:20.945179+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
