@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T03:04:19.328207+00:00",
+  "sist_sjekket": "2026-11-23T03:06:23.472007+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
+      "funnet": "2026-11-23T03:06:23.470330+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pikachu",
       "pris": 200,
@@ -1190,14 +1198,6 @@
       "pris": 140,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481571721",
       "funnet": "2026-11-22T20:08:24.787110+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort og samlerprodukter – Se utvalget hos Packdock.no!",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481155579",
-      "funnet": "2026-11-22T20:08:24.476622+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
