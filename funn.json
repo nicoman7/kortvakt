@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T19:48:18.516209+00:00",
+  "sist_sjekket": "2026-11-23T19:50:33.387613+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Galvantula-kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481639023",
+      "funnet": "2026-11-23T19:50:33.385846+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort Ninetales 199/197 – Obsidian Flames Illustration Rare",
       "pris": 390,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T17:10:33.643703+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "4stk Akryl display til etb selges samlet",
-      "pris": 650,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478700725",
-      "funnet": "2026-11-23T17:08:21.055439+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
