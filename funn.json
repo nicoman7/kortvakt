@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T03:22:18.645152+00:00",
+  "sist_sjekket": "2026-11-23T03:24:19.673557+00:00",
   "funn": [
+    {
+      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
+      "funnet": "2026-11-23T03:24:19.671968+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort samling",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481571634",
       "funnet": "2026-11-22T20:08:25.142115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega tag team X ex samlekort",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481571721",
-      "funnet": "2026-11-22T20:08:24.787110+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
