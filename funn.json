@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T20:00:53.741570+00:00",
+  "sist_sjekket": "2026-11-23T20:02:31.531225+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort 30the",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481640032",
+      "funnet": "2026-11-23T20:02:31.529670+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon 30-årsjubileumskort – Pikachu, Mew, Mewtwo, Crobat og Moltres",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481639902",
+      "funnet": "2026-11-23T20:02:30.750881+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Raichu LV.45 – 8/100 Holo Rare – Stormfront 2008",
       "pris": 100,
@@ -1182,22 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481617808",
       "funnet": "2026-11-23T17:30:50.478220+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – 2 holografiske samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481627470",
-      "funnet": "2026-11-23T17:30:50.131696+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Celebration 30 years Ultra premium collection box night promoer pokemon kort",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481627346",
-      "funnet": "2026-11-23T17:30:49.461176+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
