@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T21:04:19.155653+00:00",
+  "sist_sjekket": "2026-11-23T21:06:28.583937+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481644804",
+      "funnet": "2026-11-23T21:06:28.582501+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Åpnet Pokemon 30th UPC Night",
       "pris": 990,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481632430",
       "funnet": "2026-11-23T18:28:22.869783+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Genesect EX classic collection pokemon kort",
-      "pris": 90,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481632226",
-      "funnet": "2026-11-23T18:26:29.299869+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
