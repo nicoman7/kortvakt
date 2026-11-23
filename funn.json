@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T23:04:20.300142+00:00",
+  "sist_sjekket": "2026-11-23T23:06:19.373665+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Slowbro EX samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481649814",
+      "funnet": "2026-11-23T23:06:19.372359+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Real Madrid Pakke",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T20:02:30.750881+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Raichu LV.45 – 8/100 Holo Rare – Stormfront 2008",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481639990",
-      "funnet": "2026-11-23T20:00:53.739816+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
