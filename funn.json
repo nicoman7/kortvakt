@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T17:00:58.810144+00:00",
+  "sist_sjekket": "2026-11-23T17:02:22.831006+00:00",
   "funn": [
+    {
+      "tittel": "Pysduck 104/147 Pokemon Aquapolis",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478754748",
+      "funnet": "2026-11-23T17:02:22.829215+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon TCG Magikarp & Wailord-GX og Charizard & Braixen-GX",
       "pris": 1000,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481609186",
       "funnet": "2026-11-23T13:26:20.676815+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort nye",
-      "pris": 550,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481609345",
-      "funnet": "2026-11-23T13:26:20.226935+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
