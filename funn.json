@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T08:36:18.822378+00:00",
+  "sist_sjekket": "2026-11-23T08:38:19.330853+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Topps og panini",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481588432",
+      "funnet": "2026-11-23T08:38:19.329064+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Charizard V SWSH050 Champion's Path promo – CGC 10 Pristine",
       "pris": 1000,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-22T20:44:19.997531+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fortnite Black Knight samlekort 018",
-      "pris": 290,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481574265",
-      "funnet": "2026-11-22T20:40:31.842179+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
