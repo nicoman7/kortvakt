@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T17:08:21.057309+00:00",
+  "sist_sjekket": "2026-11-23T17:10:33.644932+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Holo Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
+      "funnet": "2026-11-23T17:10:33.643703+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "4stk Akryl display til etb selges samlet",
       "pris": 650,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481610426",
       "funnet": "2026-11-23T13:42:27.832071+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Psa graderte pokemon kort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481609952",
-      "funnet": "2026-11-23T13:40:33.623456+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
