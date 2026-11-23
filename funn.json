@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T19:30:48.748419+00:00",
+  "sist_sjekket": "2026-11-23T19:32:19.489573+00:00",
   "funn": [
+    {
+      "tittel": "Samlekort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481637580",
+      "funnet": "2026-11-23T19:32:19.488108+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Komplett Pikachu-sett 30/30 Pokémon 30th Celebration",
       "pris": 699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481625234",
       "funnet": "2026-11-23T17:00:58.808231+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toploader til samlekort i rød farge 2x2 lommer per side",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481374379",
-      "funnet": "2026-11-23T16:58:22.562260+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
