@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T09:46:20.930827+00:00",
+  "sist_sjekket": "2026-11-23T09:48:21.597644+00:00",
   "funn": [
+    {
+      "tittel": "Charizard ex med Display",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481592465",
+      "funnet": "2026-11-23T09:48:21.595975+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Psa kort",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481592502",
+      "funnet": "2026-11-23T09:48:20.970428+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Slugma  Pokémon-kort",
       "pris": 30,
@@ -1182,22 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481576869",
       "funnet": "2026-11-22T21:18:19.463872+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "DAKA 2023-24 AC Milan Holocene Jerseys samlekort Alessandro Costacurta limited",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454920285",
-      "funnet": "2026-11-22T21:12:31.308599+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Misty's Staryu [1st Edition] #92 Pokemon Gym Challenge",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481570044",
-      "funnet": "2026-11-22T21:12:30.995739+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
