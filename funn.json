@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T11:20:32.480554+00:00",
+  "sist_sjekket": "2026-11-23T11:22:19.839328+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Houndour samlekort med embalasje",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481599162",
+      "funnet": "2026-11-23T11:22:19.838126+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Alisson Becker fotballkort – Liverpool – ★ Aqua Rare nr. 82",
       "pris": 59,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-22T22:26:28.364340+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Frozen Wings samlekort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481580243",
-      "funnet": "2026-11-22T22:20:33.174801+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
