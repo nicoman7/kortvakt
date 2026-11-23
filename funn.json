@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T15:44:22.057381+00:00",
+  "sist_sjekket": "2026-11-23T15:46:29.919155+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th hits",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481619622",
+      "funnet": "2026-11-23T15:46:29.917471+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Ralts Illustration Rare #211",
+      "pris": 700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481619640",
+      "funnet": "2026-11-23T15:46:29.511952+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Cynthia's Garchomp ex Hyper Rare #241",
       "pris": 1000,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481599472",
       "funnet": "2026-11-23T11:28:20.575615+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragon Ball Z Collectible Card Game – 13 kortpakker",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481297316",
-      "funnet": "2026-11-23T11:28:19.847307+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Houndour samlekort med embalasje",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481599162",
-      "funnet": "2026-11-23T11:22:19.838126+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
