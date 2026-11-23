@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T02:26:25.699808+00:00",
+  "sist_sjekket": "2026-11-23T02:28:24.138971+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481582995",
+      "funnet": "2026-11-23T02:28:24.136781+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA graderte pokemonkort",
       "pris": 499,
@@ -1190,14 +1198,6 @@
       "pris": 1,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481155579",
       "funnet": "2026-11-22T20:08:24.476622+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Kabu TG26/TG30 - Pokemon Lost Origin",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481571452",
-      "funnet": "2026-11-22T20:04:22.558097+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
