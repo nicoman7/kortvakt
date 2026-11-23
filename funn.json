@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T09:22:20.213314+00:00",
+  "sist_sjekket": "2026-11-23T09:24:26.855138+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481590799",
+      "funnet": "2026-11-23T09:24:26.853021+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Muk Pokémonkort",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481576195",
       "funnet": "2026-11-22T21:08:29.664022+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vileplume [Reverse Holo] #24 Pokemon Undaunted",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481575904",
-      "funnet": "2026-11-22T21:02:22.729226+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
