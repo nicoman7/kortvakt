@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-23T13:46:21.935540+00:00",
+  "sist_sjekket": "2026-11-23T13:48:20.514209+00:00",
   "funn": [
+    {
+      "tittel": "RESERVERT Pokémon-kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610971",
+      "funnet": "2026-11-23T13:48:20.512728+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu 039/128",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610899",
+      "funnet": "2026-11-23T13:48:20.174276+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Angistein ex 210/185",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610934",
+      "funnet": "2026-11-23T13:48:19.507578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gamegenic 24-pocket zip-up album",
       "pris": 250,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-23T04:02:36.872667+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Oscar Bobb kort selges | Manchester City | Norge | Fulham - Auto & Nummerert",
-      "pris": 98,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476602602",
-      "funnet": "2026-11-23T03:30:48.158929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-23T03:24:19.671968+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-23T03:06:23.470330+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
