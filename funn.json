@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T10:48:19.138752+00:00",
+  "sist_sjekket": "2026-11-23T10:50:34.438567+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-samlekort i perm Rare",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481596366",
+      "funnet": "2026-11-23T10:50:34.437227+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "MTG-pakke – 4 kort EOE/EOC: Uthros Research Craft, Exploration Broodship +2",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 349,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481573636",
       "funnet": "2026-11-22T21:42:18.883096+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo EX-kort 151/128",
-      "pris": 499,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481578299",
-      "funnet": "2026-11-22T21:40:31.620360+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
