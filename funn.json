@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-23T19:50:33.387613+00:00",
+  "sist_sjekket": "2026-11-23T19:52:25.153565+00:00",
   "funn": [
+    {
+      "tittel": "panini adrenalyn wc 26",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481639390",
+      "funnet": "2026-11-23T19:52:25.152422+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481638644",
+      "funnet": "2026-11-23T19:52:24.840700+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – 2 Venusaur – EX Crystal Guardians & Supreme Victors",
+      "pris": 270,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481639304",
+      "funnet": "2026-11-23T19:52:24.161806+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Galvantula-kort",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-23T17:16:21.864264+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-samlekort, 3 stk. Mega evolusjon",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481626570",
-      "funnet": "2026-11-23T17:16:21.474071+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Perfect Order Elite Trainer Box",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481626350",
-      "funnet": "2026-11-23T17:14:19.956144+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Holo Pokémonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
-      "funnet": "2026-11-23T17:10:33.643703+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
