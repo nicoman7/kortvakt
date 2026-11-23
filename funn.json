@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T12:10:30.690363+00:00",
+  "sist_sjekket": "2026-11-23T12:12:21.746015+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/398141676",
+      "funnet": "2026-11-23T12:12:21.744228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort: Kyurem EX 96/99 Full Art – Next Destinies (2012) – God stand",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481424617",
       "funnet": "2026-11-22T23:02:19.013967+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Jungle - Nidoqueen",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481581360",
-      "funnet": "2026-11-22T22:58:21.294956+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
