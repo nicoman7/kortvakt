@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T17:18:21.169527+00:00",
+  "sist_sjekket": "2026-11-23T17:20:37.584248+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Umbreon GX samlekort",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481626831",
+      "funnet": "2026-11-23T17:20:37.582877+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mega charizard EX samlekort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481626846",
+      "funnet": "2026-11-23T17:20:36.803764+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – 2 holografiske samlekort",
       "pris": 500,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-23T13:46:21.934089+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon – Mega Charizard X ex #023 PSA 10 (Mega Evolution Black Star Promo, UPC)",
-      "pris": 2000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481610769",
-      "funnet": "2026-11-23T13:46:21.641998+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon TCG Ascended Heroes ETB",
-      "pris": 1799,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
-      "funnet": "2026-11-23T13:46:21.153134+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
