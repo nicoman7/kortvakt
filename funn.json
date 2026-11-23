@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T06:08:22.132745+00:00",
+  "sist_sjekket": "2026-11-23T06:10:45.693172+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling selges BILLIG",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481584336",
+      "funnet": "2026-11-23T06:10:45.691693+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon kort - 2009 - Arceus",
       "pris": 5,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481572868",
       "funnet": "2026-11-22T20:20:32.031643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Passimian TG08/TG30 - Pokemon Silver Tempest",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481572556",
-      "funnet": "2026-11-22T20:18:20.000910+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
