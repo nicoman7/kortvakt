@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-23T12:48:22.159977+00:00",
+  "sist_sjekket": "2026-11-23T12:50:33.225121+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon samling selges",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481604300",
+      "funnet": "2026-11-23T12:50:33.223864+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Slowbro Pokemon Web",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481605842",
+      "funnet": "2026-11-23T12:50:32.879399+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mystery kort. Kommer med ett kort, Helt fra ex til v/gx. Opp  til 1000!",
       "pris": 65,
@@ -1182,22 +1198,6 @@
       "pris": 40,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481333159",
       "funnet": "2026-11-22T23:20:30.983978+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "⚽️Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
-      "funnet": "2026-11-22T23:16:21.214030+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Umbreon #77 Pokemon Japanese 30th Celebration",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481581582",
-      "funnet": "2026-11-22T23:12:20.027435+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
