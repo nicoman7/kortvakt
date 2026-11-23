@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-23T20:48:26.308975+00:00",
+  "sist_sjekket": "2026-11-23T20:50:31.834161+00:00",
   "funn": [
+    {
+      "tittel": "Plastma storm trainer kort",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481642974",
+      "funnet": "2026-11-23T20:50:31.832215+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "6x Leeds United - Premier Gold 99 (Merlin) - Selges samlet",
       "pris": 390,
@@ -1190,14 +1198,6 @@
       "pris": 999,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481631135",
       "funnet": "2026-11-23T18:14:22.434640+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Didier. Drogba. ×4  fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481624955",
-      "funnet": "2026-11-23T18:14:22.124039+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
