@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T15:16:28.585797+00:00",
+  "sist_sjekket": "2026-11-24T15:18:29.918251+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort, Diverse typer",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481685612",
+      "funnet": "2026-11-24T15:18:29.916674+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Trading Card - Pikachu & Zekrom GX",
       "pris": 500,
@@ -1190,14 +1198,6 @@
       "pris": 800,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479488355",
       "funnet": "2026-11-24T09:58:27.853958+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dragon Ball Z Collectible Card Game – 13 kortpakker",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481297316",
-      "funnet": "2026-11-24T09:52:21.202680+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
