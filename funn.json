@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T07:28:20.663601+00:00",
+  "sist_sjekket": "2026-11-24T07:30:46.458422+00:00",
   "funn": [
+    {
+      "tittel": "kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481654509",
+      "funnet": "2026-11-24T07:30:46.456644+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Pikachu & Zekrom GX 33 Team Up – CGC 9.5",
       "pris": 950,
@@ -1190,14 +1198,6 @@
       "pris": 300,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481644890",
       "funnet": "2026-11-23T21:08:19.727137+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644804",
-      "funnet": "2026-11-23T21:06:28.582501+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
