@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T05:28:17.595125+00:00",
+  "sist_sjekket": "2026-11-24T05:30:42.633746+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Alolan Exeggutor ex - 242/191",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481652604",
+      "funnet": "2026-11-24T05:30:42.631860+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Charizard 19/113 Pokemon Legendary Treasures",
       "pris": 600,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T20:52:19.957346+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Plastma storm trainer kort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481642974",
-      "funnet": "2026-11-23T20:50:31.832215+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
