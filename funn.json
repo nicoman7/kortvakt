@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T16:18:20.989637+00:00",
+  "sist_sjekket": "2026-11-24T16:20:34.555711+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Bulbasaur",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481689975",
+      "funnet": "2026-11-24T16:20:34.553768+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Ambipom",
       "pris": 100,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481665305",
       "funnet": "2026-11-24T10:42:28.684137+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481665078",
-      "funnet": "2026-11-24T10:40:34.747606+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
