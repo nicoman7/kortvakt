@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T10:56:18.369245+00:00",
+  "sist_sjekket": "2026-11-24T10:58:21.525135+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome UCC 2026 Power Players Johnston PP-34",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481666273",
+      "funnet": "2026-11-24T10:58:21.523226+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gyarados Holo Pokémon Kort",
       "pris": 25,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T08:00:57.626881+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-24T07:46:20.085390+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
