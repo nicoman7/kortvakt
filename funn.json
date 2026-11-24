@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T01:48:19.705690+00:00",
+  "sist_sjekket": "2026-11-24T01:50:32.281097+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Sneasel-kort",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481651488",
+      "funnet": "2026-11-24T01:50:32.279431+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Rare Candy · LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481651521",
+      "funnet": "2026-11-24T01:50:31.455077+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu · NM",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481640939",
       "funnet": "2026-11-23T20:34:21.303790+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Sylveon ex 270 HP samlekort",
-      "pris": 899,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481642556",
-      "funnet": "2026-11-23T20:34:20.704716+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Flagship Premier League 26/27",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481382862",
-      "funnet": "2026-11-23T20:34:20.239340+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
