@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T12:48:20.733107+00:00",
+  "sist_sjekket": "2026-11-24T12:50:32.792518+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 130,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481674588",
+      "funnet": "2026-11-24T12:50:32.790778+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 130,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481222377",
       "funnet": "2026-11-24T09:20:34.286029+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th celebration hits (Espeon, Lugia Classic etc)",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481659267",
-      "funnet": "2026-11-24T09:14:21.060136+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
