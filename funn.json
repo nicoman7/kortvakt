@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T16:28:21.574654+00:00",
+  "sist_sjekket": "2026-11-24T16:30:49.529379+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sleeves og deck box",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481690863",
+      "funnet": "2026-11-24T16:30:49.527053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-24T16:30:48.725552+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Simplicidad UCC 25-26 Pakke",
       "pris": 50,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481666805",
       "funnet": "2026-11-24T11:08:23.993537+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Liverpool fotballkort - 4 stk lot",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481666800",
-      "funnet": "2026-11-24T11:06:22.310991+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Topps Chrome UCC 2026 Power Players Johnston PP-34",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481666273",
-      "funnet": "2026-11-24T10:58:21.523226+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
