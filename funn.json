@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T07:00:53.542075+00:00",
+  "sist_sjekket": "2026-11-24T07:02:22.069112+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pakke",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481653832",
+      "funnet": "2026-11-24T07:02:22.067918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Scarlet & Violet 310/198 Scream Tail ex Pokémon-kort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481653903",
+      "funnet": "2026-11-24T07:02:21.280703+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Copperajah VMAX 220 Pokémonkort",
       "pris": 200,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-23T21:02:19.884183+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Åpnet Pokemon 30th UPC Day",
-      "pris": 990,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644420",
-      "funnet": "2026-11-23T21:00:54.829859+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Anniversary UPC – Pikachu & Espeon Promo kort",
-      "pris": 900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644137",
-      "funnet": "2026-11-23T20:58:29.154485+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
