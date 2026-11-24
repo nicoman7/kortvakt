@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T18:12:21.447208+00:00",
+  "sist_sjekket": "2026-11-24T18:14:21.156261+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481697714",
+      "funnet": "2026-11-24T18:14:21.154394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481402767",
+      "funnet": "2026-11-24T18:14:20.884177+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Ascended Heroes Booster Bundle",
       "pris": 1400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481687947",
       "funnet": "2026-11-24T15:48:18.661122+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481687329",
-      "funnet": "2026-11-24T15:42:28.057255+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mewtwo EX samlekort151/128",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481686927",
-      "funnet": "2026-11-24T15:32:22.841954+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
