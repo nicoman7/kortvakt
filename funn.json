@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-24T09:08:19.185226+00:00",
+  "sist_sjekket": "2026-11-24T09:10:34.176799+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu Pokémon Kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481659123",
+      "funnet": "2026-11-24T09:10:34.175131+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Star Wars Topps samlekort Grogu, 8 kort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481659122",
+      "funnet": "2026-11-24T09:10:33.863252+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "100 Pokeman GX kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481659108",
+      "funnet": "2026-11-24T09:10:33.006686+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eevee Pokémon Kort",
       "pris": 25,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481647690",
       "funnet": "2026-11-23T21:58:23.873449+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 037/128 – 30th Anniversary – 2026 – Holo",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481647731",
-      "funnet": "2026-11-23T21:58:23.154416+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon pitch black Mistys Vitality",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481647484",
-      "funnet": "2026-11-23T21:58:22.486170+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Club Legacyz fotballkort med Andrés Iniesta og Federico Valverde.",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481647669",
-      "funnet": "2026-11-23T21:58:21.753572+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
