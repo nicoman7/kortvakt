@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T14:04:31.600230+00:00",
+  "sist_sjekket": "2026-11-24T14:06:19.347192+00:00",
   "funn": [
+    {
+      "tittel": "Samling fotballkort og fotballblader",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481680881",
+      "funnet": "2026-11-24T14:06:19.345249+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Psyduck 175/165",
       "pris": 699,
@@ -1190,14 +1198,6 @@
       "pris": 75,
       "lenke": "https://www.finn.no/recommerce/forsale/item/446022822",
       "funnet": "2026-11-24T09:38:21.935917+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vincent Kompany Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/375966022",
-      "funnet": "2026-11-24T09:38:21.604152+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
