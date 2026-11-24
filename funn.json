@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T11:48:19.683991+00:00",
+  "sist_sjekket": "2026-11-24T11:50:32.144100+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Holo Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
+      "funnet": "2026-11-24T11:50:32.142562+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Topps On Fire Semenyo OF12",
       "pris": 38,
@@ -1190,14 +1198,6 @@
       "pris": 79,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481657344",
       "funnet": "2026-11-24T08:36:20.916796+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort 30th",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481656792",
-      "funnet": "2026-11-24T08:30:47.556174+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
