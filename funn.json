@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T11:20:35.774483+00:00",
+  "sist_sjekket": "2026-11-24T11:22:21.164358+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tin boks",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481333159",
+      "funnet": "2026-11-24T11:22:21.162885+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "30th celebration hits - Charizard",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481655798",
       "funnet": "2026-11-24T08:12:19.923505+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Gardevoir-EX Pokémonkort",
-      "pris": 530,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481610023",
-      "funnet": "2026-11-24T08:10:30.422781+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
