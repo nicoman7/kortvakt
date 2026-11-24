@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T06:36:20.227631+00:00",
+  "sist_sjekket": "2026-11-24T06:38:20.708018+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
+      "funnet": "2026-11-24T06:38:20.706217+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Charizard 30th anniversary",
       "pris": 1400,
@@ -1190,14 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481644245",
       "funnet": "2026-11-23T20:58:28.827283+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2x Tottenham Hotspur - Premier Gold 99 (Merlin) - Selges samlet",
-      "pris": 149,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644328",
-      "funnet": "2026-11-23T20:58:28.501119+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
