@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T08:04:19.399291+00:00",
+  "sist_sjekket": "2026-11-24T08:06:26.113434+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort 30th Pikachu tin",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481655915",
+      "funnet": "2026-11-24T08:06:26.111670+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort first partner series 1-2-3 billigste på finn",
       "pris": 1300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T21:14:32.916631+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Moderne FullArt pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481645217",
-      "funnet": "2026-11-23T21:14:32.134046+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
