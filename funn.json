@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T09:34:32.410428+00:00",
+  "sist_sjekket": "2026-11-24T09:36:21.847256+00:00",
   "funn": [
+    {
+      "tittel": "Adriano Fotballkort",
+      "pris": 35,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/445604619",
+      "funnet": "2026-11-24T09:36:21.845482+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Mario Gotze & Thomas Muller Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/426087539",
+      "funnet": "2026-11-24T09:36:20.994944+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Vincent Kompany Fotballkort",
       "pris": 35,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481649181",
       "funnet": "2026-11-23T22:40:33.556841+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration – Ditto-promokort med akrylramme",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481649222",
-      "funnet": "2026-11-23T22:40:32.990616+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "9 Pokémon-kort – Poké Ball Reverse, Cosmos Holo & Promos",
-      "pris": 65,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481649003",
-      "funnet": "2026-11-23T22:40:32.552728+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
