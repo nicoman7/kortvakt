@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T05:24:19.053118+00:00",
+  "sist_sjekket": "2026-11-24T05:26:21.190173+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard 19/113 Pokemon Legendary Treasures",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481652572",
+      "funnet": "2026-11-24T05:26:21.188448+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Arceus LV.X DP56 Pokemon Promo",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T20:50:31.832215+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "6x Leeds United - Premier Gold 99 (Merlin) - Selges samlet",
-      "pris": 390,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481643506",
-      "funnet": "2026-11-23T20:48:26.307549+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
