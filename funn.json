@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T17:18:28.279151+00:00",
+  "sist_sjekket": "2026-11-24T17:20:35.011655+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Panini Top Class 2024 - Martin Ødegaard",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481694200",
+      "funnet": "2026-11-24T17:20:35.010349+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort Panini Top Class 2024 - Jude Bellingham",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481694261",
+      "funnet": "2026-11-24T17:20:34.615880+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Chi-Yu ex kort",
       "pris": 399,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-24T14:01:02.082315+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Mega Charizard Ex",
-      "pris": 220,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481680355",
-      "funnet": "2026-11-24T13:58:21.530951+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Charizard X ex · NM",
-      "pris": 52,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481680252",
-      "funnet": "2026-11-24T13:56:22.509251+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
