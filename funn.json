@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T08:52:21.427244+00:00",
+  "sist_sjekket": "2026-11-24T08:54:23.679675+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pakke",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481658158",
+      "funnet": "2026-11-24T08:54:23.678130+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽🔥 Fotballkort Mystery Pack Sølv --  BARE 4 IGJEN!! – 10 kort + Garantert HIT!",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 35,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481647269",
       "funnet": "2026-11-23T21:50:38.697437+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu 049/128 – 30th Anniversary – 2026 – Holo",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481647340",
-      "funnet": "2026-11-23T21:50:37.899340+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
