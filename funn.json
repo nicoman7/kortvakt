@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T13:18:20.469144+00:00",
+  "sist_sjekket": "2026-11-24T13:20:32.539900+00:00",
   "funn": [
+    {
+      "tittel": "Topps Arsenal Pakke",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481676971",
+      "funnet": "2026-11-24T13:20:32.538159+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Vintage Pokémon Neo Genesis – 1st Edition Pikachu, Steelix holo m.m.",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481373804",
+      "funnet": "2026-11-24T13:20:32.308317+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "43 Pokémonkort – Pitch Black & Delta Reign – Raikou ex, Holo og Reverse Holo",
       "pris": 69,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/394700741",
       "funnet": "2026-11-24T09:34:27.878284+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yaya Toure Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/407989601",
-      "funnet": "2026-11-24T09:34:27.658797+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Brennan Johnson Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445653932",
-      "funnet": "2026-11-24T09:32:27.646833+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
