@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-24T20:11:09.791249+00:00",
+  "sist_sjekket": "2026-11-24T20:12:20.437186+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 269,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481706865",
+      "funnet": "2026-11-24T20:12:20.435325+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort 120 Japanske Pokemon kort",
+      "pris": 99,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481706829",
+      "funnet": "2026-11-24T20:12:20.194501+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Magic: The Gathering-kort (mtg bulk)",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481705331",
+      "funnet": "2026-11-24T20:12:19.561337+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny Pokemon Toploader",
       "pris": 400,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/478132906",
       "funnet": "2026-11-24T17:28:22.704827+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu & Zekrom GX #33 Pokémon-kort",
-      "pris": 289,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481694638",
-      "funnet": "2026-11-24T17:28:22.283791+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 027/078  fra Pokémon GO",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481287298",
-      "funnet": "2026-11-24T17:28:21.589322+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Delta Reign – 7x Illustration Rare pakke  750 kr",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481694670",
-      "funnet": "2026-11-24T17:28:20.844724+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
