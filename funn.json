@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T08:14:21.369405+00:00",
+  "sist_sjekket": "2026-11-24T08:16:22.033687+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481402767",
+      "funnet": "2026-11-24T08:16:22.031811+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon samlekort 30th",
       "pris": 50,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481645888",
       "funnet": "2026-11-23T21:24:24.567676+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "7x Arsenal - Premier Gold 99 (Merlin) - Selges samlet",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481645748",
-      "funnet": "2026-11-23T21:22:18.703167+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
