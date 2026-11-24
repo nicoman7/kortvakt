@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T07:40:34.149073+00:00",
+  "sist_sjekket": "2026-11-24T07:42:21.820942+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Pakke",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481654791",
+      "funnet": "2026-11-24T07:42:21.819257+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Topps Chrome Bundesliga 25-26 Borussia Dortmund Pakke",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481654920",
+      "funnet": "2026-11-24T07:42:21.068985+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "kort",
       "pris": 500,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481320682",
       "funnet": "2026-11-23T21:10:31.136734+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "6x Liverpool - Premier Gold 99 (Merlin) - Selges samlet",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644822",
-      "funnet": "2026-11-23T21:08:20.447230+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "topps Allen & Ginter mini kort pakke",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644890",
-      "funnet": "2026-11-23T21:08:19.727137+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
