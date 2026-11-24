@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T07:12:22.006497+00:00",
+  "sist_sjekket": "2026-11-24T07:14:20.893930+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-24T07:14:20.892167+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Pakke",
       "pris": 400,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-23T21:02:20.228001+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
-      "funnet": "2026-11-23T21:02:19.884183+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
