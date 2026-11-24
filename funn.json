@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T20:14:20.256535+00:00",
+  "sist_sjekket": "2026-11-24T20:16:20.716829+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort VM 2026",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481707020",
+      "funnet": "2026-11-24T20:16:20.715008+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon",
       "pris": 269,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/479866016",
       "funnet": "2026-11-24T17:28:23.054413+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "✨️Komplett Pokedex 1. Gen | 151 kort i album",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478132906",
-      "funnet": "2026-11-24T17:28:22.704827+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
