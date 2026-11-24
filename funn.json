@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T12:44:25.230734+00:00",
+  "sist_sjekket": "2026-11-24T12:46:27.027551+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 135,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481674294",
+      "funnet": "2026-11-24T12:46:27.026187+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pikachu & Zekrom GX Tag team",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481674315",
+      "funnet": "2026-11-24T12:46:26.233396+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 125,
@@ -1182,22 +1198,6 @@
       "pris": 350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481659204",
       "funnet": "2026-11-24T09:12:25.802557+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu Pokémon Kort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481659123",
-      "funnet": "2026-11-24T09:10:34.175131+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Star Wars Topps samlekort Grogu, 8 kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481659122",
-      "funnet": "2026-11-24T09:10:33.863252+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
