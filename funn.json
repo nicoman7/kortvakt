@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T13:10:33.864554+00:00",
+  "sist_sjekket": "2026-11-24T13:12:24.279910+00:00",
   "funn": [
+    {
+      "tittel": "Tottenham Hotspur x 16 stk Fotballkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/447185870",
+      "funnet": "2026-11-24T13:12:24.278262+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
+      "funnet": "2026-11-24T13:12:24.009330+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "MTG - 97 kort + 5 booster",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/365734708",
       "funnet": "2026-11-24T09:32:25.191979+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Nuno Mendes Fotballkort",
-      "pris": 35,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445652118",
-      "funnet": "2026-11-24T09:32:24.455821+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Jeremy Doku Stort Fotballkort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/463799758",
-      "funnet": "2026-11-24T09:32:23.708281+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
