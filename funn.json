@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T09:28:19.393175+00:00",
+  "sist_sjekket": "2026-11-24T09:30:47.317235+00:00",
   "funn": [
+    {
+      "tittel": "HITS fra Pokemon 30th Celebration (Selges samlet)",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481659695",
+      "funnet": "2026-11-24T09:30:47.315367+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "PSA slabs. Fra psa 1-9 Flere gold star pokemonkort Diverse Mid til High end",
       "pris": 1,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481647838",
       "funnet": "2026-11-23T22:04:21.247412+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Groudon ex samlekort",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481647883",
-      "funnet": "2026-11-23T22:04:20.837807+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
