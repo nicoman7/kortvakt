@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T10:34:20.021889+00:00",
+  "sist_sjekket": "2026-11-24T10:36:22.620465+00:00",
   "funn": [
+    {
+      "tittel": "Match attack spesial kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481664713",
+      "funnet": "2026-11-24T10:36:22.618747+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Guimaraes On Fire OF15 – Newcastle United fotballkort",
+      "pris": 39,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481256091",
+      "funnet": "2026-11-24T10:36:22.283004+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Eldre fotballkort 200kr samlet - Ronaldo, griezman",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 20,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481653282",
       "funnet": "2026-11-24T06:28:21.532413+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481653169",
-      "funnet": "2026-11-24T06:22:21.145720+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu · LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481653115",
-      "funnet": "2026-11-24T06:12:19.868241+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
