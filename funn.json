@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T13:38:19.023497+00:00",
+  "sist_sjekket": "2026-11-24T13:40:34.133344+00:00",
   "funn": [
+    {
+      "tittel": "Charizard",
+      "pris": 190,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481678885",
+      "funnet": "2026-11-24T13:40:34.131450+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481402767",
+      "funnet": "2026-11-24T13:40:33.902193+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "23 stk forballkort (topps og panini) i samleperm",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 50,
       "lenke": "https://www.finn.no/recommerce/forsale/item/412577575",
       "funnet": "2026-11-24T09:34:29.507720+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Toni Kroos Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445566071",
-      "funnet": "2026-11-24T09:34:29.290042+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Hugo Lloris Fotballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/445606885",
-      "funnet": "2026-11-24T09:34:28.748904+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
