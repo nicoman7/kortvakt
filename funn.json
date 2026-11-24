@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T10:36:22.620465+00:00",
+  "sist_sjekket": "2026-11-24T10:38:25.498153+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Celebration",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481664633",
+      "funnet": "2026-11-24T10:38:25.496922+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samleboksen",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481664897",
+      "funnet": "2026-11-24T10:38:25.292335+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Match attack spesial kort",
       "pris": 100,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-24T06:38:20.706217+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Charizard 30th anniversary",
-      "pris": 1400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481653373",
-      "funnet": "2026-11-24T06:32:21.220988+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle pokemonkort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481653282",
-      "funnet": "2026-11-24T06:28:21.532413+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
