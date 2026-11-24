@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T12:42:18.703267+00:00",
+  "sist_sjekket": "2026-11-24T12:44:25.230734+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481674034",
+      "funnet": "2026-11-24T12:44:25.229007+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 135,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481659122",
       "funnet": "2026-11-24T09:10:33.863252+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "100 Pokeman GX kort",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481659108",
-      "funnet": "2026-11-24T09:10:33.006686+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
