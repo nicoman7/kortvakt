@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T06:20:42.709962+00:00",
+  "sist_sjekket": "2026-11-24T06:22:21.147341+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481653169",
+      "funnet": "2026-11-24T06:22:21.145720+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu · LP",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-23T20:56:20.555125+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Ponyta No. 077 samlekort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481643854",
-      "funnet": "2026-11-23T20:54:21.432533+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
