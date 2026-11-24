@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T10:38:25.498153+00:00",
+  "sist_sjekket": "2026-11-24T10:40:34.749007+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Mega Charizard",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481665078",
+      "funnet": "2026-11-24T10:40:34.747606+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Manchester United fotballkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481665152",
+      "funnet": "2026-11-24T10:40:34.538815+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30th Celebration",
       "pris": 999,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-24T07:02:21.280703+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Copperajah VMAX 220 Pokémonkort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481653845",
-      "funnet": "2026-11-24T06:58:20.169718+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
-      "funnet": "2026-11-24T06:38:20.706217+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
