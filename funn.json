@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T16:02:19.299296+00:00",
+  "sist_sjekket": "2026-11-24T16:04:20.543044+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Mega Venusaur ex",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481688957",
+      "funnet": "2026-11-24T16:04:20.541523+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
+      "funnet": "2026-11-24T16:04:20.195413+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon playmat",
       "pris": 200,
@@ -1182,22 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481663900",
       "funnet": "2026-11-24T10:22:24.407097+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Petrel 176/182 | Vanlig kort | Destined Rivals",
-      "pris": 3,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481663819",
-      "funnet": "2026-11-24T10:22:23.505642+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Team Rocket's Factory 173/182 | Vanlig kort | Destined Rivals",
-      "pris": 4,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481663696",
-      "funnet": "2026-11-24T10:20:43.472919+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
