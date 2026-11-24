@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T07:44:18.953757+00:00",
+  "sist_sjekket": "2026-11-24T07:46:20.086609+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481215812",
+      "funnet": "2026-11-24T07:46:20.085390+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Pakke",
       "pris": 400,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481640893",
       "funnet": "2026-11-23T21:10:31.789698+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "STOR POKEMON - SAMLING – VINTAGE, EX & DELTA SPECIES! 🔥",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481320682",
-      "funnet": "2026-11-23T21:10:31.136734+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
