@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-24T16:16:18.858718+00:00",
+  "sist_sjekket": "2026-11-24T16:18:20.989637+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Ambipom",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481689746",
+      "funnet": "2026-11-24T16:18:20.988118+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Arsenal legendepakke /99 – Henry, Bergkamp, Robert Pires (Topps Total Football)",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480920847",
+      "funnet": "2026-11-24T16:18:20.644080+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes Elite Trainer Box",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479685279",
+      "funnet": "2026-11-24T16:18:20.281751+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Dark Tyranitar",
+      "pris": 580,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476920885",
+      "funnet": "2026-11-24T16:18:19.897636+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon graderte kort",
       "pris": 100,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-24T10:40:34.747606+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Manchester United fotballkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481665152",
-      "funnet": "2026-11-24T10:40:34.538815+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon 30th Celebration",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481664633",
-      "funnet": "2026-11-24T10:38:25.496922+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Samleboksen",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481664897",
-      "funnet": "2026-11-24T10:38:25.292335+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Match attack spesial kort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481664713",
-      "funnet": "2026-11-24T10:36:22.618747+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
