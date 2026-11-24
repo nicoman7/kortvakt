@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T18:58:22.422157+00:00",
+  "sist_sjekket": "2026-11-24T19:00:58.066646+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Card Houndoom #063",
+      "pris": 4,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481701544",
+      "funnet": "2026-11-24T19:00:58.065064+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini Select Federico Valverde Uruguay World Cup 2026 samlekort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481701537",
+      "funnet": "2026-11-24T19:00:57.253850+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Kyogre ex 94/101 PSA 5 - Pokemon",
       "pris": 2000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-24T16:54:24.758905+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kort Zacian",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481692438",
-      "funnet": "2026-11-24T16:54:24.014116+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "POKEMON - JUMBOKORT/OVERSIZED",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481692325",
-      "funnet": "2026-11-24T16:54:23.271298+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
