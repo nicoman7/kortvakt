@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T06:26:20.429432+00:00",
+  "sist_sjekket": "2026-11-24T06:28:21.534123+00:00",
   "funn": [
+    {
+      "tittel": "Gamle pokemonkort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481653282",
+      "funnet": "2026-11-24T06:28:21.532413+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481644023",
       "funnet": "2026-11-23T20:56:20.926652+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-11-23T20:56:20.555125+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
