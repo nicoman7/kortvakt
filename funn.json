@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T22:06:21.856078+00:00",
+  "sist_sjekket": "2026-11-24T22:08:20.808782+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort + 2 SIR kort og flere IR kort",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481712854",
+      "funnet": "2026-11-24T22:08:20.807228+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Trainer-kort Misty 18/132",
       "pris": 200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T18:52:20.816942+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Mega Charizard X ex #360/60 samlekort",
-      "pris": 825,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481093602",
-      "funnet": "2026-11-24T18:48:22.017224+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
