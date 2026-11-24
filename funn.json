@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-24T16:44:23.197089+00:00",
+  "sist_sjekket": "2026-11-24T16:46:20.858399+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort Tatsugiri",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481691884",
+      "funnet": "2026-11-24T16:46:20.856309+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "ATEEZ albumer (flere sider)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475086706",
+      "funnet": "2026-11-24T16:46:20.610627+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Flamigo",
       "pris": 275,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-24T11:50:32.142562+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Topps On Fire Semenyo OF12",
-      "pris": 38,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481669817",
-      "funnet": "2026-11-24T11:48:19.682253+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beckenbauer All-Time 100 Club #480 ★★ Super-Rare – Bayern fotballkort",
-      "pris": 129,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481207693",
-      "funnet": "2026-11-24T11:46:20.903888+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
