@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T00:28:20.344179+00:00",
+  "sist_sjekket": "2026-11-24T00:30:45.997844+00:00",
   "funn": [
+    {
+      "tittel": "Selger diverse pokemon 30th Celebration hits",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481651006",
+      "funnet": "2026-11-24T00:30:45.996443+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Dragon Ball Z Collectible Card Game – 13 kortpakker",
       "pris": null,
@@ -1190,14 +1198,6 @@
       "pris": 15,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481642239",
       "funnet": "2026-11-23T20:28:19.832171+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Pikachu 27/30 (049/128) - 30th celebration",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481641971",
-      "funnet": "2026-11-23T20:26:19.355275+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
