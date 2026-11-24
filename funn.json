@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-24T20:04:22.139925+00:00",
+  "sist_sjekket": "2026-11-24T20:06:18.672283+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-24T20:06:18.670266+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "OnePiece kort",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481694342",
       "funnet": "2026-11-24T17:24:33.169760+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Delcatty classic collection pokemon kort",
-      "pris": 80,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481693920",
-      "funnet": "2026-11-24T17:24:32.645892+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
