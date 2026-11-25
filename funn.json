@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T10:38:19.927614+00:00",
+  "sist_sjekket": "2026-11-25T10:40:33.773365+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Topps 26/27",
+      "pris": 5,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728938",
+      "funnet": "2026-11-25T10:40:33.771570+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort –  Graderte kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481565739",
+      "funnet": "2026-11-25T10:40:33.034414+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Sqiurtle",
       "pris": 250,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481717901",
       "funnet": "2026-11-25T06:10:29.784777+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Paldean Fates ex",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481605859",
-      "funnet": "2026-11-25T06:08:22.651882+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 ex",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481606156",
-      "funnet": "2026-11-25T06:04:20.179193+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
