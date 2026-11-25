@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T11:36:18.886879+00:00",
+  "sist_sjekket": "2026-11-25T11:38:20.444158+00:00",
   "funn": [
+    {
+      "tittel": "Div. Pokemon produkter selges!",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481730782",
+      "funnet": "2026-11-25T11:38:20.442168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "FC Barcelona Lionel Messi/ lamine yamal samlekort",
       "pris": null,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481656017",
       "funnet": "2026-11-25T07:10:31.645810+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 160 Mega Lucario",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481656051",
-      "funnet": "2026-11-25T07:08:22.212714+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
