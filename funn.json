@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T22:02:20.558455+00:00",
+  "sist_sjekket": "2026-11-25T22:04:21.083585+00:00",
   "funn": [
+    {
+      "tittel": "Charizard 4/102 30th Celebration",
+      "pris": 1400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481766311",
+      "funnet": "2026-11-25T22:04:21.081731+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort – 3 kort",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481768336",
       "funnet": "2026-11-25T19:24:22.687186+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon 30th Celebration – Pikachu & legendariske Pokémon – 10 holokort",
-      "pris": 119,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481768368",
-      "funnet": "2026-11-25T19:24:21.896916+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
