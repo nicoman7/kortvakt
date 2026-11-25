@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T23:10:33.564977+00:00",
+  "sist_sjekket": "2026-11-25T23:12:22.946470+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-samling selges – Cosmic Eclipse, XY Evolutions, Shining Fates m.m.",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481772836",
+      "funnet": "2026-11-25T23:12:22.944747+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ny pris! Samling hit's pokemonkort",
       "pris": 2000,
@@ -1190,14 +1198,6 @@
       "pris": 750,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481771674",
       "funnet": "2026-11-25T20:10:45.789067+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort – 18 eldre kort fra ulike serier – samlet pakke",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481771600",
-      "funnet": "2026-11-25T20:10:45.017727+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
