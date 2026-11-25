@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-25T10:28:22.898019+00:00",
+  "sist_sjekket": "2026-11-25T10:30:51.765371+00:00",
   "funn": [
+    {
+      "tittel": "NY samleperm til fotballkort (Panini, Topps o.l) eller pokémon",
+      "pris": 489,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728395",
+      "funnet": "2026-11-25T10:30:51.763785+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort bulk/samling",
+      "pris": 295,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728394",
+      "funnet": "2026-11-25T10:30:51.428400+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon ex kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728538",
+      "funnet": "2026-11-25T10:30:51.071412+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Italian Brainrot kort og samlebok",
       "pris": 200,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-25T05:52:22.428229+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Shrouded Fable ex kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481603696",
-      "funnet": "2026-11-25T05:50:36.237533+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu · LP",
-      "pris": 42,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481717361",
-      "funnet": "2026-11-25T05:14:19.398918+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Holo Pokémonkort",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
-      "funnet": "2026-11-25T04:34:20.077225+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
