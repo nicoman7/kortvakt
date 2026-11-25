@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T18:22:20.822374+00:00",
+  "sist_sjekket": "2026-11-25T18:24:35.525818+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th Pikachu ex 109 Night Promo",
+      "pris": 580,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481763703",
+      "funnet": "2026-11-25T18:24:35.524041+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu - GG30/GG70",
       "pris": 950,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-25T16:01:12.524137+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Wunder-Baum soccer Rare",
-      "pris": 170,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481691649",
-      "funnet": "2026-11-25T16:01:12.325567+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
