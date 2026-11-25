@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T10:18:20.992370+00:00",
+  "sist_sjekket": "2026-11-25T10:20:34.166080+00:00",
   "funn": [
+    {
+      "tittel": "Dark Charmeleon [1st Edition] #32 Pokemon Team Rocket",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481727892",
+      "funnet": "2026-11-25T10:20:34.164513+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Psyduck [1st Edition] #65 Pokemon Team Rocket",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-25T03:30:46.021322+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "pokemon booster pakker flix pix 2005",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481263353",
-      "funnet": "2026-11-25T03:26:20.252179+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
