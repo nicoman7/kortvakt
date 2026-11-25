@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T15:06:22.699636+00:00",
+  "sist_sjekket": "2026-11-25T15:08:26.759480+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481749804",
+      "funnet": "2026-11-25T15:08:26.758097+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Komplett Base Set Energy sett",
       "pris": 90,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481728453",
       "funnet": "2026-11-25T10:28:22.174522+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort holo",
-      "pris": 28,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481728302",
-      "funnet": "2026-11-25T10:26:22.060424+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
