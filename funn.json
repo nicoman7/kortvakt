@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T11:50:30.495426+00:00",
+  "sist_sjekket": "2026-11-25T11:52:19.701245+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Skyridge Holos m/ prisliste",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/456168362",
+      "funnet": "2026-11-25T11:52:19.700203+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Keane fotballkort – Manchester United – Topps Chrome Premier League Classics",
       "pris": 59,
@@ -1190,14 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481655990",
       "funnet": "2026-11-25T07:14:19.726207+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Skyridge",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481718966",
-      "funnet": "2026-11-25T07:12:20.628508+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
