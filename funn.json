@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T21:06:20.814315+00:00",
+  "sist_sjekket": "2026-11-25T21:08:23.829975+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon tin boks",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481333159",
+      "funnet": "2026-11-25T21:08:23.828715+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Topps Match Attax Adventskalender 2025/26 – 121 kort!",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 42,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481516770",
       "funnet": "2026-11-25T19:01:00.362678+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Julekalender pakke etter avtale",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481766401",
-      "funnet": "2026-11-25T19:01:00.104124+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
