@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T11:18:28.024856+00:00",
+  "sist_sjekket": "2026-11-25T11:20:34.234129+00:00",
   "funn": [
+    {
+      "tittel": "Marowak #44 Pokemon Triumphant",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481491783",
+      "funnet": "2026-11-25T11:20:34.232279+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Machamp GL #46 Pokemon Rising Rivals",
+      "pris": 38,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481491785",
+      "funnet": "2026-11-25T11:20:33.994780+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pangoro #XY50 Pokemon Promo",
       "pris": 65,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-25T06:54:22.281298+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon kortpakke i Mini Tin! 3stk",
-      "pris": 429,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481718543",
-      "funnet": "2026-11-25T06:54:21.480929+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 151 Druddigon White Flare",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481656153",
-      "funnet": "2026-11-25T06:54:20.694115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
