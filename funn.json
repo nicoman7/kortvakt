@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T01:24:21.158854+00:00",
+  "sist_sjekket": "2026-11-25T01:26:20.412539+00:00",
   "funn": [
+    {
+      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
+      "funnet": "2026-11-25T01:26:20.411095+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Bukayo Saka - Panini Adrenalyn XL World Cup 2026 LE",
       "pris": 60,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481708609",
       "funnet": "2026-11-24T20:42:19.258786+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Umbreon Dark Moon samlekort",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481302170",
-      "funnet": "2026-11-24T20:42:18.530110+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
