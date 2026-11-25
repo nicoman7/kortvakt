@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T19:02:27.521347+00:00",
+  "sist_sjekket": "2026-11-25T19:04:18.582126+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort - Hits selges unna",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481766691",
+      "funnet": "2026-11-25T19:04:18.580209+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Metagross classic collection pokemon kort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481766754",
+      "funnet": "2026-11-25T19:04:18.287394+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor bunke fotballkort – blandede serier og spillere",
       "pris": 600,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481755901",
       "funnet": "2026-11-25T16:42:18.520502+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Wunder-Baum  Tutti frutti (Rare)",
-      "pris": 135,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481756372",
-      "funnet": "2026-11-25T16:40:35.209235+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Pikachu's promo samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481756401",
-      "funnet": "2026-11-25T16:40:34.461090+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
