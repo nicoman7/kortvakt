@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T00:52:26.974176+00:00",
+  "sist_sjekket": "2026-11-25T00:54:20.501227+00:00",
   "funn": [
+    {
+      "tittel": "Kevin de Bruyne - Panini Adrenalyn XL World Cup 2026 LE",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481716148",
+      "funnet": "2026-11-25T00:54:20.499698+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Minjae Kim - Panini Adrenalyn XL World Cup 2026 LE",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T20:08:31.559738+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mega Scrafty Ex #286 CGC 10 Pokemon Ascended Heroes",
-      "pris": 700,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481706658",
-      "funnet": "2026-11-24T20:08:30.776346+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
