@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T06:02:18.717791+00:00",
+  "sist_sjekket": "2026-11-25T06:04:20.180962+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 151 ex",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481606156",
+      "funnet": "2026-11-25T06:04:20.179193+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "7x forseglet Pokémon 30th Celebration Booster Bundle Chaos Rising ETB kort pakke",
       "pris": 1799,
@@ -1190,14 +1198,6 @@
       "pris": 99,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481532545",
       "funnet": "2026-11-24T21:22:21.244902+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon TCG Pachirisu Pokémonkort 208/198",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481711224",
-      "funnet": "2026-11-24T21:20:44.477478+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
