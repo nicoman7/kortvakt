@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T00:48:20.808045+00:00",
+  "sist_sjekket": "2026-11-25T00:50:30.249674+00:00",
   "funn": [
+    {
+      "tittel": "Minjae Kim - Panini Adrenalyn XL World Cup 2026 LE",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481716130",
+      "funnet": "2026-11-25T00:50:30.247863+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Marc Cucurella - Panini Adrenalyn XL World Cup 2026 LE",
       "pris": 50,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T20:08:30.776346+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Marnie’s Grimmsnarl Ex #287 Pokemon Ascended Heroes",
-      "pris": 750,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481706448",
-      "funnet": "2026-11-24T20:08:30.001103+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
