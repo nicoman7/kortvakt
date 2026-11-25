@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T17:24:28.976015+00:00",
+  "sist_sjekket": "2026-11-25T17:26:31.072081+00:00",
   "funn": [
+    {
+      "tittel": "TOPPS MATCH ATTAX - Premier League 2011/12 - BaseCards selges",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481759820",
+      "funnet": "2026-11-25T17:26:31.070572+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Cacturne #5 Pokemon Delta Reign",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481759487",
+      "funnet": "2026-11-25T17:26:30.293578+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort Venusaur base Holo PSA 5",
       "pris": 1,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-25T13:58:20.435383+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Victini #208 Pokemon Promo",
-      "pris": 130,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481742641",
-      "funnet": "2026-11-25T13:58:19.761178+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Maushold #146 Pokemon 30th Celebration",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481742599",
-      "funnet": "2026-11-25T13:58:19.316588+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
