@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T06:46:22.381638+00:00",
+  "sist_sjekket": "2026-11-25T06:48:18.746677+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481718436",
+      "funnet": "2026-11-25T06:48:18.744980+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Black Bolt ex",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481711970",
       "funnet": "2026-11-24T21:50:37.139201+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Dark Tyranitar Pokémon-kort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481712612",
-      "funnet": "2026-11-24T21:50:36.553906+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
