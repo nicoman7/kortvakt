@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T17:01:05.633813+00:00",
+  "sist_sjekket": "2026-11-25T17:02:20.801430+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort fra gem pac (Holo/shine)",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481474844",
+      "funnet": "2026-11-25T17:02:20.799943+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort pakke 10 SSR",
       "pris": 229,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-25T13:50:41.377441+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Kevin de Bruyne - Panini Limited Edition Hologram",
-      "pris": 400,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481742934",
-      "funnet": "2026-11-25T13:50:41.176642+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
