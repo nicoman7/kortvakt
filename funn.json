@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T19:34:19.567530+00:00",
+  "sist_sjekket": "2026-11-25T19:36:21.615095+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemon",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481769267",
+      "funnet": "2026-11-25T19:36:21.613254+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pikachu EX pokemon kort",
       "pris": 30,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481408273",
       "funnet": "2026-11-25T17:06:32.366031+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemonkort fra gem pac (Holo/shine)",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481474844",
-      "funnet": "2026-11-25T17:02:20.799943+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
