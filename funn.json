@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T17:56:20.013368+00:00",
+  "sist_sjekket": "2026-11-25T17:58:30.971255+00:00",
   "funn": [
+    {
+      "tittel": "(NY PRIS) World of Warcraft TCG - Samling Landro's Liching",
+      "pris": 800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475936424",
+      "funnet": "2026-11-25T17:58:30.969833+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Trade",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481761870",
+      "funnet": "2026-11-25T17:58:30.198408+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th Celebration Booster Bundle + 30th tin + Pokemon Enhanced blister",
       "pris": 900,
@@ -1182,22 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481748264",
       "funnet": "2026-11-25T14:54:23.084938+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-25T14:54:22.731112+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Veldig fin kort fra Riftbound",
-      "pris": 575,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481748175",
-      "funnet": "2026-11-25T14:50:34.095453+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
