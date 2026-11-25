@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T14:44:20.859968+00:00",
+  "sist_sjekket": "2026-11-25T14:46:31.881512+00:00",
   "funn": [
+    {
+      "tittel": "🎄 STOR POKÉMON JULEGAVEBAG! 🎁 Ca. 45 pokemonkort – 5 garanterte EX-kort!",
+      "pris": 149,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/471818235",
+      "funnet": "2026-11-25T14:46:31.880081+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Manchester City",
       "pris": 60,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-25T10:18:20.990924+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-25T10:18:20.640820+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
