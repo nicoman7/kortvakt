@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T10:26:22.062443+00:00",
+  "sist_sjekket": "2026-11-25T10:28:22.898019+00:00",
   "funn": [
+    {
+      "tittel": "Italian Brainrot kort og samlebok",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728300",
+      "funnet": "2026-11-25T10:28:22.896342+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "FIFA 365 Adrenalyn XL 2027 Booster Box – 50 pakker (400 kort) | Ny og uåpnet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728453",
+      "funnet": "2026-11-25T10:28:22.174522+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort holo",
       "pris": 28,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-25T04:34:20.077225+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon Pikachu-bilde",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481716991",
-      "funnet": "2026-11-25T04:08:19.727502+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gammelt! Pokémon Holo Lugia samlekort",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481716782",
-      "funnet": "2026-11-25T03:46:21.151139+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
