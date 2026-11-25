@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T01:06:22.026309+00:00",
+  "sist_sjekket": "2026-11-25T01:08:18.557002+00:00",
   "funn": [
+    {
+      "tittel": "Xavi Simons - Panini Adrenalyn XL World Cup 2026 LE",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481716225",
+      "funnet": "2026-11-25T01:08:18.555225+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon sealed samling",
       "pris": null,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T20:16:20.715008+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 269,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481706865",
-      "funnet": "2026-11-24T20:12:20.435325+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
