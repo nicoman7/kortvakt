@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T15:32:24.351479+00:00",
+  "sist_sjekket": "2026-11-25T15:34:19.681466+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon - Samling",
+      "pris": 145,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481751859",
+      "funnet": "2026-11-25T15:34:19.680223+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon - Samling",
       "pris": 135,
@@ -1190,14 +1198,6 @@
       "pris": 5,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481728938",
       "funnet": "2026-11-25T10:40:33.771570+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort –  Graderte kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481565739",
-      "funnet": "2026-11-25T10:40:33.034414+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
