@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T10:20:34.166080+00:00",
+  "sist_sjekket": "2026-11-25T10:22:30.249342+00:00",
   "funn": [
+    {
+      "tittel": "Elekid #22 Pokemon Neo Genesis",
+      "pris": 75,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481728030",
+      "funnet": "2026-11-25T10:22:30.247882+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dark Charmeleon [1st Edition] #32 Pokemon Team Rocket",
       "pris": 450,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-25T03:32:18.989411+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémemon Perfect order 100% baseset + Endel Rares og Sir",
-      "pris": 849,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480728548",
-      "funnet": "2026-11-25T03:30:46.021322+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
