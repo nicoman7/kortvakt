@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T07:00:55.490820+00:00",
+  "sist_sjekket": "2026-11-25T07:02:29.167280+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 161 Articuno",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481656089",
+      "funnet": "2026-11-25T07:02:29.165809+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 66 Houndoom",
       "pris": 600,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481713178",
       "funnet": "2026-11-24T22:04:25.903361+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulbasaur 143/142 – Stellar Crown | Illustration Rare",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481712960",
-      "funnet": "2026-11-24T22:04:25.713795+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
