@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T07:24:28.068349+00:00",
+  "sist_sjekket": "2026-11-25T07:26:19.641124+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481719280",
+      "funnet": "2026-11-25T07:26:19.639959+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "JULEGAVE, Adventskalender, POKÉMON PAKKER GARANTERT HIT!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481141271",
+      "funnet": "2026-11-25T07:26:19.309774+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Gem Pack Volume 7",
       "pris": 500,
@@ -1182,22 +1198,6 @@
       "pris": 1350,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481714104",
       "funnet": "2026-11-24T22:34:22.417173+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Chandelure illustration rare pokemon kort",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481714056",
-      "funnet": "2026-11-24T22:32:21.075844+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Bulbasaur 166/165 – Pokémon 151 | Illustration Rare",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481714030",
-      "funnet": "2026-11-24T22:32:20.373635+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
