@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-25T14:38:22.918710+00:00",
+  "sist_sjekket": "2026-11-25T14:40:33.294172+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Manchester City",
+      "pris": 60,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481747544",
+      "funnet": "2026-11-25T14:40:33.292460+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481402767",
+      "funnet": "2026-11-25T14:40:33.057908+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Komplett samling Merlin Premier Gold 1996/1997 i original perm",
       "pris": 999,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-25T10:18:20.640820+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Lt. Surge #101 Pokemon Gym Heroes",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481727634",
-      "funnet": "2026-11-25T10:16:28.893584+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini Adrenalyn XL VM Kort, Eternos og Limited Edition - Oppdatert 25/11",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/468739614",
-      "funnet": "2026-11-25T10:14:18.513766+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
