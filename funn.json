@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-25T06:52:19.892712+00:00",
+  "sist_sjekket": "2026-11-25T06:54:22.595282+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481718524",
+      "funnet": "2026-11-25T06:54:22.593626+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Japansk uncommon/common Pokemon bulk 2 fulle tins",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/468475021",
+      "funnet": "2026-11-25T06:54:22.281298+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon kortpakke i Mini Tin! 3stk",
+      "pris": 429,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481718543",
+      "funnet": "2026-11-25T06:54:21.480929+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 151 Druddigon White Flare",
+      "pris": 250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481656153",
+      "funnet": "2026-11-25T06:54:20.694115+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Black Bolt pokeball",
       "pris": 10,
@@ -1167,38 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481712799",
       "funnet": "2026-11-24T21:54:21.419702+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort til salgs – Vintage, Holo, EX-serier & Sjeldne Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481237303",
-      "funnet": "2026-11-24T21:54:20.676817+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Gengar ex samlekort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481712666",
-      "funnet": "2026-11-24T21:52:23.735904+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Onix samlekort",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481712628",
-      "funnet": "2026-11-24T21:52:23.457107+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-11-24T21:52:23.113463+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
