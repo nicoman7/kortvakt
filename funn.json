@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T04:32:19.390298+00:00",
+  "sist_sjekket": "2026-11-25T04:34:20.078805+00:00",
   "funn": [
+    {
+      "tittel": "Vintage Holo Pokémonkort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
+      "funnet": "2026-11-25T04:34:20.077225+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon Pikachu-bilde",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481711029",
       "funnet": "2026-11-24T21:16:22.830483+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Booster Bundle",
-      "pris": 999,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479743518",
-      "funnet": "2026-11-24T21:12:22.310810+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
