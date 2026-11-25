@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T03:34:19.464465+00:00",
+  "sist_sjekket": "2026-11-25T03:36:20.946163+00:00",
   "funn": [
+    {
+      "tittel": "Over 2500 Pokemon TCG Online kodekort",
+      "pris": 1399,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479321870",
+      "funnet": "2026-11-25T03:36:20.944540+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "🎄 STOR POKÉMON JULEGAVEBAG! 🎁 Ca. 45 pokemonkort – 5 garanterte EX-kort!",
       "pris": 149,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/466957045",
       "funnet": "2026-11-24T21:10:31.850195+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Pokemon ETB",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481710370",
-      "funnet": "2026-11-24T21:08:23.503654+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
