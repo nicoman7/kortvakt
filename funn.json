@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T21:08:23.829975+00:00",
+  "sist_sjekket": "2026-11-25T21:10:34.647770+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Jumbo kort",
+      "pris": 1300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480415890",
+      "funnet": "2026-11-25T21:10:34.645996+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon tin boks",
       "pris": 40,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/457301204",
       "funnet": "2026-11-25T19:02:26.048609+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Dialga #16 Pokemon Great Encounters",
-      "pris": 42,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481516770",
-      "funnet": "2026-11-25T19:01:00.362678+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
