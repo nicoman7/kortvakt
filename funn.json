@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T12:26:21.800431+00:00",
+  "sist_sjekket": "2026-11-25T12:28:21.168835+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Ascended Heroes ETB",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
+      "funnet": "2026-11-25T12:28:21.166991+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Blaine's Doduo [1st Edition] #61 Pokemon Gym Challenge",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481590778",
       "funnet": "2026-11-25T08:18:22.474570+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Alakazam forseglet promo",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481590804",
-      "funnet": "2026-11-25T08:16:30.088272+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
