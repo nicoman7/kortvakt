@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T07:10:31.647822+00:00",
+  "sist_sjekket": "2026-11-25T07:12:20.630271+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Skyridge",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481718966",
+      "funnet": "2026-11-25T07:12:20.628508+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 17 Charizard V",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481713472",
       "funnet": "2026-11-24T22:14:21.688805+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Surfing Pikachu V 008/025 – Celebrations 25th Anniversary",
-      "pris": 125,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481713335",
-      "funnet": "2026-11-24T22:12:20.277523+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
