@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T06:42:20.592132+00:00",
+  "sist_sjekket": "2026-11-25T06:44:18.937022+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon White Flare pokeball",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481604209",
+      "funnet": "2026-11-25T06:44:18.935283+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon White flare ex",
       "pris": 20,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-24T21:46:19.351234+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon Neo Genesis – 1st Edition Pikachu, Steelix holo m.m.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481373804",
-      "funnet": "2026-11-24T21:46:19.083586+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
