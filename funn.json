@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-25T21:48:19.664082+00:00",
+  "sist_sjekket": "2026-11-25T21:50:31.228064+00:00",
   "funn": [
+    {
+      "tittel": "pokemon kort",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/430359819",
+      "funnet": "2026-11-25T21:50:31.226434+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Japansk Pokemon - Ninja Spinner Booster Boks - M4",
       "pris": 800,
@@ -1190,14 +1198,6 @@
       "pris": 135,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481767635",
       "funnet": "2026-11-25T19:16:21.867822+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Mewtwo EX pokemon kort",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481767772",
-      "funnet": "2026-11-25T19:16:21.126449+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
