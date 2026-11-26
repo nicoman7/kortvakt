@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T17:12:23.460563+00:00",
+  "sist_sjekket": "2026-11-26T17:14:20.966081+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
+      "funnet": "2026-11-26T17:14:20.964076+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon 30 årsjubileum Pikachu samlingen med 30 ulike kort",
       "pris": 20,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
       "funnet": "2026-11-26T12:28:29.467292+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Dark Omanyte - Neo Destiny",
-      "pris": 110,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481644010",
-      "funnet": "2026-11-26T12:26:20.805469+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
