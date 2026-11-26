@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T13:32:20.067799+00:00",
+  "sist_sjekket": "2026-11-26T13:34:18.949531+00:00",
   "funn": [
+    {
+      "tittel": "Ubrukte Norske Telekort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/207952296",
+      "funnet": "2026-11-26T13:34:18.948167+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-permer med Gengar og Pikachu 2*2",
       "pris": 450,
@@ -1190,14 +1198,6 @@
       "pris": 1500,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481784662",
       "funnet": "2026-11-26T07:48:20.302927+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🌟Pokemon pakker med ekstra mye glins! EX-kort + 10 glins garantert!🌟",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
-      "funnet": "2026-11-26T07:44:26.096391+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
