@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T16:46:19.148642+00:00",
+  "sist_sjekket": "2026-11-26T16:48:20.008259+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon First Partner - Kanto Trio",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481818523",
+      "funnet": "2026-11-26T16:48:20.006722+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Voltorb #69 Pokemon Team Rocket",
       "pris": 75,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-26T12:02:19.673737+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Dark Golduck japansk Pokemon-kort",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481798226",
-      "funnet": "2026-11-26T12:01:02.787857+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
