@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T22:04:19.032856+00:00",
+  "sist_sjekket": "2026-11-26T22:06:19.076899+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481836662",
+      "funnet": "2026-11-26T22:06:19.075329+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Dark Dugtrio #23 Pokemon Team Rocket",
       "pris": 200,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481829822",
       "funnet": "2026-11-26T19:50:32.671693+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort Shelgon 41/97 Reverse Holo – EX Dragon 2003",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481829884",
-      "funnet": "2026-11-26T19:50:32.387981+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
