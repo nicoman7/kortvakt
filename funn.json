@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-26T15:40:31.613567+00:00",
+  "sist_sjekket": "2026-11-26T15:42:20.313429+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481814509",
+      "funnet": "2026-11-26T15:42:20.312294+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481814572",
+      "funnet": "2026-11-26T15:42:19.560701+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon mystery kort. Kommer med ett kort, Helt fra ex til v/gx. Opp  til 1000!",
       "pris": 65,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481794098",
       "funnet": "2026-11-26T10:40:31.100026+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort - Roxies performance",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481793853",
-      "funnet": "2026-11-26T10:36:18.779155+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Pokémon Neo Genesis – 1st Edition Pikachu, Steelix holo m.m. Prisliste.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481373804",
-      "funnet": "2026-11-26T10:36:18.247098+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
