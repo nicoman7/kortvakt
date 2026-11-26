@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T09:08:19.256457+00:00",
+  "sist_sjekket": "2026-11-26T09:10:34.168142+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481788068",
+      "funnet": "2026-11-26T09:10:34.166284+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025/26 Topps Stadium Club Chrome UEFA Estevao Willian #18 Chelsea RC Raywave",
       "pris": 65,
@@ -1190,14 +1198,6 @@
       "pris": 23,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481781276",
       "funnet": "2026-11-26T01:04:20.782408+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Scream Tail ex RR – Crimson Haze 040/066 – japansk Pokémon-kort",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781278",
-      "funnet": "2026-11-26T01:04:20.031423+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
