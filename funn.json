@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T15:44:17.245691+00:00",
+  "sist_sjekket": "2026-11-26T15:46:25.634655+00:00",
   "funn": [
+    {
+      "tittel": "Ny pris! Samling hit's pokemonkort",
+      "pris": 2000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481483271",
+      "funnet": "2026-11-26T15:46:25.633151+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon-kort",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 200,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481794040",
       "funnet": "2026-11-26T10:40:31.631109+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Frogadier- Pokémon kort",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481794098",
-      "funnet": "2026-11-26T10:40:31.100026+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
