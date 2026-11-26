@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T16:50:33.535037+00:00",
+  "sist_sjekket": "2026-11-26T16:52:18.877383+00:00",
   "funn": [
+    {
+      "tittel": "Pikachu #150 - Pokemon 30th",
+      "pris": 480,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481818621",
+      "funnet": "2026-11-26T16:52:18.875454+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon First Partner - Kanto Trio",
       "pris": 900,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-26T12:06:19.092441+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon EX-kort – Stort utvalg fra ulike sett | Selges enkeltvis eller samlet",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481648981",
-      "funnet": "2026-11-26T12:02:19.673737+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
