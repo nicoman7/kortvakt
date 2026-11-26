@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-26T13:28:21.409003+00:00",
+  "sist_sjekket": "2026-11-26T13:30:57.122151+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-permer med Gengar og Pikachu 2*2",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481805817",
+      "funnet": "2026-11-26T13:30:57.119465+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Charizard SIR (Obsidian Flames)",
+      "pris": 949,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481747047",
+      "funnet": "2026-11-26T13:30:56.283243+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Samling fotballkort Topps 1979",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481805826",
+      "funnet": "2026-11-26T13:30:55.440654+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Storm Emeralda - Booster Box (Gratis frakt)",
       "pris": 1199,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-26T07:44:26.096391+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pikachu V & Poké Ball SWSH145/146 – Celebrations UPC – ACE 9 sekvensielle",
-      "pris": 1250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481784393",
-      "funnet": "2026-11-26T07:40:33.693476+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481402767",
-      "funnet": "2026-11-26T07:40:32.931440+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "🎅 Pokemon Bulk Julegave Pakker - 66 kort 🎄",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/478459832",
-      "funnet": "2026-11-26T07:32:17.619438+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
