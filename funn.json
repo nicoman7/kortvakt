@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T15:20:35.792034+00:00",
+  "sist_sjekket": "2026-11-26T15:22:20.156785+00:00",
   "funn": [
+    {
+      "tittel": "Mega Charizard EX",
+      "pris": 1800,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481813303",
+      "funnet": "2026-11-26T15:22:20.154944+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon Magikarp & Gyarados samlekort - 7 kort!",
       "pris": 189,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481793135",
       "funnet": "2026-11-26T10:26:19.143970+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Holo Pokémonkort - Oppdatert prisliste.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
-      "funnet": "2026-11-26T10:24:22.467147+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
