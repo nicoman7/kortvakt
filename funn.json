@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-26T21:56:20.011072+00:00",
+  "sist_sjekket": "2026-11-26T21:58:20.628016+00:00",
   "funn": [
+    {
+      "tittel": "Diverse pokemonkort",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481834855",
+      "funnet": "2026-11-26T21:58:20.626349+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Oddish [1st Edition] #5 Pokemon Japanese Expedition Expansion Pack",
+      "pris": 125,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481836485",
+      "funnet": "2026-11-26T21:58:19.831945+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kinesisk",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481836570",
+      "funnet": "2026-11-26T21:58:18.940956+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort",
       "pris": 50,
@@ -1174,30 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/477272616",
       "funnet": "2026-11-26T19:38:24.902221+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - 5 stk Pikachu the Movie (2003) postkort (samlet pris)",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/297352669",
-      "funnet": "2026-11-26T19:36:19.325260+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Flott samlepakke med 10 engelske Pokémon EX-kort (+ GRATIS FRAKT)! 🃏✨",
-      "pris": 259,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481828031",
-      "funnet": "2026-11-26T19:34:20.400852+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Arceus ENSKY holo-kort",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/454776077",
-      "funnet": "2026-11-26T19:34:20.042091+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
