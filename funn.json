@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T08:10:33.030576+00:00",
+  "sist_sjekket": "2026-11-26T08:12:20.390884+00:00",
   "funn": [
+    {
+      "tittel": "Riftbound samlekort selges samlet",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481785312",
+      "funnet": "2026-11-26T08:12:20.389368+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Liverpool lot – julekalender med 24 Topps-fotballkort og Wirtz Gold Lion",
       "pris": 349,
@@ -1190,14 +1198,6 @@
       "pris": 17,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481781260",
       "funnet": "2026-11-26T01:01:11.223365+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Glimmora ex RR – Ruler of the Black Flame 065/108 – japansk Pokémon-kort",
-      "pris": 23,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781253",
-      "funnet": "2026-11-26T01:01:10.464614+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
