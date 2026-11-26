@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T13:26:19.654803+00:00",
+  "sist_sjekket": "2026-11-26T13:28:21.409003+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Storm Emeralda - Booster Box (Gratis frakt)",
+      "pris": 1199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/475846406",
+      "funnet": "2026-11-26T13:28:21.407204+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon upc",
       "pris": 1200,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-26T07:32:17.619438+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Tombstone – Topps Marvel Sketch – Leon Braojos",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481783885",
-      "funnet": "2026-11-26T07:24:22.624228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
