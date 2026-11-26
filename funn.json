@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T13:24:20.923717+00:00",
+  "sist_sjekket": "2026-11-26T13:26:19.654803+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon upc",
+      "pris": 1200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481805695",
+      "funnet": "2026-11-26T13:26:19.653300+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "POKEMON - DARK SANDSLASH (REV. HOLO)",
       "pris": 1000,
@@ -1190,14 +1198,6 @@
       "pris": 1000,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481783885",
       "funnet": "2026-11-26T07:24:22.624228+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cable – Topps Marvel Sketch – Ernest Romero",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481783964",
-      "funnet": "2026-11-26T07:24:22.386260+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
