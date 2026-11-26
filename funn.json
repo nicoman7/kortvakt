@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-26T14:16:18.844738+00:00",
+  "sist_sjekket": "2026-11-26T14:18:19.004428+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon singles/raw",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481809629",
+      "funnet": "2026-11-26T14:18:19.003182+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Ascended Heroes ETB",
       "pris": 1699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481788603",
       "funnet": "2026-11-26T09:14:20.156483+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481788068",
-      "funnet": "2026-11-26T09:10:34.166284+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
