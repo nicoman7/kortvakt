@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T23:22:19.548213+00:00",
+  "sist_sjekket": "2026-11-27T23:24:19.571929+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Fennekin – 011 – Chaos Rising – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889666",
+      "funnet": "2026-11-27T23:24:19.570783+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort –  Graderte kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481565739",
+      "funnet": "2026-11-27T23:24:19.296755+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Deoxys – 033 – Chaos Rising – NM",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481886738",
       "funnet": "2026-11-27T21:36:19.534700+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Prinplup – 028 – Phantasmal Flames – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886768",
-      "funnet": "2026-11-27T21:36:19.228876+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Paldean Tauros – 018 – Surging Sparks – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886640",
-      "funnet": "2026-11-27T21:34:23.109622+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
