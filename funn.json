@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T23:44:18.377477+00:00",
+  "sist_sjekket": "2026-11-27T23:46:23.862118+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Azumarill – 074 – Surging Sparks – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890016",
+      "funnet": "2026-11-27T23:46:23.860443+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Crocalor – 030 – Surging Sparks – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890031",
+      "funnet": "2026-11-27T23:46:23.024776+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Dedenne – 087 – Surging Sparks – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890033",
+      "funnet": "2026-11-27T23:46:22.209749+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Wurmple – 011 – Ascended Heroes – NM",
       "pris": 10,
@@ -1175,30 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481887441",
       "funnet": "2026-11-27T22:00:58.553068+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece Kort - OP13 JP Hits",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481887470",
-      "funnet": "2026-11-27T22:00:58.211124+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort fra 1999 - Reservert",
-      "pris": 1300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481887548",
-      "funnet": "2026-11-27T22:00:57.874280+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481884435",
-      "funnet": "2026-11-27T21:56:20.417564+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
