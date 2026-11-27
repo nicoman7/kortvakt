@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T09:20:33.732384+00:00",
+  "sist_sjekket": "2026-11-27T09:22:21.463154+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort Andrei Kanchelskis (Everton)",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481752485",
+      "funnet": "2026-11-27T09:22:21.461331+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Faustino Asprilla (Newcastle)",
       "pris": 250,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481838476",
       "funnet": "2026-11-26T23:14:17.587171+00:00",
       "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
-      "pris": 1600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479488331",
-      "funnet": "2026-11-26T23:06:19.406023+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
