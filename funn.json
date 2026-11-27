@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T23:52:21.538689+00:00",
+  "sist_sjekket": "2026-11-27T23:54:26.277858+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Zweilous – 118 – Surging Sparks – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890138",
+      "funnet": "2026-11-27T23:54:26.276515+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Aipom – 078 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890146",
+      "funnet": "2026-11-27T23:54:25.434497+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Scatterbug – 005 – Surging Sparks – NM",
       "pris": 10,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481887812",
       "funnet": "2026-11-27T22:10:36.907440+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor topps samling BYTTES mot TCG",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481443692",
-      "funnet": "2026-11-27T22:08:25.254872+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Erling Braut Haaland Borussia Dortmund gradert fotballkort",
-      "pris": 699,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481887617",
-      "funnet": "2026-11-27T22:06:17.518783+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
