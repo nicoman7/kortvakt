@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T16:04:18.451182+00:00",
+  "sist_sjekket": "2026-11-27T16:06:21.619123+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon Steelix EX samlekort",
+      "pris": 180,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481871243",
+      "funnet": "2026-11-27T16:06:21.617407+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th dittoramme med ditto-promo",
       "pris": 300,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T13:18:18.757562+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Altaria – 49/73 – Champion's Path – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861633",
-      "funnet": "2026-11-27T13:18:18.433179+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
