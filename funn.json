@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T16:02:19.183919+00:00",
+  "sist_sjekket": "2026-11-27T16:04:18.451182+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon 30th dittoramme med ditto-promo",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481871118",
+      "funnet": "2026-11-27T16:04:18.450048+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Diverse graderte Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480486228",
+      "funnet": "2026-11-27T16:04:17.938307+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "PSA 7 Vaporeon ex 023/131 fra Pokemon prismatic evolutions",
       "pris": 349,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T13:18:18.433179+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Zoroark – 103 – Evolving Skies – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861411",
-      "funnet": "2026-11-27T13:16:21.890710+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Gratis frakt! Magic: The Gathering ca 1000 kort",
-      "pris": 440,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861170",
-      "funnet": "2026-11-27T13:16:21.120553+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
