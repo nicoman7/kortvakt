@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T17:50:39.250718+00:00",
+  "sist_sjekket": "2026-11-27T17:52:18.430675+00:00",
   "funn": [
+    {
+      "tittel": "Graderte Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479866016",
+      "funnet": "2026-11-27T17:52:18.428681+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "(PSA 9) Blaziken GX #28 Pokemon Celestial Storm",
       "pris": 699,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T14:52:26.333755+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Victini – 013/128 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481867394",
-      "funnet": "2026-11-27T14:52:25.961956+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
