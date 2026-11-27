@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T23:32:18.209039+00:00",
+  "sist_sjekket": "2026-11-27T23:34:21.813524+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Entei – 025 – Ascended Heroes – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889837",
+      "funnet": "2026-11-27T23:34:21.812061+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Ethan's Magcargo – 024 – Ascended Heroes – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889859",
+      "funnet": "2026-11-27T23:34:21.194659+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Eelektrik – 060 – Ascended Heroes – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T21:44:32.432883+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Pancham – 083 – Journey Together – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481887085",
-      "funnet": "2026-11-27T21:44:31.611164+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Parasect – 005 – Journey Together – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481887098",
-      "funnet": "2026-11-27T21:44:30.765931+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
