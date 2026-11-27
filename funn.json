@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T12:10:34.325105+00:00",
+  "sist_sjekket": "2026-11-27T12:12:20.722239+00:00",
   "funn": [
+    {
+      "tittel": "Pokekomon kort samling",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481857445",
+      "funnet": "2026-11-27T12:12:20.720800+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes Mega Charizard Y ex 022/217",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481857568",
+      "funnet": "2026-11-27T12:12:20.430520+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "🔥🔥 Strøkent Charizard // 4/102 // 30th Classic Collection 🔥🔥",
+      "pris": 1600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481857421",
+      "funnet": "2026-11-27T12:12:20.123098+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon Phantasmal Flames Mega Heracross ex 004/094",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 400,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481847960",
       "funnet": "2026-11-27T09:36:21.866736+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "2026 Topps Turbo Attax F1 – Alain Prost Manufactured Relic (#MR-PRO)",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481847837",
-      "funnet": "2026-11-27T09:34:22.849053+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokémon-kort fra Team Rocket",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481847705",
-      "funnet": "2026-11-27T09:34:22.555484+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Max Verstappen Relic-kort – 2026 Topps Turbo Attax F1 (#MR-VER) LES!",
-      "pris": 200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481847677",
-      "funnet": "2026-11-27T09:32:23.141584+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
