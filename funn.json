@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T09:16:19.254260+00:00",
+  "sist_sjekket": "2026-11-27T09:18:18.572475+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Ascended Heroes ETB",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
+      "funnet": "2026-11-27T09:18:18.570924+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Hisuian Zorua - 145/128 - Pokemon kort",
       "pris": 100,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-26T23:00:58.267474+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
-      "funnet": "2026-11-26T23:00:58.042314+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
