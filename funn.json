@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T07:26:18.986853+00:00",
+  "sist_sjekket": "2026-11-27T07:28:18.766844+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481842584",
+      "funnet": "2026-11-27T07:28:18.765318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort",
       "pris": 900,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481836597",
       "funnet": "2026-11-26T22:00:56.795793+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Vintage Holo Pokémonkort - Oppdatert prisliste.",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481372630",
-      "funnet": "2026-11-26T22:00:56.156380+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
