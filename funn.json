@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T18:44:20.965078+00:00",
+  "sist_sjekket": "2026-11-27T18:46:21.353588+00:00",
   "funn": [
+    {
+      "tittel": "Durant 91/135 - Pokemon Plasma Storm",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481879144",
+      "funnet": "2026-11-27T18:46:21.352108+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Ralts 59/134 - Pokemon Plasma Storm",
       "pris": 19,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481869393",
       "funnet": "2026-11-27T15:48:21.546243+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon sealed samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
-      "funnet": "2026-11-27T15:44:19.598319+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
