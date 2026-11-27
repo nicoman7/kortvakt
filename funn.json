@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-27T16:10:32.330590+00:00",
+  "sist_sjekket": "2026-11-27T16:12:21.264806+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon samling",
+      "pris": 1999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/412054481",
+      "funnet": "2026-11-27T16:12:21.263347+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort og samlekort",
+      "pris": 70,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481871539",
+      "funnet": "2026-11-27T16:12:20.704665+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Gem Pack Vol. 4 booster box",
+      "pris": 425,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480165760",
+      "funnet": "2026-11-27T16:12:20.451660+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort Scyther 5/68 fra Hidden Fates",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481286843",
+      "funnet": "2026-11-27T16:12:20.213673+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽🔥 TOPPS NOW 2026/27 – FOTBALLKORT TIL SALGS! 🔥⚽",
       "pris": 149,
@@ -1166,38 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481861766",
       "funnet": "2026-11-27T13:20:34.429087+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
-      "funnet": "2026-11-27T13:20:34.043034+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Fotballkort – Johan Cruyff /99 – Barcelona – Pitch to Dugout",
-      "pris": 150,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861480",
-      "funnet": "2026-11-27T13:18:19.847389+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Destined Rivals Arboliva ex 207/182",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861549",
-      "funnet": "2026-11-27T13:18:19.632803+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Arcanine (Holo) – 22 – Sun Moon – LP",
-      "pris": 23,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861567",
-      "funnet": "2026-11-27T13:18:19.047788+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
