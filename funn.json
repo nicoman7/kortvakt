@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T19:42:20.000460+00:00",
+  "sist_sjekket": "2026-11-27T19:44:18.612558+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Ascended Heroes ETB",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
+      "funnet": "2026-11-27T19:44:18.611022+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Galarian Meowth – 101/128 – 30th Celebration – NM",
       "pris": 10,
@@ -1190,14 +1198,6 @@
       "pris": 100,
       "lenke": "https://www.finn.no/recommerce/forsale/item/221337092",
       "funnet": "2026-11-27T18:50:43.919002+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Et utvalg telekort selges",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481879031",
-      "funnet": "2026-11-27T18:50:43.610881+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
