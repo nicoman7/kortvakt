@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T21:36:19.536405+00:00",
+  "sist_sjekket": "2026-11-27T21:38:19.117781+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Sacred Charm – 093 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481886798",
+      "funnet": "2026-11-27T21:38:19.115960+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 1900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481886765",
+      "funnet": "2026-11-27T21:38:18.855667+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Seel – 021 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481886844",
+      "funnet": "2026-11-27T21:38:18.129414+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Meloetta – 040 – Phantasmal Flames – NM",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481877388",
       "funnet": "2026-11-27T19:34:17.959841+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Lunatone 092/197 Normal Obsidian Flames",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481877924",
-      "funnet": "2026-11-27T19:32:22.489117+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon samlekort",
-      "pris": 270,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481881235",
-      "funnet": "2026-11-27T19:32:21.778304+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Black Belt's Training 143/159 Journey Together Reverse Holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481877864",
-      "funnet": "2026-11-27T19:32:21.490900+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
