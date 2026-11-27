@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T23:24:19.571929+00:00",
+  "sist_sjekket": "2026-11-27T23:26:28.169527+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Philippe – 079 – Chaos Rising – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889681",
+      "funnet": "2026-11-27T23:26:28.168087+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Roxie's Performance – 081 – Chaos Rising – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889692",
+      "funnet": "2026-11-27T23:26:27.384513+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Beautifly – 013 – Ascended Heroes – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889712",
+      "funnet": "2026-11-27T23:26:26.591279+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Fennekin – 011 – Chaos Rising – NM",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481886798",
       "funnet": "2026-11-27T21:38:19.115960+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort samling",
-      "pris": 1900,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886765",
-      "funnet": "2026-11-27T21:38:18.855667+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Seel – 021 – Phantasmal Flames – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886844",
-      "funnet": "2026-11-27T21:38:18.129414+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Meloetta – 040 – Phantasmal Flames – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886738",
-      "funnet": "2026-11-27T21:36:19.534700+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
