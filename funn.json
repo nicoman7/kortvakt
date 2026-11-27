@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T19:50:32.345099+00:00",
+  "sist_sjekket": "2026-11-27T19:52:20.472251+00:00",
   "funn": [
+    {
+      "tittel": "Ronaldo fotball kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481882284",
+      "funnet": "2026-11-27T19:52:20.470467+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Giratina – 045/103 – Delta Reign – NM",
       "pris": 10,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481879391",
       "funnet": "2026-11-27T18:52:20.611528+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ryan Giggs 4 fotballkort Manchester United fra 2000-2011",
-      "pris": 60,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/285658464",
-      "funnet": "2026-11-27T18:52:20.033332+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
