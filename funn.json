@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T07:20:38.781611+00:00",
+  "sist_sjekket": "2026-11-27T07:22:19.844901+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort",
+      "pris": 900,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481842201",
+      "funnet": "2026-11-27T07:22:19.843192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Gemloader Binder Hazel - Pokemon Album 480 kort !",
       "pris": 500,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-26T22:00:56.156380+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse pokemonkort",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481834855",
-      "funnet": "2026-11-26T21:58:20.626349+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
