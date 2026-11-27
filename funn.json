@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T13:08:30.003245+00:00",
+  "sist_sjekket": "2026-11-27T13:10:32.342229+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Charizard",
+      "pris": 380,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481860848",
+      "funnet": "2026-11-27T13:10:32.340935+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon 30th Celebration Scraggy 140/128",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481861063",
+      "funnet": "2026-11-27T13:10:31.625185+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Delta Raign – Bulk fra Boosterboks Pokemon",
       "pris": 400,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481851527",
       "funnet": "2026-11-27T10:44:21.618203+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Evanilson fotballkort – Bournemouth – Limited Edition 117 – jubileum",
-      "pris": 49,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481408273",
-      "funnet": "2026-11-27T10:44:21.274314+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Phil Foden – Topps Premier League 2026/27 «Flying the Flag» (#FF18) ⚽🏴",
-      "pris": 25,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481851719",
-      "funnet": "2026-11-27T10:42:29.585104+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
