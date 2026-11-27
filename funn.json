@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T09:26:28.790564+00:00",
+  "sist_sjekket": "2026-11-27T09:28:20.708264+00:00",
   "funn": [
+    {
+      "tittel": "Gamle Pokémonkort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481847028",
+      "funnet": "2026-11-27T09:28:20.706827+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - Unown Q #59 - Neo Destiny",
+      "pris": 90,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481643282",
+      "funnet": "2026-11-27T09:28:20.313457+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Andrei Kanchelskis (Everton)",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481838604",
       "funnet": "2026-11-26T23:18:18.866255+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "One Piece – Nami 13×18 cm samlekortramme",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481838091",
-      "funnet": "2026-11-26T23:16:18.712708+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor Pokémon-samling: Permer, uåpnede fun packs, spesialkort og mynter",
-      "pris": 1199,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481838476",
-      "funnet": "2026-11-26T23:14:17.587171+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
