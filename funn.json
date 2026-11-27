@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T09:12:18.597530+00:00",
+  "sist_sjekket": "2026-11-27T09:14:29.077444+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon steelix",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481846745",
+      "funnet": "2026-11-27T09:14:29.075887+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon Ascended Heroes 2 pack blister.",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481846744",
+      "funnet": "2026-11-27T09:14:28.866654+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Mewtwo pokemon kort",
       "pris": 1000,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-26T22:50:30.522298+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pikachu pokemon gave pakke",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/215482379",
-      "funnet": "2026-11-26T22:48:18.100069+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Fotballkort Manchester United – Heinze /250 og Van de Beek Auto",
-      "pris": 450,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481837729",
-      "funnet": "2026-11-26T22:38:19.770202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
