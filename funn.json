@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T21:54:21.895068+00:00",
+  "sist_sjekket": "2026-11-27T21:56:20.419770+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort samling",
+      "pris": 199,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481884435",
+      "funnet": "2026-11-27T21:56:20.417564+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort Umbreon XY96 Holo – XY Black Star Promo 2016",
+      "pris": 310,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481887375",
+      "funnet": "2026-11-27T21:56:20.133766+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Hitmontop #22 Pokemon Neo Discovery",
       "pris": 150,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T19:52:20.470467+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Giratina – 045/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481882142",
-      "funnet": "2026-11-27T19:48:19.690394+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemonkort - Celebrations",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481325955",
-      "funnet": "2026-11-27T19:48:18.946036+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
