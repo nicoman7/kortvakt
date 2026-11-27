@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T11:56:18.930131+00:00",
+  "sist_sjekket": "2026-11-27T11:58:19.978001+00:00",
   "funn": [
+    {
+      "tittel": "Vintage pokemonkort, Vaporeon unseen forces holo",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481856531",
+      "funnet": "2026-11-27T11:58:19.976285+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon 30th Celebration Jirachi ex 102/128",
       "pris": 15,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T09:12:18.596120+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Gamle Pokémonkort selges",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481846049",
-      "funnet": "2026-11-27T09:10:33.509724+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
