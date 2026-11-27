@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T22:56:21.004270+00:00",
+  "sist_sjekket": "2026-11-27T22:58:18.706655+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Electrike – 023 – Pitch Black – MP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889110",
+      "funnet": "2026-11-27T22:58:18.705251+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Jynx – 032 – Pitch Black – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889127",
+      "funnet": "2026-11-27T22:58:18.411009+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Wayne Rooney Everton – Topps Gold Lion GL9 fotballkort",
+      "pris": 189,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889051",
+      "funnet": "2026-11-27T22:58:17.703697+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Charcadet – 011/084 – Pitch Black – LP",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-27T21:20:40.284977+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Moltres 011/128 Holo 30th Celebration",
-      "pris": 15,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481885904",
-      "funnet": "2026-11-27T21:20:39.453194+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Skarmory – 060/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886193",
-      "funnet": "2026-11-27T21:20:38.653271+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Zapdos 055/128 Holo 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481885859",
-      "funnet": "2026-11-27T21:20:37.814476+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
