@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T16:24:27.805912+00:00",
+  "sist_sjekket": "2026-11-27T16:26:21.930733+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30t Pikachu samling",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872103",
+      "funnet": "2026-11-27T16:26:21.929129+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872142",
+      "funnet": "2026-11-27T16:26:21.689308+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872075",
+      "funnet": "2026-11-27T16:26:21.001820+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon 30th kort",
       "pris": 1,
@@ -1174,30 +1198,6 @@
       "pris": 150,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481861648",
       "funnet": "2026-11-27T13:22:20.712451+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Virizion (Holo) – 12 – Ancient Origins – MP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861796",
-      "funnet": "2026-11-27T13:22:20.396168+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Regigigas (Holo) – 86 – Phantom Forces – NM",
-      "pris": 14,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861816",
-      "funnet": "2026-11-27T13:22:19.956125+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Victreebel (Holo) – 3 – Furious Fists – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861868",
-      "funnet": "2026-11-27T13:22:19.173995+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
