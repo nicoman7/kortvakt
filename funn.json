@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T19:46:19.710730+00:00",
+  "sist_sjekket": "2026-11-27T19:48:19.691829+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Giratina – 045/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481882142",
+      "funnet": "2026-11-27T19:48:19.690394+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemonkort - Celebrations",
+      "pris": 30,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481325955",
+      "funnet": "2026-11-27T19:48:18.946036+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Mew – 065 – 30th Celebration – NM",
       "pris": 25,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/285658464",
       "funnet": "2026-11-27T18:52:20.033332+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Machamp [Reverse Holo] 50/101 - Pokemon Plasma Blast",
-      "pris": 75,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481879467",
-      "funnet": "2026-11-27T18:52:19.814752+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Ole Gunnar Solskjær, Manchester United, samling på 12 fotballkort",
-      "pris": 250,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/315439570",
-      "funnet": "2026-11-27T18:50:45.667039+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
