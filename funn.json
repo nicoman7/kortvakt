@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T17:56:18.464610+00:00",
+  "sist_sjekket": "2026-11-27T17:58:20.547441+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort - EX Unseen Forces",
+      "pris": 170,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/473710688",
+      "funnet": "2026-11-27T17:58:20.545517+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Gratis Pokémon Mystery Packs til barn som fortjener en ekstra hyggelig jul 🎁",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481876541",
+      "funnet": "2026-11-27T17:58:19.828918+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Graderte Pokemon kort",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T14:52:27.202144+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Scraggy – 094/128 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481867343",
-      "funnet": "2026-11-27T14:52:26.761188+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Toxtricity – 059/128 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481867373",
-      "funnet": "2026-11-27T14:52:26.333755+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
