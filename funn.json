@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T21:34:23.111260+00:00",
+  "sist_sjekket": "2026-11-27T21:36:19.536405+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Meloetta – 040 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481886738",
+      "funnet": "2026-11-27T21:36:19.534700+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Prinplup – 028 – Phantasmal Flames – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481886768",
+      "funnet": "2026-11-27T21:36:19.228876+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Paldean Tauros – 018 – Surging Sparks – NM",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481877864",
       "funnet": "2026-11-27T19:32:21.490900+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Snom 042/132 Normal Mega Evolution",
-      "pris": 5,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481877803",
-      "funnet": "2026-11-27T19:32:21.198176+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Frosmoth 043/132 Mega Evolution Reverse Holo",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481877733",
-      "funnet": "2026-11-27T19:32:20.537204+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
