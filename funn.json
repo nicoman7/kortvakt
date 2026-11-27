@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T16:22:20.004145+00:00",
+  "sist_sjekket": "2026-11-27T16:24:27.805912+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon 30th kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872048",
+      "funnet": "2026-11-27T16:24:27.804386+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokemon Center Mega Evolution Pitch Black Elite Trainer Box",
       "pris": 1750,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481861868",
       "funnet": "2026-11-27T13:22:19.173995+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Infernape (Holo) – 20 – Steam Siege – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481861888",
-      "funnet": "2026-11-27T13:22:18.464672+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
