@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-27T22:58:18.706655+00:00",
+  "sist_sjekket": "2026-11-27T23:00:59.213723+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Mabosstiff – 058/084 – Pitch Black – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889144",
+      "funnet": "2026-11-27T23:00:59.212077+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Malamar – 052/084 – Pitch Black – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889162",
+      "funnet": "2026-11-27T23:00:58.926108+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Mankey – 042/084 – Pitch Black – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481889181",
+      "funnet": "2026-11-27T23:00:58.655514+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Electrike – 023 – Pitch Black – MP",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-27T21:24:19.412129+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Ho-Oh – 010 – Chaos Rising – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886390",
-      "funnet": "2026-11-27T21:24:18.828782+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Snorlax 119/128 Holo 30th Celebration",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481885159",
-      "funnet": "2026-11-27T21:24:18.558790+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Gwynn – 078/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481886168",
-      "funnet": "2026-11-27T21:20:40.284977+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
