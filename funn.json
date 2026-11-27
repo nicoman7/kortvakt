@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T16:28:20.794411+00:00",
+  "sist_sjekket": "2026-11-27T16:30:51.089921+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872341",
+      "funnet": "2026-11-27T16:30:51.088380+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481872400",
+      "funnet": "2026-11-27T16:30:50.090310+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Gholdengo #142 Pokemon 30th Celebration",
       "pris": 125,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T13:26:30.528921+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Real Madrid-kort – Toni Kroos",
-      "pris": 735,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481862048",
-      "funnet": "2026-11-27T13:26:29.718248+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Grimmsnarl – 125 – Rebel Clash – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481862156",
-      "funnet": "2026-11-27T13:26:28.922193+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
