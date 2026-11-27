@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T13:56:19.784055+00:00",
+  "sist_sjekket": "2026-11-27T13:58:30.446655+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-samlekort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481861624",
+      "funnet": "2026-11-27T13:58:30.445239+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Naruto Mythos TCG – 4 stk.  A foliekort (2nd Edition) – Gi bud!",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481864036",
+      "funnet": "2026-11-27T13:58:30.122602+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Ganske komplett samling fra Merlin Premier Gold 1996/1997",
       "pris": 300,
@@ -1183,22 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481855217",
       "funnet": "2026-11-27T11:36:19.674564+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Raichu samlekort",
-      "pris": 500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481855181",
-      "funnet": "2026-11-27T11:36:19.412850+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Charizard V Promo",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481855013",
-      "funnet": "2026-11-27T11:34:23.472677+00:00",
-      "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
     }
   ]
