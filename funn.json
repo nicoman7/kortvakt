@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T09:08:18.672884+00:00",
+  "sist_sjekket": "2026-11-27T09:10:33.511235+00:00",
   "funn": [
+    {
+      "tittel": "Gamle Pokémonkort selges",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481846049",
+      "funnet": "2026-11-27T09:10:33.509724+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Fotballkort – 50 blandede kort med stjerner, legender og spesialkort",
       "pris": 250,
@@ -1190,14 +1198,6 @@
       "pris": 250,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481837674",
       "funnet": "2026-11-26T22:38:19.126202+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Topps Dragonite PSA",
-      "pris": 600,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481837619",
-      "funnet": "2026-11-26T22:32:22.869412+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
