@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T20:02:21.582024+00:00",
+  "sist_sjekket": "2026-11-27T20:04:21.970332+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-27T20:04:21.968790+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Panini FIFA 365 Limited Edition Kylian Mbappé samlefigurkort",
       "pris": 50,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481879555",
       "funnet": "2026-11-27T18:54:20.063402+00:00",
       "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Leeds fotballkort, 12 sett til faste priser, selges samlet per bilde",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/415268025",
-      "funnet": "2026-11-27T18:54:19.401194+00:00",
-      "kategori": "andre",
       "pris_pa_foresporsel": false
     }
   ]
