@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T22:06:17.520079+00:00",
+  "sist_sjekket": "2026-11-27T22:08:25.256302+00:00",
   "funn": [
+    {
+      "tittel": "Stor topps samling BYTTES mot TCG",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481443692",
+      "funnet": "2026-11-27T22:08:25.254872+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Erling Braut Haaland Borussia Dortmund gradert fotballkort",
       "pris": 699,
@@ -1191,14 +1199,6 @@
       "lenke": "https://www.finn.no/recommerce/forsale/item/481883260",
       "funnet": "2026-11-27T20:08:18.198278+00:00",
       "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon sealed samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
-      "funnet": "2026-11-27T20:04:21.968790+00:00",
-      "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
     }
   ]
