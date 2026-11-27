@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-27T22:46:21.823257+00:00",
+  "sist_sjekket": "2026-11-27T22:48:20.247450+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Chatot – 95 – Supreme Victors – HP",
+      "pris": 15,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481888884",
+      "funnet": "2026-11-27T22:48:20.245793+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Bronzor – 129 – Rebel Clash – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481888901",
+      "funnet": "2026-11-27T22:48:19.888122+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Doduo – 55/83 – Generations – LP",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T21:02:25.797827+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Drilbur – 046/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481885584",
-      "funnet": "2026-11-27T21:02:25.469421+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Fomantis – 003/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481885601",
-      "funnet": "2026-11-27T21:02:25.096834+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
