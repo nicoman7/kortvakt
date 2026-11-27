@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-27T15:24:17.531068+00:00",
+  "sist_sjekket": "2026-11-27T15:26:25.792220+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon TCG Ascended Heroes ETB",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
+      "funnet": "2026-11-27T15:26:25.790702+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Eevee Ex #223 Pokemon Japanese Terastal Festival",
       "pris": 400,
@@ -1190,14 +1198,6 @@
       "pris": 30,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481860726",
       "funnet": "2026-11-27T13:04:21.793351+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Fossil Tentacruel 44/62",
-      "pris": 40,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481860560",
-      "funnet": "2026-11-27T13:02:19.296159+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
