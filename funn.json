@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T00:32:22.953316+00:00",
+  "sist_sjekket": "2026-11-28T00:34:19.821499+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Starly – 110 – Crown Zenith – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890574",
+      "funnet": "2026-11-28T00:34:19.819770+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Zeraora – 078 – Destined Rivals – NM",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T22:54:19.929534+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Bronzong – 064/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889038",
-      "funnet": "2026-11-27T22:54:19.659332+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
