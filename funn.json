@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:14:26.178876+00:00",
+  "sist_sjekket": "2026-11-28T02:16:23.761115+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Scream Tail – 042 – Prismatic Evolutions – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891239",
+      "funnet": "2026-11-28T02:16:23.759477+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Sneasel – 061 – Prismatic Evolutions – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891241",
+      "funnet": "2026-11-28T02:16:22.940277+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Ogre's Mask – 118 – Prismatic Evolutions – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T00:26:21.903975+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Team Rocket's Houndour – 037 – Destined Rivals – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890503",
-      "funnet": "2026-11-28T00:26:21.545250+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Tauros – 152 – Destined Rivals – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890484",
-      "funnet": "2026-11-28T00:24:28.078237+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
