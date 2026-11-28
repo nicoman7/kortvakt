@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T08:50:29.121878+00:00",
+  "sist_sjekket": "2026-11-28T08:52:20.714490+00:00",
   "funn": [
+    {
+      "tittel": "Stor vintage Pokémon-kortsamling – eldre kort fra 2000-tallet",
+      "pris": 999,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481895158",
+      "funnet": "2026-11-28T08:52:20.712808+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Yu-Gi-Oh! kortsamling (fakes)",
       "pris": 100,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891073",
       "funnet": "2026-11-28T01:40:32.202990+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Arcanine – 019/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891076",
-      "funnet": "2026-11-28T01:40:31.847909+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
