@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:50:32.139035+00:00",
+  "sist_sjekket": "2026-11-28T00:52:18.931413+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Pikachu – 034 – 30th Celebration – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890735",
+      "funnet": "2026-11-28T00:52:18.930263+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Switch – 127/128 – 30th Celebration – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890752",
+      "funnet": "2026-11-28T00:52:18.587342+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Pikachu – 027 – 30th Celebration – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T23:06:19.461863+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Torchic [Reverse Holo] #66 Pokemon Crystal Guardians",
-      "pris": 770,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781435",
-      "funnet": "2026-11-27T23:04:20.443795+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Primarina – 020 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889266",
-      "funnet": "2026-11-27T23:04:20.211696+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
