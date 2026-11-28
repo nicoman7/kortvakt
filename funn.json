@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-28T00:02:18.727882+00:00",
+  "sist_sjekket": "2026-11-28T00:04:19.659267+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Mienshao – 084 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890232",
+      "funnet": "2026-11-28T00:04:19.658102+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Noctowl – 115 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890248",
+      "funnet": "2026-11-28T00:04:19.271072+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Nymble – 015 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890262",
+      "funnet": "2026-11-28T00:04:18.938410+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Ponyta – 019 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890269",
+      "funnet": "2026-11-28T00:04:18.205104+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Drednaw – 044 – Stellar Crown – NM",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-27T22:32:20.120024+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Dedenne – 57/162 – BREAKthrough – LP",
-      "pris": 30,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888367",
-      "funnet": "2026-11-27T22:30:46.835347+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Marowak – 78/162 – BREAKthrough – LP",
-      "pris": 11,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888384",
-      "funnet": "2026-11-27T22:30:46.563615+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Reshiram & Charizard GX 016/173 – Tag Team",
-      "pris": 350,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888353",
-      "funnet": "2026-11-27T22:30:46.272373+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon Scraggy 140/128 illustration rare",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888360",
-      "funnet": "2026-11-27T22:30:45.685429+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
     }
   ]
 }
