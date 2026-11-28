@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T01:48:31.530296+00:00",
+  "sist_sjekket": "2026-11-28T01:50:28.891096+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Magmortar – 021/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891114",
+      "funnet": "2026-11-28T01:50:28.889994+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Mega Rayquaza Cap – 100/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891117",
+      "funnet": "2026-11-28T01:50:28.303277+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Grisham – 093/103 – Delta Reign – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T00:01:00.010871+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Grimsley's Move – 090 – Phantasmal Flames – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890173",
-      "funnet": "2026-11-27T23:58:26.804508+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "pokemon kort selges samlet med perm!",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890088",
-      "funnet": "2026-11-27T23:58:26.460716+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
