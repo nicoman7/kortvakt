@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:18:22.828519+00:00",
+  "sist_sjekket": "2026-11-28T00:20:36.278568+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Ethan's Slugma – 035 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890423",
+      "funnet": "2026-11-28T00:20:36.276761+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Hippopotas – 105 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890437",
+      "funnet": "2026-11-28T00:20:35.428938+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Dolliv – 022 – Destined Rivals – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T22:44:22.787127+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Kyogre – 53/160 – XY - Primal Clash – HP",
-      "pris": 11,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888789",
-      "funnet": "2026-11-27T22:44:22.435496+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Lanturn – 58/160 – XY - Primal Clash – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888800",
-      "funnet": "2026-11-27T22:44:21.700858+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
