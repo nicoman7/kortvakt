@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T01:30:48.747592+00:00",
+  "sist_sjekket": "2026-11-28T01:32:22.262111+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Dartrix – 011/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891036",
+      "funnet": "2026-11-28T01:32:22.260477+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Chansey – 46/68 – Hidden Fates – NM",
       "pris": 14,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T23:40:32.333159+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Team Rocket's Spidops – 019 – Ascended Heroes – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889953",
-      "funnet": "2026-11-27T23:40:31.575708+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
