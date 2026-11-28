@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:54:22.761452+00:00",
+  "sist_sjekket": "2026-11-28T00:56:21.870111+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Dartrix – 007/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890781",
+      "funnet": "2026-11-28T00:56:21.868426+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Drednaw – 027/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890789",
+      "funnet": "2026-11-28T00:56:21.044209+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Uxie – 36/101 – Plasma Blast – MP",
       "pris": 18,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T23:10:38.469764+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Solrock – 075 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889398",
-      "funnet": "2026-11-27T23:10:38.258756+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
-      "funnet": "2026-11-27T23:10:37.996545+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
