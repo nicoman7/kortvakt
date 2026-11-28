@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T11:40:34.114272+00:00",
+  "sist_sjekket": "2026-11-28T11:42:27.579604+00:00",
   "funn": [
+    {
+      "tittel": "Drampa 119/163 - Pokemon Battle Styles",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481908696",
+      "funnet": "2026-11-28T11:42:27.578019+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Galarian Sirfetch’d 095/192 - Pokemon Rebel Clash",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481908788",
+      "funnet": "2026-11-28T11:42:27.250389+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon kort - Fossil - Trainer",
       "pris": 30,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T04:34:19.588553+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Beste dealen på Finn 3 hit + 50 Pokemon kort for 99 kr",
-      "pris": 98,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/475860051",
-      "funnet": "2026-11-28T04:26:19.452879+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Kort",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
-      "funnet": "2026-11-28T03:52:23.016686+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
