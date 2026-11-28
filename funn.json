@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:12:21.872032+00:00",
+  "sist_sjekket": "2026-11-28T00:14:23.057143+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Ruffian – 157 – Journey Together – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890368",
+      "funnet": "2026-11-28T00:14:23.055679+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Shelmet – 012 – Journey Together – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890373",
+      "funnet": "2026-11-28T00:14:22.290094+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – N's Darumaka – 026 – Journey Together – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T22:40:32.987009+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Drizzile – 040 – Mega Evolution – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888699",
-      "funnet": "2026-11-27T22:40:32.598518+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Exeggcute – 004 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888716",
-      "funnet": "2026-11-27T22:40:32.323892+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
