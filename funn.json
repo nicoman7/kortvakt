@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T09:44:20.522800+00:00",
+  "sist_sjekket": "2026-11-28T09:46:25.729590+00:00",
   "funn": [
+    {
+      "tittel": "Fotballkort",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899431",
+      "funnet": "2026-11-28T09:46:25.728116+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon-kort med Mega Rayquaza",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899503",
+      "funnet": "2026-11-28T09:46:25.202972+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemonkort, Ho-ho, stamped unseen forces",
       "pris": 1700,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T01:56:18.911795+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Jamming Net – 98/119 – Phantom Forces – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891167",
-      "funnet": "2026-11-28T01:56:18.161643+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Stor topps samling BYTTES mot TCG",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481443692",
-      "funnet": "2026-11-28T01:56:17.800166+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
