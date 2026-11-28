@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T02:54:24.217821+00:00",
+  "sist_sjekket": "2026-11-28T02:56:23.505801+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Nosepass – 037/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891404",
+      "funnet": "2026-11-28T02:56:23.504045+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Poké Pad – 081 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891407",
+      "funnet": "2026-11-28T02:56:22.702996+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Probopass – 038/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891409",
+      "funnet": "2026-11-28T02:56:22.350667+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Jacinthe – 075/088 – Perfect Order – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T01:02:18.626053+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Frosmoth – 030/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890811",
-      "funnet": "2026-11-28T01:00:58.684880+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Luxio – 032/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890817",
-      "funnet": "2026-11-28T01:00:57.918527+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Nickit – 047/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890823",
-      "funnet": "2026-11-28T01:00:57.568615+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
