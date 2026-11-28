@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T06:18:18.734376+00:00",
+  "sist_sjekket": "2026-11-28T06:20:32.676006+00:00",
   "funn": [
+    {
+      "tittel": "Magic the Gathering kort til salgs",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/80231658",
+      "funnet": "2026-11-28T06:20:32.674168+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kortsamling i perm",
       "pris": 1500,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481890995",
       "funnet": "2026-11-28T01:24:18.526744+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Ralts – 059 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890974",
-      "funnet": "2026-11-28T01:22:20.479795+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
