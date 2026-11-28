@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T01:42:20.429671+00:00",
+  "sist_sjekket": "2026-11-28T01:44:27.771221+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Eevee – 078/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891083",
+      "funnet": "2026-11-28T01:44:27.769877+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Electivire – 031/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891085",
+      "funnet": "2026-11-28T01:44:26.969503+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon-kort –  Graderte kort",
       "pris": 123,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T23:58:21.453259+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Dawn – 087 – Phantasmal Flames – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890155",
-      "funnet": "2026-11-27T23:56:26.286687+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Gastrodon – 107 – Surging Sparks – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890162",
-      "funnet": "2026-11-27T23:56:25.457611+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
