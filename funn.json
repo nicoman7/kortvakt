@@ -1,6 +1,46 @@
 {
-  "sist_sjekket": "2026-11-28T00:20:36.278568+00:00",
+  "sist_sjekket": "2026-11-28T00:22:22.887326+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Nosepass – 097 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890446",
+      "funnet": "2026-11-28T00:22:22.885573+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Rellor – 024 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890454",
+      "funnet": "2026-11-28T00:22:22.118362+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Smoliv – 021 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890458",
+      "funnet": "2026-11-28T00:22:21.330467+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Squawkabilly – 160 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890464",
+      "funnet": "2026-11-28T00:22:21.017938+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Steven's Baltoy – 083 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890469",
+      "funnet": "2026-11-28T00:22:20.177221+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Ethan's Slugma – 035 – Destined Rivals – NM",
       "pris": 10,
@@ -1160,46 +1200,6 @@
       "funnet": "2026-11-27T22:46:21.534931+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Fan Club – 69/83 – Generations – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888858",
-      "funnet": "2026-11-27T22:46:21.258786+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Shedinja – 061 – Mega Evolution – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888726",
-      "funnet": "2026-11-27T22:44:24.649751+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Spearow – 102 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888753",
-      "funnet": "2026-11-27T22:44:24.304932+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Shadow Triad (Team Plasma) – 102/116 – Plasma Freeze – LP",
-      "pris": 14,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888765",
-      "funnet": "2026-11-27T22:44:23.558746+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon 30th UPC hits!",
-      "pris": 1234,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888755",
-      "funnet": "2026-11-27T22:44:22.787127+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
