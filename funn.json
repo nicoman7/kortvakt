@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T01:40:34.357864+00:00",
+  "sist_sjekket": "2026-11-28T01:42:20.429671+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort –  Graderte kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481565739",
+      "funnet": "2026-11-28T01:42:20.428197+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Tyrantrum – 045/088 – Perfect Order – NM",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T23:56:25.457611+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Oscar Bobb kort selges - Autograf & Nummerert",
-      "pris": 97,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/476602602",
-      "funnet": "2026-11-27T23:56:25.125115+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
