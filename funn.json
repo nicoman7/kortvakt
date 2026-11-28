@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T11:20:32.554383+00:00",
+  "sist_sjekket": "2026-11-28T11:22:20.747268+00:00",
   "funn": [
+    {
+      "tittel": "Magearna 128/185 - Pokemon Vivid Voltage",
+      "pris": 19,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481907083",
+      "funnet": "2026-11-28T11:22:20.745584+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Magearna [Holo] 128/185 - Pokemon Vivid Voltage",
       "pris": 25,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891398",
       "funnet": "2026-11-28T02:54:24.216073+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "20 kr marked / Pokemon hits & Promo",
-      "pris": 20,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891323",
-      "funnet": "2026-11-28T02:54:23.381274+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
