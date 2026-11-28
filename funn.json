@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T16:32:18.941502+00:00",
+  "sist_sjekket": "2026-11-28T16:34:17.799629+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort selges",
+      "pris": 450,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481931607",
+      "funnet": "2026-11-28T16:34:17.798034+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Smeargle – Phantasmal Flames 080/094 – engelsk Pokémon-kort",
+      "pris": 2,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481931648",
+      "funnet": "2026-11-28T16:34:17.565312+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Meditite – 103 – Ascended Heroes – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481931716",
+      "funnet": "2026-11-28T16:34:17.306162+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Phanpy – 044 – Chaos Rising – NM",
       "pris": 10,
@@ -1174,30 +1198,6 @@
       "pris": 2,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481928226",
       "funnet": "2026-11-28T15:40:34.476711+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo Panini Select Road to FIFA World Cup 2026",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481928105",
-      "funnet": "2026-11-28T15:40:33.823260+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Farewell Bell – Fusion Strike 234/264 – engelsk Pokémon-kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481928249",
-      "funnet": "2026-11-28T15:40:33.231667+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Finneon – Lost Origin 040/196 – engelsk Pokémon-kort",
-      "pris": 2,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481928274",
-      "funnet": "2026-11-28T15:40:32.639245+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
