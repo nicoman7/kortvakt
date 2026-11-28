@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T01:44:27.771221+00:00",
+  "sist_sjekket": "2026-11-28T01:46:18.184919+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Enamorus – 048/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891089",
+      "funnet": "2026-11-28T01:46:18.183671+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Fletchinder – 087/103 – Delta Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891094",
+      "funnet": "2026-11-28T01:46:17.802415+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Eevee – 078/103 – Delta Reign – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T23:58:23.510664+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Archaludon – 107 – Stellar Crown – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890215",
-      "funnet": "2026-11-27T23:58:22.213854+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Stor topps samling BYTTES mot TCG",
-      "pris": 1,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481443692",
-      "funnet": "2026-11-27T23:58:21.453259+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
