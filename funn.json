@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T17:40:30.663840+00:00",
+  "sist_sjekket": "2026-11-28T17:42:19.725238+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Manectric – 076 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481935732",
+      "funnet": "2026-11-28T17:42:19.723630+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Marnie's Impidimp – 134 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481935789",
+      "funnet": "2026-11-28T17:42:19.336032+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T16:44:29.005412+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Dark Persian promo samlekort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481082446",
-      "funnet": "2026-11-28T16:44:28.695313+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Yu-Gi-Oh! samlekort – blandet lot",
-      "pris": 1500,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/480895452",
-      "funnet": "2026-11-28T16:44:27.924922+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
