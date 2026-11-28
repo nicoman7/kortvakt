@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T00:01:00.012625+00:00",
+  "sist_sjekket": "2026-11-28T00:02:18.727882+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Drednaw – 044 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890226",
+      "funnet": "2026-11-28T00:02:18.726317+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Crabrawler – 087 – Stellar Crown – NM",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T22:30:45.685429+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Corsola – 36/149 – Sun Moon – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888394",
-      "funnet": "2026-11-27T22:30:45.433776+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
