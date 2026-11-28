@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T01:56:19.572474+00:00",
+  "sist_sjekket": "2026-11-28T01:58:20.284472+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Whismur – 83/119 – Phantom Forces – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891170",
+      "funnet": "2026-11-28T01:58:20.283239+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Bellsprout – 1/111 – Furious Fists – LP",
+      "pris": 11,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891175",
+      "funnet": "2026-11-28T01:58:19.555064+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse graderte Pokemon kort",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/480486228",
+      "funnet": "2026-11-28T01:58:18.812951+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Ponyta – 19/108 – Evolutions – LP",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T00:12:21.352953+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Postwick – 154 – Journey Together – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890356",
-      "funnet": "2026-11-28T00:12:20.749716+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Rockruff – 084 – Journey Together – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890363",
-      "funnet": "2026-11-28T00:12:20.164797+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Iono's Wattrel – 054 – Journey Together – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890322",
-      "funnet": "2026-11-28T00:10:31.572567+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
