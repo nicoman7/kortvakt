@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T08:44:21.574684+00:00",
+  "sist_sjekket": "2026-11-28T08:46:20.485504+00:00",
   "funn": [
+    {
+      "tittel": "Yu-Gi-Oh! kortsamling (fakes)",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481896221",
+      "funnet": "2026-11-28T08:46:20.483988+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Stor samling vintage Pokémon-kort (1995-2010)Base Set,Neo Destiny,e-Reader,jungl",
       "pris": 123,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891076",
       "funnet": "2026-11-28T01:40:31.847909+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Combee – 006/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891079",
-      "funnet": "2026-11-28T01:40:31.085652+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
