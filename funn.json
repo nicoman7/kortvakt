@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T13:02:18.820618+00:00",
+  "sist_sjekket": "2026-11-28T13:04:21.926503+00:00",
   "funn": [
+    {
+      "tittel": "Pokémonkort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481915553",
+      "funnet": "2026-11-28T13:04:21.924760+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "134 ulike Pokémon-kort fra Evolving Skies-Pikachu, Dragonite, Regidrago Zoroark",
+      "pris": 300,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481914713",
+      "funnet": "2026-11-28T13:04:21.576074+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Machamp 8/102 Holo 1st Edition – Base Set (1999) – WOTC Pokemonkort",
+      "pris": 449,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481915574",
+      "funnet": "2026-11-28T13:04:21.223009+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Diverse graderte Pokemon kort",
       "pris": null,
@@ -1174,30 +1198,6 @@
       "pris": 499,
       "lenke": "https://www.finn.no/recommerce/forsale/item/479742583",
       "funnet": "2026-11-28T09:38:20.769735+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort perm med kort",
-      "pris": 1000,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481898126",
-      "funnet": "2026-11-28T09:36:25.009984+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Panini EuroLeague Top Class basketballkort",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481898336",
-      "funnet": "2026-11-28T09:30:48.990712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Mewtwo 031/071 Rauket 10",
-      "pris": 300,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481898529",
-      "funnet": "2026-11-28T09:30:48.183442+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
