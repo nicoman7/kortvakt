@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T10:54:19.956524+00:00",
+  "sist_sjekket": "2026-11-28T10:56:20.925564+00:00",
   "funn": [
+    {
+      "tittel": "2024/25 PANINI SELECT SERIE A",
+      "pris": 1250,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/436750214",
+      "funnet": "2026-11-28T10:56:20.923697+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Mega Charizard EX samlekort 12/83 holografisk",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481904844",
+      "funnet": "2026-11-28T10:56:20.656251+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Arsenal Hector Bellerin",
       "pris": 950,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T02:28:18.317578+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Noibat – 156 – Ascended Heroes – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891290",
-      "funnet": "2026-11-28T02:26:20.787755+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Pignite – 030 – Ascended Heroes – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891293",
-      "funnet": "2026-11-28T02:26:20.204772+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
