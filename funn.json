@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-28T00:42:28.266121+00:00",
+  "sist_sjekket": "2026-11-28T00:44:19.167819+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Rampardos ex – 100/084 – Pitch Black – NM",
+      "pris": 29,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890664",
+      "funnet": "2026-11-28T00:44:19.166630+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Spiritomb – 035/084 – Pitch Black – LP",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890669",
+      "funnet": "2026-11-28T00:44:18.707816+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Moltres - 096 (30th Celebration) – ME: Mega Evolution Promo – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890680",
+      "funnet": "2026-11-28T00:44:18.346978+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Zapdos - 098 (30th Celebration) – ME: Mega Evolution Promo – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890689",
+      "funnet": "2026-11-28T00:44:17.986272+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Gumshoos GX – 110/149 – Sun Moon – HP",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-27T23:02:22.100142+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Diverse Umbreon kort (ugraderte)",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888797",
-      "funnet": "2026-11-27T23:02:21.529198+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Mabosstiff – 058/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889144",
-      "funnet": "2026-11-27T23:00:59.212077+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Malamar – 052/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889162",
-      "funnet": "2026-11-27T23:00:58.926108+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Mankey – 042/084 – Pitch Black – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889181",
-      "funnet": "2026-11-27T23:00:58.655514+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
