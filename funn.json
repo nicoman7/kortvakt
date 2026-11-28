@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T02:46:21.098375+00:00",
+  "sist_sjekket": "2026-11-28T02:48:21.286195+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Aromatisse – 036/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891372",
+      "funnet": "2026-11-28T02:48:21.284710+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Barbaracle – 043/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891376",
+      "funnet": "2026-11-28T02:48:20.892045+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Oscar Bobb kort selges - Autograf & Nummerert",
+      "pris": 97,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/476602602",
+      "funnet": "2026-11-28T02:48:20.593759+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Aegislash – 058/088 – Perfect Order – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T00:54:21.056520+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon sealed samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
-      "funnet": "2026-11-28T00:54:18.802491+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Pikachu – 034 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890735",
-      "funnet": "2026-11-28T00:52:18.930263+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Switch – 127/128 – 30th Celebration – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890752",
-      "funnet": "2026-11-28T00:52:18.587342+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
