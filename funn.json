@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:28:19.211843+00:00",
+  "sist_sjekket": "2026-11-28T02:30:48.007649+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Firebreather – 089 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891311",
+      "funnet": "2026-11-28T02:30:48.006166+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Honchkrow – 058 – Phantasmal Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891314",
+      "funnet": "2026-11-28T02:30:47.382620+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Poké Pad – 198 – Ascended Heroes – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T00:42:28.015993+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Armarouge – 012/084 – Pitch Black – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890646",
-      "funnet": "2026-11-28T00:42:27.478418+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Primarina – 088/084 – Pitch Black – NM",
-      "pris": 23,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890657",
-      "funnet": "2026-11-28T00:42:27.251106+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
