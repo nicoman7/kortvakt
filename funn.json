@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:42:19.328411+00:00",
+  "sist_sjekket": "2026-11-28T02:44:19.385136+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Swablu – 169 – Obsidian Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891361",
+      "funnet": "2026-11-28T02:44:19.383553+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Tadbulb 075/197 – Obsidian Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891363",
+      "funnet": "2026-11-28T02:44:19.012211+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Charmeleon – 027 – Obsidian Flames – NM",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481890728",
       "funnet": "2026-11-28T00:50:31.504649+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Pikachu – 046 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890713",
-      "funnet": "2026-11-28T00:48:24.263363+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Pikachu – 044 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890719",
-      "funnet": "2026-11-28T00:48:23.502106+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
