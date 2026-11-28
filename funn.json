@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T09:26:21.683035+00:00",
+  "sist_sjekket": "2026-11-28T09:28:18.282646+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon-kort",
+      "pris": 850,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481898211",
+      "funnet": "2026-11-28T09:28:18.280907+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Japansk Pokemon - 30th Celebration Booster Boks - M6A",
+      "pris": 1550,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/479488331",
+      "funnet": "2026-11-28T09:28:18.012351+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "2025-26 Topps Gold UEFA CC Aleix Garcia Green Auto /99",
       "pris": 75,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891126",
       "funnet": "2026-11-28T01:52:22.015971+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Pawmo – 038/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891129",
-      "funnet": "2026-11-28T01:52:21.275874+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Sandslash – 050/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891130",
-      "funnet": "2026-11-28T01:52:20.521760+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
