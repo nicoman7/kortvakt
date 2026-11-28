@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T09:40:35.949569+00:00",
+  "sist_sjekket": "2026-11-28T09:42:28.515295+00:00",
   "funn": [
+    {
+      "tittel": "Pokemonkort, Ho-ho, stamped unseen forces",
+      "pris": 1700,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481898769",
+      "funnet": "2026-11-28T09:42:28.513939+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Diverse pokemon korter",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899251",
+      "funnet": "2026-11-28T09:42:28.225061+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon First Partner Series 2",
       "pris": 499,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T01:56:17.800166+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Swablu – 081/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891135",
-      "funnet": "2026-11-28T01:54:22.059591+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Thundurus – 035/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891140",
-      "funnet": "2026-11-28T01:54:21.199633+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
