@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T00:30:48.063270+00:00",
+  "sist_sjekket": "2026-11-28T00:32:22.953316+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Zeraora – 078 – Destined Rivals – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890557",
+      "funnet": "2026-11-28T00:32:22.951891+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Cherubi – 011 – Crown Zenith – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890567",
+      "funnet": "2026-11-28T00:32:22.117065+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "JULEGAVE, Adventskalender, POKÉMON PAKKER GARANTERT HIT!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481141271",
+      "funnet": "2026-11-28T00:32:21.728347+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Team Rocket's Proton – 177 – Destined Rivals – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-27T22:54:19.659332+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Center Lady – 176/202 – SWSH01: Sword & Shield Base Set – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888972",
-      "funnet": "2026-11-27T22:52:20.344920+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Thwackey (012) – 012/202 – SWSH01: Sword & Shield Base Set – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888982",
-      "funnet": "2026-11-27T22:52:19.558631+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon - Expedition samling",
-      "pris": 120,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481888956",
-      "funnet": "2026-11-27T22:52:19.209771+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
