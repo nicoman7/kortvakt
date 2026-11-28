@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T10:06:30.700736+00:00",
+  "sist_sjekket": "2026-11-28T10:08:19.333188+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon bulk",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481900664",
+      "funnet": "2026-11-28T10:08:19.331458+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort -  Reverse holo HeartGold & SoulSilver",
+      "pris": 1234,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899739",
+      "funnet": "2026-11-28T10:08:19.116424+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Oscar Bobb fotballkort – signerte samlekort",
       "pris": 1900,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T02:12:21.302648+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Glass Trumpet – 110 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891210",
-      "funnet": "2026-11-28T02:08:18.139485+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Goldeen – 020 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891215",
-      "funnet": "2026-11-28T02:08:17.833063+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
