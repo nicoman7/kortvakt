@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T09:58:18.777891+00:00",
+  "sist_sjekket": "2026-11-28T10:00:56.962403+00:00",
   "funn": [
+    {
+      "tittel": "Liverpool kort limited edition og 100 club",
+      "pris": 350,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481900439",
+      "funnet": "2026-11-28T10:00:56.960482+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon Pikachu-kort",
+      "pris": 20,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481900269",
+      "funnet": "2026-11-28T10:00:56.294811+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Forballkort limited edition diamant",
       "pris": 400,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T02:06:20.502808+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Explorer's Guidance – 107 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891202",
-      "funnet": "2026-11-28T02:06:19.911994+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Festival Grounds – 108 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891206",
-      "funnet": "2026-11-28T02:06:19.667843+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
