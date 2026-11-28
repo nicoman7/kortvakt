@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T11:14:18.080847+00:00",
+  "sist_sjekket": "2026-11-28T11:16:21.190129+00:00",
   "funn": [
+    {
+      "tittel": "Gastly 064/196 - Pokemon Trick or Trade 2023",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481906503",
+      "funnet": "2026-11-28T11:16:21.188314+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort - OOYAMA",
+      "pris": 150,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481906277",
+      "funnet": "2026-11-28T11:16:20.886832+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Phantump 93/236 - Pokemon Cosmic Eclipse",
       "pris": 25,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T02:50:38.868217+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Fletchling – 066/088 – Perfect Order – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891385",
-      "funnet": "2026-11-28T02:50:38.090991+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Aromatisse – 036/088 – Perfect Order – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891372",
-      "funnet": "2026-11-28T02:48:21.284710+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
