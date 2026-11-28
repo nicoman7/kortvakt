@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:58:21.251070+00:00",
+  "sist_sjekket": "2026-11-28T03:01:04.609215+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Spinarak – 001/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891428",
+      "funnet": "2026-11-28T03:01:04.607838+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Tyrunt – 044/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891430",
+      "funnet": "2026-11-28T03:01:03.795401+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Raticate – 061/088 – Perfect Order – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T01:04:21.284174+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Zarude – 016/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890851",
-      "funnet": "2026-11-28T01:04:20.940064+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Brawly – 131 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890859",
-      "funnet": "2026-11-28T01:04:20.444468+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
