@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T09:56:19.465042+00:00",
+  "sist_sjekket": "2026-11-28T09:58:18.777891+00:00",
   "funn": [
+    {
+      "tittel": "Forballkort limited edition diamant",
+      "pris": 400,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481900047",
+      "funnet": "2026-11-28T09:58:18.776174+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Loona fotokort photocard",
+      "pris": 40,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481900141",
+      "funnet": "2026-11-28T09:58:18.312787+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon trading card game -online",
+      "pris": 100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899851",
+      "funnet": "2026-11-28T09:58:18.055624+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon EX-kort – Stort utvalg fra ulike sett | Selges enkeltvis eller samlet",
       "pris": 30,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T02:06:19.667843+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Furfrou – 088 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891208",
-      "funnet": "2026-11-28T02:06:18.997922+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Graderte Pokemon kort",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479866016",
-      "funnet": "2026-11-28T02:04:30.256930+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Carmine – 103 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891189",
-      "funnet": "2026-11-28T02:02:21.715253+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
