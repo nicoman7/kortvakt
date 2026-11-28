@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T03:02:21.141602+00:00",
+  "sist_sjekket": "2026-11-28T03:04:19.771230+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Gible (CSV9.5C 090) Terastal Gathering – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891441",
+      "funnet": "2026-11-28T03:04:19.770034+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Atticus – 077 – Paldean Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891443",
+      "funnet": "2026-11-28T03:04:19.047434+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Nidorino (Japanese) – 033/165 – Pokemon Card 151 – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T01:08:22.309306+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Galarian Farfetch'd – 078 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890879",
-      "funnet": "2026-11-28T01:08:22.053246+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Galarian Sirfetch'd – 079 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890889",
-      "funnet": "2026-11-28T01:08:21.775146+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
