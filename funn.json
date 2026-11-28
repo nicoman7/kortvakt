@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T04:44:25.137958+00:00",
+  "sist_sjekket": "2026-11-28T04:46:20.018570+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-28T04:46:20.016809+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "SISTE SJANSE Fotballkort – Personlig Julekalender - Du velger budsjett",
       "pris": 39,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-28T01:20:31.830750+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Heracross – 006 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890947",
-      "funnet": "2026-11-28T01:18:25.013782+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
