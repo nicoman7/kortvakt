@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T01:00:58.686027+00:00",
+  "sist_sjekket": "2026-11-28T01:02:20.171277+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Rowlet – 006/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890828",
+      "funnet": "2026-11-28T01:02:20.170237+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Snom – 029/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890832",
+      "funnet": "2026-11-28T01:02:19.381886+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Team Yell Towel – 063/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890838",
+      "funnet": "2026-11-28T01:02:18.626053+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Frosmoth – 030/072 – Shining Fates – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-27T23:16:18.952484+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Bastiodon – 062/084 – Pitch Black – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889450",
-      "funnet": "2026-11-27T23:14:29.472228+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "May's Torchic #37/ADV-P Pokemon Japanese Promo",
-      "pris": 960,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781456",
-      "funnet": "2026-11-27T23:14:28.915712+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Dhelmise – 039/084 – Pitch Black – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889469",
-      "funnet": "2026-11-27T23:14:28.383465+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
