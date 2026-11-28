@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T03:42:20.034515+00:00",
+  "sist_sjekket": "2026-11-28T03:44:24.683041+00:00",
   "funn": [
+    {
+      "tittel": "JULEGAVE, Adventskalender, POKÉMON PAKKER GARANTERT HIT!",
+      "pris": 80,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481141271",
+      "funnet": "2026-11-28T03:44:24.681540+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokemon TCG Ascended Heroes ETB",
       "pris": 1699,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481890942",
       "funnet": "2026-11-28T01:16:22.033612+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Hatenna – 071 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890946",
-      "funnet": "2026-11-28T01:16:21.185995+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
