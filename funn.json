@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T02:48:21.286195+00:00",
+  "sist_sjekket": "2026-11-28T02:50:39.639218+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Dedenne – 029/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891378",
+      "funnet": "2026-11-28T02:50:39.637754+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Energy Search – 072/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891382",
+      "funnet": "2026-11-28T02:50:38.868217+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Fletchling – 066/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891385",
+      "funnet": "2026-11-28T02:50:38.090991+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Aromatisse – 036/088 – Perfect Order – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T00:54:22.411888+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Luis Díaz- Panini 2026 Limited Edition Hologram",
-      "pris": 50,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890737",
-      "funnet": "2026-11-28T00:54:22.108724+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Buizel – 022/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890770",
-      "funnet": "2026-11-28T00:54:21.818409+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Cramorant – 028/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890772",
-      "funnet": "2026-11-28T00:54:21.056520+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
