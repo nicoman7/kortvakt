@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T01:24:19.082996+00:00",
+  "sist_sjekket": "2026-11-28T01:26:21.211862+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Weezing – 095 – Chilling Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890999",
+      "funnet": "2026-11-28T01:26:21.209922+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Tapu Fini – 040 – Chilling Reign – NM",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-27T23:36:19.318412+00:00",
       "kategori": "store_samlinger",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Entei – 025 – Ascended Heroes – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889837",
-      "funnet": "2026-11-27T23:34:21.812061+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
