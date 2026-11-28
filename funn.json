@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-28T09:50:32.919873+00:00",
+  "sist_sjekket": "2026-11-28T09:52:19.498820+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899361",
+      "funnet": "2026-11-28T09:52:19.497318+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Fotballkort - samling av spesialkort",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899765",
+      "funnet": "2026-11-28T09:52:19.257513+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon – Pikaboo samleperm😁 – M",
+      "pris": 600,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899951",
+      "funnet": "2026-11-28T09:52:18.731853+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Panini FIFA 365 adventskalender 2026",
+      "pris": 500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481899803",
+      "funnet": "2026-11-28T09:52:18.095059+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Match Attax 26/27 - ca 100 kort",
       "pris": 75,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-28T02:02:20.883215+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Dunsparce – 079 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891192",
-      "funnet": "2026-11-28T02:02:20.523495+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Basic Grass Energy - 001 – 1 – MEE: Mega Evolution Energies – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891177",
-      "funnet": "2026-11-28T02:00:56.781186+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Applin – 009 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891179",
-      "funnet": "2026-11-28T02:00:56.418309+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Black Belt's Training – 098 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891184",
-      "funnet": "2026-11-28T02:00:55.681148+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
