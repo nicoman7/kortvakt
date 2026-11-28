@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:46:19.813778+00:00",
+  "sist_sjekket": "2026-11-28T00:48:24.265178+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Pikachu – 046 – 30th Celebration – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890713",
+      "funnet": "2026-11-28T00:48:24.263363+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Pikachu – 044 – 30th Celebration – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890719",
+      "funnet": "2026-11-28T00:48:23.502106+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Cosmog – 078/128 – 30th Celebration – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T23:04:19.003790+00:00",
       "kategori": "sjeldne_glins",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Ninetales – 009 – Chaos Rising – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889284",
-      "funnet": "2026-11-27T23:04:18.737523+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Nickit – 053/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889198",
-      "funnet": "2026-11-27T23:02:23.049612+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
