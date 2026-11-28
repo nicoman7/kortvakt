@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T05:58:25.271547+00:00",
+  "sist_sjekket": "2026-11-28T06:00:57.818725+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kortsamling i perm",
+      "pris": 1500,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481892319",
+      "funnet": "2026-11-28T06:00:57.817110+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Fotballkort Mystery Packs – 6 unike pakker med garanterte autografer og RC",
       "pris": 99,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481890974",
       "funnet": "2026-11-28T01:22:20.479795+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Spiral Energy – 159 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890977",
-      "funnet": "2026-11-28T01:22:19.723518+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
