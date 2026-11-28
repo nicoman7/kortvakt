@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T03:50:29.661290+00:00",
+  "sist_sjekket": "2026-11-28T03:52:23.017976+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon Kort",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481440891",
+      "funnet": "2026-11-28T03:52:23.016686+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "JULEGAVE, Adventskalender, POKÉMON PAKKER GARANTERT HIT!",
       "pris": 80,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481890964",
       "funnet": "2026-11-28T01:18:23.287262+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Grookey – 016 – Chilling Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890942",
-      "funnet": "2026-11-28T01:16:22.033612+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
