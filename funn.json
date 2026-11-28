@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T10:14:19.959098+00:00",
+  "sist_sjekket": "2026-11-28T10:16:25.753229+00:00",
   "funn": [
+    {
+      "tittel": "Bytter/Selger pokemon kort",
+      "pris": 123,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481901137",
+      "funnet": "2026-11-28T10:16:25.751713+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "👻 Haunter 29/102 – Base Set 4th Print (1999–2000) – WOTC Pokemonkort",
       "pris": 150,
@@ -1190,14 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891218",
       "funnet": "2026-11-28T02:12:22.847988+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Hoothoot – 077 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891220",
-      "funnet": "2026-11-28T02:12:22.084772+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
