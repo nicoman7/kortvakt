@@ -1,6 +1,30 @@
 {
-  "sist_sjekket": "2026-11-28T02:50:39.639218+00:00",
+  "sist_sjekket": "2026-11-28T02:52:27.184072+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Furfrou – 067/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891386",
+      "funnet": "2026-11-28T02:52:27.182438+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Hippowdon – 040/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891392",
+      "funnet": "2026-11-28T02:52:26.356009+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Honedge – 056/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891394",
+      "funnet": "2026-11-28T02:52:26.044095+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Dedenne – 029/088 – Perfect Order – NM",
       "pris": 10,
@@ -1176,30 +1200,6 @@
       "funnet": "2026-11-28T00:56:21.868426+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Drednaw – 027/072 – Shining Fates – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890789",
-      "funnet": "2026-11-28T00:56:21.044209+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Uxie – 36/101 – Plasma Blast – MP",
-      "pris": 18,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890755",
-      "funnet": "2026-11-28T00:54:22.760425+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Swirlix – RC19/RC32 – Generations: Radiant Collection – MP",
-      "pris": 140,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890760",
-      "funnet": "2026-11-28T00:54:22.411888+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
