@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T08:58:22.485633+00:00",
+  "sist_sjekket": "2026-11-28T09:01:00.655085+00:00",
   "funn": [
+    {
+      "tittel": "Topps Chrome Sapphire 25-26 Tijjani Reijnders",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481896987",
+      "funnet": "2026-11-28T09:01:00.653203+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "1000 i verden i psa 10 med dette merke Froakie Pokémonkort",
       "pris": 800,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-28T01:44:26.969503+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon-kort –  Graderte kort",
-      "pris": 123,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481565739",
-      "funnet": "2026-11-28T01:42:20.428197+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
