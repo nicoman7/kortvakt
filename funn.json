@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T16:50:47.272077+00:00",
+  "sist_sjekket": "2026-11-28T16:52:25.865867+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon kort samling gem pac",
+      "pris": 1000,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481474844",
+      "funnet": "2026-11-28T16:52:25.864454+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Toxel – Fusion Strike 105/264 – engelsk Pokémon-kort",
       "pris": 2,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-28T16:00:58.529748+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Larvitar – 047 – Prismatic Evolutions – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481929659",
-      "funnet": "2026-11-28T16:00:58.302428+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
