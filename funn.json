@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T08:54:20.247192+00:00",
+  "sist_sjekket": "2026-11-28T08:56:18.208278+00:00",
   "funn": [
+    {
+      "tittel": "Pokemon",
+      "pris": 200,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481896681",
+      "funnet": "2026-11-28T08:56:18.207192+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon kort Venusaur base Holo PSA 5",
+      "pris": 1,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481494715",
+      "funnet": "2026-11-28T08:56:17.499371+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "⚽️Fotballkort Samling: Massevis av Topps Chrome, Autos, Patch⚽️",
       "pris": null,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481891064",
       "funnet": "2026-11-28T01:40:34.356415+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Xerneas – 012/025 – Celebrations – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891068",
-      "funnet": "2026-11-28T01:40:33.597092+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Altaria – 082/103 – Delta Reign – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481891069",
-      "funnet": "2026-11-28T01:40:32.907210+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
