@@ -1,6 +1,38 @@
 {
-  "sist_sjekket": "2026-11-28T01:02:20.171277+00:00",
+  "sist_sjekket": "2026-11-28T01:04:22.182781+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Thwackey – 012/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890843",
+      "funnet": "2026-11-28T01:04:22.181295+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Mega Charizard x ex",
+      "pris": 1100,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890834",
+      "funnet": "2026-11-28T01:04:21.284174+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Zarude – 016/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890851",
+      "funnet": "2026-11-28T01:04:20.940064+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Brawly – 131 – Chilling Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890859",
+      "funnet": "2026-11-28T01:04:20.444468+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Rowlet – 006/072 – Shining Fates – NM",
       "pris": 10,
@@ -1168,38 +1200,6 @@
       "funnet": "2026-11-27T23:18:19.684742+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Fossil Quarry – 076 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889493",
-      "funnet": "2026-11-27T23:16:20.178787+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Grubbin – 002/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889506",
-      "funnet": "2026-11-27T23:16:19.592469+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Litwick – 036/084 – Pitch Black – LP",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889513",
-      "funnet": "2026-11-27T23:16:19.319382+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Japansk Pokemon - Ninja Spinner Booster Boks - M4",
-      "pris": 850,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/479488355",
-      "funnet": "2026-11-27T23:16:18.952484+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
