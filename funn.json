@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:44:19.385136+00:00",
+  "sist_sjekket": "2026-11-28T02:46:21.098375+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Aegislash – 058/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891367",
+      "funnet": "2026-11-28T02:46:21.096506+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Ariados – 002/088 – Perfect Order – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891371",
+      "funnet": "2026-11-28T02:46:20.334450+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Swablu – 169 – Obsidian Flames – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T00:52:18.587342+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Pikachu – 027 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890724",
-      "funnet": "2026-11-28T00:50:32.137236+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Pikachu – 052 – 30th Celebration – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890728",
-      "funnet": "2026-11-28T00:50:31.504649+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
