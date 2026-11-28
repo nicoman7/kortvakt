@@ -1,6 +1,54 @@
 {
-  "sist_sjekket": "2026-11-28T00:52:18.931413+00:00",
+  "sist_sjekket": "2026-11-28T00:54:22.761452+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Uxie – 36/101 – Plasma Blast – MP",
+      "pris": 18,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890755",
+      "funnet": "2026-11-28T00:54:22.760425+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Swirlix – RC19/RC32 – Generations: Radiant Collection – MP",
+      "pris": 140,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890760",
+      "funnet": "2026-11-28T00:54:22.411888+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Luis Díaz- Panini 2026 Limited Edition Hologram",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890737",
+      "funnet": "2026-11-28T00:54:22.108724+00:00",
+      "kategori": "sjeldne_glins",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokémon kort – Buizel – 022/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890770",
+      "funnet": "2026-11-28T00:54:21.818409+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Cramorant – 028/072 – Shining Fates – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890772",
+      "funnet": "2026-11-28T00:54:21.056520+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon sealed samling",
+      "pris": null,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
+      "funnet": "2026-11-28T00:54:18.802491+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Pikachu – 034 – 30th Celebration – NM",
       "pris": 10,
@@ -1152,54 +1200,6 @@
       "funnet": "2026-11-27T23:10:37.996545+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokepark's Torchic #47/PCG-P Pokemon Japanese Promo",
-      "pris": 800,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781443",
-      "funnet": "2026-11-27T23:08:20.118397+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Lillie's Determination – 119 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889346",
-      "funnet": "2026-11-27T23:08:19.391741+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Nuzleaf – 014 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889358",
-      "funnet": "2026-11-27T23:08:18.628325+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Torchic [Reverse Holo] #77 Pokemon Dragon",
-      "pris": 490,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481781445",
-      "funnet": "2026-11-27T23:08:17.920146+00:00",
-      "kategori": "sjeldne_glins",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Gimmighoul – 067 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889302",
-      "funnet": "2026-11-27T23:06:20.226315+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Acerola's Mischief – 113 – Mega Evolution – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889319",
-      "funnet": "2026-11-27T23:06:19.461863+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
