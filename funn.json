@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T12:18:21.593116+00:00",
+  "sist_sjekket": "2026-11-28T12:20:32.372849+00:00",
   "funn": [
+    {
+      "tittel": "Stray kids album/kort",
+      "pris": 25,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481911296",
+      "funnet": "2026-11-28T12:20:32.371326+00:00",
+      "kategori": "store_samlinger",
+      "pris_pa_foresporsel": false
+    },
+    {
+      "tittel": "Pokemon TCG Ascended Heroes ETB",
+      "pris": 1699,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481610722",
+      "funnet": "2026-11-28T12:20:31.512092+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Diddl vintage kort",
       "pris": 150,
@@ -1182,22 +1198,6 @@
       "pris": 120,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481895041",
       "funnet": "2026-11-28T08:24:19.221004+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokemon Pikachu #247 PSA 9 samlekort",
-      "pris": 1200,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481895098",
-      "funnet": "2026-11-28T08:20:41.487947+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Cristiano Ronaldo – Topps Match Attax 24/25 Squadzone #SZ7",
-      "pris": 100,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481895148",
-      "funnet": "2026-11-28T08:20:41.193177+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
     }
