@@ -1,6 +1,14 @@
 {
-  "sist_sjekket": "2026-11-28T02:30:48.007649+00:00",
+  "sist_sjekket": "2026-11-28T02:32:20.007596+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Pansear – 021 – Stellar Crown – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891316",
+      "funnet": "2026-11-28T02:32:20.005583+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Firebreather – 089 – Phantasmal Flames – NM",
       "pris": 10,
@@ -1192,14 +1200,6 @@
       "funnet": "2026-11-28T00:42:28.264790+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Sableye V – 120/202 – SWSH01: Sword & Shield Base Set – LP",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890642",
-      "funnet": "2026-11-28T00:42:28.015993+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
     }
   ]
 }
