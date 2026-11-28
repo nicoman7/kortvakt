@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T00:36:20.777685+00:00",
+  "sist_sjekket": "2026-11-28T00:38:17.547279+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Rowlet – 013 – Obsidian Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890606",
+      "funnet": "2026-11-28T00:38:17.546072+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Surskit – 006 – Obsidian Flames – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890618",
+      "funnet": "2026-11-28T00:38:17.186351+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Bellibolt – 077 – Obsidian Flames – NM",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-27T22:56:20.285864+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Cranidos – 044/084 – Pitch Black – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889083",
-      "funnet": "2026-11-27T22:56:19.516399+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokemon sealed samling",
-      "pris": null,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481441452",
-      "funnet": "2026-11-27T22:56:19.123994+00:00",
-      "kategori": "store_samlinger",
-      "pris_pa_foresporsel": false
     }
   ]
 }
