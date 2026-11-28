@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T01:18:25.015039+00:00",
+  "sist_sjekket": "2026-11-28T01:20:32.724140+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Porygon – 116 – Chilling Reign – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481890970",
+      "funnet": "2026-11-28T01:20:32.722323+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokemon - engelsk & japansk",
+      "pris": 50,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/335287219",
+      "funnet": "2026-11-28T01:20:31.830750+00:00",
+      "kategori": "andre",
+      "pris_pa_foresporsel": false
+    },
     {
       "tittel": "Pokémon kort – Heracross – 006 – Chilling Reign – NM",
       "pris": 10,
@@ -1182,22 +1198,6 @@
       "pris": 10,
       "lenke": "https://www.finn.no/recommerce/forsale/item/481889778",
       "funnet": "2026-11-27T23:30:47.760199+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
-    },
-    {
-      "tittel": "Pokémon kort – Cynthia's Gible – 109 – Ascended Heroes – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889802",
-      "funnet": "2026-11-27T23:30:47.382565+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Dratini – 150 – Ascended Heroes – NM",
-      "pris": 19,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481889818",
-      "funnet": "2026-11-27T23:30:46.878170+00:00",
       "kategori": "pris_pa_foresporsel",
       "pris_pa_foresporsel": true
     }
