@@ -1,6 +1,22 @@
 {
-  "sist_sjekket": "2026-11-28T02:18:19.755600+00:00",
+  "sist_sjekket": "2026-11-28T02:20:30.482178+00:00",
   "funn": [
+    {
+      "tittel": "Pokémon kort – Phantump – 038 – Chaos Rising – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891260",
+      "funnet": "2026-11-28T02:20:30.480734+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
+    {
+      "tittel": "Pokémon kort – Quilladin – 006 – Chaos Rising – NM",
+      "pris": 10,
+      "lenke": "https://www.finn.no/recommerce/forsale/item/481891265",
+      "funnet": "2026-11-28T02:20:29.902567+00:00",
+      "kategori": "pris_pa_foresporsel",
+      "pris_pa_foresporsel": true
+    },
     {
       "tittel": "Pokémon kort – Antique Armor Fossil – 072/084 – Pitch Black – LP",
       "pris": 10,
@@ -1184,22 +1200,6 @@
       "funnet": "2026-11-28T00:32:21.728347+00:00",
       "kategori": "andre",
       "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Team Rocket's Proton – 177 – Destined Rivals – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890538",
-      "funnet": "2026-11-28T00:30:48.062126+00:00",
-      "kategori": "andre",
-      "pris_pa_foresporsel": false
-    },
-    {
-      "tittel": "Pokémon kort – Torchic – 040 – Destined Rivals – NM",
-      "pris": 10,
-      "lenke": "https://www.finn.no/recommerce/forsale/item/481890545",
-      "funnet": "2026-11-28T00:30:47.640458+00:00",
-      "kategori": "pris_pa_foresporsel",
-      "pris_pa_foresporsel": true
     }
   ]
 }
